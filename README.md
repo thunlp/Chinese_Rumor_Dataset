@@ -23,6 +23,7 @@
 
 * 中文：
 
+```
 	@article{liu2015rumors,
 	  title={中文社交媒体谣言统计语义分析},
 	  author={刘知远 and 张乐 and 涂存超 and 孙茂松},
@@ -30,10 +31,11 @@
 	  volume={12},
 	  pages={1536--1546},
 	  year={2015}
-	}
+```
 
 * English：
 
+```
 	@article{liu2015rumors,
 	  title={Statistical and semantic analysis of rumors in Chinese social media},
 	  author={Liu, Zhiyuan and Zhang, Le and Tu, Cunchao and Sun, Maosong},
@@ -43,3 +45,4 @@
 	  pages={1536},
 	  year={2015}
 	}
+```
