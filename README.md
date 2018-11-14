@@ -31,6 +31,7 @@
 	  volume={12},
 	  pages={1536--1546},
 	  year={2015}
+	}
 ```
 
 * English：
