@@ -1,0 +1,5606 @@
+[
+{
+"kids":[],
+"uid":"3043941254",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmUUcdjPB",
+"date":"2013-12-12 09:44:44"
+},
+{
+"kids":[],
+"uid":"3044719382",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmUm30md1",
+"date":"2013-12-12 08:20:37"
+},
+{
+"kids":[],
+"uid":"3045364730",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmUh6iiCA",
+"date":"2013-12-12 08:08:25"
+},
+{
+"kids":[],
+"uid":"2919430680",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmMlhfM1q",
+"date":"2013-12-11 11:56:44"
+},
+{
+"kids":[],
+"uid":"2920369634",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmMjUaeIX",
+"date":"2013-12-11 11:53:20"
+},
+{
+"kids":[],
+"uid":"2919710730",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmKF39yRp",
+"date":"2013-12-11 07:39:57"
+},
+{
+"kids":[],
+"uid":"1725632210",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmCVcptnr",
+"date":"2013-12-10 11:57:46"
+},
+{
+"kids":[],
+"uid":"2919338410",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmBuhq7LA",
+"date":"2013-12-10 08:18:41"
+},
+{
+"kids":[],
+"uid":"2805205910",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmBaWkTFC",
+"date":"2013-12-10 07:31:03"
+},
+{
+"kids":[],
+"uid":"1589513922",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmsY1mToP",
+"date":"2013-12-09 10:37:15"
+},
+{
+"kids":[],
+"uid":"1583032317",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"Ams5e8tmY",
+"date":"2013-12-09 08:22:15"
+},
+{
+"kids":[],
+"uid":"3043559220",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmlrCvDZ1",
+"date":"2013-12-08 15:28:12"
+},
+{
+"kids":[],
+"uid":"2920056712",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AmlmWDILE",
+"date":"2013-12-08 15:16:39"
+},
+{
+"kids":[],
+"uid":"2789820382",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"Alynst4x5",
+"date":"2013-12-03 10:33:21"
+},
+{
+"kids":[],
+"uid":"1777509402",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"Alxe5becy",
+"date":"2013-12-03 07:37:31"
+},
+{
+"kids":[],
+"uid":"3637016504",
+"parent":"",
+"text":"",
+"mid":"Ai5uFjqFa",
+"date":"2013-11-10 15:30:32"
+},
+{
+"kids":[],
+"uid":"1581769652",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"Ai4nUfrfu",
+"date":"2013-11-10 12:41:09"
+},
+{
+"kids":[],
+"uid":"3191317390",
+"parent":"Ai3At8pjp",
+"text":"@冰-尝到瀜化",
+"mid":"Ai3Ryu7Um",
+"date":"2013-11-10 11:21:26"
+},
+{
+"kids":[
+"Ai3Ryu7Um"
+],
+"uid":"2803168380",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"Ai3At8pjp",
+"date":"2013-11-10 10:39:20"
+},
+{
+"kids":[],
+"uid":"3896274011",
+"parent":"AhhaIenxh",
+"text":"",
+"mid":"AhCByutjG",
+"date":"2013-11-07 13:57:52"
+},
+{
+"kids":[],
+"uid":"2920526130",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AhkhmBcD3",
+"date":"2013-11-05 15:18:41"
+},
+{
+"kids":[
+"AhCByutjG"
+],
+"uid":"2920310394",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AhhaIenxh",
+"date":"2013-11-05 07:24:02"
+},
+{
+"kids":[],
+"uid":"2920462162",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AhaiahQNY",
+"date":"2013-11-04 13:53:10"
+},
+{
+"kids":[],
+"uid":"1440502671",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AgfuVnMCC",
+"date":"2013-10-29 13:18:01"
+},
+{
+"kids":[],
+"uid":"1353475371",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"Ag4700TAA",
+"date":"2013-10-28 08:18:53"
+},
+{
+"kids":[],
+"uid":"2919909142",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"Ag3TW3YmR",
+"date":"2013-10-28 07:46:41"
+},
+{
+"kids":[],
+"uid":"2809533472",
+"parent":"Ae2yf56TV",
+"text":"",
+"mid":"AfiCeBPEv",
+"date":"2013-10-23 07:23:59"
+},
+{
+"kids":[
+"AmUUcdjPB",
+"AmUm30md1",
+"AmUh6iiCA",
+"AmMlhfM1q",
+"AmMjUaeIX",
+"AmKF39yRp",
+"AmCVcptnr",
+"AmBuhq7LA",
+"AmBaWkTFC",
+"AmsY1mToP",
+"Ams5e8tmY",
+"AmlrCvDZ1",
+"AmlmWDILE",
+"Alynst4x5",
+"Alxe5becy",
+"Ai4nUfrfu",
+"Ai3Ryu7Um",
+"Ai3At8pjp",
+"AhCByutjG",
+"AhkhmBcD3",
+"AhhaIenxh",
+"AhaiahQNY",
+"AgfuVnMCC",
+"Ag4700TAA",
+"Ag3TW3YmR",
+"AfiCeBPEv"
+],
+"uid":"1719265885",
+"parent":"A21wFrh8e",
+"text":"",
+"mid":"Ae2yf56TV",
+"date":"2013-10-15 00:39:54"
+},
+{
+"kids":[],
+"uid":"marcothong",
+"parent":"A21wMfeq6",
+"text":"",
+"mid":"AcvuDFtAi",
+"date":"2013-10-04 22:40:05"
+},
+{
+"kids":[],
+"uid":"2963285773",
+"parent":"A21wFrh8e",
+"text":"",
+"mid":"Ab05Hs8pS",
+"date":"2013-09-25 00:53:12"
+},
+{
+"kids":[],
+"uid":"caoxuemei",
+"parent":"A2ny5xNbc",
+"text":"",
+"mid":"Aawu8y7ey",
+"date":"2013-09-21 21:30:59"
+},
+{
+"kids":[],
+"uid":"ILOVESHARING",
+"parent":"",
+"text":"轉發微博",
+"mid":"A9Qx1AeAY",
+"date":"2013-09-17 10:42:45"
+},
+{
+"kids":[],
+"uid":"kekaodehaidao",
+"parent":"",
+"text":"转发微博。",
+"mid":"A7JMFsmCM",
+"date":"2013-09-03 13:51:24"
+},
+{
+"kids":[],
+"uid":"1734775221",
+"parent":"",
+"text":"[围观]",
+"mid":"A71Qgahyc",
+"date":"2013-08-29 21:59:25"
+},
+{
+"kids":[],
+"uid":"2805450882",
+"parent":"A2DbbqWiw",
+"text":"",
+"mid":"A6fvQuGhO",
+"date":"2013-08-24 18:57:13"
+},
+{
+"kids":[],
+"uid":"523567070",
+"parent":"",
+"text":"午安",
+"mid":"A6dO442hW",
+"date":"2013-08-24 14:36:40"
+},
+{
+"kids":[],
+"uid":"1zty",
+"parent":"A27MnpW7G",
+"text":"",
+"mid":"A5OJy2GxM",
+"date":"2013-08-21 22:46:52"
+},
+{
+"kids":[],
+"uid":"2919294514",
+"parent":"A24xYh2Oj",
+"text":"",
+"mid":"A58oryG8g",
+"date":"2013-08-17 10:59:31"
+},
+{
+"kids":[],
+"uid":"1582526134",
+"parent":"A223LCdYx",
+"text":"",
+"mid":"A4Qw7cgA4",
+"date":"2013-08-15 13:28:56"
+},
+{
+"kids":[],
+"uid":"2919338932",
+"parent":"A22n7jPTA",
+"text":"",
+"mid":"A4FHWzg5C",
+"date":"2013-08-14 09:57:54"
+},
+{
+"kids":[],
+"uid":"2919826170",
+"parent":"A22n7jPTA",
+"text":"",
+"mid":"A4F7qvQH3",
+"date":"2013-08-14 08:27:55"
+},
+{
+"kids":[],
+"uid":"2919958522",
+"parent":"A24xYh2Oj",
+"text":"",
+"mid":"A4ePpgVtv",
+"date":"2013-08-11 13:32:07"
+},
+{
+"kids":[],
+"uid":"2920512120",
+"parent":"A24xYh2Oj",
+"text":"",
+"mid":"A4eAdx2yU",
+"date":"2013-08-11 12:54:42"
+},
+{
+"kids":[],
+"uid":"1725421527",
+"parent":"A223LCdYx",
+"text":"",
+"mid":"A45t0fq53",
+"date":"2013-08-10 13:42:11"
+},
+{
+"kids":[],
+"uid":"3044311900",
+"parent":"A223LCdYx",
+"text":"",
+"mid":"A441ukwFO",
+"date":"2013-08-10 10:01:38"
+},
+{
+"kids":[],
+"uid":"2168616467",
+"parent":"A2DbbqWiw",
+"text":"",
+"mid":"A3Dk00KC6",
+"date":"2013-08-07 14:03:04"
+},
+{
+"kids":[],
+"uid":"2919597730",
+"parent":"A22n7jPTA",
+"text":"",
+"mid":"A3AP241xC",
+"date":"2013-08-07 07:41:19"
+},
+{
+"kids":[],
+"uid":"2919978252",
+"parent":"A22n7jPTA",
+"text":"",
+"mid":"A3tyH2aoY",
+"date":"2013-08-06 13:11:50"
+},
+{
+"kids":[],
+"uid":"1588498975",
+"parent":"A29YeqvZ0",
+"text":"",
+"mid":"A3tj8vIRr",
+"date":"2013-08-06 12:33:31"
+},
+{
+"kids":[],
+"uid":"3043649662",
+"parent":"A22n7jPTA",
+"text":"",
+"mid":"A3sBxmDzx",
+"date":"2013-08-06 10:46:06"
+},
+{
+"kids":[],
+"uid":"2920291722",
+"parent":"A29YeqvZ0",
+"text":"",
+"mid":"A3snT5Qbh",
+"date":"2013-08-06 10:12:26"
+},
+{
+"kids":[],
+"uid":"2920029824",
+"parent":"A2DbbqWiw",
+"text":"",
+"mid":"A3rLRCQG0",
+"date":"2013-08-06 08:38:46"
+},
+{
+"kids":[],
+"uid":"2919865774",
+"parent":"A2DbbqWiw",
+"text":"",
+"mid":"A3rt29bHp",
+"date":"2013-08-06 07:52:23"
+},
+{
+"kids":[],
+"uid":"2163447114",
+"parent":"",
+"text":"",
+"mid":"A3nhxcEVp",
+"date":"2013-08-05 21:13:04"
+},
+{
+"kids":[],
+"uid":"3045378574",
+"parent":"A24xYh2Oj",
+"text":"",
+"mid":"A39EAAIkN",
+"date":"2013-08-04 10:31:26"
+},
+{
+"kids":[],
+"uid":"2919456590",
+"parent":"A223LCdYx",
+"text":"",
+"mid":"A38WCotZx",
+"date":"2013-08-04 08:43:04"
+},
+{
+"kids":[],
+"uid":"1589706763",
+"parent":"A223LCdYx",
+"text":"",
+"mid":"A31iY68Te",
+"date":"2013-08-03 13:16:11"
+},
+{
+"kids":[],
+"uid":"2809202774",
+"parent":"A223LCdYx",
+"text":"",
+"mid":"A31ifsw7x",
+"date":"2013-08-03 13:14:25"
+},
+{
+"kids":[],
+"uid":"3044783810",
+"parent":"A24rUpgBf",
+"text":"",
+"mid":"A31a19prz",
+"date":"2013-08-03 12:54:07"
+},
+{
+"kids":[],
+"uid":"2310535010",
+"parent":"",
+"text":"",
+"mid":"A30GWmYxV",
+"date":"2013-08-03 11:42:29"
+},
+{
+"kids":[],
+"uid":"2805188124",
+"parent":"A24xYh2Oj",
+"text":"",
+"mid":"A30wHCdDP",
+"date":"2013-08-03 11:17:16"
+},
+{
+"kids":[],
+"uid":"2804203342",
+"parent":"A24rUpgBf",
+"text":"",
+"mid":"A3091laFP",
+"date":"2013-08-03 10:18:54"
+},
+{
+"kids":[],
+"uid":"2804603242",
+"parent":"A24xYh2Oj",
+"text":"",
+"mid":"A2YUX17NP",
+"date":"2013-08-03 07:11:30"
+},
+{
+"kids":[],
+"uid":"1869108893",
+"parent":"A21R4rou2",
+"text":"拥有的，保持；还不够好的，努力完善！[威武]",
+"mid":"A2M5mu7kJ",
+"date":"2013-08-01 22:31:27"
+},
+{
+"kids":[],
+"uid":"2920584790",
+"parent":"A22n7jPTA",
+"text":"",
+"mid":"A2JaauETE",
+"date":"2013-08-01 15:05:04"
+},
+{
+"kids":[],
+"uid":"2063212397",
+"parent":"",
+"text":"",
+"mid":"A2IxB6Gkq",
+"date":"2013-08-01 13:30:02"
+},
+{
+"kids":[],
+"uid":"2804179054",
+"parent":"A22n7jPTA",
+"text":"",
+"mid":"A2HzNwXIx",
+"date":"2013-08-01 11:02:43"
+},
+{
+"kids":[],
+"uid":"3044543844",
+"parent":"A2DbbqWiw",
+"text":"",
+"mid":"A2H9i1t36",
+"date":"2013-08-01 09:57:24"
+},
+{
+"kids":[],
+"uid":"2919286500",
+"parent":"A2DbbqWiw",
+"text":"",
+"mid":"A2GQiayE7",
+"date":"2013-08-01 09:10:34"
+},
+{
+"kids":[],
+"uid":"2919727590",
+"parent":"A25BPmfqp",
+"text":"",
+"mid":"A2G0Y1J7Q",
+"date":"2013-08-01 07:04:08"
+},
+{
+"kids":[
+"A6fvQuGhO",
+"A3Dk00KC6",
+"A3rLRCQG0",
+"A3rt29bHp",
+"A2H9i1t36",
+"A2GQiayE7"
+],
+"uid":"2912553767",
+"parent":"A2ytXCfnG",
+"text":"",
+"mid":"A2DbbqWiw",
+"date":"2013-07-31 23:51:03"
+},
+{
+"kids":[
+"A6fvQuGhO",
+"A3Dk00KC6",
+"A3rLRCQG0",
+"A3rt29bHp",
+"A2H9i1t36",
+"A2GQiayE7",
+"A2DbbqWiw"
+],
+"uid":"1776209561",
+"parent":"A25BPmfqp",
+"text":"",
+"mid":"A2ytXCfnG",
+"date":"2013-07-31 11:53:35"
+},
+{
+"kids":[],
+"uid":"2920349574",
+"parent":"A21CJk0vw",
+"text":"",
+"mid":"A2yoOvCep",
+"date":"2013-07-31 11:40:56"
+},
+{
+"kids":[],
+"uid":"3045012274",
+"parent":"A25BPmfqp",
+"text":"",
+"mid":"A2y98lTXw",
+"date":"2013-07-31 11:02:19"
+},
+{
+"kids":[],
+"uid":"1583095355",
+"parent":"A21CJk0vw",
+"text":"",
+"mid":"A2wJcuv6u",
+"date":"2013-07-31 07:25:40"
+},
+{
+"kids":[],
+"uid":"2445469161",
+"parent":"A24HfgfYT",
+"text":"",
+"mid":"A2sTxennJ",
+"date":"2013-07-30 21:40:07"
+},
+{
+"kids":[],
+"uid":"2810504534",
+"parent":"",
+"text":"",
+"mid":"A2pd9hAHW",
+"date":"2013-07-30 12:17:27"
+},
+{
+"kids":[],
+"uid":"3044098500",
+"parent":"",
+"text":"",
+"mid":"A2otebupq",
+"date":"2013-07-30 10:24:18"
+},
+{
+"kids":[],
+"uid":"2919466480",
+"parent":"A25Aw8Z5I",
+"text":"",
+"mid":"A2oesqK7D",
+"date":"2013-07-30 09:47:57"
+},
+{
+"kids":[],
+"uid":"2790055214",
+"parent":"A29YeqvZ0",
+"text":"",
+"mid":"A2obR7CTp",
+"date":"2013-07-30 09:41:32"
+},
+{
+"kids":[],
+"uid":"3043528260",
+"parent":"A25Aw8Z5I",
+"text":"",
+"mid":"A2nDUjUTq",
+"date":"2013-07-30 08:17:54"
+},
+{
+"kids":[
+"Aawu8y7ey"
+],
+"uid":"1246078394",
+"parent":"A25jyrL4p",
+"text":"",
+"mid":"A2ny5xNbc",
+"date":"2013-07-30 08:03:33"
+},
+{
+"kids":[],
+"uid":"1976599152",
+"parent":"",
+"text":"",
+"mid":"A2ncYchxm",
+"date":"2013-07-30 07:11:32"
+},
+{
+"kids":[],
+"uid":"2808469284",
+"parent":"A26p4poqR",
+"text":"",
+"mid":"A2hERDrts",
+"date":"2013-07-29 17:03:48"
+},
+{
+"kids":[],
+"uid":"1583932137",
+"parent":"A21JeD2Qi",
+"text":"",
+"mid":"A2hotteWk",
+"date":"2013-07-29 16:23:24"
+},
+{
+"kids":[],
+"uid":"2577463854",
+"parent":"",
+"text":"我想我有一半",
+"mid":"A2hjs31Z2",
+"date":"2013-07-29 16:10:59"
+},
+{
+"kids":[],
+"uid":"2803492290",
+"parent":"A24xYh2Oj",
+"text":"",
+"mid":"A2gQqby0o",
+"date":"2013-07-29 14:59:28"
+},
+{
+"kids":[],
+"uid":"2803512860",
+"parent":"A29YeqvZ0",
+"text":"",
+"mid":"A2ghEyRvT",
+"date":"2013-07-29 13:33:49"
+},
+{
+"kids":[],
+"uid":"2804198802",
+"parent":"A223LCdYx",
+"text":"",
+"mid":"A2ghn8eun",
+"date":"2013-07-29 13:33:08"
+},
+{
+"kids":[],
+"uid":"2071332145",
+"parent":"",
+"text":"太理想了",
+"mid":"A2fZNoSoJ",
+"date":"2013-07-29 12:49:51"
+},
+{
+"kids":[],
+"uid":"3043416334",
+"parent":"A29YeqvZ0",
+"text":"",
+"mid":"A2fVq6W7N",
+"date":"2013-07-29 12:39:03"
+},
+{
+"kids":[],
+"uid":"1440453727",
+"parent":"A21JeD2Qi",
+"text":"",
+"mid":"A2fRla28i",
+"date":"2013-07-29 12:29:00"
+},
+{
+"kids":[],
+"uid":"3044715614",
+"parent":"A24xYh2Oj",
+"text":"",
+"mid":"A2fvzkYaF",
+"date":"2013-07-29 11:35:22"
+},
+{
+"kids":[],
+"uid":"3194737904",
+"parent":"",
+"text":"0",
+"mid":"A2fdFtQzQ",
+"date":"2013-07-29 10:51:17"
+},
+{
+"kids":[],
+"uid":"smilemonana",
+"parent":"A29kFx5Ao",
+"text":"",
+"mid":"A2f5OfEmd",
+"date":"2013-07-29 10:31:55"
+},
+{
+"kids":[],
+"uid":"2112602111",
+"parent":"A2a4QgHef",
+"text":"",
+"mid":"A2eN15KS4",
+"date":"2013-07-29 09:45:37"
+},
+{
+"kids":[],
+"uid":"2790079054",
+"parent":"",
+"text":"",
+"mid":"A2eGoCAZz",
+"date":"2013-07-29 09:29:18"
+},
+{
+"kids":[],
+"uid":"3045264812",
+"parent":"",
+"text":"",
+"mid":"A2ecGypKK",
+"date":"2013-07-29 08:16:06"
+},
+{
+"kids":[],
+"uid":"3044963370",
+"parent":"A223LCdYx",
+"text":"",
+"mid":"A2dRb00qa",
+"date":"2013-07-29 07:23:07"
+},
+{
+"kids":[],
+"uid":"1792038024",
+"parent":"",
+"text":"",
+"mid":"A2bgdCgDC",
+"date":"2013-07-29 00:46:36"
+},
+{
+"kids":[],
+"uid":"333572650",
+"parent":"",
+"text":".",
+"mid":"A2b1dpmp3",
+"date":"2013-07-29 00:09:34"
+},
+{
+"kids":[],
+"uid":"2664300883",
+"parent":"",
+"text":"转发微博。",
+"mid":"A2aMP4rHn",
+"date":"2013-07-28 23:34:10"
+},
+{
+"kids":[],
+"uid":"2182921924",
+"parent":"",
+"text":"@丫丫知语 @秋-小样 @幽忧奶咖 你们拥有几个啊！",
+"mid":"A2aByxAnT",
+"date":"2013-07-28 23:06:23"
+},
+{
+"kids":[],
+"uid":"lvyixia",
+"parent":"",
+"text":"奢侈品",
+"mid":"A2auwDxUF",
+"date":"2013-07-28 22:49:03"
+},
+{
+"kids":[],
+"uid":"cchuasky",
+"parent":"A2acqoiQr",
+"text":"",
+"mid":"A2alErq4J",
+"date":"2013-07-28 22:27:11"
+},
+{
+"kids":[],
+"uid":"1889397575",
+"parent":"A221obhnY",
+"text":"",
+"mid":"A2alx4hjh",
+"date":"2013-07-28 22:26:54"
+},
+{
+"kids":[],
+"uid":"1777832861",
+"parent":"A223iFzto",
+"text":"[熊猫]",
+"mid":"A2ag19OmH",
+"date":"2013-07-28 22:13:20"
+},
+{
+"kids":[
+"A2alErq4J"
+],
+"uid":"5wangchang",
+"parent":"",
+"text":"明天又是新的一天[太阳]默默奋斗，生生不息",
+"mid":"A2acqoiQr",
+"date":"2013-07-28 22:04:29"
+},
+{
+"kids":[
+"A2eN15KS4"
+],
+"uid":"2261693182",
+"parent":"",
+"text":"",
+"mid":"A2a4QgHef",
+"date":"2013-07-28 21:45:46"
+},
+{
+"kids":[
+"A3tj8vIRr",
+"A3snT5Qbh",
+"A2obR7CTp",
+"A2ghEyRvT",
+"A2fVq6W7N"
+],
+"uid":"1664049833",
+"parent":"",
+"text":"我平凡！我拥有。",
+"mid":"A29YeqvZ0",
+"date":"2013-07-28 21:29:29"
+},
+{
+"kids":[],
+"uid":"2287579913",
+"parent":"",
+"text":"",
+"mid":"A29WmhGZf",
+"date":"2013-07-28 21:24:52"
+},
+{
+"kids":[
+"A2f5OfEmd"
+],
+"uid":"2130397390",
+"parent":"",
+"text":"转发微博。",
+"mid":"A29kFx5Ao",
+"date":"2013-07-28 19:52:01"
+},
+{
+"kids":[],
+"uid":"2271347694",
+"parent":"",
+"text":"",
+"mid":"A28ZPDTkD",
+"date":"2013-07-28 19:00:44"
+},
+{
+"kids":[],
+"uid":"3058038623",
+"parent":"",
+"text":"转发微博。",
+"mid":"A28YnthST",
+"date":"2013-07-28 18:57:09"
+},
+{
+"kids":[],
+"uid":"2939711831",
+"parent":"A26p4poqR",
+"text":"[笑哈哈]",
+"mid":"A28WZekk6",
+"date":"2013-07-28 18:53:43"
+},
+{
+"kids":[],
+"uid":"1791645127",
+"parent":"",
+"text":"",
+"mid":"A28Fi6WX8",
+"date":"2013-07-28 18:10:04"
+},
+{
+"kids":[],
+"uid":"1687991863",
+"parent":"",
+"text":"转发微博。",
+"mid":"A28CEFzny",
+"date":"2013-07-28 18:03:37"
+},
+{
+"kids":[],
+"uid":"3171013723",
+"parent":"",
+"text":"",
+"mid":"A28ADFI5z",
+"date":"2013-07-28 17:58:39"
+},
+{
+"kids":[],
+"uid":"3532962983",
+"parent":"",
+"text":"+1",
+"mid":"A28wkxYSS",
+"date":"2013-07-28 17:48:02"
+},
+{
+"kids":[],
+"uid":"3602690272",
+"parent":"",
+"text":"",
+"mid":"A28o0BtvA",
+"date":"2013-07-28 17:27:31"
+},
+{
+"kids":[],
+"uid":"1948021390",
+"parent":"",
+"text":"[耶]",
+"mid":"A28mHEFbX",
+"date":"2013-07-28 17:24:17"
+},
+{
+"kids":[],
+"uid":"2626546335",
+"parent":"",
+"text":"",
+"mid":"A289Sv9oq",
+"date":"2013-07-28 16:52:43"
+},
+{
+"kids":[],
+"uid":"2384849731",
+"parent":"",
+"text":"",
+"mid":"A27Ytnj65",
+"date":"2013-07-28 16:24:37"
+},
+{
+"kids":[],
+"uid":"3073951132",
+"parent":"",
+"text":"",
+"mid":"A27VGdfmx",
+"date":"2013-07-28 16:17:44"
+},
+{
+"kids":[],
+"uid":"microlean",
+"parent":"",
+"text":"",
+"mid":"A27OAf0p9",
+"date":"2013-07-28 16:00:15"
+},
+{
+"kids":[
+"A5OJy2GxM"
+],
+"uid":"2583866480",
+"parent":"",
+"text":"太穷咯",
+"mid":"A27MnpW7G",
+"date":"2013-07-28 15:54:49"
+},
+{
+"kids":[],
+"uid":"603370125",
+"parent":"",
+"text":"人生奢侈品，你拥有几个？请珍惜！",
+"mid":"A27HPwOnB",
+"date":"2013-07-28 15:43:37"
+},
+{
+"kids":[],
+"uid":"2175669231",
+"parent":"A27mQcddQ",
+"text":"[围观]",
+"mid":"A27EVil3l",
+"date":"2013-07-28 15:36:25"
+},
+{
+"kids":[],
+"uid":"investorchen",
+"parent":"",
+"text":"@蔡蔡CDC @笑话码头 @李小原meatball @Lazylillian @Dobbie_冬冬 @十二月的流浪猫",
+"mid":"A27rNrAUF",
+"date":"2013-07-28 15:04:07"
+},
+{
+"kids":[],
+"uid":"2884832545",
+"parent":"",
+"text":"",
+"mid":"A27n8ujm1",
+"date":"2013-07-28 14:52:39"
+},
+{
+"kids":[
+"A27EVil3l"
+],
+"uid":"719278921",
+"parent":"A27lxwc4t",
+"text":"[转发]",
+"mid":"A27mQcddQ",
+"date":"2013-07-28 14:51:53"
+},
+{
+"kids":[],
+"uid":"ruan2011",
+"parent":"",
+"text":"",
+"mid":"A27lIaJ3A",
+"date":"2013-07-28 14:49:06"
+},
+{
+"kids":[
+"A27EVil3l",
+"A27mQcddQ"
+],
+"uid":"717310128",
+"parent":"A21RBvuOF",
+"text":"[转发]",
+"mid":"A27lxwc4t",
+"date":"2013-07-28 14:48:41"
+},
+{
+"kids":[],
+"uid":"1584563780",
+"parent":"",
+"text":"",
+"mid":"A27k9w26u",
+"date":"2013-07-28 14:45:16"
+},
+{
+"kids":[],
+"uid":"3537113155",
+"parent":"",
+"text":"",
+"mid":"A26UwjFJZ",
+"date":"2013-07-28 13:42:08"
+},
+{
+"kids":[],
+"uid":"513967836",
+"parent":"",
+"text":"yes",
+"mid":"A26MwtwBF",
+"date":"2013-07-28 13:22:26"
+},
+{
+"kids":[],
+"uid":"1941201071",
+"parent":"",
+"text":"[心][心][心][心]",
+"mid":"A26GP7Nfo",
+"date":"2013-07-28 13:08:21"
+},
+{
+"kids":[],
+"uid":"2804908060",
+"parent":"A26p4poqR",
+"text":"",
+"mid":"A26GslgRn",
+"date":"2013-07-28 13:07:29"
+},
+{
+"kids":[],
+"uid":"3231777280",
+"parent":"",
+"text":"",
+"mid":"A26BCaMd2",
+"date":"2013-07-28 12:55:33"
+},
+{
+"kids":[],
+"uid":"2919505930",
+"parent":"A26p4poqR",
+"text":"",
+"mid":"A26ATtrUA",
+"date":"2013-07-28 12:53:45"
+},
+{
+"kids":[],
+"uid":"1647699960",
+"parent":"",
+"text":"",
+"mid":"A26ANk3c2",
+"date":"2013-07-28 12:53:32"
+},
+{
+"kids":[],
+"uid":"2163946330",
+"parent":"",
+"text":"我有几个？",
+"mid":"A26z6osnf",
+"date":"2013-07-28 12:49:21"
+},
+{
+"kids":[],
+"uid":"1808285947",
+"parent":"",
+"text":"[兔子][兔子]",
+"mid":"A26xolFEr",
+"date":"2013-07-28 12:45:09"
+},
+{
+"kids":[],
+"uid":"lanmeibai",
+"parent":"",
+"text":"一颗童心！",
+"mid":"A26s6l9eV",
+"date":"2013-07-28 12:32:07"
+},
+{
+"kids":[
+"A2hERDrts",
+"A28WZekk6",
+"A26GslgRn",
+"A26ATtrUA"
+],
+"uid":"3049053634",
+"parent":"",
+"text":"",
+"mid":"A26p4poqR",
+"date":"2013-07-28 12:24:39"
+},
+{
+"kids":[],
+"uid":"1833166977",
+"parent":"",
+"text":"",
+"mid":"A26nsuUnn",
+"date":"2013-07-28 12:20:41"
+},
+{
+"kids":[],
+"uid":"2283491031",
+"parent":"",
+"text":"",
+"mid":"A26n86UAD",
+"date":"2013-07-28 12:19:52"
+},
+{
+"kids":[],
+"uid":"1820774702",
+"parent":"",
+"text":"十足的奢侈品啊!",
+"mid":"A26mEip1b",
+"date":"2013-07-28 12:18:40"
+},
+{
+"kids":[],
+"uid":"2789897124",
+"parent":"A21zmESDh",
+"text":"",
+"mid":"A26hglJxN",
+"date":"2013-07-28 12:05:25"
+},
+{
+"kids":[],
+"uid":"3575990785",
+"parent":"",
+"text":"@东方神猴无土渣数升级版",
+"mid":"A26ggj5Bt",
+"date":"2013-07-28 12:02:57"
+},
+{
+"kids":[],
+"uid":"2166268104",
+"parent":"",
+"text":"精神上的奢侈品比物质上的更难得，希望某人能看到[爱你]",
+"mid":"A26fy0KL6",
+"date":"2013-07-28 12:01:10"
+},
+{
+"kids":[],
+"uid":"1878240231",
+"parent":"",
+"text":"修炼",
+"mid":"A26fjcFQr",
+"date":"2013-07-28 12:00:35"
+},
+{
+"kids":[],
+"uid":"3066718627",
+"parent":"",
+"text":"",
+"mid":"A26dDwO2z",
+"date":"2013-07-28 11:56:29"
+},
+{
+"kids":[],
+"uid":"2629900373",
+"parent":"",
+"text":"……",
+"mid":"A26a9eRZS",
+"date":"2013-07-28 11:47:52"
+},
+{
+"kids":[],
+"uid":"1791091143",
+"parent":"",
+"text":"",
+"mid":"A266Ad2Kv",
+"date":"2013-07-28 11:39:04"
+},
+{
+"kids":[],
+"uid":"2277256575",
+"parent":"",
+"text":"",
+"mid":"A264QlliT",
+"date":"2013-07-28 11:34:49"
+},
+{
+"kids":[],
+"uid":"1312503931",
+"parent":"",
+"text":"",
+"mid":"A260rhzXL",
+"date":"2013-07-28 11:23:58"
+},
+{
+"kids":[],
+"uid":"3087604415",
+"parent":"",
+"text":"@哎也妈呀",
+"mid":"A260hh8zB",
+"date":"2013-07-28 11:23:35"
+},
+{
+"kids":[],
+"uid":"2853951704",
+"parent":"",
+"text":"早安，我的奢侈品。[心]",
+"mid":"A25V87Xyt",
+"date":"2013-07-28 11:10:53"
+},
+{
+"kids":[],
+"uid":"3166269701",
+"parent":"",
+"text":"真的不是人人有！",
+"mid":"A25UKtbxc",
+"date":"2013-07-28 11:09:55"
+},
+{
+"kids":[],
+"uid":"2920052254",
+"parent":"A24M9nTk0",
+"text":"",
+"mid":"A25TAmC0x",
+"date":"2013-07-28 11:07:05"
+},
+{
+"kids":[],
+"uid":"3249110622",
+"parent":"",
+"text":"",
+"mid":"A25S52wpu",
+"date":"2013-07-28 11:03:22"
+},
+{
+"kids":[],
+"uid":"2702864743",
+"parent":"",
+"text":"",
+"mid":"A25QLaeXx",
+"date":"2013-07-28 11:00:08"
+},
+{
+"kids":[],
+"uid":"1864256732",
+"parent":"",
+"text":"",
+"mid":"A25MTuqno",
+"date":"2013-07-28 10:50:36"
+},
+{
+"kids":[],
+"uid":"2920381580",
+"parent":"",
+"text":"",
+"mid":"A25GkzgcI",
+"date":"2013-07-28 10:34:26"
+},
+{
+"kids":[],
+"uid":"2008917623",
+"parent":"",
+"text":"@小学生N01",
+"mid":"A25DXqR8P",
+"date":"2013-07-28 10:28:35"
+},
+{
+"kids":[
+"A6fvQuGhO",
+"A3Dk00KC6",
+"A3rLRCQG0",
+"A3rt29bHp",
+"A2H9i1t36",
+"A2GQiayE7",
+"A2G0Y1J7Q",
+"A2DbbqWiw",
+"A2ytXCfnG",
+"A2y98lTXw"
+],
+"uid":"1603378582",
+"parent":"",
+"text":"",
+"mid":"A25BPmfqp",
+"date":"2013-07-28 10:23:20"
+},
+{
+"kids":[
+"A2oesqK7D",
+"A2nDUjUTq"
+],
+"uid":"2673980024",
+"parent":"",
+"text":"",
+"mid":"A25Aw8Z5I",
+"date":"2013-07-28 10:20:06"
+},
+{
+"kids":[],
+"uid":"1918010215",
+"parent":"",
+"text":"",
+"mid":"A25yXuhk7",
+"date":"2013-07-28 10:16:15"
+},
+{
+"kids":[],
+"uid":"2156409030",
+"parent":"",
+"text":"",
+"mid":"A25yUuzV0",
+"date":"2013-07-28 10:16:08"
+},
+{
+"kids":[],
+"uid":"1857397634",
+"parent":"",
+"text":"你拥有那个",
+"mid":"A25yRfDaC",
+"date":"2013-07-28 10:16:01"
+},
+{
+"kids":[],
+"uid":"veraazhou",
+"parent":"",
+"text":"",
+"mid":"A25yriEXY",
+"date":"2013-07-28 10:14:57"
+},
+{
+"kids":[],
+"uid":"3174096802",
+"parent":"",
+"text":"最新世界排名前十位的奢侈品：1、一颗童心。2、生生不息的信念。3、背包走天下的健康体魄。4、愉悦和舒心的创业环境。5、安稳平和的睡眠。6、享受属于自己空间与时间的生活。7、牵手一个教会你爱与被爱的人。8、品味美好的心情。9、自由的心态与广阔的胸襟。10、点燃他人希望的精神特质。",
+"mid":"A25yrgGBs",
+"date":"2013-07-28 10:14:59"
+},
+{
+"kids":[],
+"uid":"1581671460",
+"parent":"A21zmESDh",
+"text":"",
+"mid":"A25yqF2E2",
+"date":"2013-07-28 10:14:59"
+},
+{
+"kids":[],
+"uid":"jonly505",
+"parent":"A21wZvyKo",
+"text":"转发微博。",
+"mid":"A25uXhgPg",
+"date":"2013-07-28 10:06:24"
+},
+{
+"kids":[],
+"uid":"2170204692",
+"parent":"",
+"text":"",
+"mid":"A25uaxtY4",
+"date":"2013-07-28 10:04:27"
+},
+{
+"kids":[],
+"uid":"2106100342",
+"parent":"",
+"text":"",
+"mid":"A25tloGsG",
+"date":"2013-07-28 10:02:26"
+},
+{
+"kids":[],
+"uid":"1328012213",
+"parent":"",
+"text":"保持一颗童心![委屈]",
+"mid":"A25sWjDeN",
+"date":"2013-07-28 10:01:25"
+},
+{
+"kids":[],
+"uid":"2920421314",
+"parent":"A21Ndo0pZ",
+"text":"",
+"mid":"A25s6x69g",
+"date":"2013-07-28 09:59:22"
+},
+{
+"kids":[],
+"uid":"2803155740",
+"parent":"A21Ndo0pZ",
+"text":"",
+"mid":"A25rIBU01",
+"date":"2013-07-28 09:58:25"
+},
+{
+"kids":[],
+"uid":"2299649420",
+"parent":"",
+"text":"",
+"mid":"A25nFqBlK",
+"date":"2013-07-28 09:48:27"
+},
+{
+"kids":[],
+"uid":"2919374894",
+"parent":"A24rUpgBf",
+"text":"",
+"mid":"A25mwwPhl",
+"date":"2013-07-28 09:45:38"
+},
+{
+"kids":[],
+"uid":"2982304907",
+"parent":"",
+"text":"",
+"mid":"A25lfjMn7",
+"date":"2013-07-28 09:42:29"
+},
+{
+"kids":[],
+"uid":"2982101374",
+"parent":"",
+"text":"轉發微博",
+"mid":"A25kC2CWn",
+"date":"2013-07-28 09:40:56"
+},
+{
+"kids":[
+"Aawu8y7ey",
+"A2ny5xNbc"
+],
+"uid":"chuyuxiaoguai8600",
+"parent":"A24KiqlHb",
+"text":"",
+"mid":"A25jyrL4p",
+"date":"2013-07-28 09:38:19"
+},
+{
+"kids":[],
+"uid":"1312659850",
+"parent":"",
+"text":"@_Qzi_",
+"mid":"A25jdu7Jq",
+"date":"2013-07-28 09:37:29"
+},
+{
+"kids":[],
+"uid":"1868413924",
+"parent":"",
+"text":"",
+"mid":"A25hUeT7C",
+"date":"2013-07-28 09:34:15"
+},
+{
+"kids":[],
+"uid":"3349978772",
+"parent":"",
+"text":"珍惜你现在所拥有的",
+"mid":"A25hPu2AR",
+"date":"2013-07-28 09:34:04"
+},
+{
+"kids":[],
+"uid":"2961254990",
+"parent":"",
+"text":"",
+"mid":"A25gS79A6",
+"date":"2013-07-28 09:31:42"
+},
+{
+"kids":[],
+"uid":"3514175920",
+"parent":"",
+"text":"你能拥有几样奢侈品？？",
+"mid":"A25fHpTfh",
+"date":"2013-07-28 09:28:49"
+},
+{
+"kids":[],
+"uid":"1747731331",
+"parent":"",
+"text":"",
+"mid":"A25ex2Nmf",
+"date":"2013-07-28 09:25:57"
+},
+{
+"kids":[],
+"uid":"2076778344",
+"parent":"",
+"text":"",
+"mid":"A25evuKdQ",
+"date":"2013-07-28 09:25:53"
+},
+{
+"kids":[],
+"uid":"2813836073",
+"parent":"",
+"text":"@桔梗花族",
+"mid":"A25dz1AnL",
+"date":"2013-07-28 09:23:33"
+},
+{
+"kids":[],
+"uid":"2880657840",
+"parent":"",
+"text":"",
+"mid":"A25dwDrQM",
+"date":"2013-07-28 09:23:28"
+},
+{
+"kids":[],
+"uid":"1627831044",
+"parent":"",
+"text":"",
+"mid":"A25cTmVFm",
+"date":"2013-07-28 09:21:53"
+},
+{
+"kids":[],
+"uid":"onlylxm",
+"parent":"",
+"text":"",
+"mid":"A25cBDRUs",
+"date":"2013-07-28 09:21:12"
+},
+{
+"kids":[],
+"uid":"1915571245",
+"parent":"",
+"text":"",
+"mid":"A25cyoVnB",
+"date":"2013-07-28 09:21:03"
+},
+{
+"kids":[],
+"uid":"2502429200",
+"parent":"",
+"text":"",
+"mid":"A25b84hC3",
+"date":"2013-07-28 09:17:33"
+},
+{
+"kids":[],
+"uid":"1772551457",
+"parent":"",
+"text":"",
+"mid":"A25b2rcXl",
+"date":"2013-07-28 09:17:20"
+},
+{
+"kids":[],
+"uid":"gdoucaoxing",
+"parent":"",
+"text":"",
+"mid":"A25aI3Rl7",
+"date":"2013-07-28 09:16:31"
+},
+{
+"kids":[],
+"uid":"2426770300",
+"parent":"",
+"text":"",
+"mid":"A25aq1fcw",
+"date":"2013-07-28 09:15:47"
+},
+{
+"kids":[],
+"uid":"2526601030",
+"parent":"",
+"text":"的确很昂贵",
+"mid":"A25a52gnM",
+"date":"2013-07-28 09:14:57"
+},
+{
+"kids":[],
+"uid":"3115751042",
+"parent":"",
+"text":"",
+"mid":"A2592Bwwf",
+"date":"2013-07-28 09:12:24"
+},
+{
+"kids":[],
+"uid":"2133302502",
+"parent":"",
+"text":"",
+"mid":"A258qcydB",
+"date":"2013-07-28 09:10:51"
+},
+{
+"kids":[],
+"uid":"2643016307",
+"parent":"",
+"text":"",
+"mid":"A257z0SmK",
+"date":"2013-07-28 09:08:45"
+},
+{
+"kids":[],
+"uid":"2567869220",
+"parent":"",
+"text":"",
+"mid":"A257sdU7m",
+"date":"2013-07-28 09:08:30"
+},
+{
+"kids":[],
+"uid":"2264030670",
+"parent":"",
+"text":"或许我们会发现都拥有过，但从未有过它们相聚的一刻。。。",
+"mid":"A257oopXv",
+"date":"2013-07-28 09:08:20"
+},
+{
+"kids":[],
+"uid":"1865510095",
+"parent":"",
+"text":"",
+"mid":"A256T3ZZj",
+"date":"2013-07-28 09:07:05"
+},
+{
+"kids":[],
+"uid":"familycfo",
+"parent":"",
+"text":"你，值得拥有！",
+"mid":"A2563imjx",
+"date":"2013-07-28 09:05:03"
+},
+{
+"kids":[],
+"uid":"2904545485",
+"parent":"",
+"text":"",
+"mid":"A255msdaG",
+"date":"2013-07-28 09:03:21"
+},
+{
+"kids":[],
+"uid":"3460817020",
+"parent":"",
+"text":"",
+"mid":"A253UBxto",
+"date":"2013-07-28 08:59:48"
+},
+{
+"kids":[],
+"uid":"2814124122",
+"parent":"",
+"text":"你有哪些呢…[思考]",
+"mid":"A253MoxKp",
+"date":"2013-07-28 08:59:27"
+},
+{
+"kids":[],
+"uid":"1977664920",
+"parent":"",
+"text":"",
+"mid":"A253t9LRe",
+"date":"2013-07-28 08:58:41"
+},
+{
+"kids":[],
+"uid":"wukunlian",
+"parent":"",
+"text":"",
+"mid":"A251S9w6N",
+"date":"2013-07-28 08:54:46"
+},
+{
+"kids":[],
+"uid":"irenelingpsh",
+"parent":"",
+"text":"正解！[good][good]",
+"mid":"A251ezQND",
+"date":"2013-07-28 08:53:10"
+},
+{
+"kids":[],
+"uid":"1743651473",
+"parent":"",
+"text":"",
+"mid":"A251bDrj4",
+"date":"2013-07-28 08:53:03"
+},
+{
+"kids":[],
+"uid":"2421447870",
+"parent":"A21EP2NA3",
+"text":"[爱你]",
+"mid":"A250Wye1H",
+"date":"2013-07-28 08:52:27"
+},
+{
+"kids":[],
+"uid":"2289420074",
+"parent":"",
+"text":"",
+"mid":"A24ZsFDFM",
+"date":"2013-07-28 08:48:48"
+},
+{
+"kids":[],
+"uid":"3203396621",
+"parent":"",
+"text":"",
+"mid":"A24ZfFrE4",
+"date":"2013-07-28 08:48:18"
+},
+{
+"kids":[],
+"uid":"1745693907",
+"parent":"",
+"text":"",
+"mid":"A24Y9mPqm",
+"date":"2013-07-28 08:45:34"
+},
+{
+"kids":[],
+"uid":"1657816400",
+"parent":"",
+"text":"",
+"mid":"A24XroBUw",
+"date":"2013-07-28 08:43:50"
+},
+{
+"kids":[],
+"uid":"1603127013",
+"parent":"",
+"text":"",
+"mid":"A24X0u46q",
+"date":"2013-07-28 08:42:45"
+},
+{
+"kids":[],
+"uid":"2127542131",
+"parent":"",
+"text":"[思考]",
+"mid":"A24WXf803",
+"date":"2013-07-28 08:42:37"
+},
+{
+"kids":[],
+"uid":"bloveling",
+"parent":"A21Bimnmw",
+"text":"我想我有第一个[可爱]",
+"mid":"A24SXC1Ta",
+"date":"2013-07-28 08:32:48"
+},
+{
+"kids":[],
+"uid":"2560590074",
+"parent":"",
+"text":"",
+"mid":"A24SQdlfo",
+"date":"2013-07-28 08:32:30"
+},
+{
+"kids":[],
+"uid":"2794320684",
+"parent":"",
+"text":"",
+"mid":"A24StbRac",
+"date":"2013-07-28 08:31:35"
+},
+{
+"kids":[],
+"uid":"1139190137",
+"parent":"",
+"text":"",
+"mid":"A24Sh2H6H",
+"date":"2013-07-28 08:31:06"
+},
+{
+"kids":[],
+"uid":"1841242090",
+"parent":"",
+"text":"",
+"mid":"A24SfA1Fg",
+"date":"2013-07-28 08:31:03"
+},
+{
+"kids":[],
+"uid":"2600929250",
+"parent":"",
+"text":"",
+"mid":"A24Rie75x",
+"date":"2013-07-28 08:28:40"
+},
+{
+"kids":[],
+"uid":"2139580425",
+"parent":"",
+"text":"",
+"mid":"A24QAsQ2o",
+"date":"2013-07-28 08:26:57"
+},
+{
+"kids":[],
+"uid":"3509247143",
+"parent":"",
+"text":"",
+"mid":"A24Q61Rxv",
+"date":"2013-07-28 08:25:43"
+},
+{
+"kids":[],
+"uid":"206404000",
+"parent":"",
+"text":"",
+"mid":"A24OVCbB2",
+"date":"2013-07-28 08:22:52"
+},
+{
+"kids":[],
+"uid":"2481220731",
+"parent":"",
+"text":"确实挺珍贵",
+"mid":"A24Oz9mvx",
+"date":"2013-07-28 08:21:58"
+},
+{
+"kids":[],
+"uid":"2185186600",
+"parent":"",
+"text":"",
+"mid":"A24OrvBAr",
+"date":"2013-07-28 08:21:40"
+},
+{
+"kids":[],
+"uid":"2438756692",
+"parent":"",
+"text":"[嘻嘻][嘻嘻]",
+"mid":"A24NkkqAo",
+"date":"2013-07-28 08:18:55"
+},
+{
+"kids":[],
+"uid":"gan1106",
+"parent":"A24r23HD1",
+"text":"",
+"mid":"A24Mu48m6",
+"date":"2013-07-28 08:16:49"
+},
+{
+"kids":[],
+"uid":"2088748705",
+"parent":"",
+"text":"",
+"mid":"A24MmC4Rx",
+"date":"2013-07-28 08:16:32"
+},
+{
+"kids":[
+"A25TAmC0x"
+],
+"uid":"3576777070",
+"parent":"",
+"text":"",
+"mid":"A24M9nTk0",
+"date":"2013-07-28 08:16:01"
+},
+{
+"kids":[],
+"uid":"2097043255",
+"parent":"",
+"text":"",
+"mid":"A24L61DcF",
+"date":"2013-07-28 08:13:25"
+},
+{
+"kids":[
+"Aawu8y7ey",
+"A2ny5xNbc",
+"A25jyrL4p"
+],
+"uid":"wangxuansharon",
+"parent":"",
+"text":"",
+"mid":"A24KiqlHb",
+"date":"2013-07-28 08:11:26"
+},
+{
+"kids":[],
+"uid":"kittyicebb",
+"parent":"A24FBjqk9",
+"text":"回复@打更老头不加V:差两呢[呵呵]",
+"mid":"A24Kb0tGz",
+"date":"2013-07-28 08:11:09"
+},
+{
+"kids":[],
+"uid":"3033227814",
+"parent":"",
+"text":"原来我都是挺富有的。",
+"mid":"A24JQDuec",
+"date":"2013-07-28 08:10:20"
+},
+{
+"kids":[],
+"uid":"1358029153",
+"parent":"",
+"text":"",
+"mid":"A24J4aQZb",
+"date":"2013-07-28 08:08:25"
+},
+{
+"kids":[],
+"uid":"2644943802",
+"parent":"",
+"text":"俺拥有有9种[哈哈][哈哈][哈哈][笑哈哈][笑哈哈][笑哈哈]",
+"mid":"A24IjdrNx",
+"date":"2013-07-28 08:06:33"
+},
+{
+"kids":[],
+"uid":"yjz520",
+"parent":"",
+"text":"非常富裕",
+"mid":"A24HOtfOH",
+"date":"2013-07-28 08:05:20"
+},
+{
+"kids":[],
+"uid":"2497237935",
+"parent":"",
+"text":"看来我很富有，哈哈",
+"mid":"A24Hj90Dc",
+"date":"2013-07-28 08:04:05"
+},
+{
+"kids":[
+"A2sTxennJ"
+],
+"uid":"1767239221",
+"parent":"A21EP2NA3",
+"text":"",
+"mid":"A24HfgfYT",
+"date":"2013-07-28 08:03:56"
+},
+{
+"kids":[],
+"uid":"2023677463",
+"parent":"",
+"text":"真是奢侈啊！",
+"mid":"A24GQqF6g",
+"date":"2013-07-28 08:02:57"
+},
+{
+"kids":[
+"A24Kb0tGz"
+],
+"uid":"kittyicebb",
+"parent":"",
+"text":"3和4，努力！",
+"mid":"A24FBjqk9",
+"date":"2013-07-28 07:59:53"
+},
+{
+"kids":[],
+"uid":"2939750602",
+"parent":"",
+"text":"[心]",
+"mid":"A24Fb5cOi",
+"date":"2013-07-28 07:58:50"
+},
+{
+"kids":[],
+"uid":"LeeCe2012",
+"parent":"",
+"text":"早安吧",
+"mid":"A24F11xm5",
+"date":"2013-07-28 07:58:26"
+},
+{
+"kids":[],
+"uid":"tengtengloveanruo",
+"parent":"",
+"text":"早上好",
+"mid":"A24DCq7IM",
+"date":"2013-07-28 07:55:00"
+},
+{
+"kids":[],
+"uid":"kinogam",
+"parent":"A21CfrTkU",
+"text":"",
+"mid":"A24D81VDQ",
+"date":"2013-07-28 07:53:46"
+},
+{
+"kids":[],
+"uid":"1946583290",
+"parent":"A21wFnX7f",
+"text":"",
+"mid":"A24C6rpXw",
+"date":"2013-07-28 07:51:16"
+},
+{
+"kids":[],
+"uid":"1946583290",
+"parent":"A21wFnX7f",
+"text":"",
+"mid":"A24C0hgky",
+"date":"2013-07-28 07:51:00"
+},
+{
+"kids":[],
+"uid":"1412182092",
+"parent":"",
+"text":"",
+"mid":"A24APw2L1",
+"date":"2013-07-28 07:48:08"
+},
+{
+"kids":[],
+"uid":"2255774544",
+"parent":"",
+"text":"",
+"mid":"A24zXaF0a",
+"date":"2013-07-28 07:45:58"
+},
+{
+"kids":[],
+"uid":"3319613643",
+"parent":"",
+"text":"",
+"mid":"A24zVpBCL",
+"date":"2013-07-28 07:45:53"
+},
+{
+"kids":[],
+"uid":"1780980253",
+"parent":"",
+"text":"轉發微博",
+"mid":"A24zJkB2S",
+"date":"2013-07-28 07:45:24"
+},
+{
+"kids":[],
+"uid":"1903040107",
+"parent":"",
+"text":"",
+"mid":"A24zblw6v",
+"date":"2013-07-28 07:44:03"
+},
+{
+"kids":[],
+"uid":"2052461193",
+"parent":"A21wGhc7C",
+"text":"",
+"mid":"A24yvFhXs",
+"date":"2013-07-28 07:42:25"
+},
+{
+"kids":[
+"A58oryG8g",
+"A4ePpgVtv",
+"A4eAdx2yU",
+"A39EAAIkN",
+"A30wHCdDP",
+"A2YUX17NP",
+"A2gQqby0o",
+"A2fvzkYaF"
+],
+"uid":"2075478951",
+"parent":"",
+"text":"",
+"mid":"A24xYh2Oj",
+"date":"2013-07-28 07:41:05"
+},
+{
+"kids":[],
+"uid":"3092183275",
+"parent":"",
+"text":"@丸子爸爸_老黑 @Adela_丸子小姐",
+"mid":"A24wMoctW",
+"date":"2013-07-28 07:38:08"
+},
+{
+"kids":[],
+"uid":"2818713734",
+"parent":"",
+"text":"我有几项，哈哈……",
+"mid":"A24wgv6Mb",
+"date":"2013-07-28 07:36:53"
+},
+{
+"kids":[],
+"uid":"3269561370",
+"parent":"",
+"text":"",
+"mid":"A24vH2Msz",
+"date":"2013-07-28 07:35:28"
+},
+{
+"kids":[],
+"uid":"2933808465",
+"parent":"",
+"text":"",
+"mid":"A24uWl9gr",
+"date":"2013-07-28 07:33:36"
+},
+{
+"kids":[],
+"uid":"lssssm",
+"parent":"",
+"text":"[心]",
+"mid":"A24uLpRwM",
+"date":"2013-07-28 07:33:11"
+},
+{
+"kids":[],
+"uid":"3217549723",
+"parent":"",
+"text":"这些对于我们来说的确奢侈了！",
+"mid":"A24u6ietY",
+"date":"2013-07-28 07:31:32"
+},
+{
+"kids":[],
+"uid":"2413987691",
+"parent":"",
+"text":"我是首富……",
+"mid":"A24u0qBGv",
+"date":"2013-07-28 07:31:19"
+},
+{
+"kids":[],
+"uid":"foolfeels",
+"parent":"",
+"text":"@广州市亚运志愿者 呵呵服左你,人文啊,095啊！啊啊啊！",
+"mid":"A24tAnaEC",
+"date":"2013-07-28 07:30:17"
+},
+{
+"kids":[],
+"uid":"2484866913",
+"parent":"",
+"text":"",
+"mid":"A24tucAOf",
+"date":"2013-07-28 07:30:02"
+},
+{
+"kids":[],
+"uid":"2357168684",
+"parent":"",
+"text":"",
+"mid":"A24sWxDqh",
+"date":"2013-07-28 07:28:42"
+},
+{
+"kids":[],
+"uid":"1923715125",
+"parent":"",
+"text":"好 [帽子]",
+"mid":"A24sBw3KZ",
+"date":"2013-07-28 07:27:52"
+},
+{
+"kids":[],
+"uid":"2085640473",
+"parent":"",
+"text":"真正的奢侈品",
+"mid":"A24s6fmIs",
+"date":"2013-07-28 07:26:37"
+},
+{
+"kids":[
+"A31a19prz",
+"A3091laFP",
+"A25mwwPhl"
+],
+"uid":"2677440213",
+"parent":"",
+"text":"",
+"mid":"A24rUpgBf",
+"date":"2013-07-28 07:26:09"
+},
+{
+"kids":[],
+"uid":"2216106687",
+"parent":"",
+"text":"",
+"mid":"A24rBvebm",
+"date":"2013-07-28 07:25:23"
+},
+{
+"kids":[],
+"uid":"2630689291",
+"parent":"",
+"text":"",
+"mid":"A24r7mIIK",
+"date":"2013-07-28 07:24:11"
+},
+{
+"kids":[
+"A24Mu48m6"
+],
+"uid":"leilei24qwc",
+"parent":"",
+"text":"",
+"mid":"A24r23HD1",
+"date":"2013-07-28 07:23:59"
+},
+{
+"kids":[],
+"uid":"2554212603",
+"parent":"",
+"text":"",
+"mid":"A24pT9kPU",
+"date":"2013-07-28 07:21:10"
+},
+{
+"kids":[],
+"uid":"3038503264",
+"parent":"",
+"text":"",
+"mid":"A24pMlqPl",
+"date":"2013-07-28 07:20:54"
+},
+{
+"kids":[],
+"uid":"206781260",
+"parent":"",
+"text":"自勉",
+"mid":"A24n9dXfN",
+"date":"2013-07-28 07:14:25"
+},
+{
+"kids":[],
+"uid":"cgzxh",
+"parent":"",
+"text":"[good]",
+"mid":"A24lYcKsX",
+"date":"2013-07-28 07:11:31"
+},
+{
+"kids":[],
+"uid":"2420477921",
+"parent":"",
+"text":"",
+"mid":"A24jFuram",
+"date":"2013-07-28 07:05:51"
+},
+{
+"kids":[],
+"uid":"2797215792",
+"parent":"",
+"text":"",
+"mid":"A24jcwL2b",
+"date":"2013-07-28 07:04:41"
+},
+{
+"kids":[],
+"uid":"3305765481",
+"parent":"",
+"text":"",
+"mid":"A24iCdODR",
+"date":"2013-07-28 07:03:15"
+},
+{
+"kids":[],
+"uid":"1155958167",
+"parent":"",
+"text":"[",
+"mid":"A24ixtfxM",
+"date":"2013-07-28 07:03:03"
+},
+{
+"kids":[],
+"uid":"2548092895",
+"parent":"",
+"text":"金钱买不到的奢侈",
+"mid":"A24h4qkQ5",
+"date":"2013-07-28 06:59:27"
+},
+{
+"kids":[],
+"uid":"2808796340",
+"parent":"",
+"text":"",
+"mid":"A24fS08hL",
+"date":"2013-07-28 06:56:29"
+},
+{
+"kids":[],
+"uid":"3260583704",
+"parent":"",
+"text":"",
+"mid":"A24frDVYF",
+"date":"2013-07-28 06:55:27"
+},
+{
+"kids":[],
+"uid":"2837014004",
+"parent":"",
+"text":"[爱你]",
+"mid":"A24fhnbpG",
+"date":"2013-07-28 06:55:02"
+},
+{
+"kids":[],
+"uid":"2002274803",
+"parent":"",
+"text":"",
+"mid":"A24eZBo5y",
+"date":"2013-07-28 06:54:20"
+},
+{
+"kids":[],
+"uid":"3301267175",
+"parent":"",
+"text":"@ztl0727",
+"mid":"A24cvn7dt",
+"date":"2013-07-28 06:48:12"
+},
+{
+"kids":[],
+"uid":"2697733185",
+"parent":"",
+"text":"",
+"mid":"A24bq0EkY",
+"date":"2013-07-28 06:45:30"
+},
+{
+"kids":[],
+"uid":"2420413387",
+"parent":"",
+"text":"",
+"mid":"A24aSANgo",
+"date":"2013-07-28 06:44:12"
+},
+{
+"kids":[],
+"uid":"2510183010",
+"parent":"",
+"text":"很缺啊",
+"mid":"A248l7BW2",
+"date":"2013-07-28 06:37:55"
+},
+{
+"kids":[],
+"uid":"2031245927",
+"parent":"",
+"text":"",
+"mid":"A247OB0Lu",
+"date":"2013-07-28 06:36:39"
+},
+{
+"kids":[],
+"uid":"3432225510",
+"parent":"",
+"text":"",
+"mid":"A247pe9Qm",
+"date":"2013-07-28 06:35:37"
+},
+{
+"kids":[],
+"uid":"3619585240",
+"parent":"",
+"text":"",
+"mid":"A244ZnUnz",
+"date":"2013-07-28 06:29:40"
+},
+{
+"kids":[],
+"uid":"3280403495",
+"parent":"",
+"text":"",
+"mid":"A242WD8nh",
+"date":"2013-07-28 06:24:39"
+},
+{
+"kids":[],
+"uid":"2506346570",
+"parent":"",
+"text":"第四条我没那机会，缺了第六、第七条！早安！",
+"mid":"A242y7J4E",
+"date":"2013-07-28 06:23:40"
+},
+{
+"kids":[],
+"uid":"2611001753",
+"parent":"",
+"text":"",
+"mid":"A241f8QEG",
+"date":"2013-07-28 06:20:27"
+},
+{
+"kids":[],
+"uid":"2765949891",
+"parent":"",
+"text":"",
+"mid":"A240GgArY",
+"date":"2013-07-28 06:19:04"
+},
+{
+"kids":[],
+"uid":"2107296633",
+"parent":"",
+"text":"",
+"mid":"A23Zc4Jq0",
+"date":"2013-07-28 06:15:23"
+},
+{
+"kids":[],
+"uid":"3024263352",
+"parent":"",
+"text":"",
+"mid":"A23RY7cLB",
+"date":"2013-07-28 05:57:36"
+},
+{
+"kids":[],
+"uid":"2198251544",
+"parent":"",
+"text":"",
+"mid":"A23P5k8dr",
+"date":"2013-07-28 05:50:29"
+},
+{
+"kids":[],
+"uid":"2971939847",
+"parent":"",
+"text":"早",
+"mid":"A23ISBDAb",
+"date":"2013-07-28 05:35:13"
+},
+{
+"kids":[],
+"uid":"716904568",
+"parent":"",
+"text":"",
+"mid":"A23E4r1KD",
+"date":"2013-07-28 05:23:21"
+},
+{
+"kids":[],
+"uid":"1995629954",
+"parent":"",
+"text":"",
+"mid":"A23Brlszk",
+"date":"2013-07-28 05:16:52"
+},
+{
+"kids":[],
+"uid":"2942586627",
+"parent":"",
+"text":"",
+"mid":"A23z78u3d",
+"date":"2013-07-28 05:11:09"
+},
+{
+"kids":[],
+"uid":"2044098067",
+"parent":"",
+"text":"挺 [摸头]",
+"mid":"A23x5ehhk",
+"date":"2013-07-28 05:06:09"
+},
+{
+"kids":[],
+"uid":"3154400881",
+"parent":"",
+"text":"",
+"mid":"A23uS87SS",
+"date":"2013-07-28 05:00:42"
+},
+{
+"kids":[],
+"uid":"2201857272",
+"parent":"",
+"text":"[心][心][心]",
+"mid":"A23lfx6xI",
+"date":"2013-07-28 04:36:59"
+},
+{
+"kids":[],
+"uid":"2083212583",
+"parent":"",
+"text":"六个半",
+"mid":"A23kmyS00",
+"date":"2013-07-28 04:34:48"
+},
+{
+"kids":[],
+"uid":"2747168530",
+"parent":"",
+"text":"",
+"mid":"A23bXE7sq",
+"date":"2013-07-28 04:14:06"
+},
+{
+"kids":[],
+"uid":"1939233395",
+"parent":"",
+"text":"给我钱",
+"mid":"A23b509nu",
+"date":"2013-07-28 04:11:56"
+},
+{
+"kids":[],
+"uid":"2391825487",
+"parent":"",
+"text":"缺好多",
+"mid":"A23805nAr",
+"date":"2013-07-28 04:04:21"
+},
+{
+"kids":[],
+"uid":"senseo2010",
+"parent":"",
+"text":"我居然有大部分！顿时觉得幸福起来了！[偷笑]",
+"mid":"A232Y3Vmi",
+"date":"2013-07-28 03:51:56"
+},
+{
+"kids":[],
+"uid":"3314402220",
+"parent":"",
+"text":"",
+"mid":"A230vglM0",
+"date":"2013-07-28 03:45:53"
+},
+{
+"kids":[],
+"uid":"2677403634",
+"parent":"",
+"text":"一颗童心",
+"mid":"A22YDsnNs",
+"date":"2013-07-28 03:41:16"
+},
+{
+"kids":[],
+"uid":"2135323970",
+"parent":"",
+"text":"@靜_lisa",
+"mid":"A22Xpc6sa",
+"date":"2013-07-28 03:38:15"
+},
+{
+"kids":[],
+"uid":"3667920041",
+"parent":"",
+"text":"",
+"mid":"A22UUDtuL",
+"date":"2013-07-28 03:32:06"
+},
+{
+"kids":[],
+"uid":"2112466724",
+"parent":"",
+"text":"写得好",
+"mid":"A22PCBMiE",
+"date":"2013-07-28 03:19:05"
+},
+{
+"kids":[],
+"uid":"2598339424",
+"parent":"",
+"text":"",
+"mid":"A22OMkBcw",
+"date":"2013-07-28 03:17:00"
+},
+{
+"kids":[],
+"uid":"3607580474",
+"parent":"",
+"text":"",
+"mid":"A22OFhtIb",
+"date":"2013-07-28 03:16:42"
+},
+{
+"kids":[],
+"uid":"2678106792",
+"parent":"",
+"text":"奢侈。",
+"mid":"A22OseV9k",
+"date":"2013-07-28 03:16:12"
+},
+{
+"kids":[],
+"uid":"2293781560",
+"parent":"",
+"text":"",
+"mid":"A22O5fren",
+"date":"2013-07-28 03:15:17"
+},
+{
+"kids":[],
+"uid":"1767209282",
+"parent":"",
+"text":"",
+"mid":"A22Kovn0q",
+"date":"2013-07-28 03:06:12"
+},
+{
+"kids":[],
+"uid":"1341589970",
+"parent":"",
+"text":"转发",
+"mid":"A22I7xFKY",
+"date":"2013-07-28 03:00:36"
+},
+{
+"kids":[],
+"uid":"2445547445",
+"parent":"",
+"text":"",
+"mid":"A22FTgRhs",
+"date":"2013-07-28 02:55:06"
+},
+{
+"kids":[],
+"uid":"tavias",
+"parent":"",
+"text":"",
+"mid":"A22EEpQAz",
+"date":"2013-07-28 02:52:02"
+},
+{
+"kids":[],
+"uid":"1673664627",
+"parent":"",
+"text":"",
+"mid":"A22yosgeh",
+"date":"2013-07-28 02:36:38"
+},
+{
+"kids":[],
+"uid":"2099421752",
+"parent":"",
+"text":"",
+"mid":"A22wYFzen",
+"date":"2013-07-28 02:33:09"
+},
+{
+"kids":[],
+"uid":"512332448",
+"parent":"",
+"text":"随便做到其中一点已不错了",
+"mid":"A22w08xV8",
+"date":"2013-07-28 02:30:44"
+},
+{
+"kids":[],
+"uid":"2977537372",
+"parent":"",
+"text":"好像就差第7条",
+"mid":"A22vfs9PU",
+"date":"2013-07-28 02:28:53"
+},
+{
+"kids":[],
+"uid":"2694542731",
+"parent":"",
+"text":"",
+"mid":"A22uQBqm4",
+"date":"2013-07-28 02:27:54"
+},
+{
+"kids":[],
+"uid":"1709393322",
+"parent":"",
+"text":"",
+"mid":"A22sTqZuy",
+"date":"2013-07-28 02:23:04"
+},
+{
+"kids":[],
+"uid":"2563290681",
+"parent":"",
+"text":"能拥有几样就好了",
+"mid":"A22rUjQuA",
+"date":"2013-07-28 02:20:38"
+},
+{
+"kids":[],
+"uid":"2691498677",
+"parent":"",
+"text":"",
+"mid":"A22r1lPt6",
+"date":"2013-07-28 02:18:28"
+},
+{
+"kids":[],
+"uid":"2655082310",
+"parent":"",
+"text":"转发微博。",
+"mid":"A22qT4fKH",
+"date":"2013-07-28 02:18:08"
+},
+{
+"kids":[],
+"uid":"3298901760",
+"parent":"",
+"text":"",
+"mid":"A22paof3H",
+"date":"2013-07-28 02:13:53"
+},
+{
+"kids":[],
+"uid":"2696990203",
+"parent":"",
+"text":"",
+"mid":"A22oJtEMm",
+"date":"2013-07-28 02:12:50"
+},
+{
+"kids":[],
+"uid":"1938696781",
+"parent":"",
+"text":"",
+"mid":"A22o6t6k7",
+"date":"2013-07-28 02:11:16"
+},
+{
+"kids":[
+"A4FHWzg5C",
+"A4F7qvQH3",
+"A3AP241xC",
+"A3tyH2aoY",
+"A3sBxmDzx",
+"A2JaauETE",
+"A2HzNwXIx"
+],
+"uid":"3565460505",
+"parent":"",
+"text":"",
+"mid":"A22n7jPTA",
+"date":"2013-07-28 02:08:51"
+},
+{
+"kids":[],
+"uid":"2143670057",
+"parent":"",
+"text":"",
+"mid":"A22mjFUqf",
+"date":"2013-07-28 02:06:53"
+},
+{
+"kids":[],
+"uid":"yellow1329504021",
+"parent":"",
+"text":"4，7，10没有",
+"mid":"A22k1x4ZZ",
+"date":"2013-07-28 02:01:14"
+},
+{
+"kids":[],
+"uid":"1588232852",
+"parent":"",
+"text":"转发微博。",
+"mid":"A22jAmXht",
+"date":"2013-07-28 02:00:08"
+},
+{
+"kids":[],
+"uid":"3511125865",
+"parent":"",
+"text":"",
+"mid":"A22hp0QtM",
+"date":"2013-07-28 01:54:46"
+},
+{
+"kids":[],
+"uid":"2284360874",
+"parent":"",
+"text":"",
+"mid":"A22g93i0i",
+"date":"2013-07-28 01:51:40"
+},
+{
+"kids":[],
+"uid":"klfvany",
+"parent":"",
+"text":"果断最求这些“奢侈品”！！[耶]",
+"mid":"A22g2vONM",
+"date":"2013-07-28 01:51:25"
+},
+{
+"kids":[],
+"uid":"2753480187",
+"parent":"",
+"text":"",
+"mid":"A22eVD6NM",
+"date":"2013-07-28 01:48:41"
+},
+{
+"kids":[],
+"uid":"2198071952",
+"parent":"",
+"text":"",
+"mid":"A22evmlhG",
+"date":"2013-07-28 01:47:38"
+},
+{
+"kids":[],
+"uid":"fenglifenfen",
+"parent":"",
+"text":"[good]",
+"mid":"A22e5EFLd",
+"date":"2013-07-28 01:46:37"
+},
+{
+"kids":[],
+"uid":"goddessjoy",
+"parent":"",
+"text":"",
+"mid":"A22dKlNWq",
+"date":"2013-07-28 01:45:46"
+},
+{
+"kids":[],
+"uid":"1909705847",
+"parent":"",
+"text":"奢侈品。",
+"mid":"A22cU6TWB",
+"date":"2013-07-28 01:43:41"
+},
+{
+"kids":[],
+"uid":"2308778032",
+"parent":"",
+"text":"",
+"mid":"A22cu37LF",
+"date":"2013-07-28 01:42:39"
+},
+{
+"kids":[],
+"uid":"3246889765",
+"parent":"",
+"text":"",
+"mid":"A22bRF7HL",
+"date":"2013-07-28 01:41:08"
+},
+{
+"kids":[],
+"uid":"2770232431",
+"parent":"",
+"text":"",
+"mid":"A22bKzBHW",
+"date":"2013-07-28 01:40:51"
+},
+{
+"kids":[],
+"uid":"2316199542",
+"parent":"",
+"text":"[",
+"mid":"A22bBpZR5",
+"date":"2013-07-28 01:40:28"
+},
+{
+"kids":[],
+"uid":"justyouwait",
+"parent":"",
+"text":"[花心]",
+"mid":"A22aR2j6a",
+"date":"2013-07-28 01:38:38"
+},
+{
+"kids":[],
+"uid":"2093808042",
+"parent":"",
+"text":"",
+"mid":"A22ajDufx",
+"date":"2013-07-28 01:37:19"
+},
+{
+"kids":[],
+"uid":"521556720",
+"parent":"",
+"text":"确实很奢侈！",
+"mid":"A228MsLVb",
+"date":"2013-07-28 01:33:31"
+},
+{
+"kids":[],
+"uid":"2243951157",
+"parent":"",
+"text":"",
+"mid":"A228yiSOb",
+"date":"2013-07-28 01:32:58"
+},
+{
+"kids":[],
+"uid":"2921763594",
+"parent":"",
+"text":"你拥有了哪一样了呢？",
+"mid":"A228jxjdm",
+"date":"2013-07-28 01:32:23"
+},
+{
+"kids":[],
+"uid":"2389307364",
+"parent":"",
+"text":"",
+"mid":"A2269ofCP",
+"date":"2013-07-28 01:27:03"
+},
+{
+"kids":[],
+"uid":"1976637243",
+"parent":"",
+"text":"",
+"mid":"A225p0wQy",
+"date":"2013-07-28 01:25:12"
+},
+{
+"kids":[],
+"uid":"3239670410",
+"parent":"",
+"text":"",
+"mid":"A2256m9Ja",
+"date":"2013-07-28 01:24:28"
+},
+{
+"kids":[],
+"uid":"3139801067",
+"parent":"",
+"text":"[鼓掌][鼓掌][鼓掌]",
+"mid":"A224i8X13",
+"date":"2013-07-28 01:22:28"
+},
+{
+"kids":[],
+"uid":"2446343613",
+"parent":"",
+"text":"",
+"mid":"A224d4BTT",
+"date":"2013-07-28 01:22:15"
+},
+{
+"kids":[],
+"uid":"1769575340",
+"parent":"",
+"text":"",
+"mid":"A223X9YF0",
+"date":"2013-07-28 01:21:38"
+},
+{
+"kids":[],
+"uid":"1663076964",
+"parent":"",
+"text":"",
+"mid":"A223NoIu9",
+"date":"2013-07-28 01:21:15"
+},
+{
+"kids":[
+"A4Qw7cgA4",
+"A45t0fq53",
+"A441ukwFO",
+"A38WCotZx",
+"A31iY68Te",
+"A31ifsw7x",
+"A2ghn8eun",
+"A2dRb00qa"
+],
+"uid":"3204853364",
+"parent":"",
+"text":"真的好奢侈",
+"mid":"A223LCdYx",
+"date":"2013-07-28 01:21:11"
+},
+{
+"kids":[],
+"uid":"2381171517",
+"parent":"",
+"text":"@Lin大菡",
+"mid":"A223LiQLx",
+"date":"2013-07-28 01:21:10"
+},
+{
+"kids":[],
+"uid":"2692643345",
+"parent":"",
+"text":"",
+"mid":"A223Gkhw9",
+"date":"2013-07-28 01:20:58"
+},
+{
+"kids":[
+"A2ag19OmH"
+],
+"uid":"1658124262",
+"parent":"",
+"text":"[浮云]",
+"mid":"A223iFzto",
+"date":"2013-07-28 01:20:02"
+},
+{
+"kids":[],
+"uid":"2249560602",
+"parent":"",
+"text":"我要第三种，背包走天下的健康体魄！",
+"mid":"A222Zs095",
+"date":"2013-07-28 01:19:16"
+},
+{
+"kids":[],
+"uid":"1945597673",
+"parent":"",
+"text":"这些东西真是成了奢侈品啦！",
+"mid":"A2228hqL4",
+"date":"2013-07-28 01:17:09"
+},
+{
+"kids":[],
+"uid":"2196353205",
+"parent":"",
+"text":"",
+"mid":"A221R92er",
+"date":"2013-07-28 01:16:28"
+},
+{
+"kids":[],
+"uid":"2924790465",
+"parent":"",
+"text":"",
+"mid":"A221F39sB",
+"date":"2013-07-28 01:15:58"
+},
+{
+"kids":[],
+"uid":"1918479592",
+"parent":"",
+"text":"",
+"mid":"A221Duvj0",
+"date":"2013-07-28 01:15:56"
+},
+{
+"kids":[],
+"uid":"3041927165",
+"parent":"",
+"text":"",
+"mid":"A221C5OpY",
+"date":"2013-07-28 01:15:51"
+},
+{
+"kids":[
+"A2alx4hjh"
+],
+"uid":"1848713684",
+"parent":"",
+"text":"晚安",
+"mid":"A221obhnY",
+"date":"2013-07-28 01:15:19"
+},
+{
+"kids":[],
+"uid":"2667220410",
+"parent":"",
+"text":"",
+"mid":"A221gthrP",
+"date":"2013-07-28 01:15:01"
+},
+{
+"kids":[],
+"uid":"339659696",
+"parent":"",
+"text":"好",
+"mid":"A220YbWKT",
+"date":"2013-07-28 01:14:16"
+},
+{
+"kids":[],
+"uid":"2696976631",
+"parent":"",
+"text":"[眼泪][眼泪][眼泪][眼泪][眼泪][眼泪][眼泪][眼泪][眼泪]",
+"mid":"A220XiHzw",
+"date":"2013-07-28 01:14:15"
+},
+{
+"kids":[],
+"uid":"3609733005",
+"parent":"",
+"text":"",
+"mid":"A220Elfqt",
+"date":"2013-07-28 01:13:29"
+},
+{
+"kids":[],
+"uid":"1157017410",
+"parent":"",
+"text":"",
+"mid":"A220CjIRm",
+"date":"2013-07-28 01:13:25"
+},
+{
+"kids":[],
+"uid":"1365035110",
+"parent":"",
+"text":"",
+"mid":"A220enq9F",
+"date":"2013-07-28 01:12:28"
+},
+{
+"kids":[],
+"uid":"xishuixuanhua",
+"parent":"",
+"text":"晚安。",
+"mid":"A21ZSwgwg",
+"date":"2013-07-28 01:11:36"
+},
+{
+"kids":[],
+"uid":"swallowlam",
+"parent":"",
+"text":"",
+"mid":"A21ZJlz3O",
+"date":"2013-07-28 01:11:14"
+},
+{
+"kids":[],
+"uid":"1798037311",
+"parent":"",
+"text":"",
+"mid":"A21Z3mV1v",
+"date":"2013-07-28 01:09:34"
+},
+{
+"kids":[],
+"uid":"1065878612",
+"parent":"",
+"text":"",
+"mid":"A21YFrfgy",
+"date":"2013-07-28 01:08:37"
+},
+{
+"kids":[],
+"uid":"3321336670",
+"parent":"",
+"text":"",
+"mid":"A21Y8CiiW",
+"date":"2013-07-28 01:07:19"
+},
+{
+"kids":[],
+"uid":"2558991024",
+"parent":"",
+"text":"",
+"mid":"A21XZulxy",
+"date":"2013-07-28 01:06:57"
+},
+{
+"kids":[],
+"uid":"1963415977",
+"parent":"",
+"text":"[顶][顶][顶]",
+"mid":"A21Xv46WP",
+"date":"2013-07-28 01:05:44"
+},
+{
+"kids":[],
+"uid":"2882046634",
+"parent":"",
+"text":"",
+"mid":"A21Xmc5hK",
+"date":"2013-07-28 01:05:23"
+},
+{
+"kids":[],
+"uid":"2810485171",
+"parent":"A21VRp7jm",
+"text":"",
+"mid":"A21XevYuc",
+"date":"2013-07-28 01:05:05"
+},
+{
+"kids":[],
+"uid":"3306702031",
+"parent":"",
+"text":"",
+"mid":"A21X03iuC",
+"date":"2013-07-28 01:04:29"
+},
+{
+"kids":[],
+"uid":"kathleen227",
+"parent":"",
+"text":"",
+"mid":"A21X02ekJ",
+"date":"2013-07-28 01:04:30"
+},
+{
+"kids":[],
+"uid":"2233649932",
+"parent":"",
+"text":"@C_陳生 你有几个奢侈品？[嘻嘻]",
+"mid":"A21WWcHYV",
+"date":"2013-07-28 01:04:21"
+},
+{
+"kids":[],
+"uid":"2512379694",
+"parent":"",
+"text":"安稳平和的睡眠好奢侈～好符合现状！就知道中午是不能睡太久的，否则后果自负[泪][泪]",
+"mid":"A21Ws5awT",
+"date":"2013-07-28 01:03:09"
+},
+{
+"kids":[
+"A21XevYuc"
+],
+"uid":"2183362604",
+"parent":"",
+"text":"",
+"mid":"A21VRp7jm",
+"date":"2013-07-28 01:01:42"
+},
+{
+"kids":[],
+"uid":"3067739181",
+"parent":"",
+"text":"[爱你]",
+"mid":"A21VK03Wl",
+"date":"2013-07-28 01:01:24"
+},
+{
+"kids":[],
+"uid":"1946774362",
+"parent":"",
+"text":"有些自以為好成熟的人，不懂能擁有一顆心的寶貴。",
+"mid":"A21VIfttY",
+"date":"2013-07-28 01:01:19"
+},
+{
+"kids":[],
+"uid":"ixihd",
+"parent":"",
+"text":"",
+"mid":"A21Ve7TJI",
+"date":"2013-07-28 01:00:08"
+},
+{
+"kids":[],
+"uid":"3480034607",
+"parent":"",
+"text":"",
+"mid":"A21VageTw",
+"date":"2013-07-28 00:59:57"
+},
+{
+"kids":[],
+"uid":"3032250264",
+"parent":"",
+"text":"",
+"mid":"A21V16C8N",
+"date":"2013-07-28 00:59:34"
+},
+{
+"kids":[],
+"uid":"2392771272",
+"parent":"",
+"text":"",
+"mid":"A21USwbYU",
+"date":"2013-07-28 00:59:16"
+},
+{
+"kids":[],
+"uid":"2236802995",
+"parent":"",
+"text":"我有几个呢？@ttopist赵玉辉",
+"mid":"A21UFcDp5",
+"date":"2013-07-28 00:58:45"
+},
+{
+"kids":[],
+"uid":"1439729971",
+"parent":"",
+"text":"是的，很奢侈！",
+"mid":"A21UEnioq",
+"date":"2013-07-28 00:58:41"
+},
+{
+"kids":[],
+"uid":"2392851073",
+"parent":"",
+"text":"",
+"mid":"A21UEnihu",
+"date":"2013-07-28 00:58:43"
+},
+{
+"kids":[],
+"uid":"2408263465",
+"parent":"",
+"text":"真的很奢侈！[玫瑰]",
+"mid":"A21UE4CHU",
+"date":"2013-07-28 00:58:42"
+},
+{
+"kids":[],
+"uid":"3477822452",
+"parent":"",
+"text":"",
+"mid":"A21UBoSYv",
+"date":"2013-07-28 00:58:34"
+},
+{
+"kids":[],
+"uid":"2883067377",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21TVoayV",
+"date":"2013-07-28 00:56:56"
+},
+{
+"kids":[],
+"uid":"2151508670",
+"parent":"",
+"text":"",
+"mid":"A21TJkYOK",
+"date":"2013-07-28 00:56:27"
+},
+{
+"kids":[],
+"uid":"1294951913",
+"parent":"A21Ftw2jr",
+"text":"还真是奢侈品[浮云]",
+"mid":"A21TGEaRg",
+"date":"2013-07-28 00:56:19"
+},
+{
+"kids":[],
+"uid":"1844046462",
+"parent":"",
+"text":"健康、快乐、有爱、自由",
+"mid":"A21T7vaUB",
+"date":"2013-07-28 00:54:55"
+},
+{
+"kids":[],
+"uid":"3221361595",
+"parent":"",
+"text":"",
+"mid":"A21T5q12X",
+"date":"2013-07-28 00:54:53"
+},
+{
+"kids":[],
+"uid":"pingpong1988",
+"parent":"",
+"text":"晚安",
+"mid":"A21SXpMfN",
+"date":"2013-07-28 00:54:33"
+},
+{
+"kids":[],
+"uid":"1905562262",
+"parent":"",
+"text":"",
+"mid":"A21Shuksl",
+"date":"2013-07-28 00:52:50"
+},
+{
+"kids":[
+"A27EVil3l",
+"A27mQcddQ",
+"A27lxwc4t"
+],
+"uid":"517154678",
+"parent":"",
+"text":"[给力]",
+"mid":"A21RBvuOF",
+"date":"2013-07-28 00:51:11"
+},
+{
+"kids":[],
+"uid":"1735140152",
+"parent":"",
+"text":"买吾起，",
+"mid":"A21RsDuhJ",
+"date":"2013-07-28 00:50:53"
+},
+{
+"kids":[],
+"uid":"2183302564",
+"parent":"",
+"text":"",
+"mid":"A21R5jAzr",
+"date":"2013-07-28 00:49:56"
+},
+{
+"kids":[
+"A2M5mu7kJ"
+],
+"uid":"1640812282",
+"parent":"",
+"text":"[",
+"mid":"A21R4rou2",
+"date":"2013-07-28 00:49:54"
+},
+{
+"kids":[],
+"uid":"michaeldeng",
+"parent":"",
+"text":"的确奢侈，晚安",
+"mid":"A21R3fuwW",
+"date":"2013-07-28 00:49:51"
+},
+{
+"kids":[],
+"uid":"2639880650",
+"parent":"",
+"text":"",
+"mid":"A21QFBQta",
+"date":"2013-07-28 00:48:55"
+},
+{
+"kids":[],
+"uid":"3227570992",
+"parent":"",
+"text":"",
+"mid":"A21QmpklO",
+"date":"2013-07-28 00:48:10"
+},
+{
+"kids":[],
+"uid":"mengjialyl",
+"parent":"",
+"text":"",
+"mid":"A21Q4DeyX",
+"date":"2013-07-28 00:47:27"
+},
+{
+"kids":[],
+"uid":"2175473350",
+"parent":"",
+"text":"同意",
+"mid":"A21PX1zmO",
+"date":"2013-07-28 00:47:08"
+},
+{
+"kids":[],
+"uid":"liaoliying",
+"parent":"",
+"text":"安",
+"mid":"A21PFy3sd",
+"date":"2013-07-28 00:46:28"
+},
+{
+"kids":[],
+"uid":"xxb0214",
+"parent":"",
+"text":"第一个哥就有",
+"mid":"A21PCj6xD",
+"date":"2013-07-28 00:46:17"
+},
+{
+"kids":[],
+"uid":"feizibaobei",
+"parent":"",
+"text":"轉發微博",
+"mid":"A21Pp2k2H",
+"date":"2013-07-28 00:45:48"
+},
+{
+"kids":[],
+"uid":"u4u3",
+"parent":"",
+"text":"[晕]我是富翁",
+"mid":"A21OYqgDL",
+"date":"2013-07-28 00:44:44"
+},
+{
+"kids":[],
+"uid":"1162436655",
+"parent":"",
+"text":"1，2，3，4，5，6，8，9，10我都有，7就没有。我爱上一个人，是公务员，我童心未泯，异想天开想着要是她现在没了职位，我还爱吗？还喜欢吗？还是爱，还是喜欢。想要说的时候人家说我不爽快，拖泥带水，表白了十七次还是失败！",
+"mid":"A21OU1wk7",
+"date":"2013-07-28 00:44:30"
+},
+{
+"kids":[],
+"uid":"shangyuejinke",
+"parent":"",
+"text":"",
+"mid":"A21OHAuKT",
+"date":"2013-07-28 00:44:04"
+},
+{
+"kids":[],
+"uid":"3485107013",
+"parent":"",
+"text":"",
+"mid":"A21OypOab",
+"date":"2013-07-28 00:43:40"
+},
+{
+"kids":[],
+"uid":"1843858880",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21OxtKvy",
+"date":"2013-07-28 00:43:39"
+},
+{
+"kids":[],
+"uid":"3168862497",
+"parent":"",
+"text":"",
+"mid":"A21OgpacP",
+"date":"2013-07-28 00:43:00"
+},
+{
+"kids":[],
+"uid":"1832309373",
+"parent":"",
+"text":"",
+"mid":"A21OcxwvL",
+"date":"2013-07-28 00:42:50"
+},
+{
+"kids":[],
+"uid":"huoyubai",
+"parent":"",
+"text":"[打哈气]",
+"mid":"A21O6Bvd7",
+"date":"2013-07-28 00:42:35"
+},
+{
+"kids":[],
+"uid":"xiaohouzi2009",
+"parent":"",
+"text":"",
+"mid":"A21NYl8mt",
+"date":"2013-07-28 00:42:16"
+},
+{
+"kids":[],
+"uid":"1582970317",
+"parent":"",
+"text":"说好十一点睡的[晕][晕]",
+"mid":"A21NLneeO",
+"date":"2013-07-28 00:41:45"
+},
+{
+"kids":[],
+"uid":"3050971377",
+"parent":"",
+"text":"",
+"mid":"A21Nx9Due",
+"date":"2013-07-28 00:41:10"
+},
+{
+"kids":[],
+"uid":"1801967345",
+"parent":"",
+"text":"愿永远保持一颗童心，牵手一个教予我爱与被爱的人，背包走天下。晚安，世界。",
+"mid":"A21NwzrIZ",
+"date":"2013-07-28 00:41:08"
+},
+{
+"kids":[],
+"uid":"3499056977",
+"parent":"",
+"text":"",
+"mid":"A21NwhQhu",
+"date":"2013-07-28 00:41:09"
+},
+{
+"kids":[
+"A25s6x69g",
+"A25rIBU01"
+],
+"uid":"3668178471",
+"parent":"",
+"text":"",
+"mid":"A21Ndo0pZ",
+"date":"2013-07-28 00:40:25"
+},
+{
+"kids":[],
+"uid":"3091335301",
+"parent":"",
+"text":"[哈哈]",
+"mid":"A21N33vl0",
+"date":"2013-07-28 00:39:59"
+},
+{
+"kids":[],
+"uid":"1584342543",
+"parent":"",
+"text":"",
+"mid":"A21MGzzos",
+"date":"2013-07-28 00:39:06"
+},
+{
+"kids":[],
+"uid":"2951467855",
+"parent":"",
+"text":"晚安。",
+"mid":"A21Mzcq5I",
+"date":"2013-07-28 00:38:48"
+},
+{
+"kids":[],
+"uid":"3564774625",
+"parent":"",
+"text":"",
+"mid":"A21Mzbr7u",
+"date":"2013-07-28 00:38:47"
+},
+{
+"kids":[],
+"uid":"helynd",
+"parent":"A21Kc4I2P",
+"text":"1童心我有，大约会被社会唾弃；2生生不息的信念这个真没有，行将就木的感觉无处不在；3反正没病，但肯定不健康；4身在天朝，祈求不死吧；5死猪一样睡；6这个还行；7求妹纸！8心情还算愉悦；9木有胸襟，有胸围；10，有！",
+"mid":"A21Mqi6Mo",
+"date":"2013-07-28 00:38:27"
+},
+{
+"kids":[],
+"uid":"academicIan",
+"parent":"",
+"text":"Maybe[月亮]Good night～",
+"mid":"A21Mno40y",
+"date":"2013-07-28 00:38:18"
+},
+{
+"kids":[],
+"uid":"1994196533",
+"parent":"",
+"text":"",
+"mid":"A21M7pqQa",
+"date":"2013-07-28 00:37:42"
+},
+{
+"kids":[],
+"uid":"2804051210",
+"parent":"A21HryFCN",
+"text":"我只看到了第3条……那是一种环游世界的魄力，你值得拥有……",
+"mid":"A21M0Cwqu",
+"date":"2013-07-28 00:37:25"
+},
+{
+"kids":[],
+"uid":"3435933014",
+"parent":"",
+"text":"",
+"mid":"A21LWdOvV",
+"date":"2013-07-28 00:37:15"
+},
+{
+"kids":[],
+"uid":"3533688302",
+"parent":"",
+"text":"",
+"mid":"A21LqhA6B",
+"date":"2013-07-28 00:35:59"
+},
+{
+"kids":[],
+"uid":"2797605020",
+"parent":"",
+"text":"",
+"mid":"A21Lfmtof",
+"date":"2013-07-28 00:35:33"
+},
+{
+"kids":[],
+"uid":"318797000",
+"parent":"",
+"text":"",
+"mid":"A21L7nFNu",
+"date":"2013-07-28 00:35:14"
+},
+{
+"kids":[],
+"uid":"1816162640",
+"parent":"",
+"text":"good night",
+"mid":"A21L3eqUt",
+"date":"2013-07-28 00:35:02"
+},
+{
+"kids":[],
+"uid":"2074473203",
+"parent":"",
+"text":"",
+"mid":"A21KVgFIb",
+"date":"2013-07-28 00:34:42"
+},
+{
+"kids":[],
+"uid":"2133482571",
+"parent":"",
+"text":"",
+"mid":"A21KFzDMC",
+"date":"2013-07-28 00:34:07"
+},
+{
+"kids":[],
+"uid":"1437015634",
+"parent":"",
+"text":"我还好吧",
+"mid":"A21Kx1D4z",
+"date":"2013-07-28 00:33:47"
+},
+{
+"kids":[],
+"uid":"eastmelone",
+"parent":"",
+"text":"",
+"mid":"A21Korbuh",
+"date":"2013-07-28 00:33:27"
+},
+{
+"kids":[],
+"uid":"3256529545",
+"parent":"",
+"text":"晚安",
+"mid":"A21KjqPOK",
+"date":"2013-07-28 00:33:15"
+},
+{
+"kids":[],
+"uid":"2453811572",
+"parent":"",
+"text":"",
+"mid":"A21Kgtu1o",
+"date":"2013-07-28 00:33:06"
+},
+{
+"kids":[
+"A21Mqi6Mo"
+],
+"uid":"2823781052",
+"parent":"",
+"text":"我很幸运地大部分拥有了；）象牙医说的，拥有健康的身体，我们就是百万富翁啦！",
+"mid":"A21Kc4I2P",
+"date":"2013-07-28 00:32:55"
+},
+{
+"kids":[],
+"uid":"2441252200",
+"parent":"",
+"text":"",
+"mid":"A21K6rC39",
+"date":"2013-07-28 00:32:43"
+},
+{
+"kids":[],
+"uid":"2933776725",
+"parent":"",
+"text":"這些都是奢侈品，所以我沒有擁有",
+"mid":"A21K0uqHA",
+"date":"2013-07-28 00:32:30"
+},
+{
+"kids":[],
+"uid":"3612859202",
+"parent":"",
+"text":"",
+"mid":"A21JUBaLc",
+"date":"2013-07-28 00:32:16"
+},
+{
+"kids":[],
+"uid":"2932764203",
+"parent":"",
+"text":"",
+"mid":"A21JTrlTu",
+"date":"2013-07-28 00:32:12"
+},
+{
+"kids":[],
+"uid":"2127873351",
+"parent":"",
+"text":"",
+"mid":"A21JSe3FT",
+"date":"2013-07-28 00:32:10"
+},
+{
+"kids":[],
+"uid":"1805031070",
+"parent":"",
+"text":"晚安，每一位！",
+"mid":"A21JRDP7A",
+"date":"2013-07-28 00:32:06"
+},
+{
+"kids":[],
+"uid":"3305658930",
+"parent":"",
+"text":"",
+"mid":"A21JPfuFx",
+"date":"2013-07-28 00:32:03"
+},
+{
+"kids":[
+"A2hotteWk",
+"A2fRla28i"
+],
+"uid":"2697959931",
+"parent":"",
+"text":"",
+"mid":"A21JeD2Qi",
+"date":"2013-07-28 00:30:35"
+},
+{
+"kids":[],
+"uid":"superfm",
+"parent":"",
+"text":"至少有8个，不错[抱抱]",
+"mid":"A21Jej0ml",
+"date":"2013-07-28 00:30:32"
+},
+{
+"kids":[],
+"uid":"1970284087",
+"parent":"",
+"text":"晚安！ [月亮]",
+"mid":"A21JdaADo",
+"date":"2013-07-28 00:30:32"
+},
+{
+"kids":[],
+"uid":"3248240370",
+"parent":"",
+"text":"",
+"mid":"A21Iz03Kk",
+"date":"2013-07-28 00:28:56"
+},
+{
+"kids":[],
+"uid":"3478821873",
+"parent":"A21DXv4v0",
+"text":"这个我要好好留着[哈哈][哈哈][哈哈]",
+"mid":"A21IkckpU",
+"date":"2013-07-28 00:28:21"
+},
+{
+"kids":[],
+"uid":"2039766212",
+"parent":"",
+"text":"晚安～",
+"mid":"A21Id8M8F",
+"date":"2013-07-28 00:28:04"
+},
+{
+"kids":[],
+"uid":"1781254195",
+"parent":"",
+"text":"",
+"mid":"A21Icx83z",
+"date":"2013-07-28 00:28:03"
+},
+{
+"kids":[],
+"uid":"3158019457",
+"parent":"",
+"text":"[奥特曼][奥特曼]",
+"mid":"A21I59Yq2",
+"date":"2013-07-28 00:27:46"
+},
+{
+"kids":[],
+"uid":"2168564882",
+"parent":"",
+"text":"晚安。。",
+"mid":"A21HWzwKe",
+"date":"2013-07-28 00:27:23"
+},
+{
+"kids":[],
+"uid":"1956995687",
+"parent":"",
+"text":"几时可以全部拥有呢？[可怜]",
+"mid":"A21HS9IEf",
+"date":"2013-07-28 00:27:14"
+},
+{
+"kids":[],
+"uid":"2084387121",
+"parent":"",
+"text":"[话筒]",
+"mid":"A21HL2jFQ",
+"date":"2013-07-28 00:26:57"
+},
+{
+"kids":[],
+"uid":"2470445507",
+"parent":"",
+"text":"@黄育鑫 @小地狗阿志 @景-张 @徐向东同学 @amac--H勤 @小夜啃 你们有几个",
+"mid":"A21Hx7IQn",
+"date":"2013-07-28 00:26:25"
+},
+{
+"kids":[],
+"uid":"1862653802",
+"parent":"",
+"text":"@千里兵锋 @枫沓如流星 @shelleylee519 @YoooYooo-Fung",
+"mid":"A21HwA7DQ",
+"date":"2013-07-28 00:26:22"
+},
+{
+"kids":[],
+"uid":"3215916984",
+"parent":"",
+"text":"",
+"mid":"A21Ht3zhm",
+"date":"2013-07-28 00:26:15"
+},
+{
+"kids":[
+"A21M0Cwqu"
+],
+"uid":"catherinechaning",
+"parent":"",
+"text":"Have a good sleep.[爱你][月亮]",
+"mid":"A21HryFCN",
+"date":"2013-07-28 00:26:11"
+},
+{
+"kids":[],
+"uid":"3154732502",
+"parent":"",
+"text":"",
+"mid":"A21H9vWS4",
+"date":"2013-07-28 00:25:28"
+},
+{
+"kids":[],
+"uid":"greatdasy",
+"parent":"",
+"text":"",
+"mid":"A21H6yBkj",
+"date":"2013-07-28 00:25:18"
+},
+{
+"kids":[],
+"uid":"2883910872",
+"parent":"",
+"text":"",
+"mid":"A21H29OBe",
+"date":"2013-07-28 00:25:11"
+},
+{
+"kids":[],
+"uid":"1773943822",
+"parent":"",
+"text":"",
+"mid":"A21GV4g91",
+"date":"2013-07-28 00:24:53"
+},
+{
+"kids":[],
+"uid":"3309775553",
+"parent":"",
+"text":"",
+"mid":"A21GV3eJ1",
+"date":"2013-07-28 00:24:53"
+},
+{
+"kids":[],
+"uid":"602020026",
+"parent":"",
+"text":"",
+"mid":"A21GN1DTc",
+"date":"2013-07-28 00:24:31"
+},
+{
+"kids":[],
+"uid":"1768025895",
+"parent":"",
+"text":"轉發微博",
+"mid":"A21GLxSHY",
+"date":"2013-07-28 00:24:31"
+},
+{
+"kids":[],
+"uid":"2100665823",
+"parent":"",
+"text":"那些最初的纯朴，去哪了？",
+"mid":"A21GLhWkh",
+"date":"2013-07-28 00:24:30"
+},
+{
+"kids":[],
+"uid":"2275099222",
+"parent":"",
+"text":"[心]",
+"mid":"A21GJeRkn",
+"date":"2013-07-28 00:24:23"
+},
+{
+"kids":[],
+"uid":"3622197184",
+"parent":"",
+"text":"晚安",
+"mid":"A21GwvbG6",
+"date":"2013-07-28 00:23:55"
+},
+{
+"kids":[],
+"uid":"2385360633",
+"parent":"",
+"text":"[睡觉][睡觉][睡觉]",
+"mid":"A21GkobCp",
+"date":"2013-07-28 00:23:24"
+},
+{
+"kids":[],
+"uid":"1876135281",
+"parent":"",
+"text":"趁我还有，做我想做的",
+"mid":"A21GjvXlQ",
+"date":"2013-07-28 00:23:23"
+},
+{
+"kids":[],
+"uid":"2668346801",
+"parent":"",
+"text":"",
+"mid":"A21Gi2tNO",
+"date":"2013-07-28 00:23:20"
+},
+{
+"kids":[],
+"uid":"peigg2005",
+"parent":"",
+"text":"原来我还是如此富有[嘻嘻]榜上有数件啊。再穷不能穷精神啊！",
+"mid":"A21Ggw3Fc",
+"date":"2013-07-28 00:23:17"
+},
+{
+"kids":[],
+"uid":"1975212117",
+"parent":"A21EBrZQv",
+"text":"",
+"mid":"A21Geamxv",
+"date":"2013-07-28 00:23:09"
+},
+{
+"kids":[],
+"uid":"AkdamarIsland",
+"parent":"",
+"text":"",
+"mid":"A21G9brDi",
+"date":"2013-07-28 00:22:59"
+},
+{
+"kids":[],
+"uid":"2583923340",
+"parent":"",
+"text":"你拥有几点呢？",
+"mid":"A21FZ9DUi",
+"date":"2013-07-28 00:22:35"
+},
+{
+"kids":[],
+"uid":"3566946063",
+"parent":"",
+"text":"",
+"mid":"A21FXn8X1",
+"date":"2013-07-28 00:22:32"
+},
+{
+"kids":[],
+"uid":"2800322044",
+"parent":"",
+"text":"[给力][给力][给力]",
+"mid":"A21FLxJY2",
+"date":"2013-07-28 00:22:02"
+},
+{
+"kids":[],
+"uid":"2265317582",
+"parent":"",
+"text":"nite[月亮][月亮][月亮]",
+"mid":"A21Fwto3M",
+"date":"2013-07-28 00:21:28"
+},
+{
+"kids":[
+"A21TGEaRg"
+],
+"uid":"208087480",
+"parent":"",
+"text":"好玩！",
+"mid":"A21Ftw2jr",
+"date":"2013-07-28 00:21:18"
+},
+{
+"kids":[],
+"uid":"3643418427",
+"parent":"",
+"text":"",
+"mid":"A21Fs2z7F",
+"date":"2013-07-28 00:21:17"
+},
+{
+"kids":[],
+"uid":"3319119924",
+"parent":"",
+"text":"",
+"mid":"A21FroxLk",
+"date":"2013-07-28 00:21:15"
+},
+{
+"kids":[],
+"uid":"1730983550",
+"parent":"",
+"text":"",
+"mid":"A21FklmBz",
+"date":"2013-07-28 00:20:58"
+},
+{
+"kids":[],
+"uid":"kenny54",
+"parent":"",
+"text":"呃……",
+"mid":"A21F5xoKD",
+"date":"2013-07-28 00:20:21"
+},
+{
+"kids":[],
+"uid":"1115184664",
+"parent":"",
+"text":"[哈哈]",
+"mid":"A21EYt2YQ",
+"date":"2013-07-28 00:20:06"
+},
+{
+"kids":[],
+"uid":"1846777160",
+"parent":"",
+"text":"还有一样没写，就是安全。",
+"mid":"A21ETqrHf",
+"date":"2013-07-28 00:19:52"
+},
+{
+"kids":[
+"A2sTxennJ",
+"A250Wye1H",
+"A24HfgfYT"
+],
+"uid":"537974563",
+"parent":"A21AxmLkB",
+"text":"",
+"mid":"A21EP2NA3",
+"date":"2013-07-28 00:19:44"
+},
+{
+"kids":[],
+"uid":"3596506192",
+"parent":"",
+"text":"",
+"mid":"A21EMCwOf",
+"date":"2013-07-28 00:19:36"
+},
+{
+"kids":[],
+"uid":"1809168302",
+"parent":"A21AxnKnM",
+"text":"",
+"mid":"A21EK0kY2",
+"date":"2013-07-28 00:19:29"
+},
+{
+"kids":[],
+"uid":"23deni",
+"parent":"",
+"text":"奢侈品你占几多？",
+"mid":"A21EJpHo9",
+"date":"2013-07-28 00:19:30"
+},
+{
+"kids":[],
+"uid":"2668278387",
+"parent":"",
+"text":"",
+"mid":"A21EFelZJ",
+"date":"2013-07-28 00:19:20"
+},
+{
+"kids":[
+"A21Geamxv"
+],
+"uid":"xjb0411",
+"parent":"",
+"text":"",
+"mid":"A21EBrZQv",
+"date":"2013-07-28 00:19:11"
+},
+{
+"kids":[],
+"uid":"1838008040",
+"parent":"",
+"text":"",
+"mid":"A21EwoqTJ",
+"date":"2013-07-28 00:18:58"
+},
+{
+"kids":[],
+"uid":"jin90lin",
+"parent":"",
+"text":"",
+"mid":"A21ElcMaV",
+"date":"2013-07-28 00:18:30"
+},
+{
+"kids":[],
+"uid":"2384300585",
+"parent":"",
+"text":"[月亮][月亮]",
+"mid":"A21Ee5he0",
+"date":"2013-07-28 00:18:15"
+},
+{
+"kids":[],
+"uid":"snowshall",
+"parent":"",
+"text":"[爱你]",
+"mid":"A21Eb8RrT",
+"date":"2013-07-28 00:18:08"
+},
+{
+"kids":[
+"A21IkckpU"
+],
+"uid":"1574441701",
+"parent":"",
+"text":"[挖鼻屎]第一条能不能理解为幼稚？那你富翁了，@我唔系陈浩南 第十条你绝对有，没有你我也走不到今天！@ann_叔 [鼓掌]",
+"mid":"A21DXv4v0",
+"date":"2013-07-28 00:17:36"
+},
+{
+"kids":[],
+"uid":"1660235513",
+"parent":"",
+"text":"晚安！––R[微笑][微笑][微笑][鬼脸二][鬼脸二][鬼脸二][鬼脸二][幽灵][月亮]",
+"mid":"A21DWBPoP",
+"date":"2013-07-28 00:17:34"
+},
+{
+"kids":[],
+"uid":"3191049535",
+"parent":"",
+"text":"",
+"mid":"A21DRDgkF",
+"date":"2013-07-28 00:17:20"
+},
+{
+"kids":[],
+"uid":"2532566372",
+"parent":"",
+"text":"@Garfield7辉",
+"mid":"A21DKf68i",
+"date":"2013-07-28 00:17:05"
+},
+{
+"kids":[],
+"uid":"1786961130",
+"parent":"",
+"text":"我有一颗童心[泪]",
+"mid":"A21DE2NhF",
+"date":"2013-07-28 00:16:49"
+},
+{
+"kids":[],
+"uid":"2614646033",
+"parent":"",
+"text":"[good]",
+"mid":"A21DzzOeA",
+"date":"2013-07-28 00:16:38"
+},
+{
+"kids":[],
+"uid":"2501310052",
+"parent":"",
+"text":"晚安",
+"mid":"A21Dy95J6",
+"date":"2013-07-28 00:16:33"
+},
+{
+"kids":[],
+"uid":"2805055700",
+"parent":"",
+"text":"",
+"mid":"A21DwlAKw",
+"date":"2013-07-28 00:16:31"
+},
+{
+"kids":[],
+"uid":"nicolelee1995",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21Db71Ch",
+"date":"2013-07-28 00:15:41"
+},
+{
+"kids":[],
+"uid":"2249658785",
+"parent":"",
+"text":"",
+"mid":"A21D9C80g",
+"date":"2013-07-28 00:15:34"
+},
+{
+"kids":[],
+"uid":"3503013790",
+"parent":"",
+"text":"",
+"mid":"A21D90P3A",
+"date":"2013-07-28 00:15:32"
+},
+{
+"kids":[],
+"uid":"1956656687",
+"parent":"",
+"text":"",
+"mid":"A21D8pb3J",
+"date":"2013-07-28 00:15:35"
+},
+{
+"kids":[],
+"uid":"3319139421",
+"parent":"",
+"text":"",
+"mid":"A21D7gq9c",
+"date":"2013-07-28 00:15:28"
+},
+{
+"kids":[],
+"uid":"investorchen",
+"parent":"",
+"text":"@蔡蔡CDC @笑话码头 @李小原meatball @Lazylillian @Dobbie_冬冬 @十二月的流浪猫",
+"mid":"A21CPeIc7",
+"date":"2013-07-28 00:14:48"
+},
+{
+"kids":[],
+"uid":"2674976962",
+"parent":"",
+"text":"",
+"mid":"A21CO1grw",
+"date":"2013-07-28 00:14:45"
+},
+{
+"kids":[],
+"uid":"2763465981",
+"parent":"",
+"text":"",
+"mid":"A21CLD89Q",
+"date":"2013-07-28 00:14:39"
+},
+{
+"kids":[
+"A2yoOvCep",
+"A2wJcuv6u"
+],
+"uid":"3398499902",
+"parent":"",
+"text":"",
+"mid":"A21CJk0vw",
+"date":"2013-07-28 00:14:33"
+},
+{
+"kids":[],
+"uid":"1281969772",
+"parent":"",
+"text":"",
+"mid":"A21CE0X7U",
+"date":"2013-07-28 00:14:19"
+},
+{
+"kids":[],
+"uid":"3022148725",
+"parent":"",
+"text":"对滴",
+"mid":"A21CCv3HJ",
+"date":"2013-07-28 00:14:18"
+},
+{
+"kids":[],
+"uid":"3553212404",
+"parent":"A21C5EeUb",
+"text":"剩的不多了。",
+"mid":"A21Cx9uRi",
+"date":"2013-07-28 00:14:05"
+},
+{
+"kids":[],
+"uid":"2901408113",
+"parent":"",
+"text":"",
+"mid":"A21Cw28UE",
+"date":"2013-07-28 00:14:03"
+},
+{
+"kids":[],
+"uid":"2373873013",
+"parent":"",
+"text":"睡前一转",
+"mid":"A21Cud9lK",
+"date":"2013-07-28 00:13:58"
+},
+{
+"kids":[],
+"uid":"2340669882",
+"parent":"",
+"text":"",
+"mid":"A21Crii0G",
+"date":"2013-07-28 00:13:51"
+},
+{
+"kids":[],
+"uid":"2522724212",
+"parent":"",
+"text":"",
+"mid":"A21CpebNa",
+"date":"2013-07-28 00:13:43"
+},
+{
+"kids":[
+"A24D81VDQ"
+],
+"uid":"328765211",
+"parent":"",
+"text":"",
+"mid":"A21CfrTkU",
+"date":"2013-07-28 00:13:24"
+},
+{
+"kids":[],
+"uid":"2271039174",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21Cd6b9X",
+"date":"2013-07-28 00:13:17"
+},
+{
+"kids":[],
+"uid":"1738787765",
+"parent":"",
+"text":"晚安",
+"mid":"A21Ca9P4h",
+"date":"2013-07-28 00:13:10"
+},
+{
+"kids":[
+"A21Cx9uRi"
+],
+"uid":"3553212404",
+"parent":"",
+"text":"",
+"mid":"A21C5EeUb",
+"date":"2013-07-28 00:13:00"
+},
+{
+"kids":[],
+"uid":"2279506323",
+"parent":"",
+"text":"@肥佬Tom",
+"mid":"A21C4vJeA",
+"date":"2013-07-28 00:12:55"
+},
+{
+"kids":[],
+"uid":"3225306313",
+"parent":"",
+"text":"轉發微博",
+"mid":"A21C4vJd0",
+"date":"2013-07-28 00:12:55"
+},
+{
+"kids":[],
+"uid":"1856933817",
+"parent":"",
+"text":"",
+"mid":"A21C1ynyF",
+"date":"2013-07-28 00:12:49"
+},
+{
+"kids":[],
+"uid":"3170132920",
+"parent":"",
+"text":"",
+"mid":"A21C0DMUO",
+"date":"2013-07-28 00:12:48"
+},
+{
+"kids":[],
+"uid":"2734337974",
+"parent":"",
+"text":"@Banan乔",
+"mid":"A21C0nwoM",
+"date":"2013-07-28 00:12:48"
+},
+{
+"kids":[],
+"uid":"hapy1314",
+"parent":"",
+"text":"",
+"mid":"A21BSmsl5",
+"date":"2013-07-28 00:12:28"
+},
+{
+"kids":[],
+"uid":"3421570122",
+"parent":"",
+"text":"",
+"mid":"A21BRbBRr",
+"date":"2013-07-28 00:12:25"
+},
+{
+"kids":[],
+"uid":"3591411284",
+"parent":"",
+"text":"",
+"mid":"A21BQCdE6",
+"date":"2013-07-28 00:12:22"
+},
+{
+"kids":[],
+"uid":"1809616284",
+"parent":"",
+"text":"一颗童心，这个词语动我心弦。缺少童心的人，我在心中是不认同的，也成为不了普通朋友！",
+"mid":"A21BOglcb",
+"date":"2013-07-28 00:12:17"
+},
+{
+"kids":[],
+"uid":"2989692793",
+"parent":"",
+"text":"",
+"mid":"A21BMdoK9",
+"date":"2013-07-28 00:12:13"
+},
+{
+"kids":[],
+"uid":"1858262554",
+"parent":"",
+"text":"晚安[打哈气][打哈气]",
+"mid":"A21BInTpF",
+"date":"2013-07-28 00:12:04"
+},
+{
+"kids":[],
+"uid":"2280571075",
+"parent":"",
+"text":"一个都无",
+"mid":"A21By2orZ",
+"date":"2013-07-28 00:11:40"
+},
+{
+"kids":[],
+"uid":"2718061320",
+"parent":"",
+"text":"好奢侈",
+"mid":"A21Bn6ewS",
+"date":"2013-07-28 00:11:12"
+},
+{
+"kids":[
+"A24SXC1Ta"
+],
+"uid":"2210536334",
+"parent":"",
+"text":"",
+"mid":"A21Bimnmw",
+"date":"2013-07-28 00:10:59"
+},
+{
+"kids":[],
+"uid":"1669832581",
+"parent":"",
+"text":"也许无法拥有全部，可拥有的、那怕仅存唯一的，都得好好珍惜！",
+"mid":"A21B82QUI",
+"date":"2013-07-28 00:10:35"
+},
+{
+"kids":[],
+"uid":"1834722432",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21B81RIL",
+"date":"2013-07-28 00:10:35"
+},
+{
+"kids":[],
+"uid":"1006525521",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21B7qdD3",
+"date":"2013-07-28 00:10:34"
+},
+{
+"kids":[],
+"uid":"chunlinvip",
+"parent":"",
+"text":"",
+"mid":"A21B7qdtB",
+"date":"2013-07-28 00:10:34"
+},
+{
+"kids":[],
+"uid":"2363044585",
+"parent":"",
+"text":"",
+"mid":"A21AXEUgB",
+"date":"2013-07-28 00:10:10"
+},
+{
+"kids":[],
+"uid":"2175602702",
+"parent":"",
+"text":"对我来说排名第一的是 安稳平和的睡眠！[抓狂]好奢侈",
+"mid":"A21AX6GQ1",
+"date":"2013-07-28 00:10:10"
+},
+{
+"kids":[],
+"uid":"xiaogetan",
+"parent":"",
+"text":"",
+"mid":"A21ARqIyN",
+"date":"2013-07-28 00:09:58"
+},
+{
+"kids":[],
+"uid":"2286042490",
+"parent":"",
+"text":"",
+"mid":"A21AP51FY",
+"date":"2013-07-28 00:09:52"
+},
+{
+"kids":[],
+"uid":"1923131803",
+"parent":"",
+"text":"",
+"mid":"A21ANlnkf",
+"date":"2013-07-28 00:09:48"
+},
+{
+"kids":[],
+"uid":"milkpink",
+"parent":"",
+"text":"晚安[太开心]",
+"mid":"A21ALhgVr",
+"date":"2013-07-28 00:09:42"
+},
+{
+"kids":[],
+"uid":"2323354154",
+"parent":"",
+"text":"亲们晚安",
+"mid":"A21AKn24L",
+"date":"2013-07-28 00:09:39"
+},
+{
+"kids":[],
+"uid":"1758813931",
+"parent":"",
+"text":"这些正是我一生不断努力所追求的，我想得到这十样已经没什么理由不满足的了",
+"mid":"A21AI1k6Q",
+"date":"2013-07-28 00:09:35"
+},
+{
+"kids":[],
+"uid":"2111083951",
+"parent":"",
+"text":"[思考]",
+"mid":"A21AF2aL7",
+"date":"2013-07-28 00:09:28"
+},
+{
+"kids":[],
+"uid":"3058730821",
+"parent":"",
+"text":"",
+"mid":"A21AA3uLU",
+"date":"2013-07-28 00:09:14"
+},
+{
+"kids":[
+"A21EK0kY2"
+],
+"uid":"1151295150",
+"parent":"",
+"text":"",
+"mid":"A21AxnKnM",
+"date":"2013-07-28 00:09:10"
+},
+{
+"kids":[],
+"uid":"zero1250",
+"parent":"",
+"text":"",
+"mid":"A21AxnKgh",
+"date":"2013-07-28 00:09:10"
+},
+{
+"kids":[
+"A2sTxennJ",
+"A250Wye1H",
+"A24HfgfYT",
+"A21EP2NA3"
+],
+"uid":"2123166300",
+"parent":"",
+"text":"",
+"mid":"A21AxmLkB",
+"date":"2013-07-28 00:09:11"
+},
+{
+"kids":[],
+"uid":"jnh754",
+"parent":"",
+"text":"",
+"mid":"A21AtuqPQ",
+"date":"2013-07-28 00:09:01"
+},
+{
+"kids":[],
+"uid":"2281871717",
+"parent":"",
+"text":"",
+"mid":"A21Ap6kVx",
+"date":"2013-07-28 00:08:50"
+},
+{
+"kids":[],
+"uid":"ablettshb",
+"parent":"",
+"text":"",
+"mid":"A21Ahnu02",
+"date":"2013-07-28 00:08:30"
+},
+{
+"kids":[],
+"uid":"1963227115",
+"parent":"",
+"text":"",
+"mid":"A21Af5vkY",
+"date":"2013-07-28 00:08:27"
+},
+{
+"kids":[],
+"uid":"lindalaw",
+"parent":"",
+"text":"你拥有多少？",
+"mid":"A21Aer3UJ",
+"date":"2013-07-28 00:08:24"
+},
+{
+"kids":[],
+"uid":"Ccmll",
+"parent":"",
+"text":"",
+"mid":"A21AbvwdC",
+"date":"2013-07-28 00:08:17"
+},
+{
+"kids":[],
+"uid":"2134803701",
+"parent":"",
+"text":"",
+"mid":"A21AbtJ3C",
+"date":"2013-07-28 00:08:18"
+},
+{
+"kids":[],
+"uid":"2129852312",
+"parent":"",
+"text":"",
+"mid":"A21AaCgsj",
+"date":"2013-07-28 00:08:13"
+},
+{
+"kids":[],
+"uid":"2274560520",
+"parent":"",
+"text":"",
+"mid":"A21A5z31b",
+"date":"2013-07-28 00:08:01"
+},
+{
+"kids":[],
+"uid":"zhuren2",
+"parent":"",
+"text":"",
+"mid":"A21zZougB",
+"date":"2013-07-28 00:07:49"
+},
+{
+"kids":[],
+"uid":"3356834372",
+"parent":"",
+"text":"",
+"mid":"A21zZ4grp",
+"date":"2013-07-28 00:07:48"
+},
+{
+"kids":[],
+"uid":"1973380981",
+"parent":"",
+"text":"@信望爱-fee矇要疯狂",
+"mid":"A21zVdGr5",
+"date":"2013-07-28 00:07:39"
+},
+{
+"kids":[],
+"uid":"1750577164",
+"parent":"",
+"text":"[good]",
+"mid":"A21zUEDgX",
+"date":"2013-07-28 00:07:39"
+},
+{
+"kids":[],
+"uid":"zhengyilin2001",
+"parent":"",
+"text":"",
+"mid":"A21zKBHPs",
+"date":"2013-07-28 00:07:11"
+},
+{
+"kids":[],
+"uid":"83810356",
+"parent":"",
+"text":"背包走天下",
+"mid":"A21zJqR1H",
+"date":"2013-07-28 00:07:12"
+},
+{
+"kids":[],
+"uid":"2695781904",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21zIxBkr",
+"date":"2013-07-28 00:07:08"
+},
+{
+"kids":[],
+"uid":"1416146883",
+"parent":"",
+"text":"",
+"mid":"A21zIgYPY",
+"date":"2013-07-28 00:07:06"
+},
+{
+"kids":[],
+"uid":"333067705",
+"parent":"",
+"text":"我覺得我很富有嘛....",
+"mid":"A21zG9oLb",
+"date":"2013-07-28 00:07:01"
+},
+{
+"kids":[],
+"uid":"1562746850",
+"parent":"",
+"text":"[围观]",
+"mid":"A21zC26Nh",
+"date":"2013-07-28 00:06:52"
+},
+{
+"kids":[],
+"uid":"kinban",
+"parent":"",
+"text":"",
+"mid":"A21zqttGg",
+"date":"2013-07-28 00:06:26"
+},
+{
+"kids":[],
+"uid":"2015359015",
+"parent":"",
+"text":"",
+"mid":"A21zqdRkN",
+"date":"2013-07-28 00:06:25"
+},
+{
+"kids":[],
+"uid":"2260245710",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21znzuuV",
+"date":"2013-07-28 00:06:17"
+},
+{
+"kids":[
+"A26hglJxN",
+"A25yqF2E2"
+],
+"uid":"jianhui320",
+"parent":"",
+"text":"这十样东西真够奢侈的，我全都想要！[花心][花心]",
+"mid":"A21zmESDh",
+"date":"2013-07-28 00:06:16"
+},
+{
+"kids":[],
+"uid":"2167018097",
+"parent":"",
+"text":"",
+"mid":"A21ziy1Fi",
+"date":"2013-07-28 00:06:05"
+},
+{
+"kids":[],
+"uid":"2954981695",
+"parent":"",
+"text":"",
+"mid":"A21zc46By",
+"date":"2013-07-28 00:05:49"
+},
+{
+"kids":[],
+"uid":"2030757747",
+"parent":"",
+"text":"[话筒][话筒][话筒][钟][钟][钟]",
+"mid":"A21zaelzQ",
+"date":"2013-07-28 00:05:48"
+},
+{
+"kids":[],
+"uid":"1584663663",
+"parent":"",
+"text":"",
+"mid":"A21z6q16u",
+"date":"2013-07-28 00:05:36"
+},
+{
+"kids":[],
+"uid":"1756886083",
+"parent":"",
+"text":"生生不息的信念",
+"mid":"A21z688DO",
+"date":"2013-07-28 00:05:34"
+},
+{
+"kids":[],
+"uid":"2306973055",
+"parent":"",
+"text":"",
+"mid":"A21z4lUJ8",
+"date":"2013-07-28 00:05:31"
+},
+{
+"kids":[],
+"uid":"gznsgzh",
+"parent":"",
+"text":"",
+"mid":"A21yXffSy",
+"date":"2013-07-28 00:05:16"
+},
+{
+"kids":[],
+"uid":"1773401185",
+"parent":"",
+"text":"",
+"mid":"A21yWpb1W",
+"date":"2013-07-28 00:05:14"
+},
+{
+"kids":[],
+"uid":"2994012687",
+"parent":"",
+"text":"",
+"mid":"A21yU0jIJ",
+"date":"2013-07-28 00:05:07"
+},
+{
+"kids":[],
+"uid":"2178610094",
+"parent":"",
+"text":"[可爱]",
+"mid":"A21ySvqEW",
+"date":"2013-07-28 00:05:05"
+},
+{
+"kids":[],
+"uid":"1962422107",
+"parent":"",
+"text":"",
+"mid":"A21yOFI3E",
+"date":"2013-07-28 00:04:55"
+},
+{
+"kids":[],
+"uid":"1779059782",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21yKzKc9",
+"date":"2013-07-28 00:04:44"
+},
+{
+"kids":[],
+"uid":"12032812",
+"parent":"",
+"text":"",
+"mid":"A21yKfVfa",
+"date":"2013-07-28 00:04:43"
+},
+{
+"kids":[],
+"uid":"2683691667",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21ywlCy5",
+"date":"2013-07-28 00:04:11"
+},
+{
+"kids":[],
+"uid":"a10069001",
+"parent":"",
+"text":"",
+"mid":"A21yuC6ba",
+"date":"2013-07-28 00:04:05"
+},
+{
+"kids":[],
+"uid":"2103174840",
+"parent":"",
+"text":"我有几个[晕]",
+"mid":"A21yu1Uwr",
+"date":"2013-07-28 00:04:03"
+},
+{
+"kids":[],
+"uid":"1435483491",
+"parent":"",
+"text":"",
+"mid":"A21ynvyfT",
+"date":"2013-07-28 00:03:49"
+},
+{
+"kids":[],
+"uid":"2682062771",
+"parent":"",
+"text":"说的真好",
+"mid":"A21ym20qL",
+"date":"2013-07-28 00:03:47"
+},
+{
+"kids":[],
+"uid":"nickshuwb",
+"parent":"",
+"text":"@劳动午报",
+"mid":"A21ykzayL",
+"date":"2013-07-28 00:03:41"
+},
+{
+"kids":[],
+"uid":"1832311751",
+"parent":"",
+"text":"过快的节奏使我们忘了驻足看看身边的风景",
+"mid":"A21yidsDR",
+"date":"2013-07-28 00:03:38"
+},
+{
+"kids":[],
+"uid":"2707551704",
+"parent":"",
+"text":"",
+"mid":"A21yhhkYw",
+"date":"2013-07-28 00:03:37"
+},
+{
+"kids":[],
+"uid":"3235855011",
+"parent":"",
+"text":"",
+"mid":"A21yff80Q",
+"date":"2013-07-28 00:03:31"
+},
+{
+"kids":[],
+"uid":"1766005385",
+"parent":"",
+"text":"",
+"mid":"A21ycAlL6",
+"date":"2013-07-28 00:03:25"
+},
+{
+"kids":[],
+"uid":"sunnyabread",
+"parent":"",
+"text":"一颗童心，我有我有[耶][耶]",
+"mid":"A21ycAlFx",
+"date":"2013-07-28 00:03:22"
+},
+{
+"kids":[],
+"uid":"2612950932",
+"parent":"",
+"text":"",
+"mid":"A21yb7TqH",
+"date":"2013-07-28 00:03:20"
+},
+{
+"kids":[],
+"uid":"520070318",
+"parent":"",
+"text":"[月亮] 晚安。。。",
+"mid":"A21y9B0ij",
+"date":"2013-07-28 00:03:16"
+},
+{
+"kids":[],
+"uid":"2989676451",
+"parent":"",
+"text":"[来]",
+"mid":"A21y64sAM",
+"date":"2013-07-28 00:03:10"
+},
+{
+"kids":[],
+"uid":"1904476595",
+"parent":"",
+"text":"",
+"mid":"A21y5daQd",
+"date":"2013-07-28 00:03:08"
+},
+{
+"kids":[],
+"uid":"hzqx10",
+"parent":"",
+"text":"[给力](ww)",
+"mid":"A21y385FQ",
+"date":"2013-07-28 00:02:59"
+},
+{
+"kids":[],
+"uid":"2649806355",
+"parent":"",
+"text":"",
+"mid":"A21xOEZeK",
+"date":"2013-07-28 00:02:25"
+},
+{
+"kids":[],
+"uid":"2460213563",
+"parent":"",
+"text":"",
+"mid":"A21xO3HRZ",
+"date":"2013-07-28 00:02:24"
+},
+{
+"kids":[],
+"uid":"ya880813",
+"parent":"",
+"text":"",
+"mid":"A21xNu8qQ",
+"date":"2013-07-28 00:02:25"
+},
+{
+"kids":[],
+"uid":"2369379921",
+"parent":"",
+"text":"",
+"mid":"A21xJDwCh",
+"date":"2013-07-28 00:02:16"
+},
+{
+"kids":[],
+"uid":"baicaowu26",
+"parent":"",
+"text":"",
+"mid":"A21xJCyiI",
+"date":"2013-07-28 00:02:16"
+},
+{
+"kids":[],
+"uid":"2607703700",
+"parent":"",
+"text":"[good][good]",
+"mid":"A21xJkWUu",
+"date":"2013-07-28 00:02:15"
+},
+{
+"kids":[],
+"uid":"2271937854",
+"parent":"",
+"text":"晚安…",
+"mid":"A21xHgQcE",
+"date":"2013-07-28 00:02:08"
+},
+{
+"kids":[],
+"uid":"3579953967",
+"parent":"",
+"text":"确实很奢侈啊！",
+"mid":"A21xGlDR1",
+"date":"2013-07-28 00:02:08"
+},
+{
+"kids":[],
+"uid":"1798381897",
+"parent":"",
+"text":"",
+"mid":"A21xBDJql",
+"date":"2013-07-28 00:01:56"
+},
+{
+"kids":[],
+"uid":"3286591524",
+"parent":"",
+"text":"",
+"mid":"A21xwCh1j",
+"date":"2013-07-28 00:01:45"
+},
+{
+"kids":[],
+"uid":"m881120",
+"parent":"",
+"text":"轉發微博",
+"mid":"A21xqqVGi",
+"date":"2013-07-28 00:01:30"
+},
+{
+"kids":[],
+"uid":"jandster",
+"parent":"",
+"text":"额,还好有一两个.",
+"mid":"A21xpg4xA",
+"date":"2013-07-28 00:01:27"
+},
+{
+"kids":[],
+"uid":"herun1314",
+"parent":"",
+"text":"",
+"mid":"A21xomP6a",
+"date":"2013-07-28 00:01:25"
+},
+{
+"kids":[],
+"uid":"3300325385",
+"parent":"",
+"text":"",
+"mid":"A21xmfV2f",
+"date":"2013-07-28 00:01:19"
+},
+{
+"kids":[],
+"uid":"2808699652",
+"parent":"",
+"text":"",
+"mid":"A21xhxT6Q",
+"date":"2013-07-28 00:01:09"
+},
+{
+"kids":[],
+"uid":"3494761252",
+"parent":"",
+"text":"",
+"mid":"A21xgFBEv",
+"date":"2013-07-28 00:01:05"
+},
+{
+"kids":[],
+"uid":"2172793554",
+"parent":"",
+"text":"差两个〜",
+"mid":"A21xcwqev",
+"date":"2013-07-28 00:00:57"
+},
+{
+"kids":[],
+"uid":"1794015757",
+"parent":"",
+"text":"我要做一个这样富有的人！",
+"mid":"A21xblzjb",
+"date":"2013-07-28 00:00:54"
+},
+{
+"kids":[],
+"uid":"2316546702",
+"parent":"",
+"text":"转发微博。",
+"mid":"A21xb4VZL",
+"date":"2013-07-28 00:00:53"
+},
+{
+"kids":[],
+"uid":"2313938245",
+"parent":"",
+"text":"[嘻嘻]",
+"mid":"A21xaaIt4",
+"date":"2013-07-28 00:00:51"
+},
+{
+"kids":[],
+"uid":"2480192413",
+"parent":"",
+"text":"@杜子建       你怎么看",
+"mid":"A21x7ukLG",
+"date":"2013-07-28 00:00:45"
+},
+{
+"kids":[],
+"uid":"1804117897",
+"parent":"",
+"text":"",
+"mid":"A21x63tHG",
+"date":"2013-07-28 00:00:42"
+},
+{
+"kids":[],
+"uid":"1867753851",
+"parent":"",
+"text":"圆满的境界。。。",
+"mid":"A21x3BR5X",
+"date":"2013-07-28 00:00:35"
+},
+{
+"kids":[],
+"uid":"1812715407",
+"parent":"",
+"text":"@天琴21 @Zcimi翠梅",
+"mid":"A21x10s0P",
+"date":"2013-07-28 00:00:29"
+},
+{
+"kids":[],
+"uid":"1353722762",
+"parent":"",
+"text":"看来我拥有的奢侈品还蛮多的[哈哈][哈哈]",
+"mid":"A21x0poQ5",
+"date":"2013-07-28 00:00:29"
+},
+{
+"kids":[],
+"uid":"2610863493",
+"parent":"",
+"text":"",
+"mid":"A21wZx7qr",
+"date":"2013-07-28 00:00:27"
+},
+{
+"kids":[],
+"uid":"201209959",
+"parent":"",
+"text":"",
+"mid":"A21wZw9b9",
+"date":"2013-07-28 00:00:24"
+},
+{
+"kids":[
+"A25uXhgPg"
+],
+"uid":"809056700",
+"parent":"",
+"text":"晚安。",
+"mid":"A21wZvyKo",
+"date":"2013-07-28 00:00:25"
+},
+{
+"kids":[],
+"uid":"1834510135",
+"parent":"",
+"text":"转发",
+"mid":"A21wY3GBi",
+"date":"2013-07-28 00:00:20"
+},
+{
+"kids":[],
+"uid":"1257895642",
+"parent":"",
+"text":"[心]",
+"mid":"A21wQ5PO2",
+"date":"2013-07-28 00:00:01"
+},
+{
+"kids":[],
+"uid":"3496575301",
+"parent":"",
+"text":"",
+"mid":"A21wPcAnT",
+"date":"2013-07-28 00:00:01"
+},
+{
+"kids":[],
+"uid":"1963413965",
+"parent":"",
+"text":"好像具备好几个呢",
+"mid":"A21wPb5zH",
+"date":"2013-07-28 00:00:01"
+},
+{
+"kids":[
+"AcvuDFtAi"
+],
+"uid":"1891173832",
+"parent":"",
+"text":"轉發微博",
+"mid":"A21wMfeq6",
+"date":"2013-07-27 23:59:54"
+},
+{
+"kids":[],
+"uid":"2723657973",
+"parent":"",
+"text":"",
+"mid":"A21wMbRZ8",
+"date":"2013-07-27 23:59:54"
+},
+{
+"kids":[],
+"uid":"l15975928203",
+"parent":"",
+"text":"",
+"mid":"A21wKsJoj",
+"date":"2013-07-27 23:59:51"
+},
+{
+"kids":[
+"A24yvFhXs"
+],
+"uid":"livenchou",
+"parent":"",
+"text":"轉發微博",
+"mid":"A21wGhc7C",
+"date":"2013-07-27 23:59:40"
+},
+{
+"kids":[
+"AmUUcdjPB",
+"AmUm30md1",
+"AmUh6iiCA",
+"AmMlhfM1q",
+"AmMjUaeIX",
+"AmKF39yRp",
+"AmCVcptnr",
+"AmBuhq7LA",
+"AmBaWkTFC",
+"AmsY1mToP",
+"Ams5e8tmY",
+"AmlrCvDZ1",
+"AmlmWDILE",
+"Alynst4x5",
+"Alxe5becy",
+"Ai4nUfrfu",
+"Ai3Ryu7Um",
+"Ai3At8pjp",
+"AhCByutjG",
+"AhkhmBcD3",
+"AhhaIenxh",
+"AhaiahQNY",
+"AgfuVnMCC",
+"Ag4700TAA",
+"Ag3TW3YmR",
+"AfiCeBPEv",
+"Ae2yf56TV",
+"Ab05Hs8pS"
+],
+"uid":"lanmiaoxi",
+"parent":"",
+"text":"",
+"mid":"A21wFrh8e",
+"date":"2013-07-27 23:59:36"
+},
+{
+"kids":[
+"A24C6rpXw",
+"A24C0hgky"
+],
+"uid":"xinrong1992",
+"parent":"",
+"text":"晚安",
+"mid":"A21wFnX7f",
+"date":"2013-07-27 23:59:38"
+}
+]

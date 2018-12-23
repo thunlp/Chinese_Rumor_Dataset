@@ -1,0 +1,4837 @@
+[
+{
+"kids":[],
+"uid":"2248134222",
+"parent":"Agq8y5PaE",
+"text":"",
+"mid":"Agwgijeuj",
+"date":"2013-10-31 07:58:42"
+},
+{
+"kids":[],
+"uid":"1560730014",
+"parent":"Agq8y5PaE",
+"text":"嗯……贝叶斯式的答案？",
+"mid":"Agqb7ockj",
+"date":"2013-10-30 16:29:26"
+},
+{
+"kids":[
+"Agwgijeuj",
+"Agqb7ockj"
+],
+"uid":"cabon",
+"parent":"A5A6cxp4j",
+"text":"等等等等，这个是不是因果倒置了？应该是钱越多的人性生活越多吧……（悲伤",
+"mid":"Agq8y5PaE",
+"date":"2013-10-30 16:23:08"
+},
+{
+"kids":[],
+"uid":"3045299340",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"AcrAm088e",
+"date":"2013-10-04 12:43:09"
+},
+{
+"kids":[],
+"uid":"1778325973",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"AcrfX0Vym",
+"date":"2013-10-04 11:52:53"
+},
+{
+"kids":[],
+"uid":"3043579232",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"Aci2IdTB7",
+"date":"2013-10-03 12:25:32"
+},
+{
+"kids":[],
+"uid":"2810132294",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"AbXugs5Wt",
+"date":"2013-10-01 08:05:45"
+},
+{
+"kids":[],
+"uid":"3044134910",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"AbQosaUR8",
+"date":"2013-09-30 14:02:11"
+},
+{
+"kids":[],
+"uid":"2789887392",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"AbPWxaUYr",
+"date":"2013-09-30 12:53:25"
+},
+{
+"kids":[],
+"uid":"2804727694",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"AbvFHg3xe",
+"date":"2013-09-28 09:17:00"
+},
+{
+"kids":[],
+"uid":"3043546642",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"AboLOyogZ",
+"date":"2013-09-27 15:42:49"
+},
+{
+"kids":[],
+"uid":"2803176092",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"Abn5PeAX6",
+"date":"2013-09-27 11:26:38"
+},
+{
+"kids":[],
+"uid":"1440491413",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"AblNV17Cd",
+"date":"2013-09-27 08:09:47"
+},
+{
+"kids":[],
+"uid":"1581704433",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"AbeEF4SmP",
+"date":"2013-09-26 13:57:44"
+},
+{
+"kids":[],
+"uid":"2919664704",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"AbeAG2CU8",
+"date":"2013-09-26 13:47:57"
+},
+{
+"kids":[],
+"uid":"1583270145",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"Aben3vI3y",
+"date":"2013-09-26 13:14:23"
+},
+{
+"kids":[],
+"uid":"2789887332",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"AbcZRAIzP",
+"date":"2013-09-26 09:44:29"
+},
+{
+"kids":[],
+"uid":"3044213652",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"AaBZmfC1h",
+"date":"2013-09-22 11:31:37"
+},
+{
+"kids":[],
+"uid":"2919636380",
+"parent":"AasUxiXYE",
+"text":"",
+"mid":"AaB3SlagI",
+"date":"2013-09-22 09:10:01"
+},
+{
+"kids":[
+"AcrAm088e",
+"AcrfX0Vym",
+"Aci2IdTB7",
+"AbXugs5Wt",
+"AbQosaUR8",
+"AbPWxaUYr",
+"AbvFHg3xe",
+"Abn5PeAX6",
+"AblNV17Cd",
+"AaBZmfC1h",
+"AaB3SlagI"
+],
+"uid":"3044219564",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"AasUxiXYE",
+"date":"2013-09-21 12:25:02"
+},
+{
+"kids":[],
+"uid":"3044806492",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"Aar0T5Lkc",
+"date":"2013-09-21 07:35:10"
+},
+{
+"kids":[],
+"uid":"1583312721",
+"parent":"A5wrYa4Zn",
+"text":"",
+"mid":"A9RDSyWJk",
+"date":"2013-09-17 13:32:21"
+},
+{
+"kids":[],
+"uid":"2789879434",
+"parent":"A5wrYa4Zn",
+"text":"",
+"mid":"A9Pn57Lwy",
+"date":"2013-09-17 07:45:29"
+},
+{
+"kids":[],
+"uid":"2810996700",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"A9nhMrymD",
+"date":"2013-09-14 08:15:30"
+},
+{
+"kids":[],
+"uid":"1776803192",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"A9ehDmOfe",
+"date":"2013-09-13 09:20:25"
+},
+{
+"kids":[],
+"uid":"3045334652",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"A9dWAd7JN",
+"date":"2013-09-13 08:28:33"
+},
+{
+"kids":[],
+"uid":"3045059434",
+"parent":"A5w2C7CQK",
+"text":"",
+"mid":"A8Xug5saZ",
+"date":"2013-09-11 14:34:49"
+},
+{
+"kids":[],
+"uid":"3044369360",
+"parent":"A7i8D1GQw",
+"text":"",
+"mid":"A8nb1dOPU",
+"date":"2013-09-07 18:08:31"
+},
+{
+"kids":[],
+"uid":"2919924240",
+"parent":"A5wrYa4Zn",
+"text":"",
+"mid":"A7O2KE7kD",
+"date":"2013-09-04 00:42:03"
+},
+{
+"kids":[],
+"uid":"3045146860",
+"parent":"A5wpljU5N",
+"text":"",
+"mid":"A7FW8mGgb",
+"date":"2013-09-03 04:03:46"
+},
+{
+"kids":[],
+"uid":"531231884",
+"parent":"",
+"text":"",
+"mid":"A7itN0NSi",
+"date":"2013-08-31 16:20:44"
+},
+{
+"kids":[
+"AcrAm088e",
+"AcrfX0Vym",
+"Aci2IdTB7",
+"AbXugs5Wt",
+"AbQosaUR8",
+"AbPWxaUYr",
+"AbvFHg3xe",
+"AboLOyogZ",
+"Abn5PeAX6",
+"AblNV17Cd",
+"AbeEF4SmP",
+"AbeAG2CU8",
+"Aben3vI3y",
+"AbcZRAIzP",
+"AaBZmfC1h",
+"AaB3SlagI",
+"AasUxiXYE",
+"Aar0T5Lkc",
+"A9nhMrymD",
+"A9ehDmOfe",
+"A9dWAd7JN",
+"A8nb1dOPU"
+],
+"uid":"3212255170",
+"parent":"A5J7VpwiW",
+"text":"哇撒，有钱人原来性生活如此丰富",
+"mid":"A7i8D1GQw",
+"date":"2013-08-31 15:28:36"
+},
+{
+"kids":[],
+"uid":"2803343682",
+"parent":"A5w2C7CQK",
+"text":"",
+"mid":"A6vVTmU7m",
+"date":"2013-08-26 12:45:24"
+},
+{
+"kids":[],
+"uid":"2610775614",
+"parent":"",
+"text":"那失足妇女收入更高啊，一天都几次。",
+"mid":"A6dCZnGLQ",
+"date":"2013-08-24 14:09:22"
+},
+{
+"kids":[],
+"uid":"3200257740",
+"parent":"A5yDAmB9F",
+"text":"",
+"mid":"A6bl3h4ZY",
+"date":"2013-08-24 08:19:42"
+},
+{
+"kids":[],
+"uid":"linguiste",
+"parent":"A65XYv9f7",
+"text":"我应该艾特[兔子]",
+"mid":"A66dGt06t",
+"date":"2013-08-23 19:17:48"
+},
+{
+"kids":[
+"A66dGt06t"
+],
+"uid":"janetwsj",
+"parent":"A5P0hch8C",
+"text":"手抖随意at[haha]@国企小跟班的呻吟语",
+"mid":"A65XYv9f7",
+"date":"2013-08-23 18:39:07"
+},
+{
+"kids":[],
+"uid":"2919709594",
+"parent":"A5zNzbEdw",
+"text":"",
+"mid":"A63DUp1U9",
+"date":"2013-08-23 12:44:11"
+},
+{
+"kids":[],
+"uid":"3043917014",
+"parent":"A5ycudWUb",
+"text":"",
+"mid":"A63rUDyDD",
+"date":"2013-08-23 12:14:36"
+},
+{
+"kids":[],
+"uid":"3043917014",
+"parent":"A5ycudWUb",
+"text":"",
+"mid":"A63i26HFx",
+"date":"2013-08-23 11:50:16"
+},
+{
+"kids":[],
+"uid":"2906578501",
+"parent":"",
+"text":"年轻人赚钱多？年大人赚钱少？",
+"mid":"A62XqnTcM",
+"date":"2013-08-23 10:59:31"
+},
+{
+"kids":[],
+"uid":"hougecekong",
+"parent":"",
+"text":"",
+"mid":"A62nTbY42",
+"date":"2013-08-23 09:31:58"
+},
+{
+"kids":[
+"A66dGt06t",
+"A65XYv9f7"
+],
+"uid":"1813270474",
+"parent":"A5BdsEIdC",
+"text":"[嘻嘻][嘻嘻][嘻嘻]",
+"mid":"A5P0hch8C",
+"date":"2013-08-21 23:28:04"
+},
+{
+"kids":[],
+"uid":"2787475720",
+"parent":"",
+"text":"..................",
+"mid":"A5MagnTu1",
+"date":"2013-08-21 16:14:24"
+},
+{
+"kids":[],
+"uid":"m7169",
+"parent":"",
+"text":"[挖鼻屎]@行走的小寞 @我是一棵2梧桐树 @姣姣儿",
+"mid":"A5LHXaZ2s",
+"date":"2013-08-21 15:04:41"
+},
+{
+"kids":[],
+"uid":"lylight",
+"parent":"",
+"text":"说明钱和性都很重要，要努力了，小伙伴们！！！",
+"mid":"A5LHymNKo",
+"date":"2013-08-21 15:03:42"
+},
+{
+"kids":[],
+"uid":"3190536142",
+"parent":"",
+"text":"这算什么研究撒。谁又在编什么专家研究了。日饱思淫欲，还要研究啊。赚钱多的人，吃饱了喝足了能干嘛？",
+"mid":"A5JtBk6ZF",
+"date":"2013-08-21 09:23:51"
+},
+{
+"kids":[
+"AcrAm088e",
+"AcrfX0Vym",
+"Aci2IdTB7",
+"AbXugs5Wt",
+"AbQosaUR8",
+"AbPWxaUYr",
+"AbvFHg3xe",
+"AboLOyogZ",
+"Abn5PeAX6",
+"AblNV17Cd",
+"AbeEF4SmP",
+"AbeAG2CU8",
+"Aben3vI3y",
+"AbcZRAIzP",
+"AaBZmfC1h",
+"AaB3SlagI",
+"AasUxiXYE",
+"Aar0T5Lkc",
+"A9nhMrymD",
+"A9ehDmOfe",
+"A9dWAd7JN",
+"A8nb1dOPU",
+"A7i8D1GQw"
+],
+"uid":"1582557804",
+"parent":"A5w1OcFi2",
+"text":"",
+"mid":"A5J7VpwiW",
+"date":"2013-08-21 08:30:27"
+},
+{
+"kids":[],
+"uid":"3045323842",
+"parent":"A5w1OcFi2",
+"text":"",
+"mid":"A5J1vEJQn",
+"date":"2013-08-21 08:14:38"
+},
+{
+"kids":[],
+"uid":"xinghai",
+"parent":"",
+"text":"摘录到《让爱跟着感觉走》 http:",
+"mid":"A5I1Ub7Ef",
+"date":"2013-08-21 05:42:52"
+},
+{
+"kids":[],
+"uid":"1118600453",
+"parent":"A5zQczv5K",
+"text":"你好腐！",
+"mid":"A5FUEC2WM",
+"date":"2013-08-21 00:19:32"
+},
+{
+"kids":[],
+"uid":"2110088415",
+"parent":"",
+"text":"",
+"mid":"A5FU3nKbz",
+"date":"2013-08-21 00:18:00"
+},
+{
+"kids":[],
+"uid":"linuxpuma",
+"parent":"",
+"text":"飘过。",
+"mid":"A5FQx2p64",
+"date":"2013-08-21 00:09:21"
+},
+{
+"kids":[],
+"uid":"318511158",
+"parent":"A5w0u0VZQ",
+"text":"有人一恋爱就变的错起了～[右哼哼]",
+"mid":"A5FDq6vD1",
+"date":"2013-08-20 23:37:00"
+},
+{
+"kids":[],
+"uid":"2695679463",
+"parent":"",
+"text":"爱工作爱生活[爱你][爱你][爱你]",
+"mid":"A5FkZbzWC",
+"date":"2013-08-20 22:51:36"
+},
+{
+"kids":[],
+"uid":"2311505527",
+"parent":"",
+"text":"@星期天综合症阿清",
+"mid":"A5FcbnL9w",
+"date":"2013-08-20 22:29:57"
+},
+{
+"kids":[],
+"uid":"lncy",
+"parent":"",
+"text":"没那么绝对吧",
+"mid":"A5EPrACVG",
+"date":"2013-08-20 21:33:55"
+},
+{
+"kids":[],
+"uid":"1912170842",
+"parent":"A5yVjgcIO",
+"text":"多多XXOO吧[嘻嘻][嘻嘻][嘻嘻]",
+"mid":"A5E8dtnEp",
+"date":"2013-08-20 19:47:25"
+},
+{
+"kids":[],
+"uid":"1203060102",
+"parent":"",
+"text":"我有同事一天就可以八次，没见工资有多高么？[害羞][偷笑][思考]",
+"mid":"A5DR58VZ1",
+"date":"2013-08-20 19:05:13"
+},
+{
+"kids":[],
+"uid":"63446737",
+"parent":"A5wbB9amz",
+"text":"怪不得公仆们都老有钞票老有钞票饿[鄙视][鄙视][鄙视]",
+"mid":"A5DOA4B1G",
+"date":"2013-08-20 18:59:01"
+},
+{
+"kids":[],
+"uid":"3121058743",
+"parent":"",
+"text":"",
+"mid":"A5DpZ1NcP",
+"date":"2013-08-20 17:58:28"
+},
+{
+"kids":[],
+"uid":"2635537280",
+"parent":"",
+"text":"@蚂蚁很肥 @小女人VS女强人 要涨工作快去找个男人吧",
+"mid":"A5DnThsRs",
+"date":"2013-08-20 17:53:18"
+},
+{
+"kids":[],
+"uid":"3575991567",
+"parent":"",
+"text":"",
+"mid":"A5DlpjCnU",
+"date":"2013-08-20 17:47:11"
+},
+{
+"kids":[],
+"uid":"2565253740",
+"parent":"",
+"text":"",
+"mid":"A5CMkeYEQ",
+"date":"2013-08-20 16:20:42"
+},
+{
+"kids":[],
+"uid":"2249894132",
+"parent":"A5Crm1Cej",
+"text":"为了多赚钱，男同志们晚上要努力啊",
+"mid":"A5CD6qVoR",
+"date":"2013-08-20 15:58:02"
+},
+{
+"kids":[],
+"uid":"2203614074",
+"parent":"",
+"text":"要发财，去做爱[花心][爱你]",
+"mid":"A5CtQjvdg",
+"date":"2013-08-20 15:35:13"
+},
+{
+"kids":[
+"A5CD6qVoR"
+],
+"uid":"leoleodu",
+"parent":"A5w2nlThN",
+"text":"这个肯定啊。。。不过写反了，应该是赚钱越多性生活就越多。。。赚钱多，就有漂亮妞喜欢，有漂亮妞自然性生活就多了。。。",
+"mid":"A5Crm1Cej",
+"date":"2013-08-20 15:29:05"
+},
+{
+"kids":[],
+"uid":"123820112",
+"parent":"",
+"text":"[阴险][阴险][阴险]",
+"mid":"A5ChBbO94",
+"date":"2013-08-20 15:05:02"
+},
+{
+"kids":[],
+"uid":"1906725861",
+"parent":"",
+"text":"@love寧寧",
+"mid":"A5Btfk31X",
+"date":"2013-08-20 13:01:00"
+},
+{
+"kids":[],
+"uid":"1619934862",
+"parent":"",
+"text":"",
+"mid":"A5Bs15oAV",
+"date":"2013-08-20 12:57:58"
+},
+{
+"kids":[],
+"uid":"2077917423",
+"parent":"",
+"text":"这也行？",
+"mid":"A5Bneq27W",
+"date":"2013-08-20 12:46:10"
+},
+{
+"kids":[],
+"uid":"kiwipedia",
+"parent":"",
+"text":"什么脑残逻辑，这明明是赚钱越多，性生活就越多。照这脑残逻辑，那还越是不干活赚钱就越多了。大概做这研究那专家的老婆又势利又性冷淡，才弄这个出来想骗骗老婆…",
+"mid":"A5BeL3q7a",
+"date":"2013-08-20 12:25:17"
+},
+{
+"kids":[],
+"uid":"1738616923",
+"parent":"A5BdsEIdC",
+"text":"",
+"mid":"A5Be4aeLk",
+"date":"2013-08-20 12:23:36"
+},
+{
+"kids":[
+"A66dGt06t",
+"A65XYv9f7",
+"A5P0hch8C",
+"A5Be4aeLk"
+],
+"uid":"1077213650",
+"parent":"A5ztacZQO",
+"text":"为了+3.2%，筒子们辛苦了！",
+"mid":"A5BdsEIdC",
+"date":"2013-08-20 12:22:05"
+},
+{
+"kids":[],
+"uid":"303358095",
+"parent":"",
+"text":"",
+"mid":"A5Bbxwc4r",
+"date":"2013-08-20 12:17:22"
+},
+{
+"kids":[],
+"uid":"2632711543",
+"parent":"",
+"text":"我擦！别闹好嘛！哥洁癖讨厌这种事情难道就不能发财了？！这什么操蛋的结论！",
+"mid":"A5Bahv2Kd",
+"date":"2013-08-20 12:14:17"
+},
+{
+"kids":[],
+"uid":"dysdy",
+"parent":"A5wfnsU8D",
+"text":"说反了 赚钱越多越荒淫无道",
+"mid":"A5B984ue3",
+"date":"2013-08-20 12:11:25"
+},
+{
+"kids":[],
+"uid":"2832207740",
+"parent":"",
+"text":"",
+"mid":"A5B8x7xN9",
+"date":"2013-08-20 12:09:58"
+},
+{
+"kids":[],
+"uid":"leiziw",
+"parent":"A5zAYtP0u",
+"text":"[挖鼻屎]",
+"mid":"A5B7ot4N3",
+"date":"2013-08-20 12:07:08"
+},
+{
+"kids":[],
+"uid":"1740427495",
+"parent":"A5zCD25gO",
+"text":"我觉得是钱越多性生活越多，没钱没人爱",
+"mid":"A5AXV19bc",
+"date":"2013-08-20 11:43:50"
+},
+{
+"kids":[],
+"uid":"1164638240",
+"parent":"",
+"text":"",
+"mid":"A5AQE8xMO",
+"date":"2013-08-20 11:25:53"
+},
+{
+"kids":[],
+"uid":"2947708424",
+"parent":"",
+"text":"",
+"mid":"A5AP7h50m",
+"date":"2013-08-20 11:22:07"
+},
+{
+"kids":[],
+"uid":"3084597675",
+"parent":"",
+"text":"",
+"mid":"A5AOLDYLU",
+"date":"2013-08-20 11:21:16"
+},
+{
+"kids":[],
+"uid":"3043746764",
+"parent":"A5zuDaRNV",
+"text":"",
+"mid":"A5AMBenJ1",
+"date":"2013-08-20 11:15:56"
+},
+{
+"kids":[],
+"uid":"1658974911",
+"parent":"",
+"text":"@蒲公英SH",
+"mid":"A5AFguoil",
+"date":"2013-08-20 10:57:51"
+},
+{
+"kids":[],
+"uid":"joestarchuang",
+"parent":"A5zhbBWAm",
+"text":"這不科學...一週多三次薪水才多3.2％...但平均每週得多扼殺幾億新生命啊。另外不知道有沒有研究一週四次都跟不同對象的話工資高多少...[挖鼻屎]",
+"mid":"A5AALvwEk",
+"date":"2013-08-20 10:46:47"
+},
+{
+"kids":[],
+"uid":"3278583995",
+"parent":"A5A9diHIA",
+"text":"[亲亲]",
+"mid":"A5AAjt3ml",
+"date":"2013-08-20 10:45:39"
+},
+{
+"kids":[],
+"uid":"larrylifecoaching",
+"parent":"",
+"text":"性生活是亲密关系的重要内容。性生活是最自然和本能的释放压力，回归爱的方式。如果你性生活不和谐或缺少激情，需要审视自己和伴侣的关系。性生活的频率是因每一对伴侣的荷尔蒙的含量而不同，不一定拘泥于数量。要双方都满意，并重在质量！",
+"mid":"A5AvvnwKW",
+"date":"2013-08-20 10:33:47"
+},
+{
+"kids":[],
+"uid":"tongjianjun",
+"parent":"",
+"text":"看来要多做",
+"mid":"A5AuLeTFY",
+"date":"2013-08-20 10:31:58"
+},
+{
+"kids":[],
+"uid":"206530129",
+"parent":"",
+"text":"。。。。。",
+"mid":"A5AmL59Pi",
+"date":"2013-08-20 10:12:16"
+},
+{
+"kids":[],
+"uid":"2238313495",
+"parent":"",
+"text":"这符合中国人的思想，先成家后立业",
+"mid":"A5Ail8ACJ",
+"date":"2013-08-20 10:01:23"
+},
+{
+"kids":[],
+"uid":"3216056404",
+"parent":"",
+"text":"有道理",
+"mid":"A5AiivMev",
+"date":"2013-08-20 10:01:17"
+},
+{
+"kids":[],
+"uid":"2093753172",
+"parent":"",
+"text":"@小小柒面 @芮青梅朵Shine  [汗] [泪]",
+"mid":"A5AiagzTh",
+"date":"2013-08-20 10:00:56"
+},
+{
+"kids":[],
+"uid":"2705763643",
+"parent":"A5w2Wwd5G",
+"text":"@张葱葱-Yumi 老婆你看看",
+"mid":"A5AhZjaHq",
+"date":"2013-08-20 10:00:29"
+},
+{
+"kids":[],
+"uid":"lijing53",
+"parent":"",
+"text":"晕哦",
+"mid":"A5AcVazfo",
+"date":"2013-08-20 09:48:02"
+},
+{
+"kids":[],
+"uid":"2309354732",
+"parent":"",
+"text":"[偷笑]",
+"mid":"A5AaEesj2",
+"date":"2013-08-20 09:42:25"
+},
+{
+"kids":[
+"A5AAjt3ml"
+],
+"uid":"2039246561",
+"parent":"",
+"text":"德国研究称：性生活越多赚钱就越多[嘻嘻]",
+"mid":"A5A9diHIA",
+"date":"2013-08-20 09:38:54"
+},
+{
+"kids":[
+"Agwgijeuj",
+"Agqb7ockj",
+"Agq8y5PaE"
+],
+"uid":"gyf86",
+"parent":"",
+"text":"",
+"mid":"A5A6cxp4j",
+"date":"2013-08-20 09:31:28"
+},
+{
+"kids":[],
+"uid":"2462582930",
+"parent":"",
+"text":"哎呀～这个……",
+"mid":"A5A5PdJyb",
+"date":"2013-08-20 09:30:33"
+},
+{
+"kids":[],
+"uid":"2728546874",
+"parent":"",
+"text":"无稽之谈",
+"mid":"A5A3fiVk1",
+"date":"2013-08-20 09:24:11"
+},
+{
+"kids":[],
+"uid":"3091277144",
+"parent":"",
+"text":"",
+"mid":"A5A2E8LUx",
+"date":"2013-08-20 09:22:43"
+},
+{
+"kids":[],
+"uid":"1793092862",
+"parent":"",
+"text":"无敌了",
+"mid":"A5A0nccLZ",
+"date":"2013-08-20 09:17:07"
+},
+{
+"kids":[],
+"uid":"2371656904",
+"parent":"",
+"text":"因为他们有钱。。。。。",
+"mid":"A5zWJ4Yzi",
+"date":"2013-08-20 09:08:08"
+},
+{
+"kids":[],
+"uid":"338715670",
+"parent":"A5zNQ2WgE",
+"text":"有道理啊！那些当官的天天夯逼，哪个不是腰缠万贯，脑满肠肥的…[挖鼻屎]",
+"mid":"A5zVkxwof",
+"date":"2013-08-20 09:04:42"
+},
+{
+"kids":[],
+"uid":"2137500494",
+"parent":"",
+"text":"黯然失色的人怒转！",
+"mid":"A5zUlDwv3",
+"date":"2013-08-20 09:02:16"
+},
+{
+"kids":[],
+"uid":"1942191097",
+"parent":"",
+"text":"嫌收入低的看看",
+"mid":"A5zUjjcPc",
+"date":"2013-08-20 09:02:10"
+},
+{
+"kids":[],
+"uid":"1945926011",
+"parent":"",
+"text":"瞎扯淡",
+"mid":"A5zRFA5RD",
+"date":"2013-08-20 08:55:40"
+},
+{
+"kids":[],
+"uid":"crazypugongying",
+"parent":"",
+"text":"[泪][泪]",
+"mid":"A5zRk0gQi",
+"date":"2013-08-20 08:54:49"
+},
+{
+"kids":[],
+"uid":"2713106694",
+"parent":"",
+"text":"",
+"mid":"A5zRhDIfJ",
+"date":"2013-08-20 08:54:44"
+},
+{
+"kids":[],
+"uid":"jack1566",
+"parent":"A5w2ND1YP",
+"text":"[幽灵][幽灵][幽灵]",
+"mid":"A5zR0uB71",
+"date":"2013-08-20 08:54:03"
+},
+{
+"kids":[
+"A5FUEC2WM"
+],
+"uid":"2304793207",
+"parent":"",
+"text":"Geek,谢耳朵神马的怎么说。。。。",
+"mid":"A5zQczv5K",
+"date":"2013-08-20 08:52:04"
+},
+{
+"kids":[],
+"uid":"2631293165",
+"parent":"",
+"text":"你以为你加了德国二字我就看不出来你说的是中国官员吗？",
+"mid":"A5zPQ80Uo",
+"date":"2013-08-20 08:51:09"
+},
+{
+"kids":[],
+"uid":"2129880604",
+"parent":"",
+"text":"",
+"mid":"A5zPxeFEK",
+"date":"2013-08-20 08:50:25"
+},
+{
+"kids":[],
+"uid":"2798867452",
+"parent":"",
+"text":"靠谱吗？不会是用性工作者当样本之一比较出来的吧[哈哈]",
+"mid":"A5zPxeFCM",
+"date":"2013-08-20 08:50:24"
+},
+{
+"kids":[],
+"uid":"1025leonzhao",
+"parent":"",
+"text":"真的吗？",
+"mid":"A5zPw1Poy",
+"date":"2013-08-20 08:50:21"
+},
+{
+"kids":[],
+"uid":"2437022042",
+"parent":"A5zNQ2WgE",
+"text":"记者到桑拿中心体验生活了，头牌提成多，客人多，赚的多，不然一个记着来问我，你赚多少，一周几次性生活?我肯定回答管你鸡巴毛事",
+"mid":"A5zPoDJAb",
+"date":"2013-08-20 08:50:05"
+},
+{
+"kids":[
+"A5zVkxwof",
+"A5zPoDJAb"
+],
+"uid":"1834312270",
+"parent":"",
+"text":"胡扯！淫煤",
+"mid":"A5zNQ2WgE",
+"date":"2013-08-20 08:46:14"
+},
+{
+"kids":[
+"A63DUp1U9"
+],
+"uid":"1958948642",
+"parent":"",
+"text":"[嘻嘻]",
+"mid":"A5zNzbEdw",
+"date":"2013-08-20 08:45:34"
+},
+{
+"kids":[],
+"uid":"1996206175",
+"parent":"A5wa0nyam",
+"text":"吓讲……",
+"mid":"A5zMaBlfX",
+"date":"2013-08-20 08:42:08"
+},
+{
+"kids":[],
+"uid":"hiawatha",
+"parent":"A5yUsq5pL",
+"text":"[笑哈哈]",
+"mid":"A5zLG9Ob9",
+"date":"2013-08-20 08:40:55"
+},
+{
+"kids":[],
+"uid":"1990250227",
+"parent":"",
+"text":"限德国人吧[思考]",
+"mid":"A5zJwiMAa",
+"date":"2013-08-20 08:35:35"
+},
+{
+"kids":[],
+"uid":"1795879681",
+"parent":"",
+"text":"[神马][浮云]这个是怎么研究出来的？[偷笑]",
+"mid":"A5zJstFua",
+"date":"2013-08-20 08:35:27"
+},
+{
+"kids":[],
+"uid":"1012502542",
+"parent":"",
+"text":"新闻最右边三个字是亮点！",
+"mid":"A5zIOxTsp",
+"date":"2013-08-20 08:33:52"
+},
+{
+"kids":[],
+"uid":"terryzhuo",
+"parent":"",
+"text":"突然我茅塞顿开，怪不得我找不到工作.....",
+"mid":"A5zHOvxKK",
+"date":"2013-08-20 08:31:24"
+},
+{
+"kids":[],
+"uid":"3471158680",
+"parent":"",
+"text":"",
+"mid":"A5zHCoyyG",
+"date":"2013-08-20 08:30:54"
+},
+{
+"kids":[
+"A5AXV19bc"
+],
+"uid":"1401193913",
+"parent":"",
+"text":"",
+"mid":"A5zCD25gO",
+"date":"2013-08-20 08:18:37"
+},
+{
+"kids":[],
+"uid":"2407813620",
+"parent":"",
+"text":"",
+"mid":"A5zCrapmk",
+"date":"2013-08-20 08:18:09"
+},
+{
+"kids":[],
+"uid":"1984256244",
+"parent":"A5z4jukJy",
+"text":"[哈哈]",
+"mid":"A5zBVy3pt",
+"date":"2013-08-20 08:16:54"
+},
+{
+"kids":[],
+"uid":"2039337153",
+"parent":"",
+"text":"",
+"mid":"A5zBtuiEZ",
+"date":"2013-08-20 08:15:46"
+},
+{
+"kids":[
+"A5B7ot4N3"
+],
+"uid":"272554685",
+"parent":"A5zzAw6WB",
+"text":"已阅，[挖鼻屎]",
+"mid":"A5zAYtP0u",
+"date":"2013-08-20 08:14:32"
+},
+{
+"kids":[
+"A5B7ot4N3",
+"A5zAYtP0u"
+],
+"uid":"1933807963",
+"parent":"",
+"text":"转发顾苏苏",
+"mid":"A5zzAw6WB",
+"date":"2013-08-20 08:11:07"
+},
+{
+"kids":[],
+"uid":"lingyunlins",
+"parent":"",
+"text":"能直接点说吗",
+"mid":"A5zzscAo9",
+"date":"2013-08-20 08:10:48"
+},
+{
+"kids":[],
+"uid":"1766606830",
+"parent":"",
+"text":"加把劲",
+"mid":"A5zzmCEb8",
+"date":"2013-08-20 08:10:35"
+},
+{
+"kids":[],
+"uid":"1813713902",
+"parent":"",
+"text":"@Yuri森 承不承认你的生活很暗淡！",
+"mid":"A5zzae4bj",
+"date":"2013-08-20 08:10:04"
+},
+{
+"kids":[],
+"uid":"2027549472",
+"parent":"",
+"text":"小伙伴们，赶快过性福生活，越多钱越多@熊宝宝166 @小松松的松屋 @妞从良 @BeNiceTo_PLay @BasicHoney @Hi蠢蛋 @那些终将逝去的美丽岁月 @听说_Summer丶 @-天真威尼斯 @梦里花未开lx",
+"mid":"A5zxevi9l",
+"date":"2013-08-20 08:05:20"
+},
+{
+"kids":[],
+"uid":"2918049491",
+"parent":"",
+"text":"这事儿靠谱吗？@莼白色牛牛",
+"mid":"A5zwZt3Rh",
+"date":"2013-08-20 08:04:44"
+},
+{
+"kids":[],
+"uid":"1656784177",
+"parent":"",
+"text":"#生活百科#",
+"mid":"A5zwGvsJO",
+"date":"2013-08-20 08:03:59"
+},
+{
+"kids":[],
+"uid":"2284005932",
+"parent":"",
+"text":"这个要加一个条件，正常的夫妻在正常的情况下。。。。[哈哈]",
+"mid":"A5zweuzEo",
+"date":"2013-08-20 08:02:52"
+},
+{
+"kids":[],
+"uid":"lltsk",
+"parent":"",
+"text":"真假！我也挺能赚钱的",
+"mid":"A5zvsBqTg",
+"date":"2013-08-20 08:00:58"
+},
+{
+"kids":[
+"A5AMBenJ1"
+],
+"uid":"2479030224",
+"parent":"",
+"text":"次奥",
+"mid":"A5zuDaRNV",
+"date":"2013-08-20 07:58:55"
+},
+{
+"kids":[],
+"uid":"2562930051",
+"parent":"",
+"text":"看来以后要多一点",
+"mid":"A5zu09zIG",
+"date":"2013-08-20 07:57:22"
+},
+{
+"kids":[
+"A66dGt06t",
+"A65XYv9f7",
+"A5P0hch8C",
+"A5Be4aeLk",
+"A5BdsEIdC"
+],
+"uid":"1432005151",
+"parent":"A5zcCdmWb",
+"text":"努力终于有了方向",
+"mid":"A5ztacZQO",
+"date":"2013-08-20 07:55:17"
+},
+{
+"kids":[],
+"uid":"2091402852",
+"parent":"",
+"text":"这也有关系",
+"mid":"A5zr80xqe",
+"date":"2013-08-20 07:50:16"
+},
+{
+"kids":[],
+"uid":"julienywang",
+"parent":"A5z4jukJy",
+"text":"黑子有想法?",
+"mid":"A5zr5Cprx",
+"date":"2013-08-20 07:50:12"
+},
+{
+"kids":[],
+"uid":"2323446612",
+"parent":"",
+"text":"",
+"mid":"A5zpAybHX",
+"date":"2013-08-20 07:46:30"
+},
+{
+"kids":[],
+"uid":"2827608931",
+"parent":"",
+"text":"原来是这样啊[泪][泪]",
+"mid":"A5zoDtdTy",
+"date":"2013-08-20 07:44:08"
+},
+{
+"kids":[],
+"uid":"2910833003",
+"parent":"",
+"text":"环球网！！",
+"mid":"A5zn8Dyo3",
+"date":"2013-08-20 07:40:28"
+},
+{
+"kids":[],
+"uid":"1411962131",
+"parent":"",
+"text":"@gloria2828 科学研究！不要违反科学！",
+"mid":"A5zmspVsy",
+"date":"2013-08-20 07:38:47"
+},
+{
+"kids":[],
+"uid":"uc21688918",
+"parent":"",
+"text":"",
+"mid":"A5zjPC5Ax",
+"date":"2013-08-20 07:32:18"
+},
+{
+"kids":[],
+"uid":"1764608557",
+"parent":"",
+"text":"",
+"mid":"A5zjfx8gT",
+"date":"2013-08-20 07:30:53"
+},
+{
+"kids":[],
+"uid":"1814710415",
+"parent":"",
+"text":"",
+"mid":"A5zj6nZmq",
+"date":"2013-08-20 07:30:31"
+},
+{
+"kids":[],
+"uid":"1450641705",
+"parent":"",
+"text":"说反了吧，德国人真傻。[偷笑]",
+"mid":"A5ziJ3jTQ",
+"date":"2013-08-20 07:29:35"
+},
+{
+"kids":[],
+"uid":"1987637070",
+"parent":"",
+"text":"",
+"mid":"A5zipeN7D",
+"date":"2013-08-20 07:28:48"
+},
+{
+"kids":[],
+"uid":"3316109141",
+"parent":"",
+"text":"",
+"mid":"A5zhHvR2n",
+"date":"2013-08-20 07:27:03"
+},
+{
+"kids":[],
+"uid":"274552212",
+"parent":"",
+"text":"[哈哈][哈哈]@Andy074 @小榔头有大智慧",
+"mid":"A5zhgkB3Q",
+"date":"2013-08-20 07:25:59"
+},
+{
+"kids":[
+"A5AALvwEk"
+],
+"uid":"2217986471",
+"parent":"",
+"text":"难道我们太冷淡导致的低工资？TMD，这研究者是老板哇？ (分享自@Weico微博客户端) http:",
+"mid":"A5zhbBWAm",
+"date":"2013-08-20 07:25:47"
+},
+{
+"kids":[],
+"uid":"2769678467",
+"parent":"",
+"text":"噢卖噶，really???",
+"mid":"A5zgAmEFo",
+"date":"2013-08-20 07:24:19"
+},
+{
+"kids":[],
+"uid":"1936160727",
+"parent":"",
+"text":"",
+"mid":"A5zdicdgv",
+"date":"2013-08-20 07:16:12"
+},
+{
+"kids":[],
+"uid":"2346103010",
+"parent":"",
+"text":"擦，屌丝恶性循环啊！！！",
+"mid":"A5zdfwtuP",
+"date":"2013-08-20 07:16:06"
+},
+{
+"kids":[
+"A66dGt06t",
+"A65XYv9f7",
+"A5P0hch8C",
+"A5Be4aeLk",
+"A5BdsEIdC",
+"A5ztacZQO"
+],
+"uid":"1101360211",
+"parent":"A5z4jukJy",
+"text":"原来工资高的原因是这个呀，我要抓紧了，并把成果及时告知HR和Boss",
+"mid":"A5zcCdmWb",
+"date":"2013-08-20 07:14:32"
+},
+{
+"kids":[],
+"uid":"1858457694",
+"parent":"A5w3lCtje",
+"text":"",
+"mid":"A5zaUaQmK",
+"date":"2013-08-20 07:10:19"
+},
+{
+"kids":[],
+"uid":"2411923950",
+"parent":"",
+"text":"@冷静的冷静",
+"mid":"A5z9GbXWM",
+"date":"2013-08-20 07:07:18"
+},
+{
+"kids":[],
+"uid":"2746332061",
+"parent":"",
+"text":"真的假的……",
+"mid":"A5z9Eq6Vw",
+"date":"2013-08-20 07:07:14"
+},
+{
+"kids":[],
+"uid":"ccssr",
+"parent":"",
+"text":"非婚的也算吗？那在中国就不用调查啦。",
+"mid":"A5z9m5CtM",
+"date":"2013-08-20 07:06:29"
+},
+{
+"kids":[],
+"uid":"eemmppttyy",
+"parent":"",
+"text":"德国特色",
+"mid":"A5z7q8UVa",
+"date":"2013-08-20 07:01:44"
+},
+{
+"kids":[],
+"uid":"snowpt",
+"parent":"",
+"text":"恩恩",
+"mid":"A5z759Din",
+"date":"2013-08-20 07:00:53"
+},
+{
+"kids":[],
+"uid":"3584541180",
+"parent":"",
+"text":"难怪有钱人爱出轨，",
+"mid":"A5z6y5eqj",
+"date":"2013-08-20 06:59:35"
+},
+{
+"kids":[],
+"uid":"2707021151",
+"parent":"",
+"text":"",
+"mid":"A5z5X9VGk",
+"date":"2013-08-20 06:58:07"
+},
+{
+"kids":[],
+"uid":"shinny0712",
+"parent":"",
+"text":"这……",
+"mid":"A5z5RwS2P",
+"date":"2013-08-20 06:57:54"
+},
+{
+"kids":[
+"A66dGt06t",
+"A65XYv9f7",
+"A5P0hch8C",
+"A5Be4aeLk",
+"A5BdsEIdC",
+"A5zBVy3pt",
+"A5ztacZQO",
+"A5zr5Cprx",
+"A5zcCdmWb"
+],
+"uid":"1868676447",
+"parent":"",
+"text":"老子信了你的邪。",
+"mid":"A5z4jukJy",
+"date":"2013-08-20 06:54:05"
+},
+{
+"kids":[],
+"uid":"2826755490",
+"parent":"",
+"text":"",
+"mid":"A5z30ct5o",
+"date":"2013-08-20 06:50:51"
+},
+{
+"kids":[],
+"uid":"2659787781",
+"parent":"A5w60ewsn",
+"text":"雅培们养这么多，应该次数也不少，都是低调的富翁哇[哈哈]",
+"mid":"A5z1w2zIT",
+"date":"2013-08-20 06:47:11"
+},
+{
+"kids":[],
+"uid":"ronink",
+"parent":"",
+"text":"怪不得没钱啊？！根子在这里啊！[泪]",
+"mid":"A5z0LDB6D",
+"date":"2013-08-20 06:45:20"
+},
+{
+"kids":[],
+"uid":"2291201787",
+"parent":"",
+"text":"天天嘴里说有性生活的，不知道收入高不高。",
+"mid":"A5yZKnL5R",
+"date":"2013-08-20 06:42:50"
+},
+{
+"kids":[],
+"uid":"2433991547",
+"parent":"",
+"text":"哈哈，看这样也能挣钱多！",
+"mid":"A5yXTs50O",
+"date":"2013-08-20 06:38:16"
+},
+{
+"kids":[],
+"uid":"2129355385",
+"parent":"",
+"text":"",
+"mid":"A5yXR7rct",
+"date":"2013-08-20 06:38:10"
+},
+{
+"kids":[],
+"uid":"2924630221",
+"parent":"",
+"text":"@wwj_3158318671",
+"mid":"A5yXIw0Yt",
+"date":"2013-08-20 06:37:51"
+},
+{
+"kids":[
+"A5E8dtnEp"
+],
+"uid":"2616627161",
+"parent":"",
+"text":"@小马奔腾-EZ ，你说的就是这篇报道吧。",
+"mid":"A5yVjgcIO",
+"date":"2013-08-20 06:31:54"
+},
+{
+"kids":[
+"A5zLG9Ob9"
+],
+"uid":"1407883113",
+"parent":"",
+"text":"我朝反之",
+"mid":"A5yUsq5pL",
+"date":"2013-08-20 06:29:48"
+},
+{
+"kids":[],
+"uid":"2097938884",
+"parent":"",
+"text":"为了奔小康，拼了！自撸算吗[挖鼻屎]",
+"mid":"A5ySZFo5L",
+"date":"2013-08-20 06:26:12"
+},
+{
+"kids":[],
+"uid":"1445911134",
+"parent":"",
+"text":"@乖艹艹是可爱麻麻",
+"mid":"A5yQDqDtJ",
+"date":"2013-08-20 06:20:23"
+},
+{
+"kids":[],
+"uid":"1698807483",
+"parent":"",
+"text":"难怪权贵们都是要官得官、要钱有钱。",
+"mid":"A5yOjvxht",
+"date":"2013-08-20 06:14:39"
+},
+{
+"kids":[],
+"uid":"2231528273",
+"parent":"",
+"text":"这个结果绝对不适合中国。",
+"mid":"A5yITcFUv",
+"date":"2013-08-20 06:01:18"
+},
+{
+"kids":[],
+"uid":"315571666",
+"parent":"",
+"text":"",
+"mid":"A5yFJkgfr",
+"date":"2013-08-20 05:53:31"
+},
+{
+"kids":[],
+"uid":"1871646314",
+"parent":"",
+"text":"這還讓單身者活命麼[思考] (分享自@Weico微博客户端) http:",
+"mid":"A5yExbZP4",
+"date":"2013-08-20 05:50:34"
+},
+{
+"kids":[
+"A6bl3h4ZY"
+],
+"uid":"2891126380",
+"parent":"",
+"text":"",
+"mid":"A5yDAmB9F",
+"date":"2013-08-20 05:48:13"
+},
+{
+"kids":[],
+"uid":"wulupiancaishen",
+"parent":"",
+"text":"[围观]",
+"mid":"A5yyimIPa",
+"date":"2013-08-20 05:35:12"
+},
+{
+"kids":[],
+"uid":"3315758651",
+"parent":"",
+"text":"@小肥鸡的麻麻 [嘻嘻][嘻嘻][嘻嘻][嘻嘻][嘻嘻][嘻嘻][嘻嘻]",
+"mid":"A5yy27Etw",
+"date":"2013-08-20 05:34:33"
+},
+{
+"kids":[],
+"uid":"1766610533",
+"parent":"",
+"text":"难怪当官的那么够力.钱多妻妾也多.",
+"mid":"A5ysGA5G2",
+"date":"2013-08-20 05:21:23"
+},
+{
+"kids":[],
+"uid":"1766610533",
+"parent":"",
+"text":"为了多3.2%没有必要一周四次那么辛苦了.",
+"mid":"A5yrflorh",
+"date":"2013-08-20 05:17:50"
+},
+{
+"kids":[],
+"uid":"2728188283",
+"parent":"",
+"text":"[汗]",
+"mid":"A5ylydwMc",
+"date":"2013-08-20 05:03:48"
+},
+{
+"kids":[],
+"uid":"3317596864",
+"parent":"",
+"text":"",
+"mid":"A5ykneVkk",
+"date":"2013-08-20 05:00:54"
+},
+{
+"kids":[],
+"uid":"2170282244",
+"parent":"A5w1U7nRo",
+"text":"怎么调查我呀[挖鼻屎]",
+"mid":"A5yitk5QX",
+"date":"2013-08-20 04:56:13"
+},
+{
+"kids":[
+"A63rUDyDD",
+"A63i26HFx"
+],
+"uid":"1010808131",
+"parent":"",
+"text":"赶紧工作吧",
+"mid":"A5ycudWUb",
+"date":"2013-08-20 04:41:28"
+},
+{
+"kids":[],
+"uid":"1206730934",
+"parent":"",
+"text":"我打保票负责任的说：这绝对是邪见！",
+"mid":"A5y6HaiTA",
+"date":"2013-08-20 04:27:12"
+},
+{
+"kids":[],
+"uid":"3122729267",
+"parent":"",
+"text":"@觉得华晨宇很萌的小梅子 亲爱.想不想发财？",
+"mid":"A5xWWBkA7",
+"date":"2013-08-20 04:03:10"
+},
+{
+"kids":[],
+"uid":"3205250845",
+"parent":"",
+"text":"",
+"mid":"A5xWexuKn",
+"date":"2013-08-20 04:01:26"
+},
+{
+"kids":[],
+"uid":"1286865763",
+"parent":"",
+"text":"这个、确实差距明显！加油吧derek，勇敢去爱爱！",
+"mid":"A5xTngNWb",
+"date":"2013-08-20 03:54:23"
+},
+{
+"kids":[],
+"uid":"2423254274",
+"parent":"",
+"text":"@砖头雯雯雯雯雯",
+"mid":"A5xzD5cft",
+"date":"2013-08-20 03:05:44"
+},
+{
+"kids":[],
+"uid":"3331311212",
+"parent":"",
+"text":"生活中性生活是必不可少的 利大于弊！但是工资和性生活次数还挂钩……这是什么逻辑？",
+"mid":"A5xwshfZw",
+"date":"2013-08-20 02:57:55"
+},
+{
+"kids":[],
+"uid":"2977415230",
+"parent":"",
+"text":"[鄙视]",
+"mid":"A5xu3z7Kk",
+"date":"2013-08-20 02:52:01"
+},
+{
+"kids":[],
+"uid":"2432550150",
+"parent":"",
+"text":"= = 那样男的估计活不到抱孙子了",
+"mid":"A5xrMnmcO",
+"date":"2013-08-20 02:46:24"
+},
+{
+"kids":[],
+"uid":"1909264793",
+"parent":"",
+"text":"@姐董事长生姜宝马 @刘婵bailey 原来奇奇生病是因为……",
+"mid":"A5xdpaN2U",
+"date":"2013-08-20 02:10:59"
+},
+{
+"kids":[],
+"uid":"201286455",
+"parent":"",
+"text":"纯属歪理，那公关没日没夜的   怎么不见工资很高",
+"mid":"A5x8udIWV",
+"date":"2013-08-20 01:58:51"
+},
+{
+"kids":[],
+"uid":"2574674394",
+"parent":"",
+"text":"这啥研究？那鸡鸭岂不是都暴富了？",
+"mid":"A5x4rE8DJ",
+"date":"2013-08-20 01:48:55"
+},
+{
+"kids":[],
+"uid":"1120314514",
+"parent":"",
+"text":"[哼][哼][哼]",
+"mid":"A5x4emmns",
+"date":"2013-08-20 01:48:23"
+},
+{
+"kids":[],
+"uid":"1838373452",
+"parent":"",
+"text":"相信！",
+"mid":"A5x2Y4J7a",
+"date":"2013-08-20 01:45:16"
+},
+{
+"kids":[],
+"uid":"gtyx",
+"parent":"",
+"text":"看来德国妓女都是billionaire[挖鼻屎]",
+"mid":"A5x1q1oKU",
+"date":"2013-08-20 01:41:27"
+},
+{
+"kids":[],
+"uid":"Zhangsir99999999",
+"parent":"",
+"text":"工资与性生活有关系！！！我和我的小伙伴们都惊呆了[害羞][害羞][害羞]",
+"mid":"A5wZh3MTq",
+"date":"2013-08-20 01:36:10"
+},
+{
+"kids":[],
+"uid":"2810233975",
+"parent":"",
+"text":"",
+"mid":"A5wY4gXXj",
+"date":"2013-08-20 01:33:12"
+},
+{
+"kids":[],
+"uid":"2437236367",
+"parent":"",
+"text":"",
+"mid":"A5wWN33eX",
+"date":"2013-08-20 01:30:03"
+},
+{
+"kids":[],
+"uid":"1773280737",
+"parent":"",
+"text":"难怪领导赚得比我们多。没日没夜的工作！",
+"mid":"A5wVYxrqi",
+"date":"2013-08-20 01:28:03"
+},
+{
+"kids":[],
+"uid":"2376628350",
+"parent":"",
+"text":"[晕]",
+"mid":"A5wUBa3qM",
+"date":"2013-08-20 01:24:39"
+},
+{
+"kids":[],
+"uid":"2692965264",
+"parent":"",
+"text":"[酷]",
+"mid":"A5wUpDRb9",
+"date":"2013-08-20 01:24:12"
+},
+{
+"kids":[],
+"uid":"2043783893",
+"parent":"",
+"text":"@Yunaitou",
+"mid":"A5wR28qiB",
+"date":"2013-08-20 01:15:51"
+},
+{
+"kids":[],
+"uid":"1989232713",
+"parent":"",
+"text":"[衰]知道为啥没钱了！因为锅是光棍木有性生活的呀！[泪][泪][泪]",
+"mid":"A5wNmBJcP",
+"date":"2013-08-20 01:06:50"
+},
+{
+"kids":[],
+"uid":"321616988",
+"parent":"",
+"text":"这是指那特殊行业红灯区人吗?那是性生活相当多，赚钱也多。[做鬼脸]",
+"mid":"A5wKS4QFi",
+"date":"2013-08-20 01:00:41"
+},
+{
+"kids":[],
+"uid":"siqiruoyu",
+"parent":"",
+"text":"老公 以后我们的收入绝对会很高的",
+"mid":"A5wKjc67q",
+"date":"2013-08-20 00:59:19"
+},
+{
+"kids":[],
+"uid":"1790975767",
+"parent":"",
+"text":"[good]",
+"mid":"A5wKgzuhu",
+"date":"2013-08-20 00:59:08"
+},
+{
+"kids":[],
+"uid":"317005222",
+"parent":"A5w2C7CQK",
+"text":"你竟然就直接@ 我一個[衰][衰][衰][衰][衰]",
+"mid":"A5wK2545u",
+"date":"2013-08-20 00:58:36"
+},
+{
+"kids":[],
+"uid":"209993579",
+"parent":"",
+"text":"",
+"mid":"A5wINvVRO",
+"date":"2013-08-20 00:55:35"
+},
+{
+"kids":[],
+"uid":"L2013614G",
+"parent":"",
+"text":"",
+"mid":"A5wHBj9Sv",
+"date":"2013-08-20 00:52:37"
+},
+{
+"kids":[],
+"uid":"2135263101",
+"parent":"A5wc3sClY",
+"text":"[围观]",
+"mid":"A5wFvljQ4",
+"date":"2013-08-20 00:47:28"
+},
+{
+"kids":[],
+"uid":"1252891935",
+"parent":"",
+"text":"@angelawjy",
+"mid":"A5wEQhAvs",
+"date":"2013-08-20 00:45:50"
+},
+{
+"kids":[],
+"uid":"2521548451",
+"parent":"",
+"text":"这也可以？",
+"mid":"A5wELeSZT",
+"date":"2013-08-20 00:45:36"
+},
+{
+"kids":[],
+"uid":"rinckparadise",
+"parent":"",
+"text":"",
+"mid":"A5wEFlrte",
+"date":"2013-08-20 00:45:25"
+},
+{
+"kids":[],
+"uid":"gorodn",
+"parent":"",
+"text":"是和同一个人嘛？",
+"mid":"A5wEuo3Dj",
+"date":"2013-08-20 00:44:56"
+},
+{
+"kids":[],
+"uid":"2965016753",
+"parent":"A5wc3sClY",
+"text":"这……也搭界？",
+"mid":"A5wEjbzbz",
+"date":"2013-08-20 00:44:31"
+},
+{
+"kids":[],
+"uid":"1862956985",
+"parent":"",
+"text":"半夜惊醒，突然知道为什么那么穷了[泪][泪]",
+"mid":"A5wEe8Sy8",
+"date":"2013-08-20 00:44:18"
+},
+{
+"kids":[],
+"uid":"2010830912",
+"parent":"",
+"text":"[哼][哼]",
+"mid":"A5wD1EgvK",
+"date":"2013-08-20 00:41:22"
+},
+{
+"kids":[],
+"uid":"2629589217",
+"parent":"",
+"text":"同意[馋嘴][馋嘴][爱你][爱你]",
+"mid":"A5wCE2zO0",
+"date":"2013-08-20 00:40:24"
+},
+{
+"kids":[],
+"uid":"3290058962",
+"parent":"",
+"text":"你嘛，难怪到现在还是穷鬼！！！原来我就没体验过啥叫性生活……悲剧！",
+"mid":"A5wCxfOSa",
+"date":"2013-08-20 00:40:07"
+},
+{
+"kids":[],
+"uid":"2644583401",
+"parent":"",
+"text":"我[浮云][浮云][浮云][浮云]",
+"mid":"A5wC92SN9",
+"date":"2013-08-20 00:39:12"
+},
+{
+"kids":[],
+"uid":"elven6",
+"parent":"",
+"text":"@木于先生 囧",
+"mid":"A5wBucKOs",
+"date":"2013-08-20 00:37:34"
+},
+{
+"kids":[],
+"uid":"3263418141",
+"parent":"",
+"text":"[哈哈][哈哈][哈哈]",
+"mid":"A5wBq7k2e",
+"date":"2013-08-20 00:37:24"
+},
+{
+"kids":[],
+"uid":"3251844857",
+"parent":"",
+"text":"",
+"mid":"A5wAReDWY",
+"date":"2013-08-20 00:36:01"
+},
+{
+"kids":[],
+"uid":"2155441067",
+"parent":"",
+"text":"要这么说小姐都是富翁了",
+"mid":"A5wzqj4X9",
+"date":"2013-08-20 00:32:29"
+},
+{
+"kids":[],
+"uid":"2355846163",
+"parent":"",
+"text":"原来还有这说法，大家可以借鉴[哈哈][哈哈][嘻嘻]",
+"mid":"A5wz481Oq",
+"date":"2013-08-20 00:31:36"
+},
+{
+"kids":[],
+"uid":"1827520391",
+"parent":"",
+"text":"[偷笑][偷笑][偷笑]@璇琦的晨曦",
+"mid":"A5wyxCeoE",
+"date":"2013-08-20 00:30:19"
+},
+{
+"kids":[],
+"uid":"1497393111",
+"parent":"",
+"text":"",
+"mid":"A5wyhkMBI",
+"date":"2013-08-20 00:29:40"
+},
+{
+"kids":[],
+"uid":"3201610390",
+"parent":"",
+"text":"我的解释是钱挣的多的人工作一般不是很忙很累，自然有更多的情趣，时间，空间来享受性来",
+"mid":"A5ww1kuAN",
+"date":"2013-08-20 00:24:05"
+},
+{
+"kids":[],
+"uid":"2844012672",
+"parent":"",
+"text":"以后我要天天做!!!!为了给老婆更好的生活，所以请她一定配合我",
+"mid":"A5wvbzZ3W",
+"date":"2013-08-20 00:22:04"
+},
+{
+"kids":[],
+"uid":"3679575081",
+"parent":"",
+"text":"",
+"mid":"A5wuti9LC",
+"date":"2013-08-20 00:20:15"
+},
+{
+"kids":[],
+"uid":"3163985011",
+"parent":"",
+"text":"",
+"mid":"A5wursdFk",
+"date":"2013-08-20 00:20:13"
+},
+{
+"kids":[],
+"uid":"2211480832",
+"parent":"",
+"text":"这么怪的理论！！打飞机算吗？[哈哈]",
+"mid":"A5wuqhnb9",
+"date":"2013-08-20 00:20:08"
+},
+{
+"kids":[],
+"uid":"2057535815",
+"parent":"",
+"text":"@六条眉毛",
+"mid":"A5wu6eW2O",
+"date":"2013-08-20 00:19:22"
+},
+{
+"kids":[],
+"uid":"3689487964",
+"parent":"",
+"text":"这么怪的理论。",
+"mid":"A5wu1dsXG",
+"date":"2013-08-20 00:19:10"
+},
+{
+"kids":[],
+"uid":"rinimeixiaobawang",
+"parent":"",
+"text":"@寐寐人",
+"mid":"A5wsuk9Wv",
+"date":"2013-08-20 00:15:24"
+},
+{
+"kids":[],
+"uid":"2601415461",
+"parent":"A5wpKasby",
+"text":"@仅有的张思思",
+"mid":"A5wsk2rEV",
+"date":"2013-08-20 00:15:00"
+},
+{
+"kids":[
+"A9RDSyWJk",
+"A9Pn57Lwy",
+"A7O2KE7kD"
+],
+"uid":"3035606471",
+"parent":"",
+"text":"呜呜！",
+"mid":"A5wrYa4Zn",
+"date":"2013-08-20 00:14:05"
+},
+{
+"kids":[],
+"uid":"1823364121",
+"parent":"",
+"text":"[思考][思考][思考]",
+"mid":"A5wrU1Rz7",
+"date":"2013-08-20 00:13:57"
+},
+{
+"kids":[],
+"uid":"1938263542",
+"parent":"",
+"text":"难道不是反过来吗？跟“游泳的人好身材”的误解类似。",
+"mid":"A5wrwmYBB",
+"date":"2013-08-20 00:12:59"
+},
+{
+"kids":[],
+"uid":"2589107237",
+"parent":"A5w7fkMvx",
+"text":"那些低工资的，反省下~",
+"mid":"A5wrq8qDV",
+"date":"2013-08-20 00:12:45"
+},
+{
+"kids":[],
+"uid":"2660568002",
+"parent":"",
+"text":"",
+"mid":"A5wrdr6yr",
+"date":"2013-08-20 00:12:17"
+},
+{
+"kids":[],
+"uid":"1818658791",
+"parent":"",
+"text":"两天一次比较不错~",
+"mid":"A5wqUgrQ9",
+"date":"2013-08-20 00:11:30"
+},
+{
+"kids":[],
+"uid":"2684824714",
+"parent":"",
+"text":"@hyhy_liu",
+"mid":"A5wqL5UFO",
+"date":"2013-08-20 00:11:08"
+},
+{
+"kids":[],
+"uid":"yanfeicanyuetian",
+"parent":"",
+"text":"反了好吗",
+"mid":"A5wqE1b8b",
+"date":"2013-08-20 00:10:51"
+},
+{
+"kids":[
+"A5wsk2rEV"
+],
+"uid":"2601415461",
+"parent":"",
+"text":"转发微博。",
+"mid":"A5wpKasby",
+"date":"2013-08-20 00:08:38"
+},
+{
+"kids":[],
+"uid":"3358019942",
+"parent":"",
+"text":"",
+"mid":"A5wptiJmm",
+"date":"2013-08-20 00:07:58"
+},
+{
+"kids":[
+"A7FW8mGgb"
+],
+"uid":"2620506992",
+"parent":"",
+"text":"",
+"mid":"A5wpljU5N",
+"date":"2013-08-20 00:07:39"
+},
+{
+"kids":[],
+"uid":"2467259103",
+"parent":"",
+"text":"怪不得小姐都我钱！",
+"mid":"A5wphbGE3",
+"date":"2013-08-20 00:07:27"
+},
+{
+"kids":[],
+"uid":"1516931313",
+"parent":"",
+"text":"大家抓紧找对象吧",
+"mid":"A5wonA7u0",
+"date":"2013-08-20 00:05:17"
+},
+{
+"kids":[],
+"uid":"3168807862",
+"parent":"",
+"text":"喊",
+"mid":"A5wo4q03k",
+"date":"2013-08-20 00:04:29"
+},
+{
+"kids":[],
+"uid":"1731313845",
+"parent":"",
+"text":"肯定啊，能干的人肯定比不能干的人赚得多，这个是常识吧，不需要研究吧。",
+"mid":"A5wnZph9O",
+"date":"2013-08-20 00:04:17"
+},
+{
+"kids":[],
+"uid":"2815136032",
+"parent":"",
+"text":"",
+"mid":"A5wnz8atb",
+"date":"2013-08-20 00:03:17"
+},
+{
+"kids":[],
+"uid":"2818251684",
+"parent":"A5wl1yujv",
+"text":"这就叫一句中国话：扯鸡巴（下）胆（卖钱多）",
+"mid":"A5wnfAM0D",
+"date":"2013-08-20 00:02:28"
+},
+{
+"kids":[],
+"uid":"2502137114",
+"parent":"",
+"text":"找老婆",
+"mid":"A5wn3tJCZ",
+"date":"2013-08-20 00:02:00"
+},
+{
+"kids":[],
+"uid":"2804369390",
+"parent":"",
+"text":"",
+"mid":"A5wmUBEUe",
+"date":"2013-08-20 00:01:38"
+},
+{
+"kids":[],
+"uid":"1226926150",
+"parent":"",
+"text":"。。。。。。。。。。。。此处省略两万字",
+"mid":"A5wmR46vL",
+"date":"2013-08-20 00:01:30"
+},
+{
+"kids":[],
+"uid":"aguang1221",
+"parent":"",
+"text":"[酷]",
+"mid":"A5wmL8NQo",
+"date":"2013-08-20 00:01:16"
+},
+{
+"kids":[],
+"uid":"2132815931",
+"parent":"",
+"text":"穷屌丝和撸一辈子居然是尼玛充分必要条件。。。",
+"mid":"A5wmujutv",
+"date":"2013-08-20 00:00:36"
+},
+{
+"kids":[],
+"uid":"3290551304",
+"parent":"",
+"text":"靠  我们这些优秀青年  那会有个毛钱！！！",
+"mid":"A5wmts231",
+"date":"2013-08-20 00:00:32"
+},
+{
+"kids":[],
+"uid":"2446396592",
+"parent":"",
+"text":"@郭多黎各_ @萝卜炖鸡蛋 @啊喂丶 @宇宙无敌超级小高妞 这就是为什么我们穷的原因吗？哈哈",
+"mid":"A5wmkzXky",
+"date":"2013-08-20 00:00:15"
+},
+{
+"kids":[],
+"uid":"3283020201",
+"parent":"",
+"text":"[思考]这个也能扯上关系～",
+"mid":"A5wmkxszO",
+"date":"2013-08-20 00:00:14"
+},
+{
+"kids":[],
+"uid":"1597726194",
+"parent":"",
+"text":"适合党国贪官",
+"mid":"A5wlRicbb",
+"date":"2013-08-19 23:59:02"
+},
+{
+"kids":[],
+"uid":"boffoboffo",
+"parent":"",
+"text":"",
+"mid":"A5wlHyr6F",
+"date":"2013-08-19 23:58:39"
+},
+{
+"kids":[],
+"uid":"3039262165",
+"parent":"",
+"text":"我黯然失色",
+"mid":"A5wlAsS4e",
+"date":"2013-08-19 23:58:25"
+},
+{
+"kids":[],
+"uid":"sydneyhugh",
+"parent":"",
+"text":"回复@J风樱:[哈哈]",
+"mid":"A5wluy9xF",
+"date":"2013-08-19 23:58:07"
+},
+{
+"kids":[],
+"uid":"laonaweijun",
+"parent":"",
+"text":"。。。",
+"mid":"A5wlbBkbQ",
+"date":"2013-08-19 23:57:24"
+},
+{
+"kids":[],
+"uid":"2019673445",
+"parent":"",
+"text":"[哈哈][嘻嘻][哈哈][嘻嘻][哈哈][嘻嘻][哈哈][嘻嘻][哈哈][嘻嘻]笑而不语",
+"mid":"A5wl9xT11",
+"date":"2013-08-19 23:57:21"
+},
+{
+"kids":[],
+"uid":"1379170554",
+"parent":"",
+"text":"[汗]",
+"mid":"A5wl3otVq",
+"date":"2013-08-19 23:57:05"
+},
+{
+"kids":[
+"A5wnfAM0D"
+],
+"uid":"yzdjzhule",
+"parent":"",
+"text":"是活动多才钱多？还是钱多导致活动多？",
+"mid":"A5wl1yujv",
+"date":"2013-08-19 23:57:00"
+},
+{
+"kids":[],
+"uid":"2016466647",
+"parent":"",
+"text":"",
+"mid":"A5wkRhrMh",
+"date":"2013-08-19 23:56:36"
+},
+{
+"kids":[],
+"uid":"2548155141",
+"parent":"",
+"text":"别急别燥赶快行动吧！",
+"mid":"A5wktCzWB",
+"date":"2013-08-19 23:55:41"
+},
+{
+"kids":[],
+"uid":"1098006385",
+"parent":"",
+"text":"",
+"mid":"A5wkar4BB",
+"date":"2013-08-19 23:54:54"
+},
+{
+"kids":[],
+"uid":"yuyuanjiang",
+"parent":"",
+"text":"这……需要验证么，教授们？[花心][花心][花心][花心]",
+"mid":"A5wjTizQE",
+"date":"2013-08-19 23:54:12"
+},
+{
+"kids":[],
+"uid":"3184833191",
+"parent":"",
+"text":"",
+"mid":"A5wjEec7N",
+"date":"2013-08-19 23:53:34"
+},
+{
+"kids":[],
+"uid":"whaid",
+"parent":"",
+"text":"难怪越挣越少！",
+"mid":"A5wjvBL6z",
+"date":"2013-08-19 23:53:17"
+},
+{
+"kids":[],
+"uid":"2273440102",
+"parent":"",
+"text":"@BN_WZ能",
+"mid":"A5wjeuENR",
+"date":"2013-08-19 23:52:36"
+},
+{
+"kids":[],
+"uid":"2419902360",
+"parent":"",
+"text":"哈哈",
+"mid":"A5wiXmac3",
+"date":"2013-08-19 23:51:52"
+},
+{
+"kids":[],
+"uid":"2393507484",
+"parent":"",
+"text":"[吃惊]",
+"mid":"A5wiVjID3",
+"date":"2013-08-19 23:51:47"
+},
+{
+"kids":[],
+"uid":"tyronewu",
+"parent":"A5w19nWxb",
+"text":"还敢说工资低吗？",
+"mid":"A5wiU7cL8",
+"date":"2013-08-19 23:51:47"
+},
+{
+"kids":[],
+"uid":"3084251085",
+"parent":"",
+"text":"",
+"mid":"A5wijbzw3",
+"date":"2013-08-19 23:50:17"
+},
+{
+"kids":[],
+"uid":"burtonwei",
+"parent":"",
+"text":"因果颠倒了",
+"mid":"A5wico97g",
+"date":"2013-08-19 23:50:00"
+},
+{
+"kids":[],
+"uid":"1680046337",
+"parent":"",
+"text":"Come on!",
+"mid":"A5wi5AbkA",
+"date":"2013-08-19 23:49:46"
+},
+{
+"kids":[],
+"uid":"1702017574",
+"parent":"",
+"text":"国内就缺少这种匪夷所思的调研，取而代之的是各种更匪夷所思的可供政府参考却从不被参考的社会调研！",
+"mid":"A5wi5izG5",
+"date":"2013-08-19 23:49:44"
+},
+{
+"kids":[],
+"uid":"zhangchong666",
+"parent":"",
+"text":"万事皆有因果，只是这个因果真的让我理解不了，呵呵",
+"mid":"A5wi50rbO",
+"date":"2013-08-19 23:49:44"
+},
+{
+"kids":[],
+"uid":"sunny2v2",
+"parent":"",
+"text":"啊哈",
+"mid":"A5whPianC",
+"date":"2013-08-19 23:49:08"
+},
+{
+"kids":[],
+"uid":"1917761943",
+"parent":"",
+"text":"哈哈，真理",
+"mid":"A5whwEWsI",
+"date":"2013-08-19 23:48:23"
+},
+{
+"kids":[],
+"uid":"335xiaobao",
+"parent":"",
+"text":"在中国城市肯定对，在中国农村肯定不对",
+"mid":"A5whgbLIq",
+"date":"2013-08-19 23:47:45"
+},
+{
+"kids":[],
+"uid":"2025456045",
+"parent":"",
+"text":"这个报道没有依据，妓女次数还高呢！",
+"mid":"A5whe63oD",
+"date":"2013-08-19 23:47:38"
+},
+{
+"kids":[],
+"uid":"2712394041",
+"parent":"",
+"text":"@黑眼圈_猪小文 [晕][神马]",
+"mid":"A5whcB9Rx",
+"date":"2013-08-19 23:47:34"
+},
+{
+"kids":[],
+"uid":"eve11shao",
+"parent":"",
+"text":"黯然失色ing",
+"mid":"A5wh6pWdV",
+"date":"2013-08-19 23:47:21"
+},
+{
+"kids":[],
+"uid":"dqlhhh",
+"parent":"",
+"text":"",
+"mid":"A5wh4DW0L",
+"date":"2013-08-19 23:47:17"
+},
+{
+"kids":[],
+"uid":"3165581887",
+"parent":"",
+"text":"@稍息高高立正李李 看着办吧",
+"mid":"A5wgUiTEH",
+"date":"2013-08-19 23:46:53"
+},
+{
+"kids":[],
+"uid":"2880988490",
+"parent":"",
+"text":"这，，是真的么？？",
+"mid":"A5wgIbRgg",
+"date":"2013-08-19 23:46:24"
+},
+{
+"kids":[],
+"uid":"1916660663",
+"parent":"",
+"text":"转发微博。",
+"mid":"A5wgEmPvK",
+"date":"2013-08-19 23:46:14"
+},
+{
+"kids":[],
+"uid":"3634550080",
+"parent":"",
+"text":"",
+"mid":"A5wgD7JSr",
+"date":"2013-08-19 23:46:11"
+},
+{
+"kids":[],
+"uid":"2706676680",
+"parent":"",
+"text":"@123321567zz",
+"mid":"A5wgy8VwN",
+"date":"2013-08-19 23:45:58"
+},
+{
+"kids":[],
+"uid":"1048351592",
+"parent":"",
+"text":"从现在开始努力！",
+"mid":"A5wgol5t0",
+"date":"2013-08-19 23:45:37"
+},
+{
+"kids":[],
+"uid":"1934477244",
+"parent":"",
+"text":"我就说咋这么穷呢",
+"mid":"A5wgnulLe",
+"date":"2013-08-19 23:45:35"
+},
+{
+"kids":[],
+"uid":"2610517992",
+"parent":"",
+"text":"终于知道自己赚得少的原因了@小V有博",
+"mid":"A5wgkyynW",
+"date":"2013-08-19 23:45:26"
+},
+{
+"kids":[],
+"uid":"2159984532",
+"parent":"",
+"text":"[衰]",
+"mid":"A5wgjDJOj",
+"date":"2013-08-19 23:45:23"
+},
+{
+"kids":[],
+"uid":"3556294354",
+"parent":"",
+"text":"",
+"mid":"A5wg4y7eD",
+"date":"2013-08-19 23:44:48"
+},
+{
+"kids":[],
+"uid":"1990420683",
+"parent":"",
+"text":"所以服务行业生意特别好吗！",
+"mid":"A5wg2veUa",
+"date":"2013-08-19 23:44:44"
+},
+{
+"kids":[],
+"uid":"yunzhouhuang",
+"parent":"",
+"text":"我终于明白为什么我一直是个屌丝了！",
+"mid":"A5wfvqbZj",
+"date":"2013-08-19 23:43:22"
+},
+{
+"kids":[
+"A5B984ue3"
+],
+"uid":"1005298263",
+"parent":"A5w7Z9P8J",
+"text":"",
+"mid":"A5wfnsU8D",
+"date":"2013-08-19 23:43:04"
+},
+{
+"kids":[],
+"uid":"1984872511",
+"parent":"",
+"text":"怎么没人给我钱@采薇过客 @BAo-貝520 @阿Ru阿- @蔡蔡小C @Ari-Queen",
+"mid":"A5wfl7c4G",
+"date":"2013-08-19 23:43:01"
+},
+{
+"kids":[],
+"uid":"1730013303",
+"parent":"",
+"text":"[bm流淚]@gcl23 麻痹啊",
+"mid":"A5wfl3KKI",
+"date":"2013-08-19 23:43:01"
+},
+{
+"kids":[],
+"uid":"fmmu2011",
+"parent":"",
+"text":"这只能大家心中有数了...要去询问人家.肯定一记耳光上来了.[哈哈]",
+"mid":"A5wf6C05d",
+"date":"2013-08-19 23:42:26"
+},
+{
+"kids":[],
+"uid":"threehtree",
+"parent":"",
+"text":"专家表示：纸巾消耗量越少性生活越多。",
+"mid":"A5wf4dGOT",
+"date":"2013-08-19 23:42:20"
+},
+{
+"kids":[],
+"uid":"3192541552",
+"parent":"A5w1XDXC6",
+"text":"",
+"mid":"A5weY0KxA",
+"date":"2013-08-19 23:42:05"
+},
+{
+"kids":[],
+"uid":"tangswen",
+"parent":"",
+"text":"有这回事？？[疑问][疑问][偷笑][偷笑]",
+"mid":"A5weV463n",
+"date":"2013-08-19 23:41:57"
+},
+{
+"kids":[],
+"uid":"spirit1028",
+"parent":"",
+"text":"这。。。",
+"mid":"A5weSomQn",
+"date":"2013-08-19 23:41:53"
+},
+{
+"kids":[],
+"uid":"1561501457",
+"parent":"",
+"text":"我和我的小伙伴都惊呆了！",
+"mid":"A5weOiDv9",
+"date":"2013-08-19 23:41:42"
+},
+{
+"kids":[],
+"uid":"1871539884",
+"parent":"A5wc3sClY",
+"text":"国情不同[汗]",
+"mid":"A5weF8xdw",
+"date":"2013-08-19 23:41:18"
+},
+{
+"kids":[],
+"uid":"1445360600",
+"parent":"",
+"text":"",
+"mid":"A5wev5Bln",
+"date":"2013-08-19 23:40:54"
+},
+{
+"kids":[],
+"uid":"2239351413",
+"parent":"",
+"text":"",
+"mid":"A5wectH4r",
+"date":"2013-08-19 23:40:12"
+},
+{
+"kids":[],
+"uid":"2134375595",
+"parent":"",
+"text":"[衰]额。。。。。一周三到四次",
+"mid":"A5we0CLkq",
+"date":"2013-08-19 23:39:44"
+},
+{
+"kids":[],
+"uid":"2358489131",
+"parent":"",
+"text":"",
+"mid":"A5wdOvnB1",
+"date":"2013-08-19 23:39:15"
+},
+{
+"kids":[],
+"uid":"2346267033",
+"parent":"",
+"text":"",
+"mid":"A5wdKD1ze",
+"date":"2013-08-19 23:39:06"
+},
+{
+"kids":[],
+"uid":"delia1102",
+"parent":"",
+"text":"致富之道@救赎redeemed",
+"mid":"A5wdkFD0H",
+"date":"2013-08-19 23:38:05"
+},
+{
+"kids":[],
+"uid":"ijuin",
+"parent":"",
+"text":"难怪我这么穷",
+"mid":"A5wdbfNv7",
+"date":"2013-08-19 23:37:42"
+},
+{
+"kids":[],
+"uid":"1764313602",
+"parent":"",
+"text":"@双生 @Z璐L 你们要学习",
+"mid":"A5wd80P6G",
+"date":"2013-08-19 23:37:30"
+},
+{
+"kids":[],
+"uid":"johnmacro",
+"parent":"",
+"text":"",
+"mid":"A5wd2CT9B",
+"date":"2013-08-19 23:37:21"
+},
+{
+"kids":[],
+"uid":"burningphenix",
+"parent":"",
+"text":"一周四次以上[威武]，估计咱没有这么好的精力",
+"mid":"A5wcTe0tu",
+"date":"2013-08-19 23:36:58"
+},
+{
+"kids":[],
+"uid":"1833400650",
+"parent":"",
+"text":"世界首富比尔•盖茨，岂不是已经＂铁棒磨成针＂？",
+"mid":"A5wcH5vMS",
+"date":"2013-08-19 23:36:26"
+},
+{
+"kids":[],
+"uid":"fanfandefan",
+"parent":"",
+"text":"所以刘志军那么多钱",
+"mid":"A5wcx40KI",
+"date":"2013-08-19 23:36:04"
+},
+{
+"kids":[],
+"uid":"1915306952",
+"parent":"",
+"text":"[哈哈][哈哈][哈哈]",
+"mid":"A5wcpE3qw",
+"date":"2013-08-19 23:35:46"
+},
+{
+"kids":[],
+"uid":"3095193847",
+"parent":"",
+"text":"@小资人民爱耍帅 看看看看看看看看看",
+"mid":"A5wcfhfE9",
+"date":"2013-08-19 23:35:23"
+},
+{
+"kids":[],
+"uid":"ssfhgyj",
+"parent":"",
+"text":"怪不得富商官员有力气搞二奶三奶[挖鼻屎]",
+"mid":"A5wce8YYg",
+"date":"2013-08-19 23:35:21"
+},
+{
+"kids":[],
+"uid":"2181352112",
+"parent":"",
+"text":"@6xiao雪6",
+"mid":"A5wc8vxHE",
+"date":"2013-08-19 23:35:06"
+},
+{
+"kids":[],
+"uid":"3449516224",
+"parent":"",
+"text":"@白洋淀导游小白",
+"mid":"A5wc6a8WD",
+"date":"2013-08-19 23:35:01"
+},
+{
+"kids":[],
+"uid":"2379917870",
+"parent":"",
+"text":"",
+"mid":"A5wc4nkdx",
+"date":"2013-08-19 23:34:57"
+},
+{
+"kids":[
+"A5wFvljQ4",
+"A5wEjbzbz",
+"A5weF8xdw"
+],
+"uid":"babylulu1130",
+"parent":"",
+"text":"知道为什么那些当官的情人很多了吗？",
+"mid":"A5wc3sClY",
+"date":"2013-08-19 23:34:54"
+},
+{
+"kids":[],
+"uid":"2741696284",
+"parent":"",
+"text":"抄作，[围观][思考][思考][思考][思考]",
+"mid":"A5wbQdA2t",
+"date":"2013-08-19 23:34:23"
+},
+{
+"kids":[],
+"uid":"2755993341",
+"parent":"",
+"text":"这个可以有",
+"mid":"A5wbPiUQt",
+"date":"2013-08-19 23:34:20"
+},
+{
+"kids":[],
+"uid":"samzhang8988",
+"parent":"",
+"text":"[汗]",
+"mid":"A5wbCk1pg",
+"date":"2013-08-19 23:33:50"
+},
+{
+"kids":[
+"A5DOA4B1G"
+],
+"uid":"cindy0528",
+"parent":"",
+"text":"哈哈，公仆们乐开花了",
+"mid":"A5wbB9amz",
+"date":"2013-08-19 23:33:48"
+},
+{
+"kids":[],
+"uid":"232112302",
+"parent":"",
+"text":"",
+"mid":"A5wbnvOPW",
+"date":"2013-08-19 23:33:15"
+},
+{
+"kids":[],
+"uid":"2349943074",
+"parent":"A5w3splqn",
+"text":"卖肉的钱还要多来[偷笑]",
+"mid":"A5wbnedeS",
+"date":"2013-08-19 23:33:11"
+},
+{
+"kids":[],
+"uid":"2064407840",
+"parent":"",
+"text":"[哼]",
+"mid":"A5wbmDXtw",
+"date":"2013-08-19 23:33:11"
+},
+{
+"kids":[],
+"uid":"1908671267",
+"parent":"",
+"text":"牛逼",
+"mid":"A5wbcjpFD",
+"date":"2013-08-19 23:32:47"
+},
+{
+"kids":[],
+"uid":"1763530952",
+"parent":"",
+"text":"尼玛，因果弄反了吧，是赚钱越多性生活就越多",
+"mid":"A5wb9lLsS",
+"date":"2013-08-19 23:32:40"
+},
+{
+"kids":[],
+"uid":"2637792621",
+"parent":"",
+"text":"",
+"mid":"A5wb8aUq5",
+"date":"2013-08-19 23:32:36"
+},
+{
+"kids":[],
+"uid":"1431508634",
+"parent":"",
+"text":"我终于明白了当官的为什么有那么多情妇，原来收入与性生活次数成正比。",
+"mid":"A5wb4zfQG",
+"date":"2013-08-19 23:32:29"
+},
+{
+"kids":[],
+"uid":"2996740727",
+"parent":"",
+"text":"齐白石83岁还让妻子怀上了，你说呢？",
+"mid":"A5waXg6ab",
+"date":"2013-08-19 23:32:12"
+},
+{
+"kids":[],
+"uid":"2638181981",
+"parent":"",
+"text":"@陈陈雯雯雯雯雯",
+"mid":"A5waKdM1T",
+"date":"2013-08-19 23:31:41"
+},
+{
+"kids":[],
+"uid":"2623880281",
+"parent":"",
+"text":"",
+"mid":"A5waGpaND",
+"date":"2013-08-19 23:31:31"
+},
+{
+"kids":[],
+"uid":"candyscx",
+"parent":"A5w9W0OJV",
+"text":"哈哈",
+"mid":"A5wazjAux",
+"date":"2013-08-19 23:31:12"
+},
+{
+"kids":[],
+"uid":"3164075727",
+"parent":"",
+"text":"亲们，做起来！哈哈！",
+"mid":"A5wad8epw",
+"date":"2013-08-19 23:30:22"
+},
+{
+"kids":[],
+"uid":"mason5how",
+"parent":"",
+"text":"...",
+"mid":"A5wa57mUW",
+"date":"2013-08-19 23:30:02"
+},
+{
+"kids":[
+"A5zMaBlfX"
+],
+"uid":"2140955133",
+"parent":"",
+"text":"[汗]",
+"mid":"A5wa0nyam",
+"date":"2013-08-19 23:29:52"
+},
+{
+"kids":[],
+"uid":"2862384024",
+"parent":"",
+"text":"[汗]难怪啊",
+"mid":"A5w9XtwtW",
+"date":"2013-08-19 23:29:44"
+},
+{
+"kids":[],
+"uid":"daviszeng",
+"parent":"",
+"text":"[照相机][吃惊]",
+"mid":"A5w9WAgSU",
+"date":"2013-08-19 23:29:43"
+},
+{
+"kids":[],
+"uid":"1762819635",
+"parent":"",
+"text":"这么厉害",
+"mid":"A5w9WAgJk",
+"date":"2013-08-19 23:29:41"
+},
+{
+"kids":[
+"A5wazjAux"
+],
+"uid":"1814378493",
+"parent":"A5w3lCtje",
+"text":"这就是为啥普通性工作者月入能翻俺十几则跟头的原因呀[晕]",
+"mid":"A5w9W0OJV",
+"date":"2013-08-19 23:29:41"
+},
+{
+"kids":[],
+"uid":"jinxiaozhe77",
+"parent":"",
+"text":"看标题，感觉象性工作者协会的调查",
+"mid":"A5w9SoNwC",
+"date":"2013-08-19 23:29:32"
+},
+{
+"kids":[],
+"uid":"3709081057",
+"parent":"",
+"text":"",
+"mid":"A5w9I69Rx",
+"date":"2013-08-19 23:29:07"
+},
+{
+"kids":[],
+"uid":"3160695604",
+"parent":"",
+"text":"",
+"mid":"A5w9DlDBW",
+"date":"2013-08-19 23:28:58"
+},
+{
+"kids":[],
+"uid":"2679658075",
+"parent":"",
+"text":"明明是赚钱越多性生活越多，图样[挖鼻屎][挖鼻屎][挖鼻屎][亲亲]",
+"mid":"A5w9CvtEy",
+"date":"2013-08-19 23:28:56"
+},
+{
+"kids":[],
+"uid":"qiansir007",
+"parent":"",
+"text":"",
+"mid":"A5w9ucK9E",
+"date":"2013-08-19 23:28:32"
+},
+{
+"kids":[],
+"uid":"1199098391",
+"parent":"",
+"text":"卖淫也算？[汗]@杨叉仁",
+"mid":"A5w9n9rFZ",
+"date":"2013-08-19 23:28:18"
+},
+{
+"kids":[],
+"uid":"529855671",
+"parent":"",
+"text":"这个博里最好看的是@ ...[偷笑]",
+"mid":"A5w9i56WG",
+"date":"2013-08-19 23:28:06"
+},
+{
+"kids":[],
+"uid":"1106661471",
+"parent":"",
+"text":"@方自勤Meow",
+"mid":"A5w9glsKa",
+"date":"2013-08-19 23:28:02"
+},
+{
+"kids":[],
+"uid":"2424843952",
+"parent":"",
+"text":"",
+"mid":"A5w9dmMo2",
+"date":"2013-08-19 23:27:55"
+},
+{
+"kids":[],
+"uid":"2238019074",
+"parent":"",
+"text":"",
+"mid":"A5w98Btp5",
+"date":"2013-08-19 23:27:43"
+},
+{
+"kids":[],
+"uid":"2958841795",
+"parent":"",
+"text":"",
+"mid":"A5w8YjFJg",
+"date":"2013-08-19 23:27:19"
+},
+{
+"kids":[],
+"uid":"3190924284",
+"parent":"",
+"text":"。。。",
+"mid":"A5w8T0B0G",
+"date":"2013-08-19 23:27:05"
+},
+{
+"kids":[],
+"uid":"duwenxia",
+"parent":"",
+"text":"",
+"mid":"A5w8Rcelz",
+"date":"2013-08-19 23:27:02"
+},
+{
+"kids":[],
+"uid":"3190180183",
+"parent":"",
+"text":"[汗][汗][汗]@Hino-cheng @YXY_Celia 受伤了么",
+"mid":"A5w8L2R4Q",
+"date":"2013-08-19 23:26:45"
+},
+{
+"kids":[],
+"uid":"rickfire",
+"parent":"",
+"text":"。。。。。。。",
+"mid":"A5w8G058v",
+"date":"2013-08-19 23:26:34"
+},
+{
+"kids":[],
+"uid":"208405567",
+"parent":"",
+"text":"@半孬孩子 @檀润星 @小小BBer之_可乐维他奶 加油做，加油爱，加油。。。",
+"mid":"A5w8Ec3Qq",
+"date":"2013-08-19 23:26:31"
+},
+{
+"kids":[],
+"uid":"1975444143",
+"parent":"",
+"text":"突然想起一句经典的：饱暖思**。这些社会学研究者能不能正经些，尽讨论些有的没的！[吃惊][吃惊][吃惊]",
+"mid":"A5w8reyeH",
+"date":"2013-08-19 23:26:01"
+},
+{
+"kids":[],
+"uid":"hughfi",
+"parent":"",
+"text":"所谓饱暖思ooxx嘛…",
+"mid":"A5w8fFqpl",
+"date":"2013-08-19 23:25:30"
+},
+{
+"kids":[],
+"uid":"2641408851",
+"parent":"",
+"text":"难怪我穷！！是有原因的",
+"mid":"A5w86fpkf",
+"date":"2013-08-19 23:25:08"
+},
+{
+"kids":[
+"A5B984ue3",
+"A5wfnsU8D"
+],
+"uid":"637890280",
+"parent":"",
+"text":"",
+"mid":"A5w7Z9P8J",
+"date":"2013-08-19 23:24:53"
+},
+{
+"kids":[],
+"uid":"3172578370",
+"parent":"",
+"text":"每小时一次试试",
+"mid":"A5w7UpXvR",
+"date":"2013-08-19 23:24:42"
+},
+{
+"kids":[],
+"uid":"1365265961",
+"parent":"",
+"text":"[xkl转圈]",
+"mid":"A5w7Qfshp",
+"date":"2013-08-19 23:24:31"
+},
+{
+"kids":[],
+"uid":"20706636",
+"parent":"",
+"text":"@潜伏德狮子",
+"mid":"A5w7FiEvx",
+"date":"2013-08-19 23:24:06"
+},
+{
+"kids":[],
+"uid":"2940646544",
+"parent":"",
+"text":"我就木有收入…",
+"mid":"A5w7F52r2",
+"date":"2013-08-19 23:24:03"
+},
+{
+"kids":[],
+"uid":"2133508060",
+"parent":"",
+"text":"",
+"mid":"A5w7D0Vxe",
+"date":"2013-08-19 23:23:58"
+},
+{
+"kids":[],
+"uid":"3583842042",
+"parent":"",
+"text":"",
+"mid":"A5w7A2jq0",
+"date":"2013-08-19 23:23:50"
+},
+{
+"kids":[],
+"uid":"x1aomao259758",
+"parent":"",
+"text":"[吃惊][吃惊][吃惊] (分享自@Weico微博客户端) http:",
+"mid":"A5w7yeXyZ",
+"date":"2013-08-19 23:23:47"
+},
+{
+"kids":[],
+"uid":"hwxhqy",
+"parent":"",
+"text":"是因为有钱性生活才多吧",
+"mid":"A5w7fDDeW",
+"date":"2013-08-19 23:23:03"
+},
+{
+"kids":[
+"A5wrq8qDV"
+],
+"uid":"319201999",
+"parent":"",
+"text":"[汗]这是刺激内需吗？",
+"mid":"A5w7fkMvx",
+"date":"2013-08-19 23:23:02"
+},
+{
+"kids":[],
+"uid":"2608749670",
+"parent":"",
+"text":"",
+"mid":"A5w751tjP",
+"date":"2013-08-19 23:22:40"
+},
+{
+"kids":[],
+"uid":"2174857804",
+"parent":"",
+"text":"@小敏小玉 终于找到科学依据拉！[偷笑]",
+"mid":"A5w6UEu0w",
+"date":"2013-08-19 23:22:12"
+},
+{
+"kids":[],
+"uid":"3233368012",
+"parent":"",
+"text":"@青岛农业大学纵横协会 [哈哈][嘻嘻][嘻嘻]",
+"mid":"A5w6Jqy3r",
+"date":"2013-08-19 23:21:46"
+},
+{
+"kids":[],
+"uid":"ynnarf",
+"parent":"A5w5z2WP1",
+"text":"妈的，逻辑有问题，人家有钱人是有钱所以性生活才多，别颠倒误导年轻人啊。",
+"mid":"A5w6CCzXh",
+"date":"2013-08-19 23:21:33"
+},
+{
+"kids":[],
+"uid":"bithan",
+"parent":"",
+"text":"加油嘿嘿@24號V @乖乖的鸭子 @胡俊丰 @JackSu-1982 @未满16岁禁入 @有时无候",
+"mid":"A5w6z4Fis",
+"date":"2013-08-19 23:21:23"
+},
+{
+"kids":[],
+"uid":"mark54404969",
+"parent":"",
+"text":"我擦。。。[晕]",
+"mid":"A5w6szDC0",
+"date":"2013-08-19 23:21:05"
+},
+{
+"kids":[],
+"uid":"2965380500",
+"parent":"",
+"text":"[吃惊]身体受得了啊",
+"mid":"A5w6r5Ux4",
+"date":"2013-08-19 23:21:02"
+},
+{
+"kids":[],
+"uid":"2269825243",
+"parent":"",
+"text":"德国人真的无聊了……",
+"mid":"A5w6ngz5q",
+"date":"2013-08-19 23:20:55"
+},
+{
+"kids":[],
+"uid":"leehaa",
+"parent":"",
+"text":"",
+"mid":"A5w6lcrZk",
+"date":"2013-08-19 23:20:47"
+},
+{
+"kids":[],
+"uid":"2004027473",
+"parent":"",
+"text":"Only fuck",
+"mid":"A5w6kjctT",
+"date":"2013-08-19 23:20:48"
+},
+{
+"kids":[],
+"uid":"1006860001",
+"parent":"",
+"text":"@ssry猪猪",
+"mid":"A5w6bskux",
+"date":"2013-08-19 23:20:25"
+},
+{
+"kids":[
+"A5z1w2zIT"
+],
+"uid":"2995432522",
+"parent":"",
+"text":"的确啊，小姐们一天多做几次，赚钱就多了。[汗]",
+"mid":"A5w60ewsn",
+"date":"2013-08-19 23:20:01"
+},
+{
+"kids":[],
+"uid":"2183276752",
+"parent":"",
+"text":"应该是赚钱越多，性生活越多才对吧[哼]",
+"mid":"A5w5Vts4m",
+"date":"2013-08-19 23:19:47"
+},
+{
+"kids":[],
+"uid":"guxingaoyan",
+"parent":"",
+"text":"要调过来吧？赚的越多性生活越多吧",
+"mid":"A5w5RleHp",
+"date":"2013-08-19 23:19:40"
+},
+{
+"kids":[],
+"uid":"1856728680",
+"parent":"",
+"text":"依据中国国情，显然钱多性多。因果关系反了吧[挖鼻屎][偷笑]",
+"mid":"A5w5Rkk2S",
+"date":"2013-08-19 23:19:35"
+},
+{
+"kids":[],
+"uid":"cindyruanhan",
+"parent":"",
+"text":"我觉得这就是饱暖思淫欲好伐。明明就是先赚钱多生活好吃饱喝好的就开始思淫欲了。那些工作吃饭都来不及的劳动人民 哪有时间搞你的淫欲去[汗]",
+"mid":"A5w5PijM4",
+"date":"2013-08-19 23:19:31"
+},
+{
+"kids":[],
+"uid":"zyqqlover",
+"parent":"",
+"text":"加油啊",
+"mid":"A5w5JCrw1",
+"date":"2013-08-19 23:19:19"
+},
+{
+"kids":[
+"A5w6CCzXh"
+],
+"uid":"2127249657",
+"parent":"",
+"text":"这个[闭嘴][闭嘴][闭嘴][闭嘴]吃饱了撑的吧",
+"mid":"A5w5z2WP1",
+"date":"2013-08-19 23:18:53"
+},
+{
+"kids":[],
+"uid":"1859664804",
+"parent":"",
+"text":"[汗]德国人的点呵呵 那为了高收入, 结了婚的朋友们加油[bm可爱]没结婚的..随便..[围观]围观一哈哈[围观][xb压力]",
+"mid":"A5w5r1DJa",
+"date":"2013-08-19 23:18:33"
+},
+{
+"kids":[],
+"uid":"1110321324",
+"parent":"",
+"text":"@深深的海海 哈哈,此时微信某款热门游戏救了你啊",
+"mid":"A5w5qaRHV",
+"date":"2013-08-19 23:18:33"
+},
+{
+"kids":[],
+"uid":"2019307702",
+"parent":"",
+"text":"黯然失色。么么嗒[哈哈]",
+"mid":"A5w5lsaYr",
+"date":"2013-08-19 23:18:22"
+},
+{
+"kids":[],
+"uid":"1909259673",
+"parent":"",
+"text":"[抠鼻屎]",
+"mid":"A5w5jEuDf",
+"date":"2013-08-19 23:18:16"
+},
+{
+"kids":[],
+"uid":"jimkung",
+"parent":"",
+"text":"怪不得贪官的钱财与情人的数量是成正相关关系……[浮云]",
+"mid":"A5w5e3Ory",
+"date":"2013-08-19 23:18:02"
+},
+{
+"kids":[],
+"uid":"dpd365",
+"parent":"A5w3lCtg9",
+"text":"对于某些女人来说，性生活的次数与收入是成二次方正比的",
+"mid":"A5w53qoeK",
+"date":"2013-08-19 23:17:40"
+},
+{
+"kids":[],
+"uid":"2615670997",
+"parent":"",
+"text":"@_淡定是一种态度 这是对你的一种鞭策。。。",
+"mid":"A5w4YFm9y",
+"date":"2013-08-19 23:17:29"
+},
+{
+"kids":[],
+"uid":"ab734500493",
+"parent":"",
+"text":"",
+"mid":"A5w4Q8sEW",
+"date":"2013-08-19 23:17:08"
+},
+{
+"kids":[],
+"uid":"disspa",
+"parent":"",
+"text":"我黯然失色…",
+"mid":"A5w4KczK8",
+"date":"2013-08-19 23:16:54"
+},
+{
+"kids":[],
+"uid":"1867453814",
+"parent":"",
+"text":"哈哈 无语  这也有研究",
+"mid":"A5w4Fb6ry",
+"date":"2013-08-19 23:16:42"
+},
+{
+"kids":[],
+"uid":"1822159952",
+"parent":"",
+"text":"[汗][汗]",
+"mid":"A5w4EABYg",
+"date":"2013-08-19 23:16:41"
+},
+{
+"kids":[],
+"uid":"529855671",
+"parent":"A5w3yBFyo",
+"text":"推荐你一款：菊花精致霜。明儿给你带一瓶，多抹抹[花心]",
+"mid":"A5w4DoskZ",
+"date":"2013-08-19 23:16:37"
+},
+{
+"kids":[],
+"uid":"1740683224",
+"parent":"",
+"text":"性工作者是这样的[哈哈]",
+"mid":"A5w4yFSrF",
+"date":"2013-08-19 23:16:26"
+},
+{
+"kids":[],
+"uid":"zhouwenming1982",
+"parent":"",
+"text":"怪不知道哥最近赚不到钱[汗]",
+"mid":"A5w4yogTa",
+"date":"2013-08-19 23:16:26"
+},
+{
+"kids":[],
+"uid":"cuocuocherrykim",
+"parent":"",
+"text":"说的真好，这叫多劳多得[哈哈]",
+"mid":"A5w4riDSY",
+"date":"2013-08-19 23:16:07"
+},
+{
+"kids":[],
+"uid":"3197957900",
+"parent":"",
+"text":"怪不得有钱人都找小三，原来是为了赚更多的钱啊、、",
+"mid":"A5w4ll18O",
+"date":"2013-08-19 23:15:53"
+},
+{
+"kids":[],
+"uid":"xiachunsheng1213",
+"parent":"",
+"text":"。。。",
+"mid":"A5w4kvNRs",
+"date":"2013-08-19 23:15:53"
+},
+{
+"kids":[],
+"uid":"llp928",
+"parent":"",
+"text":"[哈哈]作孽",
+"mid":"A5w4iFhME",
+"date":"2013-08-19 23:15:47"
+},
+{
+"kids":[],
+"uid":"2786824220",
+"parent":"",
+"text":"[汗]",
+"mid":"A5w4hxiF3",
+"date":"2013-08-19 23:15:45"
+},
+{
+"kids":[],
+"uid":"529855671",
+"parent":"A5w3yBFyo",
+"text":"他已经松垮了，被我抛弃了",
+"mid":"A5w4g4Q4U",
+"date":"2013-08-19 23:15:42"
+},
+{
+"kids":[],
+"uid":"513051237",
+"parent":"",
+"text":"",
+"mid":"A5w4dDRsQ",
+"date":"2013-08-19 23:15:37"
+},
+{
+"kids":[],
+"uid":"sunediffer",
+"parent":"",
+"text":"",
+"mid":"A5w49i039",
+"date":"2013-08-19 23:15:24"
+},
+{
+"kids":[],
+"uid":"2295506677",
+"parent":"",
+"text":"[汗]",
+"mid":"A5w3Xrq0Z",
+"date":"2013-08-19 23:14:56"
+},
+{
+"kids":[],
+"uid":"2081383624",
+"parent":"",
+"text":"怪不得鸡啊鸭啊都是有钱人",
+"mid":"A5w3S5IYv",
+"date":"2013-08-19 23:14:45"
+},
+{
+"kids":[],
+"uid":"3216183924",
+"parent":"",
+"text":"无言以对",
+"mid":"A5w3Q1Dsb",
+"date":"2013-08-19 23:14:41"
+},
+{
+"kids":[],
+"uid":"2687385343",
+"parent":"",
+"text":"",
+"mid":"A5w3PrPWd",
+"date":"2013-08-19 23:14:40"
+},
+{
+"kids":[],
+"uid":"2618187583",
+"parent":"",
+"text":"那不是小姐薪水最高。[哈哈]",
+"mid":"A5w3JhnBa",
+"date":"2013-08-19 23:14:22"
+},
+{
+"kids":[],
+"uid":"3198352627",
+"parent":"",
+"text":"原来如此！",
+"mid":"A5w3IFJBX",
+"date":"2013-08-19 23:14:23"
+},
+{
+"kids":[],
+"uid":"2470026532",
+"parent":"",
+"text":"@一点MYQ",
+"mid":"A5w3IEC2r",
+"date":"2013-08-19 23:14:23"
+},
+{
+"kids":[],
+"uid":"gessner",
+"parent":"",
+"text":"怪不得贪官情人多[疑问]",
+"mid":"A5w3I4IWh",
+"date":"2013-08-19 23:14:22"
+},
+{
+"kids":[],
+"uid":"3029403867",
+"parent":"",
+"text":"",
+"mid":"A5w3HdgSA",
+"date":"2013-08-19 23:14:17"
+},
+{
+"kids":[],
+"uid":"1859323923",
+"parent":"",
+"text":"我在想這幇老外是不是吃飽了沒事干，就整天搞這些無聊的調查，，可能是，畢竟他們很富有",
+"mid":"A5w3FofmQ",
+"date":"2013-08-19 23:14:15"
+},
+{
+"kids":[],
+"uid":"3232931700",
+"parent":"A5w3kpj8O",
+"text":"比尔盖茨一天24次？",
+"mid":"A5w3F9a6E",
+"date":"2013-08-19 23:14:13"
+},
+{
+"kids":[],
+"uid":"1817141112",
+"parent":"",
+"text":"赶紧行动起来哇！@Hgz黄",
+"mid":"A5w3D3iHN",
+"date":"2013-08-19 23:14:09"
+},
+{
+"kids":[],
+"uid":"1102714823",
+"parent":"",
+"text":"",
+"mid":"A5w3zw2oS",
+"date":"2013-08-19 23:13:59"
+},
+{
+"kids":[
+"A5w4DoskZ",
+"A5w4g4Q4U"
+],
+"uid":"529855671",
+"parent":"A5w1KkZiL",
+"text":"没办法，要么我们互相啪啪啪？明儿洗干净去厕所等我",
+"mid":"A5w3yBFyo",
+"date":"2013-08-19 23:13:57"
+},
+{
+"kids":[],
+"uid":"514766781",
+"parent":"",
+"text":"",
+"mid":"A5w3y2sow",
+"date":"2013-08-19 23:13:57"
+},
+{
+"kids":[],
+"uid":"2994892905",
+"parent":"",
+"text":"在中国好像是因为赚钱多，所以性生活才多吧",
+"mid":"A5w3uaypb",
+"date":"2013-08-19 23:13:47"
+},
+{
+"kids":[
+"A5wbnedeS"
+],
+"uid":"1851920500",
+"parent":"A5w19nWxb",
+"text":"YP报够脑残",
+"mid":"A5w3splqn",
+"date":"2013-08-19 23:13:44"
+},
+{
+"kids":[],
+"uid":"2203786262",
+"parent":"",
+"text":"",
+"mid":"A5w3mbNqp",
+"date":"2013-08-19 23:13:29"
+},
+{
+"kids":[
+"A5zaUaQmK",
+"A5wazjAux",
+"A5w9W0OJV"
+],
+"uid":"candyscx",
+"parent":"",
+"text":"[汗]",
+"mid":"A5w3lCtje",
+"date":"2013-08-19 23:13:28"
+},
+{
+"kids":[
+"A5w53qoeK"
+],
+"uid":"1347280272",
+"parent":"A5w0C0t18",
+"text":"@川沙这点事-乐活川沙 你好坏哦[哈哈]",
+"mid":"A5w3lCtg9",
+"date":"2013-08-19 23:13:28"
+},
+{
+"kids":[],
+"uid":"frederickwangsh",
+"parent":"",
+"text":"黯然失色中",
+"mid":"A5w3lkRAZ",
+"date":"2013-08-19 23:13:27"
+},
+{
+"kids":[],
+"uid":"1828967570",
+"parent":"",
+"text":"[挖鼻屎]",
+"mid":"A5w3l4mGD",
+"date":"2013-08-19 23:13:24"
+},
+{
+"kids":[
+"A5w3F9a6E"
+],
+"uid":"872135046",
+"parent":"",
+"text":"反一下吧，赚得多才，，，[思考][嘻嘻]",
+"mid":"A5w3kpj8O",
+"date":"2013-08-19 23:13:25"
+},
+{
+"kids":[],
+"uid":"formylichking",
+"parent":"",
+"text":"我觉得因果反了",
+"mid":"A5w3i4mDW",
+"date":"2013-08-19 23:13:17"
+},
+{
+"kids":[],
+"uid":"2550369441",
+"parent":"",
+"text":"回复@黑暗与思考:生活水平高了，条件好了，也就没有多少压力……所以更有机会去追寻其他的享受了……而穷人更多的时间是在寻求生存……",
+"mid":"A5w3f9Dzr",
+"date":"2013-08-19 23:13:13"
+},
+{
+"kids":[],
+"uid":"2045182547",
+"parent":"",
+"text":"@品味小妞",
+"mid":"A5w3f8x9R",
+"date":"2013-08-19 23:13:13"
+},
+{
+"kids":[],
+"uid":"1929874637",
+"parent":"",
+"text":"@2B文艺女青年的肉麻麻 你觉得呢",
+"mid":"A5w3b0juB",
+"date":"2013-08-19 23:13:02"
+},
+{
+"kids":[],
+"uid":"qh1988",
+"parent":"",
+"text":"",
+"mid":"A5w3a4Rle",
+"date":"2013-08-19 23:13:01"
+},
+{
+"kids":[],
+"uid":"2709795053",
+"parent":"",
+"text":"为了美好的钱途，小伙伴们要行动起来啊[偷笑]",
+"mid":"A5w34drgP",
+"date":"2013-08-19 23:12:44"
+},
+{
+"kids":[],
+"uid":"1194732022",
+"parent":"",
+"text":"什么逻辑？@IN遗忘的季节 @香草地图 @门小虫 [挖鼻屎][挖鼻屎]",
+"mid":"A5w33kbEI",
+"date":"2013-08-19 23:12:42"
+},
+{
+"kids":[],
+"uid":"1811734667",
+"parent":"",
+"text":"怪不得赚不到钱～",
+"mid":"A5w2YAjOt",
+"date":"2013-08-19 23:12:33"
+},
+{
+"kids":[
+"A5AhZjaHq"
+],
+"uid":"yangxiaoling224",
+"parent":"",
+"text":"系统自动转发",
+"mid":"A5w2Wwd5G",
+"date":"2013-08-19 23:12:28"
+},
+{
+"kids":[],
+"uid":"1851645574",
+"parent":"",
+"text":"所以说原来是有原因的～又多一个释然的理由～",
+"mid":"A5w2Rd7Zx",
+"date":"2013-08-19 23:12:14"
+},
+{
+"kids":[],
+"uid":"wyj0208",
+"parent":"",
+"text":"那句‘有钱就花心’？",
+"mid":"A5w2OdqMh",
+"date":"2013-08-19 23:12:08"
+},
+{
+"kids":[
+"A5zR0uB71"
+],
+"uid":"milanello",
+"parent":"A5w1OugPH",
+"text":"小罗真是人参淫家。",
+"mid":"A5w2ND1YP",
+"date":"2013-08-19 23:12:07"
+},
+{
+"kids":[],
+"uid":"1284432953",
+"parent":"",
+"text":"[熊猫]",
+"mid":"A5w2NjqTx",
+"date":"2013-08-19 23:12:06"
+},
+{
+"kids":[],
+"uid":"1288326905",
+"parent":"",
+"text":"这个貌似是先有鸡还是先有蛋的问题。",
+"mid":"A5w2Jei48",
+"date":"2013-08-19 23:11:56"
+},
+{
+"kids":[],
+"uid":"2108535911",
+"parent":"",
+"text":"转转看",
+"mid":"A5w2IAmGF",
+"date":"2013-08-19 23:11:55"
+},
+{
+"kids":[],
+"uid":"athrunx",
+"parent":"",
+"text":"果然赚不到钱啊[泪]",
+"mid":"A5w2Etlad",
+"date":"2013-08-19 23:11:44"
+},
+{
+"kids":[],
+"uid":"2297988154",
+"parent":"",
+"text":"@李晓慕 无解",
+"mid":"A5w2Cqjzk",
+"date":"2013-08-19 23:11:38"
+},
+{
+"kids":[],
+"uid":"1604938587",
+"parent":"",
+"text":"那是德国，换了其他地儿，可能就是人口暴涨。",
+"mid":"A5w2Cnlkv",
+"date":"2013-08-19 23:11:38"
+},
+{
+"kids":[
+"A8Xug5saZ",
+"A6vVTmU7m",
+"A5wK2545u"
+],
+"uid":"2682371993",
+"parent":"",
+"text":"@大漢堡小薯條 看看，好好学学，早点上床陪老爷[嘻嘻][嘻嘻][嘻嘻]",
+"mid":"A5w2C7CQK",
+"date":"2013-08-19 23:11:40"
+},
+{
+"kids":[],
+"uid":"1433270442",
+"parent":"",
+"text":"没有性生活的低收入人群^0^",
+"mid":"A5w2ADO61",
+"date":"2013-08-19 23:11:34"
+},
+{
+"kids":[],
+"uid":"1897213182",
+"parent":"",
+"text":"@蒙牛13 上次你@ 我，这次我@ 你一下咯～[偷笑]你也是潜力股啊，不要灰心！",
+"mid":"A5w2Al7vy",
+"date":"2013-08-19 23:11:35"
+},
+{
+"kids":[],
+"uid":"panda3166",
+"parent":"",
+"text":"应该是因为低收入而没有性生活吧。",
+"mid":"A5w2yzHcP",
+"date":"2013-08-19 23:11:31"
+},
+{
+"kids":[],
+"uid":"1955106054",
+"parent":"",
+"text":"小伙伴们，这个反推不成立，你们不要激动[哈哈]",
+"mid":"A5w2x4jWy",
+"date":"2013-08-19 23:11:29"
+},
+{
+"kids":[],
+"uid":"2142182217",
+"parent":"",
+"text":"穷啊。。。",
+"mid":"A5w2tdK65",
+"date":"2013-08-19 23:11:18"
+},
+{
+"kids":[],
+"uid":"forecastlover",
+"parent":"",
+"text":"躺枪。。。",
+"mid":"A5w2qhadz",
+"date":"2013-08-19 23:11:08"
+},
+{
+"kids":[],
+"uid":"2718443313",
+"parent":"",
+"text":"",
+"mid":"A5w2qha9x",
+"date":"2013-08-19 23:11:08"
+},
+{
+"kids":[],
+"uid":"2582235087",
+"parent":"",
+"text":"@ophylily",
+"mid":"A5w2p7jQM",
+"date":"2013-08-19 23:11:07"
+},
+{
+"kids":[
+"A5CD6qVoR",
+"A5Crm1Cej"
+],
+"uid":"1686223105",
+"parent":"",
+"text":"@女王安的爹_溦格格的皇阿玛 [偷笑]",
+"mid":"A5w2nlThN",
+"date":"2013-08-19 23:11:04"
+},
+{
+"kids":[],
+"uid":"GTLS520",
+"parent":"",
+"text":"",
+"mid":"A5w2lznBe",
+"date":"2013-08-19 23:11:00"
+},
+{
+"kids":[],
+"uid":"1816623147",
+"parent":"",
+"text":"@姜燕12",
+"mid":"A5w2lyj9P",
+"date":"2013-08-19 23:11:00"
+},
+{
+"kids":[],
+"uid":"lancegigi",
+"parent":"",
+"text":"[哼]那还有力气干活",
+"mid":"A5w2dyAue",
+"date":"2013-08-19 23:10:42"
+},
+{
+"kids":[],
+"uid":"1493409682",
+"parent":"",
+"text":"",
+"mid":"A5w2dget2",
+"date":"2013-08-19 23:10:39"
+},
+{
+"kids":[],
+"uid":"1763344854",
+"parent":"",
+"text":"@小猪晶晶ken [做鬼脸][做鬼脸]",
+"mid":"A5w2ajEAD",
+"date":"2013-08-19 23:10:34"
+},
+{
+"kids":[],
+"uid":"2825227592",
+"parent":"",
+"text":"情何以堪啊@哒哒的猪蹄声",
+"mid":"A5w27lz4J",
+"date":"2013-08-19 23:10:26"
+},
+{
+"kids":[],
+"uid":"1997410171",
+"parent":"",
+"text":"到底是有钱人喜欢或更能作爱，还是作爱多更易成有钱人？莫非没钱者连人类最自然的娱乐也不易享受？太悲催了！",
+"mid":"A5w26w3FA",
+"date":"2013-08-19 23:10:22"
+},
+{
+"kids":[],
+"uid":"2380430234",
+"parent":"",
+"text":"[汗][汗][汗][汗]",
+"mid":"A5w26erRb",
+"date":"2013-08-19 23:10:20"
+},
+{
+"kids":[],
+"uid":"1007798630",
+"parent":"",
+"text":"",
+"mid":"A5w23dnVz",
+"date":"2013-08-19 23:10:16"
+},
+{
+"kids":[],
+"uid":"1921792677",
+"parent":"",
+"text":"",
+"mid":"A5w22mLG0",
+"date":"2013-08-19 23:10:12"
+},
+{
+"kids":[],
+"uid":"2705585240",
+"parent":"",
+"text":"谁下的结论，有病阿",
+"mid":"A5w225a8S",
+"date":"2013-08-19 23:10:10"
+},
+{
+"kids":[
+"A5weY0KxA"
+],
+"uid":"2730691945",
+"parent":"",
+"text":"",
+"mid":"A5w1XDXC6",
+"date":"2013-08-19 23:10:03"
+},
+{
+"kids":[],
+"uid":"1009716113",
+"parent":"",
+"text":"怪不得腐败分子收入高啊！[哼]",
+"mid":"A5w1War1Z",
+"date":"2013-08-19 23:09:57"
+},
+{
+"kids":[
+"A5yitk5QX"
+],
+"uid":"fairyfan0116",
+"parent":"",
+"text":"这个都能调查？",
+"mid":"A5w1U7nRo",
+"date":"2013-08-19 23:09:53"
+},
+{
+"kids":[],
+"uid":"2664846653",
+"parent":"",
+"text":"@金家大少爷V @全息未来线",
+"mid":"A5w1SCu6y",
+"date":"2013-08-19 23:09:50"
+},
+{
+"kids":[],
+"uid":"3606828764",
+"parent":"",
+"text":"",
+"mid":"A5w1R8Y7X",
+"date":"2013-08-19 23:09:48"
+},
+{
+"kids":[
+"A5zR0uB71",
+"A5w2ND1YP"
+],
+"uid":"shevalhl",
+"parent":"A5w0u3Aj9",
+"text":"最右一棍见水",
+"mid":"A5w1OugPH",
+"date":"2013-08-19 23:09:41"
+},
+{
+"kids":[
+"AcrAm088e",
+"AcrfX0Vym",
+"Aci2IdTB7",
+"AbXugs5Wt",
+"AbQosaUR8",
+"AbPWxaUYr",
+"AbvFHg3xe",
+"AboLOyogZ",
+"Abn5PeAX6",
+"AblNV17Cd",
+"AbeEF4SmP",
+"AbeAG2CU8",
+"Aben3vI3y",
+"AbcZRAIzP",
+"AaBZmfC1h",
+"AaB3SlagI",
+"AasUxiXYE",
+"Aar0T5Lkc",
+"A9nhMrymD",
+"A9ehDmOfe",
+"A9dWAd7JN",
+"A8nb1dOPU",
+"A7i8D1GQw",
+"A5J7VpwiW",
+"A5J1vEJQn"
+],
+"uid":"1236025175",
+"parent":"",
+"text":"",
+"mid":"A5w1OcFi2",
+"date":"2013-08-19 23:09:39"
+},
+{
+"kids":[],
+"uid":"candiexu",
+"parent":"",
+"text":"@至尊F宝",
+"mid":"A5w1NB0T0",
+"date":"2013-08-19 23:09:39"
+},
+{
+"kids":[],
+"uid":"1941493580",
+"parent":"",
+"text":"",
+"mid":"A5w1LwUjk",
+"date":"2013-08-19 23:09:35"
+},
+{
+"kids":[
+"A5w4DoskZ",
+"A5w4g4Q4U",
+"A5w3yBFyo"
+],
+"uid":"529855671",
+"parent":"",
+"text":"难怪收入少得可怜。。[伤心]求啪啪啪。。",
+"mid":"A5w1KkZiL",
+"date":"2013-08-19 23:09:28"
+},
+{
+"kids":[],
+"uid":"xjw1987",
+"parent":"",
+"text":"多撸[生病]",
+"mid":"A5w1KkovM",
+"date":"2013-08-19 23:09:31"
+},
+{
+"kids":[],
+"uid":"makava",
+"parent":"",
+"text":"看来做富豪，要一周爱个十次才刚够付物业管理费",
+"mid":"A5w1K0VSB",
+"date":"2013-08-19 23:09:28"
+},
+{
+"kids":[],
+"uid":"2710178541",
+"parent":"",
+"text":"奇葩[懒得理你]",
+"mid":"A5w1JrJDD",
+"date":"2013-08-19 23:09:28"
+},
+{
+"kids":[],
+"uid":"524580126",
+"parent":"",
+"text":"哥阳痿了，难怪收入提不上去",
+"mid":"A5w1JbbtG",
+"date":"2013-08-19 23:09:28"
+},
+{
+"kids":[],
+"uid":"1272894871",
+"parent":"",
+"text":"[给力]",
+"mid":"A5w1HnCS2",
+"date":"2013-08-19 23:09:21"
+},
+{
+"kids":[],
+"uid":"1186551533",
+"parent":"",
+"text":"岂不是说单身人士都是穷光蛋[泪][泪]",
+"mid":"A5w1GvqyM",
+"date":"2013-08-19 23:09:22"
+},
+{
+"kids":[],
+"uid":"kevin724093",
+"parent":"",
+"text":"。。。",
+"mid":"A5w1EnRG6",
+"date":"2013-08-19 23:09:17"
+},
+{
+"kids":[],
+"uid":"2645092182",
+"parent":"",
+"text":"我只是无聊",
+"mid":"A5w1Dfpe0",
+"date":"2013-08-19 23:09:12"
+},
+{
+"kids":[],
+"uid":"2106357317",
+"parent":"",
+"text":"。。。",
+"mid":"A5w1Dd1kP",
+"date":"2013-08-19 23:09:14"
+},
+{
+"kids":[],
+"uid":"2284502804",
+"parent":"",
+"text":"@淘-嘟嘟 快来看！怪不得老板都要小二小三小四！",
+"mid":"A5w1CEOhk",
+"date":"2013-08-19 23:09:13"
+},
+{
+"kids":[],
+"uid":"51506288",
+"parent":"",
+"text":"[思考]",
+"mid":"A5w1CEO6K",
+"date":"2013-08-19 23:09:11"
+},
+{
+"kids":[],
+"uid":"3498312427",
+"parent":"",
+"text":"",
+"mid":"A5w1yeYxv",
+"date":"2013-08-19 23:09:00"
+},
+{
+"kids":[],
+"uid":"wsbzwsbz",
+"parent":"",
+"text":"我真想知道是怎么研究的。",
+"mid":"A5w1vyaoP",
+"date":"2013-08-19 23:08:54"
+},
+{
+"kids":[],
+"uid":"2449341445",
+"parent":"",
+"text":"真是这样嘛?",
+"mid":"A5w1tu3zZ",
+"date":"2013-08-19 23:08:50"
+},
+{
+"kids":[],
+"uid":"2510341430",
+"parent":"",
+"text":"这个～～～",
+"mid":"A5w1r65g4",
+"date":"2013-08-19 23:08:45"
+},
+{
+"kids":[],
+"uid":"2974537517",
+"parent":"",
+"text":"",
+"mid":"A5w1pmSlh",
+"date":"2013-08-19 23:08:39"
+},
+{
+"kids":[],
+"uid":"zhangshanshanjay",
+"parent":"",
+"text":"黯然失色？？",
+"mid":"A5w1oaC14",
+"date":"2013-08-19 23:08:38"
+},
+{
+"kids":[],
+"uid":"3254898692",
+"parent":"",
+"text":"不是吧 那怕只是德国吧",
+"mid":"A5w1nhmWx",
+"date":"2013-08-19 23:08:36"
+},
+{
+"kids":[],
+"uid":"2848197744",
+"parent":"",
+"text":"",
+"mid":"A5w1m6RBz",
+"date":"2013-08-19 23:08:31"
+},
+{
+"kids":[],
+"uid":"pottipotti",
+"parent":"",
+"text":"不能更同意了",
+"mid":"A5w1lvdzS",
+"date":"2013-08-19 23:08:30"
+},
+{
+"kids":[],
+"uid":"puppug",
+"parent":"",
+"text":"[思考]",
+"mid":"A5w1k0zq3",
+"date":"2013-08-19 23:08:28"
+},
+{
+"kids":[],
+"uid":"1959893191",
+"parent":"",
+"text":"",
+"mid":"A5w1jr6xC",
+"date":"2013-08-19 23:08:26"
+},
+{
+"kids":[],
+"uid":"2887489524",
+"parent":"",
+"text":"",
+"mid":"A5w1iyTd4",
+"date":"2013-08-19 23:08:25"
+},
+{
+"kids":[],
+"uid":"scy622",
+"parent":"",
+"text":"[汗]又不是性工作者，多做多得",
+"mid":"A5w1gtJKr",
+"date":"2013-08-19 23:08:18"
+},
+{
+"kids":[],
+"uid":"3170974135",
+"parent":"",
+"text":"@鹤壁王牙医",
+"mid":"A5w1baqXh",
+"date":"2013-08-19 23:08:07"
+},
+{
+"kids":[
+"A5wiU7cL8",
+"A5wbnedeS",
+"A5w3splqn"
+],
+"uid":"2090957220",
+"parent":"",
+"text":"",
+"mid":"A5w19nWxb",
+"date":"2013-08-19 23:08:03"
+},
+{
+"kids":[],
+"uid":"1162637203",
+"parent":"",
+"text":"@羡慕羡慕羡慕羡慕 你没结婚又赚这么多[思考]",
+"mid":"A5w18d642",
+"date":"2013-08-19 23:08:00"
+},
+{
+"kids":[],
+"uid":"2727298504",
+"parent":"",
+"text":"",
+"mid":"A5w16ahob",
+"date":"2013-08-19 23:07:56"
+},
+{
+"kids":[],
+"uid":"3283971804",
+"parent":"",
+"text":"",
+"mid":"A5w16ahmD",
+"date":"2013-08-19 23:07:53"
+},
+{
+"kids":[],
+"uid":"327276921",
+"parent":"",
+"text":"难怪这么穷[汗]",
+"mid":"A5w147c4L",
+"date":"2013-08-19 23:07:48"
+},
+{
+"kids":[],
+"uid":"1763155312",
+"parent":"",
+"text":"最近的研究都好犀利啊",
+"mid":"A5w13vxXU",
+"date":"2013-08-19 23:07:47"
+},
+{
+"kids":[],
+"uid":"1689547327",
+"parent":"",
+"text":"[悲伤]",
+"mid":"A5w13cUHQ",
+"date":"2013-08-19 23:07:49"
+},
+{
+"kids":[],
+"uid":"liuchun0225",
+"parent":"",
+"text":"@刘纯燕",
+"mid":"A5w12353Y",
+"date":"2013-08-19 23:07:43"
+},
+{
+"kids":[],
+"uid":"verdigrass",
+"parent":"",
+"text":"砖家!",
+"mid":"A5w115IAb",
+"date":"2013-08-19 23:07:43"
+},
+{
+"kids":[],
+"uid":"1887812132",
+"parent":"",
+"text":"同志们，你们懂么、",
+"mid":"A5w0ZCHpe",
+"date":"2013-08-19 23:07:40"
+},
+{
+"kids":[],
+"uid":"quyun",
+"parent":"",
+"text":"还有这种说法",
+"mid":"A5w0Z5HZ6",
+"date":"2013-08-19 23:07:36"
+},
+{
+"kids":[],
+"uid":"20663397",
+"parent":"",
+"text":"大家看这个评论里互相at的人，进行一下性别分析，到底是男的at女的多，还是女的at男的多呢？很有意思。",
+"mid":"A5w0VtKAx",
+"date":"2013-08-19 23:07:28"
+},
+{
+"kids":[],
+"uid":"myk6427235",
+"parent":"",
+"text":"",
+"mid":"A5w0UAvxk",
+"date":"2013-08-19 23:07:28"
+},
+{
+"kids":[],
+"uid":"hiro0821",
+"parent":"",
+"text":"",
+"mid":"A5w0U3d2P",
+"date":"2013-08-19 23:07:26"
+},
+{
+"kids":[],
+"uid":"2095260437",
+"parent":"",
+"text":"这个一定要转，难怪我钱赚不多~唉~~~",
+"mid":"A5w0T83PO",
+"date":"2013-08-19 23:07:23"
+},
+{
+"kids":[],
+"uid":"ansonwooo",
+"parent":"",
+"text":"两者之间能成为因果关系么?[思考]",
+"mid":"A5w0ShIVj",
+"date":"2013-08-19 23:07:22"
+},
+{
+"kids":[],
+"uid":"kanghai1983",
+"parent":"",
+"text":"噗~~ 都是跟客户在做爱吧 ~",
+"mid":"A5w0R3Y8V",
+"date":"2013-08-19 23:07:18"
+},
+{
+"kids":[],
+"uid":"3549267272",
+"parent":"",
+"text":"",
+"mid":"A5w0QbuEf",
+"date":"2013-08-19 23:07:16"
+},
+{
+"kids":[],
+"uid":"3211061887",
+"parent":"",
+"text":"",
+"mid":"A5w0Or6i4",
+"date":"2013-08-19 23:07:11"
+},
+{
+"kids":[],
+"uid":"2038172145",
+"parent":"",
+"text":"是刚老头[衰][衰][衰]@MlleMichelle @仇大 @抱抱泡泡么么 @拖几胖纸去旅行 @夕歡貓咪 [哈哈][哈哈][哈哈]",
+"mid":"A5w0M5nWG",
+"date":"2013-08-19 23:07:05"
+},
+{
+"kids":[],
+"uid":"1112381364",
+"parent":"",
+"text":"",
+"mid":"A5w0JpCQy",
+"date":"2013-08-19 23:07:01"
+},
+{
+"kids":[],
+"uid":"208282950",
+"parent":"",
+"text":"[汗]",
+"mid":"A5w0IcJFN",
+"date":"2013-08-19 23:06:58"
+},
+{
+"kids":[],
+"uid":"1966826514",
+"parent":"",
+"text":"我要怎么办[泪]",
+"mid":"A5w0HAk1h",
+"date":"2013-08-19 23:06:57"
+},
+{
+"kids":[],
+"uid":"2664833091",
+"parent":"",
+"text":"[偷笑]这是真的么？",
+"mid":"A5w0FgnPG",
+"date":"2013-08-19 23:06:52"
+},
+{
+"kids":[],
+"uid":"1919102900",
+"parent":"",
+"text":"妓女的公务员验证了这一说法",
+"mid":"A5w0FgnEo",
+"date":"2013-08-19 23:06:49"
+},
+{
+"kids":[],
+"uid":"liuhan327908",
+"parent":"",
+"text":"",
+"mid":"A5w0DtShK",
+"date":"2013-08-19 23:06:47"
+},
+{
+"kids":[],
+"uid":"1963868565",
+"parent":"",
+"text":"",
+"mid":"A5w0DcgJR",
+"date":"2013-08-19 23:06:46"
+},
+{
+"kids":[
+"A5w53qoeK",
+"A5w3lCtg9"
+],
+"uid":"happychuansha",
+"parent":"",
+"text":"@互动川沙 估计你过去一年的工资不高了[阴险]",
+"mid":"A5w0C0t18",
+"date":"2013-08-19 23:06:43"
+},
+{
+"kids":[],
+"uid":"3163506094",
+"parent":"",
+"text":"这可如何是好？[泪]",
+"mid":"A5w0AfVg2",
+"date":"2013-08-19 23:06:37"
+},
+{
+"kids":[],
+"uid":"scmk",
+"parent":"",
+"text":"@遂川3宝 @面具鼠鼠丶 @山泉冰人 [哈哈][哈哈][哈哈][哈哈]",
+"mid":"A5w0xiywI",
+"date":"2013-08-19 23:06:32"
+},
+{
+"kids":[],
+"uid":"2521818812",
+"parent":"",
+"text":"[围观][围观]",
+"mid":"A5w0wF0ek",
+"date":"2013-08-19 23:06:32"
+},
+{
+"kids":[
+"A5zR0uB71",
+"A5w2ND1YP",
+"A5w1OugPH"
+],
+"uid":"fall1126",
+"parent":"",
+"text":"饱暖才会思淫欲，吃都没吃饱你让人家干嘛",
+"mid":"A5w0u3Aj9",
+"date":"2013-08-19 23:06:22"
+},
+{
+"kids":[
+"A5FDq6vD1"
+],
+"uid":"206025656",
+"parent":"",
+"text":"怪不得我永远赚不多[泪]",
+"mid":"A5w0u0VZQ",
+"date":"2013-08-19 23:06:24"
+},
+{
+"kids":[],
+"uid":"2306701970",
+"parent":"",
+"text":"",
+"mid":"A5w0t8sUI",
+"date":"2013-08-19 23:06:22"
+},
+{
+"kids":[],
+"uid":"porsche0531",
+"parent":"",
+"text":"我怎麼覺得反了[思考]",
+"mid":"A5w0r5duX",
+"date":"2013-08-19 23:06:17"
+},
+{
+"kids":[],
+"uid":"1805700994",
+"parent":"",
+"text":"[爱你]",
+"mid":"A5w0qb8eO",
+"date":"2013-08-19 23:06:16"
+},
+{
+"kids":[],
+"uid":"piedpiper",
+"parent":"",
+"text":"尼玛！怪不得我穷！",
+"mid":"A5w0neBjQ",
+"date":"2013-08-19 23:06:08"
+},
+{
+"kids":[],
+"uid":"fancytm",
+"parent":"",
+"text":"",
+"mid":"A5w0kgsJi",
+"date":"2013-08-19 23:06:01"
+},
+{
+"kids":[],
+"uid":"111984425",
+"parent":"",
+"text":"因果颠倒了吧?",
+"mid":"A5w0jEOZF",
+"date":"2013-08-19 23:06:01"
+},
+{
+"kids":[],
+"uid":"RZY2099",
+"parent":"",
+"text":"有这事？？？",
+"mid":"A5w0hjScx",
+"date":"2013-08-19 23:05:54"
+},
+{
+"kids":[],
+"uid":"skyzero743",
+"parent":"",
+"text":"应该是反过来吧。。。",
+"mid":"A5w0daaEx",
+"date":"2013-08-19 23:05:42"
+},
+{
+"kids":[],
+"uid":"boboygu",
+"parent":"",
+"text":"",
+"mid":"A5w0cioX6",
+"date":"2013-08-19 23:05:40"
+}
+]

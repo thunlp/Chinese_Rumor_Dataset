@@ -1,0 +1,22 @@
+{
+"multi":null,
+"text":"上周一个剑网3的玩家找我，说FPS不高，配置，Core 2 E7400，Nvidia 260/460显卡，内存也ok，我当时的建议就是CPU的主频不够，经过BIOS设定发现，这个CPU被设置成2.27G，其实标准应该是2.8G，后来通过不断尝试，稳定超频到3.5G，打JJC的时候FPS从30左右提升到60+，剑网3是一个对CPU主频要求高的游戏。",
+"user":{
+"verified":true,
+"description":true,
+"gender":"m",
+"messages":2169,
+"followers":3131863,
+"location":"广东 珠海",
+"time":1298531635,
+"friends":471,
+"verified_type":0
+},
+"has_url":false,
+"comments":25,
+"pics":0,
+"source":"微博 weibo.com",
+"likes":1,
+"time":1348415885,
+"reposts":39
+}

@@ -1,0 +1,5403 @@
+[
+{
+"kids":[],
+"uid":"1584028275",
+"parent":"",
+"text":"",
+"mid":"zpjmj2ty5",
+"date":"2013-03-27 04:56:14"
+},
+{
+"kids":[],
+"uid":"2920094522",
+"parent":"",
+"text":"",
+"mid":"zpjmiqPQE",
+"date":"2013-03-27 04:56:13"
+},
+{
+"kids":[],
+"uid":"2805343690",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"zpiFT8ucC",
+"date":"2013-03-27 03:11:44"
+},
+{
+"kids":[],
+"uid":"1777806532",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"zpiFSxaHV",
+"date":"2013-03-27 03:11:43"
+},
+{
+"kids":[],
+"uid":"2802826674",
+"parent":"yxep1d4fb",
+"text":"",
+"mid":"zoLrXk9iK",
+"date":"2013-03-23 14:36:44"
+},
+{
+"kids":[],
+"uid":"2803898502",
+"parent":"yxep1d4fb",
+"text":"",
+"mid":"zoLrX3BzR",
+"date":"2013-03-23 14:36:43"
+},
+{
+"kids":[],
+"uid":"1584108423",
+"parent":"",
+"text":"",
+"mid":"zoHKCggOg",
+"date":"2013-03-23 05:11:45"
+},
+{
+"kids":[],
+"uid":"2789761060",
+"parent":"",
+"text":"",
+"mid":"zoHKCeVrs",
+"date":"2013-03-23 05:11:44"
+},
+{
+"kids":[],
+"uid":"2808727744",
+"parent":"",
+"text":"",
+"mid":"zopn4ovUE",
+"date":"2013-03-21 06:24:17"
+},
+{
+"kids":[],
+"uid":"1796473643",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"zkZmabZKl",
+"date":"2013-02-26 18:39:41"
+},
+{
+"kids":[],
+"uid":"1790005781",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"zkZmaaRhD",
+"date":"2013-02-26 18:39:42"
+},
+{
+"kids":[],
+"uid":"1583997543",
+"parent":"",
+"text":"",
+"mid":"zhRUnyi0v",
+"date":"2013-02-06 06:11:09"
+},
+{
+"kids":[],
+"uid":"2920567112",
+"parent":"",
+"text":"",
+"mid":"zhK9CodOE",
+"date":"2013-02-05 10:26:43"
+},
+{
+"kids":[],
+"uid":"2919396870",
+"parent":"",
+"text":"",
+"mid":"zhHh1qcGl",
+"date":"2013-02-05 03:06:42"
+},
+{
+"kids":[],
+"uid":"1582588534",
+"parent":"",
+"text":"",
+"mid":"zhAgjjWxQ",
+"date":"2013-02-04 09:15:43"
+},
+{
+"kids":[],
+"uid":"2790042662",
+"parent":"",
+"text":"",
+"mid":"zgYZg32Y9",
+"date":"2013-01-31 10:22:05"
+},
+{
+"kids":[],
+"uid":"1777497752",
+"parent":"",
+"text":"",
+"mid":"zgQ5e45cM",
+"date":"2013-01-30 11:42:04"
+},
+{
+"kids":[],
+"uid":"2811226542",
+"parent":"",
+"text":"",
+"mid":"zgNramhqZ",
+"date":"2013-01-30 04:57:53"
+},
+{
+"kids":[],
+"uid":"2919621672",
+"parent":"",
+"text":"",
+"mid":"zgKqExjYC",
+"date":"2013-01-29 21:18:21"
+},
+{
+"kids":[],
+"uid":"2919489184",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"zgDN4a3lA",
+"date":"2013-01-29 04:24:21"
+},
+{
+"kids":[],
+"uid":"2919684452",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"zfHJHfeTE",
+"date":"2013-01-23 00:36:44"
+},
+{
+"kids":[],
+"uid":"1440490400",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"zeX05sUod",
+"date":"2013-01-18 01:38:02"
+},
+{
+"kids":[],
+"uid":"1727986313",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"zeX05stSr",
+"date":"2013-01-18 01:38:02"
+},
+{
+"kids":[],
+"uid":"2920295582",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"zeREK02ER",
+"date":"2013-01-17 12:01:42"
+},
+{
+"kids":[],
+"uid":"2789741494",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"zeREJEYz9",
+"date":"2013-01-17 12:01:41"
+},
+{
+"kids":[],
+"uid":"2920299750",
+"parent":"",
+"text":"",
+"mid":"zeuVAptLq",
+"date":"2013-01-15 02:10:02"
+},
+{
+"kids":[],
+"uid":"2789656984",
+"parent":"",
+"text":"",
+"mid":"zeoL33ks1",
+"date":"2013-01-14 10:27:35"
+},
+{
+"kids":[],
+"uid":"2804667560",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"zdCCYrZ6d",
+"date":"2013-01-09 07:55:50"
+},
+{
+"kids":[],
+"uid":"1345894225",
+"parent":"",
+"text":"",
+"mid":"zdCaWm1L2",
+"date":"2013-01-09 06:46:47"
+},
+{
+"kids":[],
+"uid":"1440403734",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"zdu8QdJjG",
+"date":"2013-01-08 10:19:37"
+},
+{
+"kids":[],
+"uid":"2919324160",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"zdj7b3dt7",
+"date":"2013-01-07 06:15:18"
+},
+{
+"kids":[],
+"uid":"2920243720",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"zdaTj1psR",
+"date":"2013-01-06 09:19:10"
+},
+{
+"kids":[],
+"uid":"2920202972",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"zcoNv5Ld2",
+"date":"2013-01-01 06:53:01"
+},
+{
+"kids":[],
+"uid":"2920387442",
+"parent":"yx78UlJtA",
+"text":"",
+"mid":"zc4UzCeyy",
+"date":"2012-12-30 04:15:31"
+},
+{
+"kids":[],
+"uid":"2919603812",
+"parent":"yx78UlJtA",
+"text":"",
+"mid":"zbUXv7d1L",
+"date":"2012-12-29 02:55:15"
+},
+{
+"kids":[],
+"uid":"2919644900",
+"parent":"yx78UlJtA",
+"text":"",
+"mid":"zba3OmcjV",
+"date":"2012-12-24 03:31:42"
+},
+{
+"kids":[],
+"uid":"2920565262",
+"parent":"yx78UlJtA",
+"text":"",
+"mid":"zb4qY8wiE",
+"date":"2012-12-23 13:12:14"
+},
+{
+"kids":[],
+"uid":"2920354412",
+"parent":"",
+"text":"",
+"mid":"z9MukFhNh",
+"date":"2012-12-15 01:40:49"
+},
+{
+"kids":[],
+"uid":"2789967912",
+"parent":"",
+"text":"",
+"mid":"z9MukFhMd",
+"date":"2012-12-15 01:40:49"
+},
+{
+"kids":[],
+"uid":"2920330542",
+"parent":"",
+"text":"",
+"mid":"z9wdRaajT",
+"date":"2012-12-13 08:16:15"
+},
+{
+"kids":[],
+"uid":"2920297200",
+"parent":"",
+"text":"",
+"mid":"z9bSQ6u4L",
+"date":"2012-12-11 04:29:32"
+},
+{
+"kids":[],
+"uid":"2804474634",
+"parent":"",
+"text":"",
+"mid":"z99971GyL",
+"date":"2012-12-10 21:31:24"
+},
+{
+"kids":[],
+"uid":"1437549145",
+"parent":"",
+"text":"",
+"mid":"z99971GwE",
+"date":"2012-12-10 21:31:21"
+},
+{
+"kids":[],
+"uid":"2920307892",
+"parent":"",
+"text":"",
+"mid":"z8TmN6lpl",
+"date":"2012-12-09 05:21:08"
+},
+{
+"kids":[],
+"uid":"2919356610",
+"parent":"",
+"text":"",
+"mid":"z8TmN5uWE",
+"date":"2012-12-09 05:21:08"
+},
+{
+"kids":[],
+"uid":"1582736891",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z8SOwcUGS",
+"date":"2012-12-09 03:56:42"
+},
+{
+"kids":[],
+"uid":"2805441734",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z8SOvAlxM",
+"date":"2012-12-09 03:56:42"
+},
+{
+"kids":[],
+"uid":"2920399204",
+"parent":"",
+"text":"",
+"mid":"z8ISyvoHv",
+"date":"2012-12-08 02:39:12"
+},
+{
+"kids":[],
+"uid":"2920438190",
+"parent":"",
+"text":"",
+"mid":"z8ISyvoGG",
+"date":"2012-12-08 02:39:12"
+},
+{
+"kids":[],
+"uid":"2919547500",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z8Iodo78m",
+"date":"2012-12-08 01:24:27"
+},
+{
+"kids":[],
+"uid":"2919790880",
+"parent":"",
+"text":"",
+"mid":"z8BZNyL2U",
+"date":"2012-12-07 09:07:48"
+},
+{
+"kids":[],
+"uid":"2919446182",
+"parent":"z7yKp2SmU",
+"text":"",
+"mid":"z8bSH1Tj2",
+"date":"2012-12-04 14:38:51"
+},
+{
+"kids":[],
+"uid":"2807780730",
+"parent":"z7yKp2SmU",
+"text":"",
+"mid":"z8bSH0fXU",
+"date":"2012-12-04 14:38:53"
+},
+{
+"kids":[],
+"uid":"2803371500",
+"parent":"",
+"text":"",
+"mid":"z85Ev0oPK",
+"date":"2012-12-03 22:47:25"
+},
+{
+"kids":[],
+"uid":"2919805954",
+"parent":"",
+"text":"",
+"mid":"z7Z9eex91",
+"date":"2012-12-03 06:13:54"
+},
+{
+"kids":[],
+"uid":"2790045432",
+"parent":"",
+"text":"",
+"mid":"z7Z9edrcQ",
+"date":"2012-12-03 06:13:55"
+},
+{
+"kids":[],
+"uid":"2919374950",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z7XY99wxh",
+"date":"2012-12-03 03:13:52"
+},
+{
+"kids":[],
+"uid":"2920199790",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z7XY98FHv",
+"date":"2012-12-03 03:13:52"
+},
+{
+"kids":[],
+"uid":"2789974092",
+"parent":"",
+"text":"",
+"mid":"z7WYwr3Xe",
+"date":"2012-12-03 00:42:00"
+},
+{
+"kids":[],
+"uid":"2802767370",
+"parent":"",
+"text":"",
+"mid":"z7WYwr3VA",
+"date":"2012-12-03 00:42:03"
+},
+{
+"kids":[],
+"uid":"2803236902",
+"parent":"",
+"text":"",
+"mid":"z7R8Cx8x0",
+"date":"2012-12-02 09:50:26"
+},
+{
+"kids":[],
+"uid":"1584043421",
+"parent":"",
+"text":"",
+"mid":"z7R8Cw0Pi",
+"date":"2012-12-02 09:50:27"
+},
+{
+"kids":[],
+"uid":"1440453492",
+"parent":"z730WmhjE",
+"text":"",
+"mid":"z7P7Nivmi",
+"date":"2012-12-02 04:42:55"
+},
+{
+"kids":[],
+"uid":"2919421602",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z7Ouhnybb",
+"date":"2012-12-02 03:05:34"
+},
+{
+"kids":[],
+"uid":"1778307575",
+"parent":"",
+"text":"",
+"mid":"z7JCgmc7N",
+"date":"2012-12-01 14:41:30"
+},
+{
+"kids":[],
+"uid":"2805365544",
+"parent":"",
+"text":"",
+"mid":"z7JCg4AXj",
+"date":"2012-12-01 14:41:29"
+},
+{
+"kids":[],
+"uid":"2810815274",
+"parent":"",
+"text":"",
+"mid":"z7Iuvw0AS",
+"date":"2012-12-01 11:49:38"
+},
+{
+"kids":[],
+"uid":"2919380282",
+"parent":"",
+"text":"",
+"mid":"z7Iuvw0yI",
+"date":"2012-12-01 11:49:37"
+},
+{
+"kids":[],
+"uid":"2810163004",
+"parent":"z730WmhjE",
+"text":"",
+"mid":"z7I45kG03",
+"date":"2012-12-01 10:44:31"
+},
+{
+"kids":[
+"z8bSH1Tj2",
+"z8bSH0fXU"
+],
+"uid":"2920274573",
+"parent":"",
+"text":"孩子，认怂吧吧@ITData @微博管理员",
+"mid":"z7yKp2SmU",
+"date":"2012-11-30 11:01:20"
+},
+{
+"kids":[],
+"uid":"2805693720",
+"parent":"",
+"text":"",
+"mid":"z7xCL1w7T",
+"date":"2012-11-30 08:09:45"
+},
+{
+"kids":[],
+"uid":"1579709935",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z7redaee0",
+"date":"2012-11-29 15:52:48"
+},
+{
+"kids":[],
+"uid":"2810701372",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z7cfBvjri",
+"date":"2012-11-28 01:45:01"
+},
+{
+"kids":[],
+"uid":"2790025000",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z7cfBca5f",
+"date":"2012-11-28 01:45:01"
+},
+{
+"kids":[],
+"uid":"1290750100",
+"parent":"",
+"text":"",
+"mid":"z7bI7Ei75",
+"date":"2012-11-28 00:22:30"
+},
+{
+"kids":[],
+"uid":"2919713520",
+"parent":"",
+"text":"",
+"mid":"z79QD1Yfq",
+"date":"2012-11-27 19:37:58"
+},
+{
+"kids":[],
+"uid":"1778354670",
+"parent":"",
+"text":"",
+"mid":"z79QD1i0C",
+"date":"2012-11-27 19:37:58"
+},
+{
+"kids":[],
+"uid":"2789960022",
+"parent":"",
+"text":"",
+"mid":"z766T0xxQ",
+"date":"2012-11-27 10:07:02"
+},
+{
+"kids":[],
+"uid":"2920425274",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z74aM1QWr",
+"date":"2012-11-27 05:11:09"
+},
+{
+"kids":[],
+"uid":"2805401090",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z74aM1QVX",
+"date":"2012-11-27 05:11:08"
+},
+{
+"kids":[
+"z7P7Nivmi",
+"z7I45kG03"
+],
+"uid":"1235051935",
+"parent":"z5T4czgUN",
+"text":"哈哈",
+"mid":"z730WmhjE",
+"date":"2012-11-27 02:14:11"
+},
+{
+"kids":[],
+"uid":"2804523370",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z6WFWnXNo",
+"date":"2012-11-26 10:05:58"
+},
+{
+"kids":[],
+"uid":"2805120144",
+"parent":"z4rqdrvHX",
+"text":"",
+"mid":"z6WFW5y8n",
+"date":"2012-11-26 10:05:57"
+},
+{
+"kids":[],
+"uid":"1778335882",
+"parent":"",
+"text":"",
+"mid":"z6VuxuhIJ",
+"date":"2012-11-26 07:05:08"
+},
+{
+"kids":[],
+"uid":"2804036634",
+"parent":"",
+"text":"",
+"mid":"z6VuwB2QU",
+"date":"2012-11-26 07:05:06"
+},
+{
+"kids":[],
+"uid":"2920274573",
+"parent":"",
+"text":"@微博管理员 把这孩子给关闭把！@ITData 认怂吧！",
+"mid":"z6RgfncWj",
+"date":"2012-11-25 20:18:55"
+},
+{
+"kids":[],
+"uid":"2919320174",
+"parent":"",
+"text":"",
+"mid":"z6Lcwzp1q",
+"date":"2012-11-25 04:53:17"
+},
+{
+"kids":[],
+"uid":"2920356452",
+"parent":"",
+"text":"",
+"mid":"z6Lcwzp14",
+"date":"2012-11-25 04:53:16"
+},
+{
+"kids":[],
+"uid":"2802797682",
+"parent":"",
+"text":"",
+"mid":"z6AIlfpHs",
+"date":"2012-11-24 02:11:27"
+},
+{
+"kids":[],
+"uid":"2919463534",
+"parent":"z5SSr3Jlw",
+"text":"",
+"mid":"z6vAcym2n",
+"date":"2012-11-23 13:07:38"
+},
+{
+"kids":[],
+"uid":"2920484214",
+"parent":"z5SSr3Jlw",
+"text":"",
+"mid":"z6vAch4e6",
+"date":"2012-11-23 13:07:39"
+},
+{
+"kids":[],
+"uid":"2919717642",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z6rLostrC",
+"date":"2012-11-23 03:24:15"
+},
+{
+"kids":[],
+"uid":"2517362234",
+"parent":"yxaZ18PLj",
+"text":"你觉得我能拿到手机吗@罗永浩可爱多",
+"mid":"z6o0z7l1F",
+"date":"2012-11-22 17:50:38"
+},
+{
+"kids":[],
+"uid":"1726406802",
+"parent":"z5SSr3Jlw",
+"text":"",
+"mid":"z6nQnk1GA",
+"date":"2012-11-22 17:25:33"
+},
+{
+"kids":[],
+"uid":"2192047117",
+"parent":"z6ntsAFME",
+"text":"原来是拉黑了呀、我说看不见他更新了呢…其实一开始也没信是真的、何必呢…",
+"mid":"z6nQecDiT",
+"date":"2012-11-22 17:25:10"
+},
+{
+"kids":[],
+"uid":"234912198",
+"parent":"",
+"text":"到日子咯",
+"mid":"z6nuYxDmN",
+"date":"2012-11-22 16:32:49"
+},
+{
+"kids":[],
+"uid":"2674881767",
+"parent":"",
+"text":"有谱吗？？元芳，你怎么看？？[吃惊]",
+"mid":"z6nu77Amu",
+"date":"2012-11-22 16:30:41"
+},
+{
+"kids":[
+"z6nQecDiT"
+],
+"uid":"521545638",
+"parent":"z6nsSxyL4",
+"text":"也把我拉黑了，它把所有跟它说这事的都拉黑了",
+"mid":"z6ntsAFME",
+"date":"2012-11-22 16:29:05"
+},
+{
+"kids":[
+"z6ntsAFME"
+],
+"uid":"atjxd",
+"parent":"z6nsffws8",
+"text":"名字都改了，还把我取消关注了，这是要闹哪出？ 赌不起就别赌呗，我又不缺你那IP5那点钱。CEO都不诚信，公司也好不到哪去。",
+"mid":"z6nsSxyL4",
+"date":"2012-11-22 16:27:39"
+},
+{
+"kids":[
+"z6nsSxyL4"
+],
+"uid":"521545638",
+"parent":"z6csB5u8V",
+"text":"逢总已经吓尿了",
+"mid":"z6nsffws8",
+"date":"2012-11-22 16:26:05"
+},
+{
+"kids":[],
+"uid":"2808924312",
+"parent":"",
+"text":"",
+"mid":"z6mSmssCs",
+"date":"2012-11-22 14:57:39"
+},
+{
+"kids":[],
+"uid":"2805653460",
+"parent":"",
+"text":"",
+"mid":"z6mSmssAE",
+"date":"2012-11-22 14:57:39"
+},
+{
+"kids":[],
+"uid":"1896038084",
+"parent":"z5T4czgUN",
+"text":"他已经改名了",
+"mid":"z6mdunbfX",
+"date":"2012-11-22 13:16:59"
+},
+{
+"kids":[],
+"uid":"1896038084",
+"parent":"",
+"text":"说好的iPhone5呢？",
+"mid":"z6maMfGVu",
+"date":"2012-11-22 13:10:17"
+},
+{
+"kids":[],
+"uid":"2517362234",
+"parent":"yxaZ18PLj",
+"text":"刚才算了一下，已经正好100天了，请兑现诺言哦",
+"mid":"z6lDhwx69",
+"date":"2012-11-22 11:47:47"
+},
+{
+"kids":[],
+"uid":"2920594364",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z6iDkzdfe",
+"date":"2012-11-22 04:09:39"
+},
+{
+"kids":[],
+"uid":"2802952814",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z6iDkhC6c",
+"date":"2012-11-22 04:09:39"
+},
+{
+"kids":[],
+"uid":"2919448594",
+"parent":"z5SSr3Jlw",
+"text":"",
+"mid":"z6gnl5ZC1",
+"date":"2012-11-21 22:24:42"
+},
+{
+"kids":[],
+"uid":"2920324294",
+"parent":"z5SSr3Jlw",
+"text":"",
+"mid":"z6gnktz1b",
+"date":"2012-11-21 22:24:42"
+},
+{
+"kids":[
+"z6nsffws8"
+],
+"uid":"atjxd",
+"parent":"",
+"text":"兑现吗？ CEO?",
+"mid":"z6csB5u8V",
+"date":"2012-11-21 12:26:44"
+},
+{
+"kids":[],
+"uid":"yichengxin",
+"parent":"",
+"text":"期限到了，还绝不食言？哥笑了[鄙视][挖鼻屎]",
+"mid":"z6bTG0IAx",
+"date":"2012-11-21 11:00:42"
+},
+{
+"kids":[],
+"uid":"2810681094",
+"parent":"",
+"text":"",
+"mid":"z6arPnnfW",
+"date":"2012-11-21 07:19:21"
+},
+{
+"kids":[],
+"uid":"1560963327",
+"parent":"",
+"text":"",
+"mid":"z69FWzw2B",
+"date":"2012-11-21 05:21:23"
+},
+{
+"kids":[],
+"uid":"1722289475",
+"parent":"",
+"text":"",
+"mid":"z67wSrwz2",
+"date":"2012-11-20 23:53:30"
+},
+{
+"kids":[],
+"uid":"2919842492",
+"parent":"",
+"text":"",
+"mid":"z67wSqfMj",
+"date":"2012-11-20 23:53:30"
+},
+{
+"kids":[],
+"uid":"1392917915",
+"parent":"yx9oRbqW5",
+"text":"100天到了吧",
+"mid":"z64ZQztMO",
+"date":"2012-11-20 17:26:40"
+},
+{
+"kids":[],
+"uid":"2970994630",
+"parent":"",
+"text":"",
+"mid":"z638s7jo8",
+"date":"2012-11-20 12:42:21"
+},
+{
+"kids":[],
+"uid":"2810607692",
+"parent":"z5T4czgUN",
+"text":"",
+"mid":"z61xD5Uqu",
+"date":"2012-11-20 08:38:54"
+},
+{
+"kids":[],
+"uid":"1582589712",
+"parent":"z5T4czgUN",
+"text":"",
+"mid":"z5TtzsuCu",
+"date":"2012-11-19 12:06:57"
+},
+{
+"kids":[],
+"uid":"2920048472",
+"parent":"z5T4czgUN",
+"text":"",
+"mid":"z5TtzsuB5",
+"date":"2012-11-19 12:06:55"
+},
+{
+"kids":[],
+"uid":"1945698864",
+"parent":"",
+"text":"少年..三个月快到了,货物准备好了么..",
+"mid":"z5T7udGjW",
+"date":"2012-11-19 11:12:31"
+},
+{
+"kids":[],
+"uid":"1458375065",
+"parent":"z5T4czgUN",
+"text":"",
+"mid":"z5T4XxhRE",
+"date":"2012-11-19 11:06:19"
+},
+{
+"kids":[
+"z730WmhjE",
+"z6mdunbfX",
+"z61xD5Uqu",
+"z5TtzsuCu",
+"z5TtzsuB5",
+"z5T4XxhRE"
+],
+"uid":"zywxmu",
+"parent":"z5SSr3Jlw",
+"text":"呵呵@逄瑞:打假斗士@方舟子 因不满新浪微博未处理对其人身攻击的用户，宣布今日起停止在新浪微博的更新，如果方舟子能坚持99天不在新浪微博更新(即三个月)凡关注我并转发本条微博者，我将免费赠送每人一台Iphone5，即每个关注我并转发的人都有一台，绝无任何文",
+"mid":"z5T4czgUN",
+"date":"2012-11-19 11:04:27"
+},
+{
+"kids":[
+"z6vAcym2n",
+"z6vAch4e6",
+"z6nQnk1GA",
+"z6gnl5ZC1",
+"z6gnktz1b",
+"z5T4czgUN"
+],
+"uid":"2279626691",
+"parent":"yxg3Q9JbO",
+"text":"嘎嘎@逄瑞:打假斗士@方舟子 因不满新浪微博未处理对其人身攻击的用户，宣布今日起停止在新浪微博的更新，如果方舟子能坚持99天不在新浪微博更新(即三个月)凡关注我并转发本条微博者，我将免费赠送每人一台Iphone5，即每个关注我并转发的人都有一台，绝无任何文字游戏。认证用户，公司保证，资金充",
+"mid":"z5SSr3Jlw",
+"date":"2012-11-19 10:35:27"
+},
+{
+"kids":[],
+"uid":"942340299",
+"parent":"",
+"text":"提醒提醒@逄瑞 哈哈",
+"mid":"z5SDX3C6Y",
+"date":"2012-11-19 09:59:44"
+},
+{
+"kids":[],
+"uid":"2789668444",
+"parent":"",
+"text":"",
+"mid":"z5FxN61U9",
+"date":"2012-11-18 00:38:53"
+},
+{
+"kids":[],
+"uid":"localspin",
+"parent":"",
+"text":"赶紧关注上",
+"mid":"z5F5XoCqf",
+"date":"2012-11-17 23:30:16"
+},
+{
+"kids":[],
+"uid":"localspin",
+"parent":"z5EJo0N6F",
+"text":"恩，我好像也转过",
+"mid":"z5EQo2QTP",
+"date":"2012-11-17 22:51:57"
+},
+{
+"kids":[
+"z5EQo2QTP"
+],
+"uid":"momoshen524",
+"parent":"",
+"text":"作为8月15日第一批转发关注的人开始倒计时了",
+"mid":"z5EJo0N6F",
+"date":"2012-11-17 22:34:42"
+},
+{
+"kids":[],
+"uid":"2919520704",
+"parent":"",
+"text":"",
+"mid":"z5sIDuX3j",
+"date":"2012-11-16 15:59:52"
+},
+{
+"kids":[],
+"uid":"2810418150",
+"parent":"",
+"text":"",
+"mid":"z5sIDtjz1",
+"date":"2012-11-16 15:59:54"
+},
+{
+"kids":[],
+"uid":"1584013634",
+"parent":"",
+"text":"",
+"mid":"z5noC9qkg",
+"date":"2012-11-16 02:26:50"
+},
+{
+"kids":[],
+"uid":"2920042464",
+"parent":"",
+"text":"",
+"mid":"z5noC8cdE",
+"date":"2012-11-16 02:26:49"
+},
+{
+"kids":[],
+"uid":"2919540260",
+"parent":"",
+"text":"",
+"mid":"z5m96yv1R",
+"date":"2012-11-15 23:15:50"
+},
+{
+"kids":[],
+"uid":"2920651500",
+"parent":"",
+"text":"",
+"mid":"z5m96xAWP",
+"date":"2012-11-15 23:15:54"
+},
+{
+"kids":[],
+"uid":"2774603971",
+"parent":"",
+"text":"到底会不会送呢？",
+"mid":"z5jtG3IbB",
+"date":"2012-11-15 16:28:19"
+},
+{
+"kids":[],
+"uid":"1731161675",
+"parent":"",
+"text":"这小子人品不行",
+"mid":"z5gYbl201",
+"date":"2012-11-15 10:05:13"
+},
+{
+"kids":[],
+"uid":"2919783894",
+"parent":"",
+"text":"",
+"mid":"z4GCJlKeo",
+"date":"2012-11-11 13:33:28"
+},
+{
+"kids":[],
+"uid":"1588506772",
+"parent":"",
+"text":"",
+"mid":"z4uwq2uMm",
+"date":"2012-11-10 06:44:58"
+},
+{
+"kids":[],
+"uid":"2920170274",
+"parent":"",
+"text":"",
+"mid":"z4uwpqR5X",
+"date":"2012-11-10 06:44:57"
+},
+{
+"kids":[
+"zkZmabZKl",
+"zkZmaaRhD",
+"zdCCYrZ6d",
+"zdu8QdJjG",
+"zdj7b3dt7",
+"zdaTj1psR",
+"zcoNv5Ld2",
+"z8SOwcUGS",
+"z8SOvAlxM",
+"z8Iodo78m",
+"z7XY99wxh",
+"z7XY98FHv",
+"z7Ouhnybb",
+"z74aM1QWr",
+"z74aM1QVX",
+"z6WFWnXNo",
+"z6WFW5y8n"
+],
+"uid":"2717091233",
+"parent":"",
+"text":"作为最早一批关注并转发的用户表示对今天突然出现这哥们的关注莫名其妙的消失了，应该是把我拉黑了，看来广东商人还真是不可信啊",
+"mid":"z4rqdrvHX",
+"date":"2012-11-09 22:51:25"
+},
+{
+"kids":[],
+"uid":"2789948094",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z3Qk1hPwl",
+"date":"2012-11-06 00:24:34"
+},
+{
+"kids":[],
+"uid":"1777177632",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z3Qk1hPv1",
+"date":"2012-11-06 00:24:31"
+},
+{
+"kids":[],
+"uid":"2803383062",
+"parent":"",
+"text":"",
+"mid":"z3IUPckuD",
+"date":"2012-11-05 05:33:16"
+},
+{
+"kids":[],
+"uid":"2920149944",
+"parent":"",
+"text":"",
+"mid":"z3G1VkHLj",
+"date":"2012-11-04 22:12:31"
+},
+{
+"kids":[],
+"uid":"1778291915",
+"parent":"",
+"text":"",
+"mid":"z3G1VjBTt",
+"date":"2012-11-04 22:12:31"
+},
+{
+"kids":[],
+"uid":"2920454892",
+"parent":"yxbFdq5YE",
+"text":"",
+"mid":"z3cQ2woJG",
+"date":"2012-11-01 19:53:33"
+},
+{
+"kids":[],
+"uid":"2789965414",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z35Irpqh1",
+"date":"2012-11-01 01:45:37"
+},
+{
+"kids":[],
+"uid":"2920627494",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z34lri650",
+"date":"2012-10-31 22:16:10"
+},
+{
+"kids":[],
+"uid":"2789900364",
+"parent":"z2rrq51ZH",
+"text":"",
+"mid":"z34lr1jC1",
+"date":"2012-10-31 22:16:09"
+},
+{
+"kids":[],
+"uid":"2920255462",
+"parent":"yxbFdq5YE",
+"text":"",
+"mid":"z33hCyseA",
+"date":"2012-10-31 19:34:05"
+},
+{
+"kids":[],
+"uid":"2803152550",
+"parent":"yxbFdq5YE",
+"text":"",
+"mid":"z33hCysdj",
+"date":"2012-10-31 19:34:02"
+},
+{
+"kids":[
+"zpiFT8ucC",
+"zpiFSxaHV",
+"zgDN4a3lA",
+"zfHJHfeTE",
+"zeX05sUod",
+"zeX05stSr",
+"zeREK02ER",
+"zeREJEYz9",
+"z7redaee0",
+"z7cfBvjri",
+"z7cfBca5f",
+"z6rLostrC",
+"z6iDkzdfe",
+"z6iDkhC6c",
+"z3Qk1hPwl",
+"z3Qk1hPv1",
+"z35Irpqh1",
+"z34lri650",
+"z34lr1jC1"
+],
+"uid":"2568254792",
+"parent":"",
+"text":"不知道现在还有没有效果 啊啊试试 11月23号",
+"mid":"z2rrq51ZH",
+"date":"2012-10-27 19:13:49"
+},
+{
+"kids":[],
+"uid":"2808140750",
+"parent":"yxbFdq5YE",
+"text":"",
+"mid":"z2ishiARs",
+"date":"2012-10-26 20:21:10"
+},
+{
+"kids":[],
+"uid":"1177975925",
+"parent":"",
+"text":"难道真的要大出血了",
+"mid":"z24JxorWi",
+"date":"2012-10-25 09:25:16"
+},
+{
+"kids":[],
+"uid":"1177975925",
+"parent":"",
+"text":"",
+"mid":"z24Jg0I7f",
+"date":"2012-10-25 09:24:33"
+},
+{
+"kids":[],
+"uid":"1581711500",
+"parent":"yxbFdq5YE",
+"text":"",
+"mid":"z23Xoknh6",
+"date":"2012-10-25 07:26:39"
+},
+{
+"kids":[],
+"uid":"2920536810",
+"parent":"yxbFdq5YE",
+"text":"",
+"mid":"z23XojhjV",
+"date":"2012-10-25 07:26:40"
+},
+{
+"kids":[],
+"uid":"1861858834",
+"parent":"",
+"text":"拭目以待！",
+"mid":"z1Z4JnILe",
+"date":"2012-10-24 19:01:00"
+},
+{
+"kids":[],
+"uid":"1589649937",
+"parent":"yxbFdq5YE",
+"text":"",
+"mid":"z1gxMx7jF",
+"date":"2012-10-20 01:38:58"
+},
+{
+"kids":[],
+"uid":"2919669404",
+"parent":"yxbFdq5YE",
+"text":"",
+"mid":"z1eM9mecP",
+"date":"2012-10-19 21:08:54"
+},
+{
+"kids":[],
+"uid":"2920313512",
+"parent":"yxbFdq5YE",
+"text":"",
+"mid":"z1eM9kzQP",
+"date":"2012-10-19 21:08:51"
+},
+{
+"kids":[],
+"uid":"1588510911",
+"parent":"",
+"text":"",
+"mid":"yESpRuJDq",
+"date":"2012-10-04 15:01:22"
+},
+{
+"kids":[],
+"uid":"1588283280",
+"parent":"",
+"text":"",
+"mid":"yESpRuJAf",
+"date":"2012-10-04 15:01:22"
+},
+{
+"kids":[],
+"uid":"2919413190",
+"parent":"",
+"text":"",
+"mid":"yEKPTCkLU",
+"date":"2012-10-03 19:43:32"
+},
+{
+"kids":[],
+"uid":"2920325014",
+"parent":"",
+"text":"",
+"mid":"yEK4Rqq0c",
+"date":"2012-10-03 17:47:38"
+},
+{
+"kids":[],
+"uid":"2804073384",
+"parent":"",
+"text":"",
+"mid":"yEK4R7PJW",
+"date":"2012-10-03 17:47:38"
+},
+{
+"kids":[],
+"uid":"2805690190",
+"parent":"",
+"text":"",
+"mid":"yEBnfcIov",
+"date":"2012-10-02 19:38:15"
+},
+{
+"kids":[],
+"uid":"2789832604",
+"parent":"",
+"text":"",
+"mid":"yE0en1w3W",
+"date":"2012-09-28 21:04:45"
+},
+{
+"kids":[],
+"uid":"2804175972",
+"parent":"",
+"text":"",
+"mid":"yE0en1vYA",
+"date":"2012-09-28 21:04:44"
+},
+{
+"kids":[],
+"uid":"2920335464",
+"parent":"",
+"text":"",
+"mid":"yDV5lECby",
+"date":"2012-09-28 07:58:47"
+},
+{
+"kids":[],
+"uid":"2920070472",
+"parent":"",
+"text":"",
+"mid":"yDNdd4Dhw",
+"date":"2012-09-27 11:56:10"
+},
+{
+"kids":[],
+"uid":"2805459790",
+"parent":"",
+"text":"",
+"mid":"yDNdd4mTP",
+"date":"2012-09-27 11:56:09"
+},
+{
+"kids":[],
+"uid":"1417924033",
+"parent":"yxb4Rn1pO",
+"text":"",
+"mid":"yDN6GwH3u",
+"date":"2012-09-27 11:40:06"
+},
+{
+"kids":[],
+"uid":"2919389944",
+"parent":"",
+"text":"",
+"mid":"yDEQZ2jN8",
+"date":"2012-09-26 14:39:26"
+},
+{
+"kids":[],
+"uid":"2920274573",
+"parent":"",
+"text":"第43天，好像新浪取消对你这条微博的违规指控啦~@逄瑞",
+"mid":"yDDzk9V4A",
+"date":"2012-09-26 11:23:11"
+},
+{
+"kids":[],
+"uid":"2805401900",
+"parent":"",
+"text":"",
+"mid":"yCZJ9AxsS",
+"date":"2012-09-22 05:57:32"
+},
+{
+"kids":[],
+"uid":"2790052734",
+"parent":"",
+"text":"",
+"mid":"yCZJ9Axs9",
+"date":"2012-09-22 05:57:33"
+},
+{
+"kids":[],
+"uid":"2789891212",
+"parent":"",
+"text":"",
+"mid":"yCVgcvZ2b",
+"date":"2012-09-21 18:35:13"
+},
+{
+"kids":[],
+"uid":"2919907284",
+"parent":"",
+"text":"",
+"mid":"yCVgcenTa",
+"date":"2012-09-21 18:35:11"
+},
+{
+"kids":[],
+"uid":"1582538165",
+"parent":"",
+"text":"",
+"mid":"yCOqwtb1x",
+"date":"2012-09-21 01:11:26"
+},
+{
+"kids":[],
+"uid":"2804122082",
+"parent":"",
+"text":"",
+"mid":"yCOoL87LM",
+"date":"2012-09-21 01:07:05"
+},
+{
+"kids":[],
+"uid":"2804365502",
+"parent":"",
+"text":"",
+"mid":"yCOoKwu5A",
+"date":"2012-09-21 01:07:04"
+},
+{
+"kids":[],
+"uid":"2804114264",
+"parent":"yxehcAWBv",
+"text":"",
+"mid":"yCizuAk5v",
+"date":"2012-09-17 16:05:38"
+},
+{
+"kids":[],
+"uid":"2920182774",
+"parent":"",
+"text":"",
+"mid":"yChenct8o",
+"date":"2012-09-17 12:40:49"
+},
+{
+"kids":[],
+"uid":"garyyan320",
+"parent":"",
+"text":"不能食言哦",
+"mid":"yBE5Bmbb8",
+"date":"2012-09-13 09:02:07"
+},
+{
+"kids":[],
+"uid":"2809158610",
+"parent":"",
+"text":"",
+"mid":"yBkxepMRN",
+"date":"2012-09-11 07:15:14"
+},
+{
+"kids":[],
+"uid":"2809470100",
+"parent":"",
+"text":"",
+"mid":"yBco4ATeD",
+"date":"2012-09-10 10:30:42"
+},
+{
+"kids":[],
+"uid":"2804114264",
+"parent":"yxehcAWBv",
+"text":"",
+"mid":"yAW1DqCw9",
+"date":"2012-09-08 16:51:26"
+},
+{
+"kids":[],
+"uid":"2920170152",
+"parent":"",
+"text":"",
+"mid":"yAVdHyuPn",
+"date":"2012-09-08 14:48:26"
+},
+{
+"kids":[],
+"uid":"2804114232",
+"parent":"yxehcAWBv",
+"text":"",
+"mid":"yAMmwyYAk",
+"date":"2012-09-07 16:15:27"
+},
+{
+"kids":[],
+"uid":"2920209522",
+"parent":"",
+"text":"",
+"mid":"yAKJWuYt5",
+"date":"2012-09-07 12:07:39"
+},
+{
+"kids":[],
+"uid":"1821220291",
+"parent":"",
+"text":"支持下",
+"mid":"yzURy9K5F",
+"date":"2012-09-02 00:03:35"
+},
+{
+"kids":[],
+"uid":"2809470024",
+"parent":"",
+"text":"",
+"mid":"yzN89f5vg",
+"date":"2012-09-01 04:22:30"
+},
+{
+"kids":[],
+"uid":"2809158534",
+"parent":"",
+"text":"",
+"mid":"yzFtZA50t",
+"date":"2012-08-31 08:54:21"
+},
+{
+"kids":[],
+"uid":"2789757204",
+"parent":"",
+"text":"",
+"mid":"yzxPhpvuZ",
+"date":"2012-08-30 13:24:47"
+},
+{
+"kids":[],
+"uid":"xjl5257",
+"parent":"",
+"text":"虽然不知道真假，可以一试[嘻嘻]",
+"mid":"yztGU0HeL",
+"date":"2012-08-30 02:53:11"
+},
+{
+"kids":[],
+"uid":"xjl5257",
+"parent":"",
+"text":"转了，我渴望的苹果5啊[花心]别告诉我是假的，伤不起啊！",
+"mid":"yztEmvqBU",
+"date":"2012-08-30 02:46:55"
+},
+{
+"kids":[],
+"uid":"1663685433",
+"parent":"yxgfMCH2d",
+"text":"不是苹果五袋儿吗！！！！",
+"mid":"yzslOoxO5",
+"date":"2012-08-29 23:28:30"
+},
+{
+"kids":[],
+"uid":"2804114232",
+"parent":"yxehcAWBv",
+"text":"",
+"mid":"yzpCVD0HN",
+"date":"2012-08-29 16:32:23"
+},
+{
+"kids":[],
+"uid":"2920170124",
+"parent":"",
+"text":"",
+"mid":"yzoJTzBg2",
+"date":"2012-08-29 14:16:48"
+},
+{
+"kids":[],
+"uid":"2804114200",
+"parent":"yxehcAWBv",
+"text":"",
+"mid":"yzglbBdRc",
+"date":"2012-08-28 16:53:57"
+},
+{
+"kids":[],
+"uid":"2920209510",
+"parent":"",
+"text":"",
+"mid":"yzetrhEXc",
+"date":"2012-08-28 12:08:48"
+},
+{
+"kids":[],
+"uid":"1583806493",
+"parent":"",
+"text":"",
+"mid":"yzcP5htVT",
+"date":"2012-08-28 07:56:39"
+},
+{
+"kids":[],
+"uid":"2919881842",
+"parent":"yx76pw0IA",
+"text":"",
+"mid":"yz96YjADh",
+"date":"2012-08-27 22:29:44"
+},
+{
+"kids":[],
+"uid":"2919868592",
+"parent":"yx8ks5HTm",
+"text":"",
+"mid":"yz8PPq0Tk",
+"date":"2012-08-27 21:47:28"
+},
+{
+"kids":[],
+"uid":"2393579315",
+"parent":"",
+"text":"",
+"mid":"yz60ndDRH",
+"date":"2012-08-27 14:35:14"
+},
+{
+"kids":[],
+"uid":"230310121",
+"parent":"",
+"text":"我还是想问：如果百天以内方舟子意外死亡呢？",
+"mid":"yywr43nYp",
+"date":"2012-08-23 20:02:06"
+},
+{
+"kids":[],
+"uid":"2951201334",
+"parent":"",
+"text":"嗯嗯",
+"mid":"yyrBVufP2",
+"date":"2012-08-23 07:45:08"
+},
+{
+"kids":[],
+"uid":"2082607245",
+"parent":"",
+"text":"现在转发还有效吗？",
+"mid":"yynDh9GfT",
+"date":"2012-08-22 21:37:27"
+},
+{
+"kids":[],
+"uid":"2774721585",
+"parent":"",
+"text":"转",
+"mid":"yymX9iEeo",
+"date":"2012-08-22 19:53:40"
+},
+{
+"kids":[],
+"uid":"2809158462",
+"parent":"",
+"text":"",
+"mid":"yyghu3JOB",
+"date":"2012-08-22 02:54:33"
+},
+{
+"kids":[],
+"uid":"2810424240",
+"parent":"",
+"text":"",
+"mid":"yyg17CJD1",
+"date":"2012-08-22 02:14:15"
+},
+{
+"kids":[],
+"uid":"2713652773",
+"parent":"yxg5m6a25",
+"text":"有这种事情，我要看看谁是说假话的人？",
+"mid":"yyeVxg10G",
+"date":"2012-08-21 23:27:44"
+},
+{
+"kids":[],
+"uid":"2809469932",
+"parent":"",
+"text":"",
+"mid":"yy8bpatkJ",
+"date":"2012-08-21 06:17:35"
+},
+{
+"kids":[],
+"uid":"2789798874",
+"parent":"",
+"text":"",
+"mid":"yy1qHkCxW",
+"date":"2012-08-20 13:06:03"
+},
+{
+"kids":[],
+"uid":"2756217213",
+"parent":"",
+"text":"方肘子的生活纯脆就是狗咬狗和狗咬人这两种状态，方肘子啊，别回来了！",
+"mid":"yxZWUFq9M",
+"date":"2012-08-20 09:19:56"
+},
+{
+"kids":[],
+"uid":"2756217213",
+"parent":"",
+"text":"",
+"mid":"yxZNhuMOO",
+"date":"2012-08-20 08:56:12"
+},
+{
+"kids":[],
+"uid":"2809211464",
+"parent":"",
+"text":"",
+"mid":"yxYhM0Ppo",
+"date":"2012-08-20 05:05:49"
+},
+{
+"kids":[],
+"uid":"2408748913",
+"parent":"",
+"text":"会不会是山寨的，那样会很受伤的",
+"mid":"yxUey1MCC",
+"date":"2012-08-19 18:46:51"
+},
+{
+"kids":[],
+"uid":"2804114200",
+"parent":"yxehcAWBv",
+"text":"",
+"mid":"yxT8gcxnz",
+"date":"2012-08-19 15:58:37"
+},
+{
+"kids":[],
+"uid":"2804765690",
+"parent":"yxfYH33pa",
+"text":"",
+"mid":"yxSTQCpvE",
+"date":"2012-08-19 15:23:09"
+},
+{
+"kids":[],
+"uid":"2809211464",
+"parent":"",
+"text":"",
+"mid":"yxQFB19hX",
+"date":"2012-08-19 09:42:33"
+},
+{
+"kids":[],
+"uid":"1574558764",
+"parent":"yxezycFUo",
+"text":"",
+"mid":"yxJhMBF0F",
+"date":"2012-08-18 14:54:37"
+},
+{
+"kids":[],
+"uid":"2825542053",
+"parent":"",
+"text":"转发微博。",
+"mid":"yxHYWufpc",
+"date":"2012-08-18 11:35:29"
+},
+{
+"kids":[],
+"uid":"2802719904",
+"parent":"yxeVfkj9W",
+"text":"",
+"mid":"yxET5s9Vp",
+"date":"2012-08-18 03:42:48"
+},
+{
+"kids":[],
+"uid":"1583806863",
+"parent":"",
+"text":"",
+"mid":"yxEshBPj7",
+"date":"2012-08-18 02:36:46"
+},
+{
+"kids":[],
+"uid":"2789982340",
+"parent":"yx83S37QB",
+"text":"",
+"mid":"yxCbvEzLP",
+"date":"2012-08-17 20:49:55"
+},
+{
+"kids":[],
+"uid":"2125222245",
+"parent":"yxeNRzapH",
+"text":"",
+"mid":"yxBJv3F5n",
+"date":"2012-08-17 19:40:58"
+},
+{
+"kids":[],
+"uid":"1574559092",
+"parent":"yxezycFUo",
+"text":"",
+"mid":"yxA2ghU2Q",
+"date":"2012-08-17 15:21:40"
+},
+{
+"kids":[],
+"uid":"2789825882",
+"parent":"",
+"text":"",
+"mid":"yxzEj8IxI",
+"date":"2012-08-17 14:22:39"
+},
+{
+"kids":[],
+"uid":"2789711500",
+"parent":"yxguMhR2n",
+"text":"",
+"mid":"yxzvO0Aip",
+"date":"2012-08-17 14:01:42"
+},
+{
+"kids":[],
+"uid":"2789670722",
+"parent":"yxguMhR2n",
+"text":"",
+"mid":"yxyvn30n0",
+"date":"2012-08-17 11:27:53"
+},
+{
+"kids":[],
+"uid":"2802861832",
+"parent":"yxeVfkj9W",
+"text":"",
+"mid":"yxvZc4FMN",
+"date":"2012-08-17 05:03:08"
+},
+{
+"kids":[],
+"uid":"1790088163",
+"parent":"",
+"text":"走你。",
+"mid":"yxu50prnv",
+"date":"2012-08-17 00:11:58"
+},
+{
+"kids":[],
+"uid":"1750279530",
+"parent":"",
+"text":"[得意地笑]",
+"mid":"yxtI3mSLm",
+"date":"2012-08-16 23:15:23"
+},
+{
+"kids":[],
+"uid":"2789982332",
+"parent":"yx83S37QB",
+"text":"",
+"mid":"yxsNjwn9h",
+"date":"2012-08-16 20:55:36"
+},
+{
+"kids":[],
+"uid":"1885876212",
+"parent":"",
+"text":"[偷笑]还好当时就咒这个逢瑞说假话,生女儿或孙女就会被人轮奸",
+"mid":"yxsB4pGxq",
+"date":"2012-08-16 20:25:28"
+},
+{
+"kids":[],
+"uid":"712396200",
+"parent":"",
+"text":"不止556",
+"mid":"yxrjisKpU",
+"date":"2012-08-16 17:08:55"
+},
+{
+"kids":[],
+"uid":"2789784270",
+"parent":"",
+"text":"",
+"mid":"yxqcl03pK",
+"date":"2012-08-16 14:19:02"
+},
+{
+"kids":[],
+"uid":"1827727875",
+"parent":"",
+"text":"要手机",
+"mid":"yxpW2m4PW",
+"date":"2012-08-16 13:38:51"
+},
+{
+"kids":[],
+"uid":"2747652947",
+"parent":"",
+"text":"",
+"mid":"yxpaOmLiw",
+"date":"2012-08-16 11:42:31"
+},
+{
+"kids":[],
+"uid":"1222081332",
+"parent":"",
+"text":"现转发，再骂你个假人！",
+"mid":"yxp6kkXS3",
+"date":"2012-08-16 11:31:29"
+},
+{
+"kids":[],
+"uid":"603860936",
+"parent":"yxg3Q9JbO",
+"text":"",
+"mid":"yxoEIvCsv",
+"date":"2012-08-16 10:23:27"
+},
+{
+"kids":[],
+"uid":"1497120064",
+"parent":"yxkSOBDat",
+"text":"",
+"mid":"yxl7y2G9d",
+"date":"2012-08-16 01:23:30"
+},
+{
+"kids":[],
+"uid":"2743598507",
+"parent":"yxkdV4fvu",
+"text":"转发微薄",
+"mid":"yxl00wBrB",
+"date":"2012-08-16 01:04:56"
+},
+{
+"kids":[],
+"uid":"525097456",
+"parent":"",
+"text":"",
+"mid":"yxkXiplK1",
+"date":"2012-08-16 00:58:16"
+},
+{
+"kids":[],
+"uid":"1883458585",
+"parent":"",
+"text":"赢定了，不过已经快300了，真有得拿？",
+"mid":"yxkVHoqoo",
+"date":"2012-08-16 00:54:19"
+},
+{
+"kids":[
+"yxl7y2G9d"
+],
+"uid":"wuyeyaotou",
+"parent":"yxkRSsTK5",
+"text":"博主会破产的……",
+"mid":"yxkSOBDat",
+"date":"2012-08-16 00:47:13"
+},
+{
+"kids":[
+"yxkSOBDat"
+],
+"uid":"zouzhihui",
+"parent":"",
+"text":"不要回来……",
+"mid":"yxkRSsTK5",
+"date":"2012-08-16 00:44:54"
+},
+{
+"kids":[],
+"uid":"zly958703654",
+"parent":"",
+"text":"这是真的这是真的这是真的，新浪被乱搞。博主只是搞一个活动而已，又没攻击方舟子。处理个啥呀。啥的吧。。。。",
+"mid":"yxkKYiECH",
+"date":"2012-08-16 00:27:52"
+},
+{
+"kids":[],
+"uid":"zly958703654",
+"parent":"",
+"text":"这是真的这是真的这是真的，新浪被乱搞。博主只是搞一个活动而已，又没攻击方舟子。处理个啥呀。啥的吧。。。",
+"mid":"yxkKU8iXb",
+"date":"2012-08-16 00:27:43"
+},
+{
+"kids":[],
+"uid":"zly958703654",
+"parent":"",
+"text":"这是真的！！！！！！！",
+"mid":"yxkJp34PE",
+"date":"2012-08-16 00:24:00"
+},
+{
+"kids":[
+"yxl00wBrB"
+],
+"uid":"208458484",
+"parent":"",
+"text":"这个貌似看过，假的！[思考]",
+"mid":"yxkdV4fvu",
+"date":"2012-08-15 23:06:27"
+},
+{
+"kids":[],
+"uid":"1883765577",
+"parent":"",
+"text":"希望你能信守承诺！[奥特曼]",
+"mid":"yxkdk5b2M",
+"date":"2012-08-15 23:04:58"
+},
+{
+"kids":[],
+"uid":"1883765577",
+"parent":"yxgLN8UKt",
+"text":"希望你能信守承诺~！",
+"mid":"yxkcqvEpE",
+"date":"2012-08-15 23:02:46"
+},
+{
+"kids":[],
+"uid":"Muchunxiao0325",
+"parent":"",
+"text":"凑个热闹啊！！",
+"mid":"yxjZeAO3q",
+"date":"2012-08-15 22:30:16"
+},
+{
+"kids":[],
+"uid":"1981417134",
+"parent":"",
+"text":"",
+"mid":"yxjUsfE5v",
+"date":"2012-08-15 22:18:30"
+},
+{
+"kids":[],
+"uid":"2013239321",
+"parent":"yxglbt2tO",
+"text":"",
+"mid":"yxjOFwJvU",
+"date":"2012-08-15 22:04:15"
+},
+{
+"kids":[],
+"uid":"1784513993",
+"parent":"",
+"text":"还是可以转的啊、、、",
+"mid":"yxjNVpMLF",
+"date":"2012-08-15 22:02:25"
+},
+{
+"kids":[],
+"uid":"1784513993",
+"parent":"",
+"text":"",
+"mid":"yxjNGD9Q0",
+"date":"2012-08-15 22:01:52"
+},
+{
+"kids":[],
+"uid":"jefferschen",
+"parent":"",
+"text":"必须参与",
+"mid":"yxj1Quye5",
+"date":"2012-08-15 20:03:58"
+},
+{
+"kids":[],
+"uid":"1886327975",
+"parent":"yxhbkpPyO",
+"text":"。。。。。。",
+"mid":"yxiTHeE2i",
+"date":"2012-08-15 19:43:53"
+},
+{
+"kids":[],
+"uid":"1886327975",
+"parent":"yxhbkpPyO",
+"text":"不让转，我也留个脚印",
+"mid":"yxiTCdd0A",
+"date":"2012-08-15 19:43:41"
+},
+{
+"kids":[],
+"uid":"vincentchan227",
+"parent":"",
+"text":"转发~",
+"mid":"yxiyvaEmR",
+"date":"2012-08-15 18:51:38"
+},
+{
+"kids":[],
+"uid":"712396200",
+"parent":"",
+"text":"必须转发，求方舟子回来",
+"mid":"yxhz4hrmo",
+"date":"2012-08-15 16:20:19"
+},
+{
+"kids":[],
+"uid":"1786266003",
+"parent":"",
+"text":"转发微博。",
+"mid":"yxhvLv2pf",
+"date":"2012-08-15 16:12:11"
+},
+{
+"kids":[],
+"uid":"1169996523",
+"parent":"",
+"text":"这不是能转吗亲？我就来试试。。。",
+"mid":"yxhu59i6X",
+"date":"2012-08-15 16:08:02"
+},
+{
+"kids":[],
+"uid":"1169996523",
+"parent":"",
+"text":"",
+"mid":"yxhsUsCoF",
+"date":"2012-08-15 16:05:10"
+},
+{
+"kids":[],
+"uid":"1952677265",
+"parent":"",
+"text":"转",
+"mid":"yxhnoBn1I",
+"date":"2012-08-15 15:51:34"
+},
+{
+"kids":[],
+"uid":"2804380142",
+"parent":"yxdno5brs",
+"text":"",
+"mid":"yxhjqb09e",
+"date":"2012-08-15 15:41:47"
+},
+{
+"kids":[
+"yxiTHeE2i",
+"yxiTCdd0A"
+],
+"uid":"zhouqun512",
+"parent":"",
+"text":"还让转么",
+"mid":"yxhbkpPyO",
+"date":"2012-08-15 15:21:50"
+},
+{
+"kids":[],
+"uid":"1440458154",
+"parent":"",
+"text":"",
+"mid":"yxh8nvHkB",
+"date":"2012-08-15 15:14:34"
+},
+{
+"kids":[],
+"uid":"2920274573",
+"parent":"",
+"text":"依然可以转啊@逄瑞",
+"mid":"yxh4e84QQ",
+"date":"2012-08-15 15:04:21"
+},
+{
+"kids":[],
+"uid":"2920274573",
+"parent":"",
+"text":"",
+"mid":"yxh3xh7EN",
+"date":"2012-08-15 15:02:38"
+},
+{
+"kids":[],
+"uid":"2153996650",
+"parent":"",
+"text":"被封了？",
+"mid":"yxgN0wojp",
+"date":"2012-08-15 14:21:55"
+},
+{
+"kids":[
+"yxkcqvEpE"
+],
+"uid":"yukiko916",
+"parent":"",
+"text":"那个人被封了吗？",
+"mid":"yxgLN8UKt",
+"date":"2012-08-15 14:18:55"
+},
+{
+"kids":[],
+"uid":"1083735091",
+"parent":"",
+"text":"管你真假，先关注，再转发，3个月后见分晓。",
+"mid":"yxgHSfJsZ",
+"date":"2012-08-15 14:09:14"
+},
+{
+"kids":[],
+"uid":"2118777200",
+"parent":"yxg5m6a25",
+"text":"我也试试",
+"mid":"yxgHycNcY",
+"date":"2012-08-15 14:08:26"
+},
+{
+"kids":[],
+"uid":"1169996523",
+"parent":"",
+"text":"拭目以待！！[酷][酷][酷]",
+"mid":"yxgGxvXPc",
+"date":"2012-08-15 14:05:58"
+},
+{
+"kids":[],
+"uid":"2430046392",
+"parent":"",
+"text":"转发并关注，方不要让大家失望啊！",
+"mid":"yxgEyBrDR",
+"date":"2012-08-15 14:01:06"
+},
+{
+"kids":[],
+"uid":"foxchen1982",
+"parent":"",
+"text":"虽然很不希望肘子回来，但看在爱疯5的份上……",
+"mid":"yxgExs3Vz",
+"date":"2012-08-15 14:01:03"
+},
+{
+"kids":[],
+"uid":"1803957513",
+"parent":"yxggwsPbP",
+"text":"多谢方舟子，为了辩真伪，您@方舟子 就发个言吧",
+"mid":"yxgDKowEQ",
+"date":"2012-08-15 13:59:06"
+},
+{
+"kids":[],
+"uid":"louche3",
+"parent":"",
+"text":"上次 @张何 就已经删微博了，你是玩接力赛呢，还是送iphone5呢，还是送iphone5呢，还是送iphone5呢？",
+"mid":"yxgDGuLEm",
+"date":"2012-08-15 13:58:56"
+},
+{
+"kids":[],
+"uid":"2054773967",
+"parent":"yxglbt2tO",
+"text":"",
+"mid":"yxgCLdFNp",
+"date":"2012-08-15 13:56:38"
+},
+{
+"kids":[],
+"uid":"2624358123",
+"parent":"",
+"text":"",
+"mid":"yxgCw9miw",
+"date":"2012-08-15 13:56:04"
+},
+{
+"kids":[],
+"uid":"czqzjx",
+"parent":"",
+"text":"",
+"mid":"yxgB37fEE",
+"date":"2012-08-15 13:52:27"
+},
+{
+"kids":[],
+"uid":"1712729105",
+"parent":"",
+"text":"到底算不算数",
+"mid":"yxgxFmw7e",
+"date":"2012-08-15 13:44:05"
+},
+{
+"kids":[],
+"uid":"80days",
+"parent":"",
+"text":"哇塞",
+"mid":"yxgxkjRWU",
+"date":"2012-08-15 13:43:17"
+},
+{
+"kids":[],
+"uid":"honcc",
+"parent":"",
+"text":"等住换手机",
+"mid":"yxgxbdSom",
+"date":"2012-08-15 13:42:55"
+},
+{
+"kids":[],
+"uid":"1406630702",
+"parent":"",
+"text":"是真的吗？期待中",
+"mid":"yxgwJ7QtZ",
+"date":"2012-08-15 13:41:49"
+},
+{
+"kids":[],
+"uid":"1682909935",
+"parent":"",
+"text":"你确定？",
+"mid":"yxgvBno88",
+"date":"2012-08-15 13:39:02"
+},
+{
+"kids":[],
+"uid":"207775663",
+"parent":"",
+"text":"",
+"mid":"yxgvB6xuy",
+"date":"2012-08-15 13:39:01"
+},
+{
+"kids":[
+"yxzvO0Aip",
+"yxyvn30n0"
+],
+"uid":"yunwanghan",
+"parent":"",
+"text":"",
+"mid":"yxguMhR2n",
+"date":"2012-08-15 13:36:59"
+},
+{
+"kids":[],
+"uid":"2783752061",
+"parent":"yxglbt2tO",
+"text":"",
+"mid":"yxgu2rPCV",
+"date":"2012-08-15 13:35:11"
+},
+{
+"kids":[],
+"uid":"1784513993",
+"parent":"",
+"text":"转发微博。",
+"mid":"yxgu1gdfu",
+"date":"2012-08-15 13:35:07"
+},
+{
+"kids":[],
+"uid":"pengyk",
+"parent":"",
+"text":"拭目以待",
+"mid":"yxgtoz7BC",
+"date":"2012-08-15 13:33:35"
+},
+{
+"kids":[],
+"uid":"2391563890",
+"parent":"",
+"text":"真的假的？",
+"mid":"yxgt0Bfiy",
+"date":"2012-08-15 13:32:38"
+},
+{
+"kids":[],
+"uid":"1801502374",
+"parent":"yxfZvw17z",
+"text":"真的假的啊",
+"mid":"yxgqPhI5s",
+"date":"2012-08-15 13:27:16"
+},
+{
+"kids":[],
+"uid":"2355362782",
+"parent":"",
+"text":"3个月",
+"mid":"yxgpBE6pJ",
+"date":"2012-08-15 13:24:15"
+},
+{
+"kids":[],
+"uid":"1723900830",
+"parent":"",
+"text":"万一下一代不叫爱风5那可咋办啊？盲目跟风转发。",
+"mid":"yxgoYn4Us",
+"date":"2012-08-15 13:22:42"
+},
+{
+"kids":[],
+"uid":"1402884165",
+"parent":"",
+"text":"[哈哈]",
+"mid":"yxgo5DBrj",
+"date":"2012-08-15 13:20:33"
+},
+{
+"kids":[],
+"uid":"baiduxinxilanba",
+"parent":"yxg4Shzi1",
+"text":"真的吗？",
+"mid":"yxgmCmXbw",
+"date":"2012-08-15 13:16:54"
+},
+{
+"kids":[],
+"uid":"1997121753",
+"parent":"",
+"text":"翘首以待",
+"mid":"yxgm6uiGn",
+"date":"2012-08-15 13:15:38"
+},
+{
+"kids":[],
+"uid":"2094469417",
+"parent":"",
+"text":"[嘻嘻]",
+"mid":"yxglYcIIW",
+"date":"2012-08-15 13:15:18"
+},
+{
+"kids":[
+"yxjOFwJvU",
+"yxgCLdFNp",
+"yxgu2rPCV"
+],
+"uid":"1098293130",
+"parent":"",
+"text":"翘首以待",
+"mid":"yxglbt2tO",
+"date":"2012-08-15 13:13:22"
+},
+{
+"kids":[],
+"uid":"1877169812",
+"parent":"",
+"text":"没i5也要 new phone",
+"mid":"yxgkooiui",
+"date":"2012-08-15 13:11:25"
+},
+{
+"kids":[],
+"uid":"lczhangxin",
+"parent":"",
+"text":"",
+"mid":"yxgjy41uq",
+"date":"2012-08-15 13:09:20"
+},
+{
+"kids":[],
+"uid":"justcola",
+"parent":"yxbJFpLwP",
+"text":"虽说疯5长得一副马脸，而且99天有点长。。",
+"mid":"yxgiJyroD",
+"date":"2012-08-15 13:07:20"
+},
+{
+"kids":[],
+"uid":"2774721585",
+"parent":"",
+"text":"真的。",
+"mid":"yxgis8pGp",
+"date":"2012-08-15 13:06:36"
+},
+{
+"kids":[],
+"uid":"cha2les",
+"parent":"yxg5m6a25",
+"text":"据悉，苹果下一代手机产品名叫newphone.",
+"mid":"yxgireFky",
+"date":"2012-08-15 13:06:36"
+},
+{
+"kids":[],
+"uid":"1417156007",
+"parent":"",
+"text":"[威武]",
+"mid":"yxghV2qcb",
+"date":"2012-08-15 13:05:19"
+},
+{
+"kids":[],
+"uid":"1109605931",
+"parent":"",
+"text":"",
+"mid":"yxghOxcga",
+"date":"2012-08-15 13:05:04"
+},
+{
+"kids":[
+"yxgDKowEQ"
+],
+"uid":"2665562081",
+"parent":"yxfDskI9t",
+"text":"[得意地笑]",
+"mid":"yxggwsPbP",
+"date":"2012-08-15 13:01:52"
+},
+{
+"kids":[],
+"uid":"1857623584",
+"parent":"",
+"text":"看你啦",
+"mid":"yxgfQuOcM",
+"date":"2012-08-15 13:00:11"
+},
+{
+"kids":[
+"yzslOoxO5"
+],
+"uid":"xiaoji16",
+"parent":"",
+"text":"坐等苹果5[嘻嘻]",
+"mid":"yxgfMCH2d",
+"date":"2012-08-15 13:00:03"
+},
+{
+"kids":[],
+"uid":"yukisola",
+"parent":"yxgdBl2RG",
+"text":"你要相信他会买99w册送人",
+"mid":"yxgf89R6F",
+"date":"2012-08-15 12:58:25"
+},
+{
+"kids":[],
+"uid":"1828627534",
+"parent":"",
+"text":"看你啦,方老![挖鼻屎]",
+"mid":"yxgeTomJK",
+"date":"2012-08-15 12:57:51"
+},
+{
+"kids":[
+"yxgf89R6F"
+],
+"uid":"fltomato",
+"parent":"yxcn080rd",
+"text":"右边…明明是不可能的事你怎么承诺的奖品还那么小气咧…",
+"mid":"yxgdBl2RG",
+"date":"2012-08-15 12:54:42"
+},
+{
+"kids":[],
+"uid":"1722005232",
+"parent":"",
+"text":"希望方舟子能挺住！",
+"mid":"yxgcqk5zh",
+"date":"2012-08-15 12:51:47"
+},
+{
+"kids":[],
+"uid":"2539979104",
+"parent":"",
+"text":"表示怀疑",
+"mid":"yxgc4sW3O",
+"date":"2012-08-15 12:50:55"
+},
+{
+"kids":[],
+"uid":"1415843815",
+"parent":"",
+"text":"关注了。转发了。希望是真的啊。",
+"mid":"yxgadw6Qk",
+"date":"2012-08-15 12:46:19"
+},
+{
+"kids":[],
+"uid":"2774603971",
+"parent":"",
+"text":"",
+"mid":"yxgadftzJ",
+"date":"2012-08-15 12:46:20"
+},
+{
+"kids":[],
+"uid":"2802416442",
+"parent":"",
+"text":"貌似方舟子去搜狐微博了额。",
+"mid":"yxg9B757V",
+"date":"2012-08-15 12:44:48"
+},
+{
+"kids":[],
+"uid":"yaoxianniuniu",
+"parent":"",
+"text":"再来一次[奥特曼][奥特曼][奥特曼]",
+"mid":"yxg9rmLnH",
+"date":"2012-08-15 12:44:25"
+},
+{
+"kids":[],
+"uid":"enningtang",
+"parent":"yxg4Shzi1",
+"text":"回复@Tom_iN_AKl_Nw: 肯定送不了的。这年头国内这些人都是大忽悠。没有公证没有监督，放个屁赚足眼球而已。",
+"mid":"yxg938NW9",
+"date":"2012-08-15 12:43:28"
+},
+{
+"kids":[],
+"uid":"621102022",
+"parent":"",
+"text":"关注了！转发了！坐等！",
+"mid":"yxg90bsCM",
+"date":"2012-08-15 12:43:19"
+},
+{
+"kids":[],
+"uid":"yaoxianniuniu",
+"parent":"yxefCuujE",
+"text":"我坐等！[嘻嘻][嘻嘻]",
+"mid":"yxg8b2wNx",
+"date":"2012-08-15 12:41:19"
+},
+{
+"kids":[],
+"uid":"1886342257",
+"parent":"",
+"text":"果断关注加转载...[嘻嘻][嘻嘻][嘻嘻]",
+"mid":"yxg7jyay6",
+"date":"2012-08-15 12:39:12"
+},
+{
+"kids":[],
+"uid":"yichengxin",
+"parent":"",
+"text":"若他第100天回来你此不是气死？哈哈！方秃子什么事都做的出来的。",
+"mid":"yxg7i6DcP",
+"date":"2012-08-15 12:39:06"
+},
+{
+"kids":[],
+"uid":"dq0202",
+"parent":"yxdSX7EMc",
+"text":"诶？以方的人品很不靠谱啊•••先关注了再说[偷笑]",
+"mid":"yxg6A2SHW",
+"date":"2012-08-15 12:37:22"
+},
+{
+"kids":[
+"yyeVxg10G",
+"yxgHycNcY",
+"yxgireFky"
+],
+"uid":"1877918551",
+"parent":"",
+"text":"转发，我等着",
+"mid":"yxg5m6a25",
+"date":"2012-08-15 12:34:22"
+},
+{
+"kids":[
+"yxgmCmXbw",
+"yxg938NW9"
+],
+"uid":"enningtang",
+"parent":"yxg3vbzQ4",
+"text":"万一IPHONE 5不出，出了个IPHONE 4SS咋办？",
+"mid":"yxg4Shzi1",
+"date":"2012-08-15 12:33:10"
+},
+{
+"kids":[],
+"uid":"2235651700",
+"parent":"",
+"text":"州子。出来吧。你是好人",
+"mid":"yxg44lEW9",
+"date":"2012-08-15 12:31:10"
+},
+{
+"kids":[
+"z5SSr3Jlw",
+"yxoEIvCsv"
+],
+"uid":"1952005677",
+"parent":"",
+"text":"啊额。",
+"mid":"yxg3Q9JbO",
+"date":"2012-08-15 12:30:38"
+},
+{
+"kids":[
+"yxg4Shzi1"
+],
+"uid":"2699240150",
+"parent":"",
+"text":"[哈哈]",
+"mid":"yxg3vbzQ4",
+"date":"2012-08-15 12:29:48"
+},
+{
+"kids":[],
+"uid":"tjuchen",
+"parent":"",
+"text":"哈哈，凑个热闹",
+"mid":"yxg2nrJ7s",
+"date":"2012-08-15 12:27:02"
+},
+{
+"kids":[],
+"uid":"hongzhe1975",
+"parent":"",
+"text":"拥护",
+"mid":"yxg14ua4u",
+"date":"2012-08-15 12:23:49"
+},
+{
+"kids":[],
+"uid":"1752081531",
+"parent":"yxcn080rd",
+"text":"赚大了！传一条！又有i5！又有草莓味！嘿嘿！",
+"mid":"yxg12pgbl",
+"date":"2012-08-15 12:23:44"
+},
+{
+"kids":[],
+"uid":"1569742245",
+"parent":"",
+"text":"凑个热闹，斗士挺住啊",
+"mid":"yxg0twO04",
+"date":"2012-08-15 12:22:21"
+},
+{
+"kids":[],
+"uid":"1026589604",
+"parent":"",
+"text":"如原因真如其所说，我感谢微博小编终于做了件好事，大快人心。方肘子的人生，就是一部狗咬狗和狗咬人的历史。狗咬狗初看新鲜，看多了烦；人被狗咬了虽然不能跟狗计较，但心里也烦。这条狗终于夹着尾巴逃走了。关门，放狗……不，先放出去这条狗，再关了它回来的门。——我表示不纯粹为了Iphone5而来。",
+"mid":"yxg0aiSWF",
+"date":"2012-08-15 12:21:33"
+},
+{
+"kids":[],
+"uid":"2671211901",
+"parent":"",
+"text":"坐等IP5",
+"mid":"yxg019jHU",
+"date":"2012-08-15 12:21:13"
+},
+{
+"kids":[
+"yxgqPhI5s"
+],
+"uid":"1864767785",
+"parent":"",
+"text":"哇 我要IPHONE 5 !!!!",
+"mid":"yxfZvw17z",
+"date":"2012-08-15 12:19:58"
+},
+{
+"kids":[
+"yxSTQCpvE"
+],
+"uid":"1741452450",
+"parent":"",
+"text":"@罗永浩可爱多 你说我能拿到手机的概率有多大？",
+"mid":"yxfYH33pa",
+"date":"2012-08-15 12:17:57"
+},
+{
+"kids":[],
+"uid":"wangzenggeng",
+"parent":"",
+"text":"[开心]，为了iphone5",
+"mid":"yxfY3qLO0",
+"date":"2012-08-15 12:16:23"
+},
+{
+"kids":[],
+"uid":"gzjackylin",
+"parent":"",
+"text":"我挺你~~",
+"mid":"yxfUGbPe3",
+"date":"2012-08-15 12:08:04"
+},
+{
+"kids":[],
+"uid":"1805939347",
+"parent":"yxfMRjH9e",
+"text":"iphone会不会不出5出个iphone S？",
+"mid":"yxfTzCdcu",
+"date":"2012-08-15 12:05:21"
+},
+{
+"kids":[],
+"uid":"v5neng",
+"parent":"",
+"text":"爱疯5！方怂怂你要挺住啊！@方舟子",
+"mid":"yxfThkIkf",
+"date":"2012-08-15 12:04:36"
+},
+{
+"kids":[],
+"uid":"2611892687",
+"parent":"",
+"text":"拜拜",
+"mid":"yxfRuu8Oy",
+"date":"2012-08-15 12:00:11"
+},
+{
+"kids":[],
+"uid":"1738956884",
+"parent":"yxfuCrD2j",
+"text":"方舟子成大家的广告载体了呵呵",
+"mid":"yxfPR8O7O",
+"date":"2012-08-15 11:56:10"
+},
+{
+"kids":[],
+"uid":"vikki1399992155yi",
+"parent":"yxfwfw2WA",
+"text":"",
+"mid":"yxfP0yrAY",
+"date":"2012-08-15 11:54:06"
+},
+{
+"kids":[],
+"uid":"2393579315",
+"parent":"yxfMAsSNM",
+"text":"@逄瑞:  打假斗士@方舟子 因不满新浪微博未处理对其人身攻击的用户，宣布今日起停止在新浪微博的更新，如果方舟子能坚持99天不在新浪微博更新(即三个月)凡关注我并转发本条微博者，我将免费赠送每人一台Iphone5，即每个关注我并转发的人都有一台，绝无任何文字游戏。",
+"mid":"yxfOZoSVg",
+"date":"2012-08-15 11:54:03"
+},
+{
+"kids":[],
+"uid":"208100051",
+"parent":"",
+"text":"@逄瑞，这是较真呢，还是一次营销手段？",
+"mid":"yxfNzkH83",
+"date":"2012-08-15 11:50:33"
+},
+{
+"kids":[],
+"uid":"1752036842",
+"parent":"",
+"text":"",
+"mid":"yxfNg9RBg",
+"date":"2012-08-15 11:49:46"
+},
+{
+"kids":[
+"yxfTzCdcu"
+],
+"uid":"yukikazesw",
+"parent":"yxfDskI9t",
+"text":"我强烈拥护方舟子的决定！",
+"mid":"yxfMRjH9e",
+"date":"2012-08-15 11:48:48"
+},
+{
+"kids":[
+"yxfOZoSVg"
+],
+"uid":"zhouqun512",
+"parent":"",
+"text":"这个可以有。[偷笑]",
+"mid":"yxfMAsSNM",
+"date":"2012-08-15 11:48:07"
+},
+{
+"kids":[],
+"uid":"2942913834",
+"parent":"",
+"text":"关注过了吧",
+"mid":"yxfM2c3bV",
+"date":"2012-08-15 11:46:45"
+},
+{
+"kids":[],
+"uid":"2942913834",
+"parent":"",
+"text":"真的假的",
+"mid":"yxfKVD34C",
+"date":"2012-08-15 11:44:03"
+},
+{
+"kids":[],
+"uid":"2303735203",
+"parent":"",
+"text":"",
+"mid":"yxfKRt9xA",
+"date":"2012-08-15 11:43:53"
+},
+{
+"kids":[],
+"uid":"2338144187",
+"parent":"",
+"text":"看看~",
+"mid":"yxfKN53PS",
+"date":"2012-08-15 11:43:42"
+},
+{
+"kids":[],
+"uid":"1878945283",
+"parent":"",
+"text":"",
+"mid":"yxfKEdz7g",
+"date":"2012-08-15 11:43:20"
+},
+{
+"kids":[],
+"uid":"eorm",
+"parent":"",
+"text":"不得食言，否则很惨哦",
+"mid":"yxfIZFiwi",
+"date":"2012-08-15 11:39:16"
+},
+{
+"kids":[],
+"uid":"2804253430",
+"parent":"",
+"text":"靠谱哇？？？",
+"mid":"yxfIlbFJe",
+"date":"2012-08-15 11:37:40"
+},
+{
+"kids":[],
+"uid":"1282980977",
+"parent":"",
+"text":"祝方舟子在搜狐玩的开心。",
+"mid":"yxfHwncFp",
+"date":"2012-08-15 11:35:39"
+},
+{
+"kids":[],
+"uid":"1765987765",
+"parent":"",
+"text":"太v5了，我也转，强烈关注~",
+"mid":"yxfHg6lr1",
+"date":"2012-08-15 11:35:00"
+},
+{
+"kids":[
+"yxggwsPbP",
+"yxfMRjH9e"
+],
+"uid":"1848961635",
+"parent":"",
+"text":"我代替苹果全体员工谢谢方舟子",
+"mid":"yxfDskI9t",
+"date":"2012-08-15 11:25:38"
+},
+{
+"kids":[],
+"uid":"1780003613",
+"parent":"",
+"text":"有戏！方舟子回来有可能。",
+"mid":"yxfCPBBDK",
+"date":"2012-08-15 11:24:06"
+},
+{
+"kids":[],
+"uid":"1243566305",
+"parent":"",
+"text":"靠谱么？",
+"mid":"yxfBZiHxr",
+"date":"2012-08-15 11:22:01"
+},
+{
+"kids":[],
+"uid":"2862387922",
+"parent":"",
+"text":"转发",
+"mid":"yxfBDqrGd",
+"date":"2012-08-15 11:21:09"
+},
+{
+"kids":[],
+"uid":"CodeShin",
+"parent":"",
+"text":"…",
+"mid":"yxfBcgAPX",
+"date":"2012-08-15 11:20:04"
+},
+{
+"kids":[],
+"uid":"frankhe",
+"parent":"",
+"text":"又来了。不靠谱啊。",
+"mid":"yxfA6i6pZ",
+"date":"2012-08-15 11:17:22"
+},
+{
+"kids":[],
+"uid":"2098385984",
+"parent":"",
+"text":"",
+"mid":"yxfzS87B1",
+"date":"2012-08-15 11:16:46"
+},
+{
+"kids":[],
+"uid":"h515735554",
+"parent":"",
+"text":"现在流行炒作吗",
+"mid":"yxfzs7F0r",
+"date":"2012-08-15 11:15:45"
+},
+{
+"kids":[],
+"uid":"1772014123",
+"parent":"",
+"text":"这是真的么？",
+"mid":"yxfxLtS3T",
+"date":"2012-08-15 11:11:36"
+},
+{
+"kids":[],
+"uid":"cycyaac",
+"parent":"",
+"text":"",
+"mid":"yxfxClD6W",
+"date":"2012-08-15 11:11:15"
+},
+{
+"kids":[],
+"uid":"578229930",
+"parent":"yxfrWochG",
+"text":"",
+"mid":"yxfxgbLjM",
+"date":"2012-08-15 11:10:22"
+},
+{
+"kids":[],
+"uid":"2149594741",
+"parent":"",
+"text":"这个得转！",
+"mid":"yxfwFch5u",
+"date":"2012-08-15 11:08:54"
+},
+{
+"kids":[],
+"uid":"qiqichao",
+"parent":"",
+"text":"现在的人。。。。！造戏？",
+"mid":"yxfwneBxo",
+"date":"2012-08-15 11:08:11"
+},
+{
+"kids":[
+"yxfP0yrAY"
+],
+"uid":"yichengxin",
+"parent":"",
+"text":"见证！我是冲着方肘子来的。",
+"mid":"yxfwfw2WA",
+"date":"2012-08-15 11:07:53"
+},
+{
+"kids":[],
+"uid":"1992845470",
+"parent":"",
+"text":"我看好这个！",
+"mid":"yxfwavYtn",
+"date":"2012-08-15 11:07:41"
+},
+{
+"kids":[],
+"uid":"reor",
+"parent":"yxcn080rd",
+"text":"我要草莓味的~",
+"mid":"yxfuDETgo",
+"date":"2012-08-15 11:03:55"
+},
+{
+"kids":[
+"yxfPR8O7O"
+],
+"uid":"1419661303",
+"parent":"",
+"text":"倒计时开始",
+"mid":"yxfuCrD2j",
+"date":"2012-08-15 11:03:52"
+},
+{
+"kids":[],
+"uid":"leomemories",
+"parent":"",
+"text":"我估计方舟子忍不住。",
+"mid":"yxfuy06fw",
+"date":"2012-08-15 11:03:40"
+},
+{
+"kids":[],
+"uid":"1948103077",
+"parent":"",
+"text":"哦，要不我也凑个热闹?[嘻嘻]",
+"mid":"yxftD1STr",
+"date":"2012-08-15 11:01:24"
+},
+{
+"kids":[],
+"uid":"520yaoliwen",
+"parent":"yxfrWochG",
+"text":"[围观]",
+"mid":"yxfsBrHUS",
+"date":"2012-08-15 10:58:53"
+},
+{
+"kids":[
+"yxfxgbLjM",
+"yxfsBrHUS"
+],
+"uid":"529112355",
+"parent":"",
+"text":"",
+"mid":"yxfrWochG",
+"date":"2012-08-15 10:57:15"
+},
+{
+"kids":[],
+"uid":"mandylw",
+"parent":"",
+"text":"[哈哈]",
+"mid":"yxfpPv5BE",
+"date":"2012-08-15 10:52:04"
+},
+{
+"kids":[],
+"uid":"mandylw",
+"parent":"",
+"text":"转发微博。",
+"mid":"yxfp34hga",
+"date":"2012-08-15 10:50:07"
+},
+{
+"kids":[],
+"uid":"1395333545",
+"parent":"",
+"text":"期待ing。。。",
+"mid":"yxfoF7VhT",
+"date":"2012-08-15 10:49:12"
+},
+{
+"kids":[],
+"uid":"1759754227",
+"parent":"",
+"text":"[给力] 凑个热闹",
+"mid":"yxfmz5xQT",
+"date":"2012-08-15 10:43:59"
+},
+{
+"kids":[],
+"uid":"orangemylove",
+"parent":"",
+"text":"@宝贝猫咪咪",
+"mid":"yxfjbAv3y",
+"date":"2012-08-15 10:35:41"
+},
+{
+"kids":[],
+"uid":"1805618357",
+"parent":"yxeakvO9h",
+"text":"",
+"mid":"yxfivBlka",
+"date":"2012-08-15 10:34:01"
+},
+{
+"kids":[],
+"uid":"2219831130",
+"parent":"yxbfPlREG",
+"text":"也给我来一台",
+"mid":"yxfdyAOA2",
+"date":"2012-08-15 10:21:50"
+},
+{
+"kids":[],
+"uid":"2717091233",
+"parent":"",
+"text":"果断转了，看戏",
+"mid":"yxfdk9dqY",
+"date":"2012-08-15 10:21:15"
+},
+{
+"kids":[],
+"uid":"208499949",
+"parent":"",
+"text":"肘子能坚持99天我分分钟切腹",
+"mid":"yxfcte28e",
+"date":"2012-08-15 10:19:09"
+},
+{
+"kids":[],
+"uid":"2690258930",
+"parent":"",
+"text":"真的假的？",
+"mid":"yxf9GFtoj",
+"date":"2012-08-15 10:12:17"
+},
+{
+"kids":[],
+"uid":"2642175611",
+"parent":"yxf7F6FBZ",
+"text":"手机。。。",
+"mid":"yxf878zim",
+"date":"2012-08-15 10:08:25"
+},
+{
+"kids":[
+"yxf878zim"
+],
+"uid":"fss1989",
+"parent":"",
+"text":"冲手机转一个~",
+"mid":"yxf7F6FBZ",
+"date":"2012-08-15 10:07:17"
+},
+{
+"kids":[],
+"uid":"2454871504",
+"parent":"",
+"text":"我也想要手机",
+"mid":"yxf4KeFHy",
+"date":"2012-08-15 10:00:07"
+},
+{
+"kids":[],
+"uid":"2013167071",
+"parent":"yxbeXxpco",
+"text":"我觉得没戏",
+"mid":"yxf2Ozaeo",
+"date":"2012-08-15 09:55:22"
+},
+{
+"kids":[],
+"uid":"1155371622",
+"parent":"",
+"text":"正要换手机！",
+"mid":"yxf1D0dEv",
+"date":"2012-08-15 09:52:25"
+},
+{
+"kids":[],
+"uid":"2170990937",
+"parent":"",
+"text":"碰碰运气！试试看哦！希望你说得做到哦！",
+"mid":"yxf13fxXR",
+"date":"2012-08-15 09:51:01"
+},
+{
+"kids":[],
+"uid":"newball",
+"parent":"",
+"text":"希望这个不像张何那个不到一天就删除的微博一样，说是被水军攻击，要真来攻击转发估计没那么慢，早就过百万。另外说一句：方舟子一辈子别回新浪。",
+"mid":"yxf12DTTX",
+"date":"2012-08-15 09:51:00"
+},
+{
+"kids":[],
+"uid":"2170990937",
+"parent":"",
+"text":"",
+"mid":"yxeZU2kb3",
+"date":"2012-08-15 09:48:11"
+},
+{
+"kids":[],
+"uid":"cherryviki",
+"parent":"",
+"text":"微博终于清静了",
+"mid":"yxeXLEflD",
+"date":"2012-08-15 09:42:56"
+},
+{
+"kids":[],
+"uid":"sl8089",
+"parent":"yxeVfkj9W",
+"text":"给就要",
+"mid":"yxeXBjMEG",
+"date":"2012-08-15 09:42:31"
+},
+{
+"kids":[],
+"uid":"2379135810",
+"parent":"",
+"text":"说话算数",
+"mid":"yxeXfryTC",
+"date":"2012-08-15 09:41:39"
+},
+{
+"kids":[],
+"uid":"ftzzdddj",
+"parent":"",
+"text":"好期待哦 希望说到做到",
+"mid":"yxeWgxJvq",
+"date":"2012-08-15 09:39:12"
+},
+{
+"kids":[
+"yxET5s9Vp",
+"yxvZc4FMN",
+"yxeXBjMEG"
+],
+"uid":"1565968655",
+"parent":"",
+"text":"[哈哈]我宁愿不拿到",
+"mid":"yxeVfkj9W",
+"date":"2012-08-15 09:36:43"
+},
+{
+"kids":[],
+"uid":"lisawen87",
+"parent":"",
+"text":"等待、领奖",
+"mid":"yxeTIuo6u",
+"date":"2012-08-15 09:32:56"
+},
+{
+"kids":[],
+"uid":"maxnifeng",
+"parent":"",
+"text":"[转发]",
+"mid":"yxeR7rE02",
+"date":"2012-08-15 09:26:32"
+},
+{
+"kids":[],
+"uid":"1695901571",
+"parent":"",
+"text":"有意思。。。",
+"mid":"yxePHnAUU",
+"date":"2012-08-15 09:23:03"
+},
+{
+"kids":[],
+"uid":"1729105475",
+"parent":"",
+"text":"",
+"mid":"yxeP71n4d",
+"date":"2012-08-15 09:21:36"
+},
+{
+"kids":[
+"yxBJv3F5n"
+],
+"uid":"yuan100410",
+"parent":"",
+"text":"",
+"mid":"yxeNRzapH",
+"date":"2012-08-15 09:18:32"
+},
+{
+"kids":[],
+"uid":"2206853727",
+"parent":"",
+"text":"为了我们的爱疯，方舟子你要坚持啊",
+"mid":"yxeNxdAdM",
+"date":"2012-08-15 09:17:43"
+},
+{
+"kids":[],
+"uid":"1512366671",
+"parent":"",
+"text":"靠谱？！？试试吧[汗][汗]",
+"mid":"yxeNr2gCk",
+"date":"2012-08-15 09:17:27"
+},
+{
+"kids":[],
+"uid":"1849271675",
+"parent":"",
+"text":"",
+"mid":"yxeLBe5dj",
+"date":"2012-08-15 09:12:56"
+},
+{
+"kids":[],
+"uid":"2625089834",
+"parent":"",
+"text":"真的？",
+"mid":"yxeLlAEeu",
+"date":"2012-08-15 09:12:20"
+},
+{
+"kids":[],
+"uid":"2887214103",
+"parent":"",
+"text":"真心期待",
+"mid":"yxeJrpcv6",
+"date":"2012-08-15 09:07:37"
+},
+{
+"kids":[],
+"uid":"1995196045",
+"parent":"",
+"text":"呀，这么强大的小方方，也要准备撤退了？",
+"mid":"yxeJgbvbV",
+"date":"2012-08-15 09:07:10"
+},
+{
+"kids":[],
+"uid":"2292731755",
+"parent":"",
+"text":"疑点颇多：1.此IPHONE5是大家心目中的那个IPHONE5吗？2.99天不止三个月啊。。。",
+"mid":"yxeIIt1bx",
+"date":"2012-08-15 09:05:51"
+},
+{
+"kids":[],
+"uid":"1915300055",
+"parent":"yxensfXFC",
+"text":"",
+"mid":"yxeIbCswo",
+"date":"2012-08-15 09:04:33"
+},
+{
+"kids":[],
+"uid":"2137511417",
+"parent":"",
+"text":"看热闹的。",
+"mid":"yxeHCwNyF",
+"date":"2012-08-15 09:03:08"
+},
+{
+"kids":[],
+"uid":"1749612787",
+"parent":"",
+"text":"哥们,我也要啊~~~~~~~~~",
+"mid":"yxeGBz1Km",
+"date":"2012-08-15 09:00:39"
+},
+{
+"kids":[],
+"uid":"jiackie",
+"parent":"",
+"text":"不知能否兑现，方也是个老顽固啊",
+"mid":"yxeEWsRT9",
+"date":"2012-08-15 08:56:32"
+},
+{
+"kids":[],
+"uid":"1773557602",
+"parent":"",
+"text":"方舟子，有种走了就别回来。好歹挺过三个月。[哈哈]",
+"mid":"yxeDxwGgW",
+"date":"2012-08-15 08:53:06"
+},
+{
+"kids":[],
+"uid":"1598701025",
+"parent":"",
+"text":"[哈哈]",
+"mid":"yxeDm3Apx",
+"date":"2012-08-15 08:52:39"
+},
+{
+"kids":[],
+"uid":"2920274573",
+"parent":"yxbNx1AvY",
+"text":"O(∩_∩)O~",
+"mid":"yxeD9B81c",
+"date":"2012-08-15 08:52:08"
+},
+{
+"kids":[],
+"uid":"1636426422",
+"parent":"yxew3E2GG",
+"text":"啊哈  他不更新能吓到谁",
+"mid":"yxezX25gO",
+"date":"2012-08-15 08:44:15"
+},
+{
+"kids":[],
+"uid":"2281463475",
+"parent":"",
+"text":"转发",
+"mid":"yxezU4LlZ",
+"date":"2012-08-15 08:44:06"
+},
+{
+"kids":[],
+"uid":"1864906642",
+"parent":"yxbMhkNXP",
+"text":"也想要新手机",
+"mid":"yxezDhqDa",
+"date":"2012-08-15 08:43:27"
+},
+{
+"kids":[
+"yxJhMBF0F",
+"yxA2ghU2Q"
+],
+"uid":"liming11perfecthair",
+"parent":"yxdM99ABU",
+"text":"[思考]",
+"mid":"yxezycFUo",
+"date":"2012-08-15 08:43:15"
+},
+{
+"kids":[],
+"uid":"suicideman",
+"parent":"",
+"text":"",
+"mid":"yxezjac8T",
+"date":"2012-08-15 08:42:40"
+},
+{
+"kids":[],
+"uid":"1642017291",
+"parent":"",
+"text":"转 转 转 很是期待",
+"mid":"yxeyc1pJ1",
+"date":"2012-08-15 08:39:55"
+},
+{
+"kids":[
+"yxezX25gO"
+],
+"uid":"1670267622",
+"parent":"",
+"text":"虽然刚买了手机，但iphone5白送为什么不要。",
+"mid":"yxew3E2GG",
+"date":"2012-08-15 08:34:39"
+},
+{
+"kids":[],
+"uid":"lucypxx",
+"parent":"",
+"text":"转一下呗[嘻嘻]",
+"mid":"yxevKrCnC",
+"date":"2012-08-15 08:33:54"
+},
+{
+"kids":[],
+"uid":"biubiu547",
+"parent":"",
+"text":"坐等[偷笑]",
+"mid":"yxev9uiIG",
+"date":"2012-08-15 08:32:26"
+},
+{
+"kids":[],
+"uid":"1902807373",
+"parent":"yxbMhkNXP",
+"text":"转发微博。",
+"mid":"yxesHhRXd",
+"date":"2012-08-15 08:26:23"
+},
+{
+"kids":[],
+"uid":"2161552253",
+"parent":"yxamuCVww",
+"text":"真还假？",
+"mid":"yxes2v1L9",
+"date":"2012-08-15 08:24:47"
+},
+{
+"kids":[],
+"uid":"1735646823",
+"parent":"",
+"text":"尼玛，方舟子，不准回来!",
+"mid":"yxerTF8tR",
+"date":"2012-08-15 08:24:25"
+},
+{
+"kids":[],
+"uid":"2285063407",
+"parent":"yxensfXFC",
+"text":"真的么",
+"mid":"yxeqZuq9v",
+"date":"2012-08-15 08:22:10"
+},
+{
+"kids":[
+"zoLrXk9iK",
+"zoLrX3BzR"
+],
+"uid":"2822628932",
+"parent":"",
+"text":"不要食言哟",
+"mid":"yxep1d4fb",
+"date":"2012-08-15 08:17:18"
+},
+{
+"kids":[],
+"uid":"1623030522",
+"parent":"yxaXlELod",
+"text":"",
+"mid":"yxeoFBAw6",
+"date":"2012-08-15 08:16:28"
+},
+{
+"kids":[],
+"uid":"1956744835",
+"parent":"",
+"text":"",
+"mid":"yxeoF0F3X",
+"date":"2012-08-15 08:16:26"
+},
+{
+"kids":[],
+"uid":"hrcathy",
+"parent":"",
+"text":"方舟子，你可长点心吧，别回来了，网络好不容易不闹腾了。",
+"mid":"yxeovy9VO",
+"date":"2012-08-15 08:16:03"
+},
+{
+"kids":[],
+"uid":"1360350993",
+"parent":"",
+"text":"[给力][思考]",
+"mid":"yxeovhbGg",
+"date":"2012-08-15 08:16:02"
+},
+{
+"kids":[],
+"uid":"547956865",
+"parent":"yxbvuzEwV",
+"text":"同右",
+"mid":"yxenM6kd2",
+"date":"2012-08-15 08:14:15"
+},
+{
+"kids":[
+"yxeIbCswo",
+"yxeqZuq9v"
+],
+"uid":"lifengjiao",
+"parent":"yxehcAWBv",
+"text":"真的假的……必须转……祈求方舟子可以言出必行……",
+"mid":"yxensfXFC",
+"date":"2012-08-15 08:13:27"
+},
+{
+"kids":[],
+"uid":"2787920230",
+"parent":"",
+"text":"肘子，别回来了！",
+"mid":"yxelJkRSZ",
+"date":"2012-08-15 08:09:13"
+},
+{
+"kids":[],
+"uid":"andywang1026",
+"parent":"",
+"text":"俺也参加，立字为证",
+"mid":"yxelHvdPw",
+"date":"2012-08-15 08:09:09"
+},
+{
+"kids":[],
+"uid":"2483480553",
+"parent":"",
+"text":"口水战。",
+"mid":"yxekDBo6R",
+"date":"2012-08-15 08:06:32"
+},
+{
+"kids":[],
+"uid":"2559718627",
+"parent":"",
+"text":"是不真的啊？",
+"mid":"yxekAoAE6",
+"date":"2012-08-15 08:06:24"
+},
+{
+"kids":[],
+"uid":"2483480553",
+"parent":"yxbyBA2BK",
+"text":"",
+"mid":"yxekapdbl",
+"date":"2012-08-15 08:05:22"
+},
+{
+"kids":[],
+"uid":"7ing18",
+"parent":"",
+"text":"不管怎么的，肘子你千万别回来了",
+"mid":"yxejragzx",
+"date":"2012-08-15 08:03:34"
+},
+{
+"kids":[],
+"uid":"1771234297",
+"parent":"",
+"text":"呵呵…真的假的呀？方舟子你可得为广大民众创造点福利呀！这比打假好多了呀！",
+"mid":"yxejqinJX",
+"date":"2012-08-15 08:03:31"
+},
+{
+"kids":[],
+"uid":"2621837467",
+"parent":"",
+"text":"",
+"mid":"yxejkDZbC",
+"date":"2012-08-15 08:03:20"
+},
+{
+"kids":[],
+"uid":"1790172443",
+"parent":"",
+"text":"我也想要",
+"mid":"yxeiQgbIY",
+"date":"2012-08-15 08:02:06"
+},
+{
+"kids":[
+"yCizuAk5v",
+"yAW1DqCw9",
+"yAMmwyYAk",
+"yzpCVD0HN",
+"yzglbBdRc",
+"yxT8gcxnz",
+"yxensfXFC"
+],
+"uid":"qiujiying",
+"parent":"yxbnwgr4O",
+"text":"果断转，坐等iPhone",
+"mid":"yxehcAWBv",
+"date":"2012-08-15 07:58:04"
+},
+{
+"kids":[],
+"uid":"1843617012",
+"parent":"",
+"text":"跪求别回来撒～#^_^#～",
+"mid":"yxegl8QCw",
+"date":"2012-08-15 07:55:55"
+},
+{
+"kids":[
+"yxg8b2wNx"
+],
+"uid":"531793725",
+"parent":"",
+"text":"给力给力给力。[给力][给力][给力][给力][给力]",
+"mid":"yxefCuujE",
+"date":"2012-08-15 07:54:10"
+},
+{
+"kids":[],
+"uid":"2206076040",
+"parent":"",
+"text":"神奇的国度",
+"mid":"yxee2o3sV",
+"date":"2012-08-15 07:50:16"
+},
+{
+"kids":[],
+"uid":"1876101594",
+"parent":"",
+"text":"共同见证",
+"mid":"yxednyGu9",
+"date":"2012-08-15 07:48:39"
+},
+{
+"kids":[],
+"uid":"linlin20060622",
+"parent":"",
+"text":"方舟子，求求你别回来了",
+"mid":"yxed9r5NE",
+"date":"2012-08-15 07:48:05"
+},
+{
+"kids":[],
+"uid":"2805681045",
+"parent":"yxamuCVww",
+"text":"@zlt曾瑞金 [哈哈]",
+"mid":"yxecxj1JM",
+"date":"2012-08-15 07:46:34"
+},
+{
+"kids":[],
+"uid":"1203497737",
+"parent":"",
+"text":"我是冲着iphone5来的",
+"mid":"yxebSdW7c",
+"date":"2012-08-15 07:44:56"
+},
+{
+"kids":[],
+"uid":"2481531725",
+"parent":"",
+"text":"舟子就一搅棍。",
+"mid":"yxeb6FMf7",
+"date":"2012-08-15 07:43:03"
+},
+{
+"kids":[
+"yxfivBlka"
+],
+"uid":"1686550505",
+"parent":"",
+"text":"方舟子千万别回来！",
+"mid":"yxeakvO9h",
+"date":"2012-08-15 07:41:08"
+},
+{
+"kids":[],
+"uid":"2332941803",
+"parent":"",
+"text":"我拭目以待看看",
+"mid":"yxe7OcCQL",
+"date":"2012-08-15 07:34:55"
+},
+{
+"kids":[],
+"uid":"1939954373",
+"parent":"",
+"text":"",
+"mid":"yxe5PwiBD",
+"date":"2012-08-15 07:30:02"
+},
+{
+"kids":[],
+"uid":"2231827264",
+"parent":"",
+"text":"爱疯5.。。。。。。",
+"mid":"yxe59kcMO",
+"date":"2012-08-15 07:28:21"
+},
+{
+"kids":[],
+"uid":"1841600223",
+"parent":"",
+"text":"好的。坐等来一台！",
+"mid":"yxe3A3o1s",
+"date":"2012-08-15 07:24:30"
+},
+{
+"kids":[],
+"uid":"1422950605",
+"parent":"",
+"text":"确认是五?",
+"mid":"yxe247192",
+"date":"2012-08-15 07:20:46"
+},
+{
+"kids":[],
+"uid":"1854593652",
+"parent":"",
+"text":"我倒是来看看他能不能消停会儿~",
+"mid":"yxe0Rn1ZN",
+"date":"2012-08-15 07:17:47"
+},
+{
+"kids":[
+"yxg6A2SHW"
+],
+"uid":"myeverfirstlove",
+"parent":"",
+"text":"2个原因，关注转发[嘻嘻]",
+"mid":"yxdSX7EMc",
+"date":"2012-08-15 06:58:18"
+},
+{
+"kids":[],
+"uid":"2165687737",
+"parent":"yxbXB8NlF",
+"text":"估计他憋不住",
+"mid":"yxdQj713d",
+"date":"2012-08-15 06:51:48"
+},
+{
+"kids":[],
+"uid":"2015129663",
+"parent":"",
+"text":"就冲这5来的[哈哈][哈哈][哈哈]",
+"mid":"yxdNg02Zm",
+"date":"2012-08-15 06:44:16"
+},
+{
+"kids":[],
+"uid":"2282722180",
+"parent":"",
+"text":"感谢阿姨",
+"mid":"yxdMYgMdq",
+"date":"2012-08-15 06:43:35"
+},
+{
+"kids":[
+"yxezycFUo"
+],
+"uid":"1310148600",
+"parent":"",
+"text":"转发微博。",
+"mid":"yxdM99ABU",
+"date":"2012-08-15 06:41:33"
+},
+{
+"kids":[],
+"uid":"fantasyoolove",
+"parent":"",
+"text":"",
+"mid":"yxdLiAAXf",
+"date":"2012-08-15 06:39:28"
+},
+{
+"kids":[],
+"uid":"1874241817",
+"parent":"",
+"text":"",
+"mid":"yxdESgQjg",
+"date":"2012-08-15 06:23:38"
+},
+{
+"kids":[],
+"uid":"klugxin",
+"parent":"yxcSVBd1W",
+"text":"恩？这个比金牌榜靠谱。。",
+"mid":"yxdySeYDt",
+"date":"2012-08-15 06:08:50"
+},
+{
+"kids":[],
+"uid":"2286931230",
+"parent":"",
+"text":"已截图，已转发",
+"mid":"yxdybFGuo",
+"date":"2012-08-15 06:07:10"
+},
+{
+"kids":[
+"yxhjqb09e"
+],
+"uid":"2058431945",
+"parent":"",
+"text":"愿意",
+"mid":"yxdno5brs",
+"date":"2012-08-15 05:40:33"
+},
+{
+"kids":[],
+"uid":"1312570221",
+"parent":"",
+"text":"非要憋死他...",
+"mid":"yxdla7y9x",
+"date":"2012-08-15 05:35:03"
+},
+{
+"kids":[],
+"uid":"1150520355",
+"parent":"",
+"text":"无",
+"mid":"yxdbf8Lox",
+"date":"2012-08-15 05:10:38"
+},
+{
+"kids":[],
+"uid":"212789662",
+"parent":"",
+"text":"码。并造福我的朋友们。",
+"mid":"yxcWphzEb",
+"date":"2012-08-15 04:34:05"
+},
+{
+"kids":[],
+"uid":"zhuandaliumang",
+"parent":"",
+"text":"估计一定能拿到了[偷笑]",
+"mid":"yxcUd5YvU",
+"date":"2012-08-15 04:28:40"
+},
+{
+"kids":[
+"yxdySeYDt"
+],
+"uid":"fritzzhang",
+"parent":"",
+"text":"。。。。我是来求电话的。。。",
+"mid":"yxcSVBd1W",
+"date":"2012-08-15 04:25:31"
+},
+{
+"kids":[],
+"uid":"1639449917",
+"parent":"",
+"text":"",
+"mid":"yxcQ2ug2a",
+"date":"2012-08-15 04:18:24"
+},
+{
+"kids":[],
+"uid":"1849895782",
+"parent":"yxbTXEdKP",
+"text":"[挖鼻屎]来，截图。[挖鼻屎]",
+"mid":"yxcOzxhkR",
+"date":"2012-08-15 04:14:47"
+},
+{
+"kids":[],
+"uid":"2607910711",
+"parent":"",
+"text":"关注，转发",
+"mid":"yxcN3vi2V",
+"date":"2012-08-15 04:11:03"
+},
+{
+"kids":[],
+"uid":"230310121",
+"parent":"",
+"text":"如果百天以内方舟子意外死亡呢？",
+"mid":"yxcJeflV3",
+"date":"2012-08-15 04:01:37"
+},
+{
+"kids":[],
+"uid":"loveeyou",
+"parent":"",
+"text":"[围观]",
+"mid":"yxcH24Qcu",
+"date":"2012-08-15 03:56:11"
+},
+{
+"kids":[],
+"uid":"2689093132",
+"parent":"yxcn080rd",
+"text":"为了优酸乳",
+"mid":"yxcx2psjC",
+"date":"2012-08-15 03:31:34"
+},
+{
+"kids":[],
+"uid":"mini12282004",
+"parent":"",
+"text":"立此存证",
+"mid":"yxcuM1FiE",
+"date":"2012-08-15 03:26:00"
+},
+{
+"kids":[],
+"uid":"1587537893",
+"parent":"",
+"text":"很给力呦~",
+"mid":"yxcnlCwWT",
+"date":"2012-08-15 03:07:42"
+},
+{
+"kids":[
+"yxgdBl2RG",
+"yxg12pgbl",
+"yxfuDETgo",
+"yxcx2psjC"
+],
+"uid":"328310535",
+"parent":"yxcjsdpf5",
+"text":"等我出单行本就：如果单行本三个月内销量达到一百万册，我将送任何转发这条微博的人一盒伊利优酸乳（草莓味前1000名）。",
+"mid":"yxcn080rd",
+"date":"2012-08-15 03:06:51"
+},
+{
+"kids":[
+"yxcn080rd"
+],
+"uid":"yukisola",
+"parent":"",
+"text":"虽然下一代并不一定叫Iphone5...不过肘子你还是别回来了...",
+"mid":"yxcjsdpf5",
+"date":"2012-08-15 02:58:07"
+},
+{
+"kids":[],
+"uid":"2820634412",
+"parent":"yxbyBA2BK",
+"text":"",
+"mid":"yxccJ2tat",
+"date":"2012-08-15 02:41:31"
+},
+{
+"kids":[],
+"uid":"2606974617",
+"parent":"",
+"text":"君子一言",
+"mid":"yxccceWgP",
+"date":"2012-08-15 02:40:14"
+},
+{
+"kids":[],
+"uid":"1993453047",
+"parent":"",
+"text":"4s....",
+"mid":"yxc8Sgp83",
+"date":"2012-08-15 02:32:03"
+},
+{
+"kids":[],
+"uid":"1889282022",
+"parent":"",
+"text":"你这是变相帮他炒作吧？！这世界没了谁地球照样转，而且转得很正常。",
+"mid":"yxc6ufgiq",
+"date":"2012-08-15 02:26:09"
+},
+{
+"kids":[],
+"uid":"sindiana",
+"parent":"",
+"text":"虽然我觉得希望渺茫……",
+"mid":"yxc6tid9a",
+"date":"2012-08-15 02:26:08"
+},
+{
+"kids":[],
+"uid":"worldzhang",
+"parent":"",
+"text":"我相信方舟子会坚持过99天的，那时IP5也出来了，你怎么？",
+"mid":"yxc63hYKq",
+"date":"2012-08-15 02:25:06"
+},
+{
+"kids":[],
+"uid":"1914148534",
+"parent":"",
+"text":"已经关注，已经转发",
+"mid":"yxbZjusuX",
+"date":"2012-08-15 02:08:30"
+},
+{
+"kids":[],
+"uid":"2732059403",
+"parent":"yxa29aPUR",
+"text":"转了",
+"mid":"yxbYtdpUX",
+"date":"2012-08-15 02:06:24"
+},
+{
+"kids":[],
+"uid":"guochen0923",
+"parent":"",
+"text":"立此存证。",
+"mid":"yxbYou7lG",
+"date":"2012-08-15 02:06:13"
+},
+{
+"kids":[
+"yxdQj713d"
+],
+"uid":"ixulidan",
+"parent":"",
+"text":"方舟子别回来了，你要不回来我们净得两部爱疯[钱]",
+"mid":"yxbXB8NlF",
+"date":"2012-08-15 02:04:16"
+},
+{
+"kids":[
+"yxcOzxhkR"
+],
+"uid":"2076883261",
+"parent":"",
+"text":"你们就逼他吧，小方，你先别出来哈，等100天再出来。",
+"mid":"yxbTXEdKP",
+"date":"2012-08-15 01:55:19"
+},
+{
+"kids":[],
+"uid":"chezluna",
+"parent":"",
+"text":"继续希望@方舟子 老湿能给力 [哈哈]",
+"mid":"yxbQH00Gt",
+"date":"2012-08-15 01:47:15"
+},
+{
+"kids":[],
+"uid":"1704077605",
+"parent":"",
+"text":"",
+"mid":"yxbQgkLpC",
+"date":"2012-08-15 01:46:12"
+},
+{
+"kids":[],
+"uid":"everybodylovebruno",
+"parent":"",
+"text":"我可转了，方肘子要是敢提前回来估计会被人喷死…",
+"mid":"yxbPY4UI6",
+"date":"2012-08-15 01:45:28"
+},
+{
+"kids":[
+"yxeD9B81c"
+],
+"uid":"311300068",
+"parent":"",
+"text":"@讨厌废话多的人",
+"mid":"yxbNx1AvY",
+"date":"2012-08-15 01:39:28"
+},
+{
+"kids":[],
+"uid":"2320413023",
+"parent":"yxbJFpLwP",
+"text":"",
+"mid":"yxbMpjxHp",
+"date":"2012-08-15 01:36:41"
+},
+{
+"kids":[
+"yxezDhqDa",
+"yxesHhRXd"
+],
+"uid":"1828576355",
+"parent":"",
+"text":"@方舟子 ，求你了，我想换手机啊。[偷笑]",
+"mid":"yxbMhkNXP",
+"date":"2012-08-15 01:36:23"
+},
+{
+"kids":[],
+"uid":"1704077605",
+"parent":"",
+"text":"支持",
+"mid":"yxbKUtPWO",
+"date":"2012-08-15 01:33:01"
+},
+{
+"kids":[],
+"uid":"2373297131",
+"parent":"",
+"text":"！",
+"mid":"yxbJS4RhM",
+"date":"2012-08-15 01:30:27"
+},
+{
+"kids":[
+"yxgiJyroD",
+"yxbMpjxHp"
+],
+"uid":"nizhiyu",
+"parent":"yxbDyj4HZ",
+"text":"坐等iphone，感觉有点假",
+"mid":"yxbJFpLwP",
+"date":"2012-08-15 01:29:57"
+},
+{
+"kids":[],
+"uid":"2139885665",
+"parent":"",
+"text":"",
+"mid":"yxbJhtauI",
+"date":"2012-08-15 01:29:00"
+},
+{
+"kids":[],
+"uid":"1735306315",
+"parent":"",
+"text":"",
+"mid":"yxbIsDnlS",
+"date":"2012-08-15 01:26:59"
+},
+{
+"kids":[],
+"uid":"1848385530",
+"parent":"yxbGqcapC",
+"text":"转发微博。",
+"mid":"yxbIm9w6v",
+"date":"2012-08-15 01:26:43"
+},
+{
+"kids":[],
+"uid":"1934878764",
+"parent":"",
+"text":"",
+"mid":"yxbIe7XgI",
+"date":"2012-08-15 01:26:24"
+},
+{
+"kids":[],
+"uid":"1769051833",
+"parent":"",
+"text":"謝謝·啊！！",
+"mid":"yxbHcASVn",
+"date":"2012-08-15 01:23:53"
+},
+{
+"kids":[],
+"uid":"712360015",
+"parent":"",
+"text":"",
+"mid":"yxbH0cW9U",
+"date":"2012-08-15 01:23:23"
+},
+{
+"kids":[
+"yxbIm9w6v"
+],
+"uid":"fjj910504",
+"parent":"",
+"text":"如果是发了私密微博呢?",
+"mid":"yxbGqcapC",
+"date":"2012-08-15 01:21:57"
+},
+{
+"kids":[
+"z3cQ2woJG",
+"z33hCyseA",
+"z33hCysdj",
+"z2ishiARs",
+"z23Xoknh6",
+"z23XojhjV",
+"z1gxMx7jF",
+"z1eM9mecP",
+"z1eM9kzQP"
+],
+"uid":"2875642664",
+"parent":"",
+"text":"真的",
+"mid":"yxbFdq5YE",
+"date":"2012-08-15 01:18:59"
+},
+{
+"kids":[],
+"uid":"yyangsoochow",
+"parent":"",
+"text":"1.瞧不上方舟子；2.有贪念啊，勿怪勿怪。",
+"mid":"yxbF3ExV5",
+"date":"2012-08-15 01:18:36"
+},
+{
+"kids":[
+"yxbJFpLwP"
+],
+"uid":"1861314462",
+"parent":"",
+"text":"个人觉得方舟子忍不住的",
+"mid":"yxbDyj4HZ",
+"date":"2012-08-15 01:14:53"
+},
+{
+"kids":[],
+"uid":"736655716",
+"parent":"",
+"text":"",
+"mid":"yxbDnlB4n",
+"date":"2012-08-15 01:14:27"
+},
+{
+"kids":[],
+"uid":"2516056505",
+"parent":"",
+"text":"不用钱的，干嘛不赌次[偷笑]",
+"mid":"yxbBMo6XU",
+"date":"2012-08-15 01:10:31"
+},
+{
+"kids":[],
+"uid":"nizhiyu",
+"parent":"",
+"text":"但愿不是骗子",
+"mid":"yxbBrFq28",
+"date":"2012-08-15 01:09:42"
+},
+{
+"kids":[
+"yxekapdbl",
+"yxccJ2tat"
+],
+"uid":"2753747173",
+"parent":"",
+"text":"[衰]现在这种悬赏的越来越多了，真不知道是好事坏事！",
+"mid":"yxbyBA2BK",
+"date":"2012-08-15 01:02:41"
+},
+{
+"kids":[],
+"uid":"1957550600",
+"parent":"yxaIytYc6",
+"text":"有点意思！",
+"mid":"yxbxviRUk",
+"date":"2012-08-15 00:59:59"
+},
+{
+"kids":[],
+"uid":"2676998407",
+"parent":"",
+"text":"",
+"mid":"yxbxgeB8q",
+"date":"2012-08-15 00:59:23"
+},
+{
+"kids":[],
+"uid":"ryanherzog",
+"parent":"",
+"text":"轉發微博。",
+"mid":"yxbwB8EBH",
+"date":"2012-08-15 00:57:45"
+},
+{
+"kids":[
+"yxenM6kd2"
+],
+"uid":"1253583712",
+"parent":"yxb2MgZLz",
+"text":"同右。三个月？还是自己攒钱买爱疯5吧。教主在搜狐寂寞了很快会回来的，我相信他的人品。",
+"mid":"yxbvuzEwV",
+"date":"2012-08-15 00:55:01"
+},
+{
+"kids":[],
+"uid":"denniszym",
+"parent":"yxb1d4GCp",
+"text":"为了iphone5",
+"mid":"yxbvb73eY",
+"date":"2012-08-15 00:54:12"
+},
+{
+"kids":[],
+"uid":"junbaibai",
+"parent":"",
+"text":"他坚持不了的！肘子就一跳梁小丑！",
+"mid":"yxbtHdyc4",
+"date":"2012-08-15 00:50:36"
+},
+{
+"kids":[],
+"uid":"536887123",
+"parent":"",
+"text":"@方舟子 你做好事的机会来了…",
+"mid":"yxbsTwdqj",
+"date":"2012-08-15 00:48:38"
+},
+{
+"kids":[],
+"uid":"gameofdream",
+"parent":"",
+"text":"转起，这个可以有！@花花妖",
+"mid":"yxbsK8uFA",
+"date":"2012-08-15 00:48:14"
+},
+{
+"kids":[],
+"uid":"2709738537",
+"parent":"",
+"text":"@方舟子 教主您一定要守信啊，我的iphone5就靠您了，千万别回来！！！",
+"mid":"yxbsnEDUa",
+"date":"2012-08-15 00:47:19"
+},
+{
+"kids":[],
+"uid":"atjxd",
+"parent":"",
+"text":"最爱微博很热闹",
+"mid":"yxbnGi8DI",
+"date":"2012-08-15 00:35:46"
+},
+{
+"kids":[
+"yxehcAWBv"
+],
+"uid":"atjxd",
+"parent":"",
+"text":"这都怎么了？",
+"mid":"yxbnwgr4O",
+"date":"2012-08-15 00:35:19"
+},
+{
+"kids":[],
+"uid":"1762697762",
+"parent":"",
+"text":"不稀饭肘子，哇咔咔，他终于走了",
+"mid":"yxblE7Ivv",
+"date":"2012-08-15 00:30:43"
+},
+{
+"kids":[],
+"uid":"1893182724",
+"parent":"",
+"text":"果断参与！",
+"mid":"yxbl2i5fK",
+"date":"2012-08-15 00:29:15"
+},
+{
+"kids":[],
+"uid":"2230974845",
+"parent":"",
+"text":"相信你很快也要被禁言了@逄瑞 @何兵",
+"mid":"yxbkzmmiv",
+"date":"2012-08-15 00:28:07"
+},
+{
+"kids":[],
+"uid":"138365668",
+"parent":"",
+"text":"",
+"mid":"yxbkgFGsW",
+"date":"2012-08-15 00:27:24"
+},
+{
+"kids":[],
+"uid":"52005221",
+"parent":"",
+"text":"等iphone5，君子一言阿'",
+"mid":"yxbjMiPaO",
+"date":"2012-08-15 00:26:07"
+},
+{
+"kids":[],
+"uid":"52005221",
+"parent":"",
+"text":"转发微博。",
+"mid":"yxbiZxYDI",
+"date":"2012-08-15 00:24:11"
+},
+{
+"kids":[],
+"uid":"910291117",
+"parent":"yxb4Rn1pO",
+"text":"方舟子，这次要信守承诺，虽然不带靠谱，还是抱着感恩的心参加一下吧~~~[得意地笑]",
+"mid":"yxbgGtL6U",
+"date":"2012-08-15 00:18:33"
+},
+{
+"kids":[],
+"uid":"momoshen524",
+"parent":"",
+"text":"昨天4S，今天5。果断转发。肘子千万别回来",
+"mid":"yxbfXjDle",
+"date":"2012-08-15 00:16:45"
+},
+{
+"kids":[
+"yxfdyAOA2"
+],
+"uid":"2230974845",
+"parent":"",
+"text":"又一台IPHONE拿到手软@peterliu0395 @skyliang0610",
+"mid":"yxbfPlREG",
+"date":"2012-08-15 00:16:26"
+},
+{
+"kids":[],
+"uid":"1613844945",
+"parent":"",
+"text":"不管真假，试试总没错，哈哈",
+"mid":"yxbfor7WL",
+"date":"2012-08-15 00:15:22"
+},
+{
+"kids":[
+"yxf2Ozaeo"
+],
+"uid":"1626372390",
+"parent":"",
+"text":"开盘了开盘了",
+"mid":"yxbeXxpco",
+"date":"2012-08-15 00:14:15"
+},
+{
+"kids":[],
+"uid":"1915406335",
+"parent":"",
+"text":"坐等消息、 好好耐住啊~~~[奥特曼][奥特曼]",
+"mid":"yxbdxaebY",
+"date":"2012-08-15 00:10:47"
+},
+{
+"kids":[],
+"uid":"feishanshan",
+"parent":"",
+"text":"坐等。转。方舟子要给力啊啊~！",
+"mid":"yxbbOeqUM",
+"date":"2012-08-15 00:06:32"
+},
+{
+"kids":[],
+"uid":"laopengpe",
+"parent":"yxb6ljatR",
+"text":"@刘春 加油啊",
+"mid":"yxbbpoNWz",
+"date":"2012-08-15 00:05:31"
+},
+{
+"kids":[],
+"uid":"crchang",
+"parent":"",
+"text":"方舟子快D来打假吧~[偷笑][挖鼻屎]",
+"mid":"yxb9VvRnq",
+"date":"2012-08-15 00:01:52"
+},
+{
+"kids":[],
+"uid":"imywa",
+"parent":"",
+"text":"算了，再被你们骗一次。",
+"mid":"yxb9PiEqg",
+"date":"2012-08-15 00:01:39"
+},
+{
+"kids":[],
+"uid":"renzhitian",
+"parent":"",
+"text":"",
+"mid":"yxb8XcpFz",
+"date":"2012-08-14 23:59:26"
+},
+{
+"kids":[],
+"uid":"1883644617",
+"parent":"",
+"text":"我的Iphone5[哈哈]",
+"mid":"yxb7KaxFI",
+"date":"2012-08-14 23:56:32"
+},
+{
+"kids":[],
+"uid":"2678662775",
+"parent":"",
+"text":"坐等",
+"mid":"yxb7HwKbC",
+"date":"2012-08-14 23:56:25"
+},
+{
+"kids":[],
+"uid":"bantujjj",
+"parent":"",
+"text":"",
+"mid":"yxb6WxaOU",
+"date":"2012-08-14 23:54:32"
+},
+{
+"kids":[],
+"uid":"1611226437",
+"parent":"",
+"text":"转发 坐等看戏",
+"mid":"yxb6Cqwii",
+"date":"2012-08-14 23:53:45"
+},
+{
+"kids":[
+"yxbbpoNWz"
+],
+"uid":"kimi1018",
+"parent":"",
+"text":"这个打赌有点意思",
+"mid":"yxb6ljatR",
+"date":"2012-08-14 23:53:05"
+},
+{
+"kids":[],
+"uid":"feicideyu",
+"parent":"",
+"text":"看情况我能得奖",
+"mid":"yxb61vNP3",
+"date":"2012-08-14 23:52:17"
+},
+{
+"kids":[],
+"uid":"277286017",
+"parent":"",
+"text":"来来来，，，求好运……",
+"mid":"yxb5w8OD6",
+"date":"2012-08-14 23:50:59"
+},
+{
+"kids":[],
+"uid":"2083544435",
+"parent":"",
+"text":"我也转啊",
+"mid":"yxb5ocALX",
+"date":"2012-08-14 23:50:43"
+},
+{
+"kids":[],
+"uid":"1287132684",
+"parent":"",
+"text":"不管你信不信，我信啦！",
+"mid":"yxb5lwQzh",
+"date":"2012-08-14 23:50:37"
+},
+{
+"kids":[
+"yDN6GwH3u",
+"yxbgGtL6U"
+],
+"uid":"910291117",
+"parent":"",
+"text":"方子周，是爷们就别刷微博！！！！！！！！！！[lt阴险]",
+"mid":"yxb4Rn1pO",
+"date":"2012-08-14 23:49:25"
+},
+{
+"kids":[],
+"uid":"1905410650",
+"parent":"",
+"text":"等爱疯5？等删Weibo",
+"mid":"yxb4j6WJX",
+"date":"2012-08-14 23:48:03"
+},
+{
+"kids":[],
+"uid":"209909902",
+"parent":"",
+"text":"我也不信，不过万一他挂了呢[偷笑]",
+"mid":"yxb3RBgR1",
+"date":"2012-08-14 23:46:58"
+},
+{
+"kids":[],
+"uid":"ankasula",
+"parent":"",
+"text":"3个月没肘子吃，@顾燕高 来玩",
+"mid":"yxb3G6xcL",
+"date":"2012-08-14 23:46:30"
+},
+{
+"kids":[],
+"uid":"1499120121",
+"parent":"",
+"text":"转发——必须地！",
+"mid":"yxb3j3Amj",
+"date":"2012-08-14 23:45:35"
+},
+{
+"kids":[],
+"uid":"maomaojun00",
+"parent":"",
+"text":"虽然觉得 @方舟子 会真的离开新浪不太可信..他就不是个守诺之人....但还是要转发下这个给力私人活动..哈哈!!",
+"mid":"yxb3h1mS1",
+"date":"2012-08-14 23:45:31"
+},
+{
+"kids":[],
+"uid":"2879709760",
+"parent":"",
+"text":"[good]",
+"mid":"yxb2Su3Et",
+"date":"2012-08-14 23:44:29"
+},
+{
+"kids":[
+"yxbvuzEwV"
+],
+"uid":"1390962703",
+"parent":"yxb1JhwJY",
+"text":"同右，这招倒是能诓来好多粉丝",
+"mid":"yxb2MgZLz",
+"date":"2012-08-14 23:44:17"
+},
+{
+"kids":[],
+"uid":"1622164742",
+"parent":"",
+"text":"",
+"mid":"yxb2pxhl5",
+"date":"2012-08-14 23:43:19"
+},
+{
+"kids":[],
+"uid":"vivianq2011",
+"parent":"",
+"text":"转你，那什么张何已经吓的删帖不停的拉黑了，看你会怎样[嘻嘻]",
+"mid":"yxb1KrEet",
+"date":"2012-08-14 23:41:41"
+},
+{
+"kids":[
+"yxb2MgZLz"
+],
+"uid":"1691109385",
+"parent":"",
+"text":"我觉得方舟子这人品肯定还是会回来的，你这99天时间太长了。",
+"mid":"yxb1JhwJY",
+"date":"2012-08-14 23:41:41"
+},
+{
+"kids":[],
+"uid":"2469375783",
+"parent":"",
+"text":"",
+"mid":"yxb1yBmm5",
+"date":"2012-08-14 23:41:18"
+},
+{
+"kids":[
+"yxbvb73eY"
+],
+"uid":"1880754552",
+"parent":"",
+"text":"不会真的吧",
+"mid":"yxb1d4GCp",
+"date":"2012-08-14 23:40:25"
+},
+{
+"kids":[],
+"uid":"1743335912",
+"parent":"",
+"text":"看看是不是真的",
+"mid":"yxb0D0boh",
+"date":"2012-08-14 23:38:59"
+},
+{
+"kids":[],
+"uid":"1743335912",
+"parent":"",
+"text":"",
+"mid":"yxb0vAEm7",
+"date":"2012-08-14 23:38:42"
+},
+{
+"kids":[],
+"uid":"942340299",
+"parent":"",
+"text":"不会是真的吧，哈",
+"mid":"yxaZVhGT7",
+"date":"2012-08-14 23:37:14"
+},
+{
+"kids":[],
+"uid":"1092008142",
+"parent":"",
+"text":"等iPhone5",
+"mid":"yxaZttYr1",
+"date":"2012-08-14 23:36:06"
+},
+{
+"kids":[
+"z6o0z7l1F",
+"z6lDhwx69"
+],
+"uid":"2517362234",
+"parent":"",
+"text":"已关注转发，你懂得@阿鸿CAU",
+"mid":"yxaZ18PLj",
+"date":"2012-08-14 23:34:59"
+},
+{
+"kids":[],
+"uid":"2434685112",
+"parent":"",
+"text":"方舟子坚持住别回来呀",
+"mid":"yxaXQ7g1X",
+"date":"2012-08-14 23:32:06"
+},
+{
+"kids":[
+"yxeoFBAw6"
+],
+"uid":"1077609281",
+"parent":"",
+"text":"我再mark一个。[抓狂]",
+"mid":"yxaXlELod",
+"date":"2012-08-14 23:30:55"
+},
+{
+"kids":[],
+"uid":"206680008",
+"parent":"",
+"text":"肘子会不会突然回来？哈哈",
+"mid":"yxaWb2yZo",
+"date":"2012-08-14 23:28:01"
+},
+{
+"kids":[],
+"uid":"1708944997",
+"parent":"",
+"text":"等着你的iphone哟…支持你",
+"mid":"yxaQztchc",
+"date":"2012-08-14 23:14:10"
+},
+{
+"kids":[],
+"uid":"artbin",
+"parent":"",
+"text":"Iphone5 我也想要，可还没有出世！如果@方舟子 在99天里回来新浪微博，我想有很多人会去买一块砖头把他拍死，包括转发此微博的每一个人！！！ 让你了解@方舟子 到底是一个什么样的人，http:",
+"mid":"yxaQbAypN",
+"date":"2012-08-14 23:13:12"
+},
+{
+"kids":[],
+"uid":"1708944997",
+"parent":"",
+"text":"",
+"mid":"yxaPLzy01",
+"date":"2012-08-14 23:12:14"
+},
+{
+"kids":[],
+"uid":"1751609031",
+"parent":"",
+"text":"就看方舟子的了",
+"mid":"yxaK9tFY3",
+"date":"2012-08-14 22:58:21"
+},
+{
+"kids":[
+"yxbxviRUk"
+],
+"uid":"getecho",
+"parent":"",
+"text":"哥，偶也陪乃玩一次吧。",
+"mid":"yxaIytYc6",
+"date":"2012-08-14 22:54:27"
+},
+{
+"kids":[],
+"uid":"2565772473",
+"parent":"",
+"text":"[奥特曼]",
+"mid":"yxaH63jBJ",
+"date":"2012-08-14 22:50:52"
+},
+{
+"kids":[],
+"uid":"2291358010",
+"parent":"",
+"text":"方肘子要坚挺呀！偶滴水果机就指望乃辣！",
+"mid":"yxaAWB4E5",
+"date":"2012-08-14 22:35:40"
+},
+{
+"kids":[],
+"uid":"2012268140",
+"parent":"",
+"text":"蛤蛤蛤蛤，我仿佛看到了我们医院的影子。。。",
+"mid":"yxaAKtZr7",
+"date":"2012-08-14 22:35:13"
+},
+{
+"kids":[],
+"uid":"2000378031",
+"parent":"",
+"text":"不知道",
+"mid":"yxazdDFtb",
+"date":"2012-08-14 22:31:28"
+},
+{
+"kids":[],
+"uid":"1684588617",
+"parent":"",
+"text":"张何删微博，看楼主你了。",
+"mid":"yxaxznTwF",
+"date":"2012-08-14 22:27:24"
+},
+{
+"kids":[],
+"uid":"1939954373",
+"parent":"",
+"text":"",
+"mid":"yxawphqws",
+"date":"2012-08-14 22:24:30"
+},
+{
+"kids":[],
+"uid":"2291358010",
+"parent":"",
+"text":"坐等领奖…",
+"mid":"yxawgpYxR",
+"date":"2012-08-14 22:24:11"
+},
+{
+"kids":[],
+"uid":"2454824094",
+"parent":"",
+"text":"10万个人的话就要5个亿，博主这么有实力？anyway，转了关注了",
+"mid":"yxauOB0S7",
+"date":"2012-08-14 22:20:34"
+},
+{
+"kids":[],
+"uid":"1400057224",
+"parent":"yxakBEoqh",
+"text":"哈哈 赌一把",
+"mid":"yxaufFsIT",
+"date":"2012-08-14 22:19:10"
+},
+{
+"kids":[],
+"uid":"1975545881",
+"parent":"",
+"text":"等结果哦~~",
+"mid":"yxasbtkHb",
+"date":"2012-08-14 22:14:08"
+},
+{
+"kids":[],
+"uid":"201269736",
+"parent":"",
+"text":"让我们拭目以待！",
+"mid":"yxarLuOLm",
+"date":"2012-08-14 22:13:06"
+},
+{
+"kids":[],
+"uid":"xiaohongcau",
+"parent":"",
+"text":"哈哈",
+"mid":"yxapzyp73",
+"date":"2012-08-14 22:07:39"
+},
+{
+"kids":[],
+"uid":"cauhan",
+"parent":"",
+"text":"看看方舟子这货能做回好事不！",
+"mid":"yxaoljuUg",
+"date":"2012-08-14 22:04:37"
+},
+{
+"kids":[],
+"uid":"2287908661",
+"parent":"yxamuCVww",
+"text":"宁可信其有，绝不信其无！",
+"mid":"yxanLfp6P",
+"date":"2012-08-14 22:03:15"
+},
+{
+"kids":[
+"yxes2v1L9",
+"yxecxj1JM",
+"yxanLfp6P"
+],
+"uid":"zhengzhongbo",
+"parent":"",
+"text":"等3个月，领奖。[嘻嘻]",
+"mid":"yxamuCVww",
+"date":"2012-08-14 22:00:07"
+},
+{
+"kids":[
+"yxaufFsIT"
+],
+"uid":"kingofbeast",
+"parent":"",
+"text":"@方舟子 要挺住啊，吃粥吃饭就看你了……@微博小秘书 请转告你们领导，千万别去“求”方舟子回来，他不回来，sohu微薄也赶不上这儿，我求您了，坚持三个月……",
+"mid":"yxakBEoqh",
+"date":"2012-08-14 21:55:25"
+},
+{
+"kids":[],
+"uid":"1851182233",
+"parent":"",
+"text":"呵呵，我在坐等你的微博新浪被删，真的，我也希望有台，但是这个资金不是你能付得起的",
+"mid":"yxaefbYJc",
+"date":"2012-08-14 21:39:48"
+},
+{
+"kids":[],
+"uid":"2141267251",
+"parent":"",
+"text":"是不是真的？那转了！",
+"mid":"yxadptCkN",
+"date":"2012-08-14 21:37:44"
+},
+{
+"kids":[],
+"uid":"kudouran",
+"parent":"",
+"text":"",
+"mid":"yxa6Gwqi8",
+"date":"2012-08-14 21:21:08"
+},
+{
+"kids":[],
+"uid":"gzjianzi",
+"parent":"",
+"text":"[good]",
+"mid":"yxa5YdGMw",
+"date":"2012-08-14 21:19:23"
+},
+{
+"kids":[],
+"uid":"xuxistudio",
+"parent":"yxa29aPUR",
+"text":"好吧！看你的了！肘子努力啊！！",
+"mid":"yxa33l2Wz",
+"date":"2012-08-14 21:12:13"
+},
+{
+"kids":[
+"yxbYtdpUX",
+"yxa33l2Wz"
+],
+"uid":"1695848441",
+"parent":"",
+"text":"好吧",
+"mid":"yxa29aPUR",
+"date":"2012-08-14 21:09:59"
+},
+{
+"kids":[],
+"uid":"1942059264",
+"parent":"",
+"text":"已关注，已转发，到时不兑现抽你丫的！",
+"mid":"yxa1eucFM",
+"date":"2012-08-14 21:07:41"
+},
+{
+"kids":[],
+"uid":"1552649164",
+"parent":"",
+"text":"转发微博。",
+"mid":"yx9Vk25UY",
+"date":"2012-08-14 20:53:10"
+},
+{
+"kids":[],
+"uid":"1805133363",
+"parent":"",
+"text":"赚爱疯五咯[鼓掌]",
+"mid":"yx9Pw7BVi",
+"date":"2012-08-14 20:38:52"
+},
+{
+"kids":[],
+"uid":"1955787461",
+"parent":"yx9oRbqW5",
+"text":"",
+"mid":"yx9KodKYN",
+"date":"2012-08-14 20:26:14"
+},
+{
+"kids":[],
+"uid":"2012286665",
+"parent":"",
+"text":"考见证方的人品，哈哈！",
+"mid":"yx9G1dEP8",
+"date":"2012-08-14 20:15:28"
+},
+{
+"kids":[],
+"uid":"2192047117",
+"parent":"",
+"text":"火苗子见长、",
+"mid":"yx9vo2e5X",
+"date":"2012-08-14 19:49:13"
+},
+{
+"kids":[
+"z64ZQztMO",
+"yx9KodKYN"
+],
+"uid":"1392917915",
+"parent":"",
+"text":"这个iphone5和大多数人想的那个iphone5是一个东西吧？那转个试试",
+"mid":"yx9oRbqW5",
+"date":"2012-08-14 19:33:12"
+},
+{
+"kids":[],
+"uid":"1959217221",
+"parent":"",
+"text":"看到就转。",
+"mid":"yx9kJ023E",
+"date":"2012-08-14 19:23:00"
+},
+{
+"kids":[],
+"uid":"2206993077",
+"parent":"",
+"text":"我也要一台。[嘻嘻]",
+"mid":"yx9kA8111",
+"date":"2012-08-14 19:22:39"
+},
+{
+"kids":[],
+"uid":"234912198",
+"parent":"yx94ehA7E",
+"text":"肘子，看好你哦i",
+"mid":"yx9bekw11",
+"date":"2012-08-14 18:59:37"
+},
+{
+"kids":[],
+"uid":"tiemu",
+"parent":"",
+"text":"说话要算数的，我等着看。。。。",
+"mid":"yx96WEUOC",
+"date":"2012-08-14 18:49:04"
+},
+{
+"kids":[
+"yx9bekw11"
+],
+"uid":"521545638",
+"parent":"",
+"text":"方大爷我看好你呦，你要是回来了，我又恨上你了[哈哈]",
+"mid":"yx94ehA7E",
+"date":"2012-08-14 18:42:21"
+},
+{
+"kids":[],
+"uid":"1660461787",
+"parent":"",
+"text":"3个月内他肯定会发微博的。。。广告，广告。。。",
+"mid":"yx8Ph04Vj",
+"date":"2012-08-14 18:05:30"
+},
+{
+"kids":[],
+"uid":"1929762237",
+"parent":"",
+"text":"我关注你了哈",
+"mid":"yx8te5ByU",
+"date":"2012-08-14 17:11:13"
+},
+{
+"kids":[],
+"uid":"1929762237",
+"parent":"",
+"text":"方舟子，你一定不要在99天内更新啊！我要IPHONE5",
+"mid":"yx8sR3XcP",
+"date":"2012-08-14 17:10:17"
+},
+{
+"kids":[],
+"uid":"2203787180",
+"parent":"",
+"text":"",
+"mid":"yx8rxbEhl",
+"date":"2012-08-14 17:07:02"
+},
+{
+"kids":[],
+"uid":"2782966867",
+"parent":"",
+"text":"哈哈'说话得算数咯",
+"mid":"yx8oUEOhe",
+"date":"2012-08-14 17:00:34"
+},
+{
+"kids":[],
+"uid":"1169996523",
+"parent":"",
+"text":"肘子哥一定挺住！！表回来啊！！！！",
+"mid":"yx8kGibO1",
+"date":"2012-08-14 16:50:06"
+},
+{
+"kids":[
+"yz8PPq0Tk"
+],
+"uid":"1704544650",
+"parent":"",
+"text":"都散了吗，方舟子很快会回来的",
+"mid":"yx8ks5HTm",
+"date":"2012-08-14 16:49:33"
+},
+{
+"kids":[],
+"uid":"1864332527",
+"parent":"",
+"text":"5？山寨的？",
+"mid":"yx8jrbsOs",
+"date":"2012-08-14 16:47:03"
+},
+{
+"kids":[],
+"uid":"yazoo2010",
+"parent":"",
+"text":"真有三千万？",
+"mid":"yx8hKfPkH",
+"date":"2012-08-14 16:42:54"
+},
+{
+"kids":[],
+"uid":"2484487755",
+"parent":"",
+"text":"转发，保证呀",
+"mid":"yx85ipqoU",
+"date":"2012-08-14 16:12:15"
+},
+{
+"kids":[
+"yxCbvEzLP",
+"yxsNjwn9h"
+],
+"uid":"hongmiemie",
+"parent":"",
+"text":"转发围脖，内谁谁，千万忍住袄！",
+"mid":"yx83S37QB",
+"date":"2012-08-14 16:08:44"
+},
+{
+"kids":[],
+"uid":"1896038084",
+"parent":"",
+"text":"iphone5，赶紧了@米拉式微笑",
+"mid":"yx7WIdn1c",
+"date":"2012-08-14 15:51:06"
+},
+{
+"kids":[],
+"uid":"1978180843",
+"parent":"",
+"text":"",
+"mid":"yx7WmmVik",
+"date":"2012-08-14 15:50:14"
+},
+{
+"kids":[
+"zc4UzCeyy",
+"zbUXv7d1L",
+"zba3OmcjV",
+"zb4qY8wiE"
+],
+"uid":"2817055962",
+"parent":"",
+"text":"真有iPhone5呀?",
+"mid":"yx78UlJtA",
+"date":"2012-08-14 13:48:24"
+},
+{
+"kids":[
+"yz96YjADh"
+],
+"uid":"1704544650",
+"parent":"",
+"text":"好多人送，苹果没得卖了",
+"mid":"yx76pw0IA",
+"date":"2012-08-14 13:42:15"
+}
+]

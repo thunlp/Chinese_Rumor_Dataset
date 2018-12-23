@@ -1,0 +1,4771 @@
+[
+{
+"kids":[],
+"uid":"2397026097",
+"parent":"A0fPpkqwA",
+"text":"",
+"mid":"A0fQU5O1T",
+"date":"2013-07-16 08:47:20"
+},
+{
+"kids":[
+"A0fQU5O1T"
+],
+"uid":"1405229845",
+"parent":"z7AxLwRB2",
+"text":"",
+"mid":"A0fPpkqwA",
+"date":"2013-07-16 08:43:39"
+},
+{
+"kids":[],
+"uid":"1673106507",
+"parent":"z7SyVp1K3",
+"text":"",
+"mid":"znPhGzMiX",
+"date":"2013-03-17 10:32:09"
+},
+{
+"kids":[],
+"uid":"1777469140",
+"parent":"zihQ242iN",
+"text":"",
+"mid":"zjpBjmt38",
+"date":"2013-02-16 09:47:51"
+},
+{
+"kids":[],
+"uid":"2919640932",
+"parent":"zihQ242iN",
+"text":"",
+"mid":"zjfzdo9Oo",
+"date":"2013-02-15 08:15:14"
+},
+{
+"kids":[],
+"uid":"2810140462",
+"parent":"zihQ242iN",
+"text":"",
+"mid":"zirm6DE98",
+"date":"2013-02-10 00:25:35"
+},
+{
+"kids":[],
+"uid":"2804347100",
+"parent":"zihQ242iN",
+"text":"",
+"mid":"zihTNdKKr",
+"date":"2013-02-09 00:21:03"
+},
+{
+"kids":[
+"zjpBjmt38",
+"zjfzdo9Oo",
+"zirm6DE98",
+"zihTNdKKr"
+],
+"uid":"1925012883",
+"parent":"z7O1t9DjW",
+"text":"",
+"mid":"zihQ242iN",
+"date":"2013-02-09 00:11:50"
+},
+{
+"kids":[],
+"uid":"2802850762",
+"parent":"z7SyVp1K3",
+"text":"",
+"mid":"z9exxFWDp",
+"date":"2012-12-11 11:15:20"
+},
+{
+"kids":[],
+"uid":"1583374853",
+"parent":"z81u7c66c",
+"text":"",
+"mid":"z9cM10EVl",
+"date":"2012-12-11 06:45:29"
+},
+{
+"kids":[],
+"uid":"1727989937",
+"parent":"z7SyVp1K3",
+"text":"",
+"mid":"z916xjUjO",
+"date":"2012-12-10 01:03:04"
+},
+{
+"kids":[],
+"uid":"2920029390",
+"parent":"z7SyVp1K3",
+"text":"",
+"mid":"z916x1kfL",
+"date":"2012-12-10 01:03:04"
+},
+{
+"kids":[],
+"uid":"1423777304",
+"parent":"z7S0BzE9J",
+"text":"",
+"mid":"z90ebgENk",
+"date":"2012-12-09 22:49:10"
+},
+{
+"kids":[],
+"uid":"2802708872",
+"parent":"z7Lb3dMsF",
+"text":"",
+"mid":"z8JFb7wOx",
+"date":"2012-12-08 04:38:59"
+},
+{
+"kids":[],
+"uid":"2920112360",
+"parent":"z7Lb3dMsF",
+"text":"",
+"mid":"z8JFb7wNL",
+"date":"2012-12-08 04:38:58"
+},
+{
+"kids":[],
+"uid":"2803552214",
+"parent":"z7Lb3dMsF",
+"text":"",
+"mid":"z8CzGBJU9",
+"date":"2012-12-07 10:36:13"
+},
+{
+"kids":[],
+"uid":"2163830053",
+"parent":"z7BAY8NiX",
+"text":"",
+"mid":"z8C178PT5",
+"date":"2012-12-07 09:11:03"
+},
+{
+"kids":[],
+"uid":"2919485484",
+"parent":"z7NwkF9XN",
+"text":"",
+"mid":"z8BemfjET",
+"date":"2012-12-07 07:10:56"
+},
+{
+"kids":[],
+"uid":"2790075902",
+"parent":"z7Rf9p1XS",
+"text":"",
+"mid":"z8AvA6arV",
+"date":"2012-12-07 05:20:36"
+},
+{
+"kids":[],
+"uid":"1582718371",
+"parent":"z7O1t9DjW",
+"text":"",
+"mid":"z8v0qbiRY",
+"date":"2012-12-06 15:20:05"
+},
+{
+"kids":[],
+"uid":"2919671042",
+"parent":"z81u7c66c",
+"text":"",
+"mid":"z8sFynXzP",
+"date":"2012-12-06 09:23:12"
+},
+{
+"kids":[],
+"uid":"2920088610",
+"parent":"z81u7c66c",
+"text":"",
+"mid":"z8sFynXxV",
+"date":"2012-12-06 09:23:13"
+},
+{
+"kids":[],
+"uid":"1583926303",
+"parent":"z7OwN8Dlp",
+"text":"",
+"mid":"z8quWd6Sw",
+"date":"2012-12-06 03:51:33"
+},
+{
+"kids":[],
+"uid":"1440487953",
+"parent":"z7NwkF9XN",
+"text":"",
+"mid":"z8m02kIY0",
+"date":"2012-12-05 16:24:27"
+},
+{
+"kids":[],
+"uid":"2919915542",
+"parent":"z7NwkF9XN",
+"text":"",
+"mid":"z8m02jC1O",
+"date":"2012-12-05 16:24:27"
+},
+{
+"kids":[],
+"uid":"2790011370",
+"parent":"z7UY10xQe",
+"text":"",
+"mid":"z8lyQy6rG",
+"date":"2012-12-05 15:17:26"
+},
+{
+"kids":[],
+"uid":"2920286480",
+"parent":"z7UY10xQe",
+"text":"",
+"mid":"z8lyQev7f",
+"date":"2012-12-05 15:17:27"
+},
+{
+"kids":[],
+"uid":"2919406374",
+"parent":"z7OwN8Dlp",
+"text":"",
+"mid":"z8jmt42Dl",
+"date":"2012-12-05 09:41:28"
+},
+{
+"kids":[],
+"uid":"2805159084",
+"parent":"z7OwN8Dlp",
+"text":"",
+"mid":"z8jmt1Z6E",
+"date":"2012-12-05 09:41:27"
+},
+{
+"kids":[],
+"uid":"2920182872",
+"parent":"z7SyVp1K3",
+"text":"",
+"mid":"z8ihQ4RA2",
+"date":"2012-12-05 06:57:19"
+},
+{
+"kids":[],
+"uid":"1778228784",
+"parent":"z81u7c66c",
+"text":"",
+"mid":"z8gEVA4Q6",
+"date":"2012-12-05 02:48:43"
+},
+{
+"kids":[],
+"uid":"2803689150",
+"parent":"z7UY10xQe",
+"text":"",
+"mid":"z8cVS9PNA",
+"date":"2012-12-04 17:19:25"
+},
+{
+"kids":[],
+"uid":"2789863840",
+"parent":"",
+"text":"",
+"mid":"z8ao3fgJf",
+"date":"2012-12-04 10:50:39"
+},
+{
+"kids":[],
+"uid":"2789917954",
+"parent":"z7SyVp1K3",
+"text":"",
+"mid":"z8a76bi99",
+"date":"2012-12-04 10:08:52"
+},
+{
+"kids":[],
+"uid":"1728052827",
+"parent":"z7SyVp1K3",
+"text":"",
+"mid":"z8a769Jmd",
+"date":"2012-12-04 10:08:52"
+},
+{
+"kids":[],
+"uid":"2804020802",
+"parent":"z7URVnFVW",
+"text":"",
+"mid":"z86TF0Wun",
+"date":"2012-12-04 01:57:32"
+},
+{
+"kids":[],
+"uid":"2045830545",
+"parent":"z7Rale33Z",
+"text":"求真相！！",
+"mid":"z84PKBzBj",
+"date":"2012-12-03 20:42:24"
+},
+{
+"kids":[],
+"uid":"2919742460",
+"parent":"z7URVnFVW",
+"text":"",
+"mid":"z83q2DQhQ",
+"date":"2012-12-03 17:06:20"
+},
+{
+"kids":[],
+"uid":"1520023122",
+"parent":"z7URVnFVW",
+"text":"",
+"mid":"z83q2C5RE",
+"date":"2012-12-03 17:06:18"
+},
+{
+"kids":[],
+"uid":"1894271462",
+"parent":"",
+"text":"回复@顺德艾美依研:怎么可以这样呢，太残忍了",
+"mid":"z82wH9G8f",
+"date":"2012-12-03 14:49:58"
+},
+{
+"kids":[],
+"uid":"humanfleshserach",
+"parent":"",
+"text":"",
+"mid":"z828pypRX",
+"date":"2012-12-03 13:50:09"
+},
+{
+"kids":[],
+"uid":"1159397531",
+"parent":"",
+"text":"[怒][怒]",
+"mid":"z81Hu4UOo",
+"date":"2012-12-03 12:43:48"
+},
+{
+"kids":[],
+"uid":"1206638760",
+"parent":"z81u7c66c",
+"text":"海纳百川，有容乃大，一个国家如果容不下他们，注定无法走向一流。@花雕99",
+"mid":"z81zjzvqh",
+"date":"2012-12-03 12:23:41"
+},
+{
+"kids":[],
+"uid":"2954251345",
+"parent":"z7Vk9gRAo",
+"text":"",
+"mid":"z81xPlDGq",
+"date":"2012-12-03 12:20:00"
+},
+{
+"kids":[
+"z9cM10EVl",
+"z8sFynXzP",
+"z8sFynXxV",
+"z8gEVA4Q6",
+"z81zjzvqh"
+],
+"uid":"1652593644",
+"parent":"z7NwkF9XN",
+"text":"看了N次弱势群体被城管欺负，但都是断头新闻，没有结果。冤屈哪里申诉呢。",
+"mid":"z81u7c66c",
+"date":"2012-12-03 12:10:52"
+},
+{
+"kids":[],
+"uid":"2920022802",
+"parent":"z7QOsjWNf",
+"text":"",
+"mid":"z80KnlBt1",
+"date":"2012-12-03 10:18:12"
+},
+{
+"kids":[],
+"uid":"1778106320",
+"parent":"z7QOsjWNf",
+"text":"",
+"mid":"z80KnlBqE",
+"date":"2012-12-03 10:18:11"
+},
+{
+"kids":[],
+"uid":"2789763254",
+"parent":"z7NwkF9XN",
+"text":"",
+"mid":"z80exb0ai",
+"date":"2012-12-03 08:59:43"
+},
+{
+"kids":[],
+"uid":"2920124184",
+"parent":"z7C6Ef117",
+"text":"",
+"mid":"z7YHq1s6A",
+"date":"2012-12-03 05:05:24"
+},
+{
+"kids":[],
+"uid":"2790049450",
+"parent":"z7Rf9p1XS",
+"text":"",
+"mid":"z7Ywf5NKM",
+"date":"2012-12-03 04:37:52"
+},
+{
+"kids":[],
+"uid":"2809291002",
+"parent":"z7Rf9p1XS",
+"text":"",
+"mid":"z7Yweua41",
+"date":"2012-12-03 04:37:51"
+},
+{
+"kids":[],
+"uid":"2792880045",
+"parent":"z7XPN94nP",
+"text":"",
+"mid":"z7Yuz5LEd",
+"date":"2012-12-03 04:33:44"
+},
+{
+"kids":[],
+"uid":"2804125034",
+"parent":"z7QVzeLcR",
+"text":"",
+"mid":"z7Y6Ri2Qh",
+"date":"2012-12-03 03:35:20"
+},
+{
+"kids":[],
+"uid":"2919743572",
+"parent":"z7QVzeLcR",
+"text":"",
+"mid":"z7Y6Ri2Pl",
+"date":"2012-12-03 03:35:20"
+},
+{
+"kids":[],
+"uid":"2100839102",
+"parent":"z7NgwwrS2",
+"text":"[泪]",
+"mid":"z7XXh47hX",
+"date":"2012-12-03 03:11:43"
+},
+{
+"kids":[],
+"uid":"2789687632",
+"parent":"",
+"text":"",
+"mid":"z7XX8uBB2",
+"date":"2012-12-03 03:11:23"
+},
+{
+"kids":[],
+"uid":"2920631660",
+"parent":"",
+"text":"",
+"mid":"z7XX8tKXV",
+"date":"2012-12-03 03:11:23"
+},
+{
+"kids":[],
+"uid":"2919662312",
+"parent":"z7MpLtuTk",
+"text":"",
+"mid":"z7XPN9TDh",
+"date":"2012-12-03 02:53:17"
+},
+{
+"kids":[
+"z7Yuz5LEd"
+],
+"uid":"2808496064",
+"parent":"z7MpLtuTk",
+"text":"",
+"mid":"z7XPN94nP",
+"date":"2012-12-03 02:53:17"
+},
+{
+"kids":[],
+"uid":"2717297431",
+"parent":"z7URgiyQy",
+"text":"不管是真是假，无风不起浪，他怎嘛不说你推的，偏说城管",
+"mid":"z7XfJ9XL1",
+"date":"2012-12-03 01:24:25"
+},
+{
+"kids":[],
+"uid":"1723889223",
+"parent":"z7LeJDepq",
+"text":"",
+"mid":"z7X1kaX59",
+"date":"2012-12-03 00:48:57"
+},
+{
+"kids":[],
+"uid":"2405852317",
+"parent":"",
+"text":"",
+"mid":"z7WyvDm18",
+"date":"2012-12-02 23:37:58"
+},
+{
+"kids":[],
+"uid":"2412829952",
+"parent":"z7NgwwrS2",
+"text":"",
+"mid":"z7VRNrb4K",
+"date":"2012-12-02 21:52:41"
+},
+{
+"kids":[],
+"uid":"2358796834",
+"parent":"z7PHzhGpn",
+"text":"转！这社会~~",
+"mid":"z7VOW9PoT",
+"date":"2012-12-02 21:45:41"
+},
+{
+"kids":[],
+"uid":"2838742262",
+"parent":"z7Rt3CmmW",
+"text":"人还活着更得转[怒]/@善良苑姐:[怒]",
+"mid":"z7VnK4Ws6",
+"date":"2012-12-02 20:38:41"
+},
+{
+"kids":[],
+"uid":"1916720321",
+"parent":"",
+"text":"回复@Suu想看MIKE和JO回归AB的演唱会:说得对[给力][给力][给力][给力]@AAA皇子 @ADS-L @Anson的毛毛 @阿伯微博爆搞搞事专区 @爱玉工坊 @爱情疗伤系 @八卦趣事大百科 @BIBI妆 @啊--May",
+"mid":"z7VkUxFfs",
+"date":"2012-12-02 20:31:43"
+},
+{
+"kids":[
+"z81xPlDGq"
+],
+"uid":"726882343",
+"parent":"z7UKvyF6Y",
+"text":"现在的城管素质低到连狗都不如！[怒]",
+"mid":"z7Vk9gRAo",
+"date":"2012-12-02 20:29:50"
+},
+{
+"kids":[],
+"uid":"caixinyue7616",
+"parent":"z7UKvyF6Y",
+"text":"怪不得说一千中国城管，能收复钓鱼岛呢",
+"mid":"z7Vj03pBB",
+"date":"2012-12-02 20:27:00"
+},
+{
+"kids":[],
+"uid":"2675739412",
+"parent":"z7U2Cp8VG",
+"text":"",
+"mid":"z7V9Oo94R",
+"date":"2012-12-02 20:04:22"
+},
+{
+"kids":[
+"z8lyQy6rG",
+"z8lyQev7f",
+"z8cVS9PNA"
+],
+"uid":"2134481862",
+"parent":"z7UKvyF6Y",
+"text":"",
+"mid":"z7UY10xQe",
+"date":"2012-12-02 19:35:17"
+},
+{
+"kids":[
+"z86TF0Wun",
+"z83q2DQhQ",
+"z83q2C5RE"
+],
+"uid":"2009985141",
+"parent":"z7LaNefD9",
+"text":"[怒][怒][怒]你们还有人性么",
+"mid":"z7URVnFVW",
+"date":"2012-12-02 19:20:17"
+},
+{
+"kids":[
+"z7XfJ9XL1"
+],
+"uid":"yulianzi5lovepchy",
+"parent":"z7MOgjega",
+"text":"博主故事编得太假了，请你稍微有点水平好么。。",
+"mid":"z7URgiyQy",
+"date":"2012-12-02 19:18:38"
+},
+{
+"kids":[
+"z7Vk9gRAo",
+"z7Vj03pBB",
+"z7UY10xQe"
+],
+"uid":"newsfbi",
+"parent":"z7NgwwrS2",
+"text":"[蜡烛]万恶的旧社会？",
+"mid":"z7UKvyF6Y",
+"date":"2012-12-02 19:02:03"
+},
+{
+"kids":[],
+"uid":"2552762961",
+"parent":"",
+"text":"",
+"mid":"z7UBvnGOu",
+"date":"2012-12-02 18:39:51"
+},
+{
+"kids":[],
+"uid":"2790959560",
+"parent":"",
+"text":"有些人真的死了都不觉得可惜",
+"mid":"z7UxqsF2f",
+"date":"2012-12-02 18:29:46"
+},
+{
+"kids":[],
+"uid":"1022745550",
+"parent":"z7Tprr4V7",
+"text":"城管这个群体就应该好好整顿！",
+"mid":"z7Ut9ouXP",
+"date":"2012-12-02 18:19:14"
+},
+{
+"kids":[],
+"uid":"sin33",
+"parent":"",
+"text":"就算这条微博说的情况不实，当事人最后没有生命危险，但是城管的暴力举动真的可以不追究责任吗？城管到底是为了什么而存在？",
+"mid":"z7U6Gs0ow",
+"date":"2012-12-02 17:23:55"
+},
+{
+"kids":[],
+"uid":"2050869762",
+"parent":"",
+"text":"妈的",
+"mid":"z7U4HgblK",
+"date":"2012-12-02 17:19:00"
+},
+{
+"kids":[
+"z7V9Oo94R"
+],
+"uid":"1916720321",
+"parent":"z7Nk3chUF",
+"text":"",
+"mid":"z7U2Cp8VG",
+"date":"2012-12-02 17:13:54"
+},
+{
+"kids":[],
+"uid":"2283615032",
+"parent":"",
+"text":"[怒]",
+"mid":"z7U1R6P0B",
+"date":"2012-12-02 17:12:02"
+},
+{
+"kids":[],
+"uid":"2424970123",
+"parent":"z7T59ywsJ",
+"text":"畜生",
+"mid":"z7U1MEBYF",
+"date":"2012-12-02 17:11:52"
+},
+{
+"kids":[],
+"uid":"2351553077",
+"parent":"z7Nuz63Mr",
+"text":"[怒]",
+"mid":"z7TLbd916",
+"date":"2012-12-02 16:30:55"
+},
+{
+"kids":[],
+"uid":"2941187425",
+"parent":"z7RkLswcT",
+"text":"这像是被打的啊",
+"mid":"z7TIccuoT",
+"date":"2012-12-02 16:23:34"
+},
+{
+"kids":[
+"z7Ut9ouXP"
+],
+"uid":"2076448214",
+"parent":"",
+"text":"天呐, 孩子怎么办? [蜡烛]",
+"mid":"z7Tprr4V7",
+"date":"2012-12-02 15:37:23"
+},
+{
+"kids":[],
+"uid":"2608463041",
+"parent":"z7RiymLsy",
+"text":"转这条微博会被抓去劳教吗？",
+"mid":"z7ToZEjm1",
+"date":"2012-12-02 15:36:17"
+},
+{
+"kids":[],
+"uid":"checksuer",
+"parent":"z7QPrsYrd",
+"text":"唉...重庆的治安有问题，",
+"mid":"z7T6g7n29",
+"date":"2012-12-02 14:50:07"
+},
+{
+"kids":[],
+"uid":"2493737257",
+"parent":"",
+"text":"禽兽不如",
+"mid":"z7T5MvOLK",
+"date":"2012-12-02 14:48:57"
+},
+{
+"kids":[
+"z7U1MEBYF"
+],
+"uid":"2429979244",
+"parent":"",
+"text":"操他妈的城管",
+"mid":"z7T59ywsJ",
+"date":"2012-12-02 14:47:24"
+},
+{
+"kids":[],
+"uid":"2005611081",
+"parent":"z7S6lmhD8",
+"text":"NND！",
+"mid":"z7SYc8pWa",
+"date":"2012-12-02 14:30:13"
+},
+{
+"kids":[],
+"uid":"2869032904",
+"parent":"",
+"text":"败类",
+"mid":"z7SWJFmLn",
+"date":"2012-12-02 14:26:38"
+},
+{
+"kids":[],
+"uid":"2348704013",
+"parent":"z7Nci9glM",
+"text":"",
+"mid":"z7SVJFvBE",
+"date":"2012-12-02 14:24:10"
+},
+{
+"kids":[],
+"uid":"1851143781",
+"parent":"z7RndEzvV",
+"text":"天追追哦！直接毙了。",
+"mid":"z7SMVBGdR",
+"date":"2012-12-02 14:02:29"
+},
+{
+"kids":[],
+"uid":"1814218722",
+"parent":"",
+"text":"",
+"mid":"z7SLn0Jmf",
+"date":"2012-12-02 13:58:38"
+},
+{
+"kids":[],
+"uid":"2323866555",
+"parent":"z7R0VB9zZ",
+"text":"现在的城管啊....",
+"mid":"z7SGBs2q6",
+"date":"2012-12-02 13:46:54"
+},
+{
+"kids":[],
+"uid":"2063480443",
+"parent":"z7SA95r9u",
+"text":"",
+"mid":"z7SE0az7q",
+"date":"2012-12-02 13:40:28"
+},
+{
+"kids":[],
+"uid":"1749742645",
+"parent":"z7SoFgXOg",
+"text":"[蜡烛][蜡烛]",
+"mid":"z7SAP4dXG",
+"date":"2012-12-02 13:32:40"
+},
+{
+"kids":[
+"z7SE0az7q"
+],
+"uid":"1961521523",
+"parent":"z7SxUwjNH",
+"text":"[鄙视]",
+"mid":"z7SA95r9u",
+"date":"2012-12-02 13:31:01"
+},
+{
+"kids":[],
+"uid":"2391772392",
+"parent":"z7SwhrJZq",
+"text":"",
+"mid":"z7SA7jMHr",
+"date":"2012-12-02 13:30:56"
+},
+{
+"kids":[],
+"uid":"2267177552",
+"parent":"",
+"text":"贫富差距,中国现状[怒][怒]",
+"mid":"z7Szo6Sw9",
+"date":"2012-12-02 13:29:06"
+},
+{
+"kids":[
+"znPhGzMiX",
+"z9exxFWDp",
+"z916xjUjO",
+"z916x1kfL",
+"z8ihQ4RA2",
+"z8a76bi99",
+"z8a769Jmd"
+],
+"uid":"2214921883",
+"parent":"",
+"text":"我们还能安居乐业吗",
+"mid":"z7SyVp1K3",
+"date":"2012-12-02 13:28:00"
+},
+{
+"kids":[
+"z7SA95r9u"
+],
+"uid":"2179247592",
+"parent":"",
+"text":"",
+"mid":"z7SxUwjNH",
+"date":"2012-12-02 13:25:29"
+},
+{
+"kids":[
+"z7SA7jMHr"
+],
+"uid":"zhanxiyao",
+"parent":"",
+"text":"",
+"mid":"z7SwhrJZq",
+"date":"2012-12-02 13:21:29"
+},
+{
+"kids":[],
+"uid":"1979658933",
+"parent":"z7SoFgXOg",
+"text":"真TMD的不是人",
+"mid":"z7StUA2Je",
+"date":"2012-12-02 13:15:39"
+},
+{
+"kids":[],
+"uid":"2282727344",
+"parent":"",
+"text":"[怒]真不是人来的[鄙视]",
+"mid":"z7StCfvwe",
+"date":"2012-12-02 13:14:54"
+},
+{
+"kids":[],
+"uid":"2947182431",
+"parent":"",
+"text":"这个城管没人性啊！吃掉公家的米！mb[怒][怒][怒][怒][怒][怒]",
+"mid":"z7SpO8EOG",
+"date":"2012-12-02 13:05:32"
+},
+{
+"kids":[
+"z7SAP4dXG",
+"z7StUA2Je"
+],
+"uid":"1981999153",
+"parent":"",
+"text":"",
+"mid":"z7SoFgXOg",
+"date":"2012-12-02 13:02:43"
+},
+{
+"kids":[],
+"uid":"2731454364",
+"parent":"",
+"text":"...可恶",
+"mid":"z7SegaJMt",
+"date":"2012-12-02 12:37:05"
+},
+{
+"kids":[],
+"uid":"2639256821",
+"parent":"z7QPovEir",
+"text":"",
+"mid":"z7SbWfMea",
+"date":"2012-12-02 12:31:22"
+},
+{
+"kids":[
+"z7SYc8pWa"
+],
+"uid":"liyingqiuchen0528",
+"parent":"z7S5foWu7",
+"text":"国家的悲哀",
+"mid":"z7S6lmhD8",
+"date":"2012-12-02 12:17:34"
+},
+{
+"kids":[
+"z7S6lmhD8"
+],
+"uid":"2595947105",
+"parent":"z7RZxFERA",
+"text":"做人一定要给别人留点余地,看着真难受。",
+"mid":"z7S5foWu7",
+"date":"2012-12-02 12:14:53"
+},
+{
+"kids":[],
+"uid":"2276205113",
+"parent":"z7S0BzE9J",
+"text":"看评论是去年的事，人没死。",
+"mid":"z7S4YhF95",
+"date":"2012-12-02 12:14:12"
+},
+{
+"kids":[],
+"uid":"2627307597",
+"parent":"z7N3p2E0H",
+"text":"",
+"mid":"z7S4XEh5e",
+"date":"2012-12-02 12:14:09"
+},
+{
+"kids":[],
+"uid":"523402040",
+"parent":"z7S0BzE9J",
+"text":"现在怎么样了 很久前的帖子了",
+"mid":"z7S4dfyUh",
+"date":"2012-12-02 12:12:19"
+},
+{
+"kids":[],
+"uid":"c7dangki",
+"parent":"",
+"text":"",
+"mid":"z7S2Zl3SM",
+"date":"2012-12-02 12:09:19"
+},
+{
+"kids":[],
+"uid":"2682277437",
+"parent":"z7RZxFERA",
+"text":"城管是不是日本啊",
+"mid":"z7S1zgbpz",
+"date":"2012-12-02 12:05:49"
+},
+{
+"kids":[],
+"uid":"vinayaka",
+"parent":"z7RQssaTU",
+"text":"",
+"mid":"z7S17cZmx",
+"date":"2012-12-02 12:04:42"
+},
+{
+"kids":[
+"z90ebgENk",
+"z7S4YhF95",
+"z7S4dfyUh"
+],
+"uid":"larrywlk",
+"parent":"z7RyCs1CG",
+"text":"回复@无需你见谅我的放荡不羁笑点低: 赚点小钱，养家糊口，无论她怎么违规，把人家推翻在地，货物洒落四处，有人性么？何况这里是被推到摔死！执法体系本身是需要考虑小贩利益的，因为小贩是城市的一部分，规范他们要重疏导！只要他们不阻碍交通，市容远没有民生重要。",
+"mid":"z7S0BzE9J",
+"date":"2012-12-02 12:03:27"
+},
+{
+"kids":[
+"z7S5foWu7",
+"z7S1zgbpz"
+],
+"uid":"1992917895",
+"parent":"",
+"text":"城管我CNM，SB",
+"mid":"z7RZxFERA",
+"date":"2012-12-02 12:00:50"
+},
+{
+"kids":[],
+"uid":"cocoandjojo",
+"parent":"z7NwzrN7d",
+"text":"[蜡烛]",
+"mid":"z7RS978X1",
+"date":"2012-12-02 11:42:36"
+},
+{
+"kids":[
+"z7S17cZmx"
+],
+"uid":"yczhu119",
+"parent":"",
+"text":"一个清洁、有秩序的城市背后也是有故事的。城管的责任就是维护这些，你要责怪，要义愤填膺，是要同情弱者，不能看单独具体的一些事件，这是只是“九龙治水”的思维而不是整体系统性思维的一个结果，这类事件会继续发生。",
+"mid":"z7RQssaTU",
+"date":"2012-12-02 11:38:27"
+},
+{
+"kids":[],
+"uid":"1588365961",
+"parent":"z7QVzeLcR",
+"text":"",
+"mid":"z7RNbaKmK",
+"date":"2012-12-02 11:30:22"
+},
+{
+"kids":[],
+"uid":"geyiwen",
+"parent":"",
+"text":"政府多关心下我们这帮普通老百姓。",
+"mid":"z7RLe5hFe",
+"date":"2012-12-02 11:25:31"
+},
+{
+"kids":[],
+"uid":"2285850611",
+"parent":"z7PHzhGpn",
+"text":"真可怜",
+"mid":"z7RGpASCT",
+"date":"2012-12-02 11:13:42"
+},
+{
+"kids":[],
+"uid":"2133035121",
+"parent":"z7Rzcdy2n",
+"text":"上个月临海也有一例，老头卖菜被城管打死",
+"mid":"z7RBDxiMz",
+"date":"2012-12-02 11:01:54"
+},
+{
+"kids":[],
+"uid":"1159114150",
+"parent":"z7Do392us",
+"text":"2011年6月份的事情。",
+"mid":"z7Rzsc7bl",
+"date":"2012-12-02 10:56:33"
+},
+{
+"kids":[
+"z7RBDxiMz"
+],
+"uid":"2303935435",
+"parent":"z7RndEzvV",
+"text":"这是人祸",
+"mid":"z7Rzcdy2n",
+"date":"2012-12-02 10:55:55"
+},
+{
+"kids":[
+"z7S0BzE9J"
+],
+"uid":"513529345",
+"parent":"z7RoVqdRr",
+"text":"素质、素质。",
+"mid":"z7RyCs1CG",
+"date":"2012-12-02 10:54:30"
+},
+{
+"kids":[],
+"uid":"1159114150",
+"parent":"z7Do392us",
+"text":"这是发生在薄时代西红柿的事情，小贩被城管追赶跌下台阶，受重伤，城管一哄而散。不过小贩没有死。",
+"mid":"z7RywzDS9",
+"date":"2012-12-02 10:54:16"
+},
+{
+"kids":[],
+"uid":"iamjeffzhang",
+"parent":"z7RoVqdRr",
+"text":"[怒]",
+"mid":"z7RwpjVY3",
+"date":"2012-12-02 10:49:03"
+},
+{
+"kids":[],
+"uid":"kattyen",
+"parent":"z7RoVqdRr",
+"text":"既然他们承担东厂的职责，是不是应该先把他们阉了才尽善尽美啊！",
+"mid":"z7RtI7OAy",
+"date":"2012-12-02 10:42:24"
+},
+{
+"kids":[],
+"uid":"2676365575",
+"parent":"z7RoVqdRr",
+"text":"这是要官逼民反啊[怒]",
+"mid":"z7RtspLv2",
+"date":"2012-12-02 10:41:46"
+},
+{
+"kids":[
+"z7VnK4Ws6"
+],
+"uid":"2838742262",
+"parent":"",
+"text":"[怒]",
+"mid":"z7Rt3CmmW",
+"date":"2012-12-02 10:40:47"
+},
+{
+"kids":[],
+"uid":"2239345472",
+"parent":"z7RndEzvV",
+"text":"枪毙啊[怒][怒][怒]",
+"mid":"z7RrCoE8D",
+"date":"2012-12-02 10:37:15"
+},
+{
+"kids":[
+"z7RyCs1CG",
+"z7RwpjVY3",
+"z7RtI7OAy",
+"z7RtspLv2"
+],
+"uid":"larrywlk",
+"parent":"z7Mm01tim",
+"text":"",
+"mid":"z7RoVqdRr",
+"date":"2012-12-02 10:30:37"
+},
+{
+"kids":[
+"z7SMVBGdR",
+"z7Rzcdy2n",
+"z7RrCoE8D"
+],
+"uid":"1974360261",
+"parent":"z7NwkF9XN",
+"text":"禽兽不如",
+"mid":"z7RndEzvV",
+"date":"2012-12-02 10:26:24"
+},
+{
+"kids":[],
+"uid":"2006132190",
+"parent":"z7R8ndzuq",
+"text":"严惩责任人[怒]",
+"mid":"z7RluE4fm",
+"date":"2012-12-02 10:22:09"
+},
+{
+"kids":[
+"z7TIccuoT"
+],
+"uid":"2828129160",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z7RkLswcT",
+"date":"2012-12-02 10:20:22"
+},
+{
+"kids":[
+"z7ToZEjm1"
+],
+"uid":"1793331712",
+"parent":"z7NSCFmqN",
+"text":"重庆还有黑社会",
+"mid":"z7RiymLsy",
+"date":"2012-12-02 10:14:53"
+},
+{
+"kids":[],
+"uid":"1912061963",
+"parent":"",
+"text":"[怒]",
+"mid":"z7RhpaVjZ",
+"date":"2012-12-02 10:12:05"
+},
+{
+"kids":[],
+"uid":"ccmartina",
+"parent":"z7QVzeLcR",
+"text":"赶尽杀绝",
+"mid":"z7RgCEyBi",
+"date":"2012-12-02 10:10:10"
+},
+{
+"kids":[],
+"uid":"2477902622",
+"parent":"z7RdXbCxK",
+"text":"[怒][怒][怒][怒]",
+"mid":"z7Rf9Dxiv",
+"date":"2012-12-02 10:06:33"
+},
+{
+"kids":[
+"z8AvA6arV",
+"z7Ywf5NKM",
+"z7Yweua41"
+],
+"uid":"1432044305",
+"parent":"z7Rale33Z",
+"text":"我在重庆，为何没听到这个消息？明显是假新闻！",
+"mid":"z7Rf9p1XS",
+"date":"2012-12-02 10:06:31"
+},
+{
+"kids":[
+"z7Rf9Dxiv"
+],
+"uid":"1889719835",
+"parent":"",
+"text":"昨天我还亲眼见了一幕城管踢水果摊[怒][怒][怒]",
+"mid":"z7RdXbCxK",
+"date":"2012-12-02 10:03:34"
+},
+{
+"kids":[],
+"uid":"2102347071",
+"parent":"z7Rale33Z",
+"text":"又一个辛酸悲催的故事，到底需要多少才能促成革命？！革命的代价越来越大了。",
+"mid":"z7RdWzYI2",
+"date":"2012-12-02 10:03:32"
+},
+{
+"kids":[],
+"uid":"2841767915",
+"parent":"z7R8zC6m5",
+"text":"又一悲剧",
+"mid":"z7Rd5suWv",
+"date":"2012-12-02 10:01:26"
+},
+{
+"kids":[],
+"uid":"1949883970",
+"parent":"z7PLljJAE",
+"text":"都J8得死[怒]",
+"mid":"z7RbVm6PP",
+"date":"2012-12-02 09:58:34"
+},
+{
+"kids":[
+"z84PKBzBj",
+"z7Rf9p1XS",
+"z7RdWzYI2"
+],
+"uid":"racingxing",
+"parent":"",
+"text":"牲口",
+"mid":"z7Rale33Z",
+"date":"2012-12-02 09:54:41"
+},
+{
+"kids":[],
+"uid":"1894357437",
+"parent":"",
+"text":"@爱国者任建强 @爱国者高喆 @爱国者张旭东 @沙娃滴卡 @阳光哈哈的小窝 @刘强东 @秋树樱樱",
+"mid":"z7R9mltg8",
+"date":"2012-12-02 09:52:16"
+},
+{
+"kids":[],
+"uid":"1914104182",
+"parent":"z7N0ZwctP",
+"text":"你妹的 这样的城管 去死",
+"mid":"z7R8TmIMX",
+"date":"2012-12-02 09:51:06"
+},
+{
+"kids":[
+"z7Rd5suWv"
+],
+"uid":"zhangjian522426",
+"parent":"",
+"text":"",
+"mid":"z7R8zC6m5",
+"date":"2012-12-02 09:50:20"
+},
+{
+"kids":[
+"z7RluE4fm"
+],
+"uid":"yooo01",
+"parent":"z7QUNAPxW",
+"text":"",
+"mid":"z7R8ndzuq",
+"date":"2012-12-02 09:49:51"
+},
+{
+"kids":[],
+"uid":"2946235235",
+"parent":"z7Ldipzr7",
+"text":"",
+"mid":"z7R8ncfQm",
+"date":"2012-12-02 09:49:50"
+},
+{
+"kids":[],
+"uid":"2112917495",
+"parent":"",
+"text":"呵呵。。。",
+"mid":"z7R7CvH5V",
+"date":"2012-12-02 09:47:59"
+},
+{
+"kids":[],
+"uid":"2630330801",
+"parent":"z7PLljJAE",
+"text":"[怒]",
+"mid":"z7R5S3X0i",
+"date":"2012-12-02 09:43:41"
+},
+{
+"kids":[],
+"uid":"ilovebigworm",
+"parent":"",
+"text":"[蜡烛][蜡烛]",
+"mid":"z7R3PxVWY",
+"date":"2012-12-02 09:38:39"
+},
+{
+"kids":[],
+"uid":"1739844982",
+"parent":"",
+"text":"",
+"mid":"z7R2WBauO",
+"date":"2012-12-02 09:36:28"
+},
+{
+"kids":[],
+"uid":"2920613084",
+"parent":"z7K4Go0GH",
+"text":"",
+"mid":"z7R2q72Lp",
+"date":"2012-12-02 09:35:09"
+},
+{
+"kids":[],
+"uid":"1582787885",
+"parent":"z7NwkF9XN",
+"text":"",
+"mid":"z7R1zekQ3",
+"date":"2012-12-02 09:33:03"
+},
+{
+"kids":[],
+"uid":"1727827404",
+"parent":"z7NwkF9XN",
+"text":"",
+"mid":"z7R1zddQG",
+"date":"2012-12-02 09:33:04"
+},
+{
+"kids":[
+"z7SGBs2q6"
+],
+"uid":"1925065817",
+"parent":"z7NgwwrS2",
+"text":"执法可以！推人做什么？",
+"mid":"z7R0VB9zZ",
+"date":"2012-12-02 09:31:30"
+},
+{
+"kids":[],
+"uid":"2451233944",
+"parent":"z7QVzeLcR",
+"text":"",
+"mid":"z7QY6p5zc",
+"date":"2012-12-02 09:24:31"
+},
+{
+"kids":[
+"z7Y6Ri2Qh",
+"z7Y6Ri2Pl",
+"z7RNbaKmK",
+"z7RgCEyBi",
+"z7QY6p5zc"
+],
+"uid":"alanjit",
+"parent":"z7Nd3pvYz",
+"text":"有证的流氓",
+"mid":"z7QVzeLcR",
+"date":"2012-12-02 09:18:16"
+},
+{
+"kids":[],
+"uid":"2930486230",
+"parent":"",
+"text":"",
+"mid":"z7QUSlJUn",
+"date":"2012-12-02 09:16:35"
+},
+{
+"kids":[
+"z7R8ndzuq"
+],
+"uid":"luzouzou",
+"parent":"z7QMkeuqr",
+"text":"",
+"mid":"z7QUNAPxW",
+"date":"2012-12-02 09:16:24"
+},
+{
+"kids":[],
+"uid":"1918216885",
+"parent":"z7NgwwrS2",
+"text":"",
+"mid":"z7QREBldw",
+"date":"2012-12-02 09:08:38"
+},
+{
+"kids":[
+"z7T6g7n29"
+],
+"uid":"realfanofyou",
+"parent":"z7QMkeuqr",
+"text":"[蜡烛]",
+"mid":"z7QPrsYrd",
+"date":"2012-12-02 09:03:12"
+},
+{
+"kids":[
+"z7SbWfMea"
+],
+"uid":"2281211917",
+"parent":"",
+"text":"",
+"mid":"z7QPovEir",
+"date":"2012-12-02 09:03:04"
+},
+{
+"kids":[],
+"uid":"2534942797",
+"parent":"",
+"text":"这个城管真不是个人",
+"mid":"z7QP3zcTj",
+"date":"2012-12-02 09:02:15"
+},
+{
+"kids":[
+"z80KnlBt1",
+"z80KnlBqE"
+],
+"uid":"1416592153",
+"parent":"z7NebuaXv",
+"text":"",
+"mid":"z7QOsjWNf",
+"date":"2012-12-02 09:00:45"
+},
+{
+"kids":[
+"z7QUNAPxW",
+"z7QPrsYrd"
+],
+"uid":"2877689010",
+"parent":"",
+"text":"[ok]",
+"mid":"z7QMkeuqr",
+"date":"2012-12-02 08:55:31"
+},
+{
+"kids":[],
+"uid":"2177572461",
+"parent":"",
+"text":"",
+"mid":"z7QKSooK7",
+"date":"2012-12-02 08:51:57"
+},
+{
+"kids":[],
+"uid":"hushuxun",
+"parent":"",
+"text":"",
+"mid":"z7QuT1H8W",
+"date":"2012-12-02 08:12:33"
+},
+{
+"kids":[],
+"uid":"2596247721",
+"parent":"z7NgwwrS2",
+"text":"",
+"mid":"z7QlK25Ol",
+"date":"2012-12-02 07:50:01"
+},
+{
+"kids":[],
+"uid":"2230189937",
+"parent":"z7NgwwrS2",
+"text":"",
+"mid":"z7QiPq9bI",
+"date":"2012-12-02 07:42:51"
+},
+{
+"kids":[],
+"uid":"2789723620",
+"parent":"",
+"text":"",
+"mid":"z7Q3srTr6",
+"date":"2012-12-02 07:05:00"
+},
+{
+"kids":[],
+"uid":"1619121050",
+"parent":"z7PLljJAE",
+"text":"",
+"mid":"z7PTfdQwm",
+"date":"2012-12-02 06:39:49"
+},
+{
+"kids":[],
+"uid":"2569265304",
+"parent":"z7N3p2E0H",
+"text":"",
+"mid":"z7PPZpenN",
+"date":"2012-12-02 06:31:47"
+},
+{
+"kids":[
+"z7RbVm6PP",
+"z7R5S3X0i",
+"z7PTfdQwm"
+],
+"uid":"1498314863",
+"parent":"z7KIPkxTI",
+"text":"三个孩子咋办啊！[怒]",
+"mid":"z7PLljJAE",
+"date":"2012-12-02 06:20:21"
+},
+{
+"kids":[
+"z7VOW9PoT",
+"z7RGpASCT"
+],
+"uid":"1401528890",
+"parent":"z7DVadjBG",
+"text":"总说和谐，但管理的方式一点都没有让人体会到和谐",
+"mid":"z7PHzhGpn",
+"date":"2012-12-02 06:11:02"
+},
+{
+"kids":[],
+"uid":"2480538994",
+"parent":"z7JUp1v7r",
+"text":"幹。",
+"mid":"z7PDwFAJy",
+"date":"2012-12-02 06:01:05"
+},
+{
+"kids":[],
+"uid":"2732969287",
+"parent":"z7N3p2E0H",
+"text":"无语了[蜡烛]",
+"mid":"z7PwU1xc8",
+"date":"2012-12-02 05:44:46"
+},
+{
+"kids":[],
+"uid":"1293612607",
+"parent":"z7NwzrN7d",
+"text":"",
+"mid":"z7PprffQ9",
+"date":"2012-12-02 05:26:23"
+},
+{
+"kids":[],
+"uid":"cyanzhou",
+"parent":"",
+"text":"[怒][怒] 支持这种政体的人都站出来，除了既得利益者，这种人吃人的社会怎么就优越了？[蜡烛]",
+"mid":"z7OGU8zMg",
+"date":"2012-12-02 03:36:40"
+},
+{
+"kids":[],
+"uid":"2920302050",
+"parent":"z7DYK8dB4",
+"text":"",
+"mid":"z7OFtuafV",
+"date":"2012-12-02 03:33:09"
+},
+{
+"kids":[],
+"uid":"2804675034",
+"parent":"z7DYK8dB4",
+"text":"",
+"mid":"z7OFttncx",
+"date":"2012-12-02 03:33:09"
+},
+{
+"kids":[
+"z8quWd6Sw",
+"z8jmt42Dl",
+"z8jmt1Z6E"
+],
+"uid":"2577398414",
+"parent":"",
+"text":"[怒][怒]一定要严惩凶手！！！",
+"mid":"z7OwN8Dlp",
+"date":"2012-12-02 03:11:45"
+},
+{
+"kids":[],
+"uid":"1189428693",
+"parent":"z7NwzrN7d",
+"text":"",
+"mid":"z7Ow4bBRt",
+"date":"2012-12-02 03:09:58"
+},
+{
+"kids":[],
+"uid":"2327884895",
+"parent":"",
+"text":"",
+"mid":"z7OpEs1FN",
+"date":"2012-12-02 02:54:10"
+},
+{
+"kids":[],
+"uid":"2789972542",
+"parent":"z7Lb3dMsF",
+"text":"",
+"mid":"z7O5d6Nra",
+"date":"2012-12-02 02:03:48"
+},
+{
+"kids":[],
+"uid":"2919686824",
+"parent":"z7Lb3dMsF",
+"text":"",
+"mid":"z7O5d65Zn",
+"date":"2012-12-02 02:03:48"
+},
+{
+"kids":[],
+"uid":"2594747481",
+"parent":"z7NgwwrS2",
+"text":"",
+"mid":"z7O1vdIno",
+"date":"2012-12-02 01:54:39"
+},
+{
+"kids":[
+"zihQ242iN",
+"z8v0qbiRY"
+],
+"uid":"1866860907",
+"parent":"z7NSCFmqN",
+"text":"",
+"mid":"z7O1t9DjW",
+"date":"2012-12-02 01:54:34"
+},
+{
+"kids":[],
+"uid":"1395743564",
+"parent":"z7NHWwLjO",
+"text":"",
+"mid":"z7NWlbcmX",
+"date":"2012-12-02 01:41:57"
+},
+{
+"kids":[],
+"uid":"1902569577",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z7NSOd374",
+"date":"2012-12-02 01:33:15"
+},
+{
+"kids":[],
+"uid":"1890821862",
+"parent":"z7NOvnze3",
+"text":"唉",
+"mid":"z7NSGyG2R",
+"date":"2012-12-02 01:32:57"
+},
+{
+"kids":[
+"z7RiymLsy",
+"z7O1t9DjW"
+],
+"uid":"luosuoyu",
+"parent":"",
+"text":"天堂没有城管，可怜的是孩子",
+"mid":"z7NSCFmqN",
+"date":"2012-12-02 01:32:48"
+},
+{
+"kids":[],
+"uid":"1506394107",
+"parent":"",
+"text":"",
+"mid":"z7NOKcjVX",
+"date":"2012-12-02 01:23:14"
+},
+{
+"kids":[
+"z7NSGyG2R"
+],
+"uid":"cjjiou2003",
+"parent":"z7NwkF9XN",
+"text":"哎",
+"mid":"z7NOvnze3",
+"date":"2012-12-02 01:22:39"
+},
+{
+"kids":[],
+"uid":"2789847402",
+"parent":"z7NKR40of",
+"text":"",
+"mid":"z7NNUsZWV",
+"date":"2012-12-02 01:21:11"
+},
+{
+"kids":[],
+"uid":"2810121760",
+"parent":"z7NKR40of",
+"text":"",
+"mid":"z7NNUsZVz",
+"date":"2012-12-02 01:21:10"
+},
+{
+"kids":[
+"z7NNUsZWV",
+"z7NNUsZVz"
+],
+"uid":"1597411352",
+"parent":"",
+"text":"唉、每天都有这么多令人心痛的事情发生",
+"mid":"z7NKR40of",
+"date":"2012-12-02 01:13:39"
+},
+{
+"kids":[],
+"uid":"2197727704",
+"parent":"",
+"text":"[蜡烛][泪]",
+"mid":"z7NJXcT1V",
+"date":"2012-12-02 01:11:26"
+},
+{
+"kids":[],
+"uid":"2162892894",
+"parent":"z7NAXBeWE",
+"text":"次奥",
+"mid":"z7NIryIZ1",
+"date":"2012-12-02 01:07:42"
+},
+{
+"kids":[
+"z7NWlbcmX"
+],
+"uid":"gxiping",
+"parent":"z7NgwwrS2",
+"text":"这种狗逼城管…艹你们血妈的[怒]",
+"mid":"z7NHWwLjO",
+"date":"2012-12-02 01:06:29"
+},
+{
+"kids":[],
+"uid":"2967567892",
+"parent":"",
+"text":"[蜡烛]心酸，三个孩子还在家中高高兴兴地等待妈妈买肉回去给他们做饭；心痛，三个孩子以后怎么去相信这社会有希望，怎么相信这社会的人性？！逝者已往，活着的要好好想想，怎么样才能不让悲剧再发生！",
+"mid":"z7NHF6MQ0",
+"date":"2012-12-02 01:05:47"
+},
+{
+"kids":[],
+"uid":"2286525975",
+"parent":"",
+"text":"",
+"mid":"z7NFWo6cu",
+"date":"2012-12-02 01:01:33"
+},
+{
+"kids":[],
+"uid":"1992564370",
+"parent":"z7NgwwrS2",
+"text":"",
+"mid":"z7NEQ8rBP",
+"date":"2012-12-02 00:58:51"
+},
+{
+"kids":[],
+"uid":"chenhan008",
+"parent":"z7NwyANuO",
+"text":"[怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒]",
+"mid":"z7NDTDDZb",
+"date":"2012-12-02 00:56:31"
+},
+{
+"kids":[],
+"uid":"1666734557",
+"parent":"",
+"text":"",
+"mid":"z7NBxDJFu",
+"date":"2012-12-02 00:50:40"
+},
+{
+"kids":[],
+"uid":"chenjing0430",
+"parent":"z7KIPkxTI",
+"text":"城管就是野蛮份子",
+"mid":"z7NB5zlRr",
+"date":"2012-12-02 00:49:36"
+},
+{
+"kids":[
+"z7NIryIZ1"
+],
+"uid":"2376231134",
+"parent":"z7NgdF7LZ",
+"text":"真难过！孩子没妈妈了！严惩凶手！",
+"mid":"z7NAXBeWE",
+"date":"2012-12-02 00:49:18"
+},
+{
+"kids":[],
+"uid":"2607948537",
+"parent":"z7N3p2E0H",
+"text":"",
+"mid":"z7NAE7egM",
+"date":"2012-12-02 00:48:27"
+},
+{
+"kids":[
+"z7RS978X1",
+"z7PprffQ9",
+"z7Ow4bBRt"
+],
+"uid":"713567387",
+"parent":"z7Ni9hFI4",
+"text":"",
+"mid":"z7NwzrN7d",
+"date":"2012-12-02 00:38:24"
+},
+{
+"kids":[
+"z7NDTDDZb"
+],
+"uid":"1941452232",
+"parent":"z7N3p2E0H",
+"text":"c他祖宗，不得好死，畜生[怒][泪]",
+"mid":"z7NwyANuO",
+"date":"2012-12-02 00:38:26"
+},
+{
+"kids":[
+"z8BemfjET",
+"z8m02kIY0",
+"z8m02jC1O",
+"z81u7c66c",
+"z80exb0ai",
+"z7RndEzvV",
+"z7R1zekQ3",
+"z7R1zddQG",
+"z7NOvnze3"
+],
+"uid":"wufei7",
+"parent":"z7JzNgB1a",
+"text":"",
+"mid":"z7NwkF9XN",
+"date":"2012-12-02 00:37:54"
+},
+{
+"kids":[],
+"uid":"2499762744",
+"parent":"",
+"text":"[怒骂]",
+"mid":"z7Nw02nOp",
+"date":"2012-12-02 00:37:03"
+},
+{
+"kids":[],
+"uid":"2790045754",
+"parent":"z7N3ihbXy",
+"text":"",
+"mid":"z7NvclZUp",
+"date":"2012-12-02 00:35:06"
+},
+{
+"kids":[],
+"uid":"2810523550",
+"parent":"z7N3ihbXy",
+"text":"",
+"mid":"z7NvclnZs",
+"date":"2012-12-02 00:35:05"
+},
+{
+"kids":[],
+"uid":"1610422342",
+"parent":"z7MvQeUWx",
+"text":"求真相！",
+"mid":"z7NvayTVM",
+"date":"2012-12-02 00:34:57"
+},
+{
+"kids":[
+"z7TLbd916"
+],
+"uid":"1590561313",
+"parent":"",
+"text":"[失望]",
+"mid":"z7Nuz63Mr",
+"date":"2012-12-02 00:33:31"
+},
+{
+"kids":[],
+"uid":"masterzou",
+"parent":"",
+"text":"http:",
+"mid":"z7NsBAR9d",
+"date":"2012-12-02 00:28:39"
+},
+{
+"kids":[],
+"uid":"1914068037",
+"parent":"z7N3p2E0H",
+"text":"",
+"mid":"z7NpqupZp",
+"date":"2012-12-02 00:20:51"
+},
+{
+"kids":[],
+"uid":"2102125447",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z7NoHAYzp",
+"date":"2012-12-02 00:19:06"
+},
+{
+"kids":[],
+"uid":"baoyuy",
+"parent":"z7NgdF7LZ",
+"text":"[晕]",
+"mid":"z7NnLo64U",
+"date":"2012-12-02 00:16:42"
+},
+{
+"kids":[],
+"uid":"wellby",
+"parent":"",
+"text":"城管有的时候就是畜生！！！！！！！！！！！！！！！！！！！！！！！！！！",
+"mid":"z7NliBBQo",
+"date":"2012-12-02 00:10:42"
+},
+{
+"kids":[],
+"uid":"206786073",
+"parent":"z7NgwwrS2",
+"text":"心纠着疼！[蜡烛]",
+"mid":"z7NkVh0pu",
+"date":"2012-12-02 00:09:45"
+},
+{
+"kids":[],
+"uid":"512325436",
+"parent":"",
+"text":"[鄙视][鄙视]畜生们",
+"mid":"z7NkDxCbW",
+"date":"2012-12-02 00:09:04"
+},
+{
+"kids":[
+"z7U2Cp8VG"
+],
+"uid":"315558636",
+"parent":"z7NgwwrS2",
+"text":"",
+"mid":"z7Nk3chUF",
+"date":"2012-12-02 00:07:38"
+},
+{
+"kids":[],
+"uid":"masterzou",
+"parent":"",
+"text":"回复@茉莉大酱:因为很多人想搅乱，更多人觉得乱了可能有利可图。",
+"mid":"z7NjB8tYd",
+"date":"2012-12-02 00:06:27"
+},
+{
+"kids":[],
+"uid":"2023640173",
+"parent":"",
+"text":"[蜡烛] 这是暴力执法吧，人孩子怎么办啊[泪]@会飞的流浪喵",
+"mid":"z7Njzni1M",
+"date":"2012-12-02 00:06:26"
+},
+{
+"kids":[],
+"uid":"1744560935",
+"parent":"z7NgwwrS2",
+"text":"",
+"mid":"z7NjxyVDN",
+"date":"2012-12-02 00:06:22"
+},
+{
+"kids":[],
+"uid":"1894352163",
+"parent":"",
+"text":"回复@Screamer_邹畅:原来是个谣。。。何必这么争风相对呢? 人民和Patei",
+"mid":"z7Njh3VEj",
+"date":"2012-12-02 00:05:42"
+},
+{
+"kids":[
+"z7NwzrN7d"
+],
+"uid":"1669638295",
+"parent":"z7Na3iHEj",
+"text":"",
+"mid":"z7Ni9hFI4",
+"date":"2012-12-02 00:02:53"
+},
+{
+"kids":[],
+"uid":"tb1975131",
+"parent":"z7NgdF7LZ",
+"text":"",
+"mid":"z7Ni4zxBD",
+"date":"2012-12-02 00:02:45"
+},
+{
+"kids":[],
+"uid":"2532904877",
+"parent":"z7NgwwrS2",
+"text":"是谁？",
+"mid":"z7Nh9zMpi",
+"date":"2012-12-02 00:00:29"
+},
+{
+"kids":[],
+"uid":"1992759950",
+"parent":"z7NgwwrS2",
+"text":"",
+"mid":"z7Nh8Egk8",
+"date":"2012-12-02 00:00:27"
+},
+{
+"kids":[
+"z7XXh47hX",
+"z7VRNrb4K",
+"z7UKvyF6Y",
+"z7R0VB9zZ",
+"z7QREBldw",
+"z7QlK25Ol",
+"z7QiPq9bI",
+"z7O1vdIno",
+"z7NHWwLjO",
+"z7NEQ8rBP",
+"z7NkVh0pu",
+"z7Nk3chUF",
+"z7NjxyVDN",
+"z7Nh9zMpi",
+"z7Nh8Egk8"
+],
+"uid":"guanxia2011",
+"parent":"z7NgdF7LZ",
+"text":"",
+"mid":"z7NgwwrS2",
+"date":"2012-12-01 23:58:53"
+},
+{
+"kids":[
+"z7NAXBeWE",
+"z7NnLo64U",
+"z7Ni4zxBD",
+"z7NgwwrS2"
+],
+"uid":"1105244634",
+"parent":"z7N3p2E0H",
+"text":"@王建民viola @Lewis-欣 @孙萌rare @宝玉大观园 @被自己感动的痛哭流涕 @陈莉violin @邓川violin @四化的微博",
+"mid":"z7NgdF7LZ",
+"date":"2012-12-01 23:58:08"
+},
+{
+"kids":[
+"z7QOsjWNf"
+],
+"uid":"wicked666",
+"parent":"z7N6uf5vW",
+"text":"",
+"mid":"z7NebuaXv",
+"date":"2012-12-01 23:53:10"
+},
+{
+"kids":[
+"z7QVzeLcR"
+],
+"uid":"mr135",
+"parent":"z7N3p2E0H",
+"text":"文明执法确实需要个渐进的过程，但制度上就不能立法限制如此粗暴如此无人道的执法行为？这类事件在全国各地总是此起彼伏地发生，说明什么？",
+"mid":"z7Nd3pvYz",
+"date":"2012-12-01 23:50:24"
+},
+{
+"kids":[],
+"uid":"2133573431",
+"parent":"z7Na3iHEj",
+"text":"孩子们该怎么生活下去？",
+"mid":"z7Nd0cwi9",
+"date":"2012-12-01 23:50:16"
+},
+{
+"kids":[
+"z7SVJFvBE"
+],
+"uid":"shuaishuairuoshui",
+"parent":"z7N3p2E0H",
+"text":"[怒][怒][怒]要求严惩城管凶手！",
+"mid":"z7Nci9glM",
+"date":"2012-12-01 23:48:26"
+},
+{
+"kids":[
+"z7Ni9hFI4",
+"z7Nd0cwi9"
+],
+"uid":"2194723940",
+"parent":"z7N3p2E0H",
+"text":"请大家默默转",
+"mid":"z7Na3iHEj",
+"date":"2012-12-01 23:42:59"
+},
+{
+"kids":[],
+"uid":"2233411554",
+"parent":"",
+"text":"",
+"mid":"z7N9KCWgR",
+"date":"2012-12-01 23:42:16"
+},
+{
+"kids":[],
+"uid":"wangtaolawyer",
+"parent":"z7N5W0nvG",
+"text":"故意杀人罪论处！",
+"mid":"z7N6KubeZ",
+"date":"2012-12-01 23:34:51"
+},
+{
+"kids":[
+"z7NebuaXv"
+],
+"uid":"317752555",
+"parent":"",
+"text":"",
+"mid":"z7N6uf5vW",
+"date":"2012-12-01 23:34:12"
+},
+{
+"kids":[],
+"uid":"1290480453",
+"parent":"z7N3p2E0H",
+"text":"这是我们唯一申述的渠道",
+"mid":"z7N69yZNa",
+"date":"2012-12-01 23:33:22"
+},
+{
+"kids":[
+"z7N6KubeZ"
+],
+"uid":"wangtaolawyer",
+"parent":"z7MwyeHFG",
+"text":"忍不住了！",
+"mid":"z7N5W0nvG",
+"date":"2012-12-01 23:32:50"
+},
+{
+"kids":[],
+"uid":"masterzou",
+"parent":"",
+"text":"不至于吧，人卖个山竹摔一跤，几年前的事儿这会儿估计都好利索了。年复一年这么多人咒她死啊？",
+"mid":"z7N4ander",
+"date":"2012-12-01 23:28:26"
+},
+{
+"kids":[],
+"uid":"1796868107",
+"parent":"",
+"text":"已经无话可说[蜡烛]阿姨走好",
+"mid":"z7N3R9Ohy",
+"date":"2012-12-01 23:27:43"
+},
+{
+"kids":[],
+"uid":"2679622103",
+"parent":"",
+"text":"如果我是主席第一个就是让城管没饭吃",
+"mid":"z7N3M5DTK",
+"date":"2012-12-01 23:27:28"
+},
+{
+"kids":[
+"z7S4XEh5e",
+"z7PPZpenN",
+"z7PwU1xc8",
+"z7NAE7egM",
+"z7NwyANuO",
+"z7NpqupZp",
+"z7NgdF7LZ",
+"z7Nd3pvYz",
+"z7Nci9glM",
+"z7Na3iHEj",
+"z7N69yZNa"
+],
+"uid":"violin2011",
+"parent":"",
+"text":"",
+"mid":"z7N3p2E0H",
+"date":"2012-12-01 23:26:37"
+},
+{
+"kids":[
+"z7NvclZUp",
+"z7NvclnZs"
+],
+"uid":"panhuajie",
+"parent":"z7KIPkxTI",
+"text":"竟有这事！",
+"mid":"z7N3ihbXy",
+"date":"2012-12-01 23:26:20"
+},
+{
+"kids":[],
+"uid":"masterzou",
+"parent":"",
+"text":"老谣。",
+"mid":"z7N28blbO",
+"date":"2012-12-01 23:23:27"
+},
+{
+"kids":[
+"z7R8TmIMX"
+],
+"uid":"2805740144",
+"parent":"",
+"text":"什么人道，TMD",
+"mid":"z7N0ZwctP",
+"date":"2012-12-01 23:20:40"
+},
+{
+"kids":[],
+"uid":"jasmineyidong",
+"parent":"z7Db8DpQJ",
+"text":"[蜡烛]",
+"mid":"z7MZs7hFx",
+"date":"2012-12-01 23:16:49"
+},
+{
+"kids":[
+"z7URgiyQy"
+],
+"uid":"wzzhangchen",
+"parent":"z7ME28LP0",
+"text":"城管就是狗，什么样的畜生都比城管强",
+"mid":"z7MOgjega",
+"date":"2012-12-01 22:49:15"
+},
+{
+"kids":[],
+"uid":"1865907995",
+"parent":"z7KY4BE5Y",
+"text":"太可恶了！！",
+"mid":"z7MGQdsnX",
+"date":"2012-12-01 22:31:02"
+},
+{
+"kids":[
+"z7MOgjega"
+],
+"uid":"2717297431",
+"parent":"",
+"text":"这就是当年的土匪啊",
+"mid":"z7ME28LP0",
+"date":"2012-12-01 22:24:06"
+},
+{
+"kids":[
+"z7N5W0nvG"
+],
+"uid":"cydlawyer",
+"parent":"z7MvQeUWx",
+"text":"",
+"mid":"z7MwyeHFG",
+"date":"2012-12-01 22:05:37"
+},
+{
+"kids":[
+"z7NvayTVM",
+"z7MwyeHFG"
+],
+"uid":"50627769",
+"parent":"z7Mm01tim",
+"text":"严惩凶手！",
+"mid":"z7MvQeUWx",
+"date":"2012-12-01 22:03:55"
+},
+{
+"kids":[],
+"uid":"2292886955",
+"parent":"",
+"text":"操他妈的",
+"mid":"z7Mvw6BBG",
+"date":"2012-12-01 22:03:07"
+},
+{
+"kids":[
+"z7XPN9TDh",
+"z7XPN94nP"
+],
+"uid":"2400943353",
+"parent":"z7L7YAjuP",
+"text":"对外软蛋，对内霸道，有意思么",
+"mid":"z7MpLtuTk",
+"date":"2012-12-01 21:48:57"
+},
+{
+"kids":[
+"z7RoVqdRr",
+"z7MvQeUWx"
+],
+"uid":"1914677862",
+"parent":"z7LPYhGdM",
+"text":"操！！！！！！！",
+"mid":"z7Mm01tim",
+"date":"2012-12-01 21:39:40"
+},
+{
+"kids":[],
+"uid":"wukaiok",
+"parent":"z7LPYhGdM",
+"text":"如果是真的 得偿命",
+"mid":"z7MhIDQG4",
+"date":"2012-12-01 21:29:08"
+},
+{
+"kids":[],
+"uid":"2435350524",
+"parent":"z7LgtbYvu",
+"text":"[怒]这是城管还是土匪啊！",
+"mid":"z7MdpeB2K",
+"date":"2012-12-01 21:18:31"
+},
+{
+"kids":[],
+"uid":"2647940153",
+"parent":"",
+"text":"",
+"mid":"z7M8DaQvB",
+"date":"2012-12-01 21:06:45"
+},
+{
+"kids":[],
+"uid":"kaixinxiaoer",
+"parent":"",
+"text":"",
+"mid":"z7LYtrkud",
+"date":"2012-12-01 20:41:42"
+},
+{
+"kids":[],
+"uid":"1972390797",
+"parent":"",
+"text":"为人民服务～～～[弱][弱][弱]",
+"mid":"z7LRt5H4P",
+"date":"2012-12-01 20:24:28"
+},
+{
+"kids":[
+"z7Mm01tim",
+"z7MhIDQG4"
+],
+"uid":"1273040622",
+"parent":"z7Ldipzr7",
+"text":"我了个去",
+"mid":"z7LPYhGdM",
+"date":"2012-12-01 20:20:45"
+},
+{
+"kids":[],
+"uid":"534770126",
+"parent":"",
+"text":"[怒]",
+"mid":"z7LP24LNb",
+"date":"2012-12-01 20:18:27"
+},
+{
+"kids":[],
+"uid":"534770126",
+"parent":"",
+"text":"[怒]",
+"mid":"z7LNdw3f8",
+"date":"2012-12-01 20:13:59"
+},
+{
+"kids":[],
+"uid":"2423926405",
+"parent":"",
+"text":"城管的最特码不是人 狗仗人势 啊啊啊啊啊啊啊啊啊啊 气死我啦",
+"mid":"z7LL8EZM2",
+"date":"2012-12-01 20:08:51"
+},
+{
+"kids":[],
+"uid":"yanermusic",
+"parent":"",
+"text":"[泪]希望社会多关注弱势群体！",
+"mid":"z7LJn380D",
+"date":"2012-12-01 20:04:29"
+},
+{
+"kids":[],
+"uid":"2795392912",
+"parent":"z7LmXBukk",
+"text":"[泪]",
+"mid":"z7LwNhx8E",
+"date":"2012-12-01 19:33:28"
+},
+{
+"kids":[],
+"uid":"2476328872",
+"parent":"",
+"text":"",
+"mid":"z7LoN7PE9",
+"date":"2012-12-01 19:13:46"
+},
+{
+"kids":[
+"z7LwNhx8E"
+],
+"uid":"1948969747",
+"parent":"",
+"text":"幸好我没去当城管。。。哎。。。中国到底怎么了。。。",
+"mid":"z7LmXBukk",
+"date":"2012-12-01 19:09:19"
+},
+{
+"kids":[],
+"uid":"2427377401",
+"parent":"z7JaSra8g",
+"text":"",
+"mid":"z7LjsrXjp",
+"date":"2012-12-01 19:00:40"
+},
+{
+"kids":[
+"z7MdpeB2K"
+],
+"uid":"80908190",
+"parent":"z7L4o7NQC",
+"text":"",
+"mid":"z7LgtbYvu",
+"date":"2012-12-01 18:53:15"
+},
+{
+"kids":[],
+"uid":"2181284452",
+"parent":"z7LdSsQQC",
+"text":"难道底层的人永远就只有死路一条吗[怒][怒][衰]",
+"mid":"z7LfVeQxP",
+"date":"2012-12-01 18:51:55"
+},
+{
+"kids":[
+"z7X1kaX59"
+],
+"uid":"2588217894",
+"parent":"z7L9B7WiA",
+"text":"这些狗这么凶，为什么不去收台湾岛，钓鱼岛和黄岩岛。[怒][怒][怒]",
+"mid":"z7LeJDepq",
+"date":"2012-12-01 18:49:02"
+},
+{
+"kids":[],
+"uid":"1767882417",
+"parent":"z7Ldipzr7",
+"text":"这社会，畜生特么披着人皮就敢出来乱逛！人不像人，鬼不像鬼！",
+"mid":"z7Lew2psP",
+"date":"2012-12-01 18:48:29"
+},
+{
+"kids":[
+"z7LfVeQxP"
+],
+"uid":"2138170025",
+"parent":"z7Ldipzr7",
+"text":"好心寒",
+"mid":"z7LdSsQQC",
+"date":"2012-12-01 18:46:54"
+},
+{
+"kids":[
+"z7R8ncfQm",
+"z7LPYhGdM",
+"z7Lew2psP",
+"z7LdSsQQC"
+],
+"uid":"2360953133",
+"parent":"z7KZ5wbcK",
+"text":"这个社会 哎",
+"mid":"z7Ldipzr7",
+"date":"2012-12-01 18:45:29"
+},
+{
+"kids":[
+"z8JFb7wOx",
+"z8JFb7wNL",
+"z8CzGBJU9",
+"z7O5d6Nra",
+"z7O5d65Zn"
+],
+"uid":"2713782451",
+"parent":"",
+"text":"无言以对",
+"mid":"z7Lb3dMsF",
+"date":"2012-12-01 18:39:54"
+},
+{
+"kids":[
+"z7URVnFVW"
+],
+"uid":"1885366657",
+"parent":"z7L7YAjuP",
+"text":"[怒][怒][怒]",
+"mid":"z7LaNefD9",
+"date":"2012-12-01 18:39:16"
+},
+{
+"kids":[
+"z7LeJDepq"
+],
+"uid":"copolymer",
+"parent":"z7L7YAjuP",
+"text":"裆跟红高色棉有差别吗？",
+"mid":"z7L9B7WiA",
+"date":"2012-12-01 18:36:22"
+},
+{
+"kids":[],
+"uid":"2828147780",
+"parent":"z7KY4BE5Y",
+"text":"人性啊",
+"mid":"z7L9B5jDo",
+"date":"2012-12-01 18:36:20"
+},
+{
+"kids":[
+"z7MpLtuTk",
+"z7LaNefD9",
+"z7L9B7WiA"
+],
+"uid":"allenbilei",
+"parent":"z7KWOgILs",
+"text":"",
+"mid":"z7L7YAjuP",
+"date":"2012-12-01 18:32:22"
+},
+{
+"kids":[],
+"uid":"2197600742",
+"parent":"",
+"text":"",
+"mid":"z7L5teiVX",
+"date":"2012-12-01 18:26:11"
+},
+{
+"kids":[
+"z7LgtbYvu"
+],
+"uid":"mtj1117",
+"parent":"",
+"text":"操你妈比！！！",
+"mid":"z7L4o7NQC",
+"date":"2012-12-01 18:23:32"
+},
+{
+"kids":[],
+"uid":"1778025854",
+"parent":"",
+"text":"小贩只是为求生而已。城市再整洁，但是如果城市里的人民活的很惨，那除了作为政绩工程，又有什么意义？",
+"mid":"z7KZny1yt",
+"date":"2012-12-01 18:11:10"
+},
+{
+"kids":[],
+"uid":"2711038715",
+"parent":"z7KY4BE5Y",
+"text":"用不用这样阿'城管真的是越来越无法无天了'",
+"mid":"z7KZjpQdJ",
+"date":"2012-12-01 18:11:02"
+},
+{
+"kids":[
+"z7Ldipzr7"
+],
+"uid":"2720071205",
+"parent":"z7KWOgILs",
+"text":"丧尽天良",
+"mid":"z7KZ5wbcK",
+"date":"2012-12-01 18:10:28"
+},
+{
+"kids":[
+"z7MGQdsnX",
+"z7L9B5jDo",
+"z7KZjpQdJ"
+],
+"uid":"1743864375",
+"parent":"z7Kxqc7un",
+"text":"",
+"mid":"z7KY4BE5Y",
+"date":"2012-12-01 18:07:59"
+},
+{
+"kids":[
+"z7L7YAjuP",
+"z7KZ5wbcK"
+],
+"uid":"attentionly",
+"parent":"z7KV8yuAp",
+"text":"看不下去",
+"mid":"z7KWOgILs",
+"date":"2012-12-01 18:04:52"
+},
+{
+"kids":[
+"z7KWOgILs"
+],
+"uid":"2207728105",
+"parent":"z7KIPkxTI",
+"text":"看来还要打黑！",
+"mid":"z7KV8yuAp",
+"date":"2012-12-01 18:00:45"
+},
+{
+"kids":[],
+"uid":"1803576425",
+"parent":"",
+"text":"都是不是人啊",
+"mid":"z7KUzEP30",
+"date":"2012-12-01 17:59:20"
+},
+{
+"kids":[],
+"uid":"nbdizi",
+"parent":"",
+"text":"",
+"mid":"z7KMW2kWJ",
+"date":"2012-12-01 17:40:33"
+},
+{
+"kids":[],
+"uid":"2406274693",
+"parent":"",
+"text":"[怒][怒骂][哼][怒][怒骂]我诅咒那些城管祖宗十八代，别跟我说你祖宗很无辜，这孩子他妈也很无辜，",
+"mid":"z7KMr0C6f",
+"date":"2012-12-01 17:39:18"
+},
+{
+"kids":[
+"z7PLljJAE",
+"z7NB5zlRr",
+"z7N3ihbXy",
+"z7KV8yuAp"
+],
+"uid":"1902845014",
+"parent":"z7KDpAYqx",
+"text":"他妈的全拉去喂狗…[怒][怒][怒]",
+"mid":"z7KIPkxTI",
+"date":"2012-12-01 17:30:25"
+},
+{
+"kids":[
+"z7KIPkxTI"
+],
+"uid":"2140155513",
+"parent":"z7JzNgB1a",
+"text":"[怒][怒][怒]",
+"mid":"z7KDpAYqx",
+"date":"2012-12-01 17:17:03"
+},
+{
+"kids":[],
+"uid":"2219113111",
+"parent":"",
+"text":"",
+"mid":"z7KCh1IGe",
+"date":"2012-12-01 17:14:16"
+},
+{
+"kids":[],
+"uid":"1576450165",
+"parent":"z7ICMvMXJ",
+"text":"这帮王八操的[怒][怒][怒]",
+"mid":"z7KC92e98",
+"date":"2012-12-01 17:13:58"
+},
+{
+"kids":[
+"z7KY4BE5Y"
+],
+"uid":"lovepchybeambo",
+"parent":"",
+"text":"",
+"mid":"z7Kxqc7un",
+"date":"2012-12-01 17:02:17"
+},
+{
+"kids":[],
+"uid":"2550136231",
+"parent":"z7KbP4hVD",
+"text":"撒子人些哟？",
+"mid":"z7KkHgjgd",
+"date":"2012-12-01 16:30:58"
+},
+{
+"kids":[
+"z7KkHgjgd"
+],
+"uid":"2166996672",
+"parent":"z7J9psDni",
+"text":"求真相！时间地点总该有的吧？",
+"mid":"z7KbP4hVD",
+"date":"2012-12-01 16:09:06"
+},
+{
+"kids":[],
+"uid":"jloveta",
+"parent":"",
+"text":"",
+"mid":"z7K8byw4K",
+"date":"2012-12-01 16:00:09"
+},
+{
+"kids":[
+"z7R2q72Lp"
+],
+"uid":"1831825807",
+"parent":"",
+"text":"喪盡天良的狗奴才",
+"mid":"z7K4Go0GH",
+"date":"2012-12-01 15:51:28"
+},
+{
+"kids":[],
+"uid":"2920349742",
+"parent":"",
+"text":"",
+"mid":"z7K0ZCIa5",
+"date":"2012-12-01 15:42:24"
+},
+{
+"kids":[],
+"uid":"fucku911",
+"parent":"z7JSk90qR",
+"text":"草～",
+"mid":"z7JZrEkX2",
+"date":"2012-12-01 15:38:37"
+},
+{
+"kids":[],
+"uid":"2235633862",
+"parent":"",
+"text":"太过分了！！！！[怒]一定要把凶手严惩！！！",
+"mid":"z7JWHatDr",
+"date":"2012-12-01 15:31:51"
+},
+{
+"kids":[
+"z7PDwFAJy"
+],
+"uid":"zhengmeizi",
+"parent":"",
+"text":"中国城管真牛逼 都该拉出去毙了",
+"mid":"z7JUp1v7r",
+"date":"2012-12-01 15:26:11"
+},
+{
+"kids":[
+"z7JZrEkX2"
+],
+"uid":"rocklover2000",
+"parent":"z7JrLEi2T",
+"text":"穷人的命不是命",
+"mid":"z7JSk90qR",
+"date":"2012-12-01 15:21:02"
+},
+{
+"kids":[],
+"uid":"1738714015",
+"parent":"z7Db8DpQJ",
+"text":"罪恶的执法者，不管他是那个主义都是违法犯罪。必需绳之以法。",
+"mid":"z7JPw6Mlk",
+"date":"2012-12-01 15:14:09"
+},
+{
+"kids":[],
+"uid":"2106443393",
+"parent":"",
+"text":"",
+"mid":"z7JOOnIlm",
+"date":"2012-12-01 15:12:25"
+},
+{
+"kids":[],
+"uid":"jazzxuan",
+"parent":"",
+"text":"",
+"mid":"z7JCCekjW",
+"date":"2012-12-01 14:42:22"
+},
+{
+"kids":[
+"z7NwkF9XN",
+"z7KDpAYqx"
+],
+"uid":"2157198674",
+"parent":"z7JtVwkV7",
+"text":"",
+"mid":"z7JzNgB1a",
+"date":"2012-12-01 14:35:25"
+},
+{
+"kids":[],
+"uid":"suepony",
+"parent":"z7JrLEi2T",
+"text":"",
+"mid":"z7JxTELfu",
+"date":"2012-12-01 14:30:45"
+},
+{
+"kids":[
+"z7JzNgB1a"
+],
+"uid":"2002353601",
+"parent":"z7JrLEi2T",
+"text":"",
+"mid":"z7JtVwkV7",
+"date":"2012-12-01 14:20:56"
+},
+{
+"kids":[
+"z7JSk90qR",
+"z7JxTELfu",
+"z7JtVwkV7"
+],
+"uid":"jamescao7",
+"parent":"z7JahehQc",
+"text":"",
+"mid":"z7JrLEi2T",
+"date":"2012-12-01 14:15:39"
+},
+{
+"kids":[],
+"uid":"1826788164",
+"parent":"",
+"text":"",
+"mid":"z7JpnDpIQ",
+"date":"2012-12-01 14:09:46"
+},
+{
+"kids":[],
+"uid":"ansonfdd",
+"parent":"z7IZe1cGV",
+"text":"社会主义好！",
+"mid":"z7JhIwyVl",
+"date":"2012-12-01 13:50:53"
+},
+{
+"kids":[],
+"uid":"2515318830",
+"parent":"",
+"text":"",
+"mid":"z7JhiaCmp",
+"date":"2012-12-01 13:49:50"
+},
+{
+"kids":[],
+"uid":"2905778474",
+"parent":"z7JfllzMJ",
+"text":"",
+"mid":"z7Jg4eUaw",
+"date":"2012-12-01 13:46:47"
+},
+{
+"kids":[
+"z7Jg4eUaw"
+],
+"uid":"2145662933",
+"parent":"z7IZe1cGV",
+"text":"城管你们就是披着羊皮的狼！国家雇的流氓，新上任的各位好好管管你们的手下吧",
+"mid":"z7JfllzMJ",
+"date":"2012-12-01 13:45:02"
+},
+{
+"kids":[],
+"uid":"2709303523",
+"parent":"",
+"text":"",
+"mid":"z7JchBEk5",
+"date":"2012-12-01 13:37:30"
+},
+{
+"kids":[
+"z7LjsrXjp"
+],
+"uid":"2720822751",
+"parent":"",
+"text":"崩溃！胡说八道，这他妈是推的？？？真恶毒，还他妈公务员呢！！@mizandpig23 @北京仁儿 @小Q子子",
+"mid":"z7JaSra8g",
+"date":"2012-12-01 13:34:01"
+},
+{
+"kids":[
+"z7JrLEi2T"
+],
+"uid":"GuitarToneMusic",
+"parent":"z7ICMvMXJ",
+"text":"[蜡烛]",
+"mid":"z7JahehQc",
+"date":"2012-12-01 13:32:31"
+},
+{
+"kids":[
+"z7KbP4hVD"
+],
+"uid":"2131669341",
+"parent":"",
+"text":"杀人犯",
+"mid":"z7J9psDni",
+"date":"2012-12-01 13:30:24"
+},
+{
+"kids":[],
+"uid":"1881848780",
+"parent":"",
+"text":"怎么推的能把人推成这样！！！",
+"mid":"z7J6cgNwi",
+"date":"2012-12-01 13:22:29"
+},
+{
+"kids":[],
+"uid":"1981074205",
+"parent":"z7ISqjdX4",
+"text":"[怒]",
+"mid":"z7J5QpIQ6",
+"date":"2012-12-01 13:21:38"
+},
+{
+"kids":[
+"z7JhIwyVl",
+"z7JfllzMJ"
+],
+"uid":"1761036454",
+"parent":"z7DRVApUJ",
+"text":"",
+"mid":"z7IZe1cGV",
+"date":"2012-12-01 13:05:19"
+},
+{
+"kids":[
+"z7J5QpIQ6"
+],
+"uid":"masterzou",
+"parent":"",
+"text":"老谣",
+"mid":"z7ISqjdX4",
+"date":"2012-12-01 12:48:34"
+},
+{
+"kids":[
+"z7KC92e98",
+"z7JahehQc"
+],
+"uid":"guitarcubetone",
+"parent":"",
+"text":"",
+"mid":"z7ICMvMXJ",
+"date":"2012-12-01 12:10:02"
+},
+{
+"kids":[],
+"uid":"2916696635",
+"parent":"z7I4TyQlN",
+"text":"城管全他妈的是人渣，社会的低级产物。。。。。。应该严惩不贷！[怒][怒][怒][怒][怒][怒][怒]",
+"mid":"z7IvOdNzQ",
+"date":"2012-12-01 11:52:50"
+},
+{
+"kids":[],
+"uid":"huangxiaotie",
+"parent":"z7D7jE7fA",
+"text":"重庆的社会风气严重有问题",
+"mid":"z7IetbHp7",
+"date":"2012-12-01 11:10:06"
+},
+{
+"kids":[],
+"uid":"2143955895",
+"parent":"",
+"text":"",
+"mid":"z7IcvdirA",
+"date":"2012-12-01 11:05:17"
+},
+{
+"kids":[],
+"uid":"2789884122",
+"parent":"",
+"text":"",
+"mid":"z7IbdEggR",
+"date":"2012-12-01 11:02:09"
+},
+{
+"kids":[],
+"uid":"2948170962",
+"parent":"",
+"text":"[怒][怒][泪][哼][泪]",
+"mid":"z7I51vukJ",
+"date":"2012-12-01 10:46:53"
+},
+{
+"kids":[
+"z7IvOdNzQ"
+],
+"uid":"zgg118",
+"parent":"z7HyyEO6x",
+"text":"社会的怪胎产物！",
+"mid":"z7I4TyQlN",
+"date":"2012-12-01 10:46:33"
+},
+{
+"kids":[],
+"uid":"2919750012",
+"parent":"",
+"text":"",
+"mid":"z7HUjxUe6",
+"date":"2012-12-01 10:20:28"
+},
+{
+"kids":[],
+"uid":"2633586574",
+"parent":"",
+"text":"",
+"mid":"z7HTv2cz0",
+"date":"2012-12-01 10:18:28"
+},
+{
+"kids":[],
+"uid":"1313263970",
+"parent":"z7HuM1a57",
+"text":"",
+"mid":"z7HOc9SSi",
+"date":"2012-12-01 10:05:25"
+},
+{
+"kids":[],
+"uid":"234584641",
+"parent":"",
+"text":"",
+"mid":"z7HFO6KO2",
+"date":"2012-12-01 09:44:44"
+},
+{
+"kids":[],
+"uid":"2881127114",
+"parent":"",
+"text":":[怒][怒][怒][怒][怒][怒][泪][泪][泪][泪][泪][泪][泪]",
+"mid":"z7HASxyUA",
+"date":"2012-12-01 09:32:35"
+},
+{
+"kids":[
+"z7I4TyQlN"
+],
+"uid":"xhyyxy2009",
+"parent":"z7Hy9uMcD",
+"text":"该拿去毙了",
+"mid":"z7HyyEO6x",
+"date":"2012-12-01 09:26:53"
+},
+{
+"kids":[
+"z7HyyEO6x"
+],
+"uid":"2642727241",
+"parent":"z7CRrpsq8",
+"text":"城管给人的印象比黑社会还可恶！快严惩吧！@牛建党 @刘兵班长 @张帆_笛韵 @孟晓旭二胡 @博哥-张博 @曹卫东琵琶 @DocuNeng @樊薇-琵琶 @胡玉林笛子 @加宝日记",
+"mid":"z7Hy9uMcD",
+"date":"2012-12-01 09:25:52"
+},
+{
+"kids":[],
+"uid":"2077486953",
+"parent":"z7EyBazFT",
+"text":"",
+"mid":"z7HxS7MSi",
+"date":"2012-12-01 09:25:11"
+},
+{
+"kids":[
+"z7HOc9SSi"
+],
+"uid":"2740725503",
+"parent":"z7CBa16QS",
+"text":"太可怕了",
+"mid":"z7HuM1a57",
+"date":"2012-12-01 09:17:33"
+},
+{
+"kids":[],
+"uid":"3003166581",
+"parent":"z7Db8DpQJ",
+"text":"再一次激动的说：我爱我的祖国！",
+"mid":"z7HejpVos",
+"date":"2012-12-01 08:36:59"
+},
+{
+"kids":[],
+"uid":"2111865000",
+"parent":"z7DVadjBG",
+"text":"城管还是这么牛呀",
+"mid":"z7GV8BYxg",
+"date":"2012-12-01 07:49:45"
+},
+{
+"kids":[],
+"uid":"xiao1104006538",
+"parent":"z7Do392us",
+"text":"",
+"mid":"z7GFUhAqo",
+"date":"2012-12-01 07:12:14"
+},
+{
+"kids":[],
+"uid":"2920018572",
+"parent":"z7DnoF1xb",
+"text":"",
+"mid":"z7FWjwLMM",
+"date":"2012-12-01 05:19:54"
+},
+{
+"kids":[],
+"uid":"2789743124",
+"parent":"z7DnoF1xb",
+"text":"",
+"mid":"z7FWjwLMe",
+"date":"2012-12-01 05:19:55"
+},
+{
+"kids":[],
+"uid":"2920341940",
+"parent":"z7Dz1ElCG",
+"text":"",
+"mid":"z7FVN4s8f",
+"date":"2012-12-01 05:18:37"
+},
+{
+"kids":[],
+"uid":"2920318662",
+"parent":"z7Dz1ElCG",
+"text":"",
+"mid":"z7FVN4s7H",
+"date":"2012-12-01 05:18:37"
+},
+{
+"kids":[],
+"uid":"2919982130",
+"parent":"",
+"text":"",
+"mid":"z7FqaaqjM",
+"date":"2012-12-01 04:00:42"
+},
+{
+"kids":[],
+"uid":"2920042074",
+"parent":"z7DYK8dB4",
+"text":"",
+"mid":"z7Fq10RjF",
+"date":"2012-12-01 04:00:20"
+},
+{
+"kids":[],
+"uid":"2920533542",
+"parent":"z7D2j8DDk",
+"text":"",
+"mid":"z7EXWxJzB",
+"date":"2012-12-01 02:51:10"
+},
+{
+"kids":[
+"z7HxS7MSi"
+],
+"uid":"1665797263",
+"parent":"z7D1drSCr",
+"text":"",
+"mid":"z7EyBazFT",
+"date":"2012-12-01 01:48:44"
+},
+{
+"kids":[],
+"uid":"titusshen",
+"parent":"z7zGJxofV",
+"text":"无论白天黑夜，都是一片虚假的繁荣。",
+"mid":"z7EnnwvGm",
+"date":"2012-12-01 01:21:06"
+},
+{
+"kids":[],
+"uid":"1263208602",
+"parent":"z7CbL2IiN",
+"text":"谁给你们的杀人权利？",
+"mid":"z7E5naIOV",
+"date":"2012-12-01 00:36:41"
+},
+{
+"kids":[],
+"uid":"234802989",
+"parent":"z7DYK8dB4",
+"text":"",
+"mid":"z7E4tB8s9",
+"date":"2012-12-01 00:34:33"
+},
+{
+"kids":[
+"z7OFtuafV",
+"z7OFttncx",
+"z7Fq10RjF",
+"z7E4tB8s9"
+],
+"uid":"1738115231",
+"parent":"z7Db8DpQJ",
+"text":"混蛋[怒]",
+"mid":"z7DYK8dB4",
+"date":"2012-12-01 00:20:21"
+},
+{
+"kids":[],
+"uid":"2108975850",
+"parent":"z7DnugHNe",
+"text":"看见暴力打暴力",
+"mid":"z7DWFk0Ly",
+"date":"2012-12-01 00:15:13"
+},
+{
+"kids":[
+"z7PHzhGpn",
+"z7GV8BYxg"
+],
+"uid":"2306560023",
+"parent":"z7zGJxofV",
+"text":"市容重要还是民生重要？政府只管罚没，难道不应施以救济吗，应当反思。/@张恒_作曲:白天还是黑夜？",
+"mid":"z7DVadjBG",
+"date":"2012-12-01 00:11:32"
+},
+{
+"kids":[
+"z7IZe1cGV"
+],
+"uid":"2554006164",
+"parent":"z7BONlvou",
+"text":"社会！",
+"mid":"z7DRVApUJ",
+"date":"2012-12-01 00:03:34"
+},
+{
+"kids":[],
+"uid":"1967043891",
+"parent":"z7CSZqdzP",
+"text":"",
+"mid":"z7DPMl0da",
+"date":"2012-11-30 23:58:19"
+},
+{
+"kids":[],
+"uid":"1830360851",
+"parent":"z7Dztq4ur",
+"text":"[怒][怒][怒]",
+"mid":"z7DF9o6qx",
+"date":"2012-11-30 23:32:05"
+},
+{
+"kids":[],
+"uid":"2354585582",
+"parent":"z7Db8DpQJ",
+"text":"",
+"mid":"z7DCGB4qY",
+"date":"2012-11-30 23:26:04"
+},
+{
+"kids":[],
+"uid":"3087635781",
+"parent":"",
+"text":"",
+"mid":"z7DzMkUsC",
+"date":"2012-11-30 23:18:51"
+},
+{
+"kids":[
+"z7DF9o6qx"
+],
+"uid":"2420782890",
+"parent":"z7DxdmG4S",
+"text":"[怒]",
+"mid":"z7Dztq4ur",
+"date":"2012-11-30 23:18:09"
+},
+{
+"kids":[
+"z7FVN4s8f",
+"z7FVN4s7H"
+],
+"uid":"2553121957",
+"parent":"",
+"text":"",
+"mid":"z7Dz1ElCG",
+"date":"2012-11-30 23:17:03"
+},
+{
+"kids":[],
+"uid":"2789729912",
+"parent":"",
+"text":"",
+"mid":"z7DxQ6YRu",
+"date":"2012-11-30 23:14:05"
+},
+{
+"kids":[
+"z7Dztq4ur"
+],
+"uid":"1787120493",
+"parent":"",
+"text":"你妈吪嘿阿.城管大晒阿",
+"mid":"z7DxdmG4S",
+"date":"2012-11-30 23:12:35"
+},
+{
+"kids":[],
+"uid":"1953398307",
+"parent":"z7Db8DpQJ",
+"text":"",
+"mid":"z7Dwa5D2T",
+"date":"2012-11-30 23:09:58"
+},
+{
+"kids":[],
+"uid":"1544593502",
+"parent":"z7Db8DpQJ",
+"text":"三个孩子，三个代表！",
+"mid":"z7Du3cHRM",
+"date":"2012-11-30 23:04:44"
+},
+{
+"kids":[],
+"uid":"2056185737",
+"parent":"z7Do392us",
+"text":"",
+"mid":"z7DoW9aLr",
+"date":"2012-11-30 22:52:11"
+},
+{
+"kids":[
+"z7Rzsc7bl",
+"z7RywzDS9",
+"z7GFUhAqo",
+"z7DoW9aLr"
+],
+"uid":"1956160562",
+"parent":"z7ClIzLjY",
+"text":"",
+"mid":"z7Do392us",
+"date":"2012-11-30 22:49:57"
+},
+{
+"kids":[
+"z7DWFk0Ly"
+],
+"uid":"ianlau",
+"parent":"",
+"text":"[泪][泪][泪]",
+"mid":"z7DnugHNe",
+"date":"2012-11-30 22:48:37"
+},
+{
+"kids":[
+"z7FWjwLMM",
+"z7FWjwLMe"
+],
+"uid":"1796520807",
+"parent":"",
+"text":"[泪]",
+"mid":"z7DnoF1xb",
+"date":"2012-11-30 22:48:24"
+},
+{
+"kids":[],
+"uid":"qiangnimei",
+"parent":"",
+"text":"自己欺负自己人，我们最大的能耐…",
+"mid":"z7DjUpHsP",
+"date":"2012-11-30 22:39:48"
+},
+{
+"kids":[],
+"uid":"2693412241",
+"parent":"z7D3r8jDf",
+"text":"",
+"mid":"z7DgV5oci",
+"date":"2012-11-30 22:32:26"
+},
+{
+"kids":[],
+"uid":"1763918963",
+"parent":"",
+"text":"求人肉城管~ 这还是人吗？ @文章同學",
+"mid":"z7DdCCT4J",
+"date":"2012-11-30 22:24:19"
+},
+{
+"kids":[],
+"uid":"rickygoodluck",
+"parent":"",
+"text":"城管最可恶。中国小偷猖獗，没人管，持枪杀人的抓不到，却抓着靠双手勤劳过日子的人不放。",
+"mid":"z7Dd0xbDp",
+"date":"2012-11-30 22:22:49"
+},
+{
+"kids":[
+"z7MZs7hFx",
+"z7JPw6Mlk",
+"z7HejpVos",
+"z7DYK8dB4",
+"z7DCGB4qY",
+"z7Dwa5D2T",
+"z7Du3cHRM"
+],
+"uid":"2034456967",
+"parent":"z7D3r8jDf",
+"text":"",
+"mid":"z7Db8DpQJ",
+"date":"2012-11-30 22:18:12"
+},
+{
+"kids":[],
+"uid":"jambooboe",
+"parent":"z7CBqgcL2",
+"text":"有人管没人管？？",
+"mid":"z7DayAem4",
+"date":"2012-11-30 22:16:46"
+},
+{
+"kids":[],
+"uid":"1557438984",
+"parent":"",
+"text":"",
+"mid":"z7DajfI7w",
+"date":"2012-11-30 22:16:08"
+},
+{
+"kids":[],
+"uid":"melissa1012",
+"parent":"z7CcJ11yn",
+"text":"[怒][怒][怒]",
+"mid":"z7D7r3Fgc",
+"date":"2012-11-30 22:09:05"
+},
+{
+"kids":[
+"z7IetbHp7"
+],
+"uid":"2163206187",
+"parent":"z7D3r8jDf",
+"text":"好惨 可是~~~3个孩子？不是只让生一个么？",
+"mid":"z7D7jE7fA",
+"date":"2012-11-30 22:08:46"
+},
+{
+"kids":[
+"z7DgV5oci",
+"z7Db8DpQJ",
+"z7D7jE7fA"
+],
+"uid":"2189381695",
+"parent":"",
+"text":"",
+"mid":"z7D3r8jDf",
+"date":"2012-11-30 21:59:12"
+},
+{
+"kids":[
+"z7EXWxJzB"
+],
+"uid":"2135682117",
+"parent":"z7CEY72GB",
+"text":"[泪][泪][泪][泪][泪]",
+"mid":"z7D2j8DDk",
+"date":"2012-11-30 21:56:27"
+},
+{
+"kids":[
+"z7EyBazFT"
+],
+"uid":"1862528845",
+"parent":"z7AZVhnhX",
+"text":"",
+"mid":"z7D1drSCr",
+"date":"2012-11-30 21:53:45"
+},
+{
+"kids":[],
+"uid":"2155268123",
+"parent":"z7CcJ11yn",
+"text":"",
+"mid":"z7CYhpk17",
+"date":"2012-11-30 21:46:31"
+},
+{
+"kids":[],
+"uid":"2731771434",
+"parent":"z7CbL2IiN",
+"text":"",
+"mid":"z7CXKkLQ5",
+"date":"2012-11-30 21:45:09"
+},
+{
+"kids":[],
+"uid":"2580479213",
+"parent":"z7BqwqDn6",
+"text":"在弱肉强食的时代，有人已麻木，有人在抵抗。制度和人心哪个可怕？",
+"mid":"z7CWyrXwz",
+"date":"2012-11-30 21:42:16"
+},
+{
+"kids":[],
+"uid":"334897789",
+"parent":"",
+"text":"",
+"mid":"z7CUPt73S",
+"date":"2012-11-30 21:38:01"
+},
+{
+"kids":[
+"z7DPMl0da"
+],
+"uid":"2946705504",
+"parent":"",
+"text":"",
+"mid":"z7CSZqdzP",
+"date":"2012-11-30 21:33:29"
+},
+{
+"kids":[
+"z7Hy9uMcD"
+],
+"uid":"1789096270",
+"parent":"z7CG4EQSE",
+"text":"沿街叫卖只是不合法，但执法者已经不是人！",
+"mid":"z7CRrpsq8",
+"date":"2012-11-30 21:29:40"
+},
+{
+"kids":[],
+"uid":"2136853941",
+"parent":"z7C93uyLb",
+"text":"",
+"mid":"z7CQsxyVs",
+"date":"2012-11-30 21:27:15"
+},
+{
+"kids":[],
+"uid":"1906203641",
+"parent":"",
+"text":"",
+"mid":"z7CPUzqOI",
+"date":"2012-11-30 21:25:54"
+},
+{
+"kids":[],
+"uid":"yrcc0426",
+"parent":"",
+"text":"[泪]",
+"mid":"z7CPnsgMN",
+"date":"2012-11-30 21:24:36"
+},
+{
+"kids":[],
+"uid":"2687834234",
+"parent":"z7CKpydiK",
+"text":"城管就是一群欺软怕硬货！[怒][怒]悲哀",
+"mid":"z7CPd6zzM",
+"date":"2012-11-30 21:24:10"
+},
+{
+"kids":[],
+"uid":"2717801711",
+"parent":"z7ANxgFWO",
+"text":"",
+"mid":"z7CMz73iF",
+"date":"2012-11-30 21:17:39"
+},
+{
+"kids":[],
+"uid":"3132774063",
+"parent":"z7CcJ11yn",
+"text":"你妹的，中国总有那么一大部分垃圾在人群中祸害别人。",
+"mid":"z7CMcFyd6",
+"date":"2012-11-30 21:16:46"
+},
+{
+"kids":[
+"z7CPd6zzM"
+],
+"uid":"2466435174",
+"parent":"",
+"text":"",
+"mid":"z7CKpydiK",
+"date":"2012-11-30 21:12:18"
+},
+{
+"kids":[],
+"uid":"2835272794",
+"parent":"",
+"text":"都不忍心转了，呜呜，为什么现在的社会还这么黑暗",
+"mid":"z7CK92wsS",
+"date":"2012-11-30 21:11:37"
+},
+{
+"kids":[],
+"uid":"2440563344",
+"parent":"z7CEY72GB",
+"text":"[弱][怒]",
+"mid":"z7CIZbXvO",
+"date":"2012-11-30 21:08:51"
+},
+{
+"kids":[],
+"uid":"1426302281",
+"parent":"z7BJfFpu3",
+"text":"",
+"mid":"z7CHNALlk",
+"date":"2012-11-30 21:05:55"
+},
+{
+"kids":[],
+"uid":"2804147874",
+"parent":"z7BJfFpu3",
+"text":"",
+"mid":"z7CGnyafo",
+"date":"2012-11-30 21:02:25"
+},
+{
+"kids":[],
+"uid":"2920181410",
+"parent":"z7BJfFpu3",
+"text":"",
+"mid":"z7CGnflhb",
+"date":"2012-11-30 21:02:23"
+},
+{
+"kids":[
+"z7CRrpsq8"
+],
+"uid":"2101593282",
+"parent":"z7BHU4VrC",
+"text":"",
+"mid":"z7CG4EQSE",
+"date":"2012-11-30 21:01:40"
+},
+{
+"kids":[
+"z7D2j8DDk",
+"z7CIZbXvO"
+],
+"uid":"2289157580",
+"parent":"",
+"text":"[怒][怒][怒][怒][怒][怒][泪][泪][泪][泪][泪][泪][泪]",
+"mid":"z7CEY72GB",
+"date":"2012-11-30 20:58:56"
+},
+{
+"kids":[],
+"uid":"mingelimanning",
+"parent":"z7CbL2IiN",
+"text":"[泪][泪][泪][怒]",
+"mid":"z7CCv1bSj",
+"date":"2012-11-30 20:52:50"
+},
+{
+"kids":[],
+"uid":"2715326270",
+"parent":"",
+"text":"",
+"mid":"z7CC4agOi",
+"date":"2012-11-30 20:51:44"
+},
+{
+"kids":[
+"z7DayAem4"
+],
+"uid":"1466930827",
+"parent":"z7CzXf3oh",
+"text":"",
+"mid":"z7CBqgcL2",
+"date":"2012-11-30 20:50:12"
+},
+{
+"kids":[
+"z7HuM1a57"
+],
+"uid":"2266088277",
+"parent":"",
+"text":"孙子",
+"mid":"z7CBa16QS",
+"date":"2012-11-30 20:49:30"
+},
+{
+"kids":[],
+"uid":"210002615",
+"parent":"z7CbAEJtx",
+"text":"",
+"mid":"z7CAcBMRJ",
+"date":"2012-11-30 20:47:12"
+},
+{
+"kids":[
+"z7CBqgcL2"
+],
+"uid":"2757112077",
+"parent":"",
+"text":"",
+"mid":"z7CzXf3oh",
+"date":"2012-11-30 20:46:35"
+},
+{
+"kids":[],
+"uid":"717892998",
+"parent":"z7Celtl92",
+"text":"安息，城管80％王八蛋，披著狗皮的豬。執法者怎能如此，良心安在，",
+"mid":"z7CxYk2xn",
+"date":"2012-11-30 20:41:42"
+},
+{
+"kids":[],
+"uid":"2707144227",
+"parent":"z7C6Ef117",
+"text":"[怒][怒][怒]",
+"mid":"z7CtvraxM",
+"date":"2012-11-30 20:30:42"
+},
+{
+"kids":[],
+"uid":"1759503397",
+"parent":"z7CbAEJtx",
+"text":"",
+"mid":"z7CqPnvoa",
+"date":"2012-11-30 20:24:03"
+},
+{
+"kids":[],
+"uid":"2189190811",
+"parent":"",
+"text":"[怒][怒][怒]",
+"mid":"z7Cp667Cq",
+"date":"2012-11-30 20:19:52"
+},
+{
+"kids":[],
+"uid":"2695623190",
+"parent":"",
+"text":"",
+"mid":"z7Coira4B",
+"date":"2012-11-30 20:17:51"
+},
+{
+"kids":[
+"z7Do392us"
+],
+"uid":"2134748653",
+"parent":"z7Celtl92",
+"text":"",
+"mid":"z7ClIzLjY",
+"date":"2012-11-30 20:11:32"
+},
+{
+"kids":[],
+"uid":"1737562560",
+"parent":"",
+"text":"→_→苛政猛于虎也。",
+"mid":"z7Ckh3vTZ",
+"date":"2012-11-30 20:07:57"
+},
+{
+"kids":[],
+"uid":"tangjie316894043",
+"parent":"z7CbC9Cm2",
+"text":"现在的城管不像城管，像某些人！不用挑明了说！",
+"mid":"z7CjTaB4R",
+"date":"2012-11-30 20:06:59"
+},
+{
+"kids":[],
+"uid":"2265184361",
+"parent":"z7C0YmzmA",
+"text":"[怒][怒][怒]",
+"mid":"z7ChY5lhi",
+"date":"2012-11-30 20:02:13"
+},
+{
+"kids":[],
+"uid":"1275246797",
+"parent":"z7CcJ11yn",
+"text":"",
+"mid":"z7CgQkr1V",
+"date":"2012-11-30 19:59:29"
+},
+{
+"kids":[],
+"uid":"2498693530",
+"parent":"",
+"text":"[怒]",
+"mid":"z7CgOffGN",
+"date":"2012-11-30 19:59:25"
+},
+{
+"kids":[
+"z7CxYk2xn",
+"z7ClIzLjY"
+],
+"uid":"2733112893",
+"parent":"z7CcJ11yn",
+"text":"",
+"mid":"z7Celtl92",
+"date":"2012-11-30 19:53:21"
+},
+{
+"kids":[],
+"uid":"star971102",
+"parent":"",
+"text":"",
+"mid":"z7CcRyYok",
+"date":"2012-11-30 19:49:42"
+},
+{
+"kids":[
+"z7D7r3Fgc",
+"z7CYhpk17",
+"z7CMcFyd6",
+"z7CgQkr1V",
+"z7Celtl92"
+],
+"uid":"king815",
+"parent":"z7CbL2IiN",
+"text":"如果说微博可以传递正能量，我希望大家能一起让逝者安息，让当地城管部门担负起应有的责任，别让“为人民服务”成为空话，狠话！",
+"mid":"z7CcJ11yn",
+"date":"2012-11-30 19:49:21"
+},
+{
+"kids":[
+"z7E5naIOV",
+"z7CXKkLQ5",
+"z7CCv1bSj",
+"z7CcJ11yn"
+],
+"uid":"209393780",
+"parent":"",
+"text":"我不知道说什么好，为这位老妈想[泪][泪][泪]",
+"mid":"z7CbL2IiN",
+"date":"2012-11-30 19:46:58"
+},
+{
+"kids":[
+"z7CjTaB4R"
+],
+"uid":"2278350474",
+"parent":"",
+"text":"城管到底是在为人民服务还是扰民，小贩也是迫不得已才摆摊的，以为自己是城管了不起啊",
+"mid":"z7CbC9Cm2",
+"date":"2012-11-30 19:46:35"
+},
+{
+"kids":[
+"z7CAcBMRJ",
+"z7CqPnvoa"
+],
+"uid":"1650507533",
+"parent":"",
+"text":"",
+"mid":"z7CbAEJtx",
+"date":"2012-11-30 19:46:34"
+},
+{
+"kids":[],
+"uid":"1768986242",
+"parent":"z7C0Q6bS2",
+"text":"",
+"mid":"z7CbwzSYT",
+"date":"2012-11-30 19:46:24"
+},
+{
+"kids":[],
+"uid":"2237664104",
+"parent":"z7C0YmzmA",
+"text":"[怒][怒][怒]",
+"mid":"z7CaLyrEw",
+"date":"2012-11-30 19:44:32"
+},
+{
+"kids":[],
+"uid":"2408624452",
+"parent":"",
+"text":"[怒]",
+"mid":"z7CaHshcr",
+"date":"2012-11-30 19:44:22"
+},
+{
+"kids":[
+"z7CQsxyVs"
+],
+"uid":"1849424081",
+"parent":"",
+"text":"[怒][怒][怒][怒][怒][怒][怒][怒][怒][泪][泪][泪][泪][泪]",
+"mid":"z7C93uyLb",
+"date":"2012-11-30 19:40:18"
+},
+{
+"kids":[],
+"uid":"2421808505",
+"parent":"z7C0YmzmA",
+"text":"",
+"mid":"z7C92idaX",
+"date":"2012-11-30 19:40:15"
+},
+{
+"kids":[],
+"uid":"2349346380",
+"parent":"z7C0YmzmA",
+"text":"",
+"mid":"z7C7B72wW",
+"date":"2012-11-30 19:36:42"
+},
+{
+"kids":[],
+"uid":"2276998727",
+"parent":"",
+"text":"可怜的三小孩怎么办",
+"mid":"z7C75rgM3",
+"date":"2012-11-30 19:35:29"
+},
+{
+"kids":[
+"z7YHq1s6A",
+"z7CtvraxM"
+],
+"uid":"3150500351",
+"parent":"z7B3uBvWv",
+"text":"",
+"mid":"z7C6Ef117",
+"date":"2012-11-30 19:34:23"
+},
+{
+"kids":[],
+"uid":"3042493985",
+"parent":"z7C0YmzmA",
+"text":"",
+"mid":"z7C6n6Gga",
+"date":"2012-11-30 19:33:42"
+},
+{
+"kids":[],
+"uid":"1882493291",
+"parent":"",
+"text":"[怒]没人性的东西！[怒][蜡烛]",
+"mid":"z7C6huIcR",
+"date":"2012-11-30 19:33:29"
+},
+{
+"kids":[],
+"uid":"lovejason462052077",
+"parent":"",
+"text":"",
+"mid":"z7C36phVy",
+"date":"2012-11-30 19:25:37"
+},
+{
+"kids":[],
+"uid":"2283941324",
+"parent":"",
+"text":"",
+"mid":"z7C2T6s9v",
+"date":"2012-11-30 19:25:05"
+},
+{
+"kids":[],
+"uid":"234540428",
+"parent":"z7C1b2bOs",
+"text":"[泪][怒][失望]",
+"mid":"z7C2MkPzh",
+"date":"2012-11-30 19:24:51"
+},
+{
+"kids":[],
+"uid":"519980505",
+"parent":"",
+"text":"",
+"mid":"z7C1G2PvX",
+"date":"2012-11-30 19:22:06"
+},
+{
+"kids":[
+"z7C2MkPzh"
+],
+"uid":"1810836940",
+"parent":"",
+"text":"[怒][泪][泪][泪]",
+"mid":"z7C1b2bOs",
+"date":"2012-11-30 19:20:53"
+},
+{
+"kids":[],
+"uid":"2304278074",
+"parent":"",
+"text":"[怒][怒]",
+"mid":"z7C184Rmu",
+"date":"2012-11-30 19:20:47"
+},
+{
+"kids":[
+"z7ChY5lhi",
+"z7CaLyrEw",
+"z7C92idaX",
+"z7C7B72wW",
+"z7C6n6Gga"
+],
+"uid":"102081231",
+"parent":"",
+"text":"[衰][怒][怒][怒]",
+"mid":"z7C0YmzmA",
+"date":"2012-11-30 19:20:21"
+},
+{
+"kids":[
+"z7CbwzSYT"
+],
+"uid":"2412147342",
+"parent":"",
+"text":"真的不是人[怒][汗][怒]",
+"mid":"z7C0Q6bS2",
+"date":"2012-11-30 19:20:03"
+},
+{
+"kids":[],
+"uid":"2251475847",
+"parent":"z7BJfFpu3",
+"text":"",
+"mid":"z7BXt8AOM",
+"date":"2012-11-30 19:11:46"
+},
+{
+"kids":[],
+"uid":"1686858643",
+"parent":"z7AZVhnhX",
+"text":"",
+"mid":"z7BWw2sKW",
+"date":"2012-11-30 19:09:22"
+},
+{
+"kids":[],
+"uid":"1970659333",
+"parent":"z7BHU4VrC",
+"text":"",
+"mid":"z7BTzqJr3",
+"date":"2012-11-30 19:02:11"
+},
+{
+"kids":[],
+"uid":"1170032433",
+"parent":"z7BDS6lzz",
+"text":"气阿！禽兽阿！[鄙视]",
+"mid":"z7BTuFSiz",
+"date":"2012-11-30 19:01:59"
+},
+{
+"kids":[
+"z7DRVApUJ"
+],
+"uid":"babbyc",
+"parent":"z7BMCBgmW",
+"text":"哎，法治社会",
+"mid":"z7BONlvou",
+"date":"2012-11-30 18:50:24"
+},
+{
+"kids":[],
+"uid":"2187515125",
+"parent":"z7BJfFpu3",
+"text":"[怒][怒][怒]",
+"mid":"z7BNX2fCq",
+"date":"2012-11-30 18:48:19"
+},
+{
+"kids":[
+"z7BONlvou"
+],
+"uid":"2562044544",
+"parent":"",
+"text":"[蜡烛][蜡烛]",
+"mid":"z7BMCBgmW",
+"date":"2012-11-30 18:45:03"
+},
+{
+"kids":[],
+"uid":"1932785202",
+"parent":"z7AZVhnhX",
+"text":"",
+"mid":"z7BLelCdR",
+"date":"2012-11-30 18:41:37"
+},
+{
+"kids":[],
+"uid":"2422373607",
+"parent":"z7zNFwD5Z",
+"text":"一个想吃肉 一个想吃人",
+"mid":"z7BJspE24",
+"date":"2012-11-30 18:37:15"
+},
+{
+"kids":[
+"z7CHNALlk",
+"z7CGnyafo",
+"z7CGnflhb",
+"z7BXt8AOM",
+"z7BNX2fCq"
+],
+"uid":"1986474443",
+"parent":"z7Apd7dL6",
+"text":"",
+"mid":"z7BJfFpu3",
+"date":"2012-11-30 18:36:45"
+},
+{
+"kids":[
+"z7CG4EQSE",
+"z7BTzqJr3"
+],
+"uid":"1502166237",
+"parent":"z7BqwqDn6",
+"text":"",
+"mid":"z7BHU4VrC",
+"date":"2012-11-30 18:33:26"
+},
+{
+"kids":[
+"z7BTuFSiz"
+],
+"uid":"1886862554",
+"parent":"z7ApgjJDw",
+"text":"不能文明吗！有点权就得瑟",
+"mid":"z7BDS6lzz",
+"date":"2012-11-30 18:23:28"
+},
+{
+"kids":[
+"z8C178PT5"
+],
+"uid":"2644300647",
+"parent":"z7AZVhnhX",
+"text":"",
+"mid":"z7BAY8NiX",
+"date":"2012-11-30 18:16:18"
+},
+{
+"kids":[
+"z7CWyrXwz",
+"z7BHU4VrC"
+],
+"uid":"2492897653",
+"parent":"z7AxLwRB2",
+"text":"",
+"mid":"z7BqwqDn6",
+"date":"2012-11-30 17:50:36"
+},
+{
+"kids":[],
+"uid":"1881410114",
+"parent":"",
+"text":"",
+"mid":"z7Bni4rP5",
+"date":"2012-11-30 17:42:39"
+},
+{
+"kids":[],
+"uid":"2074720667",
+"parent":"z7Apd7dL6",
+"text":"",
+"mid":"z7BiNq8sK",
+"date":"2012-11-30 17:31:35"
+},
+{
+"kids":[],
+"uid":"2072379287",
+"parent":"z7Alcgyws",
+"text":"贼贼贼！",
+"mid":"z7Ba714Hq",
+"date":"2012-11-30 17:10:10"
+},
+{
+"kids":[],
+"uid":"shakespeare888",
+"parent":"z7B3uBvWv",
+"text":"可怜哪，可恨！可怜这位苦命的母亲，可恨那些游走在城市里的爪牙！",
+"mid":"z7B4Oqms1",
+"date":"2012-11-30 16:57:07"
+},
+{
+"kids":[
+"z7C6Ef117",
+"z7B4Oqms1"
+],
+"uid":"1595210413",
+"parent":"",
+"text":"谋杀",
+"mid":"z7B3uBvWv",
+"date":"2012-11-30 16:53:50"
+},
+{
+"kids":[
+"z7D1drSCr",
+"z7BWw2sKW",
+"z7BLelCdR",
+"z7BAY8NiX"
+],
+"uid":"2094409525",
+"parent":"z7zWGgUi2",
+"text":"",
+"mid":"z7AZVhnhX",
+"date":"2012-11-30 16:45:04"
+},
+{
+"kids":[
+"z7CMz73iF"
+],
+"uid":"1392681747",
+"parent":"z7zFbuSG2",
+"text":"",
+"mid":"z7ANxgFWO",
+"date":"2012-11-30 16:14:33"
+},
+{
+"kids":[],
+"uid":"1878355187",
+"parent":"",
+"text":"[怒]",
+"mid":"z7AGOm3S5",
+"date":"2012-11-30 15:57:59"
+},
+{
+"kids":[],
+"uid":"1737883593",
+"parent":"",
+"text":"nmd",
+"mid":"z7AEyzRtZ",
+"date":"2012-11-30 15:52:26"
+},
+{
+"kids":[],
+"uid":"2815272363",
+"parent":"",
+"text":"真混蛋！",
+"mid":"z7AALFcNE",
+"date":"2012-11-30 15:43:04"
+},
+{
+"kids":[
+"A0fQU5O1T",
+"A0fPpkqwA",
+"z7BqwqDn6"
+],
+"uid":"2631904333",
+"parent":"z7Apd7dL6",
+"text":"真的应该改革。最需要的是务实。假大空太可耻了。习要争气啊。",
+"mid":"z7AxLwRB2",
+"date":"2012-11-30 15:35:42"
+},
+{
+"kids":[],
+"uid":"2465513344",
+"parent":"",
+"text":"TMD[怒][怒][怒]",
+"mid":"z7Axj8Vy0",
+"date":"2012-11-30 15:34:34"
+},
+{
+"kids":[],
+"uid":"1640215702",
+"parent":"",
+"text":"",
+"mid":"z7AwrnrTr",
+"date":"2012-11-30 15:32:24"
+},
+{
+"kids":[],
+"uid":"zhanghs",
+"parent":"z7Apd7dL6",
+"text":"",
+"mid":"z7AttykwQ",
+"date":"2012-11-30 15:25:08"
+},
+{
+"kids":[
+"z7BDS6lzz"
+],
+"uid":"2406454905",
+"parent":"",
+"text":"经核实，打人[弱]城管系临时协管。",
+"mid":"z7ApgjJDw",
+"date":"2012-11-30 15:14:45"
+},
+{
+"kids":[
+"A0fQU5O1T",
+"z7BJfFpu3",
+"z7BiNq8sK",
+"z7AxLwRB2",
+"z7AttykwQ"
+],
+"uid":"2408211757",
+"parent":"",
+"text":"",
+"mid":"z7Apd7dL6",
+"date":"2012-11-30 15:14:37"
+},
+{
+"kids":[],
+"uid":"bobonewlife",
+"parent":"z7zTLaUFh",
+"text":"cao!要把罪犯抓出来！",
+"mid":"z7AmP2Q4A",
+"date":"2012-11-30 15:08:44"
+},
+{
+"kids":[],
+"uid":"zuo0502",
+"parent":"",
+"text":"我转",
+"mid":"z7AmMn6YM",
+"date":"2012-11-30 15:08:38"
+},
+{
+"kids":[
+"z7Ba714Hq"
+],
+"uid":"2406454905",
+"parent":"z7zTseggT",
+"text":"贫苦的老百姓!/@bass辉:[怒]",
+"mid":"z7Alcgyws",
+"date":"2012-11-30 15:04:44"
+},
+{
+"kids":[
+"z7AZVhnhX"
+],
+"uid":"ruohan1314",
+"parent":"z7zNFwD5Z",
+"text":"",
+"mid":"z7zWGgUi2",
+"date":"2012-11-30 14:04:20"
+},
+{
+"kids":[
+"z7AmP2Q4A"
+],
+"uid":"rubyqinwakaka",
+"parent":"z7zNFwD5Z",
+"text":"[怒][怒][怒]",
+"mid":"z7zTLaUFh",
+"date":"2012-11-30 13:57:08"
+},
+{
+"kids":[
+"z7Alcgyws"
+],
+"uid":"1931090385",
+"parent":"",
+"text":"[怒]",
+"mid":"z7zTseggT",
+"date":"2012-11-30 13:56:21"
+},
+{
+"kids":[
+"z7BJspE24",
+"z7zWGgUi2",
+"z7zTLaUFh"
+],
+"uid":"jinxiao1987",
+"parent":"",
+"text":"",
+"mid":"z7zNFwD5Z",
+"date":"2012-11-30 13:42:08"
+},
+{
+"kids":[
+"z7EnnwvGm",
+"z7DVadjBG"
+],
+"uid":"1888189527",
+"parent":"z7zFbuSG2",
+"text":"白天还是黑夜？",
+"mid":"z7zGJxofV",
+"date":"2012-11-30 13:25:03"
+},
+{
+"kids":[
+"z7ANxgFWO",
+"z7zGJxofV"
+],
+"uid":"niuyi531",
+"parent":"",
+"text":"",
+"mid":"z7zFbuSG2",
+"date":"2012-11-30 13:21:14"
+},
+{
+"kids":[],
+"uid":"2752882577",
+"parent":"",
+"text":"",
+"mid":"z6FPMxsKp",
+"date":"2012-11-24 15:13:31"
+},
+{
+"kids":[],
+"uid":"2235596757",
+"parent":"",
+"text":"",
+"mid":"z6FMhljda",
+"date":"2012-11-24 15:04:53"
+},
+{
+"kids":[],
+"uid":"2804787890",
+"parent":"",
+"text":"",
+"mid":"z6Fae6k1p",
+"date":"2012-11-24 13:31:07"
+},
+{
+"kids":[],
+"uid":"1589678184",
+"parent":"",
+"text":"",
+"mid":"z6Fae6k09",
+"date":"2012-11-24 13:31:06"
+},
+{
+"kids":[],
+"uid":"2920288710",
+"parent":"z6frWuXjM",
+"text":"",
+"mid":"z6BrfEZWO",
+"date":"2012-11-24 04:02:06"
+},
+{
+"kids":[],
+"uid":"1440663335",
+"parent":"z6frWuXjM",
+"text":"",
+"mid":"z6sfi5xfV",
+"date":"2012-11-23 04:37:53"
+},
+{
+"kids":[],
+"uid":"2789754210",
+"parent":"z6frWuXjM",
+"text":"",
+"mid":"z6sfhtCom",
+"date":"2012-11-23 04:37:53"
+},
+{
+"kids":[],
+"uid":"1839780053",
+"parent":"",
+"text":"如果是真的，必须得转",
+"mid":"z6miumaPN",
+"date":"2012-11-22 13:29:17"
+},
+{
+"kids":[],
+"uid":"2804566822",
+"parent":"z6frWuXjM",
+"text":"",
+"mid":"z6iqi63to",
+"date":"2012-11-22 03:37:31"
+},
+{
+"kids":[],
+"uid":"2823525947",
+"parent":"z6fdD8ju9",
+"text":"天作孽尤可活，人作孽不可活",
+"mid":"z6fCuqmiG",
+"date":"2012-11-21 20:29:19"
+},
+{
+"kids":[
+"z6BrfEZWO",
+"z6sfi5xfV",
+"z6sfhtCom",
+"z6iqi63to"
+],
+"uid":"2625513061",
+"parent":"z6dvr0UlE",
+"text":"",
+"mid":"z6frWuXjM",
+"date":"2012-11-21 20:03:20"
+},
+{
+"kids":[
+"z6fCuqmiG"
+],
+"uid":"1733746893",
+"parent":"",
+"text":"不知类似的悲剧何时才能结束",
+"mid":"z6fdD8ju9",
+"date":"2012-11-21 19:28:04"
+},
+{
+"kids":[],
+"uid":"2823525947",
+"parent":"",
+"text":"不平之事天天有，我们却无能无力，只能转了",
+"mid":"z6e8EASMp",
+"date":"2012-11-21 16:43:06"
+},
+{
+"kids":[],
+"uid":"2901162850",
+"parent":"z6dvr0UlE",
+"text":"",
+"mid":"z6dVU9WFh",
+"date":"2012-11-21 16:11:42"
+},
+{
+"kids":[],
+"uid":"1984806721",
+"parent":"",
+"text":"[怒][怒][怒][怒][怒]",
+"mid":"z6dJIhsA6",
+"date":"2012-11-21 15:41:38"
+},
+{
+"kids":[],
+"uid":"dingzhe",
+"parent":"z6dvr0UlE",
+"text":"艹他妈的，没人性",
+"mid":"z6dDpBgZn",
+"date":"2012-11-21 15:26:08"
+},
+{
+"kids":[
+"z6frWuXjM",
+"z6dVU9WFh",
+"z6dDpBgZn"
+],
+"uid":"2628357313",
+"parent":"",
+"text":"我去你妹的，还有没有天理了[抓狂]虽然最近公务员题做的感觉挺体谅城管工作的，但是还是有没人性的干出遭天谴的事[怒]",
+"mid":"z6dvr0UlE",
+"date":"2012-11-21 15:06:26"
+},
+{
+"kids":[],
+"uid":"579442281",
+"parent":"z64RDakWW",
+"text":"",
+"mid":"z66xKbSqq",
+"date":"2012-11-20 21:22:55"
+},
+{
+"kids":[],
+"uid":"mh7788111",
+"parent":"z64FEzqpG",
+"text":"@重庆日报@重庆网警 @重庆晨报 @重庆大学",
+"mid":"z66bcdqsp",
+"date":"2012-11-20 20:27:19"
+},
+{
+"kids":[],
+"uid":"souljijie",
+"parent":"z64RDakWW",
+"text":"",
+"mid":"z65HSnxpM",
+"date":"2012-11-20 19:15:06"
+},
+{
+"kids":[],
+"uid":"2155413130",
+"parent":"z64VryBIh",
+"text":"",
+"mid":"z65wz7VGj",
+"date":"2012-11-20 18:47:17"
+},
+{
+"kids":[],
+"uid":"2325001375",
+"parent":"",
+"text":"是谁赋予了他们剥夺人生命的权利?到底是谁?[闭嘴]",
+"mid":"z654fmH73",
+"date":"2012-11-20 17:37:31"
+},
+{
+"kids":[],
+"uid":"2867865921",
+"parent":"",
+"text":"",
+"mid":"z65450VJn",
+"date":"2012-11-20 17:37:06"
+},
+{
+"kids":[],
+"uid":"1709625410",
+"parent":"z64FEzqpG",
+"text":"",
+"mid":"z650dmDeW",
+"date":"2012-11-20 17:27:34"
+},
+{
+"kids":[],
+"uid":"1874259681",
+"parent":"",
+"text":"",
+"mid":"z650dkQvA",
+"date":"2012-11-20 17:27:36"
+},
+{
+"kids":[
+"z65wz7VGj"
+],
+"uid":"sukicheng123",
+"parent":"",
+"text":"可恶的城管",
+"mid":"z64VryBIh",
+"date":"2012-11-20 17:15:50"
+},
+{
+"kids":[],
+"uid":"2184528790",
+"parent":"",
+"text":"城管你真不是东西啊[怒]",
+"mid":"z64TcpvRP",
+"date":"2012-11-20 17:10:17"
+},
+{
+"kids":[
+"z66xKbSqq",
+"z65HSnxpM"
+],
+"uid":"2195509195",
+"parent":"z64FEzqpG",
+"text":"求真相",
+"mid":"z64RDakWW",
+"date":"2012-11-20 17:06:26"
+},
+{
+"kids":[
+"z66bcdqsp",
+"z650dmDeW",
+"z64RDakWW"
+],
+"uid":"mh7788111",
+"parent":"",
+"text":"[怒][怒][怒]MLGB，求真相！",
+"mid":"z64FEzqpG",
+"date":"2012-11-20 16:36:56"
+},
+{
+"kids":[],
+"uid":"1840469677",
+"parent":"z5FeFyYsr",
+"text":"",
+"mid":"z5Tfx18vm",
+"date":"2012-11-19 11:32:21"
+},
+{
+"kids":[],
+"uid":"2776372255",
+"parent":"",
+"text":"",
+"mid":"z5Gc1BEWo",
+"date":"2012-11-18 02:18:01"
+},
+{
+"kids":[
+"z5Tfx18vm"
+],
+"uid":"zildjian",
+"parent":"z5F2HzA4R",
+"text":"十八大以后不知道会不会真的有所改变~",
+"mid":"z5FeFyYsr",
+"date":"2012-11-17 23:51:46"
+},
+{
+"kids":[
+"z5FeFyYsr"
+],
+"uid":"1737079360",
+"parent":"z5BWXlRxY",
+"text":"太。。。。。社会啊。。",
+"mid":"z5F2HzA4R",
+"date":"2012-11-17 23:22:18"
+},
+{
+"kids":[
+"z5F2HzA4R"
+],
+"uid":"536788901",
+"parent":"",
+"text":"次奥！",
+"mid":"z5BWXlRxY",
+"date":"2012-11-17 15:29:54"
+},
+{
+"kids":[],
+"uid":"2940544953",
+"parent":"",
+"text":"我要哭了啦！！！為何要推他？？！",
+"mid":"z5AuZFhqD",
+"date":"2012-11-17 11:48:17"
+},
+{
+"kids":[],
+"uid":"1820772353",
+"parent":"",
+"text":"转发微博。",
+"mid":"z5zqiwoVe",
+"date":"2012-11-17 09:03:57"
+},
+{
+"kids":[],
+"uid":"1410343080",
+"parent":"",
+"text":"",
+"mid":"z5z45yQ9S",
+"date":"2012-11-17 08:09:14"
+},
+{
+"kids":[],
+"uid":"1967852441",
+"parent":"",
+"text":"",
+"mid":"z5z1XrBjB",
+"date":"2012-11-17 08:03:59"
+}
+]

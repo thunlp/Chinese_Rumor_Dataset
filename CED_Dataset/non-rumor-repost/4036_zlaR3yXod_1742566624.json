@@ -1,0 +1,7447 @@
+[
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"D65szAqUi",
+"date":"2015-11-29 13:34:38"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"Cvj9lf5LR",
+"date":"2015-08-11 11:39:01"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"Ci4qs9cpH",
+"date":"2015-05-16 10:16:00"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"ChwGBpP11",
+"date":"2015-05-12 20:22:25"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"CcqrSBtVl",
+"date":"2015-04-09 07:18:09"
+},
+{
+"kids":[],
+"uid":"2920824843",
+"parent":"CbKbakTFS",
+"text":"",
+"mid":"CbKlS34lD",
+"date":"2015-04-04 20:07:58"
+},
+{
+"kids":[
+"CbKlS34lD"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"CbKbakTFS",
+"date":"2015-04-04 19:41:35"
+},
+{
+"kids":[],
+"uid":"2469418665",
+"parent":"C5P9xq6vR",
+"text":"",
+"mid":"C5PajgnIP",
+"date":"2015-02-24 21:21:24"
+},
+{
+"kids":[
+"C5PajgnIP"
+],
+"uid":"2391013633",
+"parent":"C5P898Zrg",
+"text":"",
+"mid":"C5P9xq6vR",
+"date":"2015-02-24 21:19:30"
+},
+{
+"kids":[
+"C5PajgnIP",
+"C5P9xq6vR"
+],
+"uid":"573223396",
+"parent":"C5FV0fQey",
+"text":"",
+"mid":"C5P898Zrg",
+"date":"2015-02-24 21:16:04"
+},
+{
+"kids":[
+"C5PajgnIP",
+"C5P9xq6vR",
+"C5P898Zrg"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"C5FV0fQey",
+"date":"2015-02-23 21:48:58"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"C4s0lnsxz",
+"date":"2015-02-15 20:33:22"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"C2hDmlqRN",
+"date":"2015-02-01 14:28:40"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"C2cl2dMTf",
+"date":"2015-02-01 00:59:46"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"C1hLEiQG6",
+"date":"2015-01-26 00:58:46"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BF44gbwn8",
+"date":"2015-01-11 16:54:02"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BE2Nu5GOo",
+"date":"2015-01-04 23:49:39"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BDHbdyLfk",
+"date":"2015-01-02 16:47:41"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BCYsAtNM8",
+"date":"2014-12-28 22:56:53"
+},
+{
+"kids":[],
+"uid":"2432658821",
+"parent":"BC3e5lIxu",
+"text":"http:",
+"mid":"BC3ev3kFV",
+"date":"2014-12-22 21:15:36"
+},
+{
+"kids":[
+"BC3ev3kFV"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BC3e5lIxu",
+"date":"2014-12-22 21:14:35"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BwpiKce92",
+"date":"2014-11-15 18:24:40"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BvPo3r0nm",
+"date":"2014-11-11 22:58:52"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"Bvw2KpQIs",
+"date":"2014-11-09 21:44:11"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"Bvrt0iAJ5",
+"date":"2014-11-09 10:05:08"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BuVysjTiY",
+"date":"2014-11-06 00:50:40"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BujxUgVut",
+"date":"2014-11-02 00:04:56"
+},
+{
+"kids":[],
+"uid":"3537572090",
+"parent":"BtocNigaH",
+"text":"",
+"mid":"Btogr1sNb",
+"date":"2014-10-26 22:15:19"
+},
+{
+"kids":[
+"Btogr1sNb"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BtocNigaH",
+"date":"2014-10-26 22:06:21"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"Bt3GQ41Xx",
+"date":"2014-10-24 17:52:41"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BsKQm0jmZ",
+"date":"2014-10-22 17:53:56"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BstXCeMPY",
+"date":"2014-10-20 22:55:08"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BqVU8dqLP",
+"date":"2014-10-10 18:22:51"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"Boteb3pfF",
+"date":"2014-09-24 13:41:58"
+},
+{
+"kids":[],
+"uid":"3558988947",
+"parent":"BodVA3NuE",
+"text":"",
+"mid":"BodWVp0y1",
+"date":"2014-09-22 22:48:15"
+},
+{
+"kids":[
+"BodWVp0y1"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BodVA3NuE",
+"date":"2014-09-22 22:44:57"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"Bo9zXuoGZ",
+"date":"2014-09-22 11:40:42"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BnKYDzkwL",
+"date":"2014-09-19 21:02:50"
+},
+{
+"kids":[],
+"uid":"2280368457",
+"parent":"BmPcU1PRD",
+"text":"",
+"mid":"BmRd2E6T3",
+"date":"2014-09-13 23:04:30"
+},
+{
+"kids":[
+"BmRd2E6T3"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BmPcU1PRD",
+"date":"2014-09-13 17:58:39"
+},
+{
+"kids":[],
+"uid":"2115237413",
+"parent":"BmNaI07ZQ",
+"text":"",
+"mid":"BmOVScKSf",
+"date":"2014-09-13 17:16:42"
+},
+{
+"kids":[
+"BmOVScKSf"
+],
+"uid":"3096586111",
+"parent":"BmN5YdXQG",
+"text":"修福修慧！仁爱布施！常静常清！淡泊名利！",
+"mid":"BmNaI07ZQ",
+"date":"2014-09-13 12:47:45"
+},
+{
+"kids":[
+"BmOVScKSf",
+"BmNaI07ZQ"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BmN5YdXQG",
+"date":"2014-09-13 12:36:05"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BkYoYyg7x",
+"date":"2014-09-01 13:42:31"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BkRrV2f1L",
+"date":"2014-08-31 20:00:32"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BfJ0hFX8F",
+"date":"2014-07-29 01:18:58"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BejQTqCtL",
+"date":"2014-07-19 19:26:50"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BcS6cwKTY",
+"date":"2014-07-10 06:57:20"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BbEH9EtRR",
+"date":"2014-07-02 06:59:38"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BbqkDvMqz",
+"date":"2014-06-30 18:25:42"
+},
+{
+"kids":[],
+"uid":"573377869",
+"parent":"BbeTpCkQR",
+"text":"",
+"mid":"Bbf6X9wSh",
+"date":"2014-06-29 13:51:46"
+},
+{
+"kids":[
+"Bbf6X9wSh"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BbeTpCkQR",
+"date":"2014-06-29 13:18:25"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"Bb4dEzYc2",
+"date":"2014-06-28 10:08:04"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BaPh9g8dh",
+"date":"2014-06-26 20:05:27"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"BaJSidOxz",
+"date":"2014-06-26 06:20:30"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B9LBW35L8",
+"date":"2014-06-19 20:55:23"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B9fuI27Nl",
+"date":"2014-06-16 11:09:40"
+},
+{
+"kids":[],
+"uid":"2784895935",
+"parent":"B8Xfe80UW",
+"text":"[威武]",
+"mid":"B90dZ9Dp6",
+"date":"2014-06-14 20:17:16"
+},
+{
+"kids":[],
+"uid":"3966609421",
+"parent":"B8Xfe80UW",
+"text":"[马到成功]",
+"mid":"B906UkXlM",
+"date":"2014-06-14 19:59:51"
+},
+{
+"kids":[],
+"uid":"zhanyuxi01",
+"parent":"B8ZhT8448",
+"text":"",
+"mid":"B8Zj50Suv",
+"date":"2014-06-14 17:57:05"
+},
+{
+"kids":[
+"B8Zj50Suv"
+],
+"uid":"1340737234",
+"parent":"B8Xcud8Or",
+"text":"",
+"mid":"B8ZhT8448",
+"date":"2014-06-14 17:54:09"
+},
+{
+"kids":[
+"B90dZ9Dp6",
+"B906UkXlM"
+],
+"uid":"hezejuyefayuan",
+"parent":"B8XaqhbUC",
+"text":"",
+"mid":"B8Xfe80UW",
+"date":"2014-06-14 12:42:06"
+},
+{
+"kids":[
+"B8Zj50Suv",
+"B8ZhT8448"
+],
+"uid":"819660606",
+"parent":"B8XaqhbUC",
+"text":"",
+"mid":"B8Xcud8Or",
+"date":"2014-06-14 12:35:21"
+},
+{
+"kids":[
+"B90dZ9Dp6",
+"B906UkXlM",
+"B8Zj50Suv",
+"B8ZhT8448",
+"B8Xfe80UW",
+"B8Xcud8Or"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B8XaqhbUC",
+"date":"2014-06-14 12:30:16"
+},
+{
+"kids":[],
+"uid":"heyanshen",
+"parent":"",
+"text":"[good]",
+"mid":"B8OXX9dmh",
+"date":"2014-06-13 15:37:33"
+},
+{
+"kids":[],
+"uid":"1401568677",
+"parent":"B8OlwhvlJ",
+"text":"",
+"mid":"B8OSCbm0w",
+"date":"2014-06-13 15:24:25"
+},
+{
+"kids":[],
+"uid":"2971676875",
+"parent":"B8OlwhvlJ",
+"text":"",
+"mid":"B8Omqqc21",
+"date":"2014-06-13 14:05:06"
+},
+{
+"kids":[
+"B8OSCbm0w",
+"B8Omqqc21"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B8OlwhvlJ",
+"date":"2014-06-13 14:02:53"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B7DwHx9af",
+"date":"2014-06-05 20:39:54"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B7jgeprDR",
+"date":"2014-06-03 17:04:24"
+},
+{
+"kids":[],
+"uid":"3504867817",
+"parent":"B61IOoHVb",
+"text":"",
+"mid":"B61V6r3xY",
+"date":"2014-05-26 07:05:21"
+},
+{
+"kids":[],
+"uid":"3810820837",
+"parent":"B61IOoHVb",
+"text":"",
+"mid":"B61RKaLzi",
+"date":"2014-05-26 06:57:04"
+},
+{
+"kids":[
+"B61V6r3xY",
+"B61RKaLzi"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B61IOoHVb",
+"date":"2014-05-26 06:35:04"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B5P085GA6",
+"date":"2014-05-24 22:12:01"
+},
+{
+"kids":[],
+"uid":"3257645724",
+"parent":"B5CJuqz7Y",
+"text":"曾国藩乃圣人也，为官为民的榜样。",
+"mid":"B5CNuDTnb",
+"date":"2014-05-23 15:07:55"
+},
+{
+"kids":[
+"B5CNuDTnb"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B5CJuqz7Y",
+"date":"2014-05-23 14:58:04"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B5wzZbnnR",
+"date":"2014-05-22 23:18:10"
+},
+{
+"kids":[],
+"uid":"2971676875",
+"parent":"B5iqNiUY1",
+"text":"[赞][赞][赞][赞][话筒]",
+"mid":"B5irvB8gu",
+"date":"2014-05-21 11:18:50"
+},
+{
+"kids":[
+"B5irvB8gu"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B5iqNiUY1",
+"date":"2014-05-21 11:17:04"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B4O1zCoTO",
+"date":"2014-05-18 05:52:32"
+},
+{
+"kids":[],
+"uid":"3308510737",
+"parent":"B49w6B3dm",
+"text":"",
+"mid":"B49wBmfwN",
+"date":"2014-05-13 22:46:21"
+},
+{
+"kids":[
+"B49wBmfwN"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B49w6B3dm",
+"date":"2014-05-13 22:45:08"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B3EcHovjZ",
+"date":"2014-05-10 15:02:10"
+},
+{
+"kids":[],
+"uid":"3175614322",
+"parent":"B3tj5AqP6",
+"text":"",
+"mid":"B3tjUckFb",
+"date":"2014-05-09 11:19:42"
+},
+{
+"kids":[
+"B3tjUckFb"
+],
+"uid":"3317046067",
+"parent":"B3ti2lpui",
+"text":"",
+"mid":"B3tj5AqP6",
+"date":"2014-05-09 11:17:42"
+},
+{
+"kids":[],
+"uid":"2448148825",
+"parent":"",
+"text":"",
+"mid":"B3tiH7ouv",
+"date":"2014-05-09 11:16:43"
+},
+{
+"kids":[
+"B3tjUckFb",
+"B3tj5AqP6"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B3ti2lpui",
+"date":"2014-05-09 11:15:06"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B33V4qq38",
+"date":"2014-05-06 18:39:51"
+},
+{
+"kids":[],
+"uid":"2177672711",
+"parent":"B2H3aBPw7",
+"text":"",
+"mid":"B2H3QjCZX",
+"date":"2014-05-04 08:28:16"
+},
+{
+"kids":[
+"B2H3QjCZX"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B2H3aBPw7",
+"date":"2014-05-04 08:26:38"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B2eVpuDJd",
+"date":"2014-05-01 08:50:36"
+},
+{
+"kids":[],
+"uid":"2903151497",
+"parent":"B284HzZZd",
+"text":"他的子孫都在美利坚[哈哈][哈哈][哈哈]",
+"mid":"B285B88Jq",
+"date":"2014-04-30 15:26:28"
+},
+{
+"kids":[
+"B285B88Jq"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B284HzZZd",
+"date":"2014-04-30 15:24:16"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"B1PGJt7V8",
+"date":"2014-04-28 16:35:46"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"AwEdy5EpS",
+"date":"2014-02-14 09:38:46"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"AvuzFxpEj",
+"date":"2014-02-06 19:15:30"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"Atb3NxzGh",
+"date":"2014-01-22 13:54:11"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"AsynP6q4c",
+"date":"2014-01-18 11:26:23"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"AmH9J4uFf",
+"date":"2013-12-10 22:44:31"
+},
+{
+"kids":[],
+"uid":"3558988947",
+"parent":"AehUR9uwi",
+"text":"",
+"mid":"Aejx9bYd3",
+"date":"2013-10-16 19:53:52"
+},
+{
+"kids":[
+"Aejx9bYd3"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"AehUR9uwi",
+"date":"2013-10-16 15:46:48"
+},
+{
+"kids":[],
+"uid":"2756515087",
+"parent":"zlaSWjoXt",
+"text":"",
+"mid":"A2UJAlY0y",
+"date":"2013-08-02 20:32:31"
+},
+{
+"kids":[],
+"uid":"huitaoshuyuan",
+"parent":"",
+"text":"轉發微博",
+"mid":"zFtbMDY23",
+"date":"2013-07-11 11:22:39"
+},
+{
+"kids":[],
+"uid":"dnablur",
+"parent":"",
+"text":"",
+"mid":"zAWqmrEdk",
+"date":"2013-06-11 16:36:42"
+},
+{
+"kids":[],
+"uid":"uc7116112",
+"parent":"",
+"text":"",
+"mid":"zra4MtC5m",
+"date":"2013-04-08 08:58:57"
+},
+{
+"kids":[],
+"uid":"1892490711",
+"parent":"zlb3L7PkG",
+"text":"",
+"mid":"zqSlhjglP",
+"date":"2013-04-06 11:50:10"
+},
+{
+"kids":[],
+"uid":"liuruouyu",
+"parent":"",
+"text":"",
+"mid":"zqSbxBEzD",
+"date":"2013-04-06 11:26:10"
+},
+{
+"kids":[],
+"uid":"uc7116112",
+"parent":"",
+"text":"",
+"mid":"zqko3s4tx",
+"date":"2013-04-02 21:23:36"
+},
+{
+"kids":[],
+"uid":"2060601373",
+"parent":"zlaT91WIB",
+"text":"",
+"mid":"zpWdZdqC4",
+"date":"2013-03-31 07:52:52"
+},
+{
+"kids":[],
+"uid":"heroforeverlove",
+"parent":"zlaU8c5xn",
+"text":"共勉~",
+"mid":"zpvPQhJ4A",
+"date":"2013-03-28 12:41:56"
+},
+{
+"kids":[],
+"uid":"1832963581",
+"parent":"",
+"text":"",
+"mid":"zolQufIsV",
+"date":"2013-03-20 21:25:47"
+},
+{
+"kids":[],
+"uid":"2719780393",
+"parent":"zlaTrms4h",
+"text":"",
+"mid":"znGA6ahq9",
+"date":"2013-03-16 12:22:46"
+},
+{
+"kids":[],
+"uid":"2493257231",
+"parent":"",
+"text":"转发微博。",
+"mid":"znc4ymSRF",
+"date":"2013-03-13 06:42:39"
+},
+{
+"kids":[],
+"uid":"lz201209090000",
+"parent":"zlb1K7Kcn",
+"text":"蓓太爷di逍遥无弦琴:慎独是一种情操；慎独是一种修养；慎独是一种自律；慎独是一种坦荡。所谓“慎独”，是指人们在独自活动无人监督的情况下，凭着高度自觉，按照一定的道德规范行动，而不做任何有违道德信念、做人原则之事。这是进行个人道德修养的重要方法，也是评定一个人道德水准的关键性环节。",
+"mid":"zmacqcsz9",
+"date":"2013-03-06 12:06:15"
+},
+{
+"kids":[],
+"uid":"2753646013",
+"parent":"",
+"text":"学习",
+"mid":"zlZ0g20md",
+"date":"2013-03-05 07:36:04"
+},
+{
+"kids":[],
+"uid":"1623757620",
+"parent":"",
+"text":"",
+"mid":"zlSXSeG3U",
+"date":"2013-03-04 16:13:43"
+},
+{
+"kids":[],
+"uid":"2919662060",
+"parent":"zlaRDnarR",
+"text":"",
+"mid":"zlOdmjzqL",
+"date":"2013-03-04 04:08:08"
+},
+{
+"kids":[],
+"uid":"3198588424",
+"parent":"zlb05xZLX",
+"text":"",
+"mid":"zlL8RfjyL",
+"date":"2013-03-03 20:18:47"
+},
+{
+"kids":[],
+"uid":"2194470741",
+"parent":"zliijjW1P",
+"text":"",
+"mid":"zlHhX7WSa",
+"date":"2013-03-03 10:30:12"
+},
+{
+"kids":[],
+"uid":"2092453082",
+"parent":"",
+"text":"",
+"mid":"zlHdtj0eC",
+"date":"2013-03-03 10:19:11"
+},
+{
+"kids":[],
+"uid":"2544246447",
+"parent":"",
+"text":"",
+"mid":"zlFIomecj",
+"date":"2013-03-03 06:29:52"
+},
+{
+"kids":[],
+"uid":"2919717530",
+"parent":"zlaRDnarR",
+"text":"",
+"mid":"zlEtqaHr7",
+"date":"2013-03-03 03:20:13"
+},
+{
+"kids":[],
+"uid":"1777057600",
+"parent":"zltIUciKJ",
+"text":"",
+"mid":"zlDBu4rNl",
+"date":"2013-03-03 01:07:21"
+},
+{
+"kids":[],
+"uid":"2674460060",
+"parent":"",
+"text":"",
+"mid":"zlCnN5guj",
+"date":"2013-03-02 22:00:53"
+},
+{
+"kids":[],
+"uid":"1752590042",
+"parent":"",
+"text":"以为是在说我",
+"mid":"zlycmxO6B",
+"date":"2013-03-02 11:21:43"
+},
+{
+"kids":[],
+"uid":"1751920582",
+"parent":"",
+"text":"",
+"mid":"zly2B4WRe",
+"date":"2013-03-02 10:57:39"
+},
+{
+"kids":[],
+"uid":"2789836972",
+"parent":"zltIUciKJ",
+"text":"",
+"mid":"zlwv2azpZ",
+"date":"2013-03-02 07:02:14"
+},
+{
+"kids":[],
+"uid":"1723778715",
+"parent":"zlnvK0ZKR",
+"text":"",
+"mid":"zlveDCEfo",
+"date":"2013-03-02 03:49:06"
+},
+{
+"kids":[],
+"uid":"2919614320",
+"parent":"zlb4khNf8",
+"text":"",
+"mid":"zltOWg80s",
+"date":"2013-03-02 00:12:58"
+},
+{
+"kids":[
+"zlDBu4rNl",
+"zlwv2azpZ"
+],
+"uid":"2695370591",
+"parent":"",
+"text":"学习再学习啊",
+"mid":"zltIUciKJ",
+"date":"2013-03-01 23:58:10"
+},
+{
+"kids":[],
+"uid":"cindywangxm",
+"parent":"",
+"text":"",
+"mid":"zlrC45h9g",
+"date":"2013-03-01 18:35:46"
+},
+{
+"kids":[],
+"uid":"2972820471",
+"parent":"zlaW5D94T",
+"text":"有道理！",
+"mid":"zlql3mKQ0",
+"date":"2013-03-01 15:21:10"
+},
+{
+"kids":[],
+"uid":"longhui426",
+"parent":"",
+"text":"",
+"mid":"zlpGLgH7m",
+"date":"2013-03-01 13:41:54"
+},
+{
+"kids":[],
+"uid":"2275808350",
+"parent":"",
+"text":"",
+"mid":"zlpCAt0Xh",
+"date":"2013-03-01 13:31:37"
+},
+{
+"kids":[],
+"uid":"yunjianname",
+"parent":"",
+"text":"大智大慧！",
+"mid":"zlphmln6c",
+"date":"2013-03-01 12:39:19"
+},
+{
+"kids":[
+"zlveDCEfo"
+],
+"uid":"1914214463",
+"parent":"",
+"text":"",
+"mid":"zlnvK0ZKR",
+"date":"2013-03-01 08:09:14"
+},
+{
+"kids":[],
+"uid":"2789674264",
+"parent":"zlk3f4lcm",
+"text":"",
+"mid":"zlmQgBRDJ",
+"date":"2013-03-01 06:27:05"
+},
+{
+"kids":[],
+"uid":"2186723195",
+"parent":"",
+"text":"",
+"mid":"zlmLl8MLz",
+"date":"2013-03-01 06:14:56"
+},
+{
+"kids":[],
+"uid":"2919278414",
+"parent":"zlb4JFEhs",
+"text":"",
+"mid":"zlmIYviWY",
+"date":"2013-03-01 06:09:07"
+},
+{
+"kids":[],
+"uid":"2808866432",
+"parent":"zlbsRrhnr",
+"text":"",
+"mid":"zlmAGE5ew",
+"date":"2013-03-01 05:48:41"
+},
+{
+"kids":[],
+"uid":"2804359642",
+"parent":"zle1XgPUh",
+"text":"",
+"mid":"zlluha7r4",
+"date":"2013-03-01 03:00:09"
+},
+{
+"kids":[],
+"uid":"1613629053",
+"parent":"zliBDgR0X",
+"text":"",
+"mid":"zlkT8rt0P",
+"date":"2013-03-01 01:28:39"
+},
+{
+"kids":[],
+"uid":"2804072164",
+"parent":"zlim0k3on",
+"text":"",
+"mid":"zlkGy1gUs",
+"date":"2013-03-01 00:57:39"
+},
+{
+"kids":[],
+"uid":"2658954041",
+"parent":"",
+"text":"",
+"mid":"zlkxg5Fmb",
+"date":"2013-03-01 00:34:46"
+},
+{
+"kids":[],
+"uid":"3170989300",
+"parent":"",
+"text":"",
+"mid":"zlkryEL8I",
+"date":"2013-03-01 00:20:42"
+},
+{
+"kids":[],
+"uid":"lovevera2010",
+"parent":"",
+"text":"曾国藩好火",
+"mid":"zlkre2a13",
+"date":"2013-03-01 00:19:52"
+},
+{
+"kids":[],
+"uid":"2948521185",
+"parent":"",
+"text":"",
+"mid":"zlk7rnZNR",
+"date":"2013-02-28 23:31:06"
+},
+{
+"kids":[],
+"uid":"2267096641",
+"parent":"",
+"text":"我桌上贴了一桌子便签，这又可做新加内容",
+"mid":"zlk3v61xk",
+"date":"2013-02-28 23:21:26"
+},
+{
+"kids":[
+"zlmQgBRDJ"
+],
+"uid":"2471898137",
+"parent":"",
+"text":"",
+"mid":"zlk3f4lcm",
+"date":"2013-02-28 23:20:48"
+},
+{
+"kids":[],
+"uid":"3180283042",
+"parent":"",
+"text":"",
+"mid":"zlk1NwLTT",
+"date":"2013-02-28 23:17:15"
+},
+{
+"kids":[],
+"uid":"1911653157",
+"parent":"",
+"text":"",
+"mid":"zljUh0SfN",
+"date":"2013-02-28 22:58:42"
+},
+{
+"kids":[],
+"uid":"2269509891",
+"parent":"",
+"text":"",
+"mid":"zljNl3hC1",
+"date":"2013-02-28 22:41:33"
+},
+{
+"kids":[],
+"uid":"2125522921",
+"parent":"",
+"text":"",
+"mid":"zljpbb7Hr",
+"date":"2013-02-28 21:42:06"
+},
+{
+"kids":[],
+"uid":"1374327704",
+"parent":"",
+"text":"",
+"mid":"zljgvn6eg",
+"date":"2013-02-28 21:20:45"
+},
+{
+"kids":[],
+"uid":"1913804584",
+"parent":"",
+"text":"",
+"mid":"zlj1cfbsR",
+"date":"2013-02-28 20:42:58"
+},
+{
+"kids":[],
+"uid":"1439339100",
+"parent":"",
+"text":"轉發微博",
+"mid":"zliTNEWia",
+"date":"2013-02-28 20:24:45"
+},
+{
+"kids":[
+"zlkT8rt0P"
+],
+"uid":"arklee1986",
+"parent":"zlinN83oF",
+"text":"穷不过三代，富不过三代适用于绝大多数家庭",
+"mid":"zliBDgR0X",
+"date":"2013-02-28 19:40:02"
+},
+{
+"kids":[],
+"uid":"3071597973",
+"parent":"",
+"text":"",
+"mid":"zlivUm73F",
+"date":"2013-02-28 19:25:54"
+},
+{
+"kids":[],
+"uid":"2933188223",
+"parent":"",
+"text":"",
+"mid":"zlisXrTPX",
+"date":"2013-02-28 19:18:40"
+},
+{
+"kids":[
+"zliBDgR0X"
+],
+"uid":"1424297870",
+"parent":"",
+"text":"@李多事君",
+"mid":"zlinN83oF",
+"date":"2013-02-28 19:05:57"
+},
+{
+"kids":[
+"zlkGy1gUs"
+],
+"uid":"2581126563",
+"parent":"",
+"text":"",
+"mid":"zlim0k3on",
+"date":"2013-02-28 19:01:32"
+},
+{
+"kids":[
+"zlHhX7WSa"
+],
+"uid":"1277526361",
+"parent":"",
+"text":"",
+"mid":"zliijjW1P",
+"date":"2013-02-28 18:52:26"
+},
+{
+"kids":[],
+"uid":"1274115445",
+"parent":"",
+"text":"",
+"mid":"zli6d5xa4",
+"date":"2013-02-28 18:22:35"
+},
+{
+"kids":[],
+"uid":"3115308413",
+"parent":"",
+"text":"",
+"mid":"zlhZMa68S",
+"date":"2013-02-28 18:06:44"
+},
+{
+"kids":[],
+"uid":"candyzyh",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlhWwAz6A",
+"date":"2013-02-28 17:58:46"
+},
+{
+"kids":[],
+"uid":"2883021202",
+"parent":"",
+"text":"",
+"mid":"zlhKIFbP9",
+"date":"2013-02-28 17:29:41"
+},
+{
+"kids":[],
+"uid":"2863054514",
+"parent":"",
+"text":"@我叫缪楠",
+"mid":"zlhGneZwo",
+"date":"2013-02-28 17:18:57"
+},
+{
+"kids":[],
+"uid":"3199091332",
+"parent":"",
+"text":"",
+"mid":"zlhD8gl8L",
+"date":"2013-02-28 17:10:57"
+},
+{
+"kids":[],
+"uid":"3215574287",
+"parent":"",
+"text":"",
+"mid":"zlhAODaPu",
+"date":"2013-02-28 17:05:15"
+},
+{
+"kids":[],
+"uid":"2100346907",
+"parent":"",
+"text":"",
+"mid":"zlhrQfJPk",
+"date":"2013-02-28 16:43:10"
+},
+{
+"kids":[],
+"uid":"2608235877",
+"parent":"",
+"text":"",
+"mid":"zlhogCD3p",
+"date":"2013-02-28 16:34:22"
+},
+{
+"kids":[],
+"uid":"2948892977",
+"parent":"",
+"text":"",
+"mid":"zlhjln0vj",
+"date":"2013-02-28 16:22:15"
+},
+{
+"kids":[],
+"uid":"2280290251",
+"parent":"",
+"text":"",
+"mid":"zlhiWgWtq",
+"date":"2013-02-28 16:21:13"
+},
+{
+"kids":[],
+"uid":"1769450861",
+"parent":"",
+"text":"",
+"mid":"zlhaP3QWS",
+"date":"2013-02-28 16:01:15"
+},
+{
+"kids":[],
+"uid":"1915333970",
+"parent":"",
+"text":"",
+"mid":"zlh8eiesN",
+"date":"2013-02-28 15:54:51"
+},
+{
+"kids":[],
+"uid":"2732501025",
+"parent":"",
+"text":"",
+"mid":"zlh5lvaFk",
+"date":"2013-02-28 15:47:45"
+},
+{
+"kids":[],
+"uid":"1080379240",
+"parent":"",
+"text":"",
+"mid":"zlh0pnkoO",
+"date":"2013-02-28 15:35:34"
+},
+{
+"kids":[],
+"uid":"1444958312",
+"parent":"",
+"text":"",
+"mid":"zlgTzlTSN",
+"date":"2013-02-28 15:18:43"
+},
+{
+"kids":[],
+"uid":"qin1ge",
+"parent":"",
+"text":"",
+"mid":"zlgTkAmXb",
+"date":"2013-02-28 15:18:07"
+},
+{
+"kids":[],
+"uid":"1151571655",
+"parent":"",
+"text":"",
+"mid":"zlgQdCgoe",
+"date":"2013-02-28 15:10:27"
+},
+{
+"kids":[],
+"uid":"2497500744",
+"parent":"",
+"text":"",
+"mid":"zlgMuy4aq",
+"date":"2013-02-28 15:01:18"
+},
+{
+"kids":[],
+"uid":"2937356980",
+"parent":"",
+"text":"",
+"mid":"zlgE47Lih",
+"date":"2013-02-28 14:40:32"
+},
+{
+"kids":[],
+"uid":"3209436333",
+"parent":"",
+"text":"",
+"mid":"zlgCCA9z6",
+"date":"2013-02-28 14:36:59"
+},
+{
+"kids":[],
+"uid":"514071961",
+"parent":"",
+"text":"[赞]",
+"mid":"zlgvksuCn",
+"date":"2013-02-28 14:19:01"
+},
+{
+"kids":[],
+"uid":"2815435424",
+"parent":"",
+"text":"",
+"mid":"zlgoZbln8",
+"date":"2013-02-28 14:03:24"
+},
+{
+"kids":[],
+"uid":"2810086764",
+"parent":"zlbbOt5ZS",
+"text":"",
+"mid":"zlgozsEeI",
+"date":"2013-02-28 14:02:20"
+},
+{
+"kids":[],
+"uid":"2110130014",
+"parent":"",
+"text":"",
+"mid":"zlgjBykrC",
+"date":"2013-02-28 13:50:08"
+},
+{
+"kids":[],
+"uid":"1231252960",
+"parent":"",
+"text":"",
+"mid":"zlgelmHxI",
+"date":"2013-02-28 13:37:10"
+},
+{
+"kids":[],
+"uid":"1002700153",
+"parent":"",
+"text":"",
+"mid":"zlg9vbcck",
+"date":"2013-02-28 13:25:14"
+},
+{
+"kids":[],
+"uid":"1406650995",
+"parent":"",
+"text":"",
+"mid":"zlg8Udh8C",
+"date":"2013-02-28 13:23:46"
+},
+{
+"kids":[],
+"uid":"2910865297",
+"parent":"",
+"text":"",
+"mid":"zlg1lzmu5",
+"date":"2013-02-28 13:05:08"
+},
+{
+"kids":[],
+"uid":"hzbc",
+"parent":"zlaVA2fha",
+"text":"",
+"mid":"zlfY922B5",
+"date":"2013-02-28 12:57:14"
+},
+{
+"kids":[],
+"uid":"3159455931",
+"parent":"",
+"text":"那个曾国藩...........@球形犬",
+"mid":"zlfUVeU0p",
+"date":"2013-02-28 12:49:19"
+},
+{
+"kids":[],
+"uid":"2067407215",
+"parent":"",
+"text":"",
+"mid":"zlfUUCtEq",
+"date":"2013-02-28 12:49:18"
+},
+{
+"kids":[],
+"uid":"2786124564",
+"parent":"",
+"text":"",
+"mid":"zlfTXeJCo",
+"date":"2013-02-28 12:46:54"
+},
+{
+"kids":[],
+"uid":"3075567651",
+"parent":"",
+"text":"",
+"mid":"zlfSmxBNj",
+"date":"2013-02-28 12:43:02"
+},
+{
+"kids":[],
+"uid":"2964093570",
+"parent":"",
+"text":"",
+"mid":"zlfRcrlR7",
+"date":"2013-02-28 12:40:09"
+},
+{
+"kids":[],
+"uid":"1693093912",
+"parent":"",
+"text":"",
+"mid":"zlfNM0jLZ",
+"date":"2013-02-28 12:31:42"
+},
+{
+"kids":[],
+"uid":"2201703194",
+"parent":"",
+"text":"",
+"mid":"zlfNwB8hb",
+"date":"2013-02-28 12:31:05"
+},
+{
+"kids":[],
+"uid":"1726224554",
+"parent":"",
+"text":"",
+"mid":"zlfLU9Qlm",
+"date":"2013-02-28 12:27:05"
+},
+{
+"kids":[],
+"uid":"3121594903",
+"parent":"",
+"text":"",
+"mid":"zlfIkvWrd",
+"date":"2013-02-28 12:18:18"
+},
+{
+"kids":[],
+"uid":"2651509383",
+"parent":"",
+"text":"",
+"mid":"zlfFvzs3t",
+"date":"2013-02-28 12:11:19"
+},
+{
+"kids":[],
+"uid":"1710914253",
+"parent":"",
+"text":"",
+"mid":"zlfz3x3jq",
+"date":"2013-02-28 11:55:25"
+},
+{
+"kids":[],
+"uid":"3076559147",
+"parent":"",
+"text":"",
+"mid":"zlfxKfInf",
+"date":"2013-02-28 11:52:13"
+},
+{
+"kids":[],
+"uid":"2318582312",
+"parent":"",
+"text":"",
+"mid":"zlfuOvjQH",
+"date":"2013-02-28 11:44:59"
+},
+{
+"kids":[],
+"uid":"2774718591",
+"parent":"",
+"text":"",
+"mid":"zlfspiAwJ",
+"date":"2013-02-28 11:39:04"
+},
+{
+"kids":[],
+"uid":"2645958720",
+"parent":"",
+"text":"",
+"mid":"zlfrOCX47",
+"date":"2013-02-28 11:37:37"
+},
+{
+"kids":[],
+"uid":"2696392390",
+"parent":"",
+"text":"",
+"mid":"zlfnC2QIN",
+"date":"2013-02-28 11:27:15"
+},
+{
+"kids":[],
+"uid":"2733790620",
+"parent":"",
+"text":"",
+"mid":"zlfeewysa",
+"date":"2013-02-28 11:04:08"
+},
+{
+"kids":[],
+"uid":"1729273570",
+"parent":"",
+"text":"",
+"mid":"zlfebzdI8",
+"date":"2013-02-28 11:04:02"
+},
+{
+"kids":[],
+"uid":"2219565185",
+"parent":"",
+"text":"",
+"mid":"zlfaDF7SA",
+"date":"2013-02-28 10:55:18"
+},
+{
+"kids":[],
+"uid":"qianyanchina",
+"parent":"",
+"text":"古训需新用",
+"mid":"zlf82nzLx",
+"date":"2013-02-28 10:48:52"
+},
+{
+"kids":[],
+"uid":"1698212092",
+"parent":"",
+"text":"",
+"mid":"zlf6ttR2o",
+"date":"2013-02-28 10:45:01"
+},
+{
+"kids":[],
+"uid":"cheer67swj",
+"parent":"",
+"text":"",
+"mid":"zlf69EBAF",
+"date":"2013-02-28 10:44:15"
+},
+{
+"kids":[],
+"uid":"1195080661",
+"parent":"",
+"text":"",
+"mid":"zlf4ApxaX",
+"date":"2013-02-28 10:40:22"
+},
+{
+"kids":[],
+"uid":"2938340365",
+"parent":"",
+"text":"",
+"mid":"zlf1CnBPF",
+"date":"2013-02-28 10:33:04"
+},
+{
+"kids":[],
+"uid":"2719267271",
+"parent":"",
+"text":"",
+"mid":"zlf12AXjq",
+"date":"2013-02-28 10:31:39"
+},
+{
+"kids":[],
+"uid":"2873793592",
+"parent":"",
+"text":"",
+"mid":"zlf04iVFl",
+"date":"2013-02-28 10:29:14"
+},
+{
+"kids":[],
+"uid":"1972324691",
+"parent":"",
+"text":"",
+"mid":"zleZloDVW",
+"date":"2013-02-28 10:27:28"
+},
+{
+"kids":[],
+"uid":"1984032625",
+"parent":"",
+"text":"",
+"mid":"zleX1vpXn",
+"date":"2013-02-28 10:21:45"
+},
+{
+"kids":[],
+"uid":"1293426053",
+"parent":"",
+"text":"",
+"mid":"zleU7w6QT",
+"date":"2013-02-28 10:14:35"
+},
+{
+"kids":[],
+"uid":"3187925800",
+"parent":"",
+"text":"膜拜  学习",
+"mid":"zleU5t5D6",
+"date":"2013-02-28 10:14:31"
+},
+{
+"kids":[],
+"uid":"1257076970",
+"parent":"",
+"text":"",
+"mid":"zleT83rYf",
+"date":"2013-02-28 10:12:07"
+},
+{
+"kids":[],
+"uid":"1930221151",
+"parent":"",
+"text":"",
+"mid":"zleSsq65j",
+"date":"2013-02-28 10:10:30"
+},
+{
+"kids":[],
+"uid":"2842983314",
+"parent":"",
+"text":"",
+"mid":"zleS1vK2L",
+"date":"2013-02-28 10:09:26"
+},
+{
+"kids":[],
+"uid":"3096854861",
+"parent":"",
+"text":"",
+"mid":"zleRf4KRO",
+"date":"2013-02-28 10:07:30"
+},
+{
+"kids":[],
+"uid":"2939582085",
+"parent":"",
+"text":"",
+"mid":"zleOIqIFg",
+"date":"2013-02-28 10:01:17"
+},
+{
+"kids":[],
+"uid":"2795132313",
+"parent":"",
+"text":"",
+"mid":"zleMBwe91",
+"date":"2013-02-28 09:56:04"
+},
+{
+"kids":[],
+"uid":"1846899427",
+"parent":"",
+"text":"",
+"mid":"zleLKDi7l",
+"date":"2013-02-28 09:53:59"
+},
+{
+"kids":[],
+"uid":"2621811517",
+"parent":"",
+"text":"",
+"mid":"zleKLaE9m",
+"date":"2013-02-28 09:51:33"
+},
+{
+"kids":[],
+"uid":"2362374595",
+"parent":"",
+"text":"",
+"mid":"zleKK0GKq",
+"date":"2013-02-28 09:51:29"
+},
+{
+"kids":[],
+"uid":"2812548837",
+"parent":"",
+"text":"",
+"mid":"zleKJp2YB",
+"date":"2013-02-28 09:51:27"
+},
+{
+"kids":[],
+"uid":"2588597674",
+"parent":"",
+"text":"",
+"mid":"zleKCklgP",
+"date":"2013-02-28 09:51:10"
+},
+{
+"kids":[],
+"uid":"2928088033",
+"parent":"",
+"text":"",
+"mid":"zleIdonSy",
+"date":"2013-02-28 09:45:14"
+},
+{
+"kids":[],
+"uid":"1936782895",
+"parent":"",
+"text":"",
+"mid":"zleHx90Zo",
+"date":"2013-02-28 09:43:35"
+},
+{
+"kids":[],
+"uid":"3215401691",
+"parent":"",
+"text":"转发微博。",
+"mid":"zleHv5kVh",
+"date":"2013-02-28 09:43:29"
+},
+{
+"kids":[],
+"uid":"1582546261",
+"parent":"",
+"text":"",
+"mid":"zleGDjfZ1",
+"date":"2013-02-28 09:41:22"
+},
+{
+"kids":[],
+"uid":"2070804833",
+"parent":"",
+"text":"慎独则心安；主敬则身强；求仁则人悦；习劳则神钦。",
+"mid":"zleEse5qT",
+"date":"2013-02-28 09:36:00"
+},
+{
+"kids":[],
+"uid":"532287899",
+"parent":"",
+"text":"[哈哈]",
+"mid":"zleDIpKtU",
+"date":"2013-02-28 09:34:10"
+},
+{
+"kids":[],
+"uid":"2503724337",
+"parent":"",
+"text":"",
+"mid":"zleCI6Il3",
+"date":"2013-02-28 09:31:42"
+},
+{
+"kids":[],
+"uid":"2975826017",
+"parent":"",
+"text":"",
+"mid":"zleBSq3cU",
+"date":"2013-02-28 09:29:38"
+},
+{
+"kids":[],
+"uid":"1452551274",
+"parent":"",
+"text":"",
+"mid":"zleBgfEdG",
+"date":"2013-02-28 09:28:08"
+},
+{
+"kids":[],
+"uid":"3044821215",
+"parent":"",
+"text":"",
+"mid":"zleB2FvjL",
+"date":"2013-02-28 09:27:36"
+},
+{
+"kids":[],
+"uid":"1447087671",
+"parent":"",
+"text":"",
+"mid":"zleAOvACm",
+"date":"2013-02-28 09:27:00"
+},
+{
+"kids":[],
+"uid":"3196882787",
+"parent":"",
+"text":"",
+"mid":"zleAC5fqn",
+"date":"2013-02-28 09:26:31"
+},
+{
+"kids":[],
+"uid":"okwf2003",
+"parent":"",
+"text":"",
+"mid":"zleAA3jKT",
+"date":"2013-02-28 09:26:27"
+},
+{
+"kids":[],
+"uid":"1592584385",
+"parent":"",
+"text":"",
+"mid":"zleAkkpF3",
+"date":"2013-02-28 09:25:49"
+},
+{
+"kids":[],
+"uid":"1922168245",
+"parent":"",
+"text":"",
+"mid":"zleAjtPSm",
+"date":"2013-02-28 09:25:48"
+},
+{
+"kids":[],
+"uid":"2028209641",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlezVxAoF",
+"date":"2013-02-28 09:24:51"
+},
+{
+"kids":[],
+"uid":"2831145590",
+"parent":"",
+"text":"",
+"mid":"zlezvd4pd",
+"date":"2013-02-28 09:23:48"
+},
+{
+"kids":[],
+"uid":"1041269494",
+"parent":"",
+"text":"",
+"mid":"zlez3aFLS",
+"date":"2013-02-28 09:22:42"
+},
+{
+"kids":[],
+"uid":"2679246033",
+"parent":"",
+"text":"",
+"mid":"zleyEjfg6",
+"date":"2013-02-28 09:21:42"
+},
+{
+"kids":[],
+"uid":"2628573122",
+"parent":"zldMZ7DyI",
+"text":"[good]",
+"mid":"zlexI8nLV",
+"date":"2013-02-28 09:19:23"
+},
+{
+"kids":[],
+"uid":"3201831580",
+"parent":"",
+"text":"",
+"mid":"zlextkSjc",
+"date":"2013-02-28 09:18:48"
+},
+{
+"kids":[],
+"uid":"swift369",
+"parent":"",
+"text":"",
+"mid":"zlewTAeOQ",
+"date":"2013-02-28 09:17:23"
+},
+{
+"kids":[],
+"uid":"3194124502",
+"parent":"",
+"text":"",
+"mid":"zlewJwxqV",
+"date":"2013-02-28 09:16:58"
+},
+{
+"kids":[],
+"uid":"2274727224",
+"parent":"",
+"text":"",
+"mid":"zlewC9rBD",
+"date":"2013-02-28 09:16:41"
+},
+{
+"kids":[],
+"uid":"2144694351",
+"parent":"",
+"text":"",
+"mid":"zlewilp4a",
+"date":"2013-02-28 09:15:55"
+},
+{
+"kids":[],
+"uid":"2516394214",
+"parent":"",
+"text":"",
+"mid":"zlevebZDt",
+"date":"2013-02-28 09:13:16"
+},
+{
+"kids":[],
+"uid":"2724550913",
+"parent":"",
+"text":"",
+"mid":"zlevcnlOT",
+"date":"2013-02-28 09:13:12"
+},
+{
+"kids":[],
+"uid":"3032354041",
+"parent":"",
+"text":"",
+"mid":"zleu7kwg3",
+"date":"2013-02-28 09:10:32"
+},
+{
+"kids":[],
+"uid":"1047454543",
+"parent":"",
+"text":"@话说呆呆",
+"mid":"zletLqq8m",
+"date":"2013-02-28 09:09:40"
+},
+{
+"kids":[],
+"uid":"1830235337",
+"parent":"",
+"text":"",
+"mid":"zletl9D6S",
+"date":"2013-02-28 09:08:37"
+},
+{
+"kids":[],
+"uid":"1093399137",
+"parent":"",
+"text":"",
+"mid":"zlerfqFe4",
+"date":"2013-02-28 09:03:26"
+},
+{
+"kids":[],
+"uid":"2789686714",
+"parent":"zlaT43l2E",
+"text":"",
+"mid":"zleqXp70b",
+"date":"2013-02-28 09:02:45"
+},
+{
+"kids":[],
+"uid":"2922432655",
+"parent":"",
+"text":"",
+"mid":"zlep8xPpr",
+"date":"2013-02-28 08:58:16"
+},
+{
+"kids":[],
+"uid":"2356921415",
+"parent":"",
+"text":"",
+"mid":"zleoLu8bW",
+"date":"2013-02-28 08:57:22"
+},
+{
+"kids":[],
+"uid":"3034135820",
+"parent":"",
+"text":"",
+"mid":"zleoG98Ls",
+"date":"2013-02-28 08:57:08"
+},
+{
+"kids":[],
+"uid":"1938122910",
+"parent":"",
+"text":"",
+"mid":"zleoz6k1H",
+"date":"2013-02-28 08:56:51"
+},
+{
+"kids":[],
+"uid":"1508246134",
+"parent":"",
+"text":"[good]",
+"mid":"zleo7B7tG",
+"date":"2013-02-28 08:55:45"
+},
+{
+"kids":[],
+"uid":"2615956715",
+"parent":"",
+"text":"喜爱曾国藩。",
+"mid":"zlenqaRYB",
+"date":"2013-02-28 08:54:02"
+},
+{
+"kids":[],
+"uid":"2264653430",
+"parent":"zlc36ocdE",
+"text":"",
+"mid":"zlemUw3oQ",
+"date":"2013-02-28 08:52:46"
+},
+{
+"kids":[],
+"uid":"2779182341",
+"parent":"",
+"text":"",
+"mid":"zlemnbblk",
+"date":"2013-02-28 08:51:26"
+},
+{
+"kids":[],
+"uid":"1999220415",
+"parent":"",
+"text":"",
+"mid":"zlelDBXPx",
+"date":"2013-02-28 08:49:40"
+},
+{
+"kids":[],
+"uid":"1277966232",
+"parent":"",
+"text":"",
+"mid":"zlelztNvD",
+"date":"2013-02-28 08:49:29"
+},
+{
+"kids":[],
+"uid":"2798279090",
+"parent":"",
+"text":"",
+"mid":"zlelghpof",
+"date":"2013-02-28 08:48:43"
+},
+{
+"kids":[],
+"uid":"2398818387",
+"parent":"",
+"text":"祖日",
+"mid":"zlekQyJcz",
+"date":"2013-02-28 08:47:42"
+},
+{
+"kids":[],
+"uid":"3153834464",
+"parent":"",
+"text":"",
+"mid":"zlekocLzS",
+"date":"2013-02-28 08:46:33"
+},
+{
+"kids":[],
+"uid":"1795904701",
+"parent":"",
+"text":"",
+"mid":"zleiW71g9",
+"date":"2013-02-28 08:42:59"
+},
+{
+"kids":[],
+"uid":"1623332411",
+"parent":"",
+"text":"",
+"mid":"zleiW68nT",
+"date":"2013-02-28 08:42:58"
+},
+{
+"kids":[],
+"uid":"2244080774",
+"parent":"",
+"text":"[思考]",
+"mid":"zleiK2B8n",
+"date":"2013-02-28 08:42:30"
+},
+{
+"kids":[],
+"uid":"1836606201",
+"parent":"",
+"text":"",
+"mid":"zleiumIlL",
+"date":"2013-02-28 08:41:52"
+},
+{
+"kids":[],
+"uid":"1663996033",
+"parent":"",
+"text":"",
+"mid":"zleiqtGZI",
+"date":"2013-02-28 08:41:43"
+},
+{
+"kids":[],
+"uid":"1712053877",
+"parent":"",
+"text":"",
+"mid":"zlei0eeGf",
+"date":"2013-02-28 08:40:40"
+},
+{
+"kids":[],
+"uid":"526567707",
+"parent":"",
+"text":"",
+"mid":"zlehPeSpC",
+"date":"2013-02-28 08:40:16"
+},
+{
+"kids":[],
+"uid":"3183735562",
+"parent":"",
+"text":"",
+"mid":"zlehKem1A",
+"date":"2013-02-28 08:40:03"
+},
+{
+"kids":[],
+"uid":"lawyerzjs",
+"parent":"",
+"text":"曾公一生慎行，严以律己，现在看来正值年富力强之年即积劳成疾离世，也如其为人处世风格相关。",
+"mid":"zlehva8Bw",
+"date":"2013-02-28 08:39:27"
+},
+{
+"kids":[],
+"uid":"jinalice",
+"parent":"",
+"text":"",
+"mid":"zlehhgLcZ",
+"date":"2013-02-28 08:38:54"
+},
+{
+"kids":[],
+"uid":"1453925830",
+"parent":"",
+"text":"",
+"mid":"zlegRfBtv",
+"date":"2013-02-28 08:37:52"
+},
+{
+"kids":[],
+"uid":"dutliudong",
+"parent":"",
+"text":"",
+"mid":"zlegwhCLC",
+"date":"2013-02-28 08:37:01"
+},
+{
+"kids":[],
+"uid":"3022402981",
+"parent":"",
+"text":"",
+"mid":"zlegkskCK",
+"date":"2013-02-28 08:36:34"
+},
+{
+"kids":[],
+"uid":"272909944",
+"parent":"",
+"text":"据为己有慢慢琢磨。",
+"mid":"zleg2t31n",
+"date":"2013-02-28 08:35:52"
+},
+{
+"kids":[],
+"uid":"1367319553",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlefUs3U2",
+"date":"2013-02-28 08:35:31"
+},
+{
+"kids":[],
+"uid":"2215675777",
+"parent":"",
+"text":"轉發微博",
+"mid":"zlefs7eyF",
+"date":"2013-02-28 08:34:25"
+},
+{
+"kids":[],
+"uid":"xiahuachengxi",
+"parent":"",
+"text":"",
+"mid":"zleffEhOl",
+"date":"2013-02-28 08:33:55"
+},
+{
+"kids":[],
+"uid":"taoshengyijiu2011",
+"parent":"",
+"text":"",
+"mid":"zlefdiBqb",
+"date":"2013-02-28 08:33:48"
+},
+{
+"kids":[],
+"uid":"1968023071",
+"parent":"",
+"text":"",
+"mid":"zlefa5FNY",
+"date":"2013-02-28 08:33:40"
+},
+{
+"kids":[],
+"uid":"2506831892",
+"parent":"",
+"text":"",
+"mid":"zleeXDCRK",
+"date":"2013-02-28 08:33:12"
+},
+{
+"kids":[],
+"uid":"2354510983",
+"parent":"",
+"text":"",
+"mid":"zleeAleJc",
+"date":"2013-02-28 08:32:16"
+},
+{
+"kids":[],
+"uid":"2650422825",
+"parent":"",
+"text":"曾国藩",
+"mid":"zlee80lTL",
+"date":"2013-02-28 08:31:07"
+},
+{
+"kids":[],
+"uid":"1608609697",
+"parent":"",
+"text":"",
+"mid":"zledVhNLM",
+"date":"2013-02-28 08:30:38"
+},
+{
+"kids":[],
+"uid":"yolanenglish",
+"parent":"",
+"text":"",
+"mid":"zledOciV4",
+"date":"2013-02-28 08:30:21"
+},
+{
+"kids":[],
+"uid":"2564319667",
+"parent":"",
+"text":"好",
+"mid":"zledp3ari",
+"date":"2013-02-28 08:29:20"
+},
+{
+"kids":[],
+"uid":"2744211380",
+"parent":"",
+"text":"",
+"mid":"zled6arP9",
+"date":"2013-02-28 08:28:35"
+},
+{
+"kids":[],
+"uid":"2798697273",
+"parent":"",
+"text":"",
+"mid":"zlecYtjn3",
+"date":"2013-02-28 08:28:18"
+},
+{
+"kids":[],
+"uid":"2641665765",
+"parent":"",
+"text":"",
+"mid":"zlecWnaWI",
+"date":"2013-02-28 08:28:12"
+},
+{
+"kids":[],
+"uid":"3071080021",
+"parent":"",
+"text":"",
+"mid":"zlectqy4S",
+"date":"2013-02-28 08:27:04"
+},
+{
+"kids":[],
+"uid":"1589523201",
+"parent":"",
+"text":"",
+"mid":"zlecqrnzt",
+"date":"2013-02-28 08:26:56"
+},
+{
+"kids":[],
+"uid":"2710727157",
+"parent":"",
+"text":"智者曾国藩",
+"mid":"zlecennlc",
+"date":"2013-02-28 08:26:27"
+},
+{
+"kids":[],
+"uid":"3121372591",
+"parent":"",
+"text":"",
+"mid":"zlebG5Ho4",
+"date":"2013-02-28 08:25:06"
+},
+{
+"kids":[],
+"uid":"3209614671",
+"parent":"",
+"text":"",
+"mid":"zlebjlnPj",
+"date":"2013-02-28 08:24:11"
+},
+{
+"kids":[],
+"uid":"1743345730",
+"parent":"zleaYE6sT",
+"text":"",
+"mid":"zlebgFEKQ",
+"date":"2013-02-28 08:24:05"
+},
+{
+"kids":[],
+"uid":"3210254175",
+"parent":"",
+"text":"曾国藩遗嘱四句话 后代没出一个败家子",
+"mid":"zlebb36e8",
+"date":"2013-02-28 08:23:52"
+},
+{
+"kids":[],
+"uid":"xiaoqigai321",
+"parent":"",
+"text":"",
+"mid":"zleb58s97",
+"date":"2013-02-28 08:23:38"
+},
+{
+"kids":[
+"zlebgFEKQ"
+],
+"uid":"2625812765",
+"parent":"zle9a2ikD",
+"text":"三是追求仁爱则人高兴。四是参加劳动则鬼神也敬重。",
+"mid":"zleaYE6sT",
+"date":"2013-02-28 08:23:23"
+},
+{
+"kids":[],
+"uid":"miniricecici",
+"parent":"",
+"text":"",
+"mid":"zleaPaZRH",
+"date":"2013-02-28 08:23:00"
+},
+{
+"kids":[],
+"uid":"2857677864",
+"parent":"zle9a2ikD",
+"text":"",
+"mid":"zleaLljIi",
+"date":"2013-02-28 08:22:50"
+},
+{
+"kids":[],
+"uid":"2836495544",
+"parent":"",
+"text":"对啊",
+"mid":"zle9LyGPc",
+"date":"2013-02-28 08:20:23"
+},
+{
+"kids":[],
+"uid":"1846395093",
+"parent":"",
+"text":"",
+"mid":"zle9m9bDi",
+"date":"2013-02-28 08:19:23"
+},
+{
+"kids":[
+"zleaYE6sT",
+"zleaLljIi"
+],
+"uid":"2633520721",
+"parent":"",
+"text":"【曾国藩遗嘱四句话 后代没出一个败家子】曾氏家族打破了“盛不过三代”魔咒，据称是曾国藩的“四条遗嘱”起到了决定性作用：一是慎独则心里平静。二是主敬则身体强健。三是追求仁爱则人高兴。四是参加劳动则鬼神也敬重。",
+"mid":"zle9a2ikD",
+"date":"2013-02-28 08:18:53"
+},
+{
+"kids":[],
+"uid":"3059723593",
+"parent":"",
+"text":"转发微博。",
+"mid":"zle83wq8Z",
+"date":"2013-02-28 08:16:09"
+},
+{
+"kids":[],
+"uid":"1034872833",
+"parent":"",
+"text":"",
+"mid":"zle7uE9Pj",
+"date":"2013-02-28 08:14:48"
+},
+{
+"kids":[],
+"uid":"1253678575",
+"parent":"",
+"text":"",
+"mid":"zle7t805F",
+"date":"2013-02-28 08:14:45"
+},
+{
+"kids":[],
+"uid":"2494129461",
+"parent":"",
+"text":"",
+"mid":"zle7jqv0N",
+"date":"2013-02-28 08:14:21"
+},
+{
+"kids":[],
+"uid":"2657048373",
+"parent":"",
+"text":"",
+"mid":"zle7hAjev",
+"date":"2013-02-28 08:14:17"
+},
+{
+"kids":[],
+"uid":"2840530030",
+"parent":"",
+"text":"",
+"mid":"zle6OEHuD",
+"date":"2013-02-28 08:13:08"
+},
+{
+"kids":[],
+"uid":"1972955193",
+"parent":"",
+"text":"曾国藩的“四条遗嘱”起到了决定性作用：一是慎独则心里平静。二是主敬则身体强健。三是追求仁爱则人高兴。四是参加劳动则鬼神也敬重。",
+"mid":"zle6NahxL",
+"date":"2013-02-28 08:13:04"
+},
+{
+"kids":[],
+"uid":"2373601037",
+"parent":"",
+"text":"",
+"mid":"zle6ArKIk",
+"date":"2013-02-28 08:12:35"
+},
+{
+"kids":[],
+"uid":"1862375915",
+"parent":"",
+"text":"",
+"mid":"zle6eDjaN",
+"date":"2013-02-28 08:11:41"
+},
+{
+"kids":[],
+"uid":"2883286141",
+"parent":"",
+"text":"",
+"mid":"zle5Xu0h4",
+"date":"2013-02-28 08:11:00"
+},
+{
+"kids":[],
+"uid":"3104032011",
+"parent":"",
+"text":"",
+"mid":"zle5j18Vi",
+"date":"2013-02-28 08:09:23"
+},
+{
+"kids":[],
+"uid":"texizhengzhou",
+"parent":"",
+"text":"",
+"mid":"zle5he1I5",
+"date":"2013-02-28 08:09:20"
+},
+{
+"kids":[],
+"uid":"daisyjz",
+"parent":"",
+"text":"",
+"mid":"zle4Fq4wB",
+"date":"2013-02-28 08:07:50"
+},
+{
+"kids":[],
+"uid":"1761651147",
+"parent":"",
+"text":"参加劳动则鬼神也敬重。[威武]",
+"mid":"zle4EveQh",
+"date":"2013-02-28 08:07:48"
+},
+{
+"kids":[],
+"uid":"2510312137",
+"parent":"",
+"text":"",
+"mid":"zle4a5NLu",
+"date":"2013-02-28 08:06:34"
+},
+{
+"kids":[],
+"uid":"2760308837",
+"parent":"",
+"text":"",
+"mid":"zle47oCrG",
+"date":"2013-02-28 08:06:29"
+},
+{
+"kids":[],
+"uid":"2376141727",
+"parent":"",
+"text":"转发微博。",
+"mid":"zle3x3X07",
+"date":"2013-02-28 08:05:01"
+},
+{
+"kids":[],
+"uid":"ln930123",
+"parent":"",
+"text":"慎独",
+"mid":"zle3tfVic",
+"date":"2013-02-28 08:04:53"
+},
+{
+"kids":[],
+"uid":"2803255972",
+"parent":"zlb2DDTpJ",
+"text":"",
+"mid":"zle3i0BWi",
+"date":"2013-02-28 08:04:25"
+},
+{
+"kids":[],
+"uid":"2938435130",
+"parent":"",
+"text":"",
+"mid":"zle3cEhA9",
+"date":"2013-02-28 08:04:13"
+},
+{
+"kids":[],
+"uid":"1358543623",
+"parent":"",
+"text":"说出来并不重要，重要的是践行！",
+"mid":"zle2ybjSf",
+"date":"2013-02-28 08:02:37"
+},
+{
+"kids":[],
+"uid":"1268036245",
+"parent":"",
+"text":"",
+"mid":"zle2qcyWd",
+"date":"2013-02-28 08:02:18"
+},
+{
+"kids":[],
+"uid":"2276670767",
+"parent":"",
+"text":"",
+"mid":"zle2fjZGC",
+"date":"2013-02-28 08:01:51"
+},
+{
+"kids":[
+"zlluha7r4"
+],
+"uid":"2794470854",
+"parent":"",
+"text":"",
+"mid":"zle1XgPUh",
+"date":"2013-02-28 08:01:09"
+},
+{
+"kids":[],
+"uid":"bennyface",
+"parent":"",
+"text":"慎独则心安；主敬则身强；求仁则人悦；习劳则神钦。@Vincyhoney",
+"mid":"zle1qaZ8n",
+"date":"2013-02-28 07:59:49"
+},
+{
+"kids":[],
+"uid":"sbh2002",
+"parent":"",
+"text":"慎独则心安；主敬则身强；求仁则人悦；习劳则神钦。",
+"mid":"zle14AuzZ",
+"date":"2013-02-28 07:58:58"
+},
+{
+"kids":[],
+"uid":"fafalaosaoeryi",
+"parent":"",
+"text":"",
+"mid":"zle0Ku0mR",
+"date":"2013-02-28 07:58:11"
+},
+{
+"kids":[],
+"uid":"2958173270",
+"parent":"",
+"text":"",
+"mid":"zle0acOSy",
+"date":"2013-02-28 07:56:44"
+},
+{
+"kids":[],
+"uid":"2942919652",
+"parent":"",
+"text":"",
+"mid":"zldYMtWtZ",
+"date":"2013-02-28 07:53:20"
+},
+{
+"kids":[],
+"uid":"m1cmic",
+"parent":"zlaVlwrRl",
+"text":"曾国藩家书。",
+"mid":"zldYxpJbs",
+"date":"2013-02-28 07:52:44"
+},
+{
+"kids":[],
+"uid":"3176670324",
+"parent":"",
+"text":"",
+"mid":"zldYs6IXC",
+"date":"2013-02-28 07:52:30"
+},
+{
+"kids":[],
+"uid":"2572760837",
+"parent":"",
+"text":"郑重",
+"mid":"zldY4qz0z",
+"date":"2013-02-28 07:51:33"
+},
+{
+"kids":[],
+"uid":"2092413843",
+"parent":"",
+"text":"转发微博。",
+"mid":"zldY0z7UJ",
+"date":"2013-02-28 07:51:26"
+},
+{
+"kids":[],
+"uid":"isjoson",
+"parent":"",
+"text":"",
+"mid":"zldXSBhqa",
+"date":"2013-02-28 07:51:07"
+},
+{
+"kids":[],
+"uid":"2746160181",
+"parent":"",
+"text":"",
+"mid":"zldXNihiA",
+"date":"2013-02-28 07:50:53"
+},
+{
+"kids":[],
+"uid":"1295092831",
+"parent":"zldTGBazp",
+"text":"",
+"mid":"zldXLdk0N",
+"date":"2013-02-28 07:50:49"
+},
+{
+"kids":[],
+"uid":"3265623947",
+"parent":"",
+"text":"",
+"mid":"zldXyuNuC",
+"date":"2013-02-28 07:50:19"
+},
+{
+"kids":[],
+"uid":"1505005685",
+"parent":"",
+"text":"",
+"mid":"zldXuF6Z2",
+"date":"2013-02-28 07:50:10"
+},
+{
+"kids":[],
+"uid":"2244059902",
+"parent":"",
+"text":"这不是神话！乃至理名言也！做到，很容易，当然也很困难！容易在一时，困难在一世！一世都能做，何愁业不火？",
+"mid":"zldXdfdZg",
+"date":"2013-02-28 07:49:29"
+},
+{
+"kids":[],
+"uid":"1948141842",
+"parent":"",
+"text":"",
+"mid":"zldW4AGeh",
+"date":"2013-02-28 07:46:40"
+},
+{
+"kids":[],
+"uid":"1998145742",
+"parent":"",
+"text":"",
+"mid":"zldV9i3CS",
+"date":"2013-02-28 07:44:23"
+},
+{
+"kids":[],
+"uid":"2127244127",
+"parent":"",
+"text":"",
+"mid":"zldUVr6SD",
+"date":"2013-02-28 07:43:50"
+},
+{
+"kids":[],
+"uid":"3052230982",
+"parent":"",
+"text":"",
+"mid":"zldUUflqV",
+"date":"2013-02-28 07:43:46"
+},
+{
+"kids":[],
+"uid":"joyhd",
+"parent":"zlbcXn67a",
+"text":"哈，我现查的。。。“主敬”就能一天天壮大自己，主观上对人对事傲慢无礼，就会一天天消亡自己。",
+"mid":"zldUGDbS1",
+"date":"2013-02-28 07:43:15"
+},
+{
+"kids":[],
+"uid":"3198959475",
+"parent":"",
+"text":"",
+"mid":"zldUipNBq",
+"date":"2013-02-28 07:42:17"
+},
+{
+"kids":[],
+"uid":"1680295193",
+"parent":"",
+"text":"",
+"mid":"zldUdoouR",
+"date":"2013-02-28 07:42:04"
+},
+{
+"kids":[],
+"uid":"1446486421",
+"parent":"",
+"text":"曾国藩的话简明有理!",
+"mid":"zldU61jfU",
+"date":"2013-02-28 07:41:46"
+},
+{
+"kids":[],
+"uid":"joyhd",
+"parent":"zlbcXn67a",
+"text":"主观做到对人对事恭恭敬敬就能使自己身心强健。内心专一宁静浑然一体，外表整齐严肃态度严谨，这是敬的方法。",
+"mid":"zldU3COTh",
+"date":"2013-02-28 07:41:42"
+},
+{
+"kids":[],
+"uid":"2876213691",
+"parent":"",
+"text":"@泡沫小嚸_Double @华堂聚和 @半大老头3008632351 @该怎么样怎么样 @",
+"mid":"zldTGBaAg",
+"date":"2013-02-28 07:40:46"
+},
+{
+"kids":[
+"zldXLdk0N"
+],
+"uid":"2663699403",
+"parent":"zldSqjTn9",
+"text":"",
+"mid":"zldTGBazp",
+"date":"2013-02-28 07:40:46"
+},
+{
+"kids":[],
+"uid":"aqi777",
+"parent":"zldIi3MJN",
+"text":"",
+"mid":"zldT3hVqA",
+"date":"2013-02-28 07:39:12"
+},
+{
+"kids":[],
+"uid":"2985348664",
+"parent":"",
+"text":"",
+"mid":"zldT256We",
+"date":"2013-02-28 07:39:10"
+},
+{
+"kids":[
+"zldTGBazp"
+],
+"uid":"536421235",
+"parent":"",
+"text":"这四条，对于任何年龄段的人都是成立的。生活中，你主动出击的有几条？被动更不愿接受的有几条？",
+"mid":"zldSqjTn9",
+"date":"2013-02-28 07:37:40"
+},
+{
+"kids":[],
+"uid":"adamhai",
+"parent":"",
+"text":"",
+"mid":"zldSjbcsY",
+"date":"2013-02-28 07:37:23"
+},
+{
+"kids":[],
+"uid":"2549097863",
+"parent":"",
+"text":"",
+"mid":"zldS3dKVB",
+"date":"2013-02-28 07:36:45"
+},
+{
+"kids":[],
+"uid":"joyhd",
+"parent":"zlbcXn67a",
+"text":"第四条怎么是大白话？",
+"mid":"zldRZENm7",
+"date":"2013-02-28 07:36:36"
+},
+{
+"kids":[],
+"uid":"2747961147",
+"parent":"",
+"text":"",
+"mid":"zldRKmb9T",
+"date":"2013-02-28 07:35:59"
+},
+{
+"kids":[],
+"uid":"2003311625",
+"parent":"",
+"text":"",
+"mid":"zldR6aX4t",
+"date":"2013-02-28 07:34:24"
+},
+{
+"kids":[],
+"uid":"1175707500",
+"parent":"",
+"text":"",
+"mid":"zldR1oRj5",
+"date":"2013-02-28 07:34:13"
+},
+{
+"kids":[],
+"uid":"2594159752",
+"parent":"",
+"text":"这才是厚德载物。",
+"mid":"zldR0uKe5",
+"date":"2013-02-28 07:34:11"
+},
+{
+"kids":[],
+"uid":"2920205172",
+"parent":"zlb0gcs8O",
+"text":"",
+"mid":"zldQSeqiA",
+"date":"2013-02-28 07:33:51"
+},
+{
+"kids":[],
+"uid":"208351688",
+"parent":"",
+"text":"",
+"mid":"zldQmmGgL",
+"date":"2013-02-28 07:32:35"
+},
+{
+"kids":[],
+"uid":"1778349277",
+"parent":"",
+"text":"转发微博。",
+"mid":"zldPAukid",
+"date":"2013-02-28 07:30:40"
+},
+{
+"kids":[],
+"uid":"2716636633",
+"parent":"",
+"text":"",
+"mid":"zldPo2JtW",
+"date":"2013-02-28 07:30:10"
+},
+{
+"kids":[],
+"uid":"1867067563",
+"parent":"",
+"text":"诺",
+"mid":"zldPn9uz4",
+"date":"2013-02-28 07:30:09"
+},
+{
+"kids":[],
+"uid":"3027639394",
+"parent":"",
+"text":"",
+"mid":"zldPg76Xn",
+"date":"2013-02-28 07:29:51"
+},
+{
+"kids":[],
+"uid":"3127760471",
+"parent":"",
+"text":"",
+"mid":"zldPekD6n",
+"date":"2013-02-28 07:29:48"
+},
+{
+"kids":[],
+"uid":"1943316923",
+"parent":"",
+"text":"",
+"mid":"zldOt0QEP",
+"date":"2013-02-28 07:27:55"
+},
+{
+"kids":[],
+"uid":"1056274830",
+"parent":"",
+"text":"",
+"mid":"zldOsq552",
+"date":"2013-02-28 07:27:54"
+},
+{
+"kids":[],
+"uid":"2462960563",
+"parent":"",
+"text":"最后一条这个说法头一次听说，老人的智慧",
+"mid":"zldOhcrmG",
+"date":"2013-02-28 07:27:27"
+},
+{
+"kids":[],
+"uid":"2920433460",
+"parent":"zlaRx8d3n",
+"text":"",
+"mid":"zldO03hRr",
+"date":"2013-02-28 07:26:46"
+},
+{
+"kids":[],
+"uid":"joan2891",
+"parent":"",
+"text":"",
+"mid":"zldNWwvoB",
+"date":"2013-02-28 07:26:38"
+},
+{
+"kids":[],
+"uid":"1606084227",
+"parent":"",
+"text":"",
+"mid":"zldNqCuGM",
+"date":"2013-02-28 07:25:22"
+},
+{
+"kids":[],
+"uid":"2265654283",
+"parent":"",
+"text":"",
+"mid":"zldNms9Tw",
+"date":"2013-02-28 07:25:11"
+},
+{
+"kids":[
+"zlexI8nLV"
+],
+"uid":"3049339735",
+"parent":"",
+"text":"",
+"mid":"zldMZ7DyI",
+"date":"2013-02-28 07:24:16"
+},
+{
+"kids":[],
+"uid":"xhiori",
+"parent":"",
+"text":"@徐东鸣 @葫芦小小金刚 @费思徐",
+"mid":"zldMskN57",
+"date":"2013-02-28 07:22:59"
+},
+{
+"kids":[],
+"uid":"yxhsmile",
+"parent":"",
+"text":"",
+"mid":"zldLUEibE",
+"date":"2013-02-28 07:21:37"
+},
+{
+"kids":[],
+"uid":"2932443973",
+"parent":"",
+"text":"",
+"mid":"zldKWEcya",
+"date":"2013-02-28 07:19:15"
+},
+{
+"kids":[],
+"uid":"1769091172",
+"parent":"",
+"text":"",
+"mid":"zldKbF6HX",
+"date":"2013-02-28 07:17:23"
+},
+{
+"kids":[],
+"uid":"2151212100",
+"parent":"",
+"text":"",
+"mid":"zldJWjiPp",
+"date":"2013-02-28 07:16:45"
+},
+{
+"kids":[],
+"uid":"2497056680",
+"parent":"",
+"text":"曾国藩四条遗嘱",
+"mid":"zldJw2yyK",
+"date":"2013-02-28 07:15:43"
+},
+{
+"kids":[],
+"uid":"3281879371",
+"parent":"",
+"text":"",
+"mid":"zldJr217V",
+"date":"2013-02-28 07:15:30"
+},
+{
+"kids":[],
+"uid":"2809966472",
+"parent":"zlbxv0t9H",
+"text":"",
+"mid":"zldJnoYlD",
+"date":"2013-02-28 07:15:23"
+},
+{
+"kids":[],
+"uid":"huxinlj",
+"parent":"",
+"text":"转发微博。",
+"mid":"zldJ33Kg6",
+"date":"2013-02-28 07:14:34"
+},
+{
+"kids":[],
+"uid":"2171023792",
+"parent":"",
+"text":"",
+"mid":"zldIMcbH8",
+"date":"2013-02-28 07:13:53"
+},
+{
+"kids":[],
+"uid":"gehfsky",
+"parent":"zldDy5iyW",
+"text":"",
+"mid":"zldIBj6up",
+"date":"2013-02-28 07:13:28"
+},
+{
+"kids":[],
+"uid":"2752521407",
+"parent":"",
+"text":"",
+"mid":"zldInEnRW",
+"date":"2013-02-28 07:12:55"
+},
+{
+"kids":[
+"zldT3hVqA"
+],
+"uid":"722348960",
+"parent":"",
+"text":"回复@朱友付:涤生所言极是",
+"mid":"zldIi3MJN",
+"date":"2013-02-28 07:12:42"
+},
+{
+"kids":[],
+"uid":"2920024302",
+"parent":"zlb3mhuyc",
+"text":"",
+"mid":"zldHRbbga",
+"date":"2013-02-28 07:11:38"
+},
+{
+"kids":[],
+"uid":"cosmicera",
+"parent":"",
+"text":"",
+"mid":"zldHLfFkD",
+"date":"2013-02-28 07:11:24"
+},
+{
+"kids":[],
+"uid":"2411910153",
+"parent":"",
+"text":"",
+"mid":"zldHK4Peq",
+"date":"2013-02-28 07:11:21"
+},
+{
+"kids":[],
+"uid":"yisongzh",
+"parent":"",
+"text":"",
+"mid":"zldHy00P3",
+"date":"2013-02-28 07:10:52"
+},
+{
+"kids":[],
+"uid":"2670893817",
+"parent":"",
+"text":"慎独、主敬、仁爱、劳动",
+"mid":"zldHwtWno",
+"date":"2013-02-28 07:10:49"
+},
+{
+"kids":[],
+"uid":"2920246614",
+"parent":"",
+"text":"",
+"mid":"zldHc5RV2",
+"date":"2013-02-28 07:09:59"
+},
+{
+"kids":[],
+"uid":"3198643491",
+"parent":"",
+"text":"@姓简Ken叔叔",
+"mid":"zldGPEcsw",
+"date":"2013-02-28 07:09:07"
+},
+{
+"kids":[],
+"uid":"2049434867",
+"parent":"",
+"text":"",
+"mid":"zldGM5D7H",
+"date":"2013-02-28 07:08:58"
+},
+{
+"kids":[],
+"uid":"2674386327",
+"parent":"",
+"text":"",
+"mid":"zldGHoIXz",
+"date":"2013-02-28 07:08:47"
+},
+{
+"kids":[],
+"uid":"1741727565",
+"parent":"",
+"text":"[咖啡]",
+"mid":"zldGe8Iju",
+"date":"2013-02-28 07:07:37"
+},
+{
+"kids":[],
+"uid":"1748638355",
+"parent":"",
+"text":"@小妞很欢乐",
+"mid":"zldFWFeff",
+"date":"2013-02-28 07:06:55"
+},
+{
+"kids":[],
+"uid":"1927536173",
+"parent":"",
+"text":"[嘻嘻]",
+"mid":"zldEFe49A",
+"date":"2013-02-28 07:03:46"
+},
+{
+"kids":[],
+"uid":"1497070861",
+"parent":"",
+"text":"",
+"mid":"zldEEiQBo",
+"date":"2013-02-28 07:03:44"
+},
+{
+"kids":[],
+"uid":"2758717827",
+"parent":"",
+"text":"",
+"mid":"zldEE0ndS",
+"date":"2013-02-28 07:03:43"
+},
+{
+"kids":[],
+"uid":"rvpqzy",
+"parent":"zldwQBOEi",
+"text":"",
+"mid":"zldEkeo60",
+"date":"2013-02-28 07:02:56"
+},
+{
+"kids":[],
+"uid":"liuruouyu",
+"parent":"",
+"text":"",
+"mid":"zldDTiUfQ",
+"date":"2013-02-28 07:01:52"
+},
+{
+"kids":[
+"zldIBj6up"
+],
+"uid":"zwdd",
+"parent":"",
+"text":"",
+"mid":"zldDy5iyW",
+"date":"2013-02-28 07:01:01"
+},
+{
+"kids":[],
+"uid":"2889001572",
+"parent":"",
+"text":"",
+"mid":"zldDw1dCf",
+"date":"2013-02-28 07:00:55"
+},
+{
+"kids":[],
+"uid":"1970118195",
+"parent":"",
+"text":"",
+"mid":"zldCPrTAC",
+"date":"2013-02-28 06:59:15"
+},
+{
+"kids":[],
+"uid":"1723894133",
+"parent":"zldoDcKYV",
+"text":"",
+"mid":"zldC1bYIp",
+"date":"2013-02-28 06:57:14"
+},
+{
+"kids":[],
+"uid":"zhuhanke",
+"parent":"",
+"text":"曾老先生挽救了大清，但对西方列强基本奉行投降主义和逃避主义政策；总结起来就是专门迫害劳苦大众、欺软怕硬的主。个人感觉他不如左宗棠，敢抬着棺材打毛子",
+"mid":"zldBYvnYa",
+"date":"2013-02-28 06:57:09"
+},
+{
+"kids":[],
+"uid":"3191230274",
+"parent":"",
+"text":"晚清名臣，只佩服曾国藩",
+"mid":"zldBAA6LO",
+"date":"2013-02-28 06:56:12"
+},
+{
+"kids":[],
+"uid":"1990051755",
+"parent":"",
+"text":"转发微博。",
+"mid":"zldBbbwbr",
+"date":"2013-02-28 06:55:11"
+},
+{
+"kids":[],
+"uid":"2885502917",
+"parent":"",
+"text":"转发微博。",
+"mid":"zldARnwCo",
+"date":"2013-02-28 06:54:23"
+},
+{
+"kids":[],
+"uid":"geday",
+"parent":"",
+"text":"分享着快乐和幸福！",
+"mid":"zldzM2lu6",
+"date":"2013-02-28 06:51:43"
+},
+{
+"kids":[],
+"uid":"2456677990",
+"parent":"",
+"text":"",
+"mid":"zldzE2yvI",
+"date":"2013-02-28 06:51:24"
+},
+{
+"kids":[],
+"uid":"2356562312",
+"parent":"",
+"text":"",
+"mid":"zldz6BW6h",
+"date":"2013-02-28 06:50:05"
+},
+{
+"kids":[],
+"uid":"2962991965",
+"parent":"",
+"text":"",
+"mid":"zldz5dlVM",
+"date":"2013-02-28 06:50:00"
+},
+{
+"kids":[],
+"uid":"2386288912",
+"parent":"",
+"text":"真正的大家",
+"mid":"zldyGnXsQ",
+"date":"2013-02-28 06:49:02"
+},
+{
+"kids":[],
+"uid":"1884550765",
+"parent":"",
+"text":"人生哲理。",
+"mid":"zldyg4fEB",
+"date":"2013-02-28 06:47:58"
+},
+{
+"kids":[],
+"uid":"3226418405",
+"parent":"",
+"text":"",
+"mid":"zldy56fgW",
+"date":"2013-02-28 06:47:33"
+},
+{
+"kids":[],
+"uid":"1967461994",
+"parent":"",
+"text":"",
+"mid":"zldy11752",
+"date":"2013-02-28 06:47:23"
+},
+{
+"kids":[],
+"uid":"2703230435",
+"parent":"",
+"text":"",
+"mid":"zldxps9Hy",
+"date":"2013-02-28 06:45:54"
+},
+{
+"kids":[
+"zldEkeo60"
+],
+"uid":"2110321095",
+"parent":"",
+"text":"",
+"mid":"zldwQBOEi",
+"date":"2013-02-28 06:44:31"
+},
+{
+"kids":[],
+"uid":"1933976890",
+"parent":"",
+"text":"",
+"mid":"zldwAkWhK",
+"date":"2013-02-28 06:43:52"
+},
+{
+"kids":[],
+"uid":"1730693682",
+"parent":"",
+"text":"",
+"mid":"zldwlyluX",
+"date":"2013-02-28 06:43:16"
+},
+{
+"kids":[],
+"uid":"1972259155",
+"parent":"",
+"text":"[鼓掌]",
+"mid":"zldwhaqmK",
+"date":"2013-02-28 06:43:06"
+},
+{
+"kids":[],
+"uid":"1264197524",
+"parent":"",
+"text":"",
+"mid":"zldwalK9v",
+"date":"2013-02-28 06:42:50"
+},
+{
+"kids":[],
+"uid":"2455416441",
+"parent":"",
+"text":"",
+"mid":"zldv44m8Q",
+"date":"2013-02-28 06:40:07"
+},
+{
+"kids":[],
+"uid":"2658236035",
+"parent":"",
+"text":"",
+"mid":"zlduP12e5",
+"date":"2013-02-28 06:39:31"
+},
+{
+"kids":[],
+"uid":"3008050887",
+"parent":"",
+"text":"",
+"mid":"zlduM2QvK",
+"date":"2013-02-28 06:39:24"
+},
+{
+"kids":[],
+"uid":"1312421284",
+"parent":"",
+"text":"湖乡人杰地灵",
+"mid":"zlduJpO8w",
+"date":"2013-02-28 06:39:17"
+},
+{
+"kids":[],
+"uid":"2571857981",
+"parent":"",
+"text":"",
+"mid":"zldu6mMV8",
+"date":"2013-02-28 06:37:45"
+},
+{
+"kids":[],
+"uid":"2324640603",
+"parent":"",
+"text":"",
+"mid":"zldtPw7kz",
+"date":"2013-02-28 06:37:04"
+},
+{
+"kids":[],
+"uid":"3215045015",
+"parent":"",
+"text":"家训",
+"mid":"zldt1CptD",
+"date":"2013-02-28 06:35:06"
+},
+{
+"kids":[],
+"uid":"2919563812",
+"parent":"",
+"text":"",
+"mid":"zldsWgKrF",
+"date":"2013-02-28 06:34:53"
+},
+{
+"kids":[],
+"uid":"2971286871",
+"parent":"",
+"text":"",
+"mid":"zldst4gwW",
+"date":"2013-02-28 06:33:43"
+},
+{
+"kids":[],
+"uid":"1896909825",
+"parent":"",
+"text":"转发微博。",
+"mid":"zldso2RUz",
+"date":"2013-02-28 06:33:31"
+},
+{
+"kids":[],
+"uid":"2853475377",
+"parent":"",
+"text":"转发微博。",
+"mid":"zldrX8C8o",
+"date":"2013-02-28 06:32:27"
+},
+{
+"kids":[],
+"uid":"2311454570",
+"parent":"",
+"text":"参加劳动则鬼神也敬重",
+"mid":"zldqOdpis",
+"date":"2013-02-28 06:29:38"
+},
+{
+"kids":[],
+"uid":"2955384721",
+"parent":"",
+"text":"",
+"mid":"zldqbc53l",
+"date":"2013-02-28 06:28:04"
+},
+{
+"kids":[],
+"uid":"315cicihappy",
+"parent":"",
+"text":"转发微博。",
+"mid":"zldph6kND",
+"date":"2013-02-28 06:25:51"
+},
+{
+"kids":[],
+"uid":"318799906",
+"parent":"",
+"text":"",
+"mid":"zldp9mmtz",
+"date":"2013-02-28 06:25:33"
+},
+{
+"kids":[],
+"uid":"bblllcc",
+"parent":"",
+"text":"q",
+"mid":"zldoR2nYh",
+"date":"2013-02-28 06:24:49"
+},
+{
+"kids":[],
+"uid":"2806319431",
+"parent":"",
+"text":"",
+"mid":"zldoDrviH",
+"date":"2013-02-28 06:24:17"
+},
+{
+"kids":[
+"zldC1bYIp"
+],
+"uid":"1725981774",
+"parent":"",
+"text":"",
+"mid":"zldoDcKYV",
+"date":"2013-02-28 06:24:15"
+},
+{
+"kids":[],
+"uid":"2248168377",
+"parent":"",
+"text":"",
+"mid":"zldnLnXoZ",
+"date":"2013-02-28 06:22:08"
+},
+{
+"kids":[],
+"uid":"1311765011",
+"parent":"",
+"text":"",
+"mid":"zldmA67a2",
+"date":"2013-02-28 06:19:13"
+},
+{
+"kids":[],
+"uid":"2218612760",
+"parent":"",
+"text":"",
+"mid":"zldmgj5OA",
+"date":"2013-02-28 06:18:26"
+},
+{
+"kids":[],
+"uid":"1654917227",
+"parent":"",
+"text":"",
+"mid":"zldmfFCx7",
+"date":"2013-02-28 06:18:24"
+},
+{
+"kids":[],
+"uid":"1871016187",
+"parent":"zld6WkImM",
+"text":"",
+"mid":"zldlQhUta",
+"date":"2013-02-28 06:17:24"
+},
+{
+"kids":[],
+"uid":"3209953973",
+"parent":"",
+"text":"",
+"mid":"zldlsmIXe",
+"date":"2013-02-28 06:16:26"
+},
+{
+"kids":[],
+"uid":"2804142747",
+"parent":"",
+"text":"",
+"mid":"zldjHAdMC",
+"date":"2013-02-28 06:12:08"
+},
+{
+"kids":[],
+"uid":"2973558970",
+"parent":"",
+"text":"这个人牛的不成样子。。。",
+"mid":"zldjj8ybO",
+"date":"2013-02-28 06:11:08"
+},
+{
+"kids":[],
+"uid":"1843250252",
+"parent":"",
+"text":"",
+"mid":"zldiRDrBE",
+"date":"2013-02-28 06:10:03"
+},
+{
+"kids":[],
+"uid":"1730164847",
+"parent":"",
+"text":"",
+"mid":"zldhvEtZi",
+"date":"2013-02-28 06:06:44"
+},
+{
+"kids":[],
+"uid":"zhutairen",
+"parent":"",
+"text":"慎独则心安；主敬则身强；求仁则人悦；习劳则神钦。曾哥太强大了。",
+"mid":"zldh9wMIx",
+"date":"2013-02-28 06:05:51"
+},
+{
+"kids":[],
+"uid":"jics",
+"parent":"",
+"text":"早安",
+"mid":"zldgQA4x5",
+"date":"2013-02-28 06:05:06"
+},
+{
+"kids":[],
+"uid":"235671356",
+"parent":"",
+"text":"",
+"mid":"zldggAHpg",
+"date":"2013-02-28 06:03:40"
+},
+{
+"kids":[],
+"uid":"1914790714",
+"parent":"",
+"text":"",
+"mid":"zldfJv0ct",
+"date":"2013-02-28 06:02:21"
+},
+{
+"kids":[],
+"uid":"1950666567",
+"parent":"",
+"text":"",
+"mid":"zldelbtT9",
+"date":"2013-02-28 05:58:55"
+},
+{
+"kids":[],
+"uid":"3188951663",
+"parent":"",
+"text":"",
+"mid":"zlddJ4ohi",
+"date":"2013-02-28 05:57:24"
+},
+{
+"kids":[],
+"uid":"pwy0319",
+"parent":"",
+"text":"",
+"mid":"zldd3q8MV",
+"date":"2013-02-28 05:55:44"
+},
+{
+"kids":[],
+"uid":"2311905835",
+"parent":"",
+"text":"",
+"mid":"zldbGj4Hz",
+"date":"2013-02-28 05:52:22"
+},
+{
+"kids":[],
+"uid":"2292172477",
+"parent":"",
+"text":"",
+"mid":"zldavClFn",
+"date":"2013-02-28 05:49:28"
+},
+{
+"kids":[],
+"uid":"234396785",
+"parent":"zld6G5GBP",
+"text":"",
+"mid":"zld9pnCqO",
+"date":"2013-02-28 05:46:46"
+},
+{
+"kids":[],
+"uid":"1942567417",
+"parent":"",
+"text":"",
+"mid":"zld8OoPuw",
+"date":"2013-02-28 05:45:17"
+},
+{
+"kids":[],
+"uid":"1984977581",
+"parent":"",
+"text":"",
+"mid":"zld8u1Edo",
+"date":"2013-02-28 05:44:29"
+},
+{
+"kids":[],
+"uid":"1359068425",
+"parent":"",
+"text":"转发微博。",
+"mid":"zld7ToNC0",
+"date":"2013-02-28 05:43:02"
+},
+{
+"kids":[
+"zldlQhUta"
+],
+"uid":"2939706863",
+"parent":"zld6G5GBP",
+"text":"[鼓掌][good]",
+"mid":"zld6WkImM",
+"date":"2013-02-28 05:40:40"
+},
+{
+"kids":[
+"zld9pnCqO",
+"zld6WkImM"
+],
+"uid":"1921352910",
+"parent":"zlaVxmwfD",
+"text":"",
+"mid":"zld6G5GBP",
+"date":"2013-02-28 05:40:02"
+},
+{
+"kids":[],
+"uid":"2375953154",
+"parent":"",
+"text":"",
+"mid":"zld6xaYnF",
+"date":"2013-02-28 05:39:41"
+},
+{
+"kids":[],
+"uid":"jianfangwang",
+"parent":"zlb75CQKw",
+"text":"",
+"mid":"zld67aKLU",
+"date":"2013-02-28 05:38:38"
+},
+{
+"kids":[],
+"uid":"2631229091",
+"parent":"",
+"text":"[good][good][good]",
+"mid":"zld4pFVuR",
+"date":"2013-02-28 05:34:28"
+},
+{
+"kids":[],
+"uid":"1427424931",
+"parent":"",
+"text":"看来曾家比李家更有希望。[偷笑]",
+"mid":"zld3yuEcJ",
+"date":"2013-02-28 05:32:21"
+},
+{
+"kids":[],
+"uid":"2627398433",
+"parent":"",
+"text":"",
+"mid":"zlcWNcm49",
+"date":"2013-02-28 05:15:40"
+},
+{
+"kids":[],
+"uid":"1440404461",
+"parent":"zlaUNiQi2",
+"text":"",
+"mid":"zlcUecPra",
+"date":"2013-02-28 05:09:22"
+},
+{
+"kids":[],
+"uid":"523447580",
+"parent":"",
+"text":"",
+"mid":"zlcU78d82",
+"date":"2013-02-28 05:09:05"
+},
+{
+"kids":[],
+"uid":"jessicaxly",
+"parent":"",
+"text":"",
+"mid":"zlcPxbAYd",
+"date":"2013-02-28 04:57:47"
+},
+{
+"kids":[],
+"uid":"liubingtang",
+"parent":"",
+"text":"",
+"mid":"zlcNViaHV",
+"date":"2013-02-28 04:53:50"
+},
+{
+"kids":[],
+"uid":"1432424191",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlcNH91Gb",
+"date":"2013-02-28 04:53:15"
+},
+{
+"kids":[],
+"uid":"2787249644",
+"parent":"",
+"text":"",
+"mid":"zlcKCdJzX",
+"date":"2013-02-28 04:45:40"
+},
+{
+"kids":[],
+"uid":"2894159695",
+"parent":"",
+"text":"",
+"mid":"zlcKrjv3J",
+"date":"2013-02-28 04:45:15"
+},
+{
+"kids":[],
+"uid":"banffliu",
+"parent":"",
+"text":"",
+"mid":"zlcJcc4VE",
+"date":"2013-02-28 04:42:11"
+},
+{
+"kids":[],
+"uid":"2699577642",
+"parent":"",
+"text":"",
+"mid":"zlcE5EgLb",
+"date":"2013-02-28 04:29:36"
+},
+{
+"kids":[],
+"uid":"moon2012",
+"parent":"",
+"text":"",
+"mid":"zlcyd4VGs",
+"date":"2013-02-28 04:15:06"
+},
+{
+"kids":[],
+"uid":"2540039695",
+"parent":"",
+"text":"",
+"mid":"zlcxqiJul",
+"date":"2013-02-28 04:13:11"
+},
+{
+"kids":[],
+"uid":"1401627841",
+"parent":"",
+"text":"学习",
+"mid":"zlcx75Rej",
+"date":"2013-02-28 04:12:25"
+},
+{
+"kids":[],
+"uid":"2833431044",
+"parent":"",
+"text":"嗯！",
+"mid":"zlctQpncj",
+"date":"2013-02-28 04:04:22"
+},
+{
+"kids":[],
+"uid":"1391534591",
+"parent":"",
+"text":"",
+"mid":"zlcpVvp3x",
+"date":"2013-02-28 03:54:42"
+},
+{
+"kids":[],
+"uid":"2530478417",
+"parent":"",
+"text":"",
+"mid":"zlcpIrXmc",
+"date":"2013-02-28 03:54:12"
+},
+{
+"kids":[],
+"uid":"1698130331",
+"parent":"",
+"text":"轉發微博",
+"mid":"zlcpwCGbH",
+"date":"2013-02-28 03:53:44"
+},
+{
+"kids":[],
+"uid":"1394587071",
+"parent":"",
+"text":"",
+"mid":"zlckkzTg4",
+"date":"2013-02-28 03:40:56"
+},
+{
+"kids":[],
+"uid":"2919842864",
+"parent":"zlaSyENtA",
+"text":"",
+"mid":"zlckaeBUb",
+"date":"2013-02-28 03:40:31"
+},
+{
+"kids":[],
+"uid":"sangzhemumu",
+"parent":"",
+"text":"",
+"mid":"zlcgCoqBL",
+"date":"2013-02-28 03:31:46"
+},
+{
+"kids":[],
+"uid":"2611686157",
+"parent":"",
+"text":"",
+"mid":"zlcgq0Ale",
+"date":"2013-02-28 03:31:17"
+},
+{
+"kids":[],
+"uid":"2601065400",
+"parent":"",
+"text":"",
+"mid":"zlcdR0hNP",
+"date":"2013-02-28 03:24:58"
+},
+{
+"kids":[],
+"uid":"2002559052",
+"parent":"",
+"text":"",
+"mid":"zlccv5Ybz",
+"date":"2013-02-28 03:21:38"
+},
+{
+"kids":[],
+"uid":"2919607330",
+"parent":"zlb3Wir0R",
+"text":"",
+"mid":"zlcbd09AC",
+"date":"2013-02-28 03:18:27"
+},
+{
+"kids":[],
+"uid":"1427727952",
+"parent":"zlc8zkqG3",
+"text":"",
+"mid":"zlc8QsHGE",
+"date":"2013-02-28 03:12:37"
+},
+{
+"kids":[
+"zlc8QsHGE"
+],
+"uid":"2026801247",
+"parent":"",
+"text":"",
+"mid":"zlc8zkqG3",
+"date":"2013-02-28 03:11:57"
+},
+{
+"kids":[],
+"uid":"2122580750",
+"parent":"",
+"text":"[酷]一是慎独则心里平静。二是主敬则身体强健。三是追求仁爱则人高兴。四是参加劳动则鬼神也敬重。",
+"mid":"zlc8bmyxF",
+"date":"2013-02-28 03:11:00"
+},
+{
+"kids":[],
+"uid":"3215340537",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlc5ppt3m",
+"date":"2013-02-28 03:04:10"
+},
+{
+"kids":[],
+"uid":"2703254487",
+"parent":"",
+"text":"[good]",
+"mid":"zlc5i0CBQ",
+"date":"2013-02-28 03:03:52"
+},
+{
+"kids":[],
+"uid":"3002471310",
+"parent":"",
+"text":"[威武][威武]",
+"mid":"zlc4bsR1C",
+"date":"2013-02-28 03:01:08"
+},
+{
+"kids":[
+"zlemUw3oQ"
+],
+"uid":"brothersky",
+"parent":"",
+"text":"",
+"mid":"zlc36ocdE",
+"date":"2013-02-28 02:58:29"
+},
+{
+"kids":[],
+"uid":"1716476362",
+"parent":"",
+"text":"",
+"mid":"zlc2ej4Op",
+"date":"2013-02-28 02:56:19"
+},
+{
+"kids":[],
+"uid":"2877676174",
+"parent":"",
+"text":"",
+"mid":"zlbXe4qQ0",
+"date":"2013-02-28 02:44:00"
+},
+{
+"kids":[],
+"uid":"2789690147",
+"parent":"",
+"text":"",
+"mid":"zlbWvndc4",
+"date":"2013-02-28 02:42:14"
+},
+{
+"kids":[],
+"uid":"2362120401",
+"parent":"",
+"text":"",
+"mid":"zlbOs4B4j",
+"date":"2013-02-28 02:22:23"
+},
+{
+"kids":[],
+"uid":"1236260327",
+"parent":"",
+"text":"",
+"mid":"zlbO4EwWa",
+"date":"2013-02-28 02:21:28"
+},
+{
+"kids":[],
+"uid":"xuyaoyunjiao",
+"parent":"",
+"text":"",
+"mid":"zlbNY9Sq5",
+"date":"2013-02-28 02:21:12"
+},
+{
+"kids":[],
+"uid":"mijianghao",
+"parent":"",
+"text":"",
+"mid":"zlbMGoYKn",
+"date":"2013-02-28 02:18:02"
+},
+{
+"kids":[],
+"uid":"2652978277",
+"parent":"",
+"text":"",
+"mid":"zlbMw4ac4",
+"date":"2013-02-28 02:17:37"
+},
+{
+"kids":[],
+"uid":"1840905593",
+"parent":"",
+"text":"仁爱。",
+"mid":"zlbKLBpe9",
+"date":"2013-02-28 02:13:19"
+},
+{
+"kids":[],
+"uid":"2101064493",
+"parent":"",
+"text":"曾文正公",
+"mid":"zlbKJyUQA",
+"date":"2013-02-28 02:13:14"
+},
+{
+"kids":[],
+"uid":"guanjianyang",
+"parent":"",
+"text":"",
+"mid":"zlbKsnN3g",
+"date":"2013-02-28 02:12:33"
+},
+{
+"kids":[],
+"uid":"2258350514",
+"parent":"",
+"text":"",
+"mid":"zlbJtyadB",
+"date":"2013-02-28 02:10:08"
+},
+{
+"kids":[],
+"uid":"3160565883",
+"parent":"",
+"text":"",
+"mid":"zlbHzlINd",
+"date":"2013-02-28 02:05:26"
+},
+{
+"kids":[],
+"uid":"2294102952",
+"parent":"",
+"text":"@小桂贝勒",
+"mid":"zlbGAuMQW",
+"date":"2013-02-28 02:03:01"
+},
+{
+"kids":[],
+"uid":"atlantislove",
+"parent":"",
+"text":"",
+"mid":"zlbCU1MKv",
+"date":"2013-02-28 01:53:56"
+},
+{
+"kids":[],
+"uid":"2290409123",
+"parent":"",
+"text":"主敬?",
+"mid":"zlbCndERn",
+"date":"2013-02-28 01:52:38"
+},
+{
+"kids":[],
+"uid":"2815956890",
+"parent":"",
+"text":"",
+"mid":"zlbCmo6py",
+"date":"2013-02-28 01:52:36"
+},
+{
+"kids":[],
+"uid":"1253015743",
+"parent":"",
+"text":"",
+"mid":"zlbBeB6qy",
+"date":"2013-02-28 01:49:50"
+},
+{
+"kids":[],
+"uid":"2711621420",
+"parent":"",
+"text":"学习",
+"mid":"zlbAT5Aql",
+"date":"2013-02-28 01:48:58"
+},
+{
+"kids":[],
+"uid":"1483250571",
+"parent":"",
+"text":"",
+"mid":"zlbAt5k0t",
+"date":"2013-02-28 01:47:56"
+},
+{
+"kids":[],
+"uid":"1824220860",
+"parent":"",
+"text":"",
+"mid":"zlbAjjJRW",
+"date":"2013-02-28 01:47:32"
+},
+{
+"kids":[],
+"uid":"2928498493",
+"parent":"",
+"text":"",
+"mid":"zlbAgCGN1",
+"date":"2013-02-28 01:47:27"
+},
+{
+"kids":[],
+"uid":"2633188491",
+"parent":"",
+"text":"",
+"mid":"zlbA29k5B",
+"date":"2013-02-28 01:46:52"
+},
+{
+"kids":[
+"zldJnoYlD"
+],
+"uid":"1970715585",
+"parent":"",
+"text":"",
+"mid":"zlbxv0t9H",
+"date":"2013-02-28 01:40:37"
+},
+{
+"kids":[],
+"uid":"shuimushanle",
+"parent":"",
+"text":"",
+"mid":"zlbvw1f5C",
+"date":"2013-02-28 01:35:43"
+},
+{
+"kids":[],
+"uid":"3053532664",
+"parent":"",
+"text":"",
+"mid":"zlbuGil69",
+"date":"2013-02-28 01:33:41"
+},
+{
+"kids":[],
+"uid":"3088514593",
+"parent":"",
+"text":"只能说明适合管一个家，不适合管一个国家",
+"mid":"zlbuA7ZOR",
+"date":"2013-02-28 01:33:26"
+},
+{
+"kids":[],
+"uid":"2734629314",
+"parent":"",
+"text":"",
+"mid":"zlbupdlJH",
+"date":"2013-02-28 01:32:59"
+},
+{
+"kids":[],
+"uid":"2401605103",
+"parent":"",
+"text":"",
+"mid":"zlbub0Z66",
+"date":"2013-02-28 01:32:26"
+},
+{
+"kids":[],
+"uid":"mengyixian",
+"parent":"zlbtEdV5J",
+"text":"",
+"mid":"zlbtSlV1k",
+"date":"2013-02-28 01:31:42"
+},
+{
+"kids":[
+"zlbtSlV1k"
+],
+"uid":"youbaozheng",
+"parent":"",
+"text":"",
+"mid":"zlbtEdV5J",
+"date":"2013-02-28 01:31:08"
+},
+{
+"kids":[
+"zlmAGE5ew"
+],
+"uid":"2180136507",
+"parent":"",
+"text":"",
+"mid":"zlbsRrhnr",
+"date":"2013-02-28 01:29:12"
+},
+{
+"kids":[],
+"uid":"2800641307",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlbsvjXts",
+"date":"2013-02-28 01:28:19"
+},
+{
+"kids":[],
+"uid":"1880374044",
+"parent":"",
+"text":"",
+"mid":"zlbscm1AN",
+"date":"2013-02-28 01:27:34"
+},
+{
+"kids":[],
+"uid":"2915909281",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlbs9rQk1",
+"date":"2013-02-28 01:27:27"
+},
+{
+"kids":[],
+"uid":"2197911805",
+"parent":"",
+"text":"",
+"mid":"zlbqQ9PsL",
+"date":"2013-02-28 01:24:13"
+},
+{
+"kids":[],
+"uid":"3185222044",
+"parent":"",
+"text":"",
+"mid":"zlboF6nR0",
+"date":"2013-02-28 01:18:51"
+},
+{
+"kids":[],
+"uid":"2688388127",
+"parent":"",
+"text":"",
+"mid":"zlboy0TVi",
+"date":"2013-02-28 01:18:34"
+},
+{
+"kids":[],
+"uid":"1188783381",
+"parent":"",
+"text":"",
+"mid":"zlbowh2h2",
+"date":"2013-02-28 01:18:30"
+},
+{
+"kids":[],
+"uid":"2919358140",
+"parent":"zlbemiApy",
+"text":"",
+"mid":"zlboofHj1",
+"date":"2013-02-28 01:18:11"
+},
+{
+"kids":[],
+"uid":"2795388285",
+"parent":"",
+"text":"",
+"mid":"zlbojyuDE",
+"date":"2013-02-28 01:18:00"
+},
+{
+"kids":[],
+"uid":"2069928273",
+"parent":"zlb1K7Kcn",
+"text":"关键是现在的原则只有一个：钱",
+"mid":"zlbofowMh",
+"date":"2013-02-28 01:17:50"
+},
+{
+"kids":[],
+"uid":"1908869021",
+"parent":"",
+"text":"慎独",
+"mid":"zlbnVCicF",
+"date":"2013-02-28 01:17:03"
+},
+{
+"kids":[],
+"uid":"1294657145",
+"parent":"",
+"text":"",
+"mid":"zlbns2WYN",
+"date":"2013-02-28 01:15:52"
+},
+{
+"kids":[],
+"uid":"3221169225",
+"parent":"",
+"text":"",
+"mid":"zlbmr6oDK",
+"date":"2013-02-28 01:13:22"
+},
+{
+"kids":[],
+"uid":"3061502185",
+"parent":"",
+"text":"",
+"mid":"zlblC10Rt",
+"date":"2013-02-28 01:11:20"
+},
+{
+"kids":[],
+"uid":"532166123",
+"parent":"",
+"text":"",
+"mid":"zlblt9wWS",
+"date":"2013-02-28 01:10:59"
+},
+{
+"kids":[],
+"uid":"836909068",
+"parent":"",
+"text":"君子慎独！！一个妹纸教我的",
+"mid":"zlbl5wats",
+"date":"2013-02-28 01:10:03"
+},
+{
+"kids":[],
+"uid":"1085295474",
+"parent":"",
+"text":"",
+"mid":"zlbkUyqg5",
+"date":"2013-02-28 01:09:36"
+},
+{
+"kids":[],
+"uid":"1189748267",
+"parent":"",
+"text":"",
+"mid":"zlbkLqwt5",
+"date":"2013-02-28 01:09:15"
+},
+{
+"kids":[],
+"uid":"2794481492",
+"parent":"",
+"text":"",
+"mid":"zlbkItcau",
+"date":"2013-02-28 01:09:08"
+},
+{
+"kids":[],
+"uid":"2421911234",
+"parent":"",
+"text":"转发微博.",
+"mid":"zlbkpfyMc",
+"date":"2013-02-28 01:08:22"
+},
+{
+"kids":[],
+"uid":"2490921347",
+"parent":"",
+"text":"曾总传家智慧！",
+"mid":"zlbkony5D",
+"date":"2013-02-28 01:08:20"
+},
+{
+"kids":[],
+"uid":"2986987295",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlbk8pWG6",
+"date":"2013-02-28 01:07:42"
+},
+{
+"kids":[],
+"uid":"2534185921",
+"parent":"",
+"text":"",
+"mid":"zlbjvnibd",
+"date":"2013-02-28 01:06:09"
+},
+{
+"kids":[],
+"uid":"2448871992",
+"parent":"",
+"text":"[思考]",
+"mid":"zlbjoAcmy",
+"date":"2013-02-28 01:05:53"
+},
+{
+"kids":[],
+"uid":"1686330880",
+"parent":"",
+"text":"",
+"mid":"zlbjjgp7M",
+"date":"2013-02-28 01:05:40"
+},
+{
+"kids":[],
+"uid":"xinghaohuizi",
+"parent":"",
+"text":"",
+"mid":"zlbiGxCAj",
+"date":"2013-02-28 01:04:08"
+},
+{
+"kids":[],
+"uid":"1056175442",
+"parent":"",
+"text":"",
+"mid":"zlbirvwzt",
+"date":"2013-02-28 01:03:32"
+},
+{
+"kids":[],
+"uid":"3029297214",
+"parent":"",
+"text":"",
+"mid":"zlbhEbPCq",
+"date":"2013-02-28 01:01:34"
+},
+{
+"kids":[],
+"uid":"2060736250",
+"parent":"",
+"text":"",
+"mid":"zlbhgdftd",
+"date":"2013-02-28 01:00:37"
+},
+{
+"kids":[],
+"uid":"2335997820",
+"parent":"",
+"text":"",
+"mid":"zlbgB7ZFA",
+"date":"2013-02-28 00:58:58"
+},
+{
+"kids":[],
+"uid":"1260946440",
+"parent":"",
+"text":"",
+"mid":"zlbggc9Oo",
+"date":"2013-02-28 00:58:07"
+},
+{
+"kids":[],
+"uid":"2584127964",
+"parent":"",
+"text":"",
+"mid":"zlbfm3k4P",
+"date":"2013-02-28 00:55:55"
+},
+{
+"kids":[],
+"uid":"2265356031",
+"parent":"",
+"text":"收藏了",
+"mid":"zlbfenjmw",
+"date":"2013-02-28 00:55:37"
+},
+{
+"kids":[],
+"uid":"yoxford",
+"parent":"",
+"text":"",
+"mid":"zlbenrth5",
+"date":"2013-02-28 00:53:30"
+},
+{
+"kids":[
+"zlboofHj1"
+],
+"uid":"2151934234",
+"parent":"",
+"text":"",
+"mid":"zlbemiApy",
+"date":"2013-02-28 00:53:28"
+},
+{
+"kids":[],
+"uid":"1938544885",
+"parent":"",
+"text":"",
+"mid":"zlbe1xund",
+"date":"2013-02-28 00:52:39"
+},
+{
+"kids":[],
+"uid":"2139922185",
+"parent":"",
+"text":"",
+"mid":"zlbdBxege",
+"date":"2013-02-28 00:51:38"
+},
+{
+"kids":[],
+"uid":"3106120994",
+"parent":"",
+"text":"",
+"mid":"zlbdk9dPF",
+"date":"2013-02-28 00:50:53"
+},
+{
+"kids":[],
+"uid":"2369577401",
+"parent":"",
+"text":"",
+"mid":"zlbdiCsaH",
+"date":"2013-02-28 00:50:52"
+},
+{
+"kids":[],
+"uid":"2737149275",
+"parent":"",
+"text":"",
+"mid":"zlbdi5QQt",
+"date":"2013-02-28 00:50:50"
+},
+{
+"kids":[],
+"uid":"1778569233",
+"parent":"",
+"text":"",
+"mid":"zlbd80rK7",
+"date":"2013-02-28 00:50:27"
+},
+{
+"kids":[],
+"uid":"1765024687",
+"parent":"",
+"text":"",
+"mid":"zlbd56M0B",
+"date":"2013-02-28 00:50:19"
+},
+{
+"kids":[
+"zldUGDbS1",
+"zldU3COTh",
+"zldRZENm7"
+],
+"uid":"1071276345",
+"parent":"",
+"text":"主敬是什么意思呢？ 唉……我太没文化了",
+"mid":"zlbcXn67a",
+"date":"2013-02-28 00:49:58"
+},
+{
+"kids":[],
+"uid":"1968049617",
+"parent":"",
+"text":"",
+"mid":"zlbcBwp9e",
+"date":"2013-02-28 00:49:08"
+},
+{
+"kids":[],
+"uid":"1183994143",
+"parent":"",
+"text":"",
+"mid":"zlbcuqiIz",
+"date":"2013-02-28 00:48:52"
+},
+{
+"kids":[],
+"uid":"3150557224",
+"parent":"",
+"text":"",
+"mid":"zlbclgJyr",
+"date":"2013-02-28 00:48:26"
+},
+{
+"kids":[
+"zlgozsEeI"
+],
+"uid":"jaimeloulou",
+"parent":"",
+"text":"最后一句话对怕鬼的人太effective了 妈呀 我要去劳动",
+"mid":"zlbbOt5ZS",
+"date":"2013-02-28 00:47:12"
+},
+{
+"kids":[],
+"uid":"viny127",
+"parent":"",
+"text":"",
+"mid":"zlbbLvgqi",
+"date":"2013-02-28 00:47:01"
+},
+{
+"kids":[],
+"uid":"1889676661",
+"parent":"",
+"text":"",
+"mid":"zlbbK22ls",
+"date":"2013-02-28 00:46:58"
+},
+{
+"kids":[],
+"uid":"2713153121",
+"parent":"",
+"text":"",
+"mid":"zlbbAgPrO",
+"date":"2013-02-28 00:46:39"
+},
+{
+"kids":[],
+"uid":"1576966944",
+"parent":"",
+"text":"",
+"mid":"zlbbnBFwk",
+"date":"2013-02-28 00:46:08"
+},
+{
+"kids":[],
+"uid":"2376789924",
+"parent":"",
+"text":"",
+"mid":"zlbbiiEr8",
+"date":"2013-02-28 00:45:55"
+},
+{
+"kids":[],
+"uid":"huisexinqing",
+"parent":"",
+"text":"首先就是慎独啊",
+"mid":"zlbb0vm76",
+"date":"2013-02-28 00:45:13"
+},
+{
+"kids":[],
+"uid":"yangbinyangguang",
+"parent":"",
+"text":"",
+"mid":"zlbaIesvl",
+"date":"2013-02-28 00:44:27"
+},
+{
+"kids":[],
+"uid":"1920101595",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlbaDaOAe",
+"date":"2013-02-28 00:44:14"
+},
+{
+"kids":[],
+"uid":"2279731691",
+"parent":"",
+"text":"",
+"mid":"zlbaw5kok",
+"date":"2013-02-28 00:44:00"
+},
+{
+"kids":[],
+"uid":"2629474761",
+"parent":"",
+"text":"",
+"mid":"zlbaqaGmO",
+"date":"2013-02-28 00:43:47"
+},
+{
+"kids":[],
+"uid":"2022104091",
+"parent":"",
+"text":"",
+"mid":"zlba14rip",
+"date":"2013-02-28 00:42:44"
+},
+{
+"kids":[],
+"uid":"hwill51279",
+"parent":"",
+"text":"",
+"mid":"zlb9XuGYA",
+"date":"2013-02-28 00:42:38"
+},
+{
+"kids":[],
+"uid":"1710702204",
+"parent":"",
+"text":"",
+"mid":"zlb9W2fAy",
+"date":"2013-02-28 00:42:31"
+},
+{
+"kids":[],
+"uid":"2878311651",
+"parent":"",
+"text":"",
+"mid":"zlb9Vc8Jp",
+"date":"2013-02-28 00:42:32"
+},
+{
+"kids":[],
+"uid":"3095084203",
+"parent":"",
+"text":"",
+"mid":"zlb9KxF26",
+"date":"2013-02-28 00:42:08"
+},
+{
+"kids":[],
+"uid":"2747027835",
+"parent":"",
+"text":"",
+"mid":"zlb9zBzQn",
+"date":"2013-02-28 00:41:42"
+},
+{
+"kids":[],
+"uid":"3198799441",
+"parent":"",
+"text":"",
+"mid":"zlb9w52Nv",
+"date":"2013-02-28 00:41:29"
+},
+{
+"kids":[],
+"uid":"2133597883",
+"parent":"",
+"text":"",
+"mid":"zlb9b37yk",
+"date":"2013-02-28 00:40:39"
+},
+{
+"kids":[],
+"uid":"2914144627",
+"parent":"",
+"text":"",
+"mid":"zlb8qF5Uf",
+"date":"2013-02-28 00:38:52"
+},
+{
+"kids":[],
+"uid":"2727029181",
+"parent":"",
+"text":"",
+"mid":"zlb8dEVVf",
+"date":"2013-02-28 00:38:21"
+},
+{
+"kids":[],
+"uid":"1277244897",
+"parent":"",
+"text":"老曾这个人还是比较值得研究滴",
+"mid":"zlb86jSbn",
+"date":"2013-02-28 00:38:00"
+},
+{
+"kids":[],
+"uid":"2498566031",
+"parent":"",
+"text":"",
+"mid":"zlb86iV3R",
+"date":"2013-02-28 00:38:00"
+},
+{
+"kids":[],
+"uid":"1595990040",
+"parent":"",
+"text":"",
+"mid":"zlb8557Hx",
+"date":"2013-02-28 00:38:00"
+},
+{
+"kids":[],
+"uid":"1846138485",
+"parent":"",
+"text":"",
+"mid":"zlb7PpgpB",
+"date":"2013-02-28 00:37:23"
+},
+{
+"kids":[],
+"uid":"1718622407",
+"parent":"",
+"text":"",
+"mid":"zlb7C9pnS",
+"date":"2013-02-28 00:36:50"
+},
+{
+"kids":[],
+"uid":"2650189387",
+"parent":"zlaRxrFH5",
+"text":"[威武][good][赞][握手][手套]",
+"mid":"zlb7sDUVd",
+"date":"2013-02-28 00:36:29"
+},
+{
+"kids":[],
+"uid":"1308299272",
+"parent":"",
+"text":"",
+"mid":"zlb7og22w",
+"date":"2013-02-28 00:36:15"
+},
+{
+"kids":[],
+"uid":"1988669897",
+"parent":"",
+"text":"",
+"mid":"zlb7k7RQ5",
+"date":"2013-02-28 00:36:05"
+},
+{
+"kids":[],
+"uid":"1002283555",
+"parent":"",
+"text":"@ONLYHLM @侯王丽娟 @斯布雷斯脑残粉",
+"mid":"zlb7ingbg",
+"date":"2013-02-28 00:36:04"
+},
+{
+"kids":[],
+"uid":"718767807",
+"parent":"",
+"text":"轉發微博",
+"mid":"zlb77raVv",
+"date":"2013-02-28 00:35:36"
+},
+{
+"kids":[
+"zld67aKLU"
+],
+"uid":"2972419707",
+"parent":"",
+"text":"",
+"mid":"zlb75CQKw",
+"date":"2013-02-28 00:35:34"
+},
+{
+"kids":[],
+"uid":"1743829254",
+"parent":"",
+"text":"",
+"mid":"zlb6YfLh5",
+"date":"2013-02-28 00:35:15"
+},
+{
+"kids":[],
+"uid":"1429108075",
+"parent":"",
+"text":"",
+"mid":"zlb6SEvOL",
+"date":"2013-02-28 00:35:04"
+},
+{
+"kids":[],
+"uid":"3117238397",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlb6QwKHl",
+"date":"2013-02-28 00:34:58"
+},
+{
+"kids":[],
+"uid":"2168658217",
+"parent":"",
+"text":"",
+"mid":"zlb6PoESq",
+"date":"2013-02-28 00:34:55"
+},
+{
+"kids":[],
+"uid":"2722316117",
+"parent":"",
+"text":"",
+"mid":"zlb6IzTVB",
+"date":"2013-02-28 00:34:38"
+},
+{
+"kids":[],
+"uid":"2691289411",
+"parent":"",
+"text":"",
+"mid":"zlb6758gY",
+"date":"2013-02-28 00:33:07"
+},
+{
+"kids":[],
+"uid":"3201143974",
+"parent":"",
+"text":"稀饭",
+"mid":"zlb64oEL5",
+"date":"2013-02-28 00:33:03"
+},
+{
+"kids":[],
+"uid":"1216016523",
+"parent":"",
+"text":"",
+"mid":"zlb6473yE",
+"date":"2013-02-28 00:33:01"
+},
+{
+"kids":[],
+"uid":"eleonorartgallery",
+"parent":"",
+"text":"",
+"mid":"zlb60yPix",
+"date":"2013-02-28 00:32:51"
+},
+{
+"kids":[],
+"uid":"1994112995",
+"parent":"",
+"text":"",
+"mid":"zlb5IeX0I",
+"date":"2013-02-28 00:32:10"
+},
+{
+"kids":[],
+"uid":"2749154713",
+"parent":"",
+"text":"",
+"mid":"zlb5FgQGj",
+"date":"2013-02-28 00:32:03"
+},
+{
+"kids":[],
+"uid":"2819467052",
+"parent":"",
+"text":"",
+"mid":"zlb5zpCBm",
+"date":"2013-02-28 00:31:45"
+},
+{
+"kids":[],
+"uid":"2559622555",
+"parent":"",
+"text":"",
+"mid":"zlb5u3Ylv",
+"date":"2013-02-28 00:31:35"
+},
+{
+"kids":[],
+"uid":"1375395561",
+"parent":"",
+"text":"",
+"mid":"zlb5o9Xk0",
+"date":"2013-02-28 00:31:19"
+},
+{
+"kids":[],
+"uid":"2827672467",
+"parent":"",
+"text":"",
+"mid":"zlb5fzyPH",
+"date":"2013-02-28 00:30:59"
+},
+{
+"kids":[],
+"uid":"1768807162",
+"parent":"",
+"text":"",
+"mid":"zlb52Bmal",
+"date":"2013-02-28 00:30:30"
+},
+{
+"kids":[],
+"uid":"2386978164",
+"parent":"",
+"text":"",
+"mid":"zlb52iT5p",
+"date":"2013-02-28 00:30:28"
+},
+{
+"kids":[],
+"uid":"yzy2000229",
+"parent":"",
+"text":"",
+"mid":"zlb5229DW",
+"date":"2013-02-28 00:30:29"
+},
+{
+"kids":[],
+"uid":"1780554711",
+"parent":"",
+"text":"",
+"mid":"zlb4Zj7r1",
+"date":"2013-02-28 00:30:23"
+},
+{
+"kids":[],
+"uid":"312761555",
+"parent":"",
+"text":"嗯。[月亮][月亮]",
+"mid":"zlb4KzKLZ",
+"date":"2013-02-28 00:29:45"
+},
+{
+"kids":[
+"zlmIYviWY"
+],
+"uid":"2974587871",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlb4JFEhs",
+"date":"2013-02-28 00:29:46"
+},
+{
+"kids":[],
+"uid":"shaochangdi1122",
+"parent":"",
+"text":"不管怎么样。还是要做这个慎独的人",
+"mid":"zlb4IdcHy",
+"date":"2013-02-28 00:29:42"
+},
+{
+"kids":[],
+"uid":"2007424047",
+"parent":"",
+"text":"",
+"mid":"zlb4qtd7i",
+"date":"2013-02-28 00:28:57"
+},
+{
+"kids":[],
+"uid":"1714186720",
+"parent":"",
+"text":"",
+"mid":"zlb4opYdf",
+"date":"2013-02-28 00:28:54"
+},
+{
+"kids":[],
+"uid":"2347842820",
+"parent":"",
+"text":"文盲了，意太深而不解，但求之。",
+"mid":"zlb4nvSpn",
+"date":"2013-02-28 00:28:53"
+},
+{
+"kids":[
+"zltOWg80s"
+],
+"uid":"2270912161",
+"parent":"",
+"text":"[兔子]",
+"mid":"zlb4khNf8",
+"date":"2013-02-28 00:28:45"
+},
+{
+"kids":[],
+"uid":"policesxd",
+"parent":"",
+"text":"",
+"mid":"zlb4e39M6",
+"date":"2013-02-28 00:28:27"
+},
+{
+"kids":[],
+"uid":"1804694237",
+"parent":"",
+"text":"@-梁天一",
+"mid":"zlb3XdVvB",
+"date":"2013-02-28 00:27:49"
+},
+{
+"kids":[
+"zlcbd09AC"
+],
+"uid":"2023723053",
+"parent":"",
+"text":"",
+"mid":"zlb3Wir0R",
+"date":"2013-02-28 00:27:44"
+},
+{
+"kids":[],
+"uid":"2768256145",
+"parent":"",
+"text":"",
+"mid":"zlb3TFMTH",
+"date":"2013-02-28 00:27:43"
+},
+{
+"kids":[
+"zqSlhjglP"
+],
+"uid":"1892490711",
+"parent":"",
+"text":"",
+"mid":"zlb3L7PkG",
+"date":"2013-02-28 00:27:19"
+},
+{
+"kids":[],
+"uid":"1559584564",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlb3vajnX",
+"date":"2013-02-28 00:26:40"
+},
+{
+"kids":[],
+"uid":"1758255415",
+"parent":"",
+"text":"",
+"mid":"zlb3saLPs",
+"date":"2013-02-28 00:26:35"
+},
+{
+"kids":[
+"zldHRbbga"
+],
+"uid":"1414912190",
+"parent":"",
+"text":"",
+"mid":"zlb3mhuyc",
+"date":"2013-02-28 00:26:23"
+},
+{
+"kids":[],
+"uid":"terrymyc",
+"parent":"",
+"text":"轉發微博",
+"mid":"zlb3jiNCA",
+"date":"2013-02-28 00:26:16"
+},
+{
+"kids":[],
+"uid":"zonemercy",
+"parent":"zlaURpp5H",
+"text":"",
+"mid":"zlb3hxFCR",
+"date":"2013-02-28 00:26:11"
+},
+{
+"kids":[],
+"uid":"1013307785",
+"parent":"zlb1zu1dG",
+"text":"",
+"mid":"zlb390wxH",
+"date":"2013-02-28 00:25:50"
+},
+{
+"kids":[],
+"uid":"2217159763",
+"parent":"",
+"text":"",
+"mid":"zlb2P9A8P",
+"date":"2013-02-28 00:25:02"
+},
+{
+"kids":[
+"zle3i0BWi"
+],
+"uid":"2363839630",
+"parent":"",
+"text":"",
+"mid":"zlb2DDTpJ",
+"date":"2013-02-28 00:24:32"
+},
+{
+"kids":[],
+"uid":"2479460221",
+"parent":"",
+"text":"",
+"mid":"zlb2pa55i",
+"date":"2013-02-28 00:24:00"
+},
+{
+"kids":[],
+"uid":"2543715695",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlb2dBBOF",
+"date":"2013-02-28 00:23:33"
+},
+{
+"kids":[],
+"uid":"2823762950",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlb2dnOTP",
+"date":"2013-02-28 00:23:33"
+},
+{
+"kids":[],
+"uid":"1941647973",
+"parent":"",
+"text":"参加劳动则鬼神也敬重！",
+"mid":"zlb24v2kO",
+"date":"2013-02-28 00:23:12"
+},
+{
+"kids":[],
+"uid":"2776072983",
+"parent":"",
+"text":"",
+"mid":"zlb24cjpL",
+"date":"2013-02-28 00:23:12"
+},
+{
+"kids":[],
+"uid":"1638220291",
+"parent":"",
+"text":"",
+"mid":"zlb1V0RyP",
+"date":"2013-02-28 00:22:49"
+},
+{
+"kids":[],
+"uid":"2397754360",
+"parent":"zlaVR8GNh",
+"text":"",
+"mid":"zlb1Re1Ma",
+"date":"2013-02-28 00:22:41"
+},
+{
+"kids":[],
+"uid":"207774995",
+"parent":"",
+"text":"回复@Zhangxg你听话点好吧:慎独就是谨慎地对待独处，也就是无背人之言行，表里如一。",
+"mid":"zlb1QCnRF",
+"date":"2013-02-28 00:22:39"
+},
+{
+"kids":[
+"zmacqcsz9",
+"zlbofowMh"
+],
+"uid":"2921383624",
+"parent":"",
+"text":"慎独是一种情操；慎独是一种修养；慎独是一种自律；慎独是一种坦荡。所谓“慎独”，是指人们在独自活动无人监督的情况下，凭着高度自觉，按照一定的道德规范行动，而不做任何有违道德信念、做人原则之事。这是进行个人道德修养的重要方法，也是评定一个人道德水准的关键性环节。",
+"mid":"zlb1K7Kcn",
+"date":"2013-02-28 00:22:23"
+},
+{
+"kids":[
+"zlb390wxH"
+],
+"uid":"1805189271",
+"parent":"",
+"text":"",
+"mid":"zlb1zu1dG",
+"date":"2013-02-28 00:21:57"
+},
+{
+"kids":[],
+"uid":"1744029970",
+"parent":"zlaVdAR82",
+"text":"",
+"mid":"zlb1m8BQo",
+"date":"2013-02-28 00:21:26"
+},
+{
+"kids":[],
+"uid":"dongdayou",
+"parent":"",
+"text":"第五，后代得听啊.....",
+"mid":"zlb1ha33w",
+"date":"2013-02-28 00:21:14"
+},
+{
+"kids":[],
+"uid":"1861749613",
+"parent":"",
+"text":"",
+"mid":"zlb1gxqYn",
+"date":"2013-02-28 00:21:14"
+},
+{
+"kids":[],
+"uid":"echarm",
+"parent":"",
+"text":"",
+"mid":"zlb1bwYRd",
+"date":"2013-02-28 00:21:00"
+},
+{
+"kids":[],
+"uid":"1188665812",
+"parent":"",
+"text":"这是一个值得学习和关注的人[强]",
+"mid":"zlb17DAl9",
+"date":"2013-02-28 00:20:52"
+},
+{
+"kids":[],
+"uid":"tbwanku",
+"parent":"",
+"text":"",
+"mid":"zlb119JEQ",
+"date":"2013-02-28 00:20:36"
+},
+{
+"kids":[],
+"uid":"2536683911",
+"parent":"",
+"text":"",
+"mid":"zlb0ZnfEr",
+"date":"2013-02-28 00:20:31"
+},
+{
+"kids":[],
+"uid":"3280226635",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlb0Wacyc",
+"date":"2013-02-28 00:20:24"
+},
+{
+"kids":[],
+"uid":"2423451021",
+"parent":"",
+"text":"",
+"mid":"zlb0TutDR",
+"date":"2013-02-28 00:20:17"
+},
+{
+"kids":[],
+"uid":"luxuntree",
+"parent":"",
+"text":"",
+"mid":"zlb0Pkr6F",
+"date":"2013-02-28 00:20:06"
+},
+{
+"kids":[],
+"uid":"2258252322",
+"parent":"",
+"text":"",
+"mid":"zlb0M5vIy",
+"date":"2013-02-28 00:19:57"
+},
+{
+"kids":[],
+"uid":"2849507615",
+"parent":"",
+"text":"学习了",
+"mid":"zlb0KlLCz",
+"date":"2013-02-28 00:19:56"
+},
+{
+"kids":[],
+"uid":"2418440747",
+"parent":"",
+"text":"",
+"mid":"zlb0IgOKA",
+"date":"2013-02-28 00:19:48"
+},
+{
+"kids":[],
+"uid":"baikal",
+"parent":"",
+"text":"",
+"mid":"zlb0HoqXU",
+"date":"2013-02-28 00:19:46"
+},
+{
+"kids":[],
+"uid":"2697001341",
+"parent":"",
+"text":"",
+"mid":"zlb0Eaek3",
+"date":"2013-02-28 00:19:38"
+},
+{
+"kids":[],
+"uid":"3182991954",
+"parent":"",
+"text":"",
+"mid":"zlb0pF9uv",
+"date":"2013-02-28 00:19:04"
+},
+{
+"kids":[],
+"uid":"2415013481",
+"parent":"",
+"text":"",
+"mid":"zlb0plfOo",
+"date":"2013-02-28 00:19:07"
+},
+{
+"kids":[],
+"uid":"1583501657",
+"parent":"",
+"text":"",
+"mid":"zlb0p5e22",
+"date":"2013-02-28 00:19:05"
+},
+{
+"kids":[],
+"uid":"vianer0222",
+"parent":"",
+"text":"说得很好",
+"mid":"zlb0nhaGW",
+"date":"2013-02-28 00:19:00"
+},
+{
+"kids":[
+"zldQSeqiA"
+],
+"uid":"1759647997",
+"parent":"",
+"text":"",
+"mid":"zlb0gcs8O",
+"date":"2013-02-28 00:18:43"
+},
+{
+"kids":[],
+"uid":"2703108040",
+"parent":"",
+"text":"慎独，主敬",
+"mid":"zlb0brSaQ",
+"date":"2013-02-28 00:18:33"
+},
+{
+"kids":[],
+"uid":"2466829165",
+"parent":"",
+"text":"",
+"mid":"zlb09nMXk",
+"date":"2013-02-28 00:18:25"
+},
+{
+"kids":[
+"zlL8RfjyL"
+],
+"uid":"2953621397",
+"parent":"",
+"text":"",
+"mid":"zlb05xZLX",
+"date":"2013-02-28 00:18:16"
+},
+{
+"kids":[],
+"uid":"theflycloud",
+"parent":"",
+"text":"回复@滴水欲成气:说白了，就是小人之术",
+"mid":"zlb04DYQK",
+"date":"2013-02-28 00:18:17"
+},
+{
+"kids":[],
+"uid":"onlymetis",
+"parent":"",
+"text":"第四是以“重视农耕”，体现其不忘根本的仕大夫情结[汗]",
+"mid":"zlb02DcR7",
+"date":"2013-02-28 00:18:12"
+},
+{
+"kids":[],
+"uid":"2747440345",
+"parent":"",
+"text":"",
+"mid":"zlaZZmsn7",
+"date":"2013-02-28 00:18:03"
+},
+{
+"kids":[],
+"uid":"1879170335",
+"parent":"",
+"text":"慎独，主敬",
+"mid":"zlaZXBMez",
+"date":"2013-02-28 00:17:58"
+},
+{
+"kids":[],
+"uid":"273915950",
+"parent":"",
+"text":"",
+"mid":"zlaZNeQtX",
+"date":"2013-02-28 00:17:35"
+},
+{
+"kids":[],
+"uid":"ascorpiogirl",
+"parent":"",
+"text":"慎独则心安，主敬则身强，求仁则人悦，习劳则神钦。",
+"mid":"zlaZJohmL",
+"date":"2013-02-28 00:17:23"
+},
+{
+"kids":[],
+"uid":"1146604523",
+"parent":"",
+"text":"",
+"mid":"zlaZIcFhl",
+"date":"2013-02-28 00:17:21"
+},
+{
+"kids":[],
+"uid":"1589768211",
+"parent":"",
+"text":"",
+"mid":"zlaZH3ff4",
+"date":"2013-02-28 00:17:20"
+},
+{
+"kids":[],
+"uid":"jbycw",
+"parent":"",
+"text":"",
+"mid":"zlaZEEth6",
+"date":"2013-02-28 00:17:15"
+},
+{
+"kids":[],
+"uid":"313968000",
+"parent":"",
+"text":"",
+"mid":"zlaZC0pJH",
+"date":"2013-02-28 00:17:08"
+},
+{
+"kids":[],
+"uid":"1790877241",
+"parent":"",
+"text":"",
+"mid":"zlaZAwiRX",
+"date":"2013-02-28 00:17:05"
+},
+{
+"kids":[],
+"uid":"2498943735",
+"parent":"",
+"text":"记下来这句话，用于自勉。",
+"mid":"zlaZzFu5o",
+"date":"2013-02-28 00:17:04"
+},
+{
+"kids":[],
+"uid":"hallelujia",
+"parent":"",
+"text":"",
+"mid":"zlaZkyPTN",
+"date":"2013-02-28 00:16:26"
+},
+{
+"kids":[],
+"uid":"2657129354",
+"parent":"",
+"text":"",
+"mid":"zlaZhmgj0",
+"date":"2013-02-28 00:16:17"
+},
+{
+"kids":[],
+"uid":"2942305233",
+"parent":"",
+"text":"",
+"mid":"zlaZfhuaA",
+"date":"2013-02-28 00:16:12"
+},
+{
+"kids":[],
+"uid":"ajiaomei",
+"parent":"",
+"text":"",
+"mid":"zlaZdbKeM",
+"date":"2013-02-28 00:16:10"
+},
+{
+"kids":[],
+"uid":"maxchy",
+"parent":"",
+"text":"不大理解这四句话后面的含义。。",
+"mid":"zlaZbpgb1",
+"date":"2013-02-28 00:16:05"
+},
+{
+"kids":[],
+"uid":"2500737107",
+"parent":"",
+"text":"至理至性。",
+"mid":"zlaZ1mrBX",
+"date":"2013-02-28 00:15:42"
+},
+{
+"kids":[],
+"uid":"2836754791",
+"parent":"",
+"text":"真的可以这么自夸吗[吃惊]@杨雄楷 @島民小黑 @海南霓霓 @旅家网龙东平",
+"mid":"zlaYZByXU",
+"date":"2013-02-28 00:15:37"
+},
+{
+"kids":[],
+"uid":"xiaxiaxiaqi",
+"parent":"",
+"text":"",
+"mid":"zlaYYolC3",
+"date":"2013-02-28 00:15:34"
+},
+{
+"kids":[],
+"uid":"wubird",
+"parent":"",
+"text":"慎独[雪]",
+"mid":"zlaYJBIQL",
+"date":"2013-02-28 00:14:58"
+},
+{
+"kids":[],
+"uid":"1990741571",
+"parent":"",
+"text":"",
+"mid":"zlaYIrEvg",
+"date":"2013-02-28 00:14:56"
+},
+{
+"kids":[],
+"uid":"1692715744",
+"parent":"",
+"text":"自省",
+"mid":"zlaYHzWVo",
+"date":"2013-02-28 00:14:55"
+},
+{
+"kids":[],
+"uid":"2770822575",
+"parent":"",
+"text":"",
+"mid":"zlaYvt0lG",
+"date":"2013-02-28 00:14:25"
+},
+{
+"kids":[],
+"uid":"2211871690",
+"parent":"",
+"text":"",
+"mid":"zlaYqaDwF",
+"date":"2013-02-28 00:14:12"
+},
+{
+"kids":[],
+"uid":"2901245633",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlaYpgJtG",
+"date":"2013-02-28 00:14:07"
+},
+{
+"kids":[],
+"uid":"1794560687",
+"parent":"",
+"text":"",
+"mid":"zlaYoFKgW",
+"date":"2013-02-28 00:14:09"
+},
+{
+"kids":[],
+"uid":"JosephJZQ",
+"parent":"zlaURpp5H",
+"text":"",
+"mid":"zlaYoDCqG",
+"date":"2013-02-28 00:14:08"
+},
+{
+"kids":[],
+"uid":"1305614614",
+"parent":"",
+"text":"中国不缺这种聪明人 ，个个都精的跟猴似的，不值得宣扬。为人处事之道只能人让个体受益，而让群体遭殃。对个人的发展有用，对种族的进步大不利。",
+"mid":"zlaYh0mSK",
+"date":"2013-02-28 00:13:49"
+},
+{
+"kids":[],
+"uid":"3082853925",
+"parent":"",
+"text":"",
+"mid":"zlaY64gO3",
+"date":"2013-02-28 00:13:24"
+},
+{
+"kids":[],
+"uid":"1901611023",
+"parent":"",
+"text":"[呵呵]",
+"mid":"zlaXWBgcp",
+"date":"2013-02-28 00:12:59"
+},
+{
+"kids":[],
+"uid":"2781674733",
+"parent":"",
+"text":"",
+"mid":"zlaXWytCR",
+"date":"2013-02-28 00:13:02"
+},
+{
+"kids":[],
+"uid":"2638624330",
+"parent":"",
+"text":"",
+"mid":"zlaXV8aBQ",
+"date":"2013-02-28 00:12:57"
+},
+{
+"kids":[],
+"uid":"2919757510",
+"parent":"zlaRT0kjc",
+"text":"",
+"mid":"zlaXUcNbo",
+"date":"2013-02-28 00:12:52"
+},
+{
+"kids":[],
+"uid":"1403096670",
+"parent":"zlaVxmwfD",
+"text":"",
+"mid":"zlaXI5Tqa",
+"date":"2013-02-28 00:12:27"
+},
+{
+"kids":[],
+"uid":"2525639567",
+"parent":"",
+"text":"",
+"mid":"zlaXFaE2K",
+"date":"2013-02-28 00:12:20"
+},
+{
+"kids":[],
+"uid":"1611517905",
+"parent":"",
+"text":"",
+"mid":"zlaXzdUVP",
+"date":"2013-02-28 00:12:07"
+},
+{
+"kids":[],
+"uid":"2209237901",
+"parent":"",
+"text":"",
+"mid":"zlaXpuIPq",
+"date":"2013-02-28 00:11:42"
+},
+{
+"kids":[],
+"uid":"sdcnd",
+"parent":"",
+"text":"家训呀",
+"mid":"zlaXpd7sr",
+"date":"2013-02-28 00:11:42"
+},
+{
+"kids":[],
+"uid":"2691322794",
+"parent":"",
+"text":"",
+"mid":"zlaXn91OR",
+"date":"2013-02-28 00:11:37"
+},
+{
+"kids":[],
+"uid":"2684107971",
+"parent":"",
+"text":"[衰]",
+"mid":"zlaXjyOSR",
+"date":"2013-02-28 00:11:26"
+},
+{
+"kids":[],
+"uid":"2165047801",
+"parent":"",
+"text":"",
+"mid":"zlaXhcmIH",
+"date":"2013-02-28 00:11:21"
+},
+{
+"kids":[],
+"uid":"2293982663",
+"parent":"",
+"text":"",
+"mid":"zlaXgmPnv",
+"date":"2013-02-28 00:11:22"
+},
+{
+"kids":[],
+"uid":"2579406441",
+"parent":"",
+"text":"",
+"mid":"zlaXe18hE",
+"date":"2013-02-28 00:11:13"
+},
+{
+"kids":[],
+"uid":"1905621121",
+"parent":"",
+"text":"",
+"mid":"zlaXb0SVU",
+"date":"2013-02-28 00:11:08"
+},
+{
+"kids":[],
+"uid":"1082068247",
+"parent":"",
+"text":"",
+"mid":"zlaX8o3xf",
+"date":"2013-02-28 00:11:00"
+},
+{
+"kids":[],
+"uid":"2094658274",
+"parent":"",
+"text":"共勉，晚安！",
+"mid":"zlaX7bv1K",
+"date":"2013-02-28 00:10:56"
+},
+{
+"kids":[],
+"uid":"1750214800",
+"parent":"",
+"text":"",
+"mid":"zlaX7buZl",
+"date":"2013-02-28 00:10:59"
+},
+{
+"kids":[],
+"uid":"2439603172",
+"parent":"",
+"text":"",
+"mid":"zlaX3iYUy",
+"date":"2013-02-28 00:10:48"
+},
+{
+"kids":[],
+"uid":"cjh5910216304",
+"parent":"",
+"text":"#我看看#[呵呵]",
+"mid":"zlaWYhzyU",
+"date":"2013-02-28 00:10:35"
+},
+{
+"kids":[],
+"uid":"2147817332",
+"parent":"",
+"text":"",
+"mid":"zlaWVDKZX",
+"date":"2013-02-28 00:10:32"
+},
+{
+"kids":[],
+"uid":"1218101110",
+"parent":"",
+"text":"",
+"mid":"zlaWV2Ebt",
+"date":"2013-02-28 00:10:31"
+},
+{
+"kids":[],
+"uid":"2109865194",
+"parent":"",
+"text":"",
+"mid":"zlaWRdYnE",
+"date":"2013-02-28 00:10:18"
+},
+{
+"kids":[],
+"uid":"1968686100",
+"parent":"",
+"text":"",
+"mid":"zlaWQCjaF",
+"date":"2013-02-28 00:10:16"
+},
+{
+"kids":[],
+"uid":"2842501660",
+"parent":"",
+"text":"",
+"mid":"zlaWN7ukF",
+"date":"2013-02-28 00:10:12"
+},
+{
+"kids":[],
+"uid":"songtopone",
+"parent":"",
+"text":"",
+"mid":"zlaWI5sux",
+"date":"2013-02-28 00:09:59"
+},
+{
+"kids":[],
+"uid":"2442826011",
+"parent":"",
+"text":"简洁，深远",
+"mid":"zlaWDDPqG",
+"date":"2013-02-28 00:09:46"
+},
+{
+"kids":[],
+"uid":"2745950925",
+"parent":"",
+"text":"曾国藩",
+"mid":"zlaWD424c",
+"date":"2013-02-28 00:09:47"
+},
+{
+"kids":[],
+"uid":"2185630601",
+"parent":"",
+"text":"",
+"mid":"zlaWCaMT4",
+"date":"2013-02-28 00:09:45"
+},
+{
+"kids":[],
+"uid":"smilefish1314",
+"parent":"",
+"text":"",
+"mid":"zlaWB0x1v",
+"date":"2013-02-28 00:09:38"
+},
+{
+"kids":[],
+"uid":"2367581400",
+"parent":"",
+"text":"",
+"mid":"zlaWxryau",
+"date":"2013-02-28 00:09:34"
+},
+{
+"kids":[],
+"uid":"2381054823",
+"parent":"",
+"text":"受教[给力]",
+"mid":"zlaWwgHBY",
+"date":"2013-02-28 00:09:30"
+},
+{
+"kids":[],
+"uid":"1008707811",
+"parent":"",
+"text":"",
+"mid":"zlaWrwi5L",
+"date":"2013-02-28 00:09:21"
+},
+{
+"kids":[],
+"uid":"1944893662",
+"parent":"",
+"text":"敬佩！",
+"mid":"zlaWppjjB",
+"date":"2013-02-28 00:09:15"
+},
+{
+"kids":[],
+"uid":"wxbqtlmy",
+"parent":"",
+"text":"",
+"mid":"zlaWmcfNt",
+"date":"2013-02-28 00:09:04"
+},
+{
+"kids":[],
+"uid":"1945949693",
+"parent":"",
+"text":"现在开始过各种家训遗嘱。",
+"mid":"zlaWhaQse",
+"date":"2013-02-28 00:08:52"
+},
+{
+"kids":[],
+"uid":"2530743704",
+"parent":"",
+"text":"",
+"mid":"zlaW8Atbp",
+"date":"2013-02-28 00:08:35"
+},
+{
+"kids":[],
+"uid":"1166889941",
+"parent":"",
+"text":"",
+"mid":"zlaW81gL8",
+"date":"2013-02-28 00:08:32"
+},
+{
+"kids":[
+"zlql3mKQ0"
+],
+"uid":"2476235077",
+"parent":"",
+"text":"慎独则心里平静。",
+"mid":"zlaW5D94T",
+"date":"2013-02-28 00:08:29"
+},
+{
+"kids":[],
+"uid":"1350836424",
+"parent":"",
+"text":"",
+"mid":"zlaW5mtVc",
+"date":"2013-02-28 00:08:28"
+},
+{
+"kids":[],
+"uid":"1464724425",
+"parent":"",
+"text":"",
+"mid":"zlaW5jG1E",
+"date":"2013-02-28 00:08:24"
+},
+{
+"kids":[],
+"uid":"energycc",
+"parent":"",
+"text":"",
+"mid":"zlaW1dnrP",
+"date":"2013-02-28 00:08:18"
+},
+{
+"kids":[],
+"uid":"2092378443",
+"parent":"",
+"text":"",
+"mid":"zlaVU8Mci",
+"date":"2013-02-28 00:07:58"
+},
+{
+"kids":[],
+"uid":"seulli",
+"parent":"",
+"text":"",
+"mid":"zlaVTundQ",
+"date":"2013-02-28 00:07:59"
+},
+{
+"kids":[
+"zlb1Re1Ma"
+],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"zlaVR8GNh",
+"date":"2013-02-28 00:07:52"
+},
+{
+"kids":[],
+"uid":"1576733903",
+"parent":"",
+"text":"曾国藩在做人做事家教方面确有独到之处。",
+"mid":"zlaVP7lCJ",
+"date":"2013-02-28 00:07:46"
+},
+{
+"kids":[],
+"uid":"2880854827",
+"parent":"",
+"text":"",
+"mid":"zlaVLhkgZ",
+"date":"2013-02-28 00:07:37"
+},
+{
+"kids":[],
+"uid":"1347913047",
+"parent":"",
+"text":"慎独，君子必慎其独也",
+"mid":"zlaVJuPUe",
+"date":"2013-02-28 00:07:33"
+},
+{
+"kids":[],
+"uid":"2278847703",
+"parent":"",
+"text":"",
+"mid":"zlaVF5339",
+"date":"2013-02-28 00:07:24"
+},
+{
+"kids":[],
+"uid":"2812348305",
+"parent":"",
+"text":"慎独，主敬，仁义，从容，务实",
+"mid":"zlaVEbNOD",
+"date":"2013-02-28 00:07:21"
+},
+{
+"kids":[],
+"uid":"2527125163",
+"parent":"",
+"text":"收到了",
+"mid":"zlaVDAa23",
+"date":"2013-02-28 00:07:21"
+},
+{
+"kids":[],
+"uid":"1361771401",
+"parent":"",
+"text":"",
+"mid":"zlaVDwU3s",
+"date":"2013-02-28 00:07:22"
+},
+{
+"kids":[
+"zlfY922B5"
+],
+"uid":"equipmentworld",
+"parent":"",
+"text":"good！",
+"mid":"zlaVA2fha",
+"date":"2013-02-28 00:07:12"
+},
+{
+"kids":[
+"zld6G5GBP",
+"zlaXI5Tqa"
+],
+"uid":"1313520680",
+"parent":"",
+"text":"",
+"mid":"zlaVxmwfD",
+"date":"2013-02-28 00:07:05"
+},
+{
+"kids":[],
+"uid":"cloud110",
+"parent":"",
+"text":"后代个个都有成就，品格很高，慎独是人最难修炼的",
+"mid":"zlaVw9Ohc",
+"date":"2013-02-28 00:07:04"
+},
+{
+"kids":[],
+"uid":"2219825921",
+"parent":"",
+"text":"",
+"mid":"zlaVw9OgS",
+"date":"2013-02-28 00:07:04"
+},
+{
+"kids":[],
+"uid":"sunsolomon",
+"parent":"",
+"text":"",
+"mid":"zlaVtwKmW",
+"date":"2013-02-28 00:06:53"
+},
+{
+"kids":[],
+"uid":"1950240207",
+"parent":"",
+"text":"",
+"mid":"zlaVqB3CU",
+"date":"2013-02-28 00:06:51"
+},
+{
+"kids":[
+"zldYxpJbs"
+],
+"uid":"2073929777",
+"parent":"",
+"text":"本吊丝要好好理解。",
+"mid":"zlaVlwrRl",
+"date":"2013-02-28 00:06:38"
+},
+{
+"kids":[],
+"uid":"2149712670",
+"parent":"",
+"text":"",
+"mid":"zlaVkn8ia",
+"date":"2013-02-28 00:06:35"
+},
+{
+"kids":[],
+"uid":"1417188432",
+"parent":"",
+"text":"",
+"mid":"zlaVij2Fv",
+"date":"2013-02-28 00:06:27"
+},
+{
+"kids":[],
+"uid":"2341850077",
+"parent":"",
+"text":"",
+"mid":"zlaVij2y3",
+"date":"2013-02-28 00:06:29"
+},
+{
+"kids":[
+"zlb1m8BQo"
+],
+"uid":"2063525791",
+"parent":"",
+"text":"",
+"mid":"zlaVdAR82",
+"date":"2013-02-28 00:06:18"
+},
+{
+"kids":[],
+"uid":"xinyouyuxian",
+"parent":"",
+"text":"",
+"mid":"zlaVdytWl",
+"date":"2013-02-28 00:06:19"
+},
+{
+"kids":[],
+"uid":"1042117543",
+"parent":"",
+"text":"",
+"mid":"zlaVbf9Y8",
+"date":"2013-02-28 00:06:13"
+},
+{
+"kids":[],
+"uid":"wuguochang",
+"parent":"",
+"text":"",
+"mid":"zlaVa2FQW",
+"date":"2013-02-28 00:06:10"
+},
+{
+"kids":[],
+"uid":"2480491941",
+"parent":"",
+"text":"",
+"mid":"zlaV8xMNS",
+"date":"2013-02-28 00:06:04"
+},
+{
+"kids":[],
+"uid":"3177682280",
+"parent":"",
+"text":"",
+"mid":"zlaV3wma2",
+"date":"2013-02-28 00:05:55"
+},
+{
+"kids":[],
+"uid":"1657287890",
+"parent":"",
+"text":"",
+"mid":"zlaUZoaGD",
+"date":"2013-02-28 00:05:45"
+},
+{
+"kids":[],
+"uid":"2264257850",
+"parent":"",
+"text":"敬重曾国公。",
+"mid":"zlaUVzdr3",
+"date":"2013-02-28 00:05:33"
+},
+{
+"kids":[],
+"uid":"1748890324",
+"parent":"",
+"text":"",
+"mid":"zlaUU6LCt",
+"date":"2013-02-28 00:05:33"
+},
+{
+"kids":[],
+"uid":"1130261571",
+"parent":"",
+"text":"",
+"mid":"zlaUSheI4",
+"date":"2013-02-28 00:05:26"
+},
+{
+"kids":[
+"zlb3hxFCR",
+"zlaYoDCqG"
+],
+"uid":"207774995",
+"parent":"",
+"text":"慎独则心安，主敬则身强，求仁则人悦，习劳则神钦。",
+"mid":"zlaURpp5H",
+"date":"2013-02-28 00:05:24"
+},
+{
+"kids":[
+"zlcUecPra"
+],
+"uid":"2154383980",
+"parent":"",
+"text":"",
+"mid":"zlaUNiQi2",
+"date":"2013-02-28 00:05:16"
+},
+{
+"kids":[],
+"uid":"1422775805",
+"parent":"",
+"text":"",
+"mid":"zlaUKA6xE",
+"date":"2013-02-28 00:05:09"
+},
+{
+"kids":[],
+"uid":"1806371232",
+"parent":"",
+"text":"",
+"mid":"zlaUK1FFo",
+"date":"2013-02-28 00:05:05"
+},
+{
+"kids":[],
+"uid":"1352723852",
+"parent":"zlaRRvrv1",
+"text":"",
+"mid":"zlaUEnR27",
+"date":"2013-02-28 00:04:53"
+},
+{
+"kids":[],
+"uid":"chenfuyong",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlaUzFnyw",
+"date":"2013-02-28 00:04:45"
+},
+{
+"kids":[],
+"uid":"3186107814",
+"parent":"",
+"text":"",
+"mid":"zlaUz7MTS",
+"date":"2013-02-28 00:04:38"
+},
+{
+"kids":[],
+"uid":"2824479111",
+"parent":"",
+"text":"",
+"mid":"zlaUz6b0p",
+"date":"2013-02-28 00:04:39"
+},
+{
+"kids":[],
+"uid":"1976631351",
+"parent":"",
+"text":"",
+"mid":"zlaUpBZWj",
+"date":"2013-02-28 00:04:21"
+},
+{
+"kids":[],
+"uid":"1730790673",
+"parent":"",
+"text":"[心]",
+"mid":"zlaUpmwIa",
+"date":"2013-02-28 00:04:17"
+},
+{
+"kids":[],
+"uid":"1816236164",
+"parent":"",
+"text":"@",
+"mid":"zlaUiyBf1",
+"date":"2013-02-28 00:04:00"
+},
+{
+"kids":[],
+"uid":"411231077",
+"parent":"",
+"text":"",
+"mid":"zlaUhDgs3",
+"date":"2013-02-28 00:04:02"
+},
+{
+"kids":[],
+"uid":"3008226603",
+"parent":"",
+"text":"",
+"mid":"zlaUeqpnN",
+"date":"2013-02-28 00:03:49"
+},
+{
+"kids":[],
+"uid":"1790858100",
+"parent":"",
+"text":"",
+"mid":"zlaU8dDh4",
+"date":"2013-02-28 00:03:36"
+},
+{
+"kids":[
+"zpvPQhJ4A"
+],
+"uid":"2202606877",
+"parent":"",
+"text":"学习",
+"mid":"zlaU8c5xn",
+"date":"2013-02-28 00:03:37"
+},
+{
+"kids":[],
+"uid":"2825226750",
+"parent":"zlaRQ5LBC",
+"text":"劳动人民最光荣",
+"mid":"zlaU6r8NJ",
+"date":"2013-02-28 00:03:33"
+},
+{
+"kids":[],
+"uid":"2621155337",
+"parent":"",
+"text":"",
+"mid":"zlaTY8vuj",
+"date":"2013-02-28 00:03:14"
+},
+{
+"kids":[],
+"uid":"2421108985",
+"parent":"",
+"text":"",
+"mid":"zlaTW5bM5",
+"date":"2013-02-28 00:03:08"
+},
+{
+"kids":[],
+"uid":"2818874020",
+"parent":"",
+"text":"",
+"mid":"zlaTPAmk3",
+"date":"2013-02-28 00:02:54"
+},
+{
+"kids":[],
+"uid":"1918914213",
+"parent":"",
+"text":"曾圣的学问说明知识的确能改变人的命运•﹏•",
+"mid":"zlaTNu36n",
+"date":"2013-02-28 00:02:50"
+},
+{
+"kids":[],
+"uid":"1424297870",
+"parent":"",
+"text":"@ 李事多君",
+"mid":"zlaTEleTB",
+"date":"2013-02-28 00:02:27"
+},
+{
+"kids":[],
+"uid":"hit97",
+"parent":"",
+"text":"",
+"mid":"zlaTzCP4i",
+"date":"2013-02-28 00:02:16"
+},
+{
+"kids":[],
+"uid":"1688783284",
+"parent":"",
+"text":"",
+"mid":"zlaTwE6DR",
+"date":"2013-02-28 00:02:06"
+},
+{
+"kids":[],
+"uid":"2558383623",
+"parent":"",
+"text":"",
+"mid":"zlaTw6hmn",
+"date":"2013-02-28 00:02:07"
+},
+{
+"kids":[],
+"uid":"1100423060",
+"parent":"",
+"text":"",
+"mid":"zlaTsxiyX",
+"date":"2013-02-28 00:01:56"
+},
+{
+"kids":[],
+"uid":"3148032401",
+"parent":"",
+"text":"",
+"mid":"zlaTro1h9",
+"date":"2013-02-28 00:01:56"
+},
+{
+"kids":[
+"znGA6ahq9"
+],
+"uid":"lizude",
+"parent":"",
+"text":"",
+"mid":"zlaTrms4h",
+"date":"2013-02-28 00:01:57"
+},
+{
+"kids":[],
+"uid":"qyqll",
+"parent":"",
+"text":"",
+"mid":"zlaTo94Ns",
+"date":"2013-02-28 00:01:48"
+},
+{
+"kids":[],
+"uid":"linyarong",
+"parent":"",
+"text":"这个必须转@[给力]",
+"mid":"zlaTm3pVU",
+"date":"2013-02-28 00:01:40"
+},
+{
+"kids":[],
+"uid":"2784884864",
+"parent":"",
+"text":"",
+"mid":"zlaTkgVEK",
+"date":"2013-02-28 00:01:40"
+},
+{
+"kids":[],
+"uid":"gladays",
+"parent":"",
+"text":"",
+"mid":"zlaTjlB4t",
+"date":"2013-02-28 00:01:34"
+},
+{
+"kids":[],
+"uid":"1778572945",
+"parent":"",
+"text":"",
+"mid":"zlaThCKJo",
+"date":"2013-02-28 00:01:32"
+},
+{
+"kids":[],
+"uid":"1275226027",
+"parent":"",
+"text":"",
+"mid":"zlaTfdqJE",
+"date":"2013-02-28 00:01:26"
+},
+{
+"kids":[],
+"uid":"2629426441",
+"parent":"",
+"text":"",
+"mid":"zlaTekXg2",
+"date":"2013-02-28 00:01:22"
+},
+{
+"kids":[],
+"uid":"1403669841",
+"parent":"",
+"text":"[good]",
+"mid":"zlaTcjIrH",
+"date":"2013-02-28 00:01:19"
+},
+{
+"kids":[],
+"uid":"jthinging",
+"parent":"",
+"text":"慎独，躬行，终可收天下。",
+"mid":"zlaT9AnI7",
+"date":"2013-02-28 00:01:14"
+},
+{
+"kids":[],
+"uid":"haijunzhang",
+"parent":"",
+"text":"",
+"mid":"zlaT9iMtS",
+"date":"2013-02-28 00:01:13"
+},
+{
+"kids":[
+"zpWdZdqC4"
+],
+"uid":"1011302883",
+"parent":"",
+"text":"",
+"mid":"zlaT91WIB",
+"date":"2013-02-28 00:01:13"
+},
+{
+"kids":[],
+"uid":"2267427143",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlaT7gJcS",
+"date":"2013-02-28 00:01:06"
+},
+{
+"kids":[],
+"uid":"anxinandshelly",
+"parent":"",
+"text":"",
+"mid":"zlaT5vMZM",
+"date":"2013-02-28 00:01:03"
+},
+{
+"kids":[],
+"uid":"geneworld",
+"parent":"",
+"text":"【曾国藩遗嘱四句话 后代没出一个败家子】曾氏家族打破了“盛不过三代”魔咒，据称是曾国藩的“四条遗嘱”起到了决定性作用：一是慎独则心里平静。二是主敬则身体强健。三是追求仁爱则人高兴。四是参加劳动则鬼神也敬重。",
+"mid":"zlaT4yYk3",
+"date":"2013-02-28 00:01:02"
+},
+{
+"kids":[
+"zleqXp70b"
+],
+"uid":"alvinac8927",
+"parent":"",
+"text":"",
+"mid":"zlaT43l2E",
+"date":"2013-02-28 00:00:57"
+},
+{
+"kids":[],
+"uid":"2257808577",
+"parent":"",
+"text":"",
+"mid":"zlaT40xno",
+"date":"2013-02-28 00:00:58"
+},
+{
+"kids":[],
+"uid":"cityhe",
+"parent":"",
+"text":"唐浩明的曾国藩传和曾文正公的家书都是值得反复品读的！",
+"mid":"zlaT1FcAf",
+"date":"2013-02-28 00:00:55"
+},
+{
+"kids":[
+"A2UJAlY0y"
+],
+"uid":"1966582877",
+"parent":"",
+"text":"",
+"mid":"zlaSWjoXt",
+"date":"2013-02-28 00:00:41"
+},
+{
+"kids":[],
+"uid":"yuanqi2012",
+"parent":"",
+"text":"慎独则心里平静！",
+"mid":"zlaSVv91A",
+"date":"2013-02-28 00:00:39"
+},
+{
+"kids":[],
+"uid":"ishine80",
+"parent":"",
+"text":"",
+"mid":"zlaSSu2ii",
+"date":"2013-02-28 00:00:31"
+},
+{
+"kids":[],
+"uid":"1450160675",
+"parent":"",
+"text":"似懂非懂",
+"mid":"zlaSRkJqk",
+"date":"2013-02-28 00:00:27"
+},
+{
+"kids":[],
+"uid":"2658084320",
+"parent":"",
+"text":"他的后代都是谁?",
+"mid":"zlaSPyeXI",
+"date":"2013-02-28 00:00:26"
+},
+{
+"kids":[],
+"uid":"1897222323",
+"parent":"",
+"text":"",
+"mid":"zlaSPuKf6",
+"date":"2013-02-28 00:00:26"
+},
+{
+"kids":[],
+"uid":"2671280443",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlaSO348P",
+"date":"2013-02-28 00:00:19"
+},
+{
+"kids":[],
+"uid":"jerrycccc",
+"parent":"",
+"text":"[织]",
+"mid":"zlaSHzsBd",
+"date":"2013-02-28 00:00:05"
+},
+{
+"kids":[],
+"uid":"abulla",
+"parent":"",
+"text":"谨记！",
+"mid":"zlaSEyGmC",
+"date":"2013-02-27 23:59:59"
+},
+{
+"kids":[],
+"uid":"hexingyan1314",
+"parent":"",
+"text":"",
+"mid":"zlaSBDfgW",
+"date":"2013-02-27 23:59:52"
+},
+{
+"kids":[],
+"uid":"2308238680",
+"parent":"",
+"text":"",
+"mid":"zlaSBjL3I",
+"date":"2013-02-27 23:59:50"
+},
+{
+"kids":[],
+"uid":"3185726762",
+"parent":"",
+"text":"晚安！各位@王巍w @潘石屹 @任志强 @张柏芝中文网官方微博 @曹景行",
+"mid":"zlaSB42L5",
+"date":"2013-02-27 23:59:51"
+},
+{
+"kids":[
+"zlckaeBUb"
+],
+"uid":"1762696367",
+"parent":"",
+"text":"",
+"mid":"zlaSyENtA",
+"date":"2013-02-27 23:59:46"
+},
+{
+"kids":[],
+"uid":"1672234973",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlaSuhE3M",
+"date":"2013-02-27 23:59:35"
+},
+{
+"kids":[],
+"uid":"1786845424",
+"parent":"",
+"text":"古人总是给我一种战战兢兢如履薄冰又从容不迫安之若素的幽远情怀~",
+"mid":"zlaSssxZU",
+"date":"2013-02-27 23:59:31"
+},
+{
+"kids":[],
+"uid":"2551858223",
+"parent":"",
+"text":"[good]",
+"mid":"zlaSsc1Mj",
+"date":"2013-02-27 23:59:30"
+},
+{
+"kids":[],
+"uid":"1964190555",
+"parent":"",
+"text":"我也要用上",
+"mid":"zlaSpxOvI",
+"date":"2013-02-27 23:59:24"
+},
+{
+"kids":[],
+"uid":"catsang",
+"parent":"",
+"text":"",
+"mid":"zlaSnscj9",
+"date":"2013-02-27 23:59:19"
+},
+{
+"kids":[],
+"uid":"xieqingyou",
+"parent":"",
+"text":"",
+"mid":"zlaSmhlMg",
+"date":"2013-02-27 23:59:15"
+},
+{
+"kids":[],
+"uid":"mali15809224414",
+"parent":"",
+"text":"",
+"mid":"zlaSek5Jp",
+"date":"2013-02-27 23:58:56"
+},
+{
+"kids":[],
+"uid":"xiaoyang19930121",
+"parent":"",
+"text":"",
+"mid":"zlaSdFVeQ",
+"date":"2013-02-27 23:58:56"
+},
+{
+"kids":[],
+"uid":"2648976481",
+"parent":"",
+"text":"",
+"mid":"zlaS8ppIX",
+"date":"2013-02-27 23:58:43"
+},
+{
+"kids":[],
+"uid":"1655818824",
+"parent":"",
+"text":"",
+"mid":"zlaS7ez5f",
+"date":"2013-02-27 23:58:40"
+},
+{
+"kids":[],
+"uid":"yingbuzai",
+"parent":"",
+"text":"",
+"mid":"zlaS6CVb7",
+"date":"2013-02-27 23:58:39"
+},
+{
+"kids":[],
+"uid":"hao79",
+"parent":"",
+"text":"",
+"mid":"zlaRYAVYH",
+"date":"2013-02-27 23:58:20"
+},
+{
+"kids":[
+"zlaXUcNbo"
+],
+"uid":"1950631653",
+"parent":"",
+"text":"[思考][思考]晚安！",
+"mid":"zlaRT0kjc",
+"date":"2013-02-27 23:58:08"
+},
+{
+"kids":[
+"zlaUEnR27"
+],
+"uid":"1683973870",
+"parent":"",
+"text":"",
+"mid":"zlaRRvrv1",
+"date":"2013-02-27 23:58:03"
+},
+{
+"kids":[],
+"uid":"3201389790",
+"parent":"",
+"text":"",
+"mid":"zlaRQCXQ6",
+"date":"2013-02-27 23:58:00"
+},
+{
+"kids":[],
+"uid":"1284863663",
+"parent":"",
+"text":"轉發微博",
+"mid":"zlaRQnLC5",
+"date":"2013-02-27 23:58:00"
+},
+{
+"kids":[],
+"uid":"2239439400",
+"parent":"",
+"text":"@深白色风",
+"mid":"zlaRQnLB4",
+"date":"2013-02-27 23:58:00"
+},
+{
+"kids":[
+"zlaU6r8NJ"
+],
+"uid":"572771168",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlaRQ5LBC",
+"date":"2013-02-27 23:57:56"
+},
+{
+"kids":[],
+"uid":"3112760140",
+"parent":"",
+"text":"",
+"mid":"zlaRN6rif",
+"date":"2013-02-27 23:57:52"
+},
+{
+"kids":[],
+"uid":"2676149931",
+"parent":"",
+"text":"",
+"mid":"zlaRMuNxx",
+"date":"2013-02-27 23:57:49"
+},
+{
+"kids":[],
+"uid":"2833108352",
+"parent":"",
+"text":"",
+"mid":"zlaRMu2b0",
+"date":"2013-02-27 23:57:51"
+},
+{
+"kids":[],
+"uid":"wuwulala",
+"parent":"",
+"text":"",
+"mid":"zlaRKbtQX",
+"date":"2013-02-27 23:57:44"
+},
+{
+"kids":[],
+"uid":"1790488975",
+"parent":"",
+"text":"",
+"mid":"zlaRIDt6L",
+"date":"2013-02-27 23:57:43"
+},
+{
+"kids":[],
+"uid":"3140030294",
+"parent":"",
+"text":"",
+"mid":"zlaRI4gFm",
+"date":"2013-02-27 23:57:40"
+},
+{
+"kids":[],
+"uid":"1341089905",
+"parent":"",
+"text":"",
+"mid":"zlaRGkTuD",
+"date":"2013-02-27 23:57:36"
+},
+{
+"kids":[],
+"uid":"2758702880",
+"parent":"",
+"text":"u不太懂啊\"",
+"mid":"zlaRG3i3r",
+"date":"2013-02-27 23:57:34"
+},
+{
+"kids":[
+"zlOdmjzqL",
+"zlEtqaHr7"
+],
+"uid":"1850399394",
+"parent":"",
+"text":"",
+"mid":"zlaRDnarR",
+"date":"2013-02-27 23:57:27"
+},
+{
+"kids":[],
+"uid":"2400645860",
+"parent":"",
+"text":"转发微博。",
+"mid":"zlaRD5z35",
+"date":"2013-02-27 23:57:28"
+},
+{
+"kids":[],
+"uid":"514071961",
+"parent":"",
+"text":"",
+"mid":"zlaRCcjR5",
+"date":"2013-02-27 23:57:24"
+},
+{
+"kids":[],
+"uid":"2195246253",
+"parent":"",
+"text":"",
+"mid":"zlaRC9CmV",
+"date":"2013-02-27 23:57:27"
+},
+{
+"kids":[],
+"uid":"539795567",
+"parent":"",
+"text":"",
+"mid":"zlaRAqdab",
+"date":"2013-02-27 23:57:22"
+},
+{
+"kids":[],
+"uid":"liminjiaoyu",
+"parent":"",
+"text":"",
+"mid":"zlaRy48p6",
+"date":"2013-02-27 23:57:14"
+},
+{
+"kids":[],
+"uid":"573611229",
+"parent":"",
+"text":"",
+"mid":"zlaRxsuo0",
+"date":"2013-02-27 23:57:15"
+},
+{
+"kids":[],
+"uid":"2850778982",
+"parent":"",
+"text":"牢记在心",
+"mid":"zlaRxrFJa",
+"date":"2013-02-27 23:57:15"
+},
+{
+"kids":[
+"zlb7sDUVd"
+],
+"uid":"2070736631",
+"parent":"",
+"text":"@周睿2012",
+"mid":"zlaRxrFH5",
+"date":"2013-02-27 23:57:15"
+},
+{
+"kids":[
+"zldO03hRr"
+],
+"uid":"2459953561",
+"parent":"",
+"text":"",
+"mid":"zlaRx8d3n",
+"date":"2013-02-27 23:57:14"
+},
+{
+"kids":[],
+"uid":"chenbwh",
+"parent":"",
+"text":"思考！",
+"mid":"zlaRvoM9H",
+"date":"2013-02-27 23:57:06"
+},
+{
+"kids":[],
+"uid":"1686276283",
+"parent":"",
+"text":"",
+"mid":"zlaRt02Eo",
+"date":"2013-02-27 23:57:03"
+},
+{
+"kids":[],
+"uid":"3202064707",
+"parent":"",
+"text":"",
+"mid":"zlaRptIB1",
+"date":"2013-02-27 23:56:56"
+},
+{
+"kids":[],
+"uid":"1902063463",
+"parent":"",
+"text":"",
+"mid":"zlaRptIvX",
+"date":"2013-02-27 23:56:55"
+},
+{
+"kids":[],
+"uid":"2905518495",
+"parent":"",
+"text":"",
+"mid":"zlaRoAtoD",
+"date":"2013-02-27 23:56:54"
+},
+{
+"kids":[],
+"uid":"207383888",
+"parent":"",
+"text":"",
+"mid":"zlaRmeMcH",
+"date":"2013-02-27 23:56:48"
+}
+]

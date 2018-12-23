@@ -1,0 +1,830 @@
+[
+{
+"kids":[],
+"uid":"yctongcheng",
+"parent":"zr3VheWzP",
+"text":"反正大家多注意！这两天停暖加降温，容易被病毒侵入。",
+"mid":"zraM8fjsy",
+"date":"2013-04-08 10:45:44"
+},
+{
+"kids":[],
+"uid":"1702752281",
+"parent":"zr9XrF9BO",
+"text":"",
+"mid":"zra0PsKJy",
+"date":"2013-04-08 08:49:13"
+},
+{
+"kids":[
+"zra0PsKJy"
+],
+"uid":"333486555",
+"parent":"zr9MzpevE",
+"text":"谣言止于智者，最主要是止于真相！",
+"mid":"zr9XrF9BO",
+"date":"2013-04-08 08:40:53"
+},
+{
+"kids":[],
+"uid":"1702752281",
+"parent":"zr9MzpevE",
+"text":"回复@的士668:甲型H1N1,就是甲流，今天早上交通新闻说了，附院确诊的就是H1N1！",
+"mid":"zr9Ptkk7Z",
+"date":"2013-04-08 08:21:14"
+},
+{
+"kids":[
+"zr9XrF9BO",
+"zr9Ptkk7Z"
+],
+"uid":"2451740251",
+"parent":"zr9j5tZsS",
+"text":"博主是北京的，居然你我们的消息灵通",
+"mid":"zr9MzpevE",
+"date":"2013-04-08 08:14:05"
+},
+{
+"kids":[],
+"uid":"1702752281",
+"parent":"",
+"text":"回复@爱本无形001:老百姓要的是真相！",
+"mid":"zr9KpvzQ2",
+"date":"2013-04-08 08:08:46"
+},
+{
+"kids":[],
+"uid":"2805257270",
+"parent":"zr49fy9to",
+"text":"",
+"mid":"zr9z8DpGA",
+"date":"2013-04-08 07:41:00"
+},
+{
+"kids":[
+"zr9MzpevE"
+],
+"uid":"3205400570",
+"parent":"zr8S149po",
+"text":"[围观]",
+"mid":"zr9j5tZsS",
+"date":"2013-04-08 07:01:27"
+},
+{
+"kids":[],
+"uid":"ycdzjxg",
+"parent":"zr8S149po",
+"text":"主席的意思是说H1N1也需及时发布？太好了，这是省级卫生行政主管部门的事，您能亲自抓到。",
+"mid":"zr9e42p8s",
+"date":"2013-04-08 06:49:03"
+},
+{
+"kids":[
+"zr9j5tZsS",
+"zr9e42p8s"
+],
+"uid":"570554486",
+"parent":"",
+"text":"正如新加坡＜＜联合早报＞＞所言：要让真相跑在谣言前面。",
+"mid":"zr8S149po",
+"date":"2013-04-08 05:54:46"
+},
+{
+"kids":[],
+"uid":"1564753492",
+"parent":"zr4Wxx3RW",
+"text":"",
+"mid":"zr7hgrOgq",
+"date":"2013-04-08 01:51:28"
+},
+{
+"kids":[],
+"uid":"2513746770",
+"parent":"zr535A89n",
+"text":"@瑶仔2012",
+"mid":"zr5XWck58",
+"date":"2013-04-07 22:31:07"
+},
+{
+"kids":[],
+"uid":"1813848045",
+"parent":"zr5muwmYD",
+"text":"",
+"mid":"zr5UY50aj",
+"date":"2013-04-07 22:23:45"
+},
+{
+"kids":[],
+"uid":"2759294114",
+"parent":"zr48nfBWG",
+"text":"",
+"mid":"zr5QSxwWS",
+"date":"2013-04-07 22:13:41"
+},
+{
+"kids":[],
+"uid":"1454725472",
+"parent":"zr5muwmYD",
+"text":"",
+"mid":"zr5vZoK8A",
+"date":"2013-04-07 21:22:15"
+},
+{
+"kids":[],
+"uid":"kuchazi",
+"parent":"zr5muwmYD",
+"text":"",
+"mid":"zr5v8den4",
+"date":"2013-04-07 21:20:05"
+},
+{
+"kids":[
+"zr5UY50aj",
+"zr5vZoK8A",
+"zr5v8den4"
+],
+"uid":"ningxiahunzi",
+"parent":"zr4VDoQ1Z",
+"text":"o@飞翔机器人: 哎，不知道该相信谁？这段果断不吃鸽子，鸡，鸭了[泪]",
+"mid":"zr5muwmYD",
+"date":"2013-04-07 20:58:49"
+},
+{
+"kids":[],
+"uid":"2910368727",
+"parent":"zr4Wxx3RW",
+"text":"真的假的谁知道呢，反正现在就是骗子多。",
+"mid":"zr5jYbAl1",
+"date":"2013-04-07 20:52:38"
+},
+{
+"kids":[],
+"uid":"hopser",
+"parent":"",
+"text":"说是100度煮2分钟就可杀死病毒……",
+"mid":"zr5jhEGe6",
+"date":"2013-04-07 20:50:57"
+},
+{
+"kids":[],
+"uid":"723418625",
+"parent":"",
+"text":"丫头……这个节奏是要被请去喝茶的……",
+"mid":"zr5f8hcoj",
+"date":"2013-04-07 20:40:43"
+},
+{
+"kids":[],
+"uid":"1644257211",
+"parent":"zr4Wxx3RW",
+"text":"",
+"mid":"zr5eIfqko",
+"date":"2013-04-07 20:39:40"
+},
+{
+"kids":[],
+"uid":"2719312521",
+"parent":"",
+"text":"我觉得煮熟就应该没问题了，稳住稳住，尽量少在外面吃饭吧~~",
+"mid":"zr5eGbl1g",
+"date":"2013-04-07 20:39:36"
+},
+{
+"kids":[],
+"uid":"305494881",
+"parent":"",
+"text":"造谣传窑者，必得禽流感！",
+"mid":"zr5dHmTPs",
+"date":"2013-04-07 20:37:08"
+},
+{
+"kids":[],
+"uid":"2302393940",
+"parent":"zr4jacaWa",
+"text":"靠谱[呵呵]@宁夏广播电视报-壹享游 @我是xxcao  @幸福小窝1825",
+"mid":"zr5cphAOp",
+"date":"2013-04-07 20:33:57"
+},
+{
+"kids":[],
+"uid":"2709647593",
+"parent":"zr55fpGyJ",
+"text":"是谁说是不实呢？",
+"mid":"zr581FwFz",
+"date":"2013-04-07 20:23:13"
+},
+{
+"kids":[
+"zr581FwFz"
+],
+"uid":"3265740940",
+"parent":"",
+"text":"",
+"mid":"zr55fpGyJ",
+"date":"2013-04-07 20:16:22"
+},
+{
+"kids":[],
+"uid":"xueyuxuan09",
+"parent":"zr535A89n",
+"text":"",
+"mid":"zr53s2MaX",
+"date":"2013-04-07 20:11:54"
+},
+{
+"kids":[
+"zr5XWck58",
+"zr53s2MaX"
+],
+"uid":"nxxxxb",
+"parent":"zr3VheWzP",
+"text":"[话筒]",
+"mid":"zr535A89n",
+"date":"2013-04-07 20:11:03"
+},
+{
+"kids":[],
+"uid":"1369755720",
+"parent":"",
+"text":"你胆子大，佩服！",
+"mid":"zr52H3hfE",
+"date":"2013-04-07 20:10:04"
+},
+{
+"kids":[],
+"uid":"bolanbuyi",
+"parent":"",
+"text":"真实的你们不发，我们发的你们说不真实，唉。。。",
+"mid":"zr51suMn2",
+"date":"2013-04-07 20:07:00"
+},
+{
+"kids":[],
+"uid":"526912308",
+"parent":"zr4QQaL8F",
+"text":"上网查看",
+"mid":"zr4WXAlCl",
+"date":"2013-04-07 19:55:57"
+},
+{
+"kids":[],
+"uid":"1826953211",
+"parent":"zr48nfBWG",
+"text":"[话筒]",
+"mid":"zr4WWn5RH",
+"date":"2013-04-07 19:55:55"
+},
+{
+"kids":[
+"zr7hgrOgq",
+"zr5jYbAl1",
+"zr5eIfqko"
+],
+"uid":"313140951",
+"parent":"",
+"text":"人说的是禽流感，又没有说H7N9~你们为什么那么激动呢？[嘻嘻]",
+"mid":"zr4Wxx3RW",
+"date":"2013-04-07 19:54:55"
+},
+{
+"kids":[
+"zr5muwmYD"
+],
+"uid":"1369755720",
+"parent":"zr4NIjIX1",
+"text":"哎，不知道该相信谁？这段果断不吃鸽子，鸡，鸭了[泪]",
+"mid":"zr4VDoQ1Z",
+"date":"2013-04-07 19:52:40"
+},
+{
+"kids":[],
+"uid":"1787607404",
+"parent":"zr48nfBWG",
+"text":"",
+"mid":"zr4VziNMk",
+"date":"2013-04-07 19:52:31"
+},
+{
+"kids":[],
+"uid":"2774508377",
+"parent":"",
+"text":"求辟谣",
+"mid":"zr4UInUnC",
+"date":"2013-04-07 19:50:23"
+},
+{
+"kids":[],
+"uid":"xueyuxuan09",
+"parent":"",
+"text":"现在的人怎么了，唯恐天下不乱",
+"mid":"zr4UjiJg5",
+"date":"2013-04-07 19:49:23"
+},
+{
+"kids":[],
+"uid":"1787607404",
+"parent":"",
+"text":"回复@火红的太阳xl:对",
+"mid":"zr4TfouXM",
+"date":"2013-04-07 19:46:48"
+},
+{
+"kids":[],
+"uid":"1787607404",
+"parent":"",
+"text":"回复@布裂色浓:我觉的有些事官方的不一定是真的'比如历史'",
+"mid":"zr4T4aq6H",
+"date":"2013-04-07 19:46:21"
+},
+{
+"kids":[],
+"uid":"2198802454",
+"parent":"",
+"text":"说假话也需要特权的。",
+"mid":"zr4SK4Hi7",
+"date":"2013-04-07 19:45:30"
+},
+{
+"kids":[],
+"uid":"1787607404",
+"parent":"zr3VheWzP",
+"text":"原来是假的'怎么处理！",
+"mid":"zr4RszIyM",
+"date":"2013-04-07 19:42:23"
+},
+{
+"kids":[],
+"uid":"3207900311",
+"parent":"",
+"text":"",
+"mid":"zr4RmCnQ2",
+"date":"2013-04-07 19:42:10"
+},
+{
+"kids":[
+"zr4WXAlCl"
+],
+"uid":"1787607404",
+"parent":"",
+"text":"@直播银川 @问政银川 @银川卫生局卫生监督处 请确认？真的假的'",
+"mid":"zr4QQaL8F",
+"date":"2013-04-07 19:40:51"
+},
+{
+"kids":[],
+"uid":"xas0017",
+"parent":"zr4m9axCc",
+"text":"现在的政府已经没有一句实话，隐瞒事实要承担法律责任，还有鹅蛋他应该不会造谣，后果她也是指导的！",
+"mid":"zr4PRyWzc",
+"date":"2013-04-07 19:38:28"
+},
+{
+"kids":[
+"zr4VDoQ1Z"
+],
+"uid":"hopser",
+"parent":"",
+"text":"但愿如此……",
+"mid":"zr4NIjIX1",
+"date":"2013-04-07 19:33:11"
+},
+{
+"kids":[],
+"uid":"shalishaqi",
+"parent":"zr4JLChl6",
+"text":"如果央视下午三点发条新闻：XX发现一例H7N9确诊病例。。一个小时后再发条：一小时前发布的XX发现一例H7N9确诊病例为不实消息。。如此循环一天，应该很符合一些人的要求了吧？",
+"mid":"zr4MtrDKW",
+"date":"2013-04-07 19:30:04"
+},
+{
+"kids":[],
+"uid":"qiyt72",
+"parent":"zr4zwDBwC",
+"text":"",
+"mid":"zr4L1kRU9",
+"date":"2013-04-07 19:26:31"
+},
+{
+"kids":[],
+"uid":"hopser",
+"parent":"",
+"text":"希望是假新闻……",
+"mid":"zr4KRB4Ll",
+"date":"2013-04-07 19:26:10"
+},
+{
+"kids":[],
+"uid":"2311064511",
+"parent":"zr4zwDBwC",
+"text":"",
+"mid":"zr4JWzXnw",
+"date":"2013-04-07 19:23:53"
+},
+{
+"kids":[
+"zr4MtrDKW"
+],
+"uid":"weiygti",
+"parent":"",
+"text":"",
+"mid":"zr4JLChl6",
+"date":"2013-04-07 19:23:27"
+},
+{
+"kids":[],
+"uid":"1692165941",
+"parent":"zr4zwDBwC",
+"text":"我勒个去。",
+"mid":"zr4GIuWK8",
+"date":"2013-04-07 19:15:56"
+},
+{
+"kids":[],
+"uid":"marco528",
+"parent":"",
+"text":"[吃惊]",
+"mid":"zr4BaB31r",
+"date":"2013-04-07 19:02:15"
+},
+{
+"kids":[],
+"uid":"leemond",
+"parent":"zr3VheWzP",
+"text":"丫头……这个节奏是要被请去喝茶的……",
+"mid":"zr4AQa6uq",
+"date":"2013-04-07 19:01:25"
+},
+{
+"kids":[
+"zr4L1kRU9",
+"zr4JWzXnw",
+"zr4GIuWK8"
+],
+"uid":"ycen",
+"parent":"zr3VheWzP",
+"text":"",
+"mid":"zr4zwDBwC",
+"date":"2013-04-07 18:58:13"
+},
+{
+"kids":[],
+"uid":"846618235",
+"parent":"",
+"text":"散布这样不实谣言的人，应该受到惩罚！",
+"mid":"zr4vPim5w",
+"date":"2013-04-07 18:49:06"
+},
+{
+"kids":[],
+"uid":"2252931792",
+"parent":"zr4lcDDrH",
+"text":"到底是真的还是假的？",
+"mid":"zr4nd78Ms",
+"date":"2013-04-07 18:27:53"
+},
+{
+"kids":[
+"zr4PRyWzc"
+],
+"uid":"3175654933",
+"parent":"zr4jacaWa",
+"text":"到底相信谁？",
+"mid":"zr4m9axCc",
+"date":"2013-04-07 18:25:14"
+},
+{
+"kids":[
+"zr4nd78Ms"
+],
+"uid":"1679889332",
+"parent":"zr48nfBWG",
+"text":"[话筒]",
+"mid":"zr4lcDDrH",
+"date":"2013-04-07 18:22:53"
+},
+{
+"kids":[],
+"uid":"2562669187",
+"parent":"zr4jacaWa",
+"text":"",
+"mid":"zr4l8heUG",
+"date":"2013-04-07 18:22:45"
+},
+{
+"kids":[],
+"uid":"1929095883",
+"parent":"zr48nfBWG",
+"text":"当谣言起来时，政府要及时如实发布消息，这样就没有恐慌了，千万不能捂盖子，越捂越乱",
+"mid":"zr4kPBJFD",
+"date":"2013-04-07 18:22:01"
+},
+{
+"kids":[],
+"uid":"yougencong",
+"parent":"zr3VheWzP",
+"text":"回复@党项杨阳:没发票",
+"mid":"zr4jxg9PL",
+"date":"2013-04-07 18:18:48"
+},
+{
+"kids":[
+"zr5cphAOp",
+"zr4m9axCc",
+"zr4l8heUG"
+],
+"uid":"djgewai",
+"parent":"zr48nfBWG",
+"text":"？！",
+"mid":"zr4jacaWa",
+"date":"2013-04-07 18:17:52"
+},
+{
+"kids":[],
+"uid":"hhh754488",
+"parent":"",
+"text":"",
+"mid":"zr4fTeQ6d",
+"date":"2013-04-07 18:09:51"
+},
+{
+"kids":[],
+"uid":"1464923003",
+"parent":"zr41ptuHr",
+"text":"",
+"mid":"zr4emkzlM",
+"date":"2013-04-07 18:06:04"
+},
+{
+"kids":[],
+"uid":"2385998147",
+"parent":"",
+"text":"啊 不会是谣传吧",
+"mid":"zr4bKq2hg",
+"date":"2013-04-07 17:59:36"
+},
+{
+"kids":[],
+"uid":"1888533121",
+"parent":"zr48nfBWG",
+"text":"",
+"mid":"zr4b3yfLM",
+"date":"2013-04-07 17:57:56"
+},
+{
+"kids":[],
+"uid":"2862964434",
+"parent":"",
+"text":"那起码也是个疑似病例。。。",
+"mid":"zr4aMsOcK",
+"date":"2013-04-07 17:57:13"
+},
+{
+"kids":[
+"zr9z8DpGA"
+],
+"uid":"1938615122",
+"parent":"zr48nfBWG",
+"text":"",
+"mid":"zr49fy9to",
+"date":"2013-04-07 17:53:29"
+},
+{
+"kids":[
+"zr5QSxwWS",
+"zr4WWn5RH",
+"zr4VziNMk",
+"zr4lcDDrH",
+"zr4kPBJFD",
+"zr4jacaWa",
+"zr4b3yfLM",
+"zr49fy9to"
+],
+"uid":"wzyinchuan",
+"parent":"zr3VheWzP",
+"text":"[话筒]",
+"mid":"zr48nfBWG",
+"date":"2013-04-07 17:51:18"
+},
+{
+"kids":[
+"zr4emkzlM"
+],
+"uid":"sword55",
+"parent":"zr3VheWzP",
+"text":"这个恐怖啊。",
+"mid":"zr41ptuHr",
+"date":"2013-04-07 17:34:10"
+},
+{
+"kids":[],
+"uid":"1404381054",
+"parent":"zr3X94H0h",
+"text":"",
+"mid":"zr3XYaKSa",
+"date":"2013-04-07 17:25:41"
+},
+{
+"kids":[
+"zr3XYaKSa"
+],
+"uid":"1325870787",
+"parent":"zr3VheWzP",
+"text":"我宁愿相信娥蛋的。",
+"mid":"zr3X94H0h",
+"date":"2013-04-07 17:23:39"
+},
+{
+"kids":[
+"zraM8fjsy",
+"zr535A89n",
+"zr4RszIyM",
+"zr4AQa6uq",
+"zr4zwDBwC",
+"zr4jxg9PL",
+"zr48nfBWG",
+"zr41ptuHr",
+"zr3X94H0h"
+],
+"uid":"ycws",
+"parent":"",
+"text":"关于网友@娥蛋wy 发布的“银川附属医院已经有一例禽流感病例，确诊了”的微博内容为不实信息。截至目前，银川市未收到人感染H7N9禽流感病例的报告。与宁夏医科大学总医院调查了解后，该院也未有人感染H7N9禽流感病例的报告。",
+"mid":"zr3VheWzP",
+"date":"2013-04-07 17:19:01"
+},
+{
+"kids":[],
+"uid":"1752556937",
+"parent":"zr1N34fUC",
+"text":"是意念传播伐",
+"mid":"zr3B6575t",
+"date":"2013-04-07 16:29:20"
+},
+{
+"kids":[],
+"uid":"3154122502",
+"parent":"zr1Lv0QKv",
+"text":"",
+"mid":"zr2kJAfnc",
+"date":"2013-04-07 13:16:18"
+},
+{
+"kids":[],
+"uid":"aduan",
+"parent":"",
+"text":"真的假的、别乱说、小心医院找你责任，傻孩子！",
+"mid":"zr2cwveJ7",
+"date":"2013-04-07 12:56:03"
+},
+{
+"kids":[],
+"uid":"1865789854",
+"parent":"",
+"text":"",
+"mid":"zr2bYaZmf",
+"date":"2013-04-07 12:54:41"
+},
+{
+"kids":[],
+"uid":"1987671407",
+"parent":"",
+"text":"[汗]",
+"mid":"zr29UfgjT",
+"date":"2013-04-07 12:49:36"
+},
+{
+"kids":[],
+"uid":"2287067514",
+"parent":"zr1LnBjpN",
+"text":"",
+"mid":"zr28qDw3r",
+"date":"2013-04-07 12:45:57"
+},
+{
+"kids":[],
+"uid":"frieza",
+"parent":"zr1KLvcsi",
+"text":"测测微博的传播效率",
+"mid":"zr279afDo",
+"date":"2013-04-07 12:42:48"
+},
+{
+"kids":[],
+"uid":"1759459701",
+"parent":"zr26xkCVS",
+"text":"[吃惊][吃惊][吃惊] 来北方了？",
+"mid":"zr26Zneaa",
+"date":"2013-04-07 12:42:25"
+},
+{
+"kids":[
+"zr26Zneaa"
+],
+"uid":"1641552822",
+"parent":"zr1KLvcsi",
+"text":"到甘肃了？",
+"mid":"zr26xkCVS",
+"date":"2013-04-07 12:41:18"
+},
+{
+"kids":[],
+"uid":"seoullee",
+"parent":"",
+"text":"@宁夏热线 @宁夏新闻网 @宁夏西海固论坛 求证实！！！",
+"mid":"zr1Z1Espy",
+"date":"2013-04-07 12:22:47"
+},
+{
+"kids":[],
+"uid":"1698143077",
+"parent":"",
+"text":"银川！！！！不是吧！！！@王元宝",
+"mid":"zr1VDvF5m",
+"date":"2013-04-07 12:14:26"
+},
+{
+"kids":[],
+"uid":"2711651222",
+"parent":"zr1LVBj0S",
+"text":"",
+"mid":"zr1RghZ9W",
+"date":"2013-04-07 12:03:40"
+},
+{
+"kids":[
+"zr3B6575t"
+],
+"uid":"youyizhizhu",
+"parent":"",
+"text":"求证，这是什么传播路径？",
+"mid":"zr1N34fUC",
+"date":"2013-04-07 11:53:17"
+},
+{
+"kids":[],
+"uid":"1973990890",
+"parent":"",
+"text":"我们生活的这个地方，从来都是欺上瞒下，可是一但到了瞒不住的时候也就是事态已经发展到不可收拾的时候，最后遭殃往往是最普通的百姓，死都不知道怎么死的。",
+"mid":"zr1MtzoiU",
+"date":"2013-04-07 11:51:53"
+},
+{
+"kids":[],
+"uid":"2694330083",
+"parent":"",
+"text":"千万别东西夹击。",
+"mid":"zr1MamZ9R",
+"date":"2013-04-07 11:51:07"
+},
+{
+"kids":[],
+"uid":"misswatersoil",
+"parent":"zr1KLvcsi",
+"text":"",
+"mid":"zr1M8Bs8v",
+"date":"2013-04-07 11:51:02"
+},
+{
+"kids":[
+"zr1RghZ9W"
+],
+"uid":"dongxiaolang",
+"parent":"zr1KLvcsi",
+"text":"求验证。",
+"mid":"zr1LVBj0S",
+"date":"2013-04-07 11:50:32"
+},
+{
+"kids":[
+"zr2kJAfnc"
+],
+"uid":"1570639221",
+"parent":"",
+"text":"",
+"mid":"zr1Lv0QKv",
+"date":"2013-04-07 11:49:28"
+},
+{
+"kids":[
+"zr28qDw3r"
+],
+"uid":"acun",
+"parent":"zr1KLvcsi",
+"text":"",
+"mid":"zr1LnBjpN",
+"date":"2013-04-07 11:49:11"
+},
+{
+"kids":[
+"zr279afDo",
+"zr26xkCVS",
+"zr1M8Bs8v",
+"zr1LVBj0S",
+"zr1LnBjpN"
+],
+"uid":"2939225",
+"parent":"",
+"text":"？？？#H7N9禽流感疫情#",
+"mid":"zr1KLvcsi",
+"date":"2013-04-07 11:47:40"
+}
+]

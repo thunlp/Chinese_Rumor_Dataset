@@ -1,0 +1,22 @@
+{
+"multi":null,
+"text":"【让电脑提速的小方法】开始菜单里点击\"运行\"，输入gpedit.msc指令后确定，会出现一个小屏幕，然后单击计算机配置--管理模板--网络--QoS数据计划程序，选“限制可保留带宽”，“设置”选“已启用”，将“带宽限制”中的20改为0，“应用”，就可以使用100%的网速,因为平时Windows XP自动保留20%的网速。",
+"user":{
+"verified":false,
+"description":true,
+"gender":"m",
+"messages":1767,
+"followers":670480,
+"location":"香港 中西区",
+"time":1338977940,
+"friends":44,
+"verified_type":-1
+},
+"has_url":false,
+"comments":58,
+"pics":1,
+"source":"皮皮时光机",
+"likes":47,
+"time":1389063254,
+"reposts":682
+}

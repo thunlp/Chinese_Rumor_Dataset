@@ -1,0 +1,44 @@
+[
+{
+"kids":[],
+"uid":"2920470014",
+"parent":"",
+"text":"",
+"mid":"zjbgreOvg",
+"date":"2013-02-14 21:18:00"
+},
+{
+"kids":[],
+"uid":"3073384831",
+"parent":"",
+"text":"",
+"mid":"zf9tzbY0q",
+"date":"2013-01-19 09:23:36"
+},
+{
+"kids":[],
+"uid":"2920550534",
+"parent":"zf5Wvchs0",
+"text":"",
+"mid":"zf8jzb7bI",
+"date":"2013-01-19 06:26:13"
+},
+{
+"kids":[
+"zf8jzb7bI"
+],
+"uid":"2983052080",
+"parent":"",
+"text":"[呵呵]",
+"mid":"zf5Wvchs0",
+"date":"2013-01-19 00:23:55"
+},
+{
+"kids":[],
+"uid":"shuiwanyue",
+"parent":"",
+"text":"[威武]",
+"mid":"zeLLkj1vJ",
+"date":"2013-01-16 21:01:27"
+}
+]

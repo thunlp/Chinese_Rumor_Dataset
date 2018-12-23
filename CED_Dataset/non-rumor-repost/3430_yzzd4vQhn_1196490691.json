@@ -1,0 +1,2411 @@
+[
+{
+"kids":[],
+"uid":"1626158307",
+"parent":"B9Dq7B7SK",
+"text":"该喝就喝，当忌则忌",
+"mid":"B9QOB6fs1",
+"date":"2014-06-20 10:10:19"
+},
+{
+"kids":[
+"B9QOB6fs1"
+],
+"uid":"cyl20041101",
+"parent":"zm4HQ0wgX",
+"text":"",
+"mid":"B9Dq7B7SK",
+"date":"2014-06-19 00:04:18"
+},
+{
+"kids":[],
+"uid":"mjlt",
+"parent":"Agn7fzsjt",
+"text":"",
+"mid":"Agny6F1ZY",
+"date":"2013-10-30 09:47:51"
+},
+{
+"kids":[],
+"uid":"1196490691",
+"parent":"Agn7fzsjt",
+"text":"回复@灰原哀_郭丹:有贵有便宜。贵的不太贵,便宜的也不算便宜。具体请私信@张姐卖茶",
+"mid":"Agnbugqm4",
+"date":"2013-10-30 08:52:07"
+},
+{
+"kids":[
+"Agny6F1ZY",
+"Agnbugqm4"
+],
+"uid":"1196490691",
+"parent":"",
+"text":"[茶]该喝就喝,当忌则忌。[微风]心有忌而手执杯,不愧茶。",
+"mid":"Agn7fzsjt",
+"date":"2013-10-30 08:41:42"
+},
+{
+"kids":[],
+"uid":"3408263462",
+"parent":"AaKqVzqSs",
+"text":"",
+"mid":"Abhb5rvHD",
+"date":"2013-09-26 20:23:09"
+},
+{
+"kids":[],
+"uid":"2064590753",
+"parent":"AaMjF2Zy1",
+"text":"",
+"mid":"AaOfIv29u",
+"date":"2013-09-23 18:44:54"
+},
+{
+"kids":[],
+"uid":"270619977",
+"parent":"AaMImjgE6",
+"text":"",
+"mid":"AaNESjGac",
+"date":"2013-09-23 17:14:08"
+},
+{
+"kids":[],
+"uid":"1884527217",
+"parent":"AaMjF2Zy1",
+"text":"",
+"mid":"AaNofDQy4",
+"date":"2013-09-23 16:33:11"
+},
+{
+"kids":[],
+"uid":"nalanchunyu",
+"parent":"AaMImjgE6",
+"text":"",
+"mid":"AaMR5BqU0",
+"date":"2013-09-23 15:11:29"
+},
+{
+"kids":[],
+"uid":"2866496854",
+"parent":"AaMjF2Zy1",
+"text":"",
+"mid":"AaMJypZwf",
+"date":"2013-09-23 14:52:56"
+},
+{
+"kids":[
+"AaNESjGac",
+"AaMR5BqU0"
+],
+"uid":"1196490691",
+"parent":"AaKvFABLO",
+"text":"回复@下午茶2599:[good][茶]",
+"mid":"AaMImjgE6",
+"date":"2013-09-23 14:49:56"
+},
+{
+"kids":[],
+"uid":"3477379945",
+"parent":"AaMjF2Zy1",
+"text":"[赞][good]",
+"mid":"AaMofzCwU",
+"date":"2013-09-23 14:00:25"
+},
+{
+"kids":[
+"AaOfIv29u",
+"AaNofDQy4",
+"AaMJypZwf",
+"AaMofzCwU"
+],
+"uid":"tea2599",
+"parent":"AaKvFABLO",
+"text":"忌躁浮，非澄心不能得茶清；忌骄妄，非虚诚不能得茶心。[微风]",
+"mid":"AaMjF2Zy1",
+"date":"2013-09-23 13:49:07"
+},
+{
+"kids":[
+"AaOfIv29u",
+"AaNESjGac",
+"AaNofDQy4",
+"AaMR5BqU0",
+"AaMJypZwf",
+"AaMImjgE6",
+"AaMofzCwU",
+"AaMjF2Zy1"
+],
+"uid":"1196490691",
+"parent":"AaKqVzqSs",
+"text":"持志精进,与茶同修。",
+"mid":"AaKvFABLO",
+"date":"2013-09-23 09:13:12"
+},
+{
+"kids":[
+"Abhb5rvHD",
+"AaOfIv29u",
+"AaNESjGac",
+"AaNofDQy4",
+"AaMR5BqU0",
+"AaMJypZwf",
+"AaMImjgE6",
+"AaMofzCwU",
+"AaMjF2Zy1",
+"AaKvFABLO"
+],
+"uid":"3298624924",
+"parent":"AaKpm5deE",
+"text":"要达到这种境界不容易",
+"mid":"AaKqVzqSs",
+"date":"2013-09-23 09:01:32"
+},
+{
+"kids":[],
+"uid":"shenzhenzhuqi",
+"parent":"AaKpm5deE",
+"text":"茶修，修的是心。",
+"mid":"AaKq96ZCj",
+"date":"2013-09-23 08:59:35"
+},
+{
+"kids":[
+"Abhb5rvHD",
+"AaOfIv29u",
+"AaNESjGac",
+"AaNofDQy4",
+"AaMR5BqU0",
+"AaMJypZwf",
+"AaMImjgE6",
+"AaMofzCwU",
+"AaMjF2Zy1",
+"AaKvFABLO",
+"AaKqVzqSs",
+"AaKq96ZCj"
+],
+"uid":"1196490691",
+"parent":"",
+"text":"[茶]该喝就喝,当忌则忌。[微风]心有忌而手执杯,不愧茶。",
+"mid":"AaKpm5deE",
+"date":"2013-09-23 08:57:37"
+},
+{
+"kids":[],
+"uid":"2123462433",
+"parent":"A2e8sbrbk",
+"text":"",
+"mid":"A2egwrRDR",
+"date":"2013-07-29 08:25:34"
+},
+{
+"kids":[
+"A2egwrRDR"
+],
+"uid":"1196490691",
+"parent":"",
+"text":"[茶]该喝就喝,当忌则忌。[微风]心有忌而手执杯,不愧茶。",
+"mid":"A2e8sbrbk",
+"date":"2013-07-29 08:05:41"
+},
+{
+"kids":[],
+"uid":"1249140685",
+"parent":"zw1xEBwN5",
+"text":"品茶品酒品人生",
+"mid":"zw1BgykkD",
+"date":"2013-05-10 08:35:47"
+},
+{
+"kids":[
+"zw1BgykkD"
+],
+"uid":"1196490691",
+"parent":"",
+"text":"[茶]该喝就喝,当忌则忌。[微风]心有忌而手执杯,不愧茶。",
+"mid":"zw1xEBwN5",
+"date":"2013-05-10 08:26:52"
+},
+{
+"kids":[],
+"uid":"2481028417",
+"parent":"zra8MlscI",
+"text":"",
+"mid":"zrcreA5Po",
+"date":"2013-04-08 14:59:46"
+},
+{
+"kids":[],
+"uid":"2750268873",
+"parent":"",
+"text":"",
+"mid":"zraIl13UZ",
+"date":"2013-04-08 10:36:23"
+},
+{
+"kids":[
+"zrcreA5Po"
+],
+"uid":"3228045497",
+"parent":"",
+"text":"",
+"mid":"zra8MlscI",
+"date":"2013-04-08 09:08:48"
+},
+{
+"kids":[],
+"uid":"2148935932",
+"parent":"zr9Kj21zG",
+"text":"",
+"mid":"zra6yDWBJ",
+"date":"2013-04-08 09:03:19"
+},
+{
+"kids":[],
+"uid":"3148206607",
+"parent":"zr9Kj21zG",
+"text":"",
+"mid":"zr9LNwNOh",
+"date":"2013-04-08 08:12:11"
+},
+{
+"kids":[
+"zra6yDWBJ",
+"zr9LNwNOh"
+],
+"uid":"1196490691",
+"parent":"",
+"text":"[茶]该喝就喝,当忌则忌。[微风]心有忌而手执杯,不愧茶。",
+"mid":"zr9Kj21zG",
+"date":"2013-04-08 08:08:30"
+},
+{
+"kids":[],
+"uid":"3032914690",
+"parent":"zp1HsiroC",
+"text":"",
+"mid":"zp1VbkamE",
+"date":"2013-03-25 08:32:43"
+},
+{
+"kids":[
+"zp1VbkamE"
+],
+"uid":"1196490691",
+"parent":"",
+"text":"[茶]该喝就喝,当忌则忌。[微风]心有忌而手执杯,不愧茶。",
+"mid":"zp1HsiroC",
+"date":"2013-03-25 07:58:54"
+},
+{
+"kids":[],
+"uid":"1345356731",
+"parent":"",
+"text":"勿执念……",
+"mid":"znvpUj5c2",
+"date":"2013-03-15 07:57:27"
+},
+{
+"kids":[],
+"uid":"2283198594",
+"parent":"",
+"text":"同意",
+"mid":"znvoSf3xQ",
+"date":"2013-03-15 07:54:55"
+},
+{
+"kids":[
+"B9QOB6fs1",
+"B9Dq7B7SK"
+],
+"uid":"1314depengyou",
+"parent":"",
+"text":"得悟",
+"mid":"zm4HQ0wgX",
+"date":"2013-03-05 22:07:08"
+},
+{
+"kids":[],
+"uid":"3266192425",
+"parent":"",
+"text":"",
+"mid":"zm0lQmXPQ",
+"date":"2013-03-05 11:01:59"
+},
+{
+"kids":[
+"B9QOB6fs1"
+],
+"uid":"1626158307",
+"parent":"",
+"text":"忌动浊",
+"mid":"zlZXc6szw",
+"date":"2013-03-05 10:01:15"
+},
+{
+"kids":[],
+"uid":"1227150813",
+"parent":"zfCercMtD",
+"text":"",
+"mid":"zl6Xfvtkk",
+"date":"2013-02-27 14:00:19"
+},
+{
+"kids":[],
+"uid":"3139802020",
+"parent":"yzAexAx8L",
+"text":"静",
+"mid":"zjW0OzKfV",
+"date":"2013-02-19 20:18:35"
+},
+{
+"kids":[],
+"uid":"2306242825",
+"parent":"",
+"text":"",
+"mid":"zjr0Yl90c",
+"date":"2013-02-16 13:23:50"
+},
+{
+"kids":[],
+"uid":"2750268873",
+"parent":"",
+"text":"",
+"mid":"zjpRG8skP",
+"date":"2013-02-16 10:28:10"
+},
+{
+"kids":[],
+"uid":"3105304612",
+"parent":"",
+"text":"",
+"mid":"zjphpqcXD",
+"date":"2013-02-16 08:58:49"
+},
+{
+"kids":[],
+"uid":"2686559463",
+"parent":"",
+"text":"",
+"mid":"zjp6Lz27n",
+"date":"2013-02-16 08:32:37"
+},
+{
+"kids":[],
+"uid":"2916728920",
+"parent":"zfCercMtD",
+"text":"",
+"mid":"zjlcRyZO2",
+"date":"2013-02-15 22:36:40"
+},
+{
+"kids":[],
+"uid":"zhouliuhua1999",
+"parent":"",
+"text":"茶能静心！[good]",
+"mid":"zgFrvcSl9",
+"date":"2013-01-29 08:36:43"
+},
+{
+"kids":[],
+"uid":"1992799313",
+"parent":"zfCercMtD",
+"text":"",
+"mid":"zfCEy8WXS",
+"date":"2013-01-22 11:40:19"
+},
+{
+"kids":[
+"zl6Xfvtkk",
+"zjlcRyZO2",
+"zfCEy8WXS"
+],
+"uid":"hyt918",
+"parent":"",
+"text":"忌攀缘",
+"mid":"zfCercMtD",
+"date":"2013-01-22 10:35:59"
+},
+{
+"kids":[],
+"uid":"1411604567",
+"parent":"zdEmiCOg5",
+"text":"",
+"mid":"zdGxt8coT",
+"date":"2013-01-09 17:53:16"
+},
+{
+"kids":[],
+"uid":"3116138075",
+"parent":"zdEmiCOg5",
+"text":"",
+"mid":"zdEDG2Roh",
+"date":"2013-01-09 13:03:04"
+},
+{
+"kids":[
+"zdGxt8coT",
+"zdEDG2Roh"
+],
+"uid":"puyuechayi",
+"parent":"",
+"text":"",
+"mid":"zdEmiCOg5",
+"date":"2013-01-09 12:20:17"
+},
+{
+"kids":[],
+"uid":"3214065391",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"zbSggjavV",
+"date":"2012-12-28 20:03:14"
+},
+{
+"kids":[],
+"uid":"712967885",
+"parent":"",
+"text":"[挤眼]",
+"mid":"z903yisnY",
+"date":"2012-12-09 22:22:59"
+},
+{
+"kids":[],
+"uid":"2920662864",
+"parent":"yFxOjiFvw",
+"text":"",
+"mid":"z8l9a9Twb",
+"date":"2012-12-05 14:14:12"
+},
+{
+"kids":[],
+"uid":"1588565343",
+"parent":"yFxOjiFvw",
+"text":"",
+"mid":"z7uQgxDtb",
+"date":"2012-11-30 01:04:48"
+},
+{
+"kids":[],
+"uid":"2919783930",
+"parent":"z6OPh5U0o",
+"text":"",
+"mid":"z7sDD6Jud",
+"date":"2012-11-29 19:28:11"
+},
+{
+"kids":[],
+"uid":"2919434552",
+"parent":"z6OPh5U0o",
+"text":"",
+"mid":"z7sDD6JrI",
+"date":"2012-11-29 19:28:09"
+},
+{
+"kids":[],
+"uid":"2804397330",
+"parent":"yFxOjiFvw",
+"text":"",
+"mid":"z7nKJnOoi",
+"date":"2012-11-29 07:01:56"
+},
+{
+"kids":[],
+"uid":"2803543444",
+"parent":"z6OPh5U0o",
+"text":"",
+"mid":"z72tVsM8k",
+"date":"2012-11-27 00:52:52"
+},
+{
+"kids":[],
+"uid":"2803654844",
+"parent":"z6OPh5U0o",
+"text":"",
+"mid":"z72tVsM7a",
+"date":"2012-11-27 00:52:48"
+},
+{
+"kids":[],
+"uid":"2803958164",
+"parent":"z6OPh5U0o",
+"text":"",
+"mid":"z71QHhIlA",
+"date":"2012-11-26 23:16:10"
+},
+{
+"kids":[],
+"uid":"2920268452",
+"parent":"z6OPh5U0o",
+"text":"",
+"mid":"z71QHhIj0",
+"date":"2012-11-26 23:16:10"
+},
+{
+"kids":[
+"z7sDD6Jud",
+"z7sDD6JrI",
+"z72tVsM8k",
+"z72tVsM7a",
+"z71QHhIlA",
+"z71QHhIj0"
+],
+"uid":"1394232780",
+"parent":"z3D1PiGvg",
+"text":"",
+"mid":"z6OPh5U0o",
+"date":"2012-11-25 14:06:58"
+},
+{
+"kids":[],
+"uid":"2919337400",
+"parent":"yFxOjiFvw",
+"text":"",
+"mid":"z6C3DhM1f",
+"date":"2012-11-24 05:36:39"
+},
+{
+"kids":[],
+"uid":"1583429192",
+"parent":"yFxOjiFvw",
+"text":"",
+"mid":"z6C3DgMgN",
+"date":"2012-11-24 05:36:38"
+},
+{
+"kids":[],
+"uid":"2606582534",
+"parent":"",
+"text":"@拒绝xy",
+"mid":"z4rcq0kVX",
+"date":"2012-11-09 22:17:28"
+},
+{
+"kids":[],
+"uid":"1991308351",
+"parent":"",
+"text":"",
+"mid":"z4r4Ky8ku",
+"date":"2012-11-09 21:58:34"
+},
+{
+"kids":[],
+"uid":"lunayaojiayou25",
+"parent":"",
+"text":"",
+"mid":"z487fduIw",
+"date":"2012-11-07 21:42:32"
+},
+{
+"kids":[],
+"uid":"2670068481",
+"parent":"",
+"text":"喝茶为道@张晓林d @伊丽苏红 @校友总汇",
+"mid":"z481UwsqA",
+"date":"2012-11-07 21:29:24"
+},
+{
+"kids":[],
+"uid":"kelefangyuan",
+"parent":"",
+"text":"说来容易做来难",
+"mid":"z47ZbgOXd",
+"date":"2012-11-07 21:22:38"
+},
+{
+"kids":[],
+"uid":"1974256137",
+"parent":"z3PqCviwX",
+"text":"茶道即人道![",
+"mid":"z47S2hKpp",
+"date":"2012-11-07 21:05:04"
+},
+{
+"kids":[
+"z47S2hKpp"
+],
+"uid":"2727301307",
+"parent":"",
+"text":"",
+"mid":"z3PqCviwX",
+"date":"2012-11-05 22:08:04"
+},
+{
+"kids":[],
+"uid":"2982871187",
+"parent":"",
+"text":"",
+"mid":"z3MBR52Bf",
+"date":"2012-11-05 14:57:29"
+},
+{
+"kids":[],
+"uid":"2920166464",
+"parent":"z3EkGjTR4",
+"text":"",
+"mid":"z3L3n9FJf",
+"date":"2012-11-05 10:59:47"
+},
+{
+"kids":[],
+"uid":"2804569310",
+"parent":"z3EkGjTR4",
+"text":"",
+"mid":"z3L3n8zpP",
+"date":"2012-11-05 10:59:48"
+},
+{
+"kids":[],
+"uid":"2894013235",
+"parent":"z3DvQgTl8",
+"text":"",
+"mid":"z3Gahjzq9",
+"date":"2012-11-04 22:33:06"
+},
+{
+"kids":[],
+"uid":"happen111",
+"parent":"z3EkGjTR4",
+"text":"求【红烧肉忌】",
+"mid":"z3Ezn13wF",
+"date":"2012-11-04 18:29:25"
+},
+{
+"kids":[],
+"uid":"tea2599",
+"parent":"",
+"text":"忌动浊，忌躁浮，忌昏沉，忌随意，忌散乱，忌骄妄，忌多言，忌攀缘，忌贪执。心有忌，心无愧！[good]",
+"mid":"z3EkGxzo4",
+"date":"2012-11-04 17:53:15"
+},
+{
+"kids":[
+"z3L3n9FJf",
+"z3L3n8zpP",
+"z3Ezn13wF"
+],
+"uid":"2400138962",
+"parent":"",
+"text":"",
+"mid":"z3EkGjTR4",
+"date":"2012-11-04 17:53:14"
+},
+{
+"kids":[],
+"uid":"1675944130",
+"parent":"",
+"text":"人在草木间为茶，茶有草的柔软也有木的坚强，是谓中庸",
+"mid":"z3Ehb7MBr",
+"date":"2012-11-04 17:44:36"
+},
+{
+"kids":[],
+"uid":"1990448704",
+"parent":"",
+"text":"转发微博。",
+"mid":"z3Ec6FPjk",
+"date":"2012-11-04 17:32:07"
+},
+{
+"kids":[],
+"uid":"xionghaomin",
+"parent":"",
+"text":"无忌，茶无忌，人无忌，张无忌。[哈哈]",
+"mid":"z3E93jIbY",
+"date":"2012-11-04 17:24:35"
+},
+{
+"kids":[],
+"uid":"2196269422",
+"parent":"z3DLZFWCh",
+"text":"茶文化會悟出人生哲學。",
+"mid":"z3E0OoycC",
+"date":"2012-11-04 17:04:16"
+},
+{
+"kids":[
+"z3E0OoycC"
+],
+"uid":"tea2599",
+"parent":"",
+"text":"茶禅一味[微风]。茶道即人道。[",
+"mid":"z3DLZFWCh",
+"date":"2012-11-04 16:27:47"
+},
+{
+"kids":[
+"z3Gahjzq9"
+],
+"uid":"2487190745",
+"parent":"z3DlAn3Ow",
+"text":"",
+"mid":"z3DvQgTl8",
+"date":"2012-11-04 15:47:59"
+},
+{
+"kids":[],
+"uid":"2982871187",
+"parent":"",
+"text":"",
+"mid":"z3Do38HWN",
+"date":"2012-11-04 15:28:45"
+},
+{
+"kids":[
+"z3DvQgTl8"
+],
+"uid":"2798606265",
+"parent":"z3DftgcND",
+"text":"",
+"mid":"z3DlAn3Ow",
+"date":"2012-11-04 15:22:40"
+},
+{
+"kids":[],
+"uid":"1851437100",
+"parent":"",
+"text":"哈哈，张老师[good]，茶有益，言有益，人生有意；昵称代表心性，小子内心实有一些纠结暗藏其中啊；借张老师茶悟以自励，当忌则忌，该喝酒喝；人生又何尝不是如此呢？",
+"mid":"z3Dinupqs",
+"date":"2012-11-04 15:14:49"
+},
+{
+"kids":[
+"z3DlAn3Ow"
+],
+"uid":"2738379614",
+"parent":"",
+"text":"学习了",
+"mid":"z3DftgcND",
+"date":"2012-11-04 15:07:38"
+},
+{
+"kids":[],
+"uid":"1851437100",
+"parent":"",
+"text":"茶人生。",
+"mid":"z3DbzeNdU",
+"date":"2012-11-04 14:58:02"
+},
+{
+"kids":[],
+"uid":"2372090574",
+"parent":"",
+"text":"世上原创少，人间多剽客",
+"mid":"z3Daf7Si8",
+"date":"2012-11-04 14:54:46"
+},
+{
+"kids":[
+"z6OPh5U0o"
+],
+"uid":"2719190725",
+"parent":"",
+"text":"茶腹之內載剽客[哈哈]",
+"mid":"z3D1PiGvg",
+"date":"2012-11-04 14:34:01"
+},
+{
+"kids":[],
+"uid":"half1971",
+"parent":"",
+"text":"妙语连珠",
+"mid":"z3CXJ9L1G",
+"date":"2012-11-04 14:23:56"
+},
+{
+"kids":[],
+"uid":"1104273785",
+"parent":"",
+"text":"",
+"mid":"z203IgmEa",
+"date":"2012-10-24 21:31:15"
+},
+{
+"kids":[],
+"uid":"2424629512",
+"parent":"",
+"text":"",
+"mid":"z1YT20GKw",
+"date":"2012-10-24 18:32:11"
+},
+{
+"kids":[],
+"uid":"1751901677",
+"parent":"",
+"text":"",
+"mid":"z1YCCioUY",
+"date":"2012-10-24 17:51:45"
+},
+{
+"kids":[],
+"uid":"hengyantea",
+"parent":"",
+"text":"#恒岩茶业# http:",
+"mid":"z1YzfFQNo",
+"date":"2012-10-24 17:43:28"
+},
+{
+"kids":[],
+"uid":"2701550104",
+"parent":"yFBItzsUj",
+"text":"",
+"mid":"yFDVwqFLt",
+"date":"2012-10-09 15:58:31"
+},
+{
+"kids":[],
+"uid":"1566403111",
+"parent":"",
+"text":"【茶忌】忌贪执，非放下不能得茶悟......",
+"mid":"yFCFNxGPB",
+"date":"2012-10-09 12:47:00"
+},
+{
+"kids":[],
+"uid":"2089260525",
+"parent":"yFBItzsUj",
+"text":"少言",
+"mid":"yFBS4Esqo",
+"date":"2012-10-09 10:44:29"
+},
+{
+"kids":[],
+"uid":"1353702774",
+"parent":"yFBItzsUj",
+"text":"[围观]",
+"mid":"yFBOSFcID",
+"date":"2012-10-09 10:36:39"
+},
+{
+"kids":[],
+"uid":"2166221821",
+"parent":"yFBItzsUj",
+"text":"",
+"mid":"yFBJUcayQ",
+"date":"2012-10-09 10:24:23"
+},
+{
+"kids":[],
+"uid":"2567232985",
+"parent":"yFBItzsUj",
+"text":"",
+"mid":"yFBIK7zf5",
+"date":"2012-10-09 10:21:31"
+},
+{
+"kids":[
+"yFDVwqFLt",
+"yFBS4Esqo",
+"yFBOSFcID",
+"yFBJUcayQ",
+"yFBIK7zf5"
+],
+"uid":"209783222",
+"parent":"",
+"text":"[给力]忌",
+"mid":"yFBItzsUj",
+"date":"2012-10-09 10:20:51"
+},
+{
+"kids":[],
+"uid":"1843923641",
+"parent":"",
+"text":"[给力][鼓掌]",
+"mid":"yFBGTaOUj",
+"date":"2012-10-09 10:16:56"
+},
+{
+"kids":[
+"z8l9a9Twb",
+"z7uQgxDtb",
+"z7nKJnOoi",
+"z6C3DhM1f",
+"z6C3DgMgN"
+],
+"uid":"2089763491",
+"parent":"",
+"text":"",
+"mid":"yFxOjiFvw",
+"date":"2012-10-09 00:24:16"
+},
+{
+"kids":[],
+"uid":"2626523457",
+"parent":"yzAbV7lkv",
+"text":"",
+"mid":"yFwOy2faJ",
+"date":"2012-10-08 21:52:05"
+},
+{
+"kids":[],
+"uid":"2390982212",
+"parent":"yDDL06OYA",
+"text":"你斯疑似喝着茶盯着酒...？[哈哈]",
+"mid":"yDE3hCEk2",
+"date":"2012-09-26 12:37:01"
+},
+{
+"kids":[
+"yDE3hCEk2"
+],
+"uid":"2905619533",
+"parent":"",
+"text":"@如兰斯馥 八九之中我至多三四[泪]...尚需修炼啊，大师赐教",
+"mid":"yDDL06OYA",
+"date":"2012-09-26 11:51:58"
+},
+{
+"kids":[],
+"uid":"2669332724",
+"parent":"",
+"text":"",
+"mid":"yDBZl9n1G",
+"date":"2012-09-26 07:21:48"
+},
+{
+"kids":[],
+"uid":"520811147",
+"parent":"",
+"text":"茶、烟未得道，先得黑牙！[哈哈]",
+"mid":"yDzfc5JjX",
+"date":"2012-09-26 00:22:37"
+},
+{
+"kids":[],
+"uid":"zsbaiyaomin",
+"parent":"",
+"text":"不，喝出无倒也是道。何必非求道？处处是道。万相皆道。",
+"mid":"yDz4h7jch",
+"date":"2012-09-25 23:55:43"
+},
+{
+"kids":[],
+"uid":"520811147",
+"parent":"",
+"text":"原来我喝茶无香，无味，无气，无道！[生病][泪]",
+"mid":"yDyXqaB2q",
+"date":"2012-09-25 23:38:50"
+},
+{
+"kids":[],
+"uid":"1912477341",
+"parent":"yzAexAx8L",
+"text":"",
+"mid":"yDsG8noqO",
+"date":"2012-09-25 07:39:46"
+},
+{
+"kids":[],
+"uid":"2183430141",
+"parent":"yzA5O0neh",
+"text":"转发微博。",
+"mid":"yD3n0l1NS",
+"date":"2012-09-22 15:13:57"
+},
+{
+"kids":[],
+"uid":"2530748272",
+"parent":"",
+"text":"[ok]",
+"mid":"yCUXtzjzD",
+"date":"2012-09-21 17:49:06"
+},
+{
+"kids":[],
+"uid":"1287242550",
+"parent":"",
+"text":"",
+"mid":"yCUUUj4v3",
+"date":"2012-09-21 17:42:47"
+},
+{
+"kids":[],
+"uid":"1196490691",
+"parent":"yCSvo7EUx",
+"text":"[茶]该喝就喝，当忌就忌。[微风]心有忌而手执杯，不愧茶！",
+"mid":"yCSwAwLm4",
+"date":"2012-09-21 11:37:22"
+},
+{
+"kids":[
+"yCSwAwLm4"
+],
+"uid":"2710879702",
+"parent":"",
+"text":"[",
+"mid":"yCSvo7EUx",
+"date":"2012-09-21 11:34:24"
+},
+{
+"kids":[],
+"uid":"2148935932",
+"parent":"",
+"text":"",
+"mid":"yCRAT3JTJ",
+"date":"2012-09-21 09:15:12"
+},
+{
+"kids":[],
+"uid":"xulijun520",
+"parent":"",
+"text":"禅茶一味！",
+"mid":"yCRnFkzK6",
+"date":"2012-09-21 08:42:37"
+},
+{
+"kids":[],
+"uid":"2424532802",
+"parent":"",
+"text":"终会云开见月明 ！[good][顶]",
+"mid":"yCRdPayXi",
+"date":"2012-09-21 08:18:22"
+},
+{
+"kids":[],
+"uid":"dswhcb",
+"parent":"",
+"text":"[赞]",
+"mid":"yCNZZ9xU4",
+"date":"2012-09-21 00:06:03"
+},
+{
+"kids":[],
+"uid":"dswhcb",
+"parent":"",
+"text":"佩服张老师这种稳扎稳打、一步步建立品牌的精神和模式。",
+"mid":"yCNY21lxR",
+"date":"2012-09-21 00:01:12"
+},
+{
+"kids":[],
+"uid":"2895496185",
+"parent":"",
+"text":"@永和九年茶艺馆",
+"mid":"yCNXm2uqJ",
+"date":"2012-09-20 23:59:33"
+},
+{
+"kids":[],
+"uid":"2944133601",
+"parent":"yzGiMkDhi",
+"text":"",
+"mid":"yCNVL55Pn",
+"date":"2012-09-20 23:55:38"
+},
+{
+"kids":[],
+"uid":"2190518573",
+"parent":"yzAwubt9Y",
+"text":"",
+"mid":"yCpjgvWGf",
+"date":"2012-09-18 09:14:52"
+},
+{
+"kids":[],
+"uid":"1987428651",
+"parent":"",
+"text":"[給力]",
+"mid":"yBpjme1oR",
+"date":"2012-09-11 19:24:45"
+},
+{
+"kids":[],
+"uid":"1120967350",
+"parent":"yAEaq9z2R",
+"text":"有那么多讲究就不是喝茶了。",
+"mid":"yBp9lCBxM",
+"date":"2012-09-11 19:00:09"
+},
+{
+"kids":[],
+"uid":"1880512535",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yB6w9p3dm",
+"date":"2012-09-09 19:34:05"
+},
+{
+"kids":[],
+"uid":"2033141634",
+"parent":"",
+"text":"",
+"mid":"yAFXEFhfB",
+"date":"2012-09-06 23:57:44"
+},
+{
+"kids":[],
+"uid":"2529578190",
+"parent":"",
+"text":"",
+"mid":"yAFSj9Xl0",
+"date":"2012-09-06 23:44:33"
+},
+{
+"kids":[
+"yBp9lCBxM"
+],
+"uid":"2002919914",
+"parent":"yzA4d04AB",
+"text":"@大隐于大市 完了，喝不了了。[衰]",
+"mid":"yAEaq9z2R",
+"date":"2012-09-06 19:23:42"
+},
+{
+"kids":[],
+"uid":"2916044915",
+"parent":"",
+"text":"",
+"mid":"yAqZgiyz9",
+"date":"2012-09-05 09:50:28"
+},
+{
+"kids":[],
+"uid":"2916044915",
+"parent":"yAqSe9KCX",
+"text":"看来都不能喝茶了。[爱你][爱你][爱你][爱你][爱你][爱你][爱你][爱你][爱你]",
+"mid":"yAqWk0ZM4",
+"date":"2012-09-05 09:43:14"
+},
+{
+"kids":[
+"yAqWk0ZM4"
+],
+"uid":"oneatea",
+"parent":"",
+"text":"",
+"mid":"yAqSe9KCX",
+"date":"2012-09-05 09:33:08"
+},
+{
+"kids":[],
+"uid":"270619977",
+"parent":"",
+"text":"",
+"mid":"yAqBLfKC3",
+"date":"2012-09-05 08:52:35"
+},
+{
+"kids":[],
+"uid":"1921455972",
+"parent":"",
+"text":"",
+"mid":"yAqmZw8wu",
+"date":"2012-09-05 08:16:11"
+},
+{
+"kids":[],
+"uid":"2388735591",
+"parent":"",
+"text":"",
+"mid":"yAqkldSZY",
+"date":"2012-09-05 08:09:39"
+},
+{
+"kids":[],
+"uid":"2786742455",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yAedjgHfC",
+"date":"2012-09-04 01:19:23"
+},
+{
+"kids":[],
+"uid":"2919426094",
+"parent":"yA7czkQCl",
+"text":"",
+"mid":"yA9qCBuHt",
+"date":"2012-09-03 13:08:28"
+},
+{
+"kids":[],
+"uid":"525994565",
+"parent":"",
+"text":"",
+"mid":"yA8AImTtx",
+"date":"2012-09-03 11:00:33"
+},
+{
+"kids":[],
+"uid":"chinascgf",
+"parent":"",
+"text":"",
+"mid":"yA8d27KpT",
+"date":"2012-09-03 10:02:13"
+},
+{
+"kids":[],
+"uid":"1447642120",
+"parent":"",
+"text":"",
+"mid":"yA83GDONw",
+"date":"2012-09-03 09:39:12"
+},
+{
+"kids":[
+"yA9qCBuHt"
+],
+"uid":"qiongrenle",
+"parent":"yzFKu0ulj",
+"text":"",
+"mid":"yA7czkQCl",
+"date":"2012-09-03 07:28:19"
+},
+{
+"kids":[],
+"uid":"2801394917",
+"parent":"",
+"text":"",
+"mid":"yA3PUoPKy",
+"date":"2012-09-02 22:54:16"
+},
+{
+"kids":[],
+"uid":"1960146082",
+"parent":"yA1uqwnip",
+"text":"找个时间静静的品茶聊天吧！",
+"mid":"yA20o4Zhl",
+"date":"2012-09-02 18:14:35"
+},
+{
+"kids":[],
+"uid":"1026103537",
+"parent":"yA1uqwnip",
+"text":"",
+"mid":"yA1zIub3i",
+"date":"2012-09-02 17:08:53"
+},
+{
+"kids":[],
+"uid":"2829556592",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yA1w5EL3f",
+"date":"2012-09-02 16:59:57"
+},
+{
+"kids":[
+"yA20o4Zhl",
+"yA1zIub3i"
+],
+"uid":"mysaga",
+"parent":"",
+"text":"参茶悟道！[",
+"mid":"yA1uqwnip",
+"date":"2012-09-02 16:55:51"
+},
+{
+"kids":[],
+"uid":"2440326915",
+"parent":"",
+"text":"",
+"mid":"yA1gbhHyb",
+"date":"2012-09-02 16:20:44"
+},
+{
+"kids":[],
+"uid":"theotea",
+"parent":"",
+"text":"古有品茶七忌——1、不如法；2、恶具；3、主客不韵；4、冠裳苛礼；5、荤肴杂陈；6、忙冗；7、壁间案头多恶趣。今有九忌，谨记谨记。[茶]",
+"mid":"yA1b36yPl",
+"date":"2012-09-02 16:08:05"
+},
+{
+"kids":[],
+"uid":"2611390745",
+"parent":"",
+"text":"",
+"mid":"yzZWKfGZn",
+"date":"2012-09-02 13:00:05"
+},
+{
+"kids":[],
+"uid":"2453566551",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzUsQjFdn",
+"date":"2012-09-01 23:02:43"
+},
+{
+"kids":[],
+"uid":"443576673",
+"parent":"",
+"text":"能识茶忌，更得茶益。",
+"mid":"yzSmCjNCK",
+"date":"2012-09-01 17:41:50"
+},
+{
+"kids":[],
+"uid":"1053629961",
+"parent":"yzA4d04AB",
+"text":"[给力]品茗悄无言，我懂的[偷笑]",
+"mid":"yzOyA3bzs",
+"date":"2012-09-01 08:00:22"
+},
+{
+"kids":[],
+"uid":"2215608060",
+"parent":"yzAexAx8L",
+"text":"",
+"mid":"yzOsA3kae",
+"date":"2012-09-01 07:45:35"
+},
+{
+"kids":[],
+"uid":"2116951583",
+"parent":"yzA4d04AB",
+"text":"4与7两点，待斟酌！！！",
+"mid":"yzNF4bgQb",
+"date":"2012-09-01 05:43:36"
+},
+{
+"kids":[],
+"uid":"2595783901",
+"parent":"",
+"text":"转发微博。",
+"mid":"yzLN80zQk",
+"date":"2012-09-01 00:57:55"
+},
+{
+"kids":[],
+"uid":"1679740052",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzKZkpw17",
+"date":"2012-08-31 22:55:14"
+},
+{
+"kids":[],
+"uid":"2216305711",
+"parent":"",
+"text":"",
+"mid":"yzKh31Oay",
+"date":"2012-08-31 21:06:11"
+},
+{
+"kids":[],
+"uid":"chenfafu",
+"parent":"",
+"text":"茶文化的茶忌！",
+"mid":"yzKemErFS",
+"date":"2012-08-31 20:59:34"
+},
+{
+"kids":[],
+"uid":"2710879702",
+"parent":"",
+"text":"此茶忌，其实就是对茶的尊重",
+"mid":"yzKcA9KlV",
+"date":"2012-08-31 20:55:11"
+},
+{
+"kids":[],
+"uid":"dswhcb",
+"parent":"yzJAOCd0j",
+"text":"说喝咱就喝。",
+"mid":"yzJK7b4h6",
+"date":"2012-08-31 19:45:02"
+},
+{
+"kids":[
+"yzJK7b4h6"
+],
+"uid":"1196490691",
+"parent":"",
+"text":"[茶]该喝就喝，当忌就忌。[微风]心有忌而手执杯，不愧茶。",
+"mid":"yzJAOCd0j",
+"date":"2012-08-31 19:22:09"
+},
+{
+"kids":[],
+"uid":"2655250802",
+"parent":"yzFSGf4OS",
+"text":"",
+"mid":"yzIjfrXBE",
+"date":"2012-08-31 16:06:07"
+},
+{
+"kids":[],
+"uid":"2530317913",
+"parent":"",
+"text":"",
+"mid":"yzIhKnomj",
+"date":"2012-08-31 16:02:24"
+},
+{
+"kids":[],
+"uid":"2804749032",
+"parent":"yzAZAp68q",
+"text":"",
+"mid":"yzI7pri5D",
+"date":"2012-08-31 15:36:55"
+},
+{
+"kids":[],
+"uid":"2267682152",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzI74shCM",
+"date":"2012-08-31 15:36:07"
+},
+{
+"kids":[],
+"uid":"2590689004",
+"parent":"",
+"text":"",
+"mid":"yzHTkg7cd",
+"date":"2012-08-31 15:02:15"
+},
+{
+"kids":[],
+"uid":"2143873665",
+"parent":"yzFXsC2Td",
+"text":"～好～茶～",
+"mid":"yzGMF5amR",
+"date":"2012-08-31 12:13:05"
+},
+{
+"kids":[],
+"uid":"712336711",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzGsibjg3",
+"date":"2012-08-31 11:22:53"
+},
+{
+"kids":[],
+"uid":"fenghuanghongcha",
+"parent":"",
+"text":"好文，需要喝出名堂。有了内涵才能更好的发展。",
+"mid":"yzGnzivLT",
+"date":"2012-08-31 11:11:15"
+},
+{
+"kids":[
+"yCNVL55Pn"
+],
+"uid":"2608016363",
+"parent":"",
+"text":"",
+"mid":"yzGiMkDhi",
+"date":"2012-08-31 10:59:28"
+},
+{
+"kids":[],
+"uid":"2207034873",
+"parent":"",
+"text":"",
+"mid":"yzGbl6VZ5",
+"date":"2012-08-31 10:41:08"
+},
+{
+"kids":[],
+"uid":"2097793295",
+"parent":"",
+"text":"该喝就喝,当忌则忌[微风]",
+"mid":"yzG9Zc1Fj",
+"date":"2012-08-31 10:37:48"
+},
+{
+"kids":[],
+"uid":"2750019725",
+"parent":"",
+"text":"",
+"mid":"yzG9x7ugJ",
+"date":"2012-08-31 10:36:41"
+},
+{
+"kids":[],
+"uid":"2011308147",
+"parent":"",
+"text":"用心泡好茶",
+"mid":"yzG980hZI",
+"date":"2012-08-31 10:35:41"
+},
+{
+"kids":[
+"yzGMF5amR"
+],
+"uid":"kosmoslicht",
+"parent":"",
+"text":"[茶]",
+"mid":"yzFXsC2Td",
+"date":"2012-08-31 10:06:57"
+},
+{
+"kids":[],
+"uid":"f95858",
+"parent":"yzFSGf4OS",
+"text":"",
+"mid":"yzFVdqFPV",
+"date":"2012-08-31 10:01:25"
+},
+{
+"kids":[],
+"uid":"2120510352",
+"parent":"",
+"text":"轉發微博",
+"mid":"yzFUBlCgq",
+"date":"2012-08-31 09:59:53"
+},
+{
+"kids":[],
+"uid":"ximeimedia",
+"parent":"yzFSGf4OS",
+"text":"",
+"mid":"yzFTxsoVp",
+"date":"2012-08-31 09:57:17"
+},
+{
+"kids":[
+"yzIjfrXBE",
+"yzFVdqFPV",
+"yzFTxsoVp"
+],
+"uid":"yiqingyuan",
+"parent":"",
+"text":"古有品茶七忌1、不如法；2、恶具；3、主客不韵；4、冠裳苛礼；5、荤肴杂陈；6、忙冗；7、壁间案头多恶趣。今有九忌。",
+"mid":"yzFSGf4OS",
+"date":"2012-08-31 09:55:09"
+},
+{
+"kids":[
+"yA7czkQCl"
+],
+"uid":"800400678",
+"parent":"",
+"text":"",
+"mid":"yzFKu0ulj",
+"date":"2012-08-31 09:34:57"
+},
+{
+"kids":[],
+"uid":"1707232985",
+"parent":"",
+"text":"[给力]",
+"mid":"yzFvj8MOn",
+"date":"2012-08-31 08:57:34"
+},
+{
+"kids":[],
+"uid":"338795558",
+"parent":"",
+"text":"赞同",
+"mid":"yzFkfkeeG",
+"date":"2012-08-31 08:30:20"
+},
+{
+"kids":[],
+"uid":"1974565294",
+"parent":"",
+"text":"",
+"mid":"yzFhQnMb6",
+"date":"2012-08-31 08:24:24"
+},
+{
+"kids":[],
+"uid":"577117101",
+"parent":"",
+"text":"",
+"mid":"yzFeHlwrC",
+"date":"2012-08-31 08:16:40"
+},
+{
+"kids":[],
+"uid":"2772608773",
+"parent":"yzA3tvNgj",
+"text":"",
+"mid":"yzEDLhd2p",
+"date":"2012-08-31 06:45:40"
+},
+{
+"kids":[],
+"uid":"1463692942",
+"parent":"",
+"text":"",
+"mid":"yzCmxxKcP",
+"date":"2012-08-31 00:57:46"
+},
+{
+"kids":[],
+"uid":"1639192592",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzC0cBD94",
+"date":"2012-08-31 00:02:41"
+},
+{
+"kids":[],
+"uid":"1792226311",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzBPfw01m",
+"date":"2012-08-30 23:35:45"
+},
+{
+"kids":[],
+"uid":"1801878937",
+"parent":"",
+"text":"忌装逼，非挚诚不能得茶缘！",
+"mid":"yzBNYnYRe",
+"date":"2012-08-30 23:32:34"
+},
+{
+"kids":[],
+"uid":"1400918887",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzBMvEJ4Z",
+"date":"2012-08-30 23:28:59"
+},
+{
+"kids":[],
+"uid":"1660290321",
+"parent":"",
+"text":"非慎独不能得茶道;非放下不能得茶悟！茶道亦道，道道人生！[咖啡]",
+"mid":"yzBMhbs0U",
+"date":"2012-08-30 23:28:25"
+},
+{
+"kids":[],
+"uid":"2586878014",
+"parent":"",
+"text":"",
+"mid":"yzBLX4qdF",
+"date":"2012-08-30 23:27:33"
+},
+{
+"kids":[],
+"uid":"yaoong",
+"parent":"",
+"text":"[赞]",
+"mid":"yzBGV1DZH",
+"date":"2012-08-30 23:15:12"
+},
+{
+"kids":[],
+"uid":"2628750274",
+"parent":"",
+"text":"",
+"mid":"yzBFead8U",
+"date":"2012-08-30 23:11:02"
+},
+{
+"kids":[],
+"uid":"szxuefeng",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzBE8sWvD",
+"date":"2012-08-30 23:08:22"
+},
+{
+"kids":[],
+"uid":"1595047121",
+"parent":"yzA4d04AB",
+"text":"九忌转了，慢慢去体会",
+"mid":"yzBBio87s",
+"date":"2012-08-30 23:01:19"
+},
+{
+"kids":[],
+"uid":"2876301263",
+"parent":"yzA4d04AB",
+"text":"做人心德",
+"mid":"yzBydcz9a",
+"date":"2012-08-30 22:53:44"
+},
+{
+"kids":[],
+"uid":"2664171771",
+"parent":"",
+"text":"",
+"mid":"yzBwkrTAh",
+"date":"2012-08-30 22:49:05"
+},
+{
+"kids":[],
+"uid":"2476299072",
+"parent":"",
+"text":"转发微博。",
+"mid":"yzBgol9xq",
+"date":"2012-08-30 22:09:50"
+},
+{
+"kids":[],
+"uid":"1830006905",
+"parent":"yzAfC8lZ4",
+"text":"",
+"mid":"yzB6M1GvK",
+"date":"2012-08-30 21:46:09"
+},
+{
+"kids":[],
+"uid":"1836604741",
+"parent":"",
+"text":"",
+"mid":"yzB6DpLYC",
+"date":"2012-08-30 21:45:49"
+},
+{
+"kids":[
+"yzI7pri5D"
+],
+"uid":"1850495581",
+"parent":"yzA5NqhLm",
+"text":"",
+"mid":"yzAZAp68q",
+"date":"2012-08-30 21:28:27"
+},
+{
+"kids":[],
+"uid":"1559467891",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAZqDSRo",
+"date":"2012-08-30 21:28:04"
+},
+{
+"kids":[],
+"uid":"1872260691",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAUAr1HV",
+"date":"2012-08-30 21:16:08"
+},
+{
+"kids":[],
+"uid":"2801445210",
+"parent":"",
+"text":"",
+"mid":"yzATZeMb0",
+"date":"2012-08-30 21:14:39"
+},
+{
+"kids":[],
+"uid":"2277903487",
+"parent":"yzANt0J7D",
+"text":"",
+"mid":"yzASBvbXN",
+"date":"2012-08-30 21:11:16"
+},
+{
+"kids":[],
+"uid":"zobeen",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAS9aZMl",
+"date":"2012-08-30 21:10:07"
+},
+{
+"kids":[],
+"uid":"sirmei",
+"parent":"yzANt0J7D",
+"text":"",
+"mid":"yzARVhvhL",
+"date":"2012-08-30 21:09:34"
+},
+{
+"kids":[],
+"uid":"2449121935",
+"parent":"",
+"text":"",
+"mid":"yzAQhDh1u",
+"date":"2012-08-30 21:05:31"
+},
+{
+"kids":[
+"yzASBvbXN",
+"yzARVhvhL"
+],
+"uid":"2608850103",
+"parent":"yzAN01zGv",
+"text":"",
+"mid":"yzANt0J7D",
+"date":"2012-08-30 20:58:35"
+},
+{
+"kids":[
+"yzANt0J7D"
+],
+"uid":"338795558",
+"parent":"",
+"text":"[good]",
+"mid":"yzAN01zGv",
+"date":"2012-08-30 20:57:26"
+},
+{
+"kids":[],
+"uid":"1829607091",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAKCjkSe",
+"date":"2012-08-30 20:51:33"
+},
+{
+"kids":[],
+"uid":"chinateadl",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAGIhJxh",
+"date":"2012-08-30 20:41:57"
+},
+{
+"kids":[],
+"uid":"1855143861",
+"parent":"",
+"text":"[呵呵]",
+"mid":"yzABgwtE7",
+"date":"2012-08-30 20:28:32"
+},
+{
+"kids":[
+"yCpjgvWGf"
+],
+"uid":"2132568624",
+"parent":"",
+"text":"",
+"mid":"yzAwubt9Y",
+"date":"2012-08-30 20:16:42"
+},
+{
+"kids":[],
+"uid":"rongmei1225",
+"parent":"yzA4d04AB",
+"text":"茶中有道，道中有情，情入香茗。",
+"mid":"yzAwajSMO",
+"date":"2012-08-30 20:15:58"
+},
+{
+"kids":[],
+"uid":"2615235981",
+"parent":"yzA5d5nfw",
+"text":"品茶如感悟人生 ,古有品茶七忌1、不如法；2、恶具；3、主客不韵；4、冠裳苛礼；5、荤肴杂陈；6、忙冗；7、壁间案头多恶趣。今有九忌。",
+"mid":"yzAvJtzER",
+"date":"2012-08-30 20:14:54"
+},
+{
+"kids":[],
+"uid":"1889501033",
+"parent":"",
+"text":"茶道，茶道，老师能不能在教我点啊？",
+"mid":"yzArAmybh",
+"date":"2012-08-30 20:04:41"
+},
+{
+"kids":[],
+"uid":"1274762972",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzArexiKg",
+"date":"2012-08-30 20:03:48"
+},
+{
+"kids":[],
+"uid":"zsbaiyaomin",
+"parent":"yzAkixC4n",
+"text":"回复@茶人张赢天:茶和水。是一体的。就譬如生活中需要增加一点色彩，这样才美好。水过于淡，而茶可以从浓喝到淡。增加了想象的过程。但我喝茶就是为了解渴。哈哈",
+"mid":"yzApagHVg",
+"date":"2012-08-30 19:58:43"
+},
+{
+"kids":[],
+"uid":"2278708517",
+"parent":"",
+"text":"[咖啡]",
+"mid":"yzAoZ33Ix",
+"date":"2012-08-30 19:58:17"
+},
+{
+"kids":[],
+"uid":"1649097964",
+"parent":"",
+"text":"说得好,清茶一盏能涤去一切不净。",
+"mid":"yzAmvEJRC",
+"date":"2012-08-30 19:52:08"
+},
+{
+"kids":[],
+"uid":"zhubaoqing1818",
+"parent":"",
+"text":"承教。",
+"mid":"yzAkQz3wf",
+"date":"2012-08-30 19:48:05"
+},
+{
+"kids":[
+"yzApagHVg"
+],
+"uid":"zsbaiyaomin",
+"parent":"yzA3EFGHx",
+"text":"回复@茶人张赢天:茶本是茶，何必扯那么多呢？好喝即可。不争即是茶缘。",
+"mid":"yzAkixC4n",
+"date":"2012-08-30 19:46:45"
+},
+{
+"kids":[],
+"uid":"p1c2s3czy",
+"parent":"",
+"text":"",
+"mid":"yzAje4vWO",
+"date":"2012-08-30 19:44:03"
+},
+{
+"kids":[],
+"uid":"towerlingyun",
+"parent":"yzA4d04AB",
+"text":"随性而为，喝茶喝心。着相就没必要了。",
+"mid":"yzAhg4a7Y",
+"date":"2012-08-30 19:39:13"
+},
+{
+"kids":[],
+"uid":"2195830162",
+"parent":"yzAbV7lkv",
+"text":"",
+"mid":"yzAh1AX3Q",
+"date":"2012-08-30 19:38:40"
+},
+{
+"kids":[],
+"uid":"1666381742",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAgsqRwX",
+"date":"2012-08-30 19:37:13"
+},
+{
+"kids":[
+"yzB6M1GvK"
+],
+"uid":"mingxuan0830",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAfC8lZ4",
+"date":"2012-08-30 19:35:10"
+},
+{
+"kids":[],
+"uid":"1097061384",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAfvBgMp",
+"date":"2012-08-30 19:34:53"
+},
+{
+"kids":[],
+"uid":"1415646244",
+"parent":"",
+"text":"茶是中国营销的最高境界",
+"mid":"yzAeM5Qm4",
+"date":"2012-08-30 19:33:04"
+},
+{
+"kids":[
+"zjW0OzKfV",
+"yDsG8noqO",
+"yzOsA3kae"
+],
+"uid":"2032122735",
+"parent":"yzA5byWDK",
+"text":"静以修身！",
+"mid":"yzAexAx8L",
+"date":"2012-08-30 19:32:33"
+},
+{
+"kids":[],
+"uid":"jenny61",
+"parent":"yzA4d04AB",
+"text":"转发微博。",
+"mid":"yzAeqgjkD",
+"date":"2012-08-30 19:32:15"
+},
+{
+"kids":[],
+"uid":"2268544311",
+"parent":"yzzKzfDHq",
+"text":"茶之心[微风]",
+"mid":"yzAcOkxMe",
+"date":"2012-08-30 19:28:14"
+},
+{
+"kids":[
+"yFwOy2faJ",
+"yzAh1AX3Q"
+],
+"uid":"fukangnian",
+"parent":"yzA4d04AB",
+"text":"不可不讲究亦不可太讲究！",
+"mid":"yzAbV7lkv",
+"date":"2012-08-30 19:26:06"
+},
+{
+"kids":[],
+"uid":"saburinazhao",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAbyCK5e",
+"date":"2012-08-30 19:25:12"
+},
+{
+"kids":[],
+"uid":"2673201753",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAboyyia",
+"date":"2012-08-30 19:24:48"
+},
+{
+"kids":[],
+"uid":"2769419411",
+"parent":"",
+"text":"",
+"mid":"yzAaP8vyU",
+"date":"2012-08-30 19:23:20"
+},
+{
+"kids":[],
+"uid":"1959679543",
+"parent":"yzA4d04AB",
+"text":"澄心得茶清",
+"mid":"yzAaOhnAF",
+"date":"2012-08-30 19:23:21"
+},
+{
+"kids":[],
+"uid":"2530489800",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzAaAC7cE",
+"date":"2012-08-30 19:22:49"
+},
+{
+"kids":[],
+"uid":"gujin666999",
+"parent":"",
+"text":"",
+"mid":"yzAav4SaM",
+"date":"2012-08-30 19:22:35"
+},
+{
+"kids":[],
+"uid":"1415646244",
+"parent":"",
+"text":"茶虽香",
+"mid":"yzA9TuVSp",
+"date":"2012-08-30 19:21:04"
+},
+{
+"kids":[],
+"uid":"1963751971",
+"parent":"yzA4d04AB",
+"text":"喝茶与心情互相影响。",
+"mid":"yzA9lfhUR",
+"date":"2012-08-30 19:19:44"
+},
+{
+"kids":[],
+"uid":"2130140892",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzA8OaqWT",
+"date":"2012-08-30 19:18:23"
+},
+{
+"kids":[],
+"uid":"chaoge08",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzA8DbaCe",
+"date":"2012-08-30 19:17:58"
+},
+{
+"kids":[],
+"uid":"2852828905",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzA8CAU2u",
+"date":"2012-08-30 19:17:59"
+},
+{
+"kids":[],
+"uid":"2595783901",
+"parent":"yzA4d04AB",
+"text":"确实是，一些小细节影响喝茶的心情。[汗]",
+"mid":"yzA7pfA3Y",
+"date":"2012-08-30 19:14:58"
+},
+{
+"kids":[],
+"uid":"1840349067",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzA7ibAZD",
+"date":"2012-08-30 19:14:39"
+},
+{
+"kids":[],
+"uid":"gingergirl",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzA607Nvk",
+"date":"2012-08-30 19:11:30"
+},
+{
+"kids":[
+"yD3n0l1NS"
+],
+"uid":"57718898",
+"parent":"yzA4d04AB",
+"text":"学习",
+"mid":"yzA5O0neh",
+"date":"2012-08-30 19:11:01"
+},
+{
+"kids":[
+"yzAZAp68q"
+],
+"uid":"2409295844",
+"parent":"yzA4d04AB",
+"text":"",
+"mid":"yzA5NqhLm",
+"date":"2012-08-30 19:11:01"
+},
+{
+"kids":[],
+"uid":"1908867761",
+"parent":"yzA4d04AB",
+"text":"用纯正的心，泡纯净的茶。",
+"mid":"yzA5t0Rxa",
+"date":"2012-08-30 19:10:11"
+},
+{
+"kids":[
+"yzAvJtzER"
+],
+"uid":"chinachanghao",
+"parent":"yzA4d04AB",
+"text":"品茶如感悟人生",
+"mid":"yzA5d5nfw",
+"date":"2012-08-30 19:09:33"
+},
+{
+"kids":[
+"yzAexAx8L"
+],
+"uid":"1246450314",
+"parent":"",
+"text":"",
+"mid":"yzA5byWDK",
+"date":"2012-08-30 19:09:30"
+},
+{
+"kids":[],
+"uid":"1950004827",
+"parent":"",
+"text":"参悟并转发。@德宝1 @花盆 @移动互联网的时代 @仇旭东",
+"mid":"yzA4H8v5G",
+"date":"2012-08-30 19:08:18"
+},
+{
+"kids":[
+"zbSggjavV",
+"yB6w9p3dm",
+"yAEaq9z2R",
+"yAedjgHfC",
+"yA1w5EL3f",
+"yzUsQjFdn",
+"yzOyA3bzs",
+"yzNF4bgQb",
+"yzKZkpw17",
+"yzI74shCM",
+"yzGsibjg3",
+"yzC0cBD94",
+"yzBPfw01m",
+"yzBMvEJ4Z",
+"yzBE8sWvD",
+"yzBBio87s",
+"yzBydcz9a",
+"yzAZqDSRo",
+"yzAUAr1HV",
+"yzAS9aZMl",
+"yzAKCjkSe",
+"yzAGIhJxh",
+"yzAwajSMO",
+"yzArexiKg",
+"yzAhg4a7Y",
+"yzAgsqRwX",
+"yzAfC8lZ4",
+"yzAfvBgMp",
+"yzAeqgjkD",
+"yzAbV7lkv",
+"yzAbyCK5e",
+"yzAboyyia",
+"yzAaOhnAF",
+"yzAaAC7cE",
+"yzA9lfhUR",
+"yzA8OaqWT",
+"yzA8DbaCe",
+"yzA8CAU2u",
+"yzA7pfA3Y",
+"yzA7ibAZD",
+"yzA607Nvk",
+"yzA5O0neh",
+"yzA5NqhLm",
+"yzA5t0Rxa",
+"yzA5d5nfw"
+],
+"uid":"pincha123",
+"parent":"",
+"text":"古有品茶七忌1、不如法；2、恶具；3、主客不韵；4、冠裳苛礼；5、荤肴杂陈；6、忙冗；7、壁间案头多恶趣。今有九忌。",
+"mid":"yzA4d04AB",
+"date":"2012-08-30 19:07:06"
+},
+{
+"kids":[],
+"uid":"1374666890",
+"parent":"",
+"text":"",
+"mid":"yzA3Ng3t0",
+"date":"2012-08-30 19:06:05"
+},
+{
+"kids":[
+"yzAkixC4n"
+],
+"uid":"zsbaiyaomin",
+"parent":"",
+"text":"佛度世人，有分别心就是做作了。喝茶只是因为口渴而喝，老张别整那么复杂。茶人茶心，心悟不尽相同。不必设门槛。喝茶是个人感受.你的说法就是喝的文化茶了。",
+"mid":"yzA3EFGHx",
+"date":"2012-08-30 19:05:45"
+},
+{
+"kids":[],
+"uid":"1960781443",
+"parent":"",
+"text":"",
+"mid":"yzA3AySAU",
+"date":"2012-08-30 19:05:34"
+},
+{
+"kids":[
+"yzEDLhd2p"
+],
+"uid":"1715570892",
+"parent":"",
+"text":"虽然看不懂，也转让看懂的人看。难道这就是传说中的豁达？",
+"mid":"yzA3tvNgj",
+"date":"2012-08-30 19:05:17"
+},
+{
+"kids":[],
+"uid":"1827559181",
+"parent":"",
+"text":"[给力]",
+"mid":"yzzVbldMX",
+"date":"2012-08-30 18:44:51"
+},
+{
+"kids":[],
+"uid":"2747559930",
+"parent":"",
+"text":"谢茶。",
+"mid":"yzzUQDR4z",
+"date":"2012-08-30 18:44:02"
+},
+{
+"kids":[],
+"uid":"2557549112",
+"parent":"",
+"text":"",
+"mid":"yzzTVlf6j",
+"date":"2012-08-30 18:41:44"
+},
+{
+"kids":[],
+"uid":"2075901751",
+"parent":"",
+"text":"饮茶箴言：净坐、澄心、清明、致志、凝定、默语、慎独、放下",
+"mid":"yzzPDlHUI",
+"date":"2012-08-30 18:31:11"
+},
+{
+"kids":[],
+"uid":"2417558672",
+"parent":"",
+"text":"",
+"mid":"yzzLfxkpC",
+"date":"2012-08-30 18:20:20"
+},
+{
+"kids":[
+"yzAcOkxMe"
+],
+"uid":"freeyourchoice",
+"parent":"",
+"text":"@茶初沸",
+"mid":"yzzKzfDHq",
+"date":"2012-08-30 18:18:42"
+},
+{
+"kids":[],
+"uid":"2747559930",
+"parent":"",
+"text":"有道理。",
+"mid":"yzzHP6pYP",
+"date":"2012-08-30 18:11:57"
+},
+{
+"kids":[],
+"uid":"jyztea",
+"parent":"",
+"text":"",
+"mid":"yzzHm6PUE",
+"date":"2012-08-30 18:10:48"
+},
+{
+"kids":[],
+"uid":"shenzhenzhuqi",
+"parent":"",
+"text":"",
+"mid":"yzzGYbslF",
+"date":"2012-08-30 18:09:50"
+},
+{
+"kids":[],
+"uid":"2327140411",
+"parent":"",
+"text":"[赞]不愧茶！",
+"mid":"yzzFGnoyU",
+"date":"2012-08-30 18:06:40"
+},
+{
+"kids":[],
+"uid":"2794190370",
+"parent":"",
+"text":"太好了[鼓掌]",
+"mid":"yzzvB9RGn",
+"date":"2012-08-30 17:41:48"
+},
+{
+"kids":[],
+"uid":"2288702995",
+"parent":"",
+"text":"妙",
+"mid":"yzztT4C6e",
+"date":"2012-08-30 17:37:36"
+},
+{
+"kids":[],
+"uid":"chaxianzi201314",
+"parent":"",
+"text":"",
+"mid":"yzzsyAmgq",
+"date":"2012-08-30 17:34:21"
+},
+{
+"kids":[],
+"uid":"1217330031",
+"parent":"",
+"text":"",
+"mid":"yzzr97b6p",
+"date":"2012-08-30 17:30:52"
+}
+]

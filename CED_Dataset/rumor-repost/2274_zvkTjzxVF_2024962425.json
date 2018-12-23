@@ -1,0 +1,6056 @@
+[
+{
+"kids":[],
+"uid":"1440676163",
+"parent":"zBC8mmxO6",
+"text":"",
+"mid":"zCKdnzgBi",
+"date":"2013-06-23 13:12:22"
+},
+{
+"kids":[],
+"uid":"1776522294",
+"parent":"zBC8mmxO6",
+"text":"",
+"mid":"zCAYnrU8w",
+"date":"2013-06-22 13:40:40"
+},
+{
+"kids":[],
+"uid":"2920660720",
+"parent":"zBC8mmxO6",
+"text":"",
+"mid":"zCATcfzb8",
+"date":"2013-06-22 13:27:55"
+},
+{
+"kids":[],
+"uid":"3044813840",
+"parent":"zBC8mmxO6",
+"text":"",
+"mid":"zBPpVDLuB",
+"date":"2013-06-17 12:36:43"
+},
+{
+"kids":[],
+"uid":"3045064574",
+"parent":"zBC8mmxO6",
+"text":"",
+"mid":"zBOLVBlCo",
+"date":"2013-06-17 10:58:10"
+},
+{
+"kids":[
+"zCKdnzgBi",
+"zCAYnrU8w",
+"zCATcfzb8",
+"zBPpVDLuB",
+"zBOLVBlCo"
+],
+"uid":"3463508682",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zBC8mmxO6",
+"date":"2013-06-16 02:47:43"
+},
+{
+"kids":[],
+"uid":"1433241685",
+"parent":"",
+"text":"大哥，您的公司，真的没问题吗[兔子]",
+"mid":"zATk28ArW",
+"date":"2013-06-11 08:42:52"
+},
+{
+"kids":[],
+"uid":"3045351280",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zAs6dstiU",
+"date":"2013-06-08 11:24:40"
+},
+{
+"kids":[],
+"uid":"3498143835",
+"parent":"zAhenkbV9",
+"text":"",
+"mid":"zAhYvrguI",
+"date":"2013-06-07 09:38:12"
+},
+{
+"kids":[],
+"uid":"2789844752",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zAhJvu1RI",
+"date":"2013-06-07 09:01:15"
+},
+{
+"kids":[
+"zAhYvrguI"
+],
+"uid":"1588155603",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zAhenkbV9",
+"date":"2013-06-07 07:44:33"
+},
+{
+"kids":[],
+"uid":"2789824172",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zzGUL8zk5",
+"date":"2013-06-03 11:17:20"
+},
+{
+"kids":[],
+"uid":"2789931394",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zzFNfEWcO",
+"date":"2013-06-03 08:26:04"
+},
+{
+"kids":[],
+"uid":"3044276214",
+"parent":"zvlkSlz9G",
+"text":"",
+"mid":"zzFDd5CHo",
+"date":"2013-06-03 08:01:21"
+},
+{
+"kids":[],
+"uid":"2789920342",
+"parent":"zvlkSlz9G",
+"text":"",
+"mid":"zzxDr6ZpS",
+"date":"2013-06-02 11:39:55"
+},
+{
+"kids":[],
+"uid":"2804830202",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zzxs97497",
+"date":"2013-06-02 11:12:07"
+},
+{
+"kids":[],
+"uid":"2789915114",
+"parent":"zvlkSlz9G",
+"text":"",
+"mid":"zzxqkdLSi",
+"date":"2013-06-02 11:07:37"
+},
+{
+"kids":[],
+"uid":"2809171672",
+"parent":"zvsEKEolz",
+"text":"",
+"mid":"zzwgQ8pQT",
+"date":"2013-06-02 08:11:31"
+},
+{
+"kids":[],
+"uid":"2790022674",
+"parent":"zvsEKEolz",
+"text":"",
+"mid":"zzwf1xSnX",
+"date":"2013-06-02 08:07:03"
+},
+{
+"kids":[],
+"uid":"3045413444",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zzw4q5TVY",
+"date":"2013-06-02 07:40:55"
+},
+{
+"kids":[],
+"uid":"2919748630",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zzrfG3zIs",
+"date":"2013-06-01 19:24:54"
+},
+{
+"kids":[],
+"uid":"1560967551",
+"parent":"zvsEKEolz",
+"text":"",
+"mid":"zzoRZ2r0L",
+"date":"2013-06-01 13:21:03"
+},
+{
+"kids":[],
+"uid":"2920492094",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zznHMCJx6",
+"date":"2013-06-01 10:23:11"
+},
+{
+"kids":[],
+"uid":"3044613390",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zzdHkAHhS",
+"date":"2013-05-31 08:54:36"
+},
+{
+"kids":[],
+"uid":"1581668661",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zzde8pxVX",
+"date":"2013-05-31 07:42:39"
+},
+{
+"kids":[],
+"uid":"1583289440",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zyUgO0XRU",
+"date":"2013-05-29 07:27:03"
+},
+{
+"kids":[],
+"uid":"2803139290",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zyUbj0X3V",
+"date":"2013-05-29 07:13:29"
+},
+{
+"kids":[],
+"uid":"3044359004",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zyOqK3yC7",
+"date":"2013-05-28 16:35:03"
+},
+{
+"kids":[],
+"uid":"3043918694",
+"parent":"zvlkSlz9G",
+"text":"",
+"mid":"zyNrYw03H",
+"date":"2013-05-28 14:05:21"
+},
+{
+"kids":[],
+"uid":"3043953154",
+"parent":"zvlkSlz9G",
+"text":"",
+"mid":"zyKNB2nDo",
+"date":"2013-05-28 07:20:22"
+},
+{
+"kids":[],
+"uid":"3043676970",
+"parent":"zvlkSlz9G",
+"text":"",
+"mid":"zyzmb17Ix",
+"date":"2013-05-27 02:12:36"
+},
+{
+"kids":[],
+"uid":"3044843790",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zyuUJE5DW",
+"date":"2013-05-26 14:54:01"
+},
+{
+"kids":[],
+"uid":"3043720900",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zytH5Ac4Y",
+"date":"2013-05-26 11:47:38"
+},
+{
+"kids":[],
+"uid":"3044912540",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zyskmCASI",
+"date":"2013-05-26 08:18:54"
+},
+{
+"kids":[],
+"uid":"1725986422",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zyrVPa16f",
+"date":"2013-05-26 07:18:27"
+},
+{
+"kids":[],
+"uid":"2920114902",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zykSwi4Vl",
+"date":"2013-05-25 13:21:05"
+},
+{
+"kids":[],
+"uid":"1584044771",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zy0R047hz",
+"date":"2013-05-23 10:22:24"
+},
+{
+"kids":[],
+"uid":"1778344005",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zy0Gt2udt",
+"date":"2013-05-23 09:56:27"
+},
+{
+"kids":[],
+"uid":"3045146162",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zxxNKnQel",
+"date":"2013-05-20 08:24:45"
+},
+{
+"kids":[],
+"uid":"3044006692",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zxxNKnQaY",
+"date":"2013-05-20 08:24:43"
+},
+{
+"kids":[],
+"uid":"2803477944",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zxoXcqTkQ",
+"date":"2013-05-19 09:53:18"
+},
+{
+"kids":[],
+"uid":"2919905182",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zxgR6DlEY",
+"date":"2013-05-18 13:16:18"
+},
+{
+"kids":[],
+"uid":"2919729900",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zxgR6lKoN",
+"date":"2013-05-18 13:16:17"
+},
+{
+"kids":[],
+"uid":"1583590910",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zxewGE2Ft",
+"date":"2013-05-18 07:20:30"
+},
+{
+"kids":[],
+"uid":"1584057733",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zxewGmrvm",
+"date":"2013-05-18 07:20:30"
+},
+{
+"kids":[],
+"uid":"2803377850",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zxepN4kbe",
+"date":"2013-05-18 07:03:31"
+},
+{
+"kids":[],
+"uid":"2920399474",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zxepN4k8N",
+"date":"2013-05-18 07:03:31"
+},
+{
+"kids":[],
+"uid":"2256303035",
+"parent":"zwS6O6cWk",
+"text":"",
+"mid":"zx1BYyaS1",
+"date":"2013-05-16 22:27:49"
+},
+{
+"kids":[],
+"uid":"2711501875",
+"parent":"zwS6O6cWk",
+"text":"",
+"mid":"zx0Un6Oko",
+"date":"2013-05-16 20:40:22"
+},
+{
+"kids":[],
+"uid":"3038741361",
+"parent":"zvlFp50V1",
+"text":"",
+"mid":"zwWXGc6Ca",
+"date":"2013-05-16 10:37:33"
+},
+{
+"kids":[
+"zx1BYyaS1",
+"zx0Un6Oko"
+],
+"uid":"1280835882",
+"parent":"",
+"text":"这是我见过最好的数学家。",
+"mid":"zwS6O6cWk",
+"date":"2013-05-15 22:16:19"
+},
+{
+"kids":[],
+"uid":"3119980801",
+"parent":"zvlFp50V1",
+"text":"郭美美如此重伤红会声誉的事，红会却沉默得如此默契，匪夷所思；汶川地震，艺术家作品拍卖所得的几千万善款，至今在多次被追问，才在五年后公布善款的使用情况，而更多的善款，其使用情况却是石沉大海，红会真的有难言之隐?",
+"mid":"zwS0sudAu",
+"date":"2013-05-15 22:00:39"
+},
+{
+"kids":[],
+"uid":"3045012270",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zwMJV8KLg",
+"date":"2013-05-15 08:36:12"
+},
+{
+"kids":[],
+"uid":"3044572772",
+"parent":"zwCFf1jMm",
+"text":"",
+"mid":"zwMJUxN2b",
+"date":"2013-05-15 08:36:11"
+},
+{
+"kids":[],
+"uid":"1777536714",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zwMfdi7NV",
+"date":"2013-05-15 07:20:32"
+},
+{
+"kids":[],
+"uid":"2804367150",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zwMfdgJNV",
+"date":"2013-05-15 07:20:33"
+},
+{
+"kids":[
+"zCKdnzgBi",
+"zCAYnrU8w",
+"zCATcfzb8",
+"zBPpVDLuB",
+"zBOLVBlCo",
+"zBC8mmxO6",
+"zAs6dstiU",
+"zAhYvrguI",
+"zAhJvu1RI",
+"zAhenkbV9",
+"zzxs97497",
+"zzw4q5TVY",
+"zzrfG3zIs",
+"zyskmCASI",
+"zyrVPa16f",
+"zy0R047hz",
+"zy0Gt2udt",
+"zxxNKnQel",
+"zxxNKnQaY",
+"zxepN4kbe",
+"zxepN4k8N",
+"zwMJV8KLg",
+"zwMJUxN2b"
+],
+"uid":"3463508682",
+"parent":"",
+"text":"",
+"mid":"zwCFf1jMm",
+"date":"2013-05-14 06:57:12"
+},
+{
+"kids":[],
+"uid":"2803098230",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zwvEYDTuV",
+"date":"2013-05-13 13:07:19"
+},
+{
+"kids":[],
+"uid":"2919730880",
+"parent":"zvsEKEolz",
+"text":"",
+"mid":"zwuypp4bY",
+"date":"2013-05-13 10:18:24"
+},
+{
+"kids":[],
+"uid":"3043625722",
+"parent":"zvsEKEolz",
+"text":"",
+"mid":"zwkLLpBWd",
+"date":"2013-05-12 09:23:50"
+},
+{
+"kids":[],
+"uid":"2803546670",
+"parent":"zvsEKEolz",
+"text":"",
+"mid":"zwkLLoo2c",
+"date":"2013-05-12 09:23:50"
+},
+{
+"kids":[],
+"uid":"3043654970",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zwkkL9o4z",
+"date":"2013-05-12 08:17:17"
+},
+{
+"kids":[],
+"uid":"2789779222",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zwkkL9nnI",
+"date":"2013-05-12 08:17:18"
+},
+{
+"kids":[],
+"uid":"3045195030",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zwiD8s1ZM",
+"date":"2013-05-12 03:57:04"
+},
+{
+"kids":[],
+"uid":"2803073510",
+"parent":"zvm8urbqD",
+"text":"",
+"mid":"zwiD8aqQD",
+"date":"2013-05-12 03:57:04"
+},
+{
+"kids":[],
+"uid":"3044582694",
+"parent":"zvlw3z2mI",
+"text":"",
+"mid":"zw8seo3aB",
+"date":"2013-05-11 02:02:45"
+},
+{
+"kids":[],
+"uid":"3044361894",
+"parent":"zvmCBnECL",
+"text":"",
+"mid":"zw6YlzUiB",
+"date":"2013-05-10 22:16:22"
+},
+{
+"kids":[],
+"uid":"2920375030",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zw11Nvhuh",
+"date":"2013-05-10 07:08:24"
+},
+{
+"kids":[],
+"uid":"3043913620",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zw11NvhrO",
+"date":"2013-05-10 07:08:24"
+},
+{
+"kids":[],
+"uid":"1737104401",
+"parent":"zvluxC8jb",
+"text":"",
+"mid":"zvXMRgfnt",
+"date":"2013-05-09 22:53:22"
+},
+{
+"kids":[],
+"uid":"3315684114",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvWoW7Qti",
+"date":"2013-05-09 19:21:40"
+},
+{
+"kids":[],
+"uid":"thefirstmover",
+"parent":"zvlva6UBA",
+"text":"验明虚假消息（注意不是谣言哦亲）很常用的一招就是数学，数字不对必然矛盾，矛盾了就为假。",
+"mid":"zvSG55RDt",
+"date":"2013-05-09 09:52:55"
+},
+{
+"kids":[],
+"uid":"2920171050",
+"parent":"zvtb24MBT",
+"text":"",
+"mid":"zvR3MrEBh",
+"date":"2013-05-09 05:45:49"
+},
+{
+"kids":[],
+"uid":"1584108575",
+"parent":"zvmCBnECL",
+"text":"",
+"mid":"zvQoY9JWz",
+"date":"2013-05-09 04:05:16"
+},
+{
+"kids":[],
+"uid":"2789879142",
+"parent":"zvmCBnECL",
+"text":"",
+"mid":"zvQoY9JV0",
+"date":"2013-05-09 04:05:16"
+},
+{
+"kids":[],
+"uid":"3044706244",
+"parent":"zvlw3z2mI",
+"text":"",
+"mid":"zvQbKre0n",
+"date":"2013-05-09 03:32:41"
+},
+{
+"kids":[],
+"uid":"2919846674",
+"parent":"zvlw3z2mI",
+"text":"",
+"mid":"zvQbKbcrn",
+"date":"2013-05-09 03:32:41"
+},
+{
+"kids":[],
+"uid":"3044899344",
+"parent":"zvqqZsglT",
+"text":"",
+"mid":"zvQ032VZ7",
+"date":"2013-05-09 03:03:52"
+},
+{
+"kids":[],
+"uid":"izaliang",
+"parent":"",
+"text":"数学老师死得早，恶意信息。1亿6000万/153万=104.5元",
+"mid":"zvMOpy0Yl",
+"date":"2013-05-08 18:56:56"
+},
+{
+"kids":[],
+"uid":"2610686585",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvKe14pAM",
+"date":"2013-05-08 12:21:48"
+},
+{
+"kids":[],
+"uid":"2920506812",
+"parent":"zvqqZsglT",
+"text":"",
+"mid":"zvGMi1iSQ",
+"date":"2013-05-08 03:35:15"
+},
+{
+"kids":[],
+"uid":"2790048832",
+"parent":"zvqqZsglT",
+"text":"",
+"mid":"zvGMi1iR1",
+"date":"2013-05-08 03:35:15"
+},
+{
+"kids":[],
+"uid":"2920485084",
+"parent":"zvtb24MBT",
+"text":"",
+"mid":"zvGw6f89s",
+"date":"2013-05-08 02:55:22"
+},
+{
+"kids":[],
+"uid":"2920065364",
+"parent":"zvtb24MBT",
+"text":"",
+"mid":"zvGw6eGed",
+"date":"2013-05-08 02:55:22"
+},
+{
+"kids":[],
+"uid":"2685080694",
+"parent":"",
+"text":"真有嘎多啊。那是要查查用到那里了。",
+"mid":"zvzABFhOU",
+"date":"2013-05-07 09:17:14"
+},
+{
+"kids":[],
+"uid":"2957325460",
+"parent":"",
+"text":"实事求是、不要恶搞好吗？我们民族是伟大的！",
+"mid":"zvzwyvcoO",
+"date":"2013-05-07 09:07:16"
+},
+{
+"kids":[],
+"uid":"1930927243",
+"parent":"zvlGQkNHl",
+"text":"",
+"mid":"zvztqoF43",
+"date":"2013-05-07 08:59:32"
+},
+{
+"kids":[],
+"uid":"1875295695",
+"parent":"zvvk23jwS",
+"text":"",
+"mid":"zvz3cz2j8",
+"date":"2013-05-07 07:54:56"
+},
+{
+"kids":[],
+"uid":"koala87",
+"parent":"zvmES0Oib",
+"text":"求捐款总额、去向？",
+"mid":"zvyw396Kh",
+"date":"2013-05-07 06:33:16"
+},
+{
+"kids":[],
+"uid":"2807894640",
+"parent":"zvsEKEolz",
+"text":"",
+"mid":"zvxqfru8U",
+"date":"2013-05-07 03:46:14"
+},
+{
+"kids":[],
+"uid":"1583858717",
+"parent":"zvrzIfNus",
+"text":"",
+"mid":"zvxdUr6Pv",
+"date":"2013-05-07 03:15:49"
+},
+{
+"kids":[],
+"uid":"3044308140",
+"parent":"zvlYCtcxZ",
+"text":"",
+"mid":"zvwUe4PJG",
+"date":"2013-05-07 02:27:20"
+},
+{
+"kids":[],
+"uid":"3044011024",
+"parent":"zvlYCtcxZ",
+"text":"",
+"mid":"zvwUe3MOE",
+"date":"2013-05-07 02:27:20"
+},
+{
+"kids":[],
+"uid":"2919563102",
+"parent":"zvt2ZfF7H",
+"text":"",
+"mid":"zvwH79jOG",
+"date":"2013-05-07 01:55:01"
+},
+{
+"kids":[],
+"uid":"2803633712",
+"parent":"zvt2ZfF7H",
+"text":"",
+"mid":"zvwH6xG7m",
+"date":"2013-05-07 01:55:01"
+},
+{
+"kids":[],
+"uid":"2810844272",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zvwxR2eVw",
+"date":"2013-05-07 01:32:13"
+},
+{
+"kids":[],
+"uid":"2804931812",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zvwxR2eTL",
+"date":"2013-05-07 01:32:13"
+},
+{
+"kids":[],
+"uid":"2810316704",
+"parent":"zvmiJqQRe",
+"text":"",
+"mid":"zvwr85nhC",
+"date":"2013-05-07 01:15:39"
+},
+{
+"kids":[],
+"uid":"caesarcomeback",
+"parent":"",
+"text":"人嘛，有理性而不唯理性，你懂的",
+"mid":"zvvNT17MF",
+"date":"2013-05-06 23:38:55"
+},
+{
+"kids":[],
+"uid":"2082386373",
+"parent":"zvlpV2Rhd",
+"text":"小学数学老师死的早[偷笑]",
+"mid":"zvvN8Clq1",
+"date":"2013-05-06 23:37:07"
+},
+{
+"kids":[],
+"uid":"2803962744",
+"parent":"",
+"text":"这数都算错，真难想象怎么当总裁的！",
+"mid":"zvvGn2IYs",
+"date":"2013-05-06 23:20:25"
+},
+{
+"kids":[],
+"uid":"3045137390",
+"parent":"zvmiJqQRe",
+"text":"",
+"mid":"zvvx5nKLz",
+"date":"2013-05-06 22:57:36"
+},
+{
+"kids":[],
+"uid":"3044705854",
+"parent":"zvmiJqQRe",
+"text":"",
+"mid":"zvvx5nKIc",
+"date":"2013-05-06 22:57:34"
+},
+{
+"kids":[],
+"uid":"2790038462",
+"parent":"zvsEKEolz",
+"text":"",
+"mid":"zvvk2k0Og",
+"date":"2013-05-06 22:25:25"
+},
+{
+"kids":[
+"zvz3cz2j8"
+],
+"uid":"1778082630",
+"parent":"zvsEKEolz",
+"text":"",
+"mid":"zvvk23jwS",
+"date":"2013-05-06 22:25:22"
+},
+{
+"kids":[],
+"uid":"3193495222",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvv9NksAV",
+"date":"2013-05-06 22:00:12"
+},
+{
+"kids":[],
+"uid":"1729006444",
+"parent":"zvmC5aUua",
+"text":"",
+"mid":"zvv3K2bvF",
+"date":"2013-05-06 21:45:17"
+},
+{
+"kids":[],
+"uid":"2883407324",
+"parent":"zvmH2aw7l",
+"text":"",
+"mid":"zvuIwuhbu",
+"date":"2013-05-06 20:53:01"
+},
+{
+"kids":[],
+"uid":"3209727380",
+"parent":"",
+"text":"",
+"mid":"zvuHS1k3j",
+"date":"2013-05-06 20:51:21"
+},
+{
+"kids":[],
+"uid":"2920357954",
+"parent":"zvrzIfNus",
+"text":"",
+"mid":"zvuHGuP4q",
+"date":"2013-05-06 20:50:57"
+},
+{
+"kids":[],
+"uid":"2789831714",
+"parent":"zvrzIfNus",
+"text":"",
+"mid":"zvuHGuP21",
+"date":"2013-05-06 20:50:57"
+},
+{
+"kids":[],
+"uid":"2919360692",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zvu8U0P0U",
+"date":"2013-05-06 19:25:15"
+},
+{
+"kids":[],
+"uid":"2804330824",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zvu8U0r2z",
+"date":"2013-05-06 19:25:15"
+},
+{
+"kids":[],
+"uid":"1776797653",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zvtEzcXNM",
+"date":"2013-05-06 18:10:31"
+},
+{
+"kids":[],
+"uid":"2920342194",
+"parent":"zvqwLDGMT",
+"text":"",
+"mid":"zvtEzcXLq",
+"date":"2013-05-06 18:10:31"
+},
+{
+"kids":[],
+"uid":"2126184081",
+"parent":"",
+"text":"数学就不吐槽了…就算博主是无心之失吧，雅安那地方，路都断了，基础设施要大面积重建好么，伤员还要住院动手术的好么，从什么时候起救灾就是分钱了？这个不叫义愤，是缺心眼儿吧……",
+"mid":"zvtvdq7HU",
+"date":"2013-05-06 17:47:29"
+},
+{
+"kids":[],
+"uid":"3197228557",
+"parent":"",
+"text":"就以这个数来说，虽然博主算错了，你们是算对了，但是真正用到他们身上的我估计人均不到10块！博主也是一时气愤，谁一辈子还没算错过几道数学题呢，顺便说一句，地产商也是黑的！",
+"mid":"zvtdssH7q",
+"date":"2013-05-06 17:03:44"
+},
+{
+"kids":[],
+"uid":"2102474407",
+"parent":"",
+"text":"",
+"mid":"zvtb2BG29",
+"date":"2013-05-06 16:57:47"
+},
+{
+"kids":[
+"zvR3MrEBh",
+"zvGw6f89s",
+"zvGw6eGed"
+],
+"uid":"w438306613",
+"parent":"zvmH2aw7l",
+"text":"还用说么",
+"mid":"zvtb24MBT",
+"date":"2013-05-06 16:57:43"
+},
+{
+"kids":[
+"zvwH79jOG",
+"zvwH6xG7m"
+],
+"uid":"3245869817",
+"parent":"zvl2dwwaH",
+"text":"回复@老兵over:不管对于错哪里真正的灾难人群没有那么多。这么多钱去哪了是个严重的问题，不解决好将来只会是言语的温暖",
+"mid":"zvt2ZfF7H",
+"date":"2013-05-06 16:37:57"
+},
+{
+"kids":[],
+"uid":"2804282894",
+"parent":"zvmoGvOLk",
+"text":"",
+"mid":"zvsQyAjHH",
+"date":"2013-05-06 16:07:19"
+},
+{
+"kids":[],
+"uid":"2919285290",
+"parent":"zvmoGvOLk",
+"text":"",
+"mid":"zvsQyAjFe",
+"date":"2013-05-06 16:07:17"
+},
+{
+"kids":[
+"zzwgQ8pQT",
+"zzwf1xSnX",
+"zzoRZ2r0L",
+"zwuypp4bY",
+"zwkLLpBWd",
+"zwkLLoo2c",
+"zvxqfru8U",
+"zvvk2k0Og",
+"zvvk23jwS"
+],
+"uid":"3308539257",
+"parent":"",
+"text":"",
+"mid":"zvsEKEolz",
+"date":"2013-05-06 15:38:12"
+},
+{
+"kids":[],
+"uid":"2358230475",
+"parent":"",
+"text":"[汗][汗]估计老总转发的时候马虎了。。。。",
+"mid":"zvsB0qO9F",
+"date":"2013-05-06 15:28:59"
+},
+{
+"kids":[],
+"uid":"Katyakatya",
+"parent":"",
+"text":"除出来结果不是104块么[衰]",
+"mid":"zvsAx8X7F",
+"date":"2013-05-06 15:27:49"
+},
+{
+"kids":[],
+"uid":"2787598845",
+"parent":"zvlJ7vrtS",
+"text":"",
+"mid":"zvsowuDVS",
+"date":"2013-05-06 14:58:15"
+},
+{
+"kids":[],
+"uid":"1371469531",
+"parent":"",
+"text":"呵呵，今年的公知们可大秀了一把智商，看看多少大V明星们转这个",
+"mid":"zvsnBcbsl",
+"date":"2013-05-06 14:55:58"
+},
+{
+"kids":[],
+"uid":"3274042465",
+"parent":"",
+"text":"",
+"mid":"zvsna1XZF",
+"date":"2013-05-06 14:54:51"
+},
+{
+"kids":[],
+"uid":"boean",
+"parent":"",
+"text":"普遍数学没学好",
+"mid":"zvsh8eRC8",
+"date":"2013-05-06 14:40:02"
+},
+{
+"kids":[],
+"uid":"1113998724",
+"parent":"",
+"text":"",
+"mid":"zvsgDepRj",
+"date":"2013-05-06 14:38:48"
+},
+{
+"kids":[],
+"uid":"1134164515",
+"parent":"",
+"text":"我很好奇他是如何成为一个房产商的……",
+"mid":"zvsbPCddD",
+"date":"2013-05-06 14:26:58"
+},
+{
+"kids":[],
+"uid":"liuyuejiayuan",
+"parent":"zvlGQkNHl",
+"text":"[偷笑]",
+"mid":"zvrCB3aIw",
+"date":"2013-05-06 13:00:10"
+},
+{
+"kids":[],
+"uid":"3050416885",
+"parent":"zvlCMwQcT",
+"text":"",
+"mid":"zvrCtm1Go",
+"date":"2013-05-06 12:59:52"
+},
+{
+"kids":[
+"zvxdUr6Pv",
+"zvuHGuP4q",
+"zvuHGuP21"
+],
+"uid":"3283073702",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvrzIfNus",
+"date":"2013-05-06 12:53:04"
+},
+{
+"kids":[],
+"uid":"1974560045",
+"parent":"",
+"text":"这位搞房地产的老兄的数学老师立马吐血。105万乘以150万人等于？？？",
+"mid":"zvru3vahK",
+"date":"2013-05-06 12:39:08"
+},
+{
+"kids":[],
+"uid":"1809262955",
+"parent":"",
+"text":"看回复居然有很多人对这种明显的错误还深信不疑，可以想见新浪微博的玩家智商水平",
+"mid":"zvrpyAwwQ",
+"date":"2013-05-06 12:28:03"
+},
+{
+"kids":[],
+"uid":"1284147304",
+"parent":"zvmDw7heZ",
+"text":"亲爱的用户，微博：http:",
+"mid":"zvrcAfHOG",
+"date":"2013-05-06 11:56:05"
+},
+{
+"kids":[],
+"uid":"2210506992",
+"parent":"zvlpV2Rhd",
+"text":"但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvr5jlsjy",
+"date":"2013-05-06 11:38:09"
+},
+{
+"kids":[],
+"uid":"1933213307",
+"parent":"zvmDxi7Ks",
+"text":"我没教他，如果是我学生，早罚抄100万100万遍。丢不起这人[怒]",
+"mid":"zvqL8fWps",
+"date":"2013-05-06 10:48:27"
+},
+{
+"kids":[],
+"uid":"206565066",
+"parent":"",
+"text":"原来还真有人信这个啊，今天早上就听到有人在说雅安现在都是百万富翁了！[吃惊]",
+"mid":"zvqHYC4XL",
+"date":"2013-05-06 10:40:40"
+},
+{
+"kids":[],
+"uid":"2550249962",
+"parent":"",
+"text":"sb！是105元，不是105万，还是啥董事长，丢屁股了",
+"mid":"zvqE2hHOo",
+"date":"2013-05-06 10:30:56"
+},
+{
+"kids":[],
+"uid":"hemaocheng",
+"parent":"zvq32kK42",
+"text":"小学老师我给你丢脸了",
+"mid":"zvqzQcQbo",
+"date":"2013-05-06 10:20:36"
+},
+{
+"kids":[],
+"uid":"2594383390",
+"parent":"",
+"text":"",
+"mid":"zvqyasDLI",
+"date":"2013-05-06 10:16:31"
+},
+{
+"kids":[
+"zzGUL8zk5",
+"zzFNfEWcO",
+"zyUgO0XRU",
+"zyUbj0X3V",
+"zyOqK3yC7",
+"zxewGE2Ft",
+"zxewGmrvm",
+"zwMfdi7NV",
+"zwMfdgJNV",
+"zwkkL9o4z",
+"zwkkL9nnI",
+"zw11Nvhuh",
+"zw11NvhrO",
+"zvwxR2eVw",
+"zvwxR2eTL",
+"zvu8U0P0U",
+"zvu8U0r2z",
+"zvtEzcXNM",
+"zvtEzcXLq"
+],
+"uid":"3423527804",
+"parent":"",
+"text":"",
+"mid":"zvqwLDGMT",
+"date":"2013-05-06 10:13:04"
+},
+{
+"kids":[],
+"uid":"2680897724",
+"parent":"zvpPPcQzt",
+"text":"",
+"mid":"zvquhEJf1",
+"date":"2013-05-06 10:06:57"
+},
+{
+"kids":[],
+"uid":"3285486762",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvqte3GY5",
+"date":"2013-05-06 10:04:20"
+},
+{
+"kids":[
+"zvQ032VZ7",
+"zvGMi1iSQ",
+"zvGMi1iR1"
+],
+"uid":"1798901820",
+"parent":"zvl2dwwaH",
+"text":"[怒]是啊！钱呢？",
+"mid":"zvqqZsglT",
+"date":"2013-05-06 09:58:50"
+},
+{
+"kids":[],
+"uid":"2059750411",
+"parent":"zvm1Dx8jN",
+"text":"一算吓一跳",
+"mid":"zvqoIeM8o",
+"date":"2013-05-06 09:53:12"
+},
+{
+"kids":[],
+"uid":"2568221224",
+"parent":"zvm0NgG2N",
+"text":"",
+"mid":"zvqogsE8C",
+"date":"2013-05-06 09:52:06"
+},
+{
+"kids":[],
+"uid":"1729056914",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvqnTp0hF",
+"date":"2013-05-06 09:51:12"
+},
+{
+"kids":[],
+"uid":"1863592071",
+"parent":"zvqltB07X",
+"text":"",
+"mid":"zvqnj4gzC",
+"date":"2013-05-06 09:49:44"
+},
+{
+"kids":[
+"zvqnj4gzC"
+],
+"uid":"lovesh",
+"parent":"",
+"text":"数死早。。。。。。。。。。",
+"mid":"zvqltB07X",
+"date":"2013-05-06 09:45:14"
+},
+{
+"kids":[],
+"uid":"littlegirlhouse",
+"parent":"",
+"text":"",
+"mid":"zvqlfrvjj",
+"date":"2013-05-06 09:44:41"
+},
+{
+"kids":[],
+"uid":"2534417890",
+"parent":"zvmKc7bss",
+"text":"",
+"mid":"zvqkUoSgT",
+"date":"2013-05-06 09:43:51"
+},
+{
+"kids":[],
+"uid":"3200491095",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvqeXnEnZ",
+"date":"2013-05-06 09:29:11"
+},
+{
+"kids":[],
+"uid":"lawyerzsh",
+"parent":"zvq8Ah8AN",
+"text":"[哈哈]",
+"mid":"zvqaV6Dp0",
+"date":"2013-05-06 09:19:14"
+},
+{
+"kids":[],
+"uid":"2985718000",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvqaGjU3r",
+"date":"2013-05-06 09:18:38"
+},
+{
+"kids":[],
+"uid":"2044213525",
+"parent":"",
+"text":"小学三年级没有念完就跑到网络上晒智商。用脚算账，也知道一亿六千万除以153万，得数是105左右。",
+"mid":"zvq9YxFs3",
+"date":"2013-05-06 09:16:54"
+},
+{
+"kids":[],
+"uid":"3286436800",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvq9K6FcY",
+"date":"2013-05-06 09:16:19"
+},
+{
+"kids":[
+"zvqaV6Dp0"
+],
+"uid":"1324271603",
+"parent":"zvmCoF1Sb",
+"text":"回复@五月芬芳:激情还需理性，不然会闹出笑话，影响你的预设立场。",
+"mid":"zvq8Ah8AN",
+"date":"2013-05-06 09:13:29"
+},
+{
+"kids":[],
+"uid":"gioneev6200",
+"parent":"zvlpV2Rhd",
+"text":"数学不好可怎么办啊！",
+"mid":"zvq7C1hXa",
+"date":"2013-05-06 09:11:05"
+},
+{
+"kids":[],
+"uid":"1502283964",
+"parent":"",
+"text":"你数学在统计局学的吧。。。。",
+"mid":"zvq7gsNvX",
+"date":"2013-05-06 09:10:13"
+},
+{
+"kids":[],
+"uid":"2463464432",
+"parent":"",
+"text":"数学来老师给你气死了",
+"mid":"zvq6JAHqp",
+"date":"2013-05-06 09:08:56"
+},
+{
+"kids":[],
+"uid":"206278585",
+"parent":"",
+"text":"你这小学数学是体育老师教的吧？",
+"mid":"zvq6GlLTC",
+"date":"2013-05-06 09:08:47"
+},
+{
+"kids":[],
+"uid":"wxxiaoshutong",
+"parent":"",
+"text":"人民喜闻乐见的数体教系列。挂！",
+"mid":"zvq6ufXF4",
+"date":"2013-05-06 09:08:19"
+},
+{
+"kids":[],
+"uid":"chinadaxiongmao",
+"parent":"zvm9Ctsi1",
+"text":"浮躁的群体！",
+"mid":"zvq5Me5e7",
+"date":"2013-05-06 09:06:34"
+},
+{
+"kids":[],
+"uid":"1269728775",
+"parent":"zvpPPcQzt",
+"text":"计算错误",
+"mid":"zvq5HxBM2",
+"date":"2013-05-06 09:06:23"
+},
+{
+"kids":[],
+"uid":"1741620757",
+"parent":"zvq30ifQ7",
+"text":"国人的悲哀",
+"mid":"zvq5y5e5n",
+"date":"2013-05-06 09:05:59"
+},
+{
+"kids":[
+"zvqzQcQbo"
+],
+"uid":"1785504581",
+"parent":"zvq294rud",
+"text":"不算不知道，一算吓一跳！钱都去哪里啦？",
+"mid":"zvq32kK42",
+"date":"2013-05-06 08:59:49"
+},
+{
+"kids":[
+"zvq5y5e5n"
+],
+"uid":"2004changhe",
+"parent":"zvmES0Oib",
+"text":"数学老师死得早啊[衰]",
+"mid":"zvq30ifQ7",
+"date":"2013-05-06 08:59:44"
+},
+{
+"kids":[],
+"uid":"1627913374",
+"parent":"",
+"text":"艹了，这明显计算错误哦。",
+"mid":"zvq2guKFC",
+"date":"2013-05-06 08:57:55"
+},
+{
+"kids":[
+"zvq32kK42"
+],
+"uid":"2373023472",
+"parent":"",
+"text":"那人是个煞笔",
+"mid":"zvq294rud",
+"date":"2013-05-06 08:57:37"
+},
+{
+"kids":[],
+"uid":"zcx95",
+"parent":"zvpHa1Wbc",
+"text":"请公布钱的去向",
+"mid":"zvq26puwI",
+"date":"2013-05-06 08:57:31"
+},
+{
+"kids":[],
+"uid":"1940970425",
+"parent":"zvlGQkNHl",
+"text":"已经入了人地个碗度啦！",
+"mid":"zvq0xwHw5",
+"date":"2013-05-06 08:53:39"
+},
+{
+"kids":[],
+"uid":"2173502511",
+"parent":"",
+"text":"@seeunextlife 这人小学几年级毕业？",
+"mid":"zvpZAnHrL",
+"date":"2013-05-06 08:51:18"
+},
+{
+"kids":[],
+"uid":"3193419310",
+"parent":"zvmKc7bss",
+"text":"",
+"mid":"zvpXN0vXZ",
+"date":"2013-05-06 08:46:53"
+},
+{
+"kids":[],
+"uid":"2160978983",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvpUhuyLY",
+"date":"2013-05-06 08:38:14"
+},
+{
+"kids":[],
+"uid":"1815422252",
+"parent":"zvlpV2Rhd",
+"text":"哈哈，1亿六除153万等于105元 。。。",
+"mid":"zvpQZCCgw",
+"date":"2013-05-06 08:30:09"
+},
+{
+"kids":[
+"zvquhEJf1",
+"zvq5HxBM2"
+],
+"uid":"1580899165",
+"parent":"zvlGEvp7I",
+"text":"",
+"mid":"zvpPPcQzt",
+"date":"2013-05-06 08:27:15"
+},
+{
+"kids":[],
+"uid":"1790688627",
+"parent":"zvlpV2Rhd",
+"text":"究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvpJFrY32",
+"date":"2013-05-06 08:12:06"
+},
+{
+"kids":[],
+"uid":"2153245547",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvpHZpWVZ",
+"date":"2013-05-06 08:07:58"
+},
+{
+"kids":[
+"zvq26puwI"
+],
+"uid":"llq1985",
+"parent":"zvmvQnWyj",
+"text":"突然在政府认为民间预测地震是违法的这个问题的认识上有了豁然开朗的赶脚。。",
+"mid":"zvpHa1Wbc",
+"date":"2013-05-06 08:05:55"
+},
+{
+"kids":[],
+"uid":"2160071093",
+"parent":"zvmuq1aMj",
+"text":"[吃惊][吃惊][吃惊]",
+"mid":"zvpFntkzr",
+"date":"2013-05-06 08:01:32"
+},
+{
+"kids":[],
+"uid":"2966599113",
+"parent":"zvlGQkNHl",
+"text":"他是总裁？种菜的吧",
+"mid":"zvpEonn9X",
+"date":"2013-05-06 07:59:06"
+},
+{
+"kids":[],
+"uid":"1147794554",
+"parent":"zvlHiDcC6",
+"text":"这数学题我家墨要是做成这样又该挨打了[汗]",
+"mid":"zvpBPlbAi",
+"date":"2013-05-06 07:52:47"
+},
+{
+"kids":[],
+"uid":"kunbest",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvpBJ9RUp",
+"date":"2013-05-06 07:52:32"
+},
+{
+"kids":[],
+"uid":"2193671824",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvpxkpLyY",
+"date":"2013-05-06 07:41:42"
+},
+{
+"kids":[],
+"uid":"xiaoguiwuzi",
+"parent":"zvlQ5yUfh",
+"text":"@张颐武:可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的就是恶毒",
+"mid":"zvpuuC7FY",
+"date":"2013-05-06 07:34:42"
+},
+{
+"kids":[],
+"uid":"1144989674",
+"parent":"zvnpsqjJX",
+"text":"[偷笑]",
+"mid":"zvpsAFRhn",
+"date":"2013-05-06 07:30:02"
+},
+{
+"kids":[],
+"uid":"312450222",
+"parent":"",
+"text":"艹",
+"mid":"zvppmDu4u",
+"date":"2013-05-06 07:22:04"
+},
+{
+"kids":[],
+"uid":"231600434",
+"parent":"zvp9Rr8Ne",
+"text":"",
+"mid":"zvpdTpXbl",
+"date":"2013-05-06 06:53:49"
+},
+{
+"kids":[],
+"uid":"2387035927",
+"parent":"zvmuq1aMj",
+"text":"这数学是英语老师教的吧。",
+"mid":"zvpchwlWy",
+"date":"2013-05-06 06:49:51"
+},
+{
+"kids":[],
+"uid":"abcd01234",
+"parent":"zvmC5aUua",
+"text":"我想问候你数学老师",
+"mid":"zvpabdv0M",
+"date":"2013-05-06 06:44:39"
+},
+{
+"kids":[
+"zvpdTpXbl"
+],
+"uid":"1496763724",
+"parent":"zvmC5aUua",
+"text":"",
+"mid":"zvp9Rr8Ne",
+"date":"2013-05-06 06:43:53"
+},
+{
+"kids":[],
+"uid":"limijd",
+"parent":"zvmES0Oib",
+"text":"哥们卖房子的时候可别这么算，体育老师表示鸭梨很大",
+"mid":"zvp4z7tPA",
+"date":"2013-05-06 06:30:50"
+},
+{
+"kids":[],
+"uid":"1400392975",
+"parent":"zvnpsqjJX",
+"text":"小学老师该打",
+"mid":"zvp1g2PD1",
+"date":"2013-05-06 06:22:41"
+},
+{
+"kids":[],
+"uid":"1229513961",
+"parent":"zvlpV2Rhd",
+"text":"算错了吧，每个人105元",
+"mid":"zvoSMFJjB",
+"date":"2013-05-06 06:01:49"
+},
+{
+"kids":[],
+"uid":"2719007434",
+"parent":"zvl3Oe8NK",
+"text":"现在的社会。",
+"mid":"zvoRcgOn7",
+"date":"2013-05-06 05:57:53"
+},
+{
+"kids":[],
+"uid":"3214447710",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvoN1rDON",
+"date":"2013-05-06 05:47:36"
+},
+{
+"kids":[],
+"uid":"3172532115",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvoKQ4Zw9",
+"date":"2013-05-06 05:42:13"
+},
+{
+"kids":[],
+"uid":"1850391997",
+"parent":"zvmyoqfOf",
+"text":"数学是体育老师交的吧←_←",
+"mid":"zvoaK4nrl",
+"date":"2013-05-06 04:13:18"
+},
+{
+"kids":[],
+"uid":"2190161775",
+"parent":"zvmuq1aMj",
+"text":"钱哪？",
+"mid":"zvnXwBTt7",
+"date":"2013-05-06 03:40:45"
+},
+{
+"kids":[],
+"uid":"1846286355",
+"parent":"zvlrPbd8q",
+"text":"烧了",
+"mid":"zvnIj8EDf",
+"date":"2013-05-06 03:03:15"
+},
+{
+"kids":[],
+"uid":"2307038284",
+"parent":"zvlpV2Rhd",
+"text":"乖，这神一样的数学。",
+"mid":"zvnGNb0YN",
+"date":"2013-05-06 02:59:31"
+},
+{
+"kids":[
+"zvpsAFRhn",
+"zvp1g2PD1"
+],
+"uid":"aconquija",
+"parent":"zvmJCE5ya",
+"text":"又一个数学不及格的。",
+"mid":"zvnpsqjJX",
+"date":"2013-05-06 02:16:49"
+},
+{
+"kids":[],
+"uid":"3299496211",
+"parent":"zvl2dwwaH",
+"text":"捐钱可以，不通过任何人任何机构。",
+"mid":"zvnjYDO60",
+"date":"2013-05-06 02:03:19"
+},
+{
+"kids":[],
+"uid":"kiyobaba",
+"parent":"",
+"text":"捐钱的就是发个广告，也没指望能到个人手里",
+"mid":"zvnfYspF1",
+"date":"2013-05-06 01:53:26"
+},
+{
+"kids":[],
+"uid":"2787598845",
+"parent":"zvlGQkNHl",
+"text":"",
+"mid":"zvn9AbGi9",
+"date":"2013-05-06 01:37:42"
+},
+{
+"kids":[],
+"uid":"1807848360",
+"parent":"zvlGQkNHl",
+"text":"[顶][顶]",
+"mid":"zvn7DkeU1",
+"date":"2013-05-06 01:32:53"
+},
+{
+"kids":[],
+"uid":"1876064081",
+"parent":"zvm1Dx8jN",
+"text":"",
+"mid":"zvn7x9Jox",
+"date":"2013-05-06 01:32:39"
+},
+{
+"kids":[],
+"uid":"aaaaaaamie",
+"parent":"zvlBBe8DY",
+"text":"哈哈哈哈哈哈哈哈给给跪了！！！",
+"mid":"zvn4Kz761",
+"date":"2013-05-06 01:25:48"
+},
+{
+"kids":[],
+"uid":"2804466424",
+"parent":"zvmoz7ySY",
+"text":"",
+"mid":"zvn1po2Aq",
+"date":"2013-05-06 01:17:34"
+},
+{
+"kids":[],
+"uid":"2354439721",
+"parent":"zvmuq1aMj",
+"text":"",
+"mid":"zvn0bbggm",
+"date":"2013-05-06 01:14:32"
+},
+{
+"kids":[],
+"uid":"2019579173",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmW03oz4",
+"date":"2013-05-06 01:04:14"
+},
+{
+"kids":[],
+"uid":"2804900237",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvmVodjwX",
+"date":"2013-05-06 01:02:44"
+},
+{
+"kids":[],
+"uid":"1723921657",
+"parent":"",
+"text":"",
+"mid":"zvmQ51C6O",
+"date":"2013-05-06 00:49:39"
+},
+{
+"kids":[],
+"uid":"2919284182",
+"parent":"",
+"text":"",
+"mid":"zvmQ51C4U",
+"date":"2013-05-06 00:49:38"
+},
+{
+"kids":[],
+"uid":"wm0819",
+"parent":"zvlpV2Rhd",
+"text":"大部分应该用于基础建设吧，不是简单地分给所有受灾人民吧。",
+"mid":"zvmPXmMok",
+"date":"2013-05-06 00:49:21"
+},
+{
+"kids":[],
+"uid":"1880452120",
+"parent":"zvmvQnWyj",
+"text":"[衰]",
+"mid":"zvmNVc3Ex",
+"date":"2013-05-06 00:44:17"
+},
+{
+"kids":[],
+"uid":"2696885214",
+"parent":"zvlHb0Ejq",
+"text":"在某些人口袋里",
+"mid":"zvmNz0QFq",
+"date":"2013-05-06 00:43:27"
+},
+{
+"kids":[],
+"uid":"ttoonnyy",
+"parent":"zvm3FFUFH",
+"text":"",
+"mid":"zvmMOikrE",
+"date":"2013-05-06 00:41:37"
+},
+{
+"kids":[],
+"uid":"2646845147",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvmLGhQOl",
+"date":"2013-05-06 00:38:49"
+},
+{
+"kids":[],
+"uid":"zhangshuaizhen",
+"parent":"",
+"text":"营销贴。",
+"mid":"zvmLjxnqm",
+"date":"2013-05-06 00:37:54"
+},
+{
+"kids":[
+"zvqkUoSgT",
+"zvpXN0vXZ"
+],
+"uid":"2046616653",
+"parent":"zvmAdDSNJ",
+"text":"理性分析，不信谣，不传谣。多做踏实的正能量。",
+"mid":"zvmKc7bss",
+"date":"2013-05-06 00:35:09"
+},
+{
+"kids":[
+"zvnpsqjJX"
+],
+"uid":"gamalot",
+"parent":"zvmAC92Fe",
+"text":"作老总的，货币单位永远是万元",
+"mid":"zvmJCE5ya",
+"date":"2013-05-06 00:33:44"
+},
+{
+"kids":[],
+"uid":"2045605051",
+"parent":"zvlGQkNHl",
+"text":"肯定是老板号被盗啦",
+"mid":"zvmJnvVHO",
+"date":"2013-05-06 00:33:08"
+},
+{
+"kids":[],
+"uid":"uc73659930",
+"parent":"zvm0c0GCY",
+"text":"代表了一部分人的心里，不愧为搞买卖的，不愧为搞土地的，不愧为搞地产的，不愧为搞空手道的！是不是地产商都这么算？都这么忽悠？",
+"mid":"zvmJcBUfy",
+"date":"2013-05-06 00:32:43"
+},
+{
+"kids":[],
+"uid":"pypwb",
+"parent":"",
+"text":"160000000/1530000=104.57163398元呀！煞笔大哥？[疑问]你小学程度不够吗？四舍五入人均105元！[偷笑]",
+"mid":"zvmJc2HNe",
+"date":"2013-05-06 00:32:42"
+},
+{
+"kids":[],
+"uid":"2383045477",
+"parent":"",
+"text":"傻X秀上限",
+"mid":"zvmIMksM3",
+"date":"2013-05-06 00:31:37"
+},
+{
+"kids":[],
+"uid":"mingjun",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmHGCtzU",
+"date":"2013-05-06 00:28:57"
+},
+{
+"kids":[
+"zvuIwuhbu",
+"zvtb24MBT"
+],
+"uid":"duanweiyi",
+"parent":"zvlMfDFuY",
+"text":"",
+"mid":"zvmH2aw7l",
+"date":"2013-05-06 00:27:19"
+},
+{
+"kids":[],
+"uid":"1839428942",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmGOiKPo",
+"date":"2013-05-06 00:26:48"
+},
+{
+"kids":[],
+"uid":"anny917",
+"parent":"",
+"text":"钱呢钱呢？他们真的捐了？是企业空头支票？收款人呢？",
+"mid":"zvmGD67dc",
+"date":"2013-05-06 00:26:21"
+},
+{
+"kids":[],
+"uid":"1914979601",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmFWwfl3",
+"date":"2013-05-06 00:24:42"
+},
+{
+"kids":[],
+"uid":"icekiss520",
+"parent":"zvmCoF1Sb",
+"text":"",
+"mid":"zvmFiCaBH",
+"date":"2013-05-06 00:23:06"
+},
+{
+"kids":[],
+"uid":"2808503010",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmETdgA8",
+"date":"2013-05-06 00:22:05"
+},
+{
+"kids":[
+"zvyw396Kh",
+"zvq30ifQ7",
+"zvp4z7tPA"
+],
+"uid":"1885104607",
+"parent":"zvm4wBsyu",
+"text":"捉急",
+"mid":"zvmES0Oib",
+"date":"2013-05-06 00:22:02"
+},
+{
+"kids":[],
+"uid":"1086243500",
+"parent":"",
+"text":"",
+"mid":"zvmEh6LKC",
+"date":"2013-05-06 00:20:31"
+},
+{
+"kids":[],
+"uid":"2647181780",
+"parent":"zvlpV2Rhd",
+"text":"1亿6千万平均分给153万人每个人是105万左右？你小学数学是自学的吧？",
+"mid":"zvmEepGlU",
+"date":"2013-05-06 00:20:27"
+},
+{
+"kids":[],
+"uid":"1703671917",
+"parent":"zvmCoF1Sb",
+"text":"唉，这算术",
+"mid":"zvmE4lPGZ",
+"date":"2013-05-06 00:20:04"
+},
+{
+"kids":[
+"zvqL8fWps"
+],
+"uid":"1891108197",
+"parent":"zvmAdDSNJ",
+"text":"这人数学是语文老师教的………",
+"mid":"zvmDxi7Ks",
+"date":"2013-05-06 00:18:41"
+},
+{
+"kids":[
+"zvrcAfHOG"
+],
+"uid":"1284147304",
+"parent":"zvmym6vb4",
+"text":"发表观点要慎重，不要误导别人。",
+"mid":"zvmDw7heZ",
+"date":"2013-05-06 00:18:43"
+},
+{
+"kids":[],
+"uid":"kdsmazda",
+"parent":"zvmC5aUua",
+"text":"游客你数学不大好啊[哈哈][哈哈]",
+"mid":"zvmDu3b6Y",
+"date":"2013-05-06 00:18:34"
+},
+{
+"kids":[],
+"uid":"mehoo",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmCC0CG1",
+"date":"2013-05-06 00:16:26"
+},
+{
+"kids":[
+"zw6YlzUiB",
+"zvQoY9JWz",
+"zvQoY9JV0"
+],
+"uid":"1738937304",
+"parent":"",
+"text":"微博上每天都有些欢乐的事情，对此我只想说撸啊撸啊德玛西亚",
+"mid":"zvmCBnECL",
+"date":"2013-05-06 00:16:25"
+},
+{
+"kids":[
+"zvq8Ah8AN",
+"zvmFiCaBH",
+"zvmE4lPGZ"
+],
+"uid":"1324271603",
+"parent":"zvmuq1aMj",
+"text":"算术没学好吧？1.6亿153万人分，每人只有100元多一点！",
+"mid":"zvmCoF1Sb",
+"date":"2013-05-06 00:15:57"
+},
+{
+"kids":[],
+"uid":"luwusi",
+"parent":"",
+"text":"差点被温总给迷惑了。",
+"mid":"zvmCmz6NJ",
+"date":"2013-05-06 00:15:53"
+},
+{
+"kids":[
+"zvv3K2bvF",
+"zvpabdv0M",
+"zvp9Rr8Ne",
+"zvmDu3b6Y"
+],
+"uid":"1057896681",
+"parent":"",
+"text":"强力转发！",
+"mid":"zvmC5aUua",
+"date":"2013-05-06 00:15:08"
+},
+{
+"kids":[],
+"uid":"1142086141",
+"parent":"zvlGQkNHl",
+"text":"",
+"mid":"zvmBjzjRg",
+"date":"2013-05-06 00:13:17"
+},
+{
+"kids":[],
+"uid":"1951846331",
+"parent":"",
+"text":"别这么说清洁阿姨会伤心的，数学学不好没什么人傻还又爱瞎嚷嚷又有什么错呢，问题是看第一眼的时候我真的信了",
+"mid":"zvmAWxQuX",
+"date":"2013-05-06 00:12:21"
+},
+{
+"kids":[
+"zvmJCE5ya"
+],
+"uid":"mcjeon",
+"parent":"zvmvK84m2",
+"text":"唉，右边都中计了，PO主不过是给自己的房地产公司做了个广告而已。。。",
+"mid":"zvmAC92Fe",
+"date":"2013-05-06 00:11:31"
+},
+{
+"kids":[
+"zvmKc7bss",
+"zvmDxi7Ks"
+],
+"uid":"817571666",
+"parent":"",
+"text":"你这零也多太多了……105块能算成105万，还加V呢…",
+"mid":"zvmAdDSNJ",
+"date":"2013-05-06 00:10:33"
+},
+{
+"kids":[],
+"uid":"1104233035",
+"parent":"zvmvK84m2",
+"text":"还是总裁呢。。。",
+"mid":"zvmyrrRqZ",
+"date":"2013-05-06 00:06:07"
+},
+{
+"kids":[
+"zvoaK4nrl"
+],
+"uid":"2235688450",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmyoqfOf",
+"date":"2013-05-06 00:06:05"
+},
+{
+"kids":[
+"zvmDw7heZ"
+],
+"uid":"1284147304",
+"parent":"zvmx8qqpW",
+"text":"算上两位小数是104.57元每人。我可以饶恕你没有上过学。",
+"mid":"zvmym6vb4",
+"date":"2013-05-06 00:05:57"
+},
+{
+"kids":[],
+"uid":"277778517",
+"parent":"zvlGQkNHl",
+"text":"[鼓掌][鼓掌][鼓掌]",
+"mid":"zvmxXijZj",
+"date":"2013-05-06 00:05:00"
+},
+{
+"kids":[
+"zvmym6vb4"
+],
+"uid":"1284147304",
+"parent":"zvmnzmQ2t",
+"text":"怎么算的，我算的是105Yuan RMB/Person ，难道我的算术有问题。",
+"mid":"zvmx8qqpW",
+"date":"2013-05-06 00:02:57"
+},
+{
+"kids":[],
+"uid":"carterblue",
+"parent":"",
+"text":"上税了！",
+"mid":"zvmwYFcvl",
+"date":"2013-05-06 00:02:36"
+},
+{
+"kids":[],
+"uid":"fenggy",
+"parent":"",
+"text":"微信上好多人转这条，我很纳闷是那个小学数学不及格的人编出来的，还有一堆数学不及格的人跟着转。",
+"mid":"zvmwOFecj",
+"date":"2013-05-06 00:02:10"
+},
+{
+"kids":[],
+"uid":"shizhuxin",
+"parent":"",
+"text":"",
+"mid":"zvmwjDljc",
+"date":"2013-05-06 00:00:55"
+},
+{
+"kids":[],
+"uid":"576009969",
+"parent":"zvmuq1aMj",
+"text":"话说我也想过这么个问题，一个小县城需要这么多捐款？开神马玩笑！据说有的钱被用做救灾预备金神马的了，可为啥没听说预备金发挥效果了？还胖全国民众给个小县城捐款？坑爹坑大爷！！",
+"mid":"zvmwcxO2K",
+"date":"2013-05-06 00:00:37"
+},
+{
+"kids":[
+"zvpHa1Wbc",
+"zvmNVc3Ex"
+],
+"uid":"jordan23xc",
+"parent":"",
+"text":"[挖鼻屎]",
+"mid":"zvmvQnWyj",
+"date":"2013-05-05 23:59:48"
+},
+{
+"kids":[
+"zvmAC92Fe",
+"zvmyrrRqZ"
+],
+"uid":"1404092810",
+"parent":"zvmnzmQ2t",
+"text":"数学都是体育老师教的，哎",
+"mid":"zvmvK84m2",
+"date":"2013-05-05 23:59:30"
+},
+{
+"kids":[],
+"uid":"1793828967",
+"parent":"",
+"text":"带V的傻西你学下计数先啦",
+"mid":"zvmvymgPN",
+"date":"2013-05-05 23:59:03"
+},
+{
+"kids":[],
+"uid":"1402298375",
+"parent":"zvlAdxxU0",
+"text":"1.6亿除以153万，好像是105块唉。",
+"mid":"zvmvjewb8",
+"date":"2013-05-05 23:58:29"
+},
+{
+"kids":[],
+"uid":"2429412862",
+"parent":"zvmuq1aMj",
+"text":"一群SB在捐钱。",
+"mid":"zvmveg8mU",
+"date":"2013-05-05 23:58:17"
+},
+{
+"kids":[],
+"uid":"3085802821",
+"parent":"zvmuq1aMj",
+"text":"",
+"mid":"zvmuZryRP",
+"date":"2013-05-05 23:57:41"
+},
+{
+"kids":[],
+"uid":"2182171507",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmuIE3sk",
+"date":"2013-05-05 23:56:59"
+},
+{
+"kids":[],
+"uid":"1721296745",
+"parent":"zvl2dwwaH",
+"text":"[浮云]",
+"mid":"zvmuA2Tnw",
+"date":"2013-05-05 23:56:38"
+},
+{
+"kids":[
+"zvpFntkzr",
+"zvpchwlWy",
+"zvnXwBTt7",
+"zvn0bbggm",
+"zvmCoF1Sb",
+"zvmwcxO2K",
+"zvmveg8mU",
+"zvmuZryRP"
+],
+"uid":"313928666",
+"parent":"zvlpV2Rhd",
+"text":"惟恐天下不乱，才是他们真正的目的。[兔子]",
+"mid":"zvmuq1aMj",
+"date":"2013-05-05 23:56:17"
+},
+{
+"kids":[],
+"uid":"lumiaon",
+"parent":"",
+"text":"各位小点声，别惊动了这个250，删了贴。 让它存活再久一些 [偷笑]",
+"mid":"zvmsUAQaE",
+"date":"2013-05-05 23:52:35"
+},
+{
+"kids":[],
+"uid":"2416562161",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvmsTr7mi",
+"date":"2013-05-05 23:52:29"
+},
+{
+"kids":[],
+"uid":"3129760071",
+"parent":"",
+"text":"[衰][衰][衰]数学老师哭了。。。",
+"mid":"zvmshBuvW",
+"date":"2013-05-05 23:51:03"
+},
+{
+"kids":[],
+"uid":"1250152552",
+"parent":"zvmd99Yiy",
+"text":"钱去哪了？到时候雅安人民全部开丰田，住洋楼，养翻狗，然后说一句：感谢地震~",
+"mid":"zvmshjTdY",
+"date":"2013-05-05 23:51:01"
+},
+{
+"kids":[],
+"uid":"2677436683",
+"parent":"zvlpV2Rhd",
+"text":"算账发贴子的是否没脑子啊?的确阴暗!@张颐武: 可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心",
+"mid":"zvmse3PNO",
+"date":"2013-05-05 23:50:53"
+},
+{
+"kids":[],
+"uid":"1405717527",
+"parent":"zvlpV2Rhd",
+"text":"温的小学数学老师是谁？……究竟是谁教的数学？！",
+"mid":"zvmrwjxUA",
+"date":"2013-05-05 23:49:05"
+},
+{
+"kids":[],
+"uid":"1234749484",
+"parent":"zvlpV2Rhd",
+"text":"@张颐武: 可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪就是恶毒",
+"mid":"zvmrhy2ge",
+"date":"2013-05-05 23:48:35"
+},
+{
+"kids":[],
+"uid":"8muxiaomu8",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmqHg2U3",
+"date":"2013-05-05 23:47:04"
+},
+{
+"kids":[],
+"uid":"2733092717",
+"parent":"",
+"text":"大家来围观楼主啦，慢啦就走宝啦[奥特曼]",
+"mid":"zvmq61kPx",
+"date":"2013-05-05 23:45:39"
+},
+{
+"kids":[],
+"uid":"3272775241",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvmq585bR",
+"date":"2013-05-05 23:45:36"
+},
+{
+"kids":[],
+"uid":"1718793713",
+"parent":"zvlpV2Rhd",
+"text":"[围观]",
+"mid":"zvmpD1BQf",
+"date":"2013-05-05 23:44:25"
+},
+{
+"kids":[],
+"uid":"garyluojia",
+"parent":"",
+"text":"去了黑十字会",
+"mid":"zvmpka9oK",
+"date":"2013-05-05 23:43:44"
+},
+{
+"kids":[],
+"uid":"2855989200",
+"parent":"",
+"text":"刚才看见谁转了一条…",
+"mid":"zvmoH8Tz4",
+"date":"2013-05-05 23:42:09"
+},
+{
+"kids":[
+"zvsQyAjHH",
+"zvsQyAjFe"
+],
+"uid":"wwwxhjcom",
+"parent":"",
+"text":"神兽何在？",
+"mid":"zvmoGvOLk",
+"date":"2013-05-05 23:42:10"
+},
+{
+"kids":[],
+"uid":"shuang748264",
+"parent":"",
+"text":"最近干部们又添新房了吧？",
+"mid":"zvmoF5jRH",
+"date":"2013-05-05 23:42:06"
+},
+{
+"kids":[
+"zvn1po2Aq"
+],
+"uid":"2533838557",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmoz7ySY",
+"date":"2013-05-05 23:41:53"
+},
+{
+"kids":[],
+"uid":"1956828765",
+"parent":"",
+"text":"博主的房地产公司没倒，堪称世界第八大奇迹。",
+"mid":"zvmofnwVS",
+"date":"2013-05-05 23:41:04"
+},
+{
+"kids":[
+"zvmx8qqpW",
+"zvmvK84m2"
+],
+"uid":"dkbj",
+"parent":"zvm4EfFCW",
+"text":"这是第几只不识数的了？我起码看到过2只了[哈哈][偷笑]",
+"mid":"zvmnzmQ2t",
+"date":"2013-05-05 23:39:23"
+},
+{
+"kids":[],
+"uid":"1433740263",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmnf0FOy",
+"date":"2013-05-05 23:38:36"
+},
+{
+"kids":[],
+"uid":"bwfeng001",
+"parent":"",
+"text":"你丫搏上位吧，虽不至于黑人家，可怜您这小学都没毕业就好意思出来混[弱]",
+"mid":"zvmnazNRD",
+"date":"2013-05-05 23:38:26"
+},
+{
+"kids":[],
+"uid":"1772779865",
+"parent":"zvlvQhgUz",
+"text":"我觉得应该是政治老师教的！[哈哈]",
+"mid":"zvmmL9Mhb",
+"date":"2013-05-05 23:37:22"
+},
+{
+"kids":[],
+"uid":"2039390524",
+"parent":"zvlGQkNHl",
+"text":"[晕][晕]",
+"mid":"zvmlG4T2Z",
+"date":"2013-05-05 23:34:45"
+},
+{
+"kids":[],
+"uid":"2716239907",
+"parent":"zvlpV2Rhd",
+"text":"该算清的还是要算清，如果不是放大，这些事还是有待研究的，只是我们不应该去扭曲事实。事实求实才能做好一切，这些事要公诸与民才能服众",
+"mid":"zvmkW1uRb",
+"date":"2013-05-05 23:32:55"
+},
+{
+"kids":[],
+"uid":"1938782354",
+"parent":"",
+"text":"",
+"mid":"zvmkev0fI",
+"date":"2013-05-05 23:31:12"
+},
+{
+"kids":[],
+"uid":"1972909193",
+"parent":"",
+"text":"",
+"mid":"zvmjk8K90",
+"date":"2013-05-05 23:28:57"
+},
+{
+"kids":[],
+"uid":"1843068403",
+"parent":"zvly7x1Ya",
+"text":"流着流着就流进某些人某些部门的钱包了。",
+"mid":"zvmj8hxgP",
+"date":"2013-05-05 23:28:28"
+},
+{
+"kids":[],
+"uid":"1881448885",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmj7pqFa",
+"date":"2013-05-05 23:28:27"
+},
+{
+"kids":[
+"zvwr85nhC",
+"zvvx5nKLz",
+"zvvx5nKIc"
+],
+"uid":"3204606070",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmiJqQRe",
+"date":"2013-05-05 23:27:29"
+},
+{
+"kids":[],
+"uid":"rainerhao",
+"parent":"zvm4wBsyu",
+"text":"新浪应该搞个公知认证，想申请的都必须参加视频直播辩论，随便找个公民社会的论题，说不定最后能办成一档娱乐节目，[嘻嘻]",
+"mid":"zvmiHEmK9",
+"date":"2013-05-05 23:27:23"
+},
+{
+"kids":[],
+"uid":"2679985242",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmif0JXt",
+"date":"2013-05-05 23:26:17"
+},
+{
+"kids":[],
+"uid":"201282883",
+"parent":"zvmfcvQmC",
+"text":"[晕]",
+"mid":"zvmicEvZx",
+"date":"2013-05-05 23:26:13"
+},
+{
+"kids":[],
+"uid":"2778198387",
+"parent":"",
+"text":"这几个钱不够他们盖几栋楼堂馆所！",
+"mid":"zvmi4o6rP",
+"date":"2013-05-05 23:25:51"
+},
+{
+"kids":[],
+"uid":"2143825745",
+"parent":"",
+"text":"你会算钱吗？一个地震把雅安人震成富翁了？人性呢？",
+"mid":"zvmh418YQ",
+"date":"2013-05-05 23:23:24"
+},
+{
+"kids":[],
+"uid":"1730458613",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmghjlaZ",
+"date":"2013-05-05 23:21:27"
+},
+{
+"kids":[],
+"uid":"1903026497",
+"parent":"",
+"text":"回复@佛山北斗七星网络科技有限公司:这尼玛一个个的开公司的大V......都什么脑子......催人尿下[衰]",
+"mid":"zvmg9AzqX",
+"date":"2013-05-05 23:21:09"
+},
+{
+"kids":[],
+"uid":"3359665820",
+"parent":"zvl2dwwaH",
+"text":"好坑。",
+"mid":"zvmg6E2Dt",
+"date":"2013-05-05 23:20:59"
+},
+{
+"kids":[],
+"uid":"009ihc",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmfptkWf",
+"date":"2013-05-05 23:19:19"
+},
+{
+"kids":[
+"zvmicEvZx"
+],
+"uid":"2542149432",
+"parent":"zvlEfwT6U",
+"text":"153万人口X每人分105万元，那合计=1606500000000元，即16065亿元。你会算数吗？这贴该删了！",
+"mid":"zvmfcvQmC",
+"date":"2013-05-05 23:18:46"
+},
+{
+"kids":[],
+"uid":"2797609464",
+"parent":"zvl2dwwaH",
+"text":"105也不少了，又不是每个人都受灾了，况且又不只有这105",
+"mid":"zvmeLkrTO",
+"date":"2013-05-05 23:17:40"
+},
+{
+"kids":[],
+"uid":"2851959362",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmeKpY8C",
+"date":"2013-05-05 23:17:41"
+},
+{
+"kids":[],
+"uid":"sunyunfan",
+"parent":"zvm1Dx8jN",
+"text":"这总裁小学数学是体育老师教的吗？",
+"mid":"zvmeGBnlp",
+"date":"2013-05-05 23:17:33"
+},
+{
+"kids":[],
+"uid":"2785009462",
+"parent":"",
+"text":"钱都到哪去了呢？都很想知道？",
+"mid":"zvme9eMl2",
+"date":"2013-05-05 23:16:09"
+},
+{
+"kids":[],
+"uid":"2003029104",
+"parent":"",
+"text":"作为雅安人，作为芦山人，谢谢社会许多人的帮助，不过……现实啊！",
+"mid":"zvmdLw43s",
+"date":"2013-05-05 23:15:16"
+},
+{
+"kids":[
+"zvmshjTdY"
+],
+"uid":"1870009954",
+"parent":"zvlJQqCXX",
+"text":"可笑",
+"mid":"zvmd99Yiy",
+"date":"2013-05-05 23:13:44"
+},
+{
+"kids":[],
+"uid":"323170101",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvmc0un38",
+"date":"2013-05-05 23:10:56"
+},
+{
+"kids":[],
+"uid":"2548110235",
+"parent":"zvlpV2Rhd",
+"text":"这个算数水平一定会让老郭气晕过去的！",
+"mid":"zvmbPhWDM",
+"date":"2013-05-05 23:10:29"
+},
+{
+"kids":[],
+"uid":"1729077923",
+"parent":"zvlrPbd8q",
+"text":"",
+"mid":"zvmbwnQ1X",
+"date":"2013-05-05 23:09:43"
+},
+{
+"kids":[],
+"uid":"3017050361",
+"parent":"",
+"text":"关键是有多少能真正落实到百姓的手中。",
+"mid":"zvma8EXjc",
+"date":"2013-05-05 23:06:20"
+},
+{
+"kids":[],
+"uid":"1429201614",
+"parent":"",
+"text":"[哈哈][",
+"mid":"zvm9S857D",
+"date":"2013-05-05 23:05:41"
+},
+{
+"kids":[
+"zvq5Me5e7"
+],
+"uid":"1848651875",
+"parent":"zvlzumGNX",
+"text":"今晚看到好多同样的内容，真是笑尿了",
+"mid":"zvm9Ctsi1",
+"date":"2013-05-05 23:05:03"
+},
+{
+"kids":[
+"zznHMCJx6",
+"zzdHkAHhS",
+"zzde8pxVX",
+"zyuUJE5DW",
+"zytH5Ac4Y",
+"zykSwi4Vl",
+"zxoXcqTkQ",
+"zxgR6DlEY",
+"zxgR6lKoN",
+"zwvEYDTuV",
+"zwiD8s1ZM",
+"zwiD8aqQD"
+],
+"uid":"1748229277",
+"parent":"",
+"text":"呵呵",
+"mid":"zvm8urbqD",
+"date":"2013-05-05 23:02:16"
+},
+{
+"kids":[],
+"uid":"1789955264",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvm68dN9W",
+"date":"2013-05-05 22:56:25"
+},
+{
+"kids":[],
+"uid":"2917688591",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvm5m2gEj",
+"date":"2013-05-05 22:54:30"
+},
+{
+"kids":[],
+"uid":"ruoruo1208",
+"parent":"zvm49wPmT",
+"text":"钱呢？钱呢？钱呢？？？",
+"mid":"zvm5avtIP",
+"date":"2013-05-05 22:54:01"
+},
+{
+"kids":[],
+"uid":"2708654174",
+"parent":"",
+"text":"",
+"mid":"zvm541z3F",
+"date":"2013-05-05 22:53:50"
+},
+{
+"kids":[],
+"uid":"tiffanyweddingdress",
+"parent":"zvm49wPmT",
+"text":"钱呢？到哪去呢？ /@kiki-小丸子:",
+"mid":"zvm4WklWP",
+"date":"2013-05-05 22:53:29"
+},
+{
+"kids":[
+"zvmnzmQ2t"
+],
+"uid":"xiwe007",
+"parent":"",
+"text":"一定是五毛派到公知内部的卧底！BTW：博主的公司挣钱不？",
+"mid":"zvm4EfFCW",
+"date":"2013-05-05 22:52:48"
+},
+{
+"kids":[
+"zvmES0Oib",
+"zvmiHEmK9"
+],
+"uid":"gpliu",
+"parent":"",
+"text":"世界之大，无奇不有。这董事长哥们，算数就这个水平，也要当公知了？公知的门槛低啊。",
+"mid":"zvm4wBsyu",
+"date":"2013-05-05 22:52:28"
+},
+{
+"kids":[],
+"uid":"2751810651",
+"parent":"zvlpV2Rhd",
+"text":"搞笑1600除以153是多少[衰]",
+"mid":"zvm4vrEWI",
+"date":"2013-05-05 22:52:27"
+},
+{
+"kids":[],
+"uid":"2878668824",
+"parent":"zvlwNFueg",
+"text":"哈哈哈雅安地震竞致一帮闲人乱了基本数字慨念[哈哈][哈哈][哈哈][哈哈]",
+"mid":"zvm4r0MEa",
+"date":"2013-05-05 22:52:16"
+},
+{
+"kids":[],
+"uid":"2127406900",
+"parent":"zvlpV2Rhd",
+"text":"[赞] 但另一方面亦说明，政府在当今开放的信息社会，严重缺乏公共危机意识与应对，诸多公共行政滞后、被动，以致公信度日趋降低。如面对雅安震后捐助款的入帐、支出等的预算规划与执行，为何不能尽早公开。这也是政治清明的要求。",
+"mid":"zvm4jBaWj",
+"date":"2013-05-05 22:51:59"
+},
+{
+"kids":[],
+"uid":"2090159092",
+"parent":"",
+"text":"原来这二货也姓温！数学太好了[抓狂]",
+"mid":"zvm4aaXQu",
+"date":"2013-05-05 22:51:34"
+},
+{
+"kids":[
+"zvm5avtIP",
+"zvm4WklWP"
+],
+"uid":"marchtwenty",
+"parent":"zvm1SjUjq",
+"text":"",
+"mid":"zvm49wPmT",
+"date":"2013-05-05 22:51:33"
+},
+{
+"kids":[],
+"uid":"1640672370",
+"parent":"",
+"text":"我给你1亿6千万，你送我153万套房吧，每套有105万呢",
+"mid":"zvm3VobFz",
+"date":"2013-05-05 22:51:01"
+},
+{
+"kids":[
+"zvmMOikrE"
+],
+"uid":"lucianxiao",
+"parent":"",
+"text":"[哈哈]数学老师死的早",
+"mid":"zvm3FFUFH",
+"date":"2013-05-05 22:50:24"
+},
+{
+"kids":[],
+"uid":"2248089262",
+"parent":"zvlwNFueg",
+"text":"",
+"mid":"zvm3EdsVp",
+"date":"2013-05-05 22:50:17"
+},
+{
+"kids":[],
+"uid":"weil1992",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvm3yAaMR",
+"date":"2013-05-05 22:50:05"
+},
+{
+"kids":[],
+"uid":"2512530180",
+"parent":"",
+"text":"",
+"mid":"zvm3kaY7F",
+"date":"2013-05-05 22:49:31"
+},
+{
+"kids":[],
+"uid":"1670621505",
+"parent":"",
+"text":"[围观]",
+"mid":"zvm3hae8q",
+"date":"2013-05-05 22:49:24"
+},
+{
+"kids":[],
+"uid":"2596438271",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvm2qhDC9",
+"date":"2013-05-05 22:47:19"
+},
+{
+"kids":[],
+"uid":"2526848384",
+"parent":"",
+"text":"尼玛 乍一看还真被你忽悠了 认真一看你数学估计是体育老师教的",
+"mid":"zvm2e9mSp",
+"date":"2013-05-05 22:46:48"
+},
+{
+"kids":[],
+"uid":"1691670205",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvm21axyW",
+"date":"2013-05-05 22:46:16"
+},
+{
+"kids":[],
+"uid":"1347194304",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvm1Zo3qk",
+"date":"2013-05-05 22:46:15"
+},
+{
+"kids":[
+"zvm49wPmT"
+],
+"uid":"210109040",
+"parent":"",
+"text":"...",
+"mid":"zvm1SjUjq",
+"date":"2013-05-05 22:45:57"
+},
+{
+"kids":[],
+"uid":"2735679040",
+"parent":"",
+"text":"",
+"mid":"zvm1NfMuL",
+"date":"2013-05-05 22:45:47"
+},
+{
+"kids":[],
+"uid":"3060341783",
+"parent":"zvlpV2Rhd",
+"text":"/@张颐武:究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvm1Iemqg",
+"date":"2013-05-05 22:45:33"
+},
+{
+"kids":[
+"zvqoIeM8o",
+"zvn7x9Jox",
+"zvmeGBnlp"
+],
+"uid":"pianhua",
+"parent":"",
+"text":"总裁数学不赖嘛",
+"mid":"zvm1Dx8jN",
+"date":"2013-05-05 22:45:23"
+},
+{
+"kids":[],
+"uid":"1750446924",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvm1xlWO9",
+"date":"2013-05-05 22:45:06"
+},
+{
+"kids":[],
+"uid":"1804284872",
+"parent":"",
+"text":"我感觉我对唔住我的科学计算器[草泥马]",
+"mid":"zvm1h6IOx",
+"date":"2013-05-05 22:44:27"
+},
+{
+"kids":[],
+"uid":"1655739097",
+"parent":"",
+"text":"请楼主去分！",
+"mid":"zvm12jWWl",
+"date":"2013-05-05 22:43:53"
+},
+{
+"kids":[
+"zvqogsE8C"
+],
+"uid":"1691065821",
+"parent":"",
+"text":"每人在北京都可买一套房了",
+"mid":"zvm0NgG2N",
+"date":"2013-05-05 22:43:17"
+},
+{
+"kids":[],
+"uid":"swordhell",
+"parent":"zvlpV2Rhd",
+"text":"恶心",
+"mid":"zvm0ukxZX",
+"date":"2013-05-05 22:42:30"
+},
+{
+"kids":[],
+"uid":"3219977671",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvm0hjHYk",
+"date":"2013-05-05 22:41:59"
+},
+{
+"kids":[
+"zvmJcBUfy"
+],
+"uid":"2267147875",
+"parent":"zvlpV2Rhd",
+"text":"这些人，是无知还是无耻？还是别有用心？ 会算账吗？“他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒”",
+"mid":"zvm0c0GCY",
+"date":"2013-05-05 22:41:48"
+},
+{
+"kids":[],
+"uid":"1608231361",
+"parent":"zvl2dwwaH",
+"text":"这事情看得多了 已经麻木了.......",
+"mid":"zvm09CyEE",
+"date":"2013-05-05 22:41:44"
+},
+{
+"kids":[],
+"uid":"ZiboChou",
+"parent":"zvlpV2Rhd",
+"text":"爱心每个人都可以有，但前提是那些资金要真正的落到实处，所以爱应与良心同在，缺一不可。",
+"mid":"zvm01Efq2",
+"date":"2013-05-05 22:41:23"
+},
+{
+"kids":[],
+"uid":"2353790133",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlZhxNmD",
+"date":"2013-05-05 22:39:33"
+},
+{
+"kids":[],
+"uid":"1831775287",
+"parent":"",
+"text":"这种狗，主子们让你怎么叫，你就怎么叫。从狗的角度来看，你是好样的。记得下会找一个小学数学及格的主子要骨头吃。",
+"mid":"zvlZd99CO",
+"date":"2013-05-05 22:39:24"
+},
+{
+"kids":[
+"zvwUe4PJG",
+"zvwUe3MOE"
+],
+"uid":"3249249503",
+"parent":"",
+"text":"捉急啊, 还董事长啊...[挖鼻屎]",
+"mid":"zvlYCtcxZ",
+"date":"2013-05-05 22:37:53"
+},
+{
+"kids":[],
+"uid":"1831775287",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlYccZQK",
+"date":"2013-05-05 22:36:51"
+},
+{
+"kids":[],
+"uid":"2388329525",
+"parent":"zvluxC8jb",
+"text":"",
+"mid":"zvlY79Qi9",
+"date":"2013-05-05 22:36:39"
+},
+{
+"kids":[],
+"uid":"itworks",
+"parent":"",
+"text":"傻逼成功突破我心理防线。",
+"mid":"zvlY3jgBv",
+"date":"2013-05-05 22:36:33"
+},
+{
+"kids":[],
+"uid":"2829109157",
+"parent":"",
+"text":"怎么算的？",
+"mid":"zvlXSmU7T",
+"date":"2013-05-05 22:36:08"
+},
+{
+"kids":[],
+"uid":"1948819230",
+"parent":"zvly7x1Ya",
+"text":"仔细一算确实是这样啊",
+"mid":"zvlXEtu7b",
+"date":"2013-05-05 22:35:35"
+},
+{
+"kids":[],
+"uid":"1768363084",
+"parent":"",
+"text":"博主典型的数死早",
+"mid":"zvlXgA2M3",
+"date":"2013-05-05 22:34:37"
+},
+{
+"kids":[],
+"uid":"1912412690",
+"parent":"",
+"text":"可参考",
+"mid":"zvlX30ziK",
+"date":"2013-05-05 22:34:04"
+},
+{
+"kids":[],
+"uid":"3076281303",
+"parent":"zvlpV2Rhd",
+"text":"@张颐武: 可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是",
+"mid":"zvlX0juSk",
+"date":"2013-05-05 22:33:55"
+},
+{
+"kids":[],
+"uid":"1866077073",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlWh6Isn",
+"date":"2013-05-05 22:32:10"
+},
+{
+"kids":[],
+"uid":"2870118424",
+"parent":"",
+"text":"搞什么，只算人，地球的伤痕就不修补了？[囧]也不能这么算人均消费吧，，又不是下馆子要AA制。@He颖萍",
+"mid":"zvlWdwlU4",
+"date":"2013-05-05 22:32:02"
+},
+{
+"kids":[],
+"uid":"kaddak",
+"parent":"",
+"text":"其实这样的话大家都懂，中国人麻痹，麻木的思想根深蒂固，别说事不关己，就是落在自己脑袋上，也不见得去弄出个所以然，即使努力了，又有多少能实现的？",
+"mid":"zvlVCjIfA",
+"date":"2013-05-05 22:30:32"
+},
+{
+"kids":[],
+"uid":"2467406261",
+"parent":"zvlpV2Rhd",
+"text":"雅安人均不过100多元，显然帮助还要更多才好，",
+"mid":"zvlUJmTU3",
+"date":"2013-05-05 22:28:22"
+},
+{
+"kids":[],
+"uid":"2894698995",
+"parent":"zvlpV2Rhd",
+"text":"明显算错了，每人平均是一百多，整整多算了一万倍。",
+"mid":"zvlUH2upg",
+"date":"2013-05-05 22:28:16"
+},
+{
+"kids":[],
+"uid":"2156469595",
+"parent":"zvlGQkNHl",
+"text":"小学数学没及格",
+"mid":"zvlTrgger",
+"date":"2013-05-05 22:25:08"
+},
+{
+"kids":[],
+"uid":"nuomituanzi118",
+"parent":"",
+"text":"这算数已经差过统计局的了",
+"mid":"zvlT3nb4u",
+"date":"2013-05-05 22:24:14"
+},
+{
+"kids":[],
+"uid":"neurexon",
+"parent":"",
+"text":"这位大v的数学和品德都有问题",
+"mid":"zvlT107TU",
+"date":"2013-05-05 22:24:07"
+},
+{
+"kids":[],
+"uid":"1881766190",
+"parent":"zvlwNFueg",
+"text":"[黑线][黑线]",
+"mid":"zvlSMeHUS",
+"date":"2013-05-05 22:23:31"
+},
+{
+"kids":[],
+"uid":"1663917990",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlSBfA5n",
+"date":"2013-05-05 22:23:07"
+},
+{
+"kids":[],
+"uid":"1893786592",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlSef74j",
+"date":"2013-05-05 22:22:12"
+},
+{
+"kids":[],
+"uid":"1743407470",
+"parent":"zvlBYh93Y",
+"text":"又是造谣的SB[哈哈]",
+"mid":"zvlRS5bFC",
+"date":"2013-05-05 22:21:20"
+},
+{
+"kids":[],
+"uid":"1848121324",
+"parent":"",
+"text":"会不会算账，笨，傻，没脑子！",
+"mid":"zvlRM9fnJ",
+"date":"2013-05-05 22:21:04"
+},
+{
+"kids":[],
+"uid":"3195633653",
+"parent":"",
+"text":"",
+"mid":"zvlRKplKL",
+"date":"2013-05-05 22:20:58"
+},
+{
+"kids":[],
+"uid":"2951793942",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlREauOv",
+"date":"2013-05-05 22:20:45"
+},
+{
+"kids":[],
+"uid":"207078460",
+"parent":"zvlGQkNHl",
+"text":"",
+"mid":"zvlRCFWcI",
+"date":"2013-05-05 22:20:44"
+},
+{
+"kids":[],
+"uid":"2460884907",
+"parent":"",
+"text":"数学老师死得早啊............",
+"mid":"zvlRC6Jzg",
+"date":"2013-05-05 22:20:41"
+},
+{
+"kids":[],
+"uid":"2092505334",
+"parent":"",
+"text":"哈哈，这个得转，差一点就被晃到了。给数学老师道个歉先。[嘻嘻]",
+"mid":"zvlRrcMrb",
+"date":"2013-05-05 22:20:15"
+},
+{
+"kids":[],
+"uid":"suetinna",
+"parent":"zvlpV2Rhd",
+"text":"原po的数学惨不忍睹",
+"mid":"zvlR7Ebc0",
+"date":"2013-05-05 22:19:27"
+},
+{
+"kids":[],
+"uid":"2181913284",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlQTuLiD",
+"date":"2013-05-05 22:18:55"
+},
+{
+"kids":[],
+"uid":"1701186295",
+"parent":"zvlPdbiOf",
+"text":"",
+"mid":"zvlQDfxqM",
+"date":"2013-05-05 22:18:15"
+},
+{
+"kids":[],
+"uid":"2657429182",
+"parent":"zvlpV2Rhd",
+"text":"[围观]",
+"mid":"zvlQC4jYH",
+"date":"2013-05-05 22:18:13"
+},
+{
+"kids":[],
+"uid":"1276804715",
+"parent":"zvlpV2Rhd",
+"text":"这些人好像觉得修路盖房子都不要钱一样，修条路几十亿都不奇怪",
+"mid":"zvlQc5zvB",
+"date":"2013-05-05 22:17:11"
+},
+{
+"kids":[
+"zvpuuC7FY"
+],
+"uid":"liuyuan00",
+"parent":"zvlpV2Rhd",
+"text":"这老板要出名了啊！这账算得？",
+"mid":"zvlQ5yUfh",
+"date":"2013-05-05 22:16:53"
+},
+{
+"kids":[],
+"uid":"338596111",
+"parent":"",
+"text":"对啊，人民的血汗钱呢",
+"mid":"zvlPUjZAw",
+"date":"2013-05-05 22:16:29"
+},
+{
+"kids":[],
+"uid":"1105472217",
+"parent":"zvlqQCxtm",
+"text":"",
+"mid":"zvlPvcTsC",
+"date":"2013-05-05 22:15:26"
+},
+{
+"kids":[],
+"uid":"1948454270",
+"parent":"",
+"text":"额,105块吧.......",
+"mid":"zvlPkfmPL",
+"date":"2013-05-05 22:15:03"
+},
+{
+"kids":[
+"zvlQDfxqM"
+],
+"uid":"2337175492",
+"parent":"zvlEfwT6U",
+"text":"说博主错的人都太肤浅，完全不懂博主的深意。中国统计局不一直都这样算账的[熊猫]",
+"mid":"zvlPdbiOf",
+"date":"2013-05-05 22:14:46"
+},
+{
+"kids":[],
+"uid":"1768735854",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlP65Noq",
+"date":"2013-05-05 22:14:28"
+},
+{
+"kids":[],
+"uid":"1752055500",
+"parent":"zvlzumGNX",
+"text":"",
+"mid":"zvlP5u9yH",
+"date":"2013-05-05 22:14:28"
+},
+{
+"kids":[],
+"uid":"2356619201",
+"parent":"zvlrPbd8q",
+"text":"该清楚的算一下帐了.别以为人民都是弱智.",
+"mid":"zvlOT6jN9",
+"date":"2013-05-05 22:13:58"
+},
+{
+"kids":[],
+"uid":"koshill",
+"parent":"",
+"text":"房地产董事长就这算术水平，无敌了",
+"mid":"zvlOw2gEF",
+"date":"2013-05-05 22:13:00"
+},
+{
+"kids":[],
+"uid":"yueluoshiwuhen",
+"parent":"zvlpV2Rhd",
+"text":"每人105万，153万人你丫的在哪个国家学的数学啊?",
+"mid":"zvlNYnYLg",
+"date":"2013-05-05 22:11:43"
+},
+{
+"kids":[],
+"uid":"1996942957",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlNTCFcs",
+"date":"2013-05-05 22:11:31"
+},
+{
+"kids":[],
+"uid":"2927804291",
+"parent":"",
+"text":"就这样的还能有粉丝，脑壳遭门夹过，哈哈",
+"mid":"zvlNsb9Hg",
+"date":"2013-05-05 22:10:23"
+},
+{
+"kids":[],
+"uid":"1923608063",
+"parent":"zvlGRbVB5",
+"text":"[嘻嘻]",
+"mid":"zvlMQDWpE",
+"date":"2013-05-05 22:08:58"
+},
+{
+"kids":[],
+"uid":"3178378160",
+"parent":"zvlEqsY1l",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlMLA8EX",
+"date":"2013-05-05 22:08:43"
+},
+{
+"kids":[],
+"uid":"1721811484",
+"parent":"",
+"text":"",
+"mid":"zvlMGh7lH",
+"date":"2013-05-05 22:08:32"
+},
+{
+"kids":[],
+"uid":"3278854500",
+"parent":"",
+"text":"就你这种脑残的算术就是有捐款全给你，你也弄不明白有钱有什么用，攻击社会攻击政府你也来点新鲜的。怎么不呼吁国家发行一亿一张的人民币一人来它一张不都就全幸福了！",
+"mid":"zvlMFqbds",
+"date":"2013-05-05 22:08:26"
+},
+{
+"kids":[],
+"uid":"2206185714",
+"parent":"",
+"text":"不要让善心变成了一些人追求物质的武器！",
+"mid":"zvlMnmhDh",
+"date":"2013-05-05 22:07:47"
+},
+{
+"kids":[
+"zvmH2aw7l"
+],
+"uid":"3091551217",
+"parent":"",
+"text":"人才啊！",
+"mid":"zvlMfDFuY",
+"date":"2013-05-05 22:07:29"
+},
+{
+"kids":[],
+"uid":"1761429732",
+"parent":"zvlCQos3X",
+"text":"钱呢钱呢[怒]",
+"mid":"zvlLZ8qJ3",
+"date":"2013-05-05 22:06:45"
+},
+{
+"kids":[],
+"uid":"1337052720",
+"parent":"zvlEG8rGs",
+"text":"算术不错",
+"mid":"zvlLR8d6q",
+"date":"2013-05-05 22:06:30"
+},
+{
+"kids":[],
+"uid":"1830423351",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlLOclEr",
+"date":"2013-05-05 22:06:20"
+},
+{
+"kids":[],
+"uid":"1862506781",
+"parent":"zvlpV2Rhd",
+"text":"需要盯住是否不再犯错，是否有公开的资金流向。",
+"mid":"zvlLNj6Bk",
+"date":"2013-05-05 22:06:21"
+},
+{
+"kids":[],
+"uid":"2210654924",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlLLdxUd",
+"date":"2013-05-05 22:06:16"
+},
+{
+"kids":[],
+"uid":"1351742744",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlLH6QbD",
+"date":"2013-05-05 22:06:06"
+},
+{
+"kids":[],
+"uid":"yunyunyangxiaoyun",
+"parent":"zvlCI8DEm",
+"text":"[吃惊]吓我一跳",
+"mid":"zvlLygH6H",
+"date":"2013-05-05 22:05:46"
+},
+{
+"kids":[],
+"uid":"kumamoto",
+"parent":"zvly9B7kr",
+"text":"数学老师死得早",
+"mid":"zvlLtd3wU",
+"date":"2013-05-05 22:05:33"
+},
+{
+"kids":[],
+"uid":"919790909",
+"parent":"",
+"text":"体育老师教的",
+"mid":"zvlLp5fCw",
+"date":"2013-05-05 22:05:21"
+},
+{
+"kids":[],
+"uid":"wiminzhao",
+"parent":"",
+"text":"[偷笑]",
+"mid":"zvlLeasQC",
+"date":"2013-05-05 22:04:57"
+},
+{
+"kids":[],
+"uid":"1561046561",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlLdhdxV",
+"date":"2013-05-05 22:04:55"
+},
+{
+"kids":[],
+"uid":"caesarlky",
+"parent":"",
+"text":"算房价算迷糊了吧，什么都用万为单位了？",
+"mid":"zvlLa0ZQC",
+"date":"2013-05-05 22:04:47"
+},
+{
+"kids":[],
+"uid":"1588138885",
+"parent":"zvlCQos3X",
+"text":"高级黑啊",
+"mid":"zvlL3uH2m",
+"date":"2013-05-05 22:04:32"
+},
+{
+"kids":[],
+"uid":"2353160783",
+"parent":"zvlpV2Rhd",
+"text":"怎么可能平分到人头上 灾后重建 盖房子建学校不要钱啊",
+"mid":"zvlL3d5N9",
+"date":"2013-05-05 22:04:32"
+},
+{
+"kids":[],
+"uid":"2870300842",
+"parent":"zvlpV2Rhd",
+"text":"考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlL3cIsK",
+"date":"2013-05-05 22:04:31"
+},
+{
+"kids":[],
+"uid":"2697466751",
+"parent":"zvlpV2Rhd",
+"text":"我觉得不要这样算～有很多开销算不了～那么多人在雅安救灾不吃不喝啊～还有受灾群众，不吃不喝呀～还有运费～跟你算受灾群众一人一天吃喝一元钱，三百多万人一天都三百万了，还要重建呢，",
+"mid":"zvlL00T6B",
+"date":"2013-05-05 22:04:23"
+},
+{
+"kids":[],
+"uid":"2088739785",
+"parent":"zvlpV2Rhd",
+"text":"@张颐武可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlKXi3ne",
+"date":"2013-05-05 22:04:18"
+},
+{
+"kids":[],
+"uid":"2232767854",
+"parent":"zvlpV2Rhd",
+"text":"体育老师很忙，都兼职数学呢[偷笑]",
+"mid":"zvlKW7Afw",
+"date":"2013-05-05 22:04:13"
+},
+{
+"kids":[
+"zvmd99Yiy"
+],
+"uid":"207222125",
+"parent":"zvlGQkNHl",
+"text":"你说钱到哪去了？",
+"mid":"zvlJQqCXX",
+"date":"2013-05-05 22:01:34"
+},
+{
+"kids":[],
+"uid":"1780688627",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlJLqGVI",
+"date":"2013-05-05 22:01:21"
+},
+{
+"kids":[],
+"uid":"korischina",
+"parent":"",
+"text":"",
+"mid":"zvlJJl7ti",
+"date":"2013-05-05 22:01:17"
+},
+{
+"kids":[],
+"uid":"sonaten",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlJvbAiH",
+"date":"2013-05-05 22:00:40"
+},
+{
+"kids":[],
+"uid":"1625016083",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlJmlEbg",
+"date":"2013-05-05 22:00:21"
+},
+{
+"kids":[],
+"uid":"1497910650",
+"parent":"",
+"text":"第三个算错数的",
+"mid":"zvlJi9VqK",
+"date":"2013-05-05 22:00:11"
+},
+{
+"kids":[],
+"uid":"1989546071",
+"parent":"zvlpV2Rhd",
+"text":"呵呵",
+"mid":"zvlJhBNkF",
+"date":"2013-05-05 22:00:08"
+},
+{
+"kids":[],
+"uid":"1966043203",
+"parent":"zvlpV2Rhd",
+"text":"你可以去教数学了。",
+"mid":"zvlJds22A",
+"date":"2013-05-05 21:59:58"
+},
+{
+"kids":[
+"zvsowuDVS"
+],
+"uid":"2685546164",
+"parent":"zvlGQkNHl",
+"text":"救命啊![怒]",
+"mid":"zvlJ7vrtS",
+"date":"2013-05-05 21:59:46"
+},
+{
+"kids":[],
+"uid":"diaca0841",
+"parent":"zvlpV2Rhd",
+"text":"这个观点我有点不",
+"mid":"zvlIZgzLS",
+"date":"2013-05-05 21:59:26"
+},
+{
+"kids":[],
+"uid":"sunlunqiang",
+"parent":"zvly7x1Ya",
+"text":"",
+"mid":"zvlIXsBfw",
+"date":"2013-05-05 21:59:21"
+},
+{
+"kids":[],
+"uid":"1893527360",
+"parent":"zvlB78BGV",
+"text":"张颐武:究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlIMhKTN",
+"date":"2013-05-05 21:58:52"
+},
+{
+"kids":[],
+"uid":"1874227152",
+"parent":"",
+"text":"又来一位，无语啊 ！",
+"mid":"zvlID8zI1",
+"date":"2013-05-05 21:58:32"
+},
+{
+"kids":[],
+"uid":"912631212",
+"parent":"",
+"text":"这群傻逼发的造谣是一模一样的,而且都是有点名气的..几乎同时发.肯定是哪个团体在背后搞阴谋.建议严查.",
+"mid":"zvlIjlt4j",
+"date":"2013-05-05 21:57:45"
+},
+{
+"kids":[],
+"uid":"naowang",
+"parent":"",
+"text":"捐你妹啊！",
+"mid":"zvlHTkXHM",
+"date":"2013-05-05 21:56:41"
+},
+{
+"kids":[],
+"uid":"mimi163000",
+"parent":"zvlCL4oBy",
+"text":"",
+"mid":"zvlHMx0WF",
+"date":"2013-05-05 21:56:27"
+},
+{
+"kids":[],
+"uid":"gemini521geng",
+"parent":"zvlpV2Rhd",
+"text":"张老师发怒了，顺便挂一下原博啊",
+"mid":"zvlHK8pYT",
+"date":"2013-05-05 21:56:19"
+},
+{
+"kids":[],
+"uid":"loveyouloveme",
+"parent":"",
+"text":"这数学都是谁教的？......",
+"mid":"zvlHF9R55",
+"date":"2013-05-05 21:56:07"
+},
+{
+"kids":[],
+"uid":"hong325325",
+"parent":"zvlCMwQcT",
+"text":"[抓狂][怒][怒骂]",
+"mid":"zvlHC9Fyq",
+"date":"2013-05-05 21:56:04"
+},
+{
+"kids":[],
+"uid":"3211793520",
+"parent":"",
+"text":"",
+"mid":"zvlHylpoy",
+"date":"2013-05-05 21:55:54"
+},
+{
+"kids":[],
+"uid":"1280869172",
+"parent":"zvlpV2Rhd",
+"text":"105元啊！是数学差还是故意？",
+"mid":"zvlHti4Sf",
+"date":"2013-05-05 21:55:39"
+},
+{
+"kids":[
+"zvpBPlbAi"
+],
+"uid":"1655024881",
+"parent":"zvlH1gXiB",
+"text":"",
+"mid":"zvlHiDcC6",
+"date":"2013-05-05 21:55:18"
+},
+{
+"kids":[],
+"uid":"1459222453",
+"parent":"zvlpV2Rhd",
+"text":"张老师都发怒了，可想造谣者多可恶",
+"mid":"zvlHdmRhZ",
+"date":"2013-05-05 21:55:04"
+},
+{
+"kids":[],
+"uid":"1885840345",
+"parent":"zvly7x1Ya",
+"text":"",
+"mid":"zvlHbxHeA",
+"date":"2013-05-05 21:55:00"
+},
+{
+"kids":[
+"zvmNz0QFq"
+],
+"uid":"2350823630",
+"parent":"zvlADxqYT",
+"text":"还能哪里去。@请输入用户名",
+"mid":"zvlHb0Ejq",
+"date":"2013-05-05 21:54:59"
+},
+{
+"kids":[
+"zvlHiDcC6"
+],
+"uid":"223452365",
+"parent":"zvlBYh93Y",
+"text":"这个段子好，已截屏保存[偷笑]",
+"mid":"zvlH1gXiB",
+"date":"2013-05-05 21:54:35"
+},
+{
+"kids":[],
+"uid":"2238512040",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlGUpm9n",
+"date":"2013-05-05 21:54:19"
+},
+{
+"kids":[
+"zvlMQDWpE"
+],
+"uid":"1763177421",
+"parent":"zvlBje5Lg",
+"text":"",
+"mid":"zvlGRbVB5",
+"date":"2013-05-05 21:54:12"
+},
+{
+"kids":[
+"zvztqoF43",
+"zvrCB3aIw",
+"zvq0xwHw5",
+"zvpEonn9X",
+"zvn9AbGi9",
+"zvn7DkeU1",
+"zvmJnvVHO",
+"zvmBjzjRg",
+"zvmxXijZj",
+"zvmlG4T2Z",
+"zvlTrgger",
+"zvlRCFWcI",
+"zvlJQqCXX",
+"zvlJ7vrtS"
+],
+"uid":"336993888",
+"parent":"",
+"text":"还是个总裁，小学数学没及格吧",
+"mid":"zvlGQkNHl",
+"date":"2013-05-05 21:54:08"
+},
+{
+"kids":[
+"zvpPPcQzt"
+],
+"uid":"1913575547",
+"parent":"zvlA6czI6",
+"text":"这些钱不可能分105万元。1000个人就是10亿。对善款的质疑是建立在事实上，不是建立在错误的计算。",
+"mid":"zvlGEvp7I",
+"date":"2013-05-05 21:53:41"
+},
+{
+"kids":[],
+"uid":"floraye",
+"parent":"zvlDAdJfK",
+"text":"",
+"mid":"zvlGCphfL",
+"date":"2013-05-05 21:53:36"
+},
+{
+"kids":[],
+"uid":"dengruoxi",
+"parent":"",
+"text":"平均分给1个人是100块吧../@揣兔_tryto: 晒数学老师死得早的S13。",
+"mid":"zvlGlyxsd",
+"date":"2013-05-05 21:52:56"
+},
+{
+"kids":[],
+"uid":"1401556593",
+"parent":"",
+"text":"[哈哈][哈哈][哈哈]",
+"mid":"zvlGbvHKL",
+"date":"2013-05-05 21:52:32"
+},
+{
+"kids":[],
+"uid":"2184370253",
+"parent":"zvlCMwQcT",
+"text":"",
+"mid":"zvlGa56kG",
+"date":"2013-05-05 21:52:25"
+},
+{
+"kids":[],
+"uid":"1651945522",
+"parent":"",
+"text":"个个都是百万富翁啊",
+"mid":"zvlG50kM0",
+"date":"2013-05-05 21:52:15"
+},
+{
+"kids":[],
+"uid":"leimiaos",
+"parent":"zvlDFbHxY",
+"text":"有可能，毕竟公司还没破产",
+"mid":"zvlFYu20E",
+"date":"2013-05-05 21:52:00"
+},
+{
+"kids":[],
+"uid":"1786908471",
+"parent":"",
+"text":"在楼主的数学里我要成富婆了，我要好好想象怎么用这一百多万捏[哈哈][哈哈]",
+"mid":"zvlFJ8aZ7",
+"date":"2013-05-05 21:51:21"
+},
+{
+"kids":[],
+"uid":"2240598045",
+"parent":"zvlxfaHjv",
+"text":"我算不出来，我数学是体育老师教的，不！！是政治老师！",
+"mid":"zvlFClMwn",
+"date":"2013-05-05 21:51:08"
+},
+{
+"kids":[],
+"uid":"1515864627",
+"parent":"",
+"text":"老大，会数钱吗？",
+"mid":"zvlFplCl7",
+"date":"2013-05-05 21:50:37"
+},
+{
+"kids":[
+"zwWXGc6Ca",
+"zwS0sudAu"
+],
+"uid":"3202453113",
+"parent":"zvlpV2Rhd",
+"text":"中国红会的善款究竟如何使用的？只有天知道，为何就不能及时公布呢?而对于郭美美如此重伤红会声誉的事，红会却沉默得如此默契，匪夷所思；汶川地震，艺术家作品拍卖所得的几千万善款，至今在多次被追问，才在五年后公布善款的使用情况，而更多的善款，其使用情况却是石沉大海，红会真的有难言之隐?",
+"mid":"zvlFp50V1",
+"date":"2013-05-05 21:50:36"
+},
+{
+"kids":[],
+"uid":"fanlingfeng",
+"parent":"zvlrPbd8q",
+"text":"",
+"mid":"zvlFk2B7z",
+"date":"2013-05-05 21:50:24"
+},
+{
+"kids":[],
+"uid":"zhangrongming1993",
+"parent":"zvlpV2Rhd",
+"text":"账算错了！",
+"mid":"zvlFco0vV",
+"date":"2013-05-05 21:50:06"
+},
+{
+"kids":[],
+"uid":"nantianxiaoxian",
+"parent":"",
+"text":"",
+"mid":"zvlF4nz34",
+"date":"2013-05-05 21:49:45"
+},
+{
+"kids":[],
+"uid":"manliling",
+"parent":"zvlpV2Rhd",
+"text":"[围观]/参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlF2iChH",
+"date":"2013-05-05 21:49:42"
+},
+{
+"kids":[],
+"uid":"1256739704",
+"parent":"",
+"text":"",
+"mid":"zvlEMlRjR",
+"date":"2013-05-05 21:49:03"
+},
+{
+"kids":[
+"zvlLR8d6q"
+],
+"uid":"lousongyun",
+"parent":"zvlzumGNX",
+"text":"#数学老师死得早#",
+"mid":"zvlEG8rGs",
+"date":"2013-05-05 21:48:49"
+},
+{
+"kids":[],
+"uid":"2214184271",
+"parent":"zvlCL4oBy",
+"text":"智障...绝对是智障....按它这种算法目测这么大个坑填不上了",
+"mid":"zvlEE4mkx",
+"date":"2013-05-05 21:48:44"
+},
+{
+"kids":[
+"zvlMLA8EX"
+],
+"uid":"2264223582",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlEqsY1l",
+"date":"2013-05-05 21:48:10"
+},
+{
+"kids":[],
+"uid":"1916674871",
+"parent":"zvlCMwQcT",
+"text":"",
+"mid":"zvlEm5pH3",
+"date":"2013-05-05 21:47:59"
+},
+{
+"kids":[],
+"uid":"3290822623",
+"parent":"zvlpV2Rhd",
+"text":"教他数学的体育老师躺枪[哈哈][哈哈][哈哈]",
+"mid":"zvlEjpFqn",
+"date":"2013-05-05 21:47:54"
+},
+{
+"kids":[],
+"uid":"222010779",
+"parent":"zvlyIbPzZ",
+"text":"博主啊，千万别让自己孩子跟音乐老师学习数学了，不靠谱啊！",
+"mid":"zvlEieOCv",
+"date":"2013-05-05 21:47:51"
+},
+{
+"kids":[
+"zvmfcvQmC",
+"zvlPdbiOf"
+],
+"uid":"1237801162",
+"parent":"zvlDjEufq",
+"text":"越捐越没有钱。。。没文化，真可怕！",
+"mid":"zvlEfwT6U",
+"date":"2013-05-05 21:47:46"
+},
+{
+"kids":[],
+"uid":"acyangking",
+"parent":"",
+"text":"又来连累数学老师了！",
+"mid":"zvlDXdHEC",
+"date":"2013-05-05 21:46:58"
+},
+{
+"kids":[],
+"uid":"jims",
+"parent":"",
+"text":"总裁，你的数学体育老师教的吗？[哼][哼][哼][哼][哼]",
+"mid":"zvlDU1V27",
+"date":"2013-05-05 21:46:52"
+},
+{
+"kids":[],
+"uid":"1693066385",
+"parent":"zvlADxqYT",
+"text":"一开始我也被忽悠了",
+"mid":"zvlDStt2K",
+"date":"2013-05-05 21:46:48"
+},
+{
+"kids":[],
+"uid":"1936898105",
+"parent":"",
+"text":"很简单的数学题，某些官员是不会做还是有意的做错？",
+"mid":"zvlDRiCKM",
+"date":"2013-05-05 21:46:46"
+},
+{
+"kids":[],
+"uid":"3216750327",
+"parent":"",
+"text":"这种算法、推理真不是一般的恶毒！原来几个市县，众多乡镇农村的灾后重建，三星苹果香港捐的几个亿就够了？！尼玛真是买卖人，会算账！然后给学校扣帽子。我希望你替灾区的某位好人死掉比较合天理！[怒]",
+"mid":"zvlDMj3g1",
+"date":"2013-05-05 21:46:36"
+},
+{
+"kids":[],
+"uid":"johnhardaway",
+"parent":"zvlpV2Rhd",
+"text":"现在这么流行做数学题啊？应用题都不愁题材了",
+"mid":"zvlDJBTML",
+"date":"2013-05-05 21:46:31"
+},
+{
+"kids":[
+"zvlFYu20E"
+],
+"uid":"1018313524",
+"parent":"zvlCEguFU",
+"text":"我觉得他们故意装弱智博出位",
+"mid":"zvlDFbHxY",
+"date":"2013-05-05 21:46:17"
+},
+{
+"kids":[],
+"uid":"1980381644",
+"parent":"",
+"text":"哈哈哈这就是传说中的50万乘以100万等于5000万",
+"mid":"zvlDDpdoz",
+"date":"2013-05-05 21:46:13"
+},
+{
+"kids":[
+"zvlGCphfL"
+],
+"uid":"573910033",
+"parent":"zvlCMwQcT",
+"text":"这笔帐不敢算。",
+"mid":"zvlDAdJfK",
+"date":"2013-05-05 21:46:05"
+},
+{
+"kids":[],
+"uid":"jerrymartian",
+"parent":"zvlpV2Rhd",
+"text":"一字之差万有余",
+"mid":"zvlDtmnFa",
+"date":"2013-05-05 21:45:49"
+},
+{
+"kids":[
+"zvlEfwT6U"
+],
+"uid":"2542149432",
+"parent":"zvlADxqYT",
+"text":"怎么计算的？数学木有学好！——没文化，真可怕！",
+"mid":"zvlDjEufq",
+"date":"2013-05-05 21:45:28"
+},
+{
+"kids":[],
+"uid":"2754757993",
+"parent":"",
+"text":"",
+"mid":"zvlDgFleu",
+"date":"2013-05-05 21:45:21"
+},
+{
+"kids":[],
+"uid":"zhanglanny",
+"parent":"zvlpV2Rhd",
+"text":"帐都算不清，人均只有105元。[哈哈]",
+"mid":"zvlDauPVY",
+"date":"2013-05-05 21:45:05"
+},
+{
+"kids":[],
+"uid":"2958071293",
+"parent":"zvlzumGNX",
+"text":"这傻逼猪算帖还真是有傻逼不停的发。/@乐淘李勇: 唉，公知",
+"mid":"zvlD8nt97",
+"date":"2013-05-05 21:45:00"
+},
+{
+"kids":[],
+"uid":"2852525277",
+"parent":"",
+"text":"请尽快移民美国拉低整个州的智商。。。",
+"mid":"zvlD58xqn",
+"date":"2013-05-05 21:44:51"
+},
+{
+"kids":[],
+"uid":"2683005723",
+"parent":"",
+"text":"我只想问，智商呢？BO主的智商呢？",
+"mid":"zvlD0qfsW",
+"date":"2013-05-05 21:44:40"
+},
+{
+"kids":[],
+"uid":"2510873097",
+"parent":"zvlt7xRxs",
+"text":"",
+"mid":"zvlCWBleQ",
+"date":"2013-05-05 21:44:32"
+},
+{
+"kids":[],
+"uid":"3328210122",
+"parent":"",
+"text":"",
+"mid":"zvlCT1Cq3",
+"date":"2013-05-05 21:44:21"
+},
+{
+"kids":[
+"zvlLZ8qJ3",
+"zvlL3uH2m"
+],
+"uid":"zhouxingxin",
+"parent":"",
+"text":"",
+"mid":"zvlCQos3X",
+"date":"2013-05-05 21:44:18"
+},
+{
+"kids":[],
+"uid":"2524671664",
+"parent":"zvlpV2Rhd",
+"text":"张颐武: 可参考究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlCPdBho",
+"date":"2013-05-05 21:44:13"
+},
+{
+"kids":[
+"zvrCtm1Go",
+"zvlHC9Fyq",
+"zvlGa56kG",
+"zvlEm5pH3",
+"zvlDAdJfK"
+],
+"uid":"313928666",
+"parent":"zvlByilhu",
+"text":"这个总裁，估计也是经常莺歌燕舞者，本来收100中介费，开口100万，客户不吓跑才怪。[兔子]",
+"mid":"zvlCMwQcT",
+"date":"2013-05-05 21:44:07"
+},
+{
+"kids":[],
+"uid":"2412997585",
+"parent":"zvlADxqYT",
+"text":"http:",
+"mid":"zvlCMdIra",
+"date":"2013-05-05 21:44:07"
+},
+{
+"kids":[
+"zvlHMx0WF",
+"zvlEE4mkx"
+],
+"uid":"acesoul",
+"parent":"zvlByilhu",
+"text":"根本不需要捐任何东西了",
+"mid":"zvlCL4oBy",
+"date":"2013-05-05 21:44:05"
+},
+{
+"kids":[
+"zvlLygH6H"
+],
+"uid":"2203840350",
+"parent":"zvlCas3Rs",
+"text":"说错了,是105万",
+"mid":"zvlCI8DEm",
+"date":"2013-05-05 21:43:58"
+},
+{
+"kids":[
+"zvlDFbHxY"
+],
+"uid":"leimiaos",
+"parent":"",
+"text":"不错啦，人家都会做加法了",
+"mid":"zvlCEguFU",
+"date":"2013-05-05 21:43:49"
+},
+{
+"kids":[],
+"uid":"2171879967",
+"parent":"zvlsomXsA",
+"text":"",
+"mid":"zvlCy2HQf",
+"date":"2013-05-05 21:43:33"
+},
+{
+"kids":[],
+"uid":"1655361215",
+"parent":"zvlyIbPzZ",
+"text":"",
+"mid":"zvlCw098B",
+"date":"2013-05-05 21:43:28"
+},
+{
+"kids":[],
+"uid":"qxqx2000",
+"parent":"zvlzumGNX",
+"text":"哈哈哈哈。前段有个叫皮世明的发贴50万*100万=5000万，终于找到一个同意他算法的人。不容易啊。[哈哈][哈哈]都是数学老师死的早的可怜银儿呀。[偷笑]",
+"mid":"zvlCvs3py",
+"date":"2013-05-05 21:43:25"
+},
+{
+"kids":[],
+"uid":"liyangsheng5203",
+"parent":"zvluxC8jb",
+"text":"脑袋装的系统不对，估计得需要重装，要不然脑袋就真的中病毒了。[哈哈]",
+"mid":"zvlCqDa8N",
+"date":"2013-05-05 21:43:14"
+},
+{
+"kids":[
+"zvlCI8DEm"
+],
+"uid":"2203840350",
+"parent":"zvlz5dhjQ",
+"text":"特么每人那一万就请博主出",
+"mid":"zvlCas3Rs",
+"date":"2013-05-05 21:42:39"
+},
+{
+"kids":[],
+"uid":"3038758203",
+"parent":"zvlpV2Rhd",
+"text":"瞎雞巴算，是-百吧。",
+"mid":"zvlCapB5t",
+"date":"2013-05-05 21:42:38"
+},
+{
+"kids":[],
+"uid":"2673504665",
+"parent":"",
+"text":"这边的评论太有水平了[哈哈]",
+"mid":"zvlC2tgvt",
+"date":"2013-05-05 21:42:17"
+},
+{
+"kids":[],
+"uid":"316893331",
+"parent":"zvlpV2Rhd",
+"text":"╮(╯▽╰)╭总是有脑残",
+"mid":"zvlC1w4N3",
+"date":"2013-05-05 21:42:14"
+},
+{
+"kids":[
+"zvlRS5bFC",
+"zvlH1gXiB"
+],
+"uid":"yekki",
+"parent":"",
+"text":"把数算对了再装B啊！[哈哈]",
+"mid":"zvlBYh93Y",
+"date":"2013-05-05 21:42:09"
+},
+{
+"kids":[],
+"uid":"1401262493",
+"parent":"",
+"text":"此人干嘛的？脑残吧[汗]这么倆数能多算出来4个0……[汗]",
+"mid":"zvlBTxkg1",
+"date":"2013-05-05 21:41:55"
+},
+{
+"kids":[],
+"uid":"1836153535",
+"parent":"zvluxC8jb",
+"text":"真不知道以后是捐呢还是不捐呢？",
+"mid":"zvlBD29Uh",
+"date":"2013-05-05 21:41:18"
+},
+{
+"kids":[
+"zvn4Kz761"
+],
+"uid":"2170801815",
+"parent":"",
+"text":"1亿6千万除153万是106块....下回能黑的专业点吗.....",
+"mid":"zvlBBe8DY",
+"date":"2013-05-05 21:41:12"
+},
+{
+"kids":[
+"zvlCMwQcT",
+"zvlCL4oBy"
+],
+"uid":"2085718134",
+"parent":"zvlADxqYT",
+"text":"[泪]难怪房价那么高！",
+"mid":"zvlByilhu",
+"date":"2013-05-05 21:41:07"
+},
+{
+"kids":[],
+"uid":"TrencyHuang",
+"parent":"zvlpV2Rhd",
+"text":"平均每人105元好不好？!小学数学体育老师教的吧",
+"mid":"zvlBmt1rY",
+"date":"2013-05-05 21:40:39"
+},
+{
+"kids":[
+"zvlGRbVB5"
+],
+"uid":"1894105354",
+"parent":"zvlAwtzCR",
+"text":"",
+"mid":"zvlBje5Lg",
+"date":"2013-05-05 21:40:30"
+},
+{
+"kids":[
+"zvlIMhKTN"
+],
+"uid":"klgdxiyangyang",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlB78BGV",
+"date":"2013-05-05 21:40:00"
+},
+{
+"kids":[],
+"uid":"1793948263",
+"parent":"zvlpV2Rhd",
+"text":"张颐武:可参考究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlB5kGzN",
+"date":"2013-05-05 21:39:58"
+},
+{
+"kids":[],
+"uid":"1657109782",
+"parent":"",
+"text":"说你数学是体育老师教的都侮辱体育老师，敢说你捐了多少吗？",
+"mid":"zvlAVzsiM",
+"date":"2013-05-05 21:39:36"
+},
+{
+"kids":[],
+"uid":"2832782494",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlALgjFy",
+"date":"2013-05-05 21:39:10"
+},
+{
+"kids":[],
+"uid":"hbotaku",
+"parent":"zvlzQeYIm",
+"text":"po主啊…你的智商叫做黄鼠狼！",
+"mid":"zvlAJsxe7",
+"date":"2013-05-05 21:39:08"
+},
+{
+"kids":[],
+"uid":"fatcharles",
+"parent":"",
+"text":"看到数字统计，你就知道，到底谁在发国难财啊？",
+"mid":"zvlAEr7kw",
+"date":"2013-05-05 21:38:54"
+},
+{
+"kids":[
+"zvlHb0Ejq",
+"zvlDStt2K",
+"zvlDjEufq",
+"zvlCMdIra",
+"zvlByilhu"
+],
+"uid":"313928666",
+"parent":"zvluXCsko",
+"text":"回复@南海老虎:害的大叔计算机、笔算几次，相差10000倍呀。发工资100当1万，我看他们马上跳起来。[哈哈]",
+"mid":"zvlADxqYT",
+"date":"2013-05-05 21:38:50"
+},
+{
+"kids":[],
+"uid":"zlfdx",
+"parent":"zvlvl0RYg",
+"text":"是不能这么算，因为105，多了一个万",
+"mid":"zvlACEbY9",
+"date":"2013-05-05 21:38:48"
+},
+{
+"kids":[
+"zvlBje5Lg"
+],
+"uid":"sdieureka",
+"parent":"",
+"text":"看来最近几年，体育老师真的很忙啊...",
+"mid":"zvlAwtzCR",
+"date":"2013-05-05 21:38:36"
+},
+{
+"kids":[],
+"uid":"zhenguowang",
+"parent":"zvlpV2Rhd",
+"text":"原帖今天看了多人转发;只能说，世态浮躁，扼杀思考;没文化，真可怕...",
+"mid":"zvlAvAkes",
+"date":"2013-05-05 21:38:33"
+},
+{
+"kids":[],
+"uid":"1254159801",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlAtglZq",
+"date":"2013-05-05 21:38:25"
+},
+{
+"kids":[],
+"uid":"3261956142",
+"parent":"zvl2dwwaH",
+"text":"在不能保证透明公开前，一分都不能捐",
+"mid":"zvlAm94kP",
+"date":"2013-05-05 21:38:11"
+},
+{
+"kids":[],
+"uid":"3021733765",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlAkoj7C",
+"date":"2013-05-05 21:38:05"
+},
+{
+"kids":[
+"zvmvjewb8"
+],
+"uid":"dengxl",
+"parent":"",
+"text":"难怪港府不肯捐款！",
+"mid":"zvlAdxxU0",
+"date":"2013-05-05 21:37:49"
+},
+{
+"kids":[
+"zvlGEvp7I"
+],
+"uid":"1269728775",
+"parent":"zvlqQCxtm",
+"text":"有道理，钱呢，分到手后雅安人民都是百万富翁了呀",
+"mid":"zvlA6czI6",
+"date":"2013-05-05 21:37:32"
+},
+{
+"kids":[],
+"uid":"1051226302",
+"parent":"zvlpV2Rhd",
+"text":"道路、电力、供水、医疗等基础设施重建几个亿够吗",
+"mid":"zvlA23n66",
+"date":"2013-05-05 21:37:19"
+},
+{
+"kids":[],
+"uid":"2040647810",
+"parent":"",
+"text":"又一个，这是今天见到的第五个了，你们小学是一个班的吗？",
+"mid":"zvlA1bLSz",
+"date":"2013-05-05 21:37:17"
+},
+{
+"kids":[],
+"uid":"1484947761",
+"parent":"zvlzumGNX",
+"text":"[哈哈][哈哈]不是第一只",
+"mid":"zvlA1a82v",
+"date":"2013-05-05 21:37:20"
+},
+{
+"kids":[],
+"uid":"heyunchao",
+"parent":"",
+"text":"缺的不是钱！",
+"mid":"zvlzZpgU3",
+"date":"2013-05-05 21:37:15"
+},
+{
+"kids":[],
+"uid":"notoginsen",
+"parent":"zvlz5dhjQ",
+"text":"",
+"mid":"zvlzUme4Q",
+"date":"2013-05-05 21:37:04"
+},
+{
+"kids":[],
+"uid":"minda1984",
+"parent":"",
+"text":"刚看见这条信息的确要思考。我老家在雅安与洪雅交界处。地震时村里虽没大灾但好多户房屋有裂开。虽然对于现今贪污很是不满，不过在计算雅安人均得多少问题上要说几句。首先基础设施建设，光一条路想必也不是几十百来万能解决的吧！如亲所述各自分百来万到其他地生活吗",
+"mid":"zvlzTtVRK",
+"date":"2013-05-05 21:37:00"
+},
+{
+"kids":[],
+"uid":"3204985234",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvlzSBkfS",
+"date":"2013-05-05 21:37:00"
+},
+{
+"kids":[
+"zvlAJsxe7"
+],
+"uid":"crazy0and0cool",
+"parent":"",
+"text":"这博主你滴算术是神马东西教滴啊",
+"mid":"zvlzQeYIm",
+"date":"2013-05-05 21:36:54"
+},
+{
+"kids":[],
+"uid":"3357660460",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvlzPARQi",
+"date":"2013-05-05 21:36:51"
+},
+{
+"kids":[],
+"uid":"1920230034",
+"parent":"zvlz5dhjQ",
+"text":"数死早",
+"mid":"zvlzLcDxa",
+"date":"2013-05-05 21:36:40"
+},
+{
+"kids":[],
+"uid":"1674403531",
+"parent":"",
+"text":"",
+"mid":"zvlzIgPFC",
+"date":"2013-05-05 21:36:33"
+},
+{
+"kids":[
+"zvm9Ctsi1",
+"zvlP5u9yH",
+"zvlEG8rGs",
+"zvlD8nt97",
+"zvlCvs3py",
+"zvlA1a82v"
+],
+"uid":"573399711",
+"parent":"zvlz5dhjQ",
+"text":"唉，公知",
+"mid":"zvlzumGNX",
+"date":"2013-05-05 21:36:01"
+},
+{
+"kids":[],
+"uid":"luyixiang",
+"parent":"",
+"text":"智商与财富果然是成反比的~",
+"mid":"zvlzmELgg",
+"date":"2013-05-05 21:35:42"
+},
+{
+"kids":[],
+"uid":"1968941547",
+"parent":"zvlpV2Rhd",
+"text":"一亿六千万除以153万的结果是104！不是1040000！你小学毕业了没？能码这些字真是奇迹啊〜",
+"mid":"zvlzmoy4R",
+"date":"2013-05-05 21:35:42"
+},
+{
+"kids":[],
+"uid":"alex168i",
+"parent":"zvluPC8XX",
+"text":"",
+"mid":"zvlzkkrX3",
+"date":"2013-05-05 21:35:38"
+},
+{
+"kids":[],
+"uid":"277443996",
+"parent":"zvlpV2Rhd",
+"text":"为什么会变成这个样子，无语ing",
+"mid":"zvlz66wm8",
+"date":"2013-05-05 21:35:04"
+},
+{
+"kids":[
+"zvlCas3Rs",
+"zvlzUme4Q",
+"zvlzLcDxa",
+"zvlzumGNX"
+],
+"uid":"dennis919696",
+"parent":"zvluXCsko",
+"text":"[圍觀]",
+"mid":"zvlz5dhjQ",
+"date":"2013-05-05 21:34:59"
+},
+{
+"kids":[],
+"uid":"chapaofan",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlz4Dbud",
+"date":"2013-05-05 21:35:01"
+},
+{
+"kids":[],
+"uid":"2359142421",
+"parent":"",
+"text":"[挖鼻屎]",
+"mid":"zvlz0fLhP",
+"date":"2013-05-05 21:34:50"
+},
+{
+"kids":[],
+"uid":"1016912612",
+"parent":"zvlpV2Rhd",
+"text":"105块不是105万！！",
+"mid":"zvlyYrvcn",
+"date":"2013-05-05 21:34:46"
+},
+{
+"kids":[],
+"uid":"1944216485",
+"parent":"zvlpV2Rhd",
+"text":"好算数！",
+"mid":"zvlyR67n8",
+"date":"2013-05-05 21:34:26"
+},
+{
+"kids":[
+"zvlEieOCv",
+"zvlCw098B"
+],
+"uid":"1423841072",
+"parent":"zvltrmoWA",
+"text":"博主学的什么算术，应该是105元。",
+"mid":"zvlyIbPzZ",
+"date":"2013-05-05 21:34:05"
+},
+{
+"kids":[],
+"uid":"17sk",
+"parent":"zvluxC8jb",
+"text":"极具诱导和煽动性，特别迎合愤青们的口味",
+"mid":"zvlyElg68",
+"date":"2013-05-05 21:33:55"
+},
+{
+"kids":[],
+"uid":"2073240800",
+"parent":"zvlvQhgUz",
+"text":"谣言止于智者[嘻嘻][哈哈]，我就是那个智者！[爱你][花心][太开心]",
+"mid":"zvlywkXF6",
+"date":"2013-05-05 21:33:37"
+},
+{
+"kids":[],
+"uid":"2736391921",
+"parent":"zvlpV2Rhd",
+"text":"真贱。",
+"mid":"zvlyvuLwX",
+"date":"2013-05-05 21:33:36"
+},
+{
+"kids":[],
+"uid":"2598325712",
+"parent":"zvlslpmZu",
+"text":"嗯，追问一下更清楚明了!",
+"mid":"zvlyp0RSi",
+"date":"2013-05-05 21:33:21"
+},
+{
+"kids":[
+"zvlLtd3wU"
+],
+"uid":"1942724593",
+"parent":"",
+"text":"每人105万[汗]，你数学真棒[good]",
+"mid":"zvly9B7kr",
+"date":"2013-05-05 21:32:42"
+},
+{
+"kids":[],
+"uid":"2279048794",
+"parent":"zvlpV2Rhd",
+"text":"脑残被忽悠起来目的就达到了，算错没算错不重要",
+"mid":"zvly9kSwy",
+"date":"2013-05-05 21:32:42"
+},
+{
+"kids":[
+"zvmj8hxgP",
+"zvlXEtu7b",
+"zvlIXsBfw",
+"zvlHbxHeA"
+],
+"uid":"xinfeiyang1996",
+"parent":"zvlpV2Rhd",
+"text":"顶张老师!",
+"mid":"zvly7x1Ya",
+"date":"2013-05-05 21:32:40"
+},
+{
+"kids":[],
+"uid":"3295787523",
+"parent":"",
+"text":"数学老师阵亡了？",
+"mid":"zvly1m5dr",
+"date":"2013-05-05 21:32:25"
+},
+{
+"kids":[],
+"uid":"1827804975",
+"parent":"zvlpV2Rhd",
+"text":":可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlxYDunu",
+"date":"2013-05-05 21:32:17"
+},
+{
+"kids":[],
+"uid":"2864249880",
+"parent":"zvlpV2Rhd",
+"text":"原博数死早啊，人均104元好么……【路过没忍住，还是吐槽一句……】",
+"mid":"zvlxUwRUt",
+"date":"2013-05-05 21:32:09"
+},
+{
+"kids":[],
+"uid":"1431790602",
+"parent":"zvlpV2Rhd",
+"text":"就这样的还能做地产营销？尼玛连成本都核算不清楚，小心把自己底裤都给赔没了！",
+"mid":"zvlxOCd4C",
+"date":"2013-05-05 21:31:56"
+},
+{
+"kids":[],
+"uid":"1171722617",
+"parent":"zvlpV2Rhd",
+"text":"@张颐武: 可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪就是恶毒",
+"mid":"zvlxIpWVn",
+"date":"2013-05-05 21:31:37"
+},
+{
+"kids":[
+"zvlFClMwn"
+],
+"uid":"lixiao1215",
+"parent":"zvlt7xRxs",
+"text":"体育老师死得早啊。。。",
+"mid":"zvlxfaHjv",
+"date":"2013-05-05 21:30:30"
+},
+{
+"kids":[],
+"uid":"1752491425",
+"parent":"",
+"text":"幽默！",
+"mid":"zvlx5sdwH",
+"date":"2013-05-05 21:30:07"
+},
+{
+"kids":[],
+"uid":"1504856752",
+"parent":"zvluxC8jb",
+"text":"[哈哈][哈哈]这个脑残段子还有在啊",
+"mid":"zvlx11I9q",
+"date":"2013-05-05 21:29:57"
+},
+{
+"kids":[],
+"uid":"3200417380",
+"parent":"",
+"text":"您老办企业会赚钱，105元瞬间变成了105万，还有一些不明真相的屌丝跟随。",
+"mid":"zvlwY2mjd",
+"date":"2013-05-05 21:29:49"
+},
+{
+"kids":[],
+"uid":"3266533775",
+"parent":"",
+"text":"真坑",
+"mid":"zvlwQCOGi",
+"date":"2013-05-05 21:29:29"
+},
+{
+"kids":[
+"zvm4r0MEa",
+"zvm3EdsVp",
+"zvlSMeHUS"
+],
+"uid":"1662638292",
+"parent":"zvlpV2Rhd",
+"text":"看头衔似乎也人五人六,既然自称是卖房子的商人,难道对钱的数量级就这概念和感觉吗?一亿多就想养活100万人,实际跟普通人想用一毛钱吃顿饭一样.",
+"mid":"zvlwNFueg",
+"date":"2013-05-05 21:29:24"
+},
+{
+"kids":[],
+"uid":"tianhevista",
+"parent":"zvlpV2Rhd",
+"text":"不要再侮辱体育老师了，这厮数学是他爹妈教的。。",
+"mid":"zvlwNqx7q",
+"date":"2013-05-05 21:29:22"
+},
+{
+"kids":[],
+"uid":"2018132715",
+"parent":"zvlpV2Rhd",
+"text":"@张颐武:可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪",
+"mid":"zvlwJfIfh",
+"date":"2013-05-05 21:29:14"
+},
+{
+"kids":[],
+"uid":"1464931565",
+"parent":"",
+"text":"刚一个高级置业顾问发这个高等数学的帖，现在又一个房产公司总裁，想当公知必须秀此种高等算术的本领吗[弱]",
+"mid":"zvlwCad6v",
+"date":"2013-05-05 21:28:57"
+},
+{
+"kids":[],
+"uid":"yutongjiayou",
+"parent":"zvlrPbd8q",
+"text":"",
+"mid":"zvlwvFJYY",
+"date":"2013-05-05 21:28:42"
+},
+{
+"kids":[],
+"uid":"1826661483",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlwl3Duu",
+"date":"2013-05-05 21:28:16"
+},
+{
+"kids":[],
+"uid":"zhangrongming1993",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlwgzckx",
+"date":"2013-05-05 21:28:05"
+},
+{
+"kids":[],
+"uid":"nakeya",
+"parent":"zvlpV2Rhd",
+"text":"房地产总裁的数学是体育老师教的= =",
+"mid":"zvlwaov4V",
+"date":"2013-05-05 21:27:51"
+},
+{
+"kids":[],
+"uid":"2902216861",
+"parent":"zvlpV2Rhd",
+"text":"地震一个灾难面前还是有人有”袭”有人忧，无奈。只能口中痛骂，却无力回天。",
+"mid":"zvlwaov2Q",
+"date":"2013-05-05 21:27:50"
+},
+{
+"kids":[],
+"uid":"sumslin",
+"parent":"",
+"text":"几千人中无贴僵尸粉量很可观。中毒了!",
+"mid":"zvlw6xVAI",
+"date":"2013-05-05 21:27:42"
+},
+{
+"kids":[
+"zw8seo3aB",
+"zvQbKre0n",
+"zvQbKbcrn"
+],
+"uid":"2360958023",
+"parent":"zvlpV2Rhd",
+"text":"钱？",
+"mid":"zvlw3z2mI",
+"date":"2013-05-05 21:27:35"
+},
+{
+"kids":[],
+"uid":"mcflash",
+"parent":"",
+"text":"这数算的太雷了，哈尔滨的数学老师没这么差吧，哈九中的鄙视一下家乡人。",
+"mid":"zvlw1zKOj",
+"date":"2013-05-05 21:27:27"
+},
+{
+"kids":[],
+"uid":"337358583",
+"parent":"zvlpV2Rhd",
+"text":"哎。",
+"mid":"zvlvWxqzE",
+"date":"2013-05-05 21:27:17"
+},
+{
+"kids":[],
+"uid":"1682801644",
+"parent":"",
+"text":"难怪房价这么高。。。房产公司都是这么算账的啊？！[汗][吃惊][吃惊]",
+"mid":"zvlvWe094",
+"date":"2013-05-05 21:27:15"
+},
+{
+"kids":[],
+"uid":"nyfans",
+"parent":"zvlpV2Rhd",
+"text":"数学老师怎么躺这些人才满意啊？！！！[弱]",
+"mid":"zvlvRtG3u",
+"date":"2013-05-05 21:27:06"
+},
+{
+"kids":[],
+"uid":"2132797133",
+"parent":"",
+"text":"",
+"mid":"zvlvQAUpl",
+"date":"2013-05-05 21:27:04"
+},
+{
+"kids":[
+"zvmmL9Mhb",
+"zvlywkXF6"
+],
+"uid":"1632447775",
+"parent":"zvlpV2Rhd",
+"text":"小学数学是体育老师教的迈[鄙视]",
+"mid":"zvlvQhgUz",
+"date":"2013-05-05 21:27:04"
+},
+{
+"kids":[],
+"uid":"1739896544",
+"parent":"",
+"text":"在近似于双方动手的喧嚣气氛中，你的数学计算让我大笑不已。不带拿豆腐打群架的。",
+"mid":"zvlvMaEZs",
+"date":"2013-05-05 21:26:53"
+},
+{
+"kids":[],
+"uid":"1760127483",
+"parent":"",
+"text":"不能说你脑残，只能骂你脑壳有包。",
+"mid":"zvlvIA7Px",
+"date":"2013-05-05 21:26:43"
+},
+{
+"kids":[],
+"uid":"1776354943",
+"parent":"zvlt7xRxs",
+"text":"",
+"mid":"zvlvF59MD",
+"date":"2013-05-05 21:26:37"
+},
+{
+"kids":[],
+"uid":"2262926245",
+"parent":"zvlt7xRxs",
+"text":"",
+"mid":"zvlvnCMny",
+"date":"2013-05-05 21:25:55"
+},
+{
+"kids":[],
+"uid":"1438319360",
+"parent":"",
+"text":"算账？你敢和政府算账？虽然我们也想，中国现在只有腐败是透明的，地球周知的。",
+"mid":"zvlvmrWaV",
+"date":"2013-05-05 21:25:52"
+},
+{
+"kids":[
+"zvlACEbY9"
+],
+"uid":"519789691",
+"parent":"zvlt7xRxs",
+"text":"询问是必要的，但绝不能这样算，相当多的公共设施毁坏",
+"mid":"zvlvl0RYg",
+"date":"2013-05-05 21:25:48"
+},
+{
+"kids":[],
+"uid":"2025467943",
+"parent":"zvlrPbd8q",
+"text":"",
+"mid":"zvlvk6fuU",
+"date":"2013-05-05 21:25:42"
+},
+{
+"kids":[
+"zvSG55RDt"
+],
+"uid":"ulyre",
+"parent":"zvlpV2Rhd",
+"text":"数学老师死得早啊！！！可见道德感也是要建立在智商的基础之上的。@第一推动主题沙龙",
+"mid":"zvlva6UBA",
+"date":"2013-05-05 21:25:19"
+},
+{
+"kids":[],
+"uid":"520jeff",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlv7FhXW",
+"date":"2013-05-05 21:25:17"
+},
+{
+"kids":[],
+"uid":"1045957902",
+"parent":"zvlsFdNj0",
+"text":"今天所有智障为了踏入公知的门槛纷纷转发这条数学老师死得早的神文！",
+"mid":"zvlv48KYe",
+"date":"2013-05-05 21:25:08"
+},
+{
+"kids":[],
+"uid":"3295484570",
+"parent":"zvlpV2Rhd",
+"text":"入木三分",
+"mid":"zvlv1dqf6",
+"date":"2013-05-05 21:25:00"
+},
+{
+"kids":[
+"zvlADxqYT",
+"zvlz5dhjQ"
+],
+"uid":"313928666",
+"parent":"zvlsJDcHa",
+"text":"[哈哈]以后看见这样简单的数字都计算错误，惟恐天下不乱之人，应该去“V”，以观后效。",
+"mid":"zvluXCsko",
+"date":"2013-05-05 21:24:53"
+},
+{
+"kids":[
+"zvlzkkrX3"
+],
+"uid":"1972618255",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvluPC8XX",
+"date":"2013-05-05 21:24:33"
+},
+{
+"kids":[],
+"uid":"1429689907",
+"parent":"zvlpV2Rhd",
+"text":"[汗]狗日的，他这是怨还是咒他数学老师死得早么？",
+"mid":"zvluFhI11",
+"date":"2013-05-05 21:24:08"
+},
+{
+"kids":[],
+"uid":"uuukees",
+"parent":"",
+"text":"承接小学数学家教业务，收费标准105万/3h。",
+"mid":"zvluCBYTM",
+"date":"2013-05-05 21:24:04"
+},
+{
+"kids":[
+"zvXMRgfnt",
+"zvlY79Qi9",
+"zvlCqDa8N",
+"zvlBD29Uh",
+"zvlyElg68",
+"zvlx11I9q"
+],
+"uid":"rxsq",
+"parent":"",
+"text":"这年头，小学数学老师都下岗了还是怎么，清洁阿姨教数学也不会教成这个样子啊！",
+"mid":"zvluxC8jb",
+"date":"2013-05-05 21:23:50"
+},
+{
+"kids":[],
+"uid":"2662253341",
+"parent":"zvlpV2Rhd",
+"text":"@张颐武:可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是",
+"mid":"zvluvgrJt",
+"date":"2013-05-05 21:23:45"
+},
+{
+"kids":[],
+"uid":"noneknownme",
+"parent":"",
+"text":"数死早。",
+"mid":"zvlucmzx0",
+"date":"2013-05-05 21:23:00"
+},
+{
+"kids":[],
+"uid":"1152882193",
+"parent":"",
+"text":"卖房子去吧，别整数学这种高难度的东西了！[汗]",
+"mid":"zvluaitpH",
+"date":"2013-05-05 21:22:55"
+},
+{
+"kids":[],
+"uid":"1800339514",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlua2IRM",
+"date":"2013-05-05 21:22:52"
+},
+{
+"kids":[],
+"uid":"2214948567",
+"parent":"zvlrPbd8q",
+"text":"@张颐武:究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvltXyvDk",
+"date":"2013-05-05 21:22:25"
+},
+{
+"kids":[],
+"uid":"3140727017",
+"parent":"zvlpV2Rhd",
+"text":"究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvltW6485",
+"date":"2013-05-05 21:22:21"
+},
+{
+"kids":[],
+"uid":"sumslin",
+"parent":"",
+"text":"哈尔滨市区的发贴人是从哪里学1+1的哦!",
+"mid":"zvltQt0t7",
+"date":"2013-05-05 21:22:07"
+},
+{
+"kids":[],
+"uid":"1651914170",
+"parent":"zvlsKwrOR",
+"text":"不知道为什么这个回复戳中笑点了。。。",
+"mid":"zvltGtgaq",
+"date":"2013-05-05 21:21:41"
+},
+{
+"kids":[
+"zvlyIbPzZ"
+],
+"uid":"121007678",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvltrmoWA",
+"date":"2013-05-05 21:21:08"
+},
+{
+"kids":[],
+"uid":"2747962710",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvltr4kkX",
+"date":"2013-05-05 21:21:05"
+},
+{
+"kids":[],
+"uid":"1903342975",
+"parent":"",
+"text":"",
+"mid":"zvlteDmP5",
+"date":"2013-05-05 21:20:38"
+},
+{
+"kids":[],
+"uid":"n74a",
+"parent":"zvlpV2Rhd",
+"text":"算一算153万乘以105万是多少亿吧[汗]",
+"mid":"zvltaxkkQ",
+"date":"2013-05-05 21:20:27"
+},
+{
+"kids":[],
+"uid":"2047965995",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlt7AKBB",
+"date":"2013-05-05 21:20:21"
+},
+{
+"kids":[
+"zvlCWBleQ",
+"zvlxfaHjv",
+"zvlvF59MD",
+"zvlvnCMny",
+"zvlvl0RYg"
+],
+"uid":"1400713077",
+"parent":"zvlpV2Rhd",
+"text":"嗯",
+"mid":"zvlt7xRxs",
+"date":"2013-05-05 21:20:20"
+},
+{
+"kids":[],
+"uid":"3040481431",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlt7inna",
+"date":"2013-05-05 21:20:18"
+},
+{
+"kids":[],
+"uid":"2397790475",
+"parent":"",
+"text":"[雪]",
+"mid":"zvlt385zu",
+"date":"2013-05-05 21:20:10"
+},
+{
+"kids":[
+"zvltGtgaq"
+],
+"uid":"2110005851",
+"parent":"",
+"text":"数学是传达室大爷教的？",
+"mid":"zvlsKwrOR",
+"date":"2013-05-05 21:19:27"
+},
+{
+"kids":[
+"zvluXCsko"
+],
+"uid":"2085718134",
+"parent":"zvlmZ0VAB",
+"text":"[哈哈]进水了！",
+"mid":"zvlsJDcHa",
+"date":"2013-05-05 21:19:25"
+},
+{
+"kids":[
+"zvlv48KYe"
+],
+"uid":"1147071504",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlsFdNj0",
+"date":"2013-05-05 21:19:10"
+},
+{
+"kids":[],
+"uid":"shuihanxuan",
+"parent":"",
+"text":"尼玛，你会不会算数，1.5亿除以150万还有100万？请补习小学数学。正确的是每个人100元左右。",
+"mid":"zvlsAclzP",
+"date":"2013-05-05 21:19:01"
+},
+{
+"kids":[],
+"uid":"1669411632",
+"parent":"zvlrX9Xf3",
+"text":"贴主的的脸红不红啊？",
+"mid":"zvlsAarbb",
+"date":"2013-05-05 21:19:01"
+},
+{
+"kids":[],
+"uid":"1866262340",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlsziLSZ",
+"date":"2013-05-05 21:18:59"
+},
+{
+"kids":[],
+"uid":"2471934467",
+"parent":"",
+"text":"一直不明白中国房地产为啥一直涨，现在终于知道了，原来房产公司老总是这么算帐的，能不涨吗？",
+"mid":"zvlswDlRv",
+"date":"2013-05-05 21:18:53"
+},
+{
+"kids":[
+"zvlCy2HQf"
+],
+"uid":"jyqg",
+"parent":"zvlpV2Rhd",
+"text":"不太懂这是什么意思，因为老是见到这类帖子。算数没学好？还是有其他意思？如果是，那么告诉我是啥意思？",
+"mid":"zvlsomXsA",
+"date":"2013-05-05 21:18:34"
+},
+{
+"kids":[],
+"uid":"1193087950",
+"parent":"",
+"text":"",
+"mid":"zvlsnrSqa",
+"date":"2013-05-05 21:18:31"
+},
+{
+"kids":[
+"zvlyp0RSi"
+],
+"uid":"1243188730",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlslpmZu",
+"date":"2013-05-05 21:18:26"
+},
+{
+"kids":[],
+"uid":"dahu6",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvls36c2i",
+"date":"2013-05-05 21:17:39"
+},
+{
+"kids":[],
+"uid":"hejianhejian",
+"parent":"zvlpV2Rhd",
+"text":"数据最能说明问题，但政治最不愿意较真，就象红十字会一样，凭什么想做好事，就得通过他们，还得花掉20%的管理费。",
+"mid":"zvls1jHVD",
+"date":"2013-05-05 21:17:38"
+},
+{
+"kids":[
+"zvlsAarbb"
+],
+"uid":"1669411632",
+"parent":"zvlpV2Rhd",
+"text":"我想知道他们脸红不红啊",
+"mid":"zvlrX9Xf3",
+"date":"2013-05-05 21:17:28"
+},
+{
+"kids":[
+"zvnIj8EDf",
+"zvmbwnQ1X",
+"zvlOT6jN9",
+"zvlFk2B7z",
+"zvlwvFJYY",
+"zvlvk6fuU",
+"zvltXyvDk"
+],
+"uid":"2055452751",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlrPbd8q",
+"date":"2013-05-05 21:17:08"
+},
+{
+"kids":[],
+"uid":"1939117861",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlrzvk1r",
+"date":"2013-05-05 21:16:31"
+},
+{
+"kids":[],
+"uid":"2678034411",
+"parent":"zvlpV2Rhd",
+"text":"有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlrufHKz",
+"date":"2013-05-05 21:16:19"
+},
+{
+"kids":[],
+"uid":"1868032715",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlrrimkE",
+"date":"2013-05-05 21:16:11"
+},
+{
+"kids":[],
+"uid":"2828430324",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlrpvRAw",
+"date":"2013-05-05 21:16:08"
+},
+{
+"kids":[],
+"uid":"dongxu87",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlroBOmD",
+"date":"2013-05-05 21:16:06"
+},
+{
+"kids":[],
+"uid":"234378975",
+"parent":"zvlpV2Rhd",
+"text":"钱呢",
+"mid":"zvlrnpZiH",
+"date":"2013-05-05 21:16:03"
+},
+{
+"kids":[],
+"uid":"1218999473",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlrn6NN1",
+"date":"2013-05-05 21:16:00"
+},
+{
+"kids":[],
+"uid":"dozhao",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlrjzpJn",
+"date":"2013-05-05 21:15:54"
+},
+{
+"kids":[],
+"uid":"beautifulworld611",
+"parent":"",
+"text":"又来一个算术都不及格的二逼，挂！",
+"mid":"zvlr4dzaB",
+"date":"2013-05-05 21:15:14"
+},
+{
+"kids":[],
+"uid":"1835544325",
+"parent":"",
+"text":"又是做营销的，听会吸引眼球的，不过傻笨缺了些，基本算术都不会，小学都没毕业，客户怎么放心你哦[弱]",
+"mid":"zvlr318CW",
+"date":"2013-05-05 21:15:14"
+},
+{
+"kids":[],
+"uid":"1407141365",
+"parent":"zvlpV2Rhd",
+"text":"",
+"mid":"zvlqRvMN6",
+"date":"2013-05-05 21:14:44"
+},
+{
+"kids":[
+"zvlPvcTsC",
+"zvlA6czI6"
+],
+"uid":"1913575547",
+"parent":"zvlpV2Rhd",
+"text":"数学没有学好，少做数学题。",
+"mid":"zvlqQCxtm",
+"date":"2013-05-05 21:14:45"
+},
+{
+"kids":[],
+"uid":"1678262522",
+"parent":"",
+"text":"算数是谁教你的啊？？？",
+"mid":"zvlqPpkSU",
+"date":"2013-05-05 21:14:42"
+},
+{
+"kids":[],
+"uid":"3093653011",
+"parent":"zvlpV2Rhd",
+"text":"究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪",
+"mid":"zvlqNCQIY",
+"date":"2013-05-05 21:14:38"
+},
+{
+"kids":[],
+"uid":"2165633781",
+"parent":"zvlpV2Rhd",
+"text":"颐武:可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlqK7UdW",
+"date":"2013-05-05 21:14:27"
+},
+{
+"kids":[],
+"uid":"2135665390",
+"parent":"zvlpV2Rhd",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlqCqgYE",
+"date":"2013-05-05 21:14:11"
+},
+{
+"kids":[],
+"uid":"306869300",
+"parent":"",
+"text":"平均分给每个人是104元5角7分2厘",
+"mid":"zvlqA4AiH",
+"date":"2013-05-05 21:14:03"
+},
+{
+"kids":[],
+"uid":"1743763460",
+"parent":"",
+"text":"",
+"mid":"zvlqxplqZ",
+"date":"2013-05-05 21:13:59"
+},
+{
+"kids":[],
+"uid":"1725020011",
+"parent":"",
+"text":"",
+"mid":"zvlqqlyEY",
+"date":"2013-05-05 21:13:40"
+},
+{
+"kids":[
+"zvKe14pAM",
+"zvvN8Clq1",
+"zvr5jlsjy",
+"zvqte3GY5",
+"zvqnTp0hF",
+"zvqeXnEnZ",
+"zvqaGjU3r",
+"zvq7C1hXa",
+"zvpUhuyLY",
+"zvpQZCCgw",
+"zvpJFrY32",
+"zvpHZpWVZ",
+"zvpBJ9RUp",
+"zvpxkpLyY",
+"zvoSMFJjB",
+"zvnGNb0YN",
+"zvmW03oz4",
+"zvmPXmMok",
+"zvmHGCtzU",
+"zvmGOiKPo",
+"zvmFWwfl3",
+"zvmETdgA8",
+"zvmEepGlU",
+"zvmCC0CG1",
+"zvmyoqfOf",
+"zvmuIE3sk",
+"zvmuq1aMj",
+"zvmsTr7mi",
+"zvmse3PNO",
+"zvmrwjxUA",
+"zvmrhy2ge",
+"zvmqHg2U3",
+"zvmpD1BQf",
+"zvmoz7ySY",
+"zvmnf0FOy",
+"zvmkW1uRb",
+"zvmj7pqFa",
+"zvmiJqQRe",
+"zvmif0JXt",
+"zvmghjlaZ",
+"zvmfptkWf",
+"zvmeKpY8C",
+"zvmc0un38",
+"zvmbPhWDM",
+"zvm68dN9W",
+"zvm5m2gEj",
+"zvm4vrEWI",
+"zvm4jBaWj",
+"zvm3yAaMR",
+"zvm2qhDC9",
+"zvm21axyW",
+"zvm1Zo3qk",
+"zvm1Iemqg",
+"zvm1xlWO9",
+"zvm0ukxZX",
+"zvm0hjHYk",
+"zvm0c0GCY",
+"zvm01Efq2",
+"zvlZhxNmD",
+"zvlYccZQK",
+"zvlX0juSk",
+"zvlWh6Isn",
+"zvlUJmTU3",
+"zvlUH2upg",
+"zvlSBfA5n",
+"zvlSef74j",
+"zvlREauOv",
+"zvlR7Ebc0",
+"zvlQTuLiD",
+"zvlQC4jYH",
+"zvlQc5zvB",
+"zvlQ5yUfh",
+"zvlP65Noq",
+"zvlNYnYLg",
+"zvlNTCFcs",
+"zvlLOclEr",
+"zvlLNj6Bk",
+"zvlLLdxUd",
+"zvlLH6QbD",
+"zvlLdhdxV",
+"zvlL3d5N9",
+"zvlL3cIsK",
+"zvlL00T6B",
+"zvlKXi3ne",
+"zvlKW7Afw",
+"zvlJLqGVI",
+"zvlJvbAiH",
+"zvlJmlEbg",
+"zvlJhBNkF",
+"zvlJds22A",
+"zvlIZgzLS",
+"zvlHK8pYT",
+"zvlHti4Sf",
+"zvlHdmRhZ",
+"zvlGUpm9n",
+"zvlFp50V1",
+"zvlFco0vV",
+"zvlF2iChH",
+"zvlEqsY1l",
+"zvlEjpFqn",
+"zvlDJBTML",
+"zvlDtmnFa",
+"zvlDauPVY",
+"zvlCPdBho",
+"zvlCapB5t",
+"zvlC1w4N3",
+"zvlBmt1rY",
+"zvlB78BGV",
+"zvlB5kGzN",
+"zvlALgjFy",
+"zvlAvAkes",
+"zvlAtglZq",
+"zvlAkoj7C",
+"zvlA23n66",
+"zvlzmoy4R",
+"zvlz66wm8",
+"zvlz4Dbud",
+"zvlyYrvcn",
+"zvlyR67n8",
+"zvlyvuLwX",
+"zvly9kSwy",
+"zvly7x1Ya",
+"zvlxYDunu",
+"zvlxUwRUt",
+"zvlxOCd4C",
+"zvlxIpWVn",
+"zvlwNFueg",
+"zvlwNqx7q",
+"zvlwJfIfh",
+"zvlwl3Duu",
+"zvlwgzckx",
+"zvlwaov4V",
+"zvlwaov2Q",
+"zvlw3z2mI",
+"zvlvWxqzE",
+"zvlvRtG3u",
+"zvlvQhgUz",
+"zvlva6UBA",
+"zvlv7FhXW",
+"zvlv1dqf6",
+"zvluPC8XX",
+"zvluFhI11",
+"zvluvgrJt",
+"zvlua2IRM",
+"zvltW6485",
+"zvltrmoWA",
+"zvltr4kkX",
+"zvltaxkkQ",
+"zvlt7AKBB",
+"zvlt7xRxs",
+"zvlt7inna",
+"zvlsFdNj0",
+"zvlsziLSZ",
+"zvlsomXsA",
+"zvlslpmZu",
+"zvls36c2i",
+"zvls1jHVD",
+"zvlrX9Xf3",
+"zvlrPbd8q",
+"zvlrzvk1r",
+"zvlrufHKz",
+"zvlrrimkE",
+"zvlrpvRAw",
+"zvlroBOmD",
+"zvlrnpZiH",
+"zvlrn6NN1",
+"zvlrjzpJn",
+"zvlqRvMN6",
+"zvlqQCxtm",
+"zvlqNCQIY",
+"zvlqK7UdW",
+"zvlqCqgYE"
+],
+"uid":"571100698",
+"parent":"",
+"text":"可参考，究竟雅安一个人多少钱？很容易算清楚。有些是算错，糊涂，这不奇怪。但奇怪的是就是这样的算数层出不穷。但确实有造这些谣言进行刻意扭曲的，就是希望雅安人民倒霉，他们有蛇蝎一般的心，有老鼠一样的眼，有唯恐国家不乱，恨不得社会崩溃的阴暗心理，他们侮辱雅安人都是大富豪，就是恶毒",
+"mid":"zvlpV2Rhd",
+"date":"2013-05-05 21:12:25"
+},
+{
+"kids":[],
+"uid":"yhychina",
+"parent":"zvlmZ0VAB",
+"text":"的确是进了一氧化二氢",
+"mid":"zvloxB5Vq",
+"date":"2013-05-05 21:09:01"
+},
+{
+"kids":[
+"zvlsJDcHa",
+"zvloxB5Vq"
+],
+"uid":"313928666",
+"parent":"",
+"text":"脑袋进了一氧化二氢？见风就是雨，人云亦云，请删帖吧。：雅安总人口153万， 三星苹果富士康三家公司总共捐款加起来是1亿6千万， 平均分给每个人是104元5角7分2厘。[偷笑]",
+"mid":"zvlmZ0VAB",
+"date":"2013-05-05 21:05:13"
+},
+{
+"kids":[],
+"uid":"3287778581",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvlmI85Yg",
+"date":"2013-05-05 21:04:30"
+},
+{
+"kids":[],
+"uid":"3247907200",
+"parent":"",
+"text":"怎么个算的，不过说实话，要是这些钱真到了灾民手里还是可以帮上忙的，只是钱呢，流走了、、、这些钱都可以给那些灾民盖小区了。于心何忍啊那心拿亏心钱的人。",
+"mid":"zvllVmo8S",
+"date":"2013-05-05 21:02:34"
+},
+{
+"kids":[
+"zzFDd5CHo",
+"zzxDr6ZpS",
+"zzxqkdLSi",
+"zyNrYw03H",
+"zyKNB2nDo",
+"zyzmb17Ix"
+],
+"uid":"2665289403",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvlkSlz9G",
+"date":"2013-05-05 21:00:02"
+},
+{
+"kids":[],
+"uid":"3247907200",
+"parent":"",
+"text":"",
+"mid":"zvlksCQxT",
+"date":"2013-05-05 20:59:01"
+},
+{
+"kids":[],
+"uid":"2961932472",
+"parent":"zvl2dwwaH",
+"text":"继续捐！请您用1亿6000万除以153万人口，每人只有105块。我是实在看不下去这算术水平！",
+"mid":"zvlj3tp3s",
+"date":"2013-05-05 20:55:33"
+},
+{
+"kids":[],
+"uid":"315987771",
+"parent":"zvlcybZgZ",
+"text":"你想气死数学老师啊",
+"mid":"zvlhuA1be",
+"date":"2013-05-05 20:51:42"
+},
+{
+"kids":[],
+"uid":"3209135194",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvlh9B0sk",
+"date":"2013-05-05 20:50:49"
+},
+{
+"kids":[],
+"uid":"3245022544",
+"parent":"zvl2dwwaH",
+"text":"不是把所有捐的钱都分给老百姓了。老百姓得到的补偿金只是很小一部分，大部分钱会被用到灾后重建工作中去吧，个人观点，不知道真相是啥？求解…",
+"mid":"zvlh1BDsG",
+"date":"2013-05-05 20:50:33"
+},
+{
+"kids":[],
+"uid":"3320975034",
+"parent":"zvl2dwwaH",
+"text":"@BIGlily",
+"mid":"zvlgYmHPB",
+"date":"2013-05-05 20:50:25"
+},
+{
+"kids":[],
+"uid":"1165859845",
+"parent":"",
+"text":"按下计算机再发吧!",
+"mid":"zvlg58vBY",
+"date":"2013-05-05 20:48:10"
+},
+{
+"kids":[],
+"uid":"3267197250",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvleQyBoq",
+"date":"2013-05-05 20:45:11"
+},
+{
+"kids":[],
+"uid":"1837008135",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvlewuVSM",
+"date":"2013-05-05 20:44:23"
+},
+{
+"kids":[],
+"uid":"2457696975",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvldp51Q0",
+"date":"2013-05-05 20:41:36"
+},
+{
+"kids":[
+"zvlhuA1be"
+],
+"uid":"2473586751",
+"parent":"",
+"text":"他们说，钱全给老百姓老百姓会花完的",
+"mid":"zvlcybZgZ",
+"date":"2013-05-05 20:39:28"
+},
+{
+"kids":[],
+"uid":"3229386732",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvl9buOYu",
+"date":"2013-05-05 20:31:12"
+},
+{
+"kids":[],
+"uid":"1198922655",
+"parent":"",
+"text":"钱哪儿去了我不知道，你数学谁教的我很感兴趣！你当年那数学卷子哪儿去了？[哈哈]",
+"mid":"zvl8rrHze",
+"date":"2013-05-05 20:29:24"
+},
+{
+"kids":[],
+"uid":"1881912393",
+"parent":"",
+"text":"都已经看透我国慈善了。",
+"mid":"zvl6olGpI",
+"date":"2013-05-05 20:24:21"
+},
+{
+"kids":[],
+"uid":"3019311221",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvl63oucM",
+"date":"2013-05-05 20:23:31"
+},
+{
+"kids":[],
+"uid":"3113318105",
+"parent":"zvl2dwwaH",
+"text":"",
+"mid":"zvl5wAgL5",
+"date":"2013-05-05 20:22:13"
+},
+{
+"kids":[],
+"uid":"2905341303",
+"parent":"",
+"text":"钱呢???@没有江孟奇",
+"mid":"zvl4L08zC",
+"date":"2013-05-05 20:20:19"
+},
+{
+"kids":[],
+"uid":"3208724510",
+"parent":"",
+"text":"",
+"mid":"zvl4aEEWn",
+"date":"2013-05-05 20:18:51"
+},
+{
+"kids":[
+"zvoRcgOn7"
+],
+"uid":"3152132074",
+"parent":"zvl2dwwaH",
+"text":"早就说了腐败的政府贪吧，贪的是生命，别捐了，还不如领家呢",
+"mid":"zvl3Oe8NK",
+"date":"2013-05-05 20:18:00"
+},
+{
+"kids":[
+"zzFDd5CHo",
+"zzxDr6ZpS",
+"zzxqkdLSi",
+"zyNrYw03H",
+"zyKNB2nDo",
+"zyzmb17Ix",
+"zvWoW7Qti",
+"zvv9NksAV",
+"zvt2ZfF7H",
+"zvrzIfNus",
+"zvqqZsglT",
+"zvq9K6FcY",
+"zvoN1rDON",
+"zvoKQ4Zw9",
+"zvnjYDO60",
+"zvmVodjwX",
+"zvmLGhQOl",
+"zvmuA2Tnw",
+"zvmq585bR",
+"zvmg6E2Dt",
+"zvmeLkrTO",
+"zvm09CyEE",
+"zvlAm94kP",
+"zvlzSBkfS",
+"zvlzPARQi",
+"zvlmI85Yg",
+"zvlkSlz9G",
+"zvlj3tp3s",
+"zvlh9B0sk",
+"zvlh1BDsG",
+"zvlgYmHPB",
+"zvleQyBoq",
+"zvlewuVSM",
+"zvldp51Q0",
+"zvl9buOYu",
+"zvl63oucM",
+"zvl5wAgL5",
+"zvl3Oe8NK"
+],
+"uid":"2568239847",
+"parent":"",
+"text":"继续捐！请您用1亿6000万除以153万人口，每人只有105块。我是实在看不下去这算术水平！",
+"mid":"zvl2dwwaH",
+"date":"2013-05-05 20:14:04"
+}
+]

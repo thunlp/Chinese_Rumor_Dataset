@@ -1,0 +1,343 @@
+[
+{
+"kids":[],
+"uid":"tiresky",
+"parent":"z5ppCkIgC",
+"text":"",
+"mid":"z7VRIpfxh",
+"date":"2012-12-02 21:52:32"
+},
+{
+"kids":[],
+"uid":"2804873152",
+"parent":"z5qBAFqMP",
+"text":"",
+"mid":"z5Tmb9Fi6",
+"date":"2012-11-19 11:48:42"
+},
+{
+"kids":[],
+"uid":"2809287574",
+"parent":"z5qBAFqMP",
+"text":"",
+"mid":"z5IUz7JgG",
+"date":"2012-11-18 09:13:14"
+},
+{
+"kids":[],
+"uid":"2920069392",
+"parent":"z5qBAFqMP",
+"text":"",
+"mid":"z5IUyw5zY",
+"date":"2012-11-18 09:13:14"
+},
+{
+"kids":[],
+"uid":"2789912942",
+"parent":"z5qBAFqMP",
+"text":"",
+"mid":"z5ISDajcz",
+"date":"2012-11-18 09:08:28"
+},
+{
+"kids":[],
+"uid":"1674269433",
+"parent":"z5pfS5Ajo",
+"text":"我上个星期才发现，我的本本使四颗脑袋的",
+"mid":"z5uint3Zo",
+"date":"2012-11-16 20:00:42"
+},
+{
+"kids":[],
+"uid":"annwei",
+"parent":"",
+"text":"之前还打错字了……完全没看懂，表示不知道怎么才能让自己的机子的FPS变高……",
+"mid":"z5sKkp7tE",
+"date":"2012-11-16 16:04:05"
+},
+{
+"kids":[],
+"uid":"2121619135",
+"parent":"z5ppCkIgC",
+"text":"",
+"mid":"z5qK5uMr0",
+"date":"2012-11-16 10:57:59"
+},
+{
+"kids":[],
+"uid":"1287704690",
+"parent":"z5pfS5Ajo",
+"text":"不明但觉厉",
+"mid":"z5qDpy36q",
+"date":"2012-11-16 10:41:32"
+},
+{
+"kids":[
+"z5Tmb9Fi6",
+"z5IUz7JgG",
+"z5IUyw5zY",
+"z5ISDajcz"
+],
+"uid":"1977061121",
+"parent":"",
+"text":"",
+"mid":"z5qBAFqMP",
+"date":"2012-11-16 10:37:03"
+},
+{
+"kids":[],
+"uid":"wnvy",
+"parent":"z5pfS5Ajo",
+"text":"",
+"mid":"z5qx0EIOG",
+"date":"2012-11-16 10:25:45"
+},
+{
+"kids":[],
+"uid":"2886316984",
+"parent":"z5qhGoUOu",
+"text":"",
+"mid":"z5qlti3Yk",
+"date":"2012-11-16 09:57:20"
+},
+{
+"kids":[
+"z5qlti3Yk"
+],
+"uid":"yanglin1st",
+"parent":"z5ppCkIgC",
+"text":"回复@用屁股思考的猪:骨骼计算已经优化到几乎没有计算量了，物理引擎分了一个线程",
+"mid":"z5qhGoUOu",
+"date":"2012-11-16 09:48:00"
+},
+{
+"kids":[],
+"uid":"2450384041",
+"parent":"z5qfOi45u",
+"text":"我昨天上线觉得比平时更卡了OTZ..虽然我从来开高配不屏人",
+"mid":"z5qhxtY1G",
+"date":"2012-11-16 09:47:39"
+},
+{
+"kids":[
+"z5qhxtY1G"
+],
+"uid":"2603362717",
+"parent":"z5qd3bQgu",
+"text":"0.0我会说我懂了么~",
+"mid":"z5qfOi45u",
+"date":"2012-11-16 09:43:23"
+},
+{
+"kids":[
+"z5qfOi45u"
+],
+"uid":"1874131884",
+"parent":"z5q9q38s9",
+"text":"T_T右边们在说什么？虽然我每个字都认识但是看不懂T_T",
+"mid":"z5qd3bQgu",
+"date":"2012-11-16 09:36:35"
+},
+{
+"kids":[],
+"uid":"2122404251",
+"parent":"z5pfS5Ajo",
+"text":"[挖鼻屎]我觉得有必要把我的I5 2320 换成I5 2550k去玩玩超频了，可是还要换主板[生病]",
+"mid":"z5qcrmIJU",
+"date":"2012-11-16 09:35:04"
+},
+{
+"kids":[
+"z5qd3bQgu"
+],
+"uid":"chaohaobiao",
+"parent":"z5ppCkIgC",
+"text":"速度搞定呀[泪]",
+"mid":"z5q9q38s9",
+"date":"2012-11-16 09:27:38"
+},
+{
+"kids":[],
+"uid":"2104976443",
+"parent":"z5pfS5Ajo",
+"text":"感觉帧数有点不稳，尽量增加gpu的运算，降低cpu的使用，这样画面表现力强，而且还能发挥好显卡的作用，希望早日见到昼夜循环，风云雨雪漫天",
+"mid":"z5pQTqs9O",
+"date":"2012-11-16 08:41:58"
+},
+{
+"kids":[],
+"uid":"yy0120",
+"parent":"z5pklvYYt",
+"text":"FPS略伤神[睡觉]@何大安要努力 @端_呛呛 @灬梨花白",
+"mid":"z5pK7f8eq",
+"date":"2012-11-16 08:25:18"
+},
+{
+"kids":[
+"z7VRIpfxh",
+"z5qK5uMr0",
+"z5qhGoUOu",
+"z5q9q38s9"
+],
+"uid":"yanglin1st",
+"parent":"",
+"text":"还是得速度搞定多线程拆分啊",
+"mid":"z5ppCkIgC",
+"date":"2012-11-16 07:34:48"
+},
+{
+"kids":[],
+"uid":"1858533710",
+"parent":"",
+"text":"我能说我的E84009800GTX＋，中配从来没过30帧么？4g 内存，没超，默认3.0",
+"mid":"z5poUyBkB",
+"date":"2012-11-16 07:33:04"
+},
+{
+"kids":[
+"z5pK7f8eq"
+],
+"uid":"1408483280",
+"parent":"z5pfS5Ajo",
+"text":"[泪]最近打剑三会突然卡住，然后剑三无响应关闭，剑三的进程会占留在系统进程里关都关不掉[泪][泪]电脑重装了还是这样。陈叔我该怎么办[泪][泪][泪][泪]",
+"mid":"z5pklvYYt",
+"date":"2012-11-16 07:21:48"
+},
+{
+"kids":[
+"z5uint3Zo",
+"z5qDpy36q",
+"z5qx0EIOG",
+"z5qcrmIJU",
+"z5pQTqs9O",
+"z5pklvYYt"
+],
+"uid":"freewaychen",
+"parent":"",
+"text":"回复@lixianga:可以这么理解，我们正在做的多线程拆分优化，就是为了让3核，4核的机器能更好的利用CPU。",
+"mid":"z5pfS5Ajo",
+"date":"2012-11-16 07:10:46"
+},
+{
+"kids":[],
+"uid":"klxiaowei",
+"parent":"",
+"text":"三叔，怎么给cpu超频呢？！@金山陈飞舟",
+"mid":"z0A2s38o5",
+"date":"2012-10-15 13:26:26"
+},
+{
+"kids":[],
+"uid":"yingjie0",
+"parent":"",
+"text":"@木白彦页的车里全是水呜呜呜 2.2G主频被完爆，不能总怪ATI",
+"mid":"yFvp1jxGv",
+"date":"2012-10-08 18:16:27"
+},
+{
+"kids":[],
+"uid":"2708403065",
+"parent":"",
+"text":"一句都木有看懂···",
+"mid":"yDp59uDGV",
+"date":"2012-09-24 22:30:25"
+},
+{
+"kids":[],
+"uid":"2592998337",
+"parent":"",
+"text":"主频超频要到3.5G 我崩溃",
+"mid":"yDlqzuY9E",
+"date":"2012-09-24 13:12:10"
+},
+{
+"kids":[],
+"uid":"1776929633",
+"parent":"",
+"text":"我完全看不懂这是什么意思……是如果我想提高FPS只能换电脑换个更好的CPU的意思吗orz",
+"mid":"yDjDZdsst",
+"date":"2012-09-24 08:39:45"
+},
+{
+"kids":[],
+"uid":"cloudcandy",
+"parent":"",
+"text":"值得参考",
+"mid":"yDjdOkPPP",
+"date":"2012-09-24 07:35:16"
+},
+{
+"kids":[],
+"uid":"1706042782",
+"parent":"",
+"text":"剑三卡应该就是这个原因@君逍遥-日光倾城",
+"mid":"yDj9p2bEh",
+"date":"2012-09-24 07:24:24"
+},
+{
+"kids":[],
+"uid":"1716225127",
+"parent":"",
+"text":"@布娃虎  跟你爹说他要测CPU的游戏在这里！[偷笑]",
+"mid":"yDizBhw5j",
+"date":"2012-09-24 05:56:12"
+},
+{
+"kids":[],
+"uid":"njtangtang",
+"parent":"",
+"text":"",
+"mid":"yDgOH2FCm",
+"date":"2012-09-24 01:27:53"
+},
+{
+"kids":[],
+"uid":"2148599770",
+"parent":"yDghDc3q3",
+"text":"M下，虽然我一句都没看懂",
+"mid":"yDgCpwyan",
+"date":"2012-09-24 00:57:38"
+},
+{
+"kids":[],
+"uid":"wlmll",
+"parent":"",
+"text":"请问您说的这个想表达JX3大部分依赖CPU，建议大家买好的CPU还是说明自己的显卡物理硬件加速做的不够好呢？任凭多好的显卡CPU不好都会卡么？",
+"mid":"yDgif2ks1",
+"date":"2012-09-24 00:07:55"
+},
+{
+"kids":[
+"yDgCpwyan"
+],
+"uid":"pisceskk",
+"parent":"",
+"text":"",
+"mid":"yDghDc3q3",
+"date":"2012-09-24 00:06:26"
+},
+{
+"kids":[],
+"uid":"1876174831",
+"parent":"",
+"text":"艹...那那么多个核都没个卵用，能与时俱进点吗！",
+"mid":"yDgh2elfW",
+"date":"2012-09-24 00:04:55"
+},
+{
+"kids":[],
+"uid":"ryoma1836",
+"parent":"",
+"text":"直接换i7算了，2千块而已",
+"mid":"yDgfoC6fi",
+"date":"2012-09-24 00:00:56"
+},
+{
+"kids":[],
+"uid":"mulinweiyang",
+"parent":"",
+"text":"求具体指导下，卡成渣渣",
+"mid":"yDgfnpdUL",
+"date":"2012-09-24 00:00:54"
+}
+]

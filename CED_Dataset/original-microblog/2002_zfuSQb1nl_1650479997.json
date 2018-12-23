@@ -1,0 +1,22 @@
+{
+"multi":null,
+"text":"今日中午12点半至1点15分，新浪微博管理员徐某使用服务器带宽下载CL网爱情动作片42G左右，造成新浪微博无法访问。---对此微博技术负责人@刘子正 侧面证实了此事，并称：从技术上来说，微博管理员拿到了服务器权限：制度问题，下载带宽抢了服务器资源：网络架构问题，45分钟还在持续下载：预案有问题。",
+"user":{
+"verified":true,
+"description":true,
+"gender":"m",
+"messages":3862,
+"followers":44697,
+"location":"北京",
+"time":1254206890,
+"friends":1255,
+"verified_type":0
+},
+"has_url":false,
+"comments":69,
+"pics":0,
+"source":"微博 weibo.com",
+"likes":0,
+"time":1358754813,
+"reposts":251
+}

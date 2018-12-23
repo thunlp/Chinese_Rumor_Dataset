@@ -1,0 +1,2009 @@
+[
+{
+"kids":[],
+"uid":"2919580750",
+"parent":"",
+"text":"",
+"mid":"z70zuv7Rm",
+"date":"2012-11-26 20:01:01"
+},
+{
+"kids":[],
+"uid":"2804339064",
+"parent":"",
+"text":"",
+"mid":"z70zutRH0",
+"date":"2012-11-26 20:01:04"
+},
+{
+"kids":[],
+"uid":"1583547545",
+"parent":"",
+"text":"",
+"mid":"z6XnAtNfs",
+"date":"2012-11-26 11:53:30"
+},
+{
+"kids":[],
+"uid":"1089132910",
+"parent":"z6QLc0LJq",
+"text":"[蜡烛]",
+"mid":"z6ThLdMUH",
+"date":"2012-11-26 01:28:09"
+},
+{
+"kids":[],
+"uid":"1825056634",
+"parent":"z6O1mqsyc",
+"text":"",
+"mid":"z6SM7nS9c",
+"date":"2012-11-26 00:10:11"
+},
+{
+"kids":[],
+"uid":"1985361660",
+"parent":"",
+"text":"",
+"mid":"z6SGprO4V",
+"date":"2012-11-25 23:56:08"
+},
+{
+"kids":[],
+"uid":"519123100",
+"parent":"",
+"text":"[蠟燭][蠟燭][蠟燭]",
+"mid":"z6SsbljxG",
+"date":"2012-11-25 23:21:06"
+},
+{
+"kids":[],
+"uid":"1776414403",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛][蜡烛][蜡烛]",
+"mid":"z6S1ujzMN",
+"date":"2012-11-25 22:15:19"
+},
+{
+"kids":[],
+"uid":"2905926235",
+"parent":"z6RrI4Yxa",
+"text":"",
+"mid":"z6RLznert",
+"date":"2012-11-25 21:36:06"
+},
+{
+"kids":[],
+"uid":"mthfs",
+"parent":"z6QPfaDf5",
+"text":"[蜡烛]",
+"mid":"z6RAQd2ly",
+"date":"2012-11-25 21:09:40"
+},
+{
+"kids":[
+"z6RLznert"
+],
+"uid":"beijingreds",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6RrI4Yxa",
+"date":"2012-11-25 20:47:10"
+},
+{
+"kids":[],
+"uid":"2193887620",
+"parent":"z6QSE8JxV",
+"text":"[蜡烛]",
+"mid":"z6R8716mv",
+"date":"2012-11-25 19:58:54"
+},
+{
+"kids":[],
+"uid":"1987648043",
+"parent":"z6QPfaDf5",
+"text":"[蜡烛]",
+"mid":"z6R3NgAGJ",
+"date":"2012-11-25 19:48:16"
+},
+{
+"kids":[
+"z6R8716mv"
+],
+"uid":"111988923",
+"parent":"z6QQvrAHI",
+"text":"[蜡烛]",
+"mid":"z6QSE8JxV",
+"date":"2012-11-25 19:20:47"
+},
+{
+"kids":[
+"z6QSE8JxV"
+],
+"uid":"2950625310",
+"parent":"z6QPfaDf5",
+"text":"[蜡烛]",
+"mid":"z6QQvrAHI",
+"date":"2012-11-25 19:15:31"
+},
+{
+"kids":[
+"z6RAQd2ly",
+"z6R3NgAGJ",
+"z6QQvrAHI"
+],
+"uid":"olivia0728",
+"parent":"z6QNXCXbA",
+"text":"[蜡烛]",
+"mid":"z6QPfaDf5",
+"date":"2012-11-25 19:12:21"
+},
+{
+"kids":[
+"z6QPfaDf5"
+],
+"uid":"fishbone2manunit",
+"parent":"z6QLc0LJq",
+"text":"[蜡烛]",
+"mid":"z6QNXCXbA",
+"date":"2012-11-25 19:09:12"
+},
+{
+"kids":[],
+"uid":"1823388784",
+"parent":"z6O1Lwj7s",
+"text":"七年了 我是感叹时间你走的好快~",
+"mid":"z6QNH9EvG",
+"date":"2012-11-25 19:08:33"
+},
+{
+"kids":[
+"z6ThLdMUH",
+"z6QNXCXbA"
+],
+"uid":"2121227044",
+"parent":"z6QEdmUWc",
+"text":"[蜡烛]",
+"mid":"z6QLc0LJq",
+"date":"2012-11-25 19:02:24"
+},
+{
+"kids":[],
+"uid":"1823589640",
+"parent":"z6O1mqsyc",
+"text":"",
+"mid":"z6QGdvCrt",
+"date":"2012-11-25 18:50:10"
+},
+{
+"kids":[
+"z6QLc0LJq"
+],
+"uid":"1728882324",
+"parent":"z6PB8pCVw",
+"text":"[蜡烛]",
+"mid":"z6QEdmUWc",
+"date":"2012-11-25 18:45:14"
+},
+{
+"kids":[],
+"uid":"mxdb127129",
+"parent":"z6O1mqsyc",
+"text":"",
+"mid":"z6Qncarig",
+"date":"2012-11-25 18:03:16"
+},
+{
+"kids":[],
+"uid":"2451858223",
+"parent":"z6O1mqsyc",
+"text":"贝斯特",
+"mid":"z6Qdr3HwW",
+"date":"2012-11-25 17:39:15"
+},
+{
+"kids":[],
+"uid":"1848119885",
+"parent":"z6O33A0tO",
+"text":"[蜡烛]",
+"mid":"z6PY7kzmy",
+"date":"2012-11-25 17:01:32"
+},
+{
+"kids":[
+"z6QEdmUWc"
+],
+"uid":"1474529427",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6PB8pCVw",
+"date":"2012-11-25 16:04:52"
+},
+{
+"kids":[],
+"uid":"jogabonitol7",
+"parent":"z6PeZgYax",
+"text":"[蜡烛]",
+"mid":"z6Pp916Do",
+"date":"2012-11-25 15:35:19"
+},
+{
+"kids":[],
+"uid":"2094090953",
+"parent":"z6Phhs6m1",
+"text":"[蠟燭]",
+"mid":"z6PoNa0eN",
+"date":"2012-11-25 15:34:27"
+},
+{
+"kids":[],
+"uid":"redsanna",
+"parent":"z6PeZgYax",
+"text":"[蜡烛]",
+"mid":"z6PkEjSfo",
+"date":"2012-11-25 15:24:15"
+},
+{
+"kids":[
+"z6PoNa0eN"
+],
+"uid":"reddevilsimonyj",
+"parent":"z6PfFyKHE",
+"text":"",
+"mid":"z6Phhs6m1",
+"date":"2012-11-25 15:15:59"
+},
+{
+"kids":[],
+"uid":"1104644487",
+"parent":"z6PeZgYax",
+"text":"best[good]",
+"mid":"z6PfZmgri",
+"date":"2012-11-25 15:12:45"
+},
+{
+"kids":[
+"z6Phhs6m1"
+],
+"uid":"119950202",
+"parent":"z6PeZgYax",
+"text":"[蜡烛]",
+"mid":"z6PfFyKHE",
+"date":"2012-11-25 15:12:01"
+},
+{
+"kids":[
+"z6Pp916Do",
+"z6PkEjSfo",
+"z6PfZmgri",
+"z6PfFyKHE"
+],
+"uid":"mu14yt",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6PeZgYax",
+"date":"2012-11-25 15:10:18"
+},
+{
+"kids":[],
+"uid":"2632457701",
+"parent":"z6OXRAUmF",
+"text":"",
+"mid":"z6OYxyKup",
+"date":"2012-11-25 14:29:49"
+},
+{
+"kids":[
+"z6OYxyKup"
+],
+"uid":"1914392973",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6OXRAUmF",
+"date":"2012-11-25 14:28:07"
+},
+{
+"kids":[],
+"uid":"2605479284",
+"parent":"z6O1mqsyc",
+"text":"U R THE BEST",
+"mid":"z6ODkBEoI",
+"date":"2012-11-25 13:37:32"
+},
+{
+"kids":[],
+"uid":"1709686537",
+"parent":"",
+"text":"[蜡烛][蜡烛][蜡烛][蜡烛]",
+"mid":"z6OAGlrQ4",
+"date":"2012-11-25 13:31:00"
+},
+{
+"kids":[],
+"uid":"2166026185",
+"parent":"",
+"text":"[蜡烛][蜡烛][蜡烛]",
+"mid":"z6Oyfjswt",
+"date":"2012-11-25 13:25:02"
+},
+{
+"kids":[],
+"uid":"smartjason",
+"parent":"z6OcMaaa3",
+"text":"Best！",
+"mid":"z6OvipSvT",
+"date":"2012-11-25 13:17:46"
+},
+{
+"kids":[],
+"uid":"2649316603",
+"parent":"z6KOVl87z",
+"text":"",
+"mid":"z6OrPAL8I",
+"date":"2012-11-25 13:09:12"
+},
+{
+"kids":[],
+"uid":"1878556634",
+"parent":"z6O1mqsyc",
+"text":"",
+"mid":"z6OrEFlrZ",
+"date":"2012-11-25 13:08:48"
+},
+{
+"kids":[],
+"uid":"1736348215",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6Orbmyfk",
+"date":"2012-11-25 13:07:38"
+},
+{
+"kids":[],
+"uid":"2168392962",
+"parent":"",
+"text":"贝斯特[蜡烛]",
+"mid":"z6OmzkwMY",
+"date":"2012-11-25 12:56:16"
+},
+{
+"kids":[],
+"uid":"1180830720",
+"parent":"z6O1mqsyc",
+"text":"BEST@AriesYCWong @彭小妹彭小妹",
+"mid":"z6OlFeUKH",
+"date":"2012-11-25 12:54:02"
+},
+{
+"kids":[],
+"uid":"jiaweilee",
+"parent":"z6O1mqsyc",
+"text":"@[蜡烛]",
+"mid":"z6Oko1bK5",
+"date":"2012-11-25 12:50:53"
+},
+{
+"kids":[],
+"uid":"2707458687",
+"parent":"",
+"text":"贝利good！马拉多纳better！！贝斯特best！！！",
+"mid":"z6OjLDnAq",
+"date":"2012-11-25 12:49:22"
+},
+{
+"kids":[],
+"uid":"jordan0103",
+"parent":"z6OaR1bS9",
+"text":"BEST[蜡烛]",
+"mid":"z6OgHiV0Z",
+"date":"2012-11-25 12:41:48"
+},
+{
+"kids":[],
+"uid":"kakajie",
+"parent":"z6O1mqsyc",
+"text":"美人与佳酒[蜡烛]",
+"mid":"z6OeFptgO",
+"date":"2012-11-25 12:36:48"
+},
+{
+"kids":[],
+"uid":"1671051493",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6OcVhqgb",
+"date":"2012-11-25 12:32:30"
+},
+{
+"kids":[
+"z6OvipSvT"
+],
+"uid":"kira0aj",
+"parent":"z6Oc1aMQo",
+"text":"G.Best?",
+"mid":"z6OcMaaa3",
+"date":"2012-11-25 12:32:08"
+},
+{
+"kids":[
+"z6OcMaaa3"
+],
+"uid":"bearbearzeng",
+"parent":"z6Jj4sx6x",
+"text":"",
+"mid":"z6Oc1aMQo",
+"date":"2012-11-25 12:30:16"
+},
+{
+"kids":[],
+"uid":"1032164897",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6ObukugP",
+"date":"2012-11-25 12:28:57"
+},
+{
+"kids":[],
+"uid":"cheninho14",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6Obu4Roq",
+"date":"2012-11-25 12:28:57"
+},
+{
+"kids":[
+"z6OgHiV0Z"
+],
+"uid":"1861598354",
+"parent":"z6O4d8gpb",
+"text":"[蜡烛]",
+"mid":"z6OaR1bS9",
+"date":"2012-11-25 12:27:22"
+},
+{
+"kids":[],
+"uid":"2058479272",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O7ICDO2",
+"date":"2012-11-25 12:19:41"
+},
+{
+"kids":[],
+"uid":"2167251420",
+"parent":"z6O4d8gpb",
+"text":"[蜡烛]",
+"mid":"z6O780b8x",
+"date":"2012-11-25 12:18:12"
+},
+{
+"kids":[],
+"uid":"van0321",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O77D0yY",
+"date":"2012-11-25 12:18:12"
+},
+{
+"kids":[],
+"uid":"giggsylee",
+"parent":"z6O1mqsyc",
+"text":"七年了嗎？[蠟燭][蠟燭][蠟燭]",
+"mid":"z6O6RqV7F",
+"date":"2012-11-25 12:17:32"
+},
+{
+"kids":[],
+"uid":"2175603923",
+"parent":"z6O4d8gpb",
+"text":"[蜡烛]",
+"mid":"z6O6veekt",
+"date":"2012-11-25 12:16:41"
+},
+{
+"kids":[],
+"uid":"2195614625",
+"parent":"z6O1mqsyc",
+"text":"",
+"mid":"z6O5UhTfE",
+"date":"2012-11-25 12:15:12"
+},
+{
+"kids":[],
+"uid":"2280650694",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O5P08ah",
+"date":"2012-11-25 12:15:00"
+},
+{
+"kids":[],
+"uid":"samuelrenzha",
+"parent":"z6O1mqsyc",
+"text":"[蠟燭]",
+"mid":"z6O5ItQeO",
+"date":"2012-11-25 12:14:44"
+},
+{
+"kids":[],
+"uid":"syhbest33",
+"parent":"",
+"text":"",
+"mid":"z6O51CR1g",
+"date":"2012-11-25 12:13:03"
+},
+{
+"kids":[],
+"uid":"2114113541",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O4UytV0",
+"date":"2012-11-25 12:12:45"
+},
+{
+"kids":[],
+"uid":"1826194403",
+"parent":"z6O4d8gpb",
+"text":"[蜡烛]",
+"mid":"z6O4GDPBr",
+"date":"2012-11-25 12:12:13"
+},
+{
+"kids":[],
+"uid":"fengjir3",
+"parent":"z6O2MbQlq",
+"text":"Best。[蜡烛]",
+"mid":"z6O4zzAw7",
+"date":"2012-11-25 12:11:56"
+},
+{
+"kids":[
+"z6OaR1bS9",
+"z6O780b8x",
+"z6O6veekt",
+"z6O4GDPBr"
+],
+"uid":"716788488",
+"parent":"z6O1mqsyc",
+"text":"best![蜡烛]",
+"mid":"z6O4d8gpb",
+"date":"2012-11-25 12:11:02"
+},
+{
+"kids":[],
+"uid":"chenqq1989",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O49jPdX",
+"date":"2012-11-25 12:10:53"
+},
+{
+"kids":[],
+"uid":"2104872445",
+"parent":"z6O1mqsyc",
+"text":"当时还在高二",
+"mid":"z6O3JibrS",
+"date":"2012-11-25 12:09:50"
+},
+{
+"kids":[],
+"uid":"1565505920",
+"parent":"z6O1Lwj7s",
+"text":"[蜡烛]",
+"mid":"z6O35pA1x",
+"date":"2012-11-25 12:08:16"
+},
+{
+"kids":[
+"z6PY7kzmy"
+],
+"uid":"420935231",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6O33A0tO",
+"date":"2012-11-25 12:08:10"
+},
+{
+"kids":[],
+"uid":"easter2324",
+"parent":"z6O1mqsyc",
+"text":"George the best",
+"mid":"z6O2T11pA",
+"date":"2012-11-25 12:07:46"
+},
+{
+"kids":[
+"z6O4zzAw7"
+],
+"uid":"1907008467",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O2MbQlq",
+"date":"2012-11-25 12:07:30"
+},
+{
+"kids":[],
+"uid":"2021353657",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O2I3EGP",
+"date":"2012-11-25 12:07:20"
+},
+{
+"kids":[],
+"uid":"bcy1987bcy",
+"parent":"z6O1mqsyc",
+"text":"图没刷出来，但是我觉得这话应该是对乔治贝斯特说的[蜡烛]",
+"mid":"z6O2Byr3X",
+"date":"2012-11-25 12:07:05"
+},
+{
+"kids":[],
+"uid":"wsznash",
+"parent":"",
+"text":"[蜡烛]FOREVER BEST[蜡烛]",
+"mid":"z6O2Bfhwi",
+"date":"2012-11-25 12:07:05"
+},
+{
+"kids":[],
+"uid":"1804544997",
+"parent":"z6O1mqsyc",
+"text":"[蠟燭]",
+"mid":"z6O2ACoAP",
+"date":"2012-11-25 12:07:03"
+},
+{
+"kids":[],
+"uid":"zanbecks",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O2s5HK3",
+"date":"2012-11-25 12:06:42"
+},
+{
+"kids":[],
+"uid":"342735905",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O2q1CvA",
+"date":"2012-11-25 12:06:37"
+},
+{
+"kids":[],
+"uid":"law911",
+"parent":"z6O1mqsyc",
+"text":"The BEST[爱你]",
+"mid":"z6O2jfcal",
+"date":"2012-11-25 12:06:20"
+},
+{
+"kids":[],
+"uid":"xiaomaoloveyou",
+"parent":"z6O1mqsyc",
+"text":"老乔",
+"mid":"z6O2esG2J",
+"date":"2012-11-25 12:06:09"
+},
+{
+"kids":[],
+"uid":"1963788643",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O2bhH8o",
+"date":"2012-11-25 12:06:01"
+},
+{
+"kids":[],
+"uid":"michaelbeckham",
+"parent":"z6O1mqsyc",
+"text":"",
+"mid":"z6O1Rsiy5",
+"date":"2012-11-25 12:05:15"
+},
+{
+"kids":[],
+"uid":"tiamo7777",
+"parent":"z6O1mqsyc",
+"text":"[祈福]",
+"mid":"z6O1P5h4o",
+"date":"2012-11-25 12:05:09"
+},
+{
+"kids":[
+"z6QNH9EvG",
+"z6O35pA1x"
+],
+"uid":"sluimlmy",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O1Lwj7s",
+"date":"2012-11-25 12:04:59"
+},
+{
+"kids":[],
+"uid":"338424272",
+"parent":"z6O1mqsyc",
+"text":"[蜡烛]",
+"mid":"z6O1HpqSp",
+"date":"2012-11-25 12:04:50"
+},
+{
+"kids":[],
+"uid":"571199314",
+"parent":"z6O1mqsyc",
+"text":"",
+"mid":"z6O1qfPze",
+"date":"2012-11-25 12:04:11"
+},
+{
+"kids":[
+"z6SM7nS9c",
+"z6S1ujzMN",
+"z6QGdvCrt",
+"z6Qncarig",
+"z6Qdr3HwW",
+"z6PeZgYax",
+"z6OXRAUmF",
+"z6ODkBEoI",
+"z6OrEFlrZ",
+"z6Orbmyfk",
+"z6OlFeUKH",
+"z6Oko1bK5",
+"z6OeFptgO",
+"z6OcVhqgb",
+"z6ObukugP",
+"z6Obu4Roq",
+"z6O7ICDO2",
+"z6O77D0yY",
+"z6O6RqV7F",
+"z6O5UhTfE",
+"z6O5P08ah",
+"z6O5ItQeO",
+"z6O4UytV0",
+"z6O4d8gpb",
+"z6O49jPdX",
+"z6O3JibrS",
+"z6O2T11pA",
+"z6O2MbQlq",
+"z6O2I3EGP",
+"z6O2Byr3X",
+"z6O2ACoAP",
+"z6O2s5HK3",
+"z6O2q1CvA",
+"z6O2jfcal",
+"z6O2esG2J",
+"z6O2bhH8o",
+"z6O1Rsiy5",
+"z6O1P5h4o",
+"z6O1Lwj7s",
+"z6O1HpqSp",
+"z6O1qfPze"
+],
+"uid":"uniteddirect",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6O1mqsyc",
+"date":"2012-11-25 12:04:01"
+},
+{
+"kids":[],
+"uid":"2048463940",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6O0vdQU0",
+"date":"2012-11-25 12:01:54"
+},
+{
+"kids":[],
+"uid":"1686866610",
+"parent":"z6JhFkFfK",
+"text":"",
+"mid":"z6NdP5sFe",
+"date":"2012-11-25 10:01:58"
+},
+{
+"kids":[],
+"uid":"weareonepiece",
+"parent":"",
+"text":"the  BEST[蜡烛][绿丝带]",
+"mid":"z6NbCxMfx",
+"date":"2012-11-25 09:56:33"
+},
+{
+"kids":[],
+"uid":"2735792800",
+"parent":"z6MJ1kxEm",
+"text":"[泪]我贝",
+"mid":"z6MUW2goX",
+"date":"2012-11-25 09:15:26"
+},
+{
+"kids":[
+"z6MUW2goX"
+],
+"uid":"1752237663",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6MJ1kxEm",
+"date":"2012-11-25 08:46:05"
+},
+{
+"kids":[],
+"uid":"2080506365",
+"parent":"",
+"text":"什么表情…",
+"mid":"z6MAiyAFi",
+"date":"2012-11-25 08:24:35"
+},
+{
+"kids":[],
+"uid":"1893819661",
+"parent":"",
+"text":"[酒]",
+"mid":"z6MqV4ZtO",
+"date":"2012-11-25 08:01:29"
+},
+{
+"kids":[],
+"uid":"lovecristiano7",
+"parent":"",
+"text":"[蜡烛][蜡烛]",
+"mid":"z6MlICOn3",
+"date":"2012-11-25 07:48:41"
+},
+{
+"kids":[],
+"uid":"1790136073",
+"parent":"z6JhFkFfK",
+"text":"老七号，贝斯特",
+"mid":"z6MdDbmGG",
+"date":"2012-11-25 07:28:44"
+},
+{
+"kids":[],
+"uid":"2646496625",
+"parent":"",
+"text":"Best  [蜡烛][干杯]",
+"mid":"z6M8izh1R",
+"date":"2012-11-25 07:15:37"
+},
+{
+"kids":[],
+"uid":"liuyufudan",
+"parent":"",
+"text":"",
+"mid":"z6LRP4kZp",
+"date":"2012-11-25 06:35:01"
+},
+{
+"kids":[],
+"uid":"xiaoxiao7777",
+"parent":"z6KaNzX6i",
+"text":"必须的![蜡烛]",
+"mid":"z6Ly2bh7e",
+"date":"2012-11-25 05:46:16"
+},
+{
+"kids":[
+"z6OrPAL8I"
+],
+"uid":"1048283164",
+"parent":"z6KzxsMFi",
+"text":"[蜡烛]",
+"mid":"z6KOVl87z",
+"date":"2012-11-25 03:55:08"
+},
+{
+"kids":[
+"z6KOVl87z"
+],
+"uid":"3041570305",
+"parent":"z6KfJqP7S",
+"text":"[蜡烛]",
+"mid":"z6KzxsMFi",
+"date":"2012-11-25 03:17:13"
+},
+{
+"kids":[],
+"uid":"1785887305",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6KmXEcKB",
+"date":"2012-11-25 02:46:15"
+},
+{
+"kids":[],
+"uid":"2805526054",
+"parent":"z6JUKjEJ7",
+"text":"",
+"mid":"z6KjSbpSL",
+"date":"2012-11-25 02:38:38"
+},
+{
+"kids":[],
+"uid":"mjeb",
+"parent":"z6Jm2imcX",
+"text":"",
+"mid":"z6Khi0MqP",
+"date":"2012-11-25 02:32:15"
+},
+{
+"kids":[],
+"uid":"lebucc",
+"parent":"z6KdxuThT",
+"text":"伟大的7号，已经离开了7年[蜡烛]",
+"mid":"z6Kgcmpap",
+"date":"2012-11-25 02:29:34"
+},
+{
+"kids":[
+"z6KzxsMFi"
+],
+"uid":"lovexiuxiushu",
+"parent":"z6KdxuThT",
+"text":"[蜡烛]",
+"mid":"z6KfJqP7S",
+"date":"2012-11-25 02:28:26"
+},
+{
+"kids":[
+"z6Kgcmpap",
+"z6KfJqP7S"
+],
+"uid":"heyzaza",
+"parent":"z6KaNzX6i",
+"text":"[蜡烛]",
+"mid":"z6KdxuThT",
+"date":"2012-11-25 02:23:02"
+},
+{
+"kids":[],
+"uid":"1459678922",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Kc3gvkq",
+"date":"2012-11-25 02:19:22"
+},
+{
+"kids":[
+"z6Ly2bh7e",
+"z6KdxuThT"
+],
+"uid":"juliashao312",
+"parent":"z6JQk9Ns6",
+"text":"BEST[蜡烛]",
+"mid":"z6KaNzX6i",
+"date":"2012-11-25 02:16:17"
+},
+{
+"kids":[],
+"uid":"leolee1218",
+"parent":"z6JhFkFfK",
+"text":"佐治贝斯[蜡烛][蜡烛]",
+"mid":"z6K3PyeW6",
+"date":"2012-11-25 01:59:07"
+},
+{
+"kids":[],
+"uid":"bosco8334",
+"parent":"z6JhFkFfK",
+"text":"[蠟燭]",
+"mid":"z6JYx1jkY",
+"date":"2012-11-25 01:46:03"
+},
+{
+"kids":[
+"z6KjSbpSL"
+],
+"uid":"teenjewel",
+"parent":"",
+"text":"george is the best~~~",
+"mid":"z6JUKjEJ7",
+"date":"2012-11-25 01:36:44"
+},
+{
+"kids":[],
+"uid":"1935712920",
+"parent":"z6JjVEWmd",
+"text":"[蜡烛]",
+"mid":"z6JTls2mR",
+"date":"2012-11-25 01:33:17"
+},
+{
+"kids":[],
+"uid":"vaalee",
+"parent":"z6JlKelog",
+"text":"",
+"mid":"z6JRCdLYo",
+"date":"2012-11-25 01:29:01"
+},
+{
+"kids":[
+"z6KaNzX6i"
+],
+"uid":"stuholdenshair",
+"parent":"z6JhFkFfK",
+"text":"最好的[蜡烛]",
+"mid":"z6JQk9Ns6",
+"date":"2012-11-25 01:25:50"
+},
+{
+"kids":[],
+"uid":"chansaitao",
+"parent":"z6JlAt7Ns",
+"text":"没看过你踢球都能感觉到你的从容洒脱···",
+"mid":"z6JNtpw4v",
+"date":"2012-11-25 01:18:49"
+},
+{
+"kids":[],
+"uid":"rooney10torres09",
+"parent":"z6JhRoZsQ",
+"text":"",
+"mid":"z6JNispy4",
+"date":"2012-11-25 01:18:23"
+},
+{
+"kids":[],
+"uid":"1896638324",
+"parent":"z6JhFkFfK",
+"text":"",
+"mid":"z6JN70kmP",
+"date":"2012-11-25 01:17:55"
+},
+{
+"kids":[],
+"uid":"2461771204",
+"parent":"z6JhFkFfK",
+"text":"BEST forever",
+"mid":"z6JMnuCmF",
+"date":"2012-11-25 01:16:07"
+},
+{
+"kids":[],
+"uid":"kennythug",
+"parent":"z6JjVEWmd",
+"text":"@thomas_chen123 原来系George Best忌日",
+"mid":"z6JKMuDCW",
+"date":"2012-11-25 01:12:11"
+},
+{
+"kids":[],
+"uid":"2214170650",
+"parent":"z6JhFkFfK",
+"text":"贝斯特best",
+"mid":"z6JIMoEAp",
+"date":"2012-11-25 01:07:15"
+},
+{
+"kids":[],
+"uid":"lake4ma",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JH9kjrY",
+"date":"2012-11-25 01:03:14"
+},
+{
+"kids":[],
+"uid":"1584095580",
+"parent":"",
+"text":"",
+"mid":"z6JA4tXL2",
+"date":"2012-11-25 00:45:48"
+},
+{
+"kids":[],
+"uid":"1651451613",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JzSEFkX",
+"date":"2012-11-25 00:45:20"
+},
+{
+"kids":[],
+"uid":"2100357024",
+"parent":"z6Ji0zy1Q",
+"text":"",
+"mid":"z6Jzd11Hg",
+"date":"2012-11-25 00:43:39"
+},
+{
+"kids":[],
+"uid":"1856124831",
+"parent":"z6JhFkFfK",
+"text":"Best[蜡烛]",
+"mid":"z6JxC2m0Y",
+"date":"2012-11-25 00:39:45"
+},
+{
+"kids":[],
+"uid":"dqj711",
+"parent":"z6JkojQBh",
+"text":"BEST OF BEST",
+"mid":"z6JwVsY7X",
+"date":"2012-11-25 00:38:00"
+},
+{
+"kids":[],
+"uid":"ingridwong1989",
+"parent":"z6JhFkFfK",
+"text":"ALWAYS BEST",
+"mid":"z6JvYDti8",
+"date":"2012-11-25 00:35:40"
+},
+{
+"kids":[],
+"uid":"answ3r",
+"parent":"z6JlAu7Tn",
+"text":"The Best[蜡烛]",
+"mid":"z6JrMl8Gb",
+"date":"2012-11-25 00:25:22"
+},
+{
+"kids":[],
+"uid":"hdxinshijue",
+"parent":"z6Jm2imcX",
+"text":"[蜡烛]",
+"mid":"z6JqHjfuD",
+"date":"2012-11-25 00:22:42"
+},
+{
+"kids":[],
+"uid":"208420555",
+"parent":"z6JodAnAw",
+"text":"[蜡烛]",
+"mid":"z6JpY3EMG",
+"date":"2012-11-25 00:20:52"
+},
+{
+"kids":[],
+"uid":"1662909780",
+"parent":"z6Jmr8Jl0",
+"text":"[蜡烛]",
+"mid":"z6Jp27pX8",
+"date":"2012-11-25 00:18:37"
+},
+{
+"kids":[],
+"uid":"2050428110",
+"parent":"z6JkbiI3U",
+"text":"“第五个披头士”[蜡烛]",
+"mid":"z6JoQ4PkN",
+"date":"2012-11-25 00:18:04"
+},
+{
+"kids":[],
+"uid":"wangjiajun226",
+"parent":"z6Jovll93",
+"text":"[蜡烛]",
+"mid":"z6JoPqZ0I",
+"date":"2012-11-25 00:18:04"
+},
+{
+"kids":[
+"z6JoPqZ0I"
+],
+"uid":"ansontan",
+"parent":"z6JohcllA",
+"text":"[蠟燭]",
+"mid":"z6Jovll93",
+"date":"2012-11-25 00:17:18"
+},
+{
+"kids":[
+"z6Jovll93"
+],
+"uid":"329495465",
+"parent":"z6JmqtIpj",
+"text":"George is the BEST[蜡烛]",
+"mid":"z6JohcllA",
+"date":"2012-11-25 00:16:44"
+},
+{
+"kids":[
+"z6JpY3EMG"
+],
+"uid":"zaigaryneville",
+"parent":"z6Jo4bpA3",
+"text":"[蜡烛]",
+"mid":"z6JodAnAw",
+"date":"2012-11-25 00:16:37"
+},
+{
+"kids":[],
+"uid":"1956495661",
+"parent":"z6JhFkFfK",
+"text":"Maradona is good, Messi is better, George Best!",
+"mid":"z6JobfHLa",
+"date":"2012-11-25 00:16:30"
+},
+{
+"kids":[
+"z6JodAnAw"
+],
+"uid":"209098302",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Jo4bpA3",
+"date":"2012-11-25 00:16:13"
+},
+{
+"kids":[],
+"uid":"1825056634",
+"parent":"z6JhFkFfK",
+"text":"",
+"mid":"z6JnVhdFw",
+"date":"2012-11-25 00:15:48"
+},
+{
+"kids":[],
+"uid":"chrislm",
+"parent":"z6JjVEWmd",
+"text":"[蜡烛][心]",
+"mid":"z6JnLyO3p",
+"date":"2012-11-25 00:15:26"
+},
+{
+"kids":[],
+"uid":"1811001354",
+"parent":"z6Jihr3pO",
+"text":"“有朝一日我挂了，人们会忘掉我泡的那些小妞的芳名，忘掉酒瓶子，忘掉快车，而只会记得我的足球。\"——原微博是高级黑？你魔落后了，贝斯特看了都笑活过来。",
+"mid":"z6Jnv21NR",
+"date":"2012-11-25 00:14:49"
+},
+{
+"kids":[],
+"uid":"vankisun",
+"parent":"z6Jm2imcX",
+"text":"[蜡烛]",
+"mid":"z6JmXAvJB",
+"date":"2012-11-25 00:13:26"
+},
+{
+"kids":[],
+"uid":"939332133",
+"parent":"",
+"text":"",
+"mid":"z6JmBqMIq",
+"date":"2012-11-25 00:12:37"
+},
+{
+"kids":[],
+"uid":"fourrui",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JmBqMHt",
+"date":"2012-11-25 00:12:35"
+},
+{
+"kids":[],
+"uid":"chemistry072549",
+"parent":"z6JlE25Mh",
+"text":"他的字典里只有三个单词:足球，酒精，女人。但不能否认他是天才。",
+"mid":"z6Jmtc4yG",
+"date":"2012-11-25 00:12:17"
+},
+{
+"kids":[
+"z6Jp27pX8"
+],
+"uid":"siyao1988",
+"parent":"z6JhFkFfK",
+"text":"Pele,good; Diego,better; George,BEST[蜡烛]",
+"mid":"z6Jmr8Jl0",
+"date":"2012-11-25 00:12:12"
+},
+{
+"kids":[
+"z6JohcllA"
+],
+"uid":"hxx99",
+"parent":"",
+"text":"[蜡烛]我太欣赏他的人生态度了",
+"mid":"z6JmqtIpj",
+"date":"2012-11-25 00:12:11"
+},
+{
+"kids":[],
+"uid":"daniel7ocean",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JmnzJKB",
+"date":"2012-11-25 00:12:03"
+},
+{
+"kids":[],
+"uid":"2185681437",
+"parent":"z6JlE4nIp",
+"text":"[蜡烛]",
+"mid":"z6Jmk0RJw",
+"date":"2012-11-25 00:11:53"
+},
+{
+"kids":[],
+"uid":"seven925",
+"parent":"",
+"text":"[蠟燭]",
+"mid":"z6Jmh2xcP",
+"date":"2012-11-25 00:11:48"
+},
+{
+"kids":[],
+"uid":"m449107855",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JmgbPOR",
+"date":"2012-11-25 00:11:45"
+},
+{
+"kids":[],
+"uid":"2157623233",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JmcjJh9",
+"date":"2012-11-25 00:11:37"
+},
+{
+"kids":[],
+"uid":"fuckyooooo",
+"parent":"z6JlKelog",
+"text":"You are best",
+"mid":"z6Jm9FvbO",
+"date":"2012-11-25 00:11:31"
+},
+{
+"kids":[],
+"uid":"1813947941",
+"parent":"z6JhFkFfK",
+"text":"马拉多纳good,贝利better, 乔治BEST",
+"mid":"z6Jm96ifL",
+"date":"2012-11-25 00:11:28"
+},
+{
+"kids":[],
+"uid":"1609003915",
+"parent":"z6JhFkFfK",
+"text":"这么活也挺牛逼的",
+"mid":"z6Jm4BAs7",
+"date":"2012-11-25 00:11:20"
+},
+{
+"kids":[
+"z6Khi0MqP",
+"z6JqHjfuD",
+"z6JmXAvJB"
+],
+"uid":"waley7525",
+"parent":"z6Jlm1xJe",
+"text":"[蜡烛]",
+"mid":"z6Jm2imcX",
+"date":"2012-11-25 00:11:14"
+},
+{
+"kids":[
+"z6JRCdLYo",
+"z6Jm9FvbO"
+],
+"uid":"manutd1128",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6JlKelog",
+"date":"2012-11-25 00:10:30"
+},
+{
+"kids":[
+"z6Jmk0RJw"
+],
+"uid":"mufc20times",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6JlE4nIp",
+"date":"2012-11-25 00:10:15"
+},
+{
+"kids":[
+"z6Jmtc4yG"
+],
+"uid":"219456260",
+"parent":"z6JjVEWmd",
+"text":"BEST可以灵魂附体一下吗[心][心][蜡烛][蜡烛]你的球队在等着进球！！[奥特曼]",
+"mid":"z6JlE25Mh",
+"date":"2012-11-25 00:10:16"
+},
+{
+"kids":[
+"z6JrMl8Gb"
+],
+"uid":"pansjames",
+"parent":"z6JhFkFfK",
+"text":"史上最强7号,没有之一",
+"mid":"z6JlAu7Tn",
+"date":"2012-11-25 00:10:08"
+},
+{
+"kids":[
+"z6JNtpw4v"
+],
+"uid":"myhss",
+"parent":"z6Jlm1xJe",
+"text":"[蜡烛]",
+"mid":"z6JlAt7Ns",
+"date":"2012-11-25 00:10:04"
+},
+{
+"kids":[],
+"uid":"1984263417",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JlvrImk",
+"date":"2012-11-25 00:09:52"
+},
+{
+"kids":[],
+"uid":"1715197481",
+"parent":"z6JhFkFfK",
+"text":"最喜欢的一个7号~也是唯一喜欢的7号~",
+"mid":"z6Jlt8eYn",
+"date":"2012-11-25 00:09:49"
+},
+{
+"kids":[
+"z6Jm2imcX",
+"z6JlAt7Ns"
+],
+"uid":"amuletlee",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6Jlm1xJe",
+"date":"2012-11-25 00:09:32"
+},
+{
+"kids":[],
+"uid":"bensir10",
+"parent":"z6JjVEWmd",
+"text":"[蜡烛]",
+"mid":"z6JlkwEZ9",
+"date":"2012-11-25 00:09:29"
+},
+{
+"kids":[],
+"uid":"pangzimiqilin",
+"parent":"z6JjVEWmd",
+"text":"",
+"mid":"z6JlgnuMh",
+"date":"2012-11-25 00:09:19"
+},
+{
+"kids":[],
+"uid":"1733851841",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6JlfvfNl",
+"date":"2012-11-25 00:09:16"
+},
+{
+"kids":[],
+"uid":"201255576",
+"parent":"z6JjVEWmd",
+"text":"[蜡烛]",
+"mid":"z6JlbFKWk",
+"date":"2012-11-25 00:09:05"
+},
+{
+"kids":[],
+"uid":"chicharitored",
+"parent":"z6JhFkFfK",
+"text":"",
+"mid":"z6JkXd3Jt",
+"date":"2012-11-25 00:08:33"
+},
+{
+"kids":[],
+"uid":"2128704531",
+"parent":"z6JiBeiJ6",
+"text":"[蜡烛]",
+"mid":"z6JkDEG6i",
+"date":"2012-11-25 00:07:47"
+},
+{
+"kids":[],
+"uid":"1826508124",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Jkxw5Jg",
+"date":"2012-11-25 00:07:29"
+},
+{
+"kids":[],
+"uid":"10zidane",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6JkqExgb",
+"date":"2012-11-25 00:07:15"
+},
+{
+"kids":[],
+"uid":"1785531833",
+"parent":"",
+"text":"",
+"mid":"z6JkqmW65",
+"date":"2012-11-25 00:07:15"
+},
+{
+"kids":[
+"z6JwVsY7X"
+],
+"uid":"gzrodman",
+"parent":"z6JhFkFfK",
+"text":"Best,永远的best[蜡烛]",
+"mid":"z6JkojQBh",
+"date":"2012-11-25 00:07:10"
+},
+{
+"kids":[],
+"uid":"ron7aldo",
+"parent":"z6Jjv5sjG",
+"text":"[蜡烛]",
+"mid":"z6Jko41On",
+"date":"2012-11-25 00:07:09"
+},
+{
+"kids":[],
+"uid":"2104483652",
+"parent":"",
+"text":"",
+"mid":"z6JkkvR5T",
+"date":"2012-11-25 00:07:01"
+},
+{
+"kids":[],
+"uid":"1070550845",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JkexDs4",
+"date":"2012-11-25 00:06:47"
+},
+{
+"kids":[
+"z6JoQ4PkN"
+],
+"uid":"wisdominpku",
+"parent":"z6JjX7Jff",
+"text":"[蜡烛]",
+"mid":"z6JkbiI3U",
+"date":"2012-11-25 00:06:39"
+},
+{
+"kids":[],
+"uid":"118561823",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Jk8FEcJ",
+"date":"2012-11-25 00:06:31"
+},
+{
+"kids":[],
+"uid":"835351280",
+"parent":"",
+"text":"",
+"mid":"z6Jk8CZ7O",
+"date":"2012-11-25 00:06:29"
+},
+{
+"kids":[],
+"uid":"sam07",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]乔治贝斯特！",
+"mid":"z6Jk3DFJ9",
+"date":"2012-11-25 00:06:21"
+},
+{
+"kids":[],
+"uid":"1886246114",
+"parent":"z6Jjv5sjG",
+"text":"[蜡烛]",
+"mid":"z6JjZfe7n",
+"date":"2012-11-25 00:06:11"
+},
+{
+"kids":[
+"z6JkbiI3U"
+],
+"uid":"208233319",
+"parent":"z6Jiq2naO",
+"text":"pele good,maradona better,george best![蜡烛]",
+"mid":"z6JjX7Jff",
+"date":"2012-11-25 00:06:05"
+},
+{
+"kids":[
+"z6JTls2mR",
+"z6JKMuDCW",
+"z6JnLyO3p",
+"z6JlE25Mh",
+"z6JlkwEZ9",
+"z6JlgnuMh",
+"z6JlbFKWk"
+],
+"uid":"sharknina",
+"parent":"z6JjOhQCU",
+"text":"[蜡烛][心]",
+"mid":"z6JjVEWmd",
+"date":"2012-11-25 00:06:02"
+},
+{
+"kids":[],
+"uid":"1478566942",
+"parent":"z6JhFkFfK",
+"text":"Best",
+"mid":"z6JjSnVf7",
+"date":"2012-11-25 00:05:51"
+},
+{
+"kids":[
+"z6JjVEWmd"
+],
+"uid":"leftfv",
+"parent":"",
+"text":"George BEST[蜡烛]",
+"mid":"z6JjOhQCU",
+"date":"2012-11-25 00:05:43"
+},
+{
+"kids":[
+"z6Jko41On",
+"z6JjZfe7n"
+],
+"uid":"208163131",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6Jjv5sjG",
+"date":"2012-11-25 00:04:58"
+},
+{
+"kids":[],
+"uid":"339105222",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Jjt1BMe",
+"date":"2012-11-25 00:04:53"
+},
+{
+"kids":[],
+"uid":"1841277174",
+"parent":"z6JhFkFfK",
+"text":"佐治贝斯[蜡烛][蜡烛][蜡烛]",
+"mid":"z6Jjip1dY",
+"date":"2012-11-25 00:04:25"
+},
+{
+"kids":[],
+"uid":"linsbackkom",
+"parent":"z6JhFkFfK",
+"text":"",
+"mid":"z6Jjc9FCv",
+"date":"2012-11-25 00:04:13"
+},
+{
+"kids":[],
+"uid":"vincewang15",
+"parent":"z6JhFkFfK",
+"text":"George Best[蜡烛]",
+"mid":"z6Jj57bkd",
+"date":"2012-11-25 00:03:55"
+},
+{
+"kids":[],
+"uid":"xfjzoe",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Jj55age",
+"date":"2012-11-25 00:03:53"
+},
+{
+"kids":[
+"z6Oc1aMQo"
+],
+"uid":"helton",
+"parent":"z6JhFkFfK",
+"text":"",
+"mid":"z6Jj4sx6x",
+"date":"2012-11-25 00:03:55"
+},
+{
+"kids":[],
+"uid":"kenwaa",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JiYzZan",
+"date":"2012-11-25 00:03:38"
+},
+{
+"kids":[],
+"uid":"1793454273",
+"parent":"z6JhFkFfK",
+"text":"BEST[蜡烛]",
+"mid":"z6JiYzZ7D",
+"date":"2012-11-25 00:03:41"
+},
+{
+"kids":[],
+"uid":"dongmingxin",
+"parent":"z6Jin51Pu",
+"text":"[蜡烛]",
+"mid":"z6JiX8oqN",
+"date":"2012-11-25 00:03:37"
+},
+{
+"kids":[],
+"uid":"1823978334",
+"parent":"z6JhFkFfK",
+"text":"best [淚][淚][淚] 记得你有一个愿望是把门将过了后然后在球门线前把球挑高头球破门。愿你在那里一切安好[蠟燭]",
+"mid":"z6JiUb2NL",
+"date":"2012-11-25 00:03:27"
+},
+{
+"kids":[],
+"uid":"dinghuang",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JiSEdvG",
+"date":"2012-11-25 00:03:27"
+},
+{
+"kids":[],
+"uid":"liz4ever",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6JiMcfVW",
+"date":"2012-11-25 00:03:11"
+},
+{
+"kids":[],
+"uid":"1533565881",
+"parent":"z6JhFkFfK",
+"text":"",
+"mid":"z6JiM9nvv",
+"date":"2012-11-25 00:03:12"
+},
+{
+"kids":[
+"z6JkDEG6i"
+],
+"uid":"stonejun",
+"parent":"z6JhFkFfK",
+"text":"[蠟燭]",
+"mid":"z6JiBeiJ6",
+"date":"2012-11-25 00:02:46"
+},
+{
+"kids":[],
+"uid":"1624849353",
+"parent":"",
+"text":"永远的BEST！",
+"mid":"z6JiAk4yM",
+"date":"2012-11-25 00:02:43"
+},
+{
+"kids":[],
+"uid":"sailin",
+"parent":"z6JhFkFfK",
+"text":"相信在天堂依然best！",
+"mid":"z6JiA2tl4",
+"date":"2012-11-25 00:02:42"
+},
+{
+"kids":[],
+"uid":"1947051811",
+"parent":"z6JhFkFfK",
+"text":"ur the BEST",
+"mid":"z6Jiy1arr",
+"date":"2012-11-25 00:02:39"
+},
+{
+"kids":[],
+"uid":"zfz254",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Jiv231Q",
+"date":"2012-11-25 00:02:30"
+},
+{
+"kids":[],
+"uid":"fugenicholas",
+"parent":"z6JhFkFfK",
+"text":"[蠟燭]",
+"mid":"z6Jis4IS6",
+"date":"2012-11-25 00:02:23"
+},
+{
+"kids":[
+"z6JjX7Jff"
+],
+"uid":"1909598065",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Jiq2naO",
+"date":"2012-11-25 00:02:17"
+},
+{
+"kids":[
+"z6JiX8oqN"
+],
+"uid":"2187156884",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Jin51Pu",
+"date":"2012-11-25 00:02:11"
+},
+{
+"kids":[],
+"uid":"irisky1314",
+"parent":"z6JhFkFfK",
+"text":"[泪][蜡烛][蜡烛]",
+"mid":"z6Jik6NF2",
+"date":"2012-11-25 00:02:02"
+},
+{
+"kids":[],
+"uid":"solved",
+"parent":"z6JhRoZsQ",
+"text":"[蜡烛]",
+"mid":"z6JiikiIp",
+"date":"2012-11-25 00:02:00"
+},
+{
+"kids":[
+"z6Jnv21NR"
+],
+"uid":"ryanwang11",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Jihr3pO",
+"date":"2012-11-25 00:01:58"
+},
+{
+"kids":[],
+"uid":"1879986560",
+"parent":"z6JhFkFfK",
+"text":"酒精考验 simply the best!",
+"mid":"z6JibfDGn",
+"date":"2012-11-25 00:01:43"
+},
+{
+"kids":[],
+"uid":"yqj167",
+"parent":"z6JhFkFfK",
+"text":"",
+"mid":"z6Ji5in9j",
+"date":"2012-11-25 00:01:26"
+},
+{
+"kids":[],
+"uid":"2553462752",
+"parent":"z6JhFkFfK",
+"text":"7年了，哎[泪]",
+"mid":"z6Ji2m21K",
+"date":"2012-11-25 00:01:19"
+},
+{
+"kids":[
+"z6Jzd11Hg"
+],
+"uid":"coffan",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Ji0zy1Q",
+"date":"2012-11-25 00:01:14"
+},
+{
+"kids":[],
+"uid":"biyuntao",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6Ji0iBJr",
+"date":"2012-11-25 00:01:17"
+},
+{
+"kids":[],
+"uid":"antiyaya",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JhZnIRZ",
+"date":"2012-11-25 00:01:15"
+},
+{
+"kids":[
+"z6JNispy4",
+"z6JiikiIp"
+],
+"uid":"1731649452",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JhRoZsQ",
+"date":"2012-11-25 00:00:53"
+},
+{
+"kids":[],
+"uid":"419964574",
+"parent":"z6JhFkFfK",
+"text":"[蜡烛]",
+"mid":"z6JhP6R07",
+"date":"2012-11-25 00:00:50"
+},
+{
+"kids":[
+"z6O33A0tO",
+"z6O1mqsyc",
+"z6O0vdQU0",
+"z6NdP5sFe",
+"z6MJ1kxEm",
+"z6MdDbmGG",
+"z6KmXEcKB",
+"z6Kc3gvkq",
+"z6K3PyeW6",
+"z6JYx1jkY",
+"z6JQk9Ns6",
+"z6JN70kmP",
+"z6JMnuCmF",
+"z6JIMoEAp",
+"z6JH9kjrY",
+"z6JzSEFkX",
+"z6JxC2m0Y",
+"z6JvYDti8",
+"z6JobfHLa",
+"z6Jo4bpA3",
+"z6JnVhdFw",
+"z6JmBqMHt",
+"z6Jmr8Jl0",
+"z6JmnzJKB",
+"z6JmgbPOR",
+"z6JmcjJh9",
+"z6Jm96ifL",
+"z6Jm4BAs7",
+"z6JlAu7Tn",
+"z6JlvrImk",
+"z6Jlt8eYn",
+"z6JkXd3Jt",
+"z6Jkxw5Jg",
+"z6JkojQBh",
+"z6JkexDs4",
+"z6Jk8FEcJ",
+"z6Jk3DFJ9",
+"z6JjSnVf7",
+"z6Jjt1BMe",
+"z6Jjip1dY",
+"z6Jjc9FCv",
+"z6Jj57bkd",
+"z6Jj55age",
+"z6Jj4sx6x",
+"z6JiYzZan",
+"z6JiYzZ7D",
+"z6JiUb2NL",
+"z6JiSEdvG",
+"z6JiM9nvv",
+"z6JiBeiJ6",
+"z6JiA2tl4",
+"z6Jiy1arr",
+"z6Jiv231Q",
+"z6Jis4IS6",
+"z6Jiq2naO",
+"z6Jin51Pu",
+"z6Jik6NF2",
+"z6Jihr3pO",
+"z6JibfDGn",
+"z6Ji5in9j",
+"z6Ji2m21K",
+"z6Ji0zy1Q",
+"z6Ji0iBJr",
+"z6JhZnIRZ",
+"z6JhRoZsQ",
+"z6JhP6R07"
+],
+"uid":"munews",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"z6JhFkFfK",
+"date":"2012-11-25 00:00:27"
+}
+]

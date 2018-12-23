@@ -1,0 +1,4110 @@
+[
+{
+"kids":[],
+"uid":"2745640913",
+"parent":"",
+"text":"",
+"mid":"ztYH7niXf",
+"date":"2013-04-26 21:31:21"
+},
+{
+"kids":[],
+"uid":"2127207280",
+"parent":"",
+"text":"",
+"mid":"zr6WJsrLB",
+"date":"2013-04-08 01:00:53"
+},
+{
+"kids":[],
+"uid":"2920412420",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zmAxfrsJ3",
+"date":"2013-03-09 07:09:00"
+},
+{
+"kids":[],
+"uid":"2920296550",
+"parent":"",
+"text":"",
+"mid":"zlDmetMeJ",
+"date":"2013-03-03 00:29:43"
+},
+{
+"kids":[],
+"uid":"2185823811",
+"parent":"zeW1bmg2X",
+"text":"",
+"mid":"zkMoD88ci",
+"date":"2013-02-25 09:40:06"
+},
+{
+"kids":[],
+"uid":"512307696",
+"parent":"",
+"text":"",
+"mid":"zkupht3Ol",
+"date":"2013-02-23 11:52:14"
+},
+{
+"kids":[],
+"uid":"1378939262",
+"parent":"zkqtuaCaT",
+"text":"",
+"mid":"zkthB5fkw",
+"date":"2013-02-23 09:00:35"
+},
+{
+"kids":[
+"zkthB5fkw"
+],
+"uid":"2803126942",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zkqtuaCaT",
+"date":"2013-02-23 01:51:38"
+},
+{
+"kids":[],
+"uid":"512307696",
+"parent":"",
+"text":"",
+"mid":"zkoPB8FTa",
+"date":"2013-02-22 21:40:37"
+},
+{
+"kids":[],
+"uid":"2919286074",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zkj3MaCVe",
+"date":"2013-02-22 06:59:04"
+},
+{
+"kids":[],
+"uid":"2920408674",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zjwQE5tF4",
+"date":"2013-02-17 04:14:52"
+},
+{
+"kids":[],
+"uid":"2810862012",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zjrcy7Pwa",
+"date":"2013-02-16 13:52:22"
+},
+{
+"kids":[],
+"uid":"1778322135",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zisWxrMlQ",
+"date":"2013-02-10 04:28:06"
+},
+{
+"kids":[],
+"uid":"531506345",
+"parent":"",
+"text":"",
+"mid":"zisFex2GI",
+"date":"2013-02-10 03:45:28"
+},
+{
+"kids":[],
+"uid":"531506345",
+"parent":"zdynQl0ru",
+"text":"",
+"mid":"zisF1wPRr",
+"date":"2013-02-10 03:44:57"
+},
+{
+"kids":[],
+"uid":"1589663103",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zihVAB36A",
+"date":"2013-02-09 00:25:30"
+},
+{
+"kids":[],
+"uid":"1559514321",
+"parent":"",
+"text":"",
+"mid":"zhWoRsJi9",
+"date":"2013-02-06 17:37:13"
+},
+{
+"kids":[],
+"uid":"327257579",
+"parent":"",
+"text":"",
+"mid":"zhzXtwVqr",
+"date":"2013-02-04 08:29:19"
+},
+{
+"kids":[],
+"uid":"2920650162",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zhxaqcCCd",
+"date":"2013-02-04 01:22:59"
+},
+{
+"kids":[],
+"uid":"2920523712",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zhnyoyUm3",
+"date":"2013-02-03 00:54:34"
+},
+{
+"kids":[],
+"uid":"2919354234",
+"parent":"zdXpiqeEP",
+"text":"",
+"mid":"zgLSVtQ6a",
+"date":"2013-01-30 01:00:47"
+},
+{
+"kids":[],
+"uid":"2919324074",
+"parent":"zdXpiqeEP",
+"text":"",
+"mid":"zgD9gdhEv",
+"date":"2013-01-29 02:46:18"
+},
+{
+"kids":[],
+"uid":"1777373140",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zgcQXxegr",
+"date":"2013-01-26 07:49:48"
+},
+{
+"kids":[],
+"uid":"2033325655",
+"parent":"zg6tExa84",
+"text":"转发微博。",
+"mid":"zgbQ6i7nQ",
+"date":"2013-01-26 05:14:56"
+},
+{
+"kids":[],
+"uid":"2804937590",
+"parent":"",
+"text":"",
+"mid":"zg8MK76iq",
+"date":"2013-01-25 21:28:25"
+},
+{
+"kids":[
+"zgbQ6i7nQ"
+],
+"uid":"2977199553",
+"parent":"",
+"text":"",
+"mid":"zg6tExa84",
+"date":"2013-01-25 15:35:53"
+},
+{
+"kids":[],
+"uid":"2919442250",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zg3R5BSDF",
+"date":"2013-01-25 08:55:24"
+},
+{
+"kids":[],
+"uid":"2789932652",
+"parent":"",
+"text":"",
+"mid":"zg1GElEVo",
+"date":"2013-01-25 03:24:11"
+},
+{
+"kids":[],
+"uid":"2920279744",
+"parent":"",
+"text":"",
+"mid":"zfRirzVXp",
+"date":"2013-01-24 00:57:05"
+},
+{
+"kids":[],
+"uid":"2809061620",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zfifRgaBn",
+"date":"2013-01-20 07:44:34"
+},
+{
+"kids":[],
+"uid":"2920352570",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zfeQKqdYU",
+"date":"2013-01-19 23:04:28"
+},
+{
+"kids":[],
+"uid":"2696986281",
+"parent":"",
+"text":"",
+"mid":"zfcjq0jT2",
+"date":"2013-01-19 16:36:50"
+},
+{
+"kids":[],
+"uid":"1589050315",
+"parent":"",
+"text":"",
+"mid":"zf7ecomKs",
+"date":"2013-01-19 03:40:16"
+},
+{
+"kids":[],
+"uid":"2919486724",
+"parent":"",
+"text":"",
+"mid":"zf2qwgteJ",
+"date":"2013-01-18 15:26:53"
+},
+{
+"kids":[
+"zkMoD88ci"
+],
+"uid":"2185823811",
+"parent":"",
+"text":"",
+"mid":"zeW1bmg2X",
+"date":"2013-01-17 23:07:59"
+},
+{
+"kids":[],
+"uid":"2185823811",
+"parent":"",
+"text":"各位小心，假币就在你身边",
+"mid":"zeW0Wjty6",
+"date":"2013-01-17 23:07:23"
+},
+{
+"kids":[],
+"uid":"2810621864",
+"parent":"",
+"text":"",
+"mid":"zeQbDCTct",
+"date":"2013-01-17 08:17:16"
+},
+{
+"kids":[],
+"uid":"2919463724",
+"parent":"",
+"text":"",
+"mid":"zePELBtKd",
+"date":"2013-01-17 06:56:17"
+},
+{
+"kids":[],
+"uid":"1583263092",
+"parent":"zdVwl1nzS",
+"text":"",
+"mid":"zePrAhRYp",
+"date":"2013-01-17 06:23:48"
+},
+{
+"kids":[],
+"uid":"2919278282",
+"parent":"",
+"text":"",
+"mid":"zeMQs1LKv",
+"date":"2013-01-16 23:46:48"
+},
+{
+"kids":[],
+"uid":"1437514103",
+"parent":"",
+"text":"",
+"mid":"zeHarxiNa",
+"date":"2013-01-16 09:19:35"
+},
+{
+"kids":[],
+"uid":"2803574924",
+"parent":"zdVwl1nzS",
+"text":"",
+"mid":"zeGfsEL88",
+"date":"2013-01-16 06:59:13"
+},
+{
+"kids":[],
+"uid":"2176807194",
+"parent":"zefvDvNSl",
+"text":"",
+"mid":"zeCVj8PCj",
+"date":"2013-01-15 22:31:16"
+},
+{
+"kids":[],
+"uid":"1851069530",
+"parent":"zeuscbfO7",
+"text":"[汗]",
+"mid":"zexxaemQK",
+"date":"2013-01-15 08:48:06"
+},
+{
+"kids":[],
+"uid":"1770688732",
+"parent":"",
+"text":"",
+"mid":"zexvT0Utg",
+"date":"2013-01-15 08:44:57"
+},
+{
+"kids":[],
+"uid":"1807032150",
+"parent":"",
+"text":"",
+"mid":"zewCJ0cO4",
+"date":"2013-01-15 06:29:02"
+},
+{
+"kids":[
+"zexxaemQK"
+],
+"uid":"1751240033",
+"parent":"",
+"text":"不会吧？搞死人啊！",
+"mid":"zeuscbfO7",
+"date":"2013-01-15 00:57:37"
+},
+{
+"kids":[],
+"uid":"2787412790",
+"parent":"",
+"text":"",
+"mid":"zeujtqhfA",
+"date":"2013-01-15 00:36:07"
+},
+{
+"kids":[],
+"uid":"1888061613",
+"parent":"zessU6nrl",
+"text":"",
+"mid":"zetED2z0c",
+"date":"2013-01-14 22:55:30"
+},
+{
+"kids":[],
+"uid":"2205864424",
+"parent":"",
+"text":"",
+"mid":"zesHncquO",
+"date":"2013-01-14 20:29:29"
+},
+{
+"kids":[],
+"uid":"2014659937",
+"parent":"",
+"text":"靠，[抓狂][抓狂]我都奶过野[怒骂]",
+"mid":"zesDGcbeL",
+"date":"2013-01-14 20:20:25"
+},
+{
+"kids":[
+"zetED2z0c"
+],
+"uid":"crystalbb6",
+"parent":"",
+"text":"",
+"mid":"zessU6nrl",
+"date":"2013-01-14 19:53:49"
+},
+{
+"kids":[],
+"uid":"1865037403",
+"parent":"",
+"text":"",
+"mid":"zerWgf1dS",
+"date":"2013-01-14 18:33:27"
+},
+{
+"kids":[],
+"uid":"2977199553",
+"parent":"",
+"text":"",
+"mid":"zeqdr4d18",
+"date":"2013-01-14 14:10:16"
+},
+{
+"kids":[],
+"uid":"3120858011",
+"parent":"",
+"text":"@我是你一个人的小攻",
+"mid":"zepIhakh8",
+"date":"2013-01-14 12:53:30"
+},
+{
+"kids":[],
+"uid":"1790141052",
+"parent":"zepuzDrZM",
+"text":"",
+"mid":"zepzqnSgP",
+"date":"2013-01-14 12:31:42"
+},
+{
+"kids":[
+"zepzqnSgP"
+],
+"uid":"2608551572",
+"parent":"",
+"text":"",
+"mid":"zepuzDrZM",
+"date":"2013-01-14 12:19:44"
+},
+{
+"kids":[],
+"uid":"1812283677",
+"parent":"",
+"text":"大家注意",
+"mid":"zepiCcqTq",
+"date":"2013-01-14 11:50:17"
+},
+{
+"kids":[],
+"uid":"2842635043",
+"parent":"zdvHxtGvz",
+"text":"",
+"mid":"zepb9sjN7",
+"date":"2013-01-14 11:31:52"
+},
+{
+"kids":[],
+"uid":"1723877243",
+"parent":"",
+"text":"[衰][衰]@识讲野既番薯 唔好收到呀！",
+"mid":"zep5M9UpG",
+"date":"2013-01-14 11:18:38"
+},
+{
+"kids":[],
+"uid":"wookwuoleon",
+"parent":"",
+"text":"",
+"mid":"zeki62MyT",
+"date":"2013-01-13 23:05:16"
+},
+{
+"kids":[],
+"uid":"2919831690",
+"parent":"",
+"text":"",
+"mid":"zekeVctm7",
+"date":"2013-01-13 22:57:26"
+},
+{
+"kids":[],
+"uid":"destiny2010d",
+"parent":"zegjqvlg8",
+"text":"",
+"mid":"zejZpqlTr",
+"date":"2013-01-13 22:19:12"
+},
+{
+"kids":[],
+"uid":"2259847163",
+"parent":"",
+"text":"",
+"mid":"zejW9AOAP",
+"date":"2013-01-13 22:11:12"
+},
+{
+"kids":[],
+"uid":"2502358154",
+"parent":"zehKdxyyd",
+"text":"",
+"mid":"zejBxgOkK",
+"date":"2013-01-13 21:20:25"
+},
+{
+"kids":[],
+"uid":"2248181952",
+"parent":"zdv2U8i6G",
+"text":"",
+"mid":"zejiYjSWZ",
+"date":"2013-01-13 20:34:38"
+},
+{
+"kids":[],
+"uid":"2712471254",
+"parent":"",
+"text":"[嘻嘻]@黄_健泳 给客户收钱得注意咯",
+"mid":"zeim45Ifa",
+"date":"2013-01-13 18:09:33"
+},
+{
+"kids":[
+"zejBxgOkK"
+],
+"uid":"2688013611",
+"parent":"zdXBxe2ZS",
+"text":"",
+"mid":"zehKdxyyd",
+"date":"2013-01-13 16:36:18"
+},
+{
+"kids":[],
+"uid":"2343474115",
+"parent":"",
+"text":"小心",
+"mid":"zehfVrtuG",
+"date":"2013-01-13 15:21:40"
+},
+{
+"kids":[],
+"uid":"2639190813",
+"parent":"",
+"text":"",
+"mid":"zegDriUjY",
+"date":"2013-01-13 13:46:52"
+},
+{
+"kids":[],
+"uid":"2131473401",
+"parent":"",
+"text":"",
+"mid":"zegsZylS5",
+"date":"2013-01-13 13:21:07"
+},
+{
+"kids":[],
+"uid":"shengxiauxiong",
+"parent":"",
+"text":"",
+"mid":"zegk1brVG",
+"date":"2013-01-13 12:58:59"
+},
+{
+"kids":[
+"zejZpqlTr"
+],
+"uid":"2075419957",
+"parent":"",
+"text":"",
+"mid":"zegjqvlg8",
+"date":"2013-01-13 12:57:33"
+},
+{
+"kids":[],
+"uid":"2253787644",
+"parent":"zeddTzpq5",
+"text":"@朱择雨",
+"mid":"zegi7gVp0",
+"date":"2013-01-13 12:54:18"
+},
+{
+"kids":[],
+"uid":"2919900952",
+"parent":"zefmIE76t",
+"text":"",
+"mid":"zegcTpiIM",
+"date":"2013-01-13 12:41:28"
+},
+{
+"kids":[],
+"uid":"2813513352",
+"parent":"zef027OVk",
+"text":"收钱的朋友们注意啦，假币来了哦。",
+"mid":"zegbqqxN1",
+"date":"2013-01-13 12:37:50"
+},
+{
+"kids":[],
+"uid":"w1st",
+"parent":"zeddTzpq5",
+"text":"@鲜目录寿司安庆店",
+"mid":"zeg4ohwUr",
+"date":"2013-01-13 12:20:31"
+},
+{
+"kids":[],
+"uid":"1269043127",
+"parent":"zec1p2DP1",
+"text":"学习起来啊！！！！！",
+"mid":"zefZDCwGX",
+"date":"2013-01-13 12:08:49"
+},
+{
+"kids":[],
+"uid":"2504319171",
+"parent":"",
+"text":"轉發微博",
+"mid":"zefWGr1KT",
+"date":"2013-01-13 12:01:32"
+},
+{
+"kids":[],
+"uid":"nuanchuang",
+"parent":"",
+"text":"",
+"mid":"zefVTpVhD",
+"date":"2013-01-13 11:59:35"
+},
+{
+"kids":[],
+"uid":"1931498513",
+"parent":"zefzxx6ZT",
+"text":"[吃惊]",
+"mid":"zefIXrdSw",
+"date":"2013-01-13 11:27:43"
+},
+{
+"kids":[],
+"uid":"1923286420",
+"parent":"zec9gjXH2",
+"text":"",
+"mid":"zefFP14ye",
+"date":"2013-01-13 11:20:00"
+},
+{
+"kids":[
+"zefIXrdSw"
+],
+"uid":"210108465",
+"parent":"zefvDvNSl",
+"text":"",
+"mid":"zefzxx6ZT",
+"date":"2013-01-13 11:04:30"
+},
+{
+"kids":[],
+"uid":"1910804725",
+"parent":"",
+"text":"",
+"mid":"zefyexxCP",
+"date":"2013-01-13 11:01:18"
+},
+{
+"kids":[
+"zeCVj8PCj",
+"zefzxx6ZT"
+],
+"uid":"2498002430",
+"parent":"",
+"text":"[吃惊]",
+"mid":"zefvDvNSl",
+"date":"2013-01-13 10:54:54"
+},
+{
+"kids":[],
+"uid":"xiongdazuo",
+"parent":"",
+"text":"",
+"mid":"zefviwDI0",
+"date":"2013-01-13 10:54:03"
+},
+{
+"kids":[
+"zegcTpiIM"
+],
+"uid":"2669813595",
+"parent":"zefizzHUy",
+"text":"",
+"mid":"zefmIE76t",
+"date":"2013-01-13 10:32:56"
+},
+{
+"kids":[],
+"uid":"1798594411",
+"parent":"",
+"text":"",
+"mid":"zeflKEOjV",
+"date":"2013-01-13 10:30:32"
+},
+{
+"kids":[
+"zefmIE76t"
+],
+"uid":"bigassbear",
+"parent":"",
+"text":"真是混乱",
+"mid":"zefizzHUy",
+"date":"2013-01-13 10:22:43"
+},
+{
+"kids":[
+"zegbqqxN1"
+],
+"uid":"ijust7",
+"parent":"",
+"text":"@stone石头__",
+"mid":"zef027OVk",
+"date":"2013-01-13 09:37:01"
+},
+{
+"kids":[],
+"uid":"2804923502",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"zeeYVgAxF",
+"date":"2013-01-13 09:34:18"
+},
+{
+"kids":[],
+"uid":"2367357767",
+"parent":"",
+"text":"",
+"mid":"zeeC6tU5q",
+"date":"2013-01-13 08:38:05"
+},
+{
+"kids":[],
+"uid":"2284741865",
+"parent":"zeei7slVo",
+"text":"",
+"mid":"zeeqduMAN",
+"date":"2013-01-13 08:08:47"
+},
+{
+"kids":[
+"zeeqduMAN"
+],
+"uid":"2393699795",
+"parent":"zeddTzpq5",
+"text":"",
+"mid":"zeei7slVo",
+"date":"2013-01-13 07:48:51"
+},
+{
+"kids":[],
+"uid":"0310vvvvvv",
+"parent":"",
+"text":"",
+"mid":"zee5Gw5r3",
+"date":"2013-01-13 07:18:12"
+},
+{
+"kids":[],
+"uid":"2886699347",
+"parent":"",
+"text":"",
+"mid":"zee4qwGsI",
+"date":"2013-01-13 07:15:06"
+},
+{
+"kids":[],
+"uid":"2534765933",
+"parent":"",
+"text":"",
+"mid":"zedti3csh",
+"date":"2013-01-13 05:43:36"
+},
+{
+"kids":[],
+"uid":"2709863363",
+"parent":"",
+"text":"",
+"mid":"zedejD3Xv",
+"date":"2013-01-13 05:06:44"
+},
+{
+"kids":[
+"zegi7gVp0",
+"zeg4ohwUr",
+"zeei7slVo"
+],
+"uid":"335353986",
+"parent":"",
+"text":"",
+"mid":"zeddTzpq5",
+"date":"2013-01-13 05:05:42"
+},
+{
+"kids":[],
+"uid":"1778374912",
+"parent":"",
+"text":"",
+"mid":"zecSCufIk",
+"date":"2013-01-13 04:13:17"
+},
+{
+"kids":[],
+"uid":"2429325715",
+"parent":"",
+"text":"",
+"mid":"zecjoeZsO",
+"date":"2013-01-13 02:46:29"
+},
+{
+"kids":[],
+"uid":"bearlove0304",
+"parent":"",
+"text":"",
+"mid":"zecam2Qj8",
+"date":"2013-01-13 02:24:13"
+},
+{
+"kids":[
+"zefFP14ye"
+],
+"uid":"bearqx",
+"parent":"zec1p2DP1",
+"text":"不会认钱的路过",
+"mid":"zec9gjXH2",
+"date":"2013-01-13 02:21:32"
+},
+{
+"kids":[],
+"uid":"2920140422",
+"parent":"",
+"text":"",
+"mid":"zec563sud",
+"date":"2013-01-13 02:11:16"
+},
+{
+"kids":[],
+"uid":"1372017914",
+"parent":"zec1p2DP1",
+"text":"",
+"mid":"zec4R1Vbv",
+"date":"2013-01-13 02:10:40"
+},
+{
+"kids":[
+"zefZDCwGX",
+"zec9gjXH2",
+"zec4R1Vbv"
+],
+"uid":"101851410",
+"parent":"zeb2clNQP",
+"text":"[怒骂]",
+"mid":"zec1p2DP1",
+"date":"2013-01-13 02:02:10"
+},
+{
+"kids":[
+"zec1p2DP1"
+],
+"uid":"54627841",
+"parent":"",
+"text":"",
+"mid":"zeb2clNQP",
+"date":"2013-01-12 23:31:24"
+},
+{
+"kids":[],
+"uid":"2164848265",
+"parent":"",
+"text":"",
+"mid":"zeac8o7oT",
+"date":"2013-01-12 21:23:06"
+},
+{
+"kids":[],
+"uid":"2803660864",
+"parent":"",
+"text":"",
+"mid":"ze8W1h3OB",
+"date":"2013-01-12 18:10:39"
+},
+{
+"kids":[],
+"uid":"2488499103",
+"parent":"zdWkrylR3",
+"text":"",
+"mid":"ze7SjjEKq",
+"date":"2013-01-12 15:28:47"
+},
+{
+"kids":[],
+"uid":"2458759194",
+"parent":"",
+"text":"",
+"mid":"ze7E21Dak",
+"date":"2013-01-12 14:53:37"
+},
+{
+"kids":[],
+"uid":"2250394252",
+"parent":"",
+"text":"",
+"mid":"ze54d01al",
+"date":"2013-01-12 08:19:51"
+},
+{
+"kids":[],
+"uid":"2808586980",
+"parent":"zdvPOaW7C",
+"text":"",
+"mid":"ze4ya6dN7",
+"date":"2013-01-12 07:00:54"
+},
+{
+"kids":[],
+"uid":"2536625411",
+"parent":"",
+"text":"",
+"mid":"ze2cQywom",
+"date":"2013-01-12 01:02:54"
+},
+{
+"kids":[],
+"uid":"3209287171",
+"parent":"",
+"text":"回复@Calvin-动物控:‘钱家’也有老虎打盹的时候···别处处把真币当假的来鉴···再说假币等到行家‘亲子鉴定’那已是秋后落叶事了。说点猜猜‘假币’根源终端在那？还不多半是隐藏在行家内部中的‘内奸’‘叛徒’‘贪妄者’？",
+"mid":"ze29Y88o2",
+"date":"2013-01-12 00:55:48"
+},
+{
+"kids":[],
+"uid":"2803993667",
+"parent":"",
+"text":"",
+"mid":"ze1Iu1c7Q",
+"date":"2013-01-11 23:48:03"
+},
+{
+"kids":[],
+"uid":"2165884647",
+"parent":"",
+"text":"",
+"mid":"ze0WVfvA4",
+"date":"2013-01-11 21:50:55"
+},
+{
+"kids":[],
+"uid":"calvin671788878",
+"parent":"zdWcLuegR",
+"text":"再真的假币也是假币＇作为一名专业银行柜员＇我一摸就能辨真假[鼓掌][耶]",
+"mid":"ze04Q4etw",
+"date":"2013-01-11 19:37:39"
+},
+{
+"kids":[],
+"uid":"5201314fs",
+"parent":"",
+"text":"",
+"mid":"zdZo631nO",
+"date":"2013-01-11 17:52:22"
+},
+{
+"kids":[],
+"uid":"2468704254",
+"parent":"zdYrdyRXJ",
+"text":"",
+"mid":"zdYSdf2hQ",
+"date":"2013-01-11 16:33:47"
+},
+{
+"kids":[],
+"uid":"2862051597",
+"parent":"",
+"text":"",
+"mid":"zdYPimxr9",
+"date":"2013-01-11 16:26:38"
+},
+{
+"kids":[
+"zdYSdf2hQ"
+],
+"uid":"brabuswx",
+"parent":"zdYgEbtIQ",
+"text":"",
+"mid":"zdYrdyRXJ",
+"date":"2013-01-11 15:27:18"
+},
+{
+"kids":[
+"zdYrdyRXJ"
+],
+"uid":"wxjy82139111",
+"parent":"",
+"text":"",
+"mid":"zdYgEbtIQ",
+"date":"2013-01-11 15:01:13"
+},
+{
+"kids":[],
+"uid":"1950772875",
+"parent":"",
+"text":"",
+"mid":"zdYg2lIuZ",
+"date":"2013-01-11 14:59:46"
+},
+{
+"kids":[],
+"uid":"2602686282",
+"parent":"",
+"text":"",
+"mid":"zdYcWvwgV",
+"date":"2013-01-11 14:52:08"
+},
+{
+"kids":[],
+"uid":"tel15515865762",
+"parent":"",
+"text":"",
+"mid":"zdYcnn2FC",
+"date":"2013-01-11 14:50:45"
+},
+{
+"kids":[],
+"uid":"2836043640",
+"parent":"",
+"text":"",
+"mid":"zdY8FccoU",
+"date":"2013-01-11 14:41:35"
+},
+{
+"kids":[],
+"uid":"2491594544",
+"parent":"",
+"text":"",
+"mid":"zdXYvwUfF",
+"date":"2013-01-11 14:16:35"
+},
+{
+"kids":[],
+"uid":"1865426847",
+"parent":"zdXvQ6NtU",
+"text":"",
+"mid":"zdXVowlFP",
+"date":"2013-01-11 14:08:55"
+},
+{
+"kids":[],
+"uid":"2013741103",
+"parent":"zdX4G5IRg",
+"text":"",
+"mid":"zdXT9oCtj",
+"date":"2013-01-11 14:03:22"
+},
+{
+"kids":[],
+"uid":"2455974263",
+"parent":"",
+"text":"",
+"mid":"zdXOcC4SO",
+"date":"2013-01-11 13:51:12"
+},
+{
+"kids":[],
+"uid":"2513224411",
+"parent":"",
+"text":"真的假的？？",
+"mid":"zdXNTpGDW",
+"date":"2013-01-11 13:50:26"
+},
+{
+"kids":[],
+"uid":"3120639422",
+"parent":"",
+"text":"",
+"mid":"zdXN6nPsj",
+"date":"2013-01-11 13:48:29"
+},
+{
+"kids":[],
+"uid":"1669466575",
+"parent":"",
+"text":"",
+"mid":"zdXJA0Rx4",
+"date":"2013-01-11 13:39:48"
+},
+{
+"kids":[],
+"uid":"1582664837",
+"parent":"zdXkD6xAK",
+"text":"很少用现金的飘过，那个100元假钞，只要不是柜员机吐出来的就更不可能流通到我手上了",
+"mid":"zdXJe8KfC",
+"date":"2013-01-11 13:38:55"
+},
+{
+"kids":[],
+"uid":"2149055382",
+"parent":"",
+"text":"",
+"mid":"zdXHnwkxp",
+"date":"2013-01-11 13:34:22"
+},
+{
+"kids":[],
+"uid":"1708689595",
+"parent":"zdXvQ6NtU",
+"text":"晕死",
+"mid":"zdXGIsIui",
+"date":"2013-01-11 13:32:44"
+},
+{
+"kids":[],
+"uid":"1790825853",
+"parent":"",
+"text":"@3d小王爷 @孙海蟲蟲 @請叫我小小小小宇",
+"mid":"zdXFv4RJS",
+"date":"2013-01-11 13:29:45"
+},
+{
+"kids":[],
+"uid":"1898056611",
+"parent":"",
+"text":"",
+"mid":"zdXCdar4w",
+"date":"2013-01-11 13:21:39"
+},
+{
+"kids":[
+"zehKdxyyd"
+],
+"uid":"2332305007",
+"parent":"",
+"text":"",
+"mid":"zdXBxe2ZS",
+"date":"2013-01-11 13:19:59"
+},
+{
+"kids":[],
+"uid":"1148676615",
+"parent":"",
+"text":"哪个国家搞的，想干什么？警惕 [衰]",
+"mid":"zdXyDi2AB",
+"date":"2013-01-11 13:12:50"
+},
+{
+"kids":[],
+"uid":"2048642647",
+"parent":"zdX4G5IRg",
+"text":"",
+"mid":"zdXytcXrO",
+"date":"2013-01-11 13:12:26"
+},
+{
+"kids":[],
+"uid":"1876834532",
+"parent":"zdXxaxJgC",
+"text":"",
+"mid":"zdXy3e2Ob",
+"date":"2013-01-11 13:11:22"
+},
+{
+"kids":[
+"zdXy3e2Ob"
+],
+"uid":"1261528103",
+"parent":"",
+"text":"",
+"mid":"zdXxaxJgC",
+"date":"2013-01-11 13:09:14"
+},
+{
+"kids":[],
+"uid":"1768712134",
+"parent":"zdXk8E2Ce",
+"text":"这么吊",
+"mid":"zdXwO8ifJ",
+"date":"2013-01-11 13:08:19"
+},
+{
+"kids":[],
+"uid":"1511190862",
+"parent":"",
+"text":"",
+"mid":"zdXweCd3j",
+"date":"2013-01-11 13:06:56"
+},
+{
+"kids":[
+"zdXVowlFP",
+"zdXGIsIui"
+],
+"uid":"311164746",
+"parent":"zdXvnbuUt",
+"text":"",
+"mid":"zdXvQ6NtU",
+"date":"2013-01-11 13:05:57"
+},
+{
+"kids":[
+"zdXvQ6NtU"
+],
+"uid":"l1994hj",
+"parent":"",
+"text":"这个必须转",
+"mid":"zdXvnbuUt",
+"date":"2013-01-11 13:04:47"
+},
+{
+"kids":[
+"zgLSVtQ6a",
+"zgD9gdhEv"
+],
+"uid":"2038263404",
+"parent":"zdWJuCVnO",
+"text":"唉～杯具，真的要谨慎留意。",
+"mid":"zdXpiqeEP",
+"date":"2013-01-11 12:49:50"
+},
+{
+"kids":[],
+"uid":"buddy13143344",
+"parent":"zdXkD6xAK",
+"text":"",
+"mid":"zdXnhnwYx",
+"date":"2013-01-11 12:44:50"
+},
+{
+"kids":[],
+"uid":"3135204347",
+"parent":"",
+"text":"好怕",
+"mid":"zdXmXjgLs",
+"date":"2013-01-11 12:44:02"
+},
+{
+"kids":[],
+"uid":"2436030797",
+"parent":"",
+"text":"",
+"mid":"zdXmPkxaF",
+"date":"2013-01-11 12:43:46"
+},
+{
+"kids":[],
+"uid":"3210407915",
+"parent":"",
+"text":"@碾红",
+"mid":"zdXlDtblv",
+"date":"2013-01-11 12:40:49"
+},
+{
+"kids":[
+"zdXJe8KfC",
+"zdXnhnwYx"
+],
+"uid":"1973716592",
+"parent":"",
+"text":"",
+"mid":"zdXkD6xAK",
+"date":"2013-01-11 12:38:20"
+},
+{
+"kids":[
+"zdXwO8ifJ"
+],
+"uid":"2720748961",
+"parent":"",
+"text":"收到",
+"mid":"zdXk8E2Ce",
+"date":"2013-01-11 12:37:08"
+},
+{
+"kids":[],
+"uid":"1405687931",
+"parent":"",
+"text":"毫无鸭梨，假钱一摸就知道，哈哈",
+"mid":"zdX9dFwEH",
+"date":"2013-01-11 12:10:14"
+},
+{
+"kids":[],
+"uid":"2086989445",
+"parent":"zdWQijyk0",
+"text":"转发 转发 不得了啊这个、假币坑死人啊、、、、",
+"mid":"zdX8yjqbp",
+"date":"2013-01-11 12:08:34"
+},
+{
+"kids":[],
+"uid":"2814520327",
+"parent":"zdVgUdHdr",
+"text":"",
+"mid":"zdX8nqf8C",
+"date":"2013-01-11 12:08:07"
+},
+{
+"kids":[
+"zdXT9oCtj",
+"zdXytcXrO"
+],
+"uid":"dantax",
+"parent":"",
+"text":"为什么会有这么逼真的仿造技术？真正的造假源头是哪，这才是值得深究的问题！",
+"mid":"zdX4G5IRg",
+"date":"2013-01-11 11:59:03"
+},
+{
+"kids":[],
+"uid":"1427527671",
+"parent":"",
+"text":"",
+"mid":"zdX1ThwyW",
+"date":"2013-01-11 11:52:10"
+},
+{
+"kids":[],
+"uid":"222867972",
+"parent":"zdWZc0qsh",
+"text":"@微博管理员 说实话。",
+"mid":"zdWZSfMs1",
+"date":"2013-01-11 11:47:12"
+},
+{
+"kids":[
+"zdWZSfMs1"
+],
+"uid":"526782520",
+"parent":"",
+"text":"",
+"mid":"zdWZc0qsh",
+"date":"2013-01-11 11:45:31"
+},
+{
+"kids":[],
+"uid":"antonyaway",
+"parent":"",
+"text":"@绾灬毛线 @凶残的盈盈亲 @小鹿迷藏 @Denis_Xie @-字母D-",
+"mid":"zdWTPzHwd",
+"date":"2013-01-11 11:32:19"
+},
+{
+"kids":[],
+"uid":"2416695140",
+"parent":"",
+"text":"[衰]",
+"mid":"zdWSJ1ak7",
+"date":"2013-01-11 11:29:34"
+},
+{
+"kids":[],
+"uid":"2663213191",
+"parent":"zdWQijyk0",
+"text":"",
+"mid":"zdWRzwBnd",
+"date":"2013-01-11 11:26:43"
+},
+{
+"kids":[
+"zdX8yjqbp",
+"zdWRzwBnd"
+],
+"uid":"s123123123",
+"parent":"zdWPx4GeV",
+"text":"[怒][怒]",
+"mid":"zdWQijyk0",
+"date":"2013-01-11 11:23:34"
+},
+{
+"kids":[
+"zdWQijyk0"
+],
+"uid":"dongdangongyuan",
+"parent":"zdVXOdEpY",
+"text":"",
+"mid":"zdWPx4GeV",
+"date":"2013-01-11 11:21:43"
+},
+{
+"kids":[],
+"uid":"678807268",
+"parent":"zdWcLuegR",
+"text":"",
+"mid":"zdWLQAtAE",
+"date":"2013-01-11 11:12:39"
+},
+{
+"kids":[
+"zdXpiqeEP"
+],
+"uid":"2424138795",
+"parent":"",
+"text":"",
+"mid":"zdWJuCVnO",
+"date":"2013-01-11 11:06:51"
+},
+{
+"kids":[],
+"uid":"joeyhh",
+"parent":"zdWxybjUj",
+"text":"",
+"mid":"zdWI2xku8",
+"date":"2013-01-11 11:03:16"
+},
+{
+"kids":[],
+"uid":"1820193337",
+"parent":"",
+"text":"",
+"mid":"zdWFK4R3o",
+"date":"2013-01-11 10:57:36"
+},
+{
+"kids":[],
+"uid":"2379472021",
+"parent":"zdVM82kUg",
+"text":"@青春六月海 @Karen-journey",
+"mid":"zdWFs4G5Q",
+"date":"2013-01-11 10:56:54"
+},
+{
+"kids":[],
+"uid":"3085841183",
+"parent":"",
+"text":"",
+"mid":"zdWEwr1vh",
+"date":"2013-01-11 10:54:36"
+},
+{
+"kids":[],
+"uid":"2296083320",
+"parent":"zdVaWj7JY",
+"text":"",
+"mid":"zdWEj7ThC",
+"date":"2013-01-11 10:54:04"
+},
+{
+"kids":[],
+"uid":"1926260983",
+"parent":"",
+"text":"",
+"mid":"zdWDqb478",
+"date":"2013-01-11 10:51:53"
+},
+{
+"kids":[],
+"uid":"2584774940",
+"parent":"",
+"text":"",
+"mid":"zdWy15BVg",
+"date":"2013-01-11 10:38:34"
+},
+{
+"kids":[
+"zdWI2xku8"
+],
+"uid":"2397326624",
+"parent":"zdW9ipMsI",
+"text":"近年晚大家小心假币！",
+"mid":"zdWxybjUj",
+"date":"2013-01-11 10:37:25"
+},
+{
+"kids":[],
+"uid":"2368258307",
+"parent":"",
+"text":"尼玛！汗死老戏了！这么多开头！老子还是用卡吧！太TM恐怖了！",
+"mid":"zdWwN8Od1",
+"date":"2013-01-11 10:35:33"
+},
+{
+"kids":[],
+"uid":"adamwu72",
+"parent":"zdWkvmllz",
+"text":"大家小心咯！@demonAnr @Escade @没六儿的大爷 @峰_逢_唪_俸",
+"mid":"zdWw9gvb4",
+"date":"2013-01-11 10:33:56"
+},
+{
+"kids":[],
+"uid":"1982310065",
+"parent":"zdUQszqln",
+"text":"",
+"mid":"zdWvMtKqg",
+"date":"2013-01-11 10:33:03"
+},
+{
+"kids":[],
+"uid":"809077471",
+"parent":"",
+"text":"[感冒]",
+"mid":"zdWv6vYpK",
+"date":"2013-01-11 10:31:24"
+},
+{
+"kids":[],
+"uid":"2574811704",
+"parent":"",
+"text":"",
+"mid":"zdWpKpenX",
+"date":"2013-01-11 10:18:12"
+},
+{
+"kids":[],
+"uid":"2657822981",
+"parent":"zdUZBB0HO",
+"text":"",
+"mid":"zdWpp8sSN",
+"date":"2013-01-11 10:17:20"
+},
+{
+"kids":[],
+"uid":"2681498023",
+"parent":"zdWgJ66by",
+"text":"正好我认不到钱",
+"mid":"zdWkKbCfD",
+"date":"2013-01-11 10:05:52"
+},
+{
+"kids":[
+"zdWw9gvb4"
+],
+"uid":"1842249375",
+"parent":"zdWcLuegR",
+"text":"",
+"mid":"zdWkvmllz",
+"date":"2013-01-11 10:05:18"
+},
+{
+"kids":[
+"ze7SjjEKq"
+],
+"uid":"2610670071",
+"parent":"zdWdPocU8",
+"text":"",
+"mid":"zdWkrylR3",
+"date":"2013-01-11 10:05:08"
+},
+{
+"kids":[],
+"uid":"2658616244",
+"parent":"zdWgO4TEB",
+"text":"",
+"mid":"zdWjPozPD",
+"date":"2013-01-11 10:03:37"
+},
+{
+"kids":[
+"zdWjPozPD"
+],
+"uid":"2063963991",
+"parent":"",
+"text":"防不胜防呀 还是小心点吧 同志们！",
+"mid":"zdWgO4TEB",
+"date":"2013-01-11 09:56:08"
+},
+{
+"kids":[
+"zdWkKbCfD"
+],
+"uid":"1847767950",
+"parent":"zdWcLuegR",
+"text":"",
+"mid":"zdWgJ66by",
+"date":"2013-01-11 09:55:58"
+},
+{
+"kids":[],
+"uid":"2953609615",
+"parent":"",
+"text":"",
+"mid":"zdWfFsFIw",
+"date":"2013-01-11 09:53:21"
+},
+{
+"kids":[
+"zdWkrylR3"
+],
+"uid":"1806704231",
+"parent":"",
+"text":"",
+"mid":"zdWdPocU8",
+"date":"2013-01-11 09:48:49"
+},
+{
+"kids":[
+"ze04Q4etw",
+"zdWLQAtAE",
+"zdWkvmllz",
+"zdWgJ66by"
+],
+"uid":"zhengyuangg",
+"parent":"zdVSZvzVp",
+"text":"",
+"mid":"zdWcLuegR",
+"date":"2013-01-11 09:46:12"
+},
+{
+"kids":[],
+"uid":"2652380022",
+"parent":"",
+"text":"",
+"mid":"zdW9KsfU2",
+"date":"2013-01-11 09:38:47"
+},
+{
+"kids":[],
+"uid":"1967274403",
+"parent":"",
+"text":"",
+"mid":"zdW9y1XS3",
+"date":"2013-01-11 09:38:16"
+},
+{
+"kids":[
+"zdWxybjUj"
+],
+"uid":"2201489453",
+"parent":"zdW6Yb2lW",
+"text":"",
+"mid":"zdW9ipMsI",
+"date":"2013-01-11 09:37:40"
+},
+{
+"kids":[],
+"uid":"3015703897",
+"parent":"zdVgUdHdr",
+"text":"警惕，本来就没几个钱，千万再别收个假钱！@小鑫万花筒@瞅日赏菊:哪个国家搞的，想干什么？@牛尔8888: @啊哲欧妮:",
+"mid":"zdW7z9mgo",
+"date":"2013-01-11 09:33:23"
+},
+{
+"kids":[
+"zdW9ipMsI"
+],
+"uid":"122566566",
+"parent":"",
+"text":"还好上班有验钞机[汗][汗][汗]",
+"mid":"zdW6Yb2lW",
+"date":"2013-01-11 09:31:56"
+},
+{
+"kids":[],
+"uid":"2181995711",
+"parent":"",
+"text":"",
+"mid":"zdW2lx0SJ",
+"date":"2013-01-11 09:20:32"
+},
+{
+"kids":[],
+"uid":"206061179",
+"parent":"zdVlQE9bV",
+"text":"[吃惊]",
+"mid":"zdW1ayWD8",
+"date":"2013-01-11 09:17:38"
+},
+{
+"kids":[
+"zdWPx4GeV"
+],
+"uid":"1838268121",
+"parent":"zdVQvi90S",
+"text":"",
+"mid":"zdVXOdEpY",
+"date":"2013-01-11 09:09:22"
+},
+{
+"kids":[
+"zdWcLuegR"
+],
+"uid":"boyandgay85",
+"parent":"zdVbxx1a3",
+"text":"@Neil_澤 @再见木木的天空 @无歧陆凤@我们一起唱过的歌_ @姜丝来了",
+"mid":"zdVSZvzVp",
+"date":"2013-01-11 08:57:29"
+},
+{
+"kids":[],
+"uid":"ribaobao",
+"parent":"zdVo4FbYb",
+"text":"",
+"mid":"zdVRUsIiT",
+"date":"2013-01-11 08:54:48"
+},
+{
+"kids":[
+"zdVXOdEpY"
+],
+"uid":"Z19951106",
+"parent":"",
+"text":"",
+"mid":"zdVQvi90S",
+"date":"2013-01-11 08:51:22"
+},
+{
+"kids":[],
+"uid":"1935251215",
+"parent":"",
+"text":"",
+"mid":"zdVOQoMEQ",
+"date":"2013-01-11 08:47:17"
+},
+{
+"kids":[
+"zdWFs4G5Q"
+],
+"uid":"1752386074",
+"parent":"zdUQszqln",
+"text":"@emily_xxm @暮枫暮瑟",
+"mid":"zdVM82kUg",
+"date":"2013-01-11 08:40:35"
+},
+{
+"kids":[],
+"uid":"1905030833",
+"parent":"zdVbxx1a3",
+"text":"何止坑爹啊!还坑娘啊！",
+"mid":"zdVD7e9Xy",
+"date":"2013-01-11 08:18:23"
+},
+{
+"kids":[],
+"uid":"1589049394",
+"parent":"",
+"text":"",
+"mid":"zdVzIdnnL",
+"date":"2013-01-11 08:10:00"
+},
+{
+"kids":[
+"zePrAhRYp",
+"zeGfsEL88"
+],
+"uid":"2704983840",
+"parent":"",
+"text":"",
+"mid":"zdVwl1nzS",
+"date":"2013-01-11 08:01:40"
+},
+{
+"kids":[],
+"uid":"1849063200",
+"parent":"zdUQszqln",
+"text":"",
+"mid":"zdVub9nbQ",
+"date":"2013-01-11 07:56:22"
+},
+{
+"kids":[],
+"uid":"2239733462",
+"parent":"",
+"text":"",
+"mid":"zdVu7liX7",
+"date":"2013-01-11 07:56:13"
+},
+{
+"kids":[],
+"uid":"235619234",
+"parent":"zdUQszqln",
+"text":"",
+"mid":"zdVrEfJX7",
+"date":"2013-01-11 07:50:06"
+},
+{
+"kids":[],
+"uid":"1892872780",
+"parent":"",
+"text":"[怒]",
+"mid":"zdVoN124C",
+"date":"2013-01-11 07:43:05"
+},
+{
+"kids":[
+"zdVRUsIiT"
+],
+"uid":"1779848891",
+"parent":"",
+"text":"真的假的？",
+"mid":"zdVo4FbYb",
+"date":"2013-01-11 07:41:20"
+},
+{
+"kids":[
+"zdW1ayWD8"
+],
+"uid":"1737705750",
+"parent":"zdVbxx1a3",
+"text":"",
+"mid":"zdVlQE9bV",
+"date":"2013-01-11 07:35:51"
+},
+{
+"kids":[],
+"uid":"1933553427",
+"parent":"zdV5fbIUa",
+"text":"",
+"mid":"zdVj7mWXy",
+"date":"2013-01-11 07:29:06"
+},
+{
+"kids":[],
+"uid":"1881541683",
+"parent":"zdUOK9Dqh",
+"text":"",
+"mid":"zdVhV9R62",
+"date":"2013-01-11 07:26:10"
+},
+{
+"kids":[
+"zdX8nqf8C",
+"zdW7z9mgo"
+],
+"uid":"2332781707",
+"parent":"",
+"text":"",
+"mid":"zdVgUdHdr",
+"date":"2013-01-11 07:23:39"
+},
+{
+"kids":[
+"zdVSZvzVp",
+"zdVD7e9Xy",
+"zdVlQE9bV"
+],
+"uid":"anbingcheng",
+"parent":"",
+"text":"",
+"mid":"zdVbxx1a3",
+"date":"2013-01-11 07:10:26"
+},
+{
+"kids":[
+"zdWEj7ThC"
+],
+"uid":"seentomwang",
+"parent":"zdUQszqln",
+"text":"",
+"mid":"zdVaWj7JY",
+"date":"2013-01-11 07:08:58"
+},
+{
+"kids":[
+"zdVj7mWXy"
+],
+"uid":"1878155157",
+"parent":"",
+"text":"[怒]",
+"mid":"zdV5fbIUa",
+"date":"2013-01-11 06:54:56"
+},
+{
+"kids":[],
+"uid":"209995474",
+"parent":"",
+"text":"",
+"mid":"zdV0N9zi4",
+"date":"2013-01-11 06:43:57"
+},
+{
+"kids":[
+"zdWpp8sSN"
+],
+"uid":"2063013972",
+"parent":"",
+"text":"",
+"mid":"zdUZBB0HO",
+"date":"2013-01-11 06:41:02"
+},
+{
+"kids":[
+"zdWvMtKqg",
+"zdVM82kUg",
+"zdVub9nbQ",
+"zdVrEfJX7",
+"zdVaWj7JY"
+],
+"uid":"1593931011",
+"parent":"",
+"text":"转发",
+"mid":"zdUQszqln",
+"date":"2013-01-11 06:18:31"
+},
+{
+"kids":[
+"zdVhV9R62"
+],
+"uid":"1920297837",
+"parent":"",
+"text":"",
+"mid":"zdUOK9Dqh",
+"date":"2013-01-11 06:14:17"
+},
+{
+"kids":[],
+"uid":"2920078574",
+"parent":"zdxsGfO46",
+"text":"",
+"mid":"zdNVyioDk",
+"date":"2013-01-10 12:41:49"
+},
+{
+"kids":[],
+"uid":"2803981990",
+"parent":"",
+"text":"",
+"mid":"zdL6TpfDd",
+"date":"2013-01-10 05:31:32"
+},
+{
+"kids":[],
+"uid":"2291246192",
+"parent":"",
+"text":"",
+"mid":"zdJbh93jf",
+"date":"2013-01-10 00:36:49"
+},
+{
+"kids":[],
+"uid":"2387366380",
+"parent":"zdv9jwJY4",
+"text":"@纸上花",
+"mid":"zdGNBnXP6",
+"date":"2013-01-09 18:33:01"
+},
+{
+"kids":[],
+"uid":"2287251104",
+"parent":"zdERtt5lp",
+"text":"@十四傻",
+"mid":"zdEUNqIYx",
+"date":"2013-01-09 13:45:13"
+},
+{
+"kids":[],
+"uid":"2803570284",
+"parent":"",
+"text":"",
+"mid":"zdETXFHBk",
+"date":"2013-01-09 13:43:12"
+},
+{
+"kids":[
+"zdEUNqIYx"
+],
+"uid":"207098986",
+"parent":"",
+"text":"回复@孙振慧:[可怜]",
+"mid":"zdERtt5lp",
+"date":"2013-01-09 13:37:04"
+},
+{
+"kids":[],
+"uid":"10shiying2",
+"parent":"zdvjJdd75",
+"text":"",
+"mid":"zdDvw6PXR",
+"date":"2013-01-09 10:10:13"
+},
+{
+"kids":[],
+"uid":"1796819371",
+"parent":"zdmed5pEc",
+"text":"@强大侯林林 @C_炜民Y @陈庭辉promise @低调啲鸿哥 @今日任何日一样 @罗丽斤欠 @张小勇66",
+"mid":"zdznwzz8K",
+"date":"2013-01-08 23:39:34"
+},
+{
+"kids":[],
+"uid":"2448956335",
+"parent":"",
+"text":"",
+"mid":"zdzeGti6z",
+"date":"2013-01-08 23:17:46"
+},
+{
+"kids":[],
+"uid":"1800426815",
+"parent":"zdxsGfO46",
+"text":"舍长@Amani-凯红 你要小心你那两张啊",
+"mid":"zdz2Xi43f",
+"date":"2013-01-08 22:48:52"
+},
+{
+"kids":[],
+"uid":"2093595372",
+"parent":"zdyHAgzl6",
+"text":"[衰]这世道~~",
+"mid":"zdyPtkaTn",
+"date":"2013-01-08 22:15:40"
+},
+{
+"kids":[
+"zdyPtkaTn"
+],
+"uid":"2110442942",
+"parent":"zdvzZoeQv",
+"text":"",
+"mid":"zdyHAgzl6",
+"date":"2013-01-08 21:56:11"
+},
+{
+"kids":[
+"zisF1wPRr"
+],
+"uid":"3036826443",
+"parent":"zdtP7aZsi",
+"text":"大家注意了",
+"mid":"zdynQl0ru",
+"date":"2013-01-08 21:07:33"
+},
+{
+"kids":[],
+"uid":"2805448780",
+"parent":"",
+"text":"",
+"mid":"zdycOhLJU",
+"date":"2013-01-08 20:40:25"
+},
+{
+"kids":[],
+"uid":"comiqiwa",
+"parent":"zdxhTfTVB",
+"text":"",
+"mid":"zdxVVDXyU",
+"date":"2013-01-08 19:58:48"
+},
+{
+"kids":[
+"zdNVyioDk",
+"zdz2Xi43f"
+],
+"uid":"1791555975",
+"parent":"",
+"text":"",
+"mid":"zdxsGfO46",
+"date":"2013-01-08 18:46:43"
+},
+{
+"kids":[],
+"uid":"2596616364",
+"parent":"zdvjJdd75",
+"text":"[哼]",
+"mid":"zdxk0pwYm",
+"date":"2013-01-08 18:25:23"
+},
+{
+"kids":[
+"zdxVVDXyU"
+],
+"uid":"2804090722",
+"parent":"zdwQiBA1M",
+"text":"一定一定",
+"mid":"zdxhTfTVB",
+"date":"2013-01-08 18:20:08"
+},
+{
+"kids":[],
+"uid":"2245629514",
+"parent":"zdv6B4Qfm",
+"text":"@小清Y @suyan_燕 @强丰茶行 @罂粟moon @余秀芬-",
+"mid":"zdx7Cc4Yt",
+"date":"2013-01-08 17:54:49"
+},
+{
+"kids":[],
+"uid":"2342181654",
+"parent":"",
+"text":"",
+"mid":"zdwUFC8wE",
+"date":"2013-01-08 17:22:55"
+},
+{
+"kids":[
+"zdxhTfTVB"
+],
+"uid":"2690747783",
+"parent":"",
+"text":"各位亲，注意了哦，别看走眼了@苦瓜舒芬 @立基Yang @林菁哈 @OUT-TUO @黎景茵 @食院生活部 @。。。。",
+"mid":"zdwQiBA1M",
+"date":"2013-01-08 17:12:11"
+},
+{
+"kids":[],
+"uid":"2442040805",
+"parent":"zdweX9Eia",
+"text":"[吃惊]",
+"mid":"zdwEs1E6i",
+"date":"2013-01-08 16:43:00"
+},
+{
+"kids":[],
+"uid":"xxxholiclong",
+"parent":"",
+"text":"@眸中道不尽的言语洁婷 @捉迷藏de汤圆猫 @shao少梅 @YJY-木易亻圭王俞 @玫秀小朋友 @Joey-宜 @哒RR @鱼鱼纯 各位小心喽!!!",
+"mid":"zdwj5EFwC",
+"date":"2013-01-08 15:50:22"
+},
+{
+"kids":[
+"zdwEs1E6i"
+],
+"uid":"2790057290",
+"parent":"zduUJlBqs",
+"text":"",
+"mid":"zdweX9Eia",
+"date":"2013-01-08 15:40:11"
+},
+{
+"kids":[],
+"uid":"2843132383",
+"parent":"",
+"text":"@li伟俊 @吳廣鳯 注意啦",
+"mid":"zdw6YbM5i",
+"date":"2013-01-08 15:20:31"
+},
+{
+"kids":[],
+"uid":"1860719734",
+"parent":"zdvN7b8df",
+"text":"",
+"mid":"zdw60u4gQ",
+"date":"2013-01-08 15:18:08"
+},
+{
+"kids":[],
+"uid":"2759859131",
+"parent":"",
+"text":"",
+"mid":"zdw3nq7QF",
+"date":"2013-01-08 15:11:38"
+},
+{
+"kids":[
+"zmAxfrsJ3",
+"zkqtuaCaT",
+"zkj3MaCVe",
+"zjwQE5tF4",
+"zjrcy7Pwa",
+"zisWxrMlQ",
+"zihVAB36A",
+"zhxaqcCCd",
+"zhnyoyUm3",
+"zgcQXxegr",
+"zg3R5BSDF",
+"zfifRgaBn",
+"zfeQKqdYU",
+"zeeYVgAxF",
+"ze4ya6dN7"
+],
+"uid":"2974857072",
+"parent":"zdvN7b8df",
+"text":"",
+"mid":"zdvPOaW7C",
+"date":"2013-01-08 14:38:12"
+},
+{
+"kids":[],
+"uid":"2649533027",
+"parent":"",
+"text":"",
+"mid":"zdvNlDICZ",
+"date":"2013-01-08 14:32:09"
+},
+{
+"kids":[
+"zdw60u4gQ",
+"zdvPOaW7C"
+],
+"uid":"chilllounge",
+"parent":"",
+"text":"",
+"mid":"zdvN7b8df",
+"date":"2013-01-08 14:31:34"
+},
+{
+"kids":[
+"zepb9sjN7"
+],
+"uid":"1893425544",
+"parent":"",
+"text":"[晕]",
+"mid":"zdvHxtGvz",
+"date":"2013-01-08 14:17:51"
+},
+{
+"kids":[
+"zdyHAgzl6"
+],
+"uid":"2048269364",
+"parent":"zdvjJdd75",
+"text":"太多人乐，就不@ 了，自己看吧",
+"mid":"zdvzZoeQv",
+"date":"2013-01-08 13:59:15"
+},
+{
+"kids":[],
+"uid":"2645077053",
+"parent":"zdv9jwJY4",
+"text":"",
+"mid":"zdvzMFH35",
+"date":"2013-01-08 13:58:46"
+},
+{
+"kids":[],
+"uid":"2345596693",
+"parent":"",
+"text":"",
+"mid":"zdvwBCIWH",
+"date":"2013-01-08 13:50:57"
+},
+{
+"kids":[],
+"uid":"2611392987",
+"parent":"zdve02NVi",
+"text":"",
+"mid":"zdvqGBuQH",
+"date":"2013-01-08 13:36:20"
+},
+{
+"kids":[],
+"uid":"2868432682",
+"parent":"",
+"text":"",
+"mid":"zdvpOuYTW",
+"date":"2013-01-08 13:34:11"
+},
+{
+"kids":[],
+"uid":"2371308950",
+"parent":"",
+"text":"",
+"mid":"zdvpyfTRO",
+"date":"2013-01-08 13:33:32"
+},
+{
+"kids":[
+"zdDvw6PXR",
+"zdxk0pwYm",
+"zdvzZoeQv"
+],
+"uid":"1977262112",
+"parent":"",
+"text":"[围观]@10市营2",
+"mid":"zdvjJdd75",
+"date":"2013-01-08 13:19:12"
+},
+{
+"kids":[],
+"uid":"3147037437",
+"parent":"",
+"text":"",
+"mid":"zdvhLsEBx",
+"date":"2013-01-08 13:14:22"
+},
+{
+"kids":[],
+"uid":"2136233963",
+"parent":"",
+"text":"",
+"mid":"zdvh0bFor",
+"date":"2013-01-08 13:12:30"
+},
+{
+"kids":[],
+"uid":"2487920912",
+"parent":"",
+"text":"",
+"mid":"zdveJe8nJ",
+"date":"2013-01-08 13:06:54"
+},
+{
+"kids":[
+"zdvqGBuQH"
+],
+"uid":"2112566861",
+"parent":"",
+"text":"",
+"mid":"zdve02NVi",
+"date":"2013-01-08 13:05:03"
+},
+{
+"kids":[],
+"uid":"2009019751",
+"parent":"",
+"text":"",
+"mid":"zdvdkjCEA",
+"date":"2013-01-08 13:03:24"
+},
+{
+"kids":[
+"zdGNBnXP6",
+"zdvzMFH35"
+],
+"uid":"2684144282",
+"parent":"",
+"text":"亲，要注意哦",
+"mid":"zdv9jwJY4",
+"date":"2013-01-08 12:53:33"
+},
+{
+"kids":[
+"zdx7Cc4Yt"
+],
+"uid":"yu34477",
+"parent":"",
+"text":"科学普及贴...各位小心了[生病]",
+"mid":"zdv6B4Qfm",
+"date":"2013-01-08 12:46:51"
+},
+{
+"kids":[],
+"uid":"2740645337",
+"parent":"zdtQBmRLF",
+"text":"",
+"mid":"zdv687cBE",
+"date":"2013-01-08 12:45:42"
+},
+{
+"kids":[],
+"uid":"2398833461",
+"parent":"",
+"text":"[怒][怒]",
+"mid":"zdv5Rhzrm",
+"date":"2013-01-08 12:45:02"
+},
+{
+"kids":[],
+"uid":"1786636900",
+"parent":"zdu4pFcrr",
+"text":"",
+"mid":"zdv2VAJYC",
+"date":"2013-01-08 12:37:47"
+},
+{
+"kids":[
+"zejiYjSWZ"
+],
+"uid":"1780837643",
+"parent":"",
+"text":"",
+"mid":"zdv2U8i6G",
+"date":"2013-01-08 12:37:45"
+},
+{
+"kids":[],
+"uid":"2865049710",
+"parent":"zduXJb3my",
+"text":"",
+"mid":"zdv2fBqvY",
+"date":"2013-01-08 12:36:09"
+},
+{
+"kids":[
+"zdv2fBqvY"
+],
+"uid":"3052487805",
+"parent":"",
+"text":"钱啊，你太难分了，@黄枫Saying @江荣煌 @金牛座的ChenYiwan很爱阳光 @没有下一个陈锐鹏 @0754-丹妮 @I_am_chen奋越 @张镜源 @晓环先生 @炼杰-肥 @小猪-朱雄杰 @陈三水暖",
+"mid":"zduXJb3my",
+"date":"2013-01-08 12:24:59"
+},
+{
+"kids":[],
+"uid":"2553638730",
+"parent":"zdtNz7ZF6",
+"text":"",
+"mid":"zduX2k1uR",
+"date":"2013-01-08 12:23:18"
+},
+{
+"kids":[
+"zdweX9Eia"
+],
+"uid":"534992678",
+"parent":"",
+"text":"",
+"mid":"zduUJlBqs",
+"date":"2013-01-08 12:17:37"
+},
+{
+"kids":[],
+"uid":"1785756337",
+"parent":"zdtKt6999",
+"text":"@南飞的丫",
+"mid":"zduOJCweC",
+"date":"2013-01-08 12:02:51"
+},
+{
+"kids":[],
+"uid":"513453552",
+"parent":"",
+"text":"",
+"mid":"zduMlA75B",
+"date":"2013-01-08 11:56:57"
+},
+{
+"kids":[],
+"uid":"3163774141",
+"parent":"zdtSBvieT",
+"text":"",
+"mid":"zdudNePq7",
+"date":"2013-01-08 10:31:50"
+},
+{
+"kids":[],
+"uid":"happylovely",
+"parent":"",
+"text":"@毛毛梁 @江海无悔 @自由的雀仔 大家注意啦",
+"mid":"zdu4IA0ci",
+"date":"2013-01-08 10:09:28"
+},
+{
+"kids":[
+"zdv2VAJYC"
+],
+"uid":"1761685392",
+"parent":"",
+"text":"轉啊轉啊~以後出街刷卡好了~[怒]",
+"mid":"zdu4pFcrr",
+"date":"2013-01-08 10:08:43"
+},
+{
+"kids":[
+"zdudNePq7"
+],
+"uid":"3037578404",
+"parent":"zdtP7aZsi",
+"text":"都看清楚哈",
+"mid":"zdtSBvieT",
+"date":"2013-01-08 09:39:37"
+},
+{
+"kids":[
+"zdv687cBE"
+],
+"uid":"3017100141",
+"parent":"zdtNz7ZF6",
+"text":"",
+"mid":"zdtQBmRLF",
+"date":"2013-01-08 09:34:43"
+},
+{
+"kids":[
+"zdynQl0ru",
+"zdtSBvieT"
+],
+"uid":"2145118535",
+"parent":"zdtKt6999",
+"text":"",
+"mid":"zdtP7aZsi",
+"date":"2013-01-08 09:31:03"
+},
+{
+"kids":[
+"zduX2k1uR",
+"zdtQBmRLF"
+],
+"uid":"1619010343",
+"parent":"",
+"text":"",
+"mid":"zdtNz7ZF6",
+"date":"2013-01-08 09:27:12"
+},
+{
+"kids":[
+"zduOJCweC",
+"zdtP7aZsi"
+],
+"uid":"1934197614",
+"parent":"zdtDMvPpW",
+"text":"@潘洪军1980 @cindy_婷唲 @熙小怪兽 @龙行天下之周洲 @浦玉之真心假形",
+"mid":"zdtKt6999",
+"date":"2013-01-08 09:19:35"
+},
+{
+"kids":[],
+"uid":"yongjianma",
+"parent":"",
+"text":"大家注意啦",
+"mid":"zdtFb4Wj1",
+"date":"2013-01-08 09:06:32"
+},
+{
+"kids":[
+"zdtKt6999"
+],
+"uid":"2994837852",
+"parent":"zdkxF9zbr",
+"text":"[汗]",
+"mid":"zdtDMvPpW",
+"date":"2013-01-08 09:03:07"
+},
+{
+"kids":[],
+"uid":"2120925174",
+"parent":"zdqfWxP1e",
+"text":"",
+"mid":"zdqheBEDq",
+"date":"2013-01-08 00:29:20"
+},
+{
+"kids":[
+"zdqheBEDq"
+],
+"uid":"1795880443",
+"parent":"",
+"text":"大家小心",
+"mid":"zdqfWxP1e",
+"date":"2013-01-08 00:26:10"
+},
+{
+"kids":[],
+"uid":"2667528415",
+"parent":"",
+"text":"",
+"mid":"zdpKkiLJW",
+"date":"2013-01-07 23:08:15"
+},
+{
+"kids":[],
+"uid":"1113501272",
+"parent":"zdpvR9OyP",
+"text":"",
+"mid":"zdpJ5qdmE",
+"date":"2013-01-07 23:05:10"
+},
+{
+"kids":[],
+"uid":"1691601151",
+"parent":"zdnZX6wWW",
+"text":"从来没遇假@Danica1989 @大大大绾绾 @蚊子 @伊慕言",
+"mid":"zdpwsFs0P",
+"date":"2013-01-07 22:34:06"
+},
+{
+"kids":[
+"zdpJ5qdmE"
+],
+"uid":"2315096235",
+"parent":"zdpaXrvaV",
+"text":"",
+"mid":"zdpvR9OyP",
+"date":"2013-01-07 22:32:36"
+},
+{
+"kids":[],
+"uid":"901211769",
+"parent":"zdpaXrvaV",
+"text":"",
+"mid":"zdptjnSes",
+"date":"2013-01-07 22:26:19"
+},
+{
+"kids":[],
+"uid":"1636099427",
+"parent":"zdpaXrvaV",
+"text":"50块钱收购了啊，既然都超过HD90了，那就能当真的用。ICBC一体机威武！",
+"mid":"zdpqp98Ez",
+"date":"2013-01-07 22:19:09"
+},
+{
+"kids":[],
+"uid":"1782189354",
+"parent":"zdp3ess6D",
+"text":"",
+"mid":"zdpcCzLzh",
+"date":"2013-01-07 21:45:12"
+},
+{
+"kids":[],
+"uid":"2971297137",
+"parent":"zdpaXrvaV",
+"text":"",
+"mid":"zdpbUwwqo",
+"date":"2013-01-07 21:43:28"
+},
+{
+"kids":[],
+"uid":"2657624612",
+"parent":"zdpaXrvaV",
+"text":"",
+"mid":"zdpbvrvSV",
+"date":"2013-01-07 21:42:28"
+},
+{
+"kids":[
+"zdpvR9OyP",
+"zdptjnSes",
+"zdpqp98Ez",
+"zdpbUwwqo",
+"zdpbvrvSV"
+],
+"uid":"1851453602",
+"parent":"zdoJ1wVxp",
+"text":"",
+"mid":"zdpaXrvaV",
+"date":"2013-01-07 21:41:07"
+},
+{
+"kids":[
+"zdpcCzLzh"
+],
+"uid":"2309901392",
+"parent":"zdkxF9zbr",
+"text":"[话筒]",
+"mid":"zdp3ess6D",
+"date":"2013-01-07 21:22:05"
+},
+{
+"kids":[
+"zdpaXrvaV"
+],
+"uid":"1921726173",
+"parent":"zdmfwCQyH",
+"text":"",
+"mid":"zdoJ1wVxp",
+"date":"2013-01-07 20:32:15"
+},
+{
+"kids":[],
+"uid":"209992860",
+"parent":"",
+"text":"",
+"mid":"zdoDvEsAx",
+"date":"2013-01-07 20:18:43"
+},
+{
+"kids":[],
+"uid":"2631988671",
+"parent":"",
+"text":"脱离群众的政府还能走多远！？",
+"mid":"zdooopaon",
+"date":"2013-01-07 19:41:25"
+},
+{
+"kids":[],
+"uid":"1214669523",
+"parent":"",
+"text":"@Lam-超 @B278L @Alex_發發 @fei22fei @Myra_Leung @傅淳钧 @kerigu @LAM峰记 @廖杰_Jay @麼-少 @婷杰的旅程 @耀钧",
+"mid":"zdohf9M4I",
+"date":"2013-01-07 19:23:48"
+},
+{
+"kids":[],
+"uid":"2675545575",
+"parent":"",
+"text":"",
+"mid":"zdo0xsvys",
+"date":"2013-01-07 18:42:40"
+},
+{
+"kids":[
+"zdpwsFs0P"
+],
+"uid":"2448183180",
+"parent":"zdmCIdcgx",
+"text":"哎呀，又要郁闷了啦",
+"mid":"zdnZX6wWW",
+"date":"2013-01-07 18:41:14"
+},
+{
+"kids":[],
+"uid":"2622536281",
+"parent":"zdmkOCOCo",
+"text":"大家注意了",
+"mid":"zdnZGfLHr",
+"date":"2013-01-07 18:40:34"
+},
+{
+"kids":[],
+"uid":"1504032287",
+"parent":"",
+"text":"",
+"mid":"zdnRqq4ra",
+"date":"2013-01-07 18:20:12"
+},
+{
+"kids":[],
+"uid":"3032002103",
+"parent":"zdmNg7BsJ",
+"text":"",
+"mid":"zdnLFulsl",
+"date":"2013-01-07 18:06:03"
+},
+{
+"kids":[],
+"uid":"2018320354",
+"parent":"zdmEFDbpL",
+"text":"",
+"mid":"zdnE9e6XH",
+"date":"2013-01-07 17:47:31"
+},
+{
+"kids":[],
+"uid":"2300189451",
+"parent":"zdmkOCOCo",
+"text":"",
+"mid":"zdnv368o2",
+"date":"2013-01-07 17:25:05"
+},
+{
+"kids":[],
+"uid":"2030178797",
+"parent":"zdm5Sy65F",
+"text":"",
+"mid":"zdn0QBbCD",
+"date":"2013-01-07 16:10:43"
+},
+{
+"kids":[],
+"uid":"2033108842",
+"parent":"zdmVdAM3n",
+"text":"",
+"mid":"zdn0vj9Za",
+"date":"2013-01-07 16:09:52"
+},
+{
+"kids":[],
+"uid":"2375905072",
+"parent":"zdmVdAM3n",
+"text":"少用现金多拉卡",
+"mid":"zdmXglYey",
+"date":"2013-01-07 16:01:51"
+},
+{
+"kids":[],
+"uid":"1212987771",
+"parent":"zdmfwCQyH",
+"text":"",
+"mid":"zdmWdldW7",
+"date":"2013-01-07 15:59:18"
+},
+{
+"kids":[],
+"uid":"1827883047",
+"parent":"",
+"text":"制假者技术精湛阿！又一批新假钞阿，大家注意拉",
+"mid":"zdmVWcUuT",
+"date":"2013-01-07 15:58:37"
+},
+{
+"kids":[
+"zdn0vj9Za",
+"zdmXglYey"
+],
+"uid":"2474421231",
+"parent":"zdmUC5cWz",
+"text":"",
+"mid":"zdmVdAM3n",
+"date":"2013-01-07 15:56:50"
+},
+{
+"kids":[],
+"uid":"2638196933",
+"parent":"zdmsLuhsF",
+"text":"",
+"mid":"zdmUGdnnH",
+"date":"2013-01-07 15:55:31"
+},
+{
+"kids":[
+"zdmVdAM3n"
+],
+"uid":"saics",
+"parent":"",
+"text":"警惕！！！",
+"mid":"zdmUC5cWz",
+"date":"2013-01-07 15:55:22"
+},
+{
+"kids":[],
+"uid":"1220207273",
+"parent":"zdmEFDbpL",
+"text":"转发",
+"mid":"zdmQJfGXF",
+"date":"2013-01-07 15:45:47"
+},
+{
+"kids":[
+"zdnLFulsl"
+],
+"uid":"523439919",
+"parent":"zdmEFDbpL",
+"text":"",
+"mid":"zdmNg7BsJ",
+"date":"2013-01-07 15:37:14"
+},
+{
+"kids":[],
+"uid":"2598368247",
+"parent":"zdmEFDbpL",
+"text":"",
+"mid":"zdmMuwMpz",
+"date":"2013-01-07 15:35:18"
+},
+{
+"kids":[],
+"uid":"2100585041",
+"parent":"zdmKetLXa",
+"text":"[话筒][话筒]",
+"mid":"zdmLBixB0",
+"date":"2013-01-07 15:33:09"
+},
+{
+"kids":[
+"zdmLBixB0"
+],
+"uid":"hyun722",
+"parent":"zdmk6iksY",
+"text":"[话筒]",
+"mid":"zdmKetLXa",
+"date":"2013-01-07 15:29:46"
+},
+{
+"kids":[],
+"uid":"2476945644",
+"parent":"zdmEFDbpL",
+"text":"",
+"mid":"zdmGwhAE1",
+"date":"2013-01-07 15:20:39"
+},
+{
+"kids":[],
+"uid":"1570075691",
+"parent":"",
+"text":"我转发就是要提醒大家不要上当受骗。",
+"mid":"zdmG919MI",
+"date":"2013-01-07 15:19:42"
+},
+{
+"kids":[],
+"uid":"2649019574",
+"parent":"zdmfwCQyH",
+"text":"",
+"mid":"zdmETdLjJ",
+"date":"2013-01-07 15:16:37"
+},
+{
+"kids":[
+"zdnE9e6XH",
+"zdmQJfGXF",
+"zdmNg7BsJ",
+"zdmMuwMpz",
+"zdmGwhAE1"
+],
+"uid":"207098986",
+"parent":"zdmuwfggN",
+"text":"[闪电]有关部门失职，防伪标志不科学，让制假者有机可乘，垄断行业银行也有很大责任！！[伤心][失望]",
+"mid":"zdmEFDbpL",
+"date":"2013-01-07 15:16:03"
+},
+{
+"kids":[
+"zdnZX6wWW"
+],
+"uid":"2704153217",
+"parent":"zdmdD5bnk",
+"text":"@小小胜胜子子",
+"mid":"zdmCIdcgx",
+"date":"2013-01-07 15:11:15"
+},
+{
+"kids":[],
+"uid":"2826207055",
+"parent":"zdmfwCQyH",
+"text":"",
+"mid":"zdmydy7XI",
+"date":"2013-01-07 15:00:09"
+},
+{
+"kids":[],
+"uid":"1771881940",
+"parent":"zdmkOCOCo",
+"text":"",
+"mid":"zdmy22Rv9",
+"date":"2013-01-07 14:59:44"
+},
+{
+"kids":[],
+"uid":"2482309365",
+"parent":"zdmkOCOCo",
+"text":"",
+"mid":"zdmuRfgzo",
+"date":"2013-01-07 14:51:52"
+},
+{
+"kids":[
+"zdmEFDbpL"
+],
+"uid":"xiongtianfei",
+"parent":"zdmfwCQyH",
+"text":"范伟：真是防不慎防呐！[泪流满面]毛主席时代怎么就不产假币？[疑问]",
+"mid":"zdmuwfggN",
+"date":"2013-01-07 14:51:03"
+},
+{
+"kids":[
+"zdmUGdnnH"
+],
+"uid":"1865187523",
+"parent":"",
+"text":"",
+"mid":"zdmsLuhsF",
+"date":"2013-01-07 14:46:43"
+},
+{
+"kids":[],
+"uid":"2782677585",
+"parent":"zdmkOCOCo",
+"text":"大家注意。新的假币。。。",
+"mid":"zdmsuEFGe",
+"date":"2013-01-07 14:46:03"
+},
+{
+"kids":[],
+"uid":"COMONN",
+"parent":"zdmed5pEc",
+"text":"",
+"mid":"zdms7BHO1",
+"date":"2013-01-07 14:45:08"
+},
+{
+"kids":[],
+"uid":"2913266115",
+"parent":"zdmed5pEc",
+"text":"",
+"mid":"zdmqKdJqu",
+"date":"2013-01-07 14:41:46"
+},
+{
+"kids":[],
+"uid":"1835336015",
+"parent":"",
+"text":"好人特别是穷人，多操点心，经不住骗啊。",
+"mid":"zdmqv9uQo",
+"date":"2013-01-07 14:41:10"
+},
+{
+"kids":[],
+"uid":"2611658037",
+"parent":"zdmed5pEc",
+"text":"",
+"mid":"zdmoPpW3z",
+"date":"2013-01-07 14:37:01"
+},
+{
+"kids":[],
+"uid":"2286856191",
+"parent":"zdmkOCOCo",
+"text":"",
+"mid":"zdmn5gBrM",
+"date":"2013-01-07 14:32:46"
+},
+{
+"kids":[],
+"uid":"2499719244",
+"parent":"",
+"text":"[话筒]",
+"mid":"zdmlR3fJi",
+"date":"2013-01-07 14:29:43"
+},
+{
+"kids":[],
+"uid":"1926747767",
+"parent":"zdmlr1UOD",
+"text":"",
+"mid":"zdmlOmtRq",
+"date":"2013-01-07 14:29:37"
+},
+{
+"kids":[
+"zdmlOmtRq"
+],
+"uid":"2012qingyi",
+"parent":"zdmkOCOCo",
+"text":"[话筒]",
+"mid":"zdmlr1UOD",
+"date":"2013-01-07 14:28:39"
+},
+{
+"kids":[
+"zdnZGfLHr",
+"zdnv368o2",
+"zdmy22Rv9",
+"zdmuRfgzo",
+"zdmsuEFGe",
+"zdmn5gBrM",
+"zdmlr1UOD"
+],
+"uid":"zjd1960",
+"parent":"zdmed5pEc",
+"text":"",
+"mid":"zdmkOCOCo",
+"date":"2013-01-07 14:27:08"
+},
+{
+"kids":[
+"zdmKetLXa"
+],
+"uid":"love501year",
+"parent":"",
+"text":"",
+"mid":"zdmk6iksY",
+"date":"2013-01-07 14:25:23"
+},
+{
+"kids":[],
+"uid":"1773771493",
+"parent":"",
+"text":"[吃惊]一定要小心！！！",
+"mid":"zdmic69Al",
+"date":"2013-01-07 14:20:42"
+},
+{
+"kids":[],
+"uid":"2448049162",
+"parent":"zdmed5pEc",
+"text":"",
+"mid":"zdmfHAi6F",
+"date":"2013-01-07 14:14:34"
+},
+{
+"kids":[
+"zdoJ1wVxp",
+"zdmWdldW7",
+"zdmETdLjJ",
+"zdmydy7XI",
+"zdmuwfggN"
+],
+"uid":"2095592872",
+"parent":"zdmed5pEc",
+"text":"",
+"mid":"zdmfwCQyH",
+"date":"2013-01-07 14:14:06"
+},
+{
+"kids":[],
+"uid":"khjzhen",
+"parent":"",
+"text":"好多啊~背不出",
+"mid":"zdmeinrSE",
+"date":"2013-01-07 14:11:05"
+},
+{
+"kids":[
+"zdznwzz8K",
+"zdms7BHO1",
+"zdmqKdJqu",
+"zdmoPpW3z",
+"zdmkOCOCo",
+"zdmfHAi6F",
+"zdmfwCQyH"
+],
+"uid":"207098986",
+"parent":"zdlXQD5aC",
+"text":"新版假币又来了![吃惊]可怜的老百姓又要遭殃了！！[可怜][悲伤][失望]",
+"mid":"zdmed5pEc",
+"date":"2013-01-07 14:10:52"
+},
+{
+"kids":[
+"zdmCIdcgx"
+],
+"uid":"201222418",
+"parent":"zdlXQD5aC",
+"text":"",
+"mid":"zdmdD5bnk",
+"date":"2013-01-07 14:09:26"
+},
+{
+"kids":[],
+"uid":"1935932991",
+"parent":"zdlm0q9zp",
+"text":"",
+"mid":"zdm9zgIxA",
+"date":"2013-01-07 13:59:26"
+},
+{
+"kids":[],
+"uid":"auhiy",
+"parent":"zdkeIgM36",
+"text":"",
+"mid":"zdm8pdx2A",
+"date":"2013-01-07 13:56:35"
+},
+{
+"kids":[
+"zdn0QBbCD"
+],
+"uid":"2339591391",
+"parent":"zdlM9hn9Y",
+"text":"",
+"mid":"zdm5Sy65F",
+"date":"2013-01-07 13:50:20"
+},
+{
+"kids":[
+"zdmed5pEc",
+"zdmdD5bnk"
+],
+"uid":"208656758",
+"parent":"zdldfCmUn",
+"text":"请朋友们注意：@顺风哥李纪宗 @李敬frank @jia286 @扬帆计划 @689老家河南 @我是鱼囡囡 @宁静致远小石头 @郑州晚报爱心公益社 @平安宜阳 @和谐宜阳 @洛阳晚报 @洛阳老狐狸 @洛阳一米八三 @洛阳中豫汽车贸易有限公司 @洛阳城事蝈蝈 @最洛阳 @洛阳师范学院微博协会 @军强的围脖 @罗怡静 @雷啉 @雷闯",
+"mid":"zdlXQD5aC",
+"date":"2013-01-07 13:30:35"
+},
+{
+"kids":[],
+"uid":"2300426417",
+"parent":"zdlKi05pQ",
+"text":"",
+"mid":"zdlWF5bd3",
+"date":"2013-01-07 13:27:38"
+},
+{
+"kids":[],
+"uid":"2695860074",
+"parent":"zdlKqeE6I",
+"text":"",
+"mid":"zdlU0cppb",
+"date":"2013-01-07 13:21:06"
+},
+{
+"kids":[],
+"uid":"zhangting228",
+"parent":"zdlQskSZ0",
+"text":"您这是考我记忆力吗？",
+"mid":"zdlTdqI8Q",
+"date":"2013-01-07 13:19:09"
+},
+{
+"kids":[],
+"uid":"1751238952",
+"parent":"",
+"text":"大家注意啊，小心假币",
+"mid":"zdlS355Ea",
+"date":"2013-01-07 13:16:17"
+},
+{
+"kids":[],
+"uid":"livyhappy",
+"parent":"zdlM9hn9Y",
+"text":"",
+"mid":"zdlRTypVL",
+"date":"2013-01-07 13:15:54"
+},
+{
+"kids":[
+"zdlTdqI8Q"
+],
+"uid":"2260656062",
+"parent":"",
+"text":"",
+"mid":"zdlQskSZ0",
+"date":"2013-01-07 13:12:22"
+},
+{
+"kids":[],
+"uid":"2475534965",
+"parent":"zdlM9hn9Y",
+"text":"",
+"mid":"zdlQd1Koz",
+"date":"2013-01-07 13:11:44"
+},
+{
+"kids":[],
+"uid":"2810187824",
+"parent":"",
+"text":"",
+"mid":"zdlPW8j6W",
+"date":"2013-01-07 13:11:05"
+},
+{
+"kids":[],
+"uid":"1642020920",
+"parent":"zdlKqeE6I",
+"text":"",
+"mid":"zdlPFhzX2",
+"date":"2013-01-07 13:10:23"
+},
+{
+"kids":[],
+"uid":"1809078142",
+"parent":"zdlKi05pQ",
+"text":"",
+"mid":"zdlPerCU7",
+"date":"2013-01-07 13:09:21"
+},
+{
+"kids":[],
+"uid":"1348579344",
+"parent":"",
+"text":"[吃惊]",
+"mid":"zdlMg1at6",
+"date":"2013-01-07 13:02:01"
+},
+{
+"kids":[
+"zdm5Sy65F",
+"zdlRTypVL",
+"zdlQd1Koz"
+],
+"uid":"2115879204",
+"parent":"zdlKi05pQ",
+"text":"[话筒]",
+"mid":"zdlM9hn9Y",
+"date":"2013-01-07 13:01:43"
+},
+{
+"kids":[],
+"uid":"2164047011",
+"parent":"zdlKqeE6I",
+"text":"",
+"mid":"zdlLiD2FR",
+"date":"2013-01-07 12:59:40"
+},
+{
+"kids":[],
+"uid":"2374310031",
+"parent":"zdlKi05pQ",
+"text":"",
+"mid":"zdlKHnG6Y",
+"date":"2013-01-07 12:58:10"
+},
+{
+"kids":[
+"zdlU0cppb",
+"zdlPFhzX2",
+"zdlLiD2FR"
+],
+"uid":"207098986",
+"parent":"",
+"text":"回复@邯郸置家网:[心][话筒]",
+"mid":"zdlKqeE6I",
+"date":"2013-01-07 12:57:28"
+},
+{
+"kids":[
+"zdlWF5bd3",
+"zdlPerCU7",
+"zdlM9hn9Y",
+"zdlKHnG6Y"
+],
+"uid":"207098986",
+"parent":"",
+"text":"回复@周德顺:[给力]",
+"mid":"zdlKi05pQ",
+"date":"2013-01-07 12:57:10"
+},
+{
+"kids":[],
+"uid":"207098986",
+"parent":"",
+"text":"回复@地下党311:[衰]",
+"mid":"zdlK2kbJc",
+"date":"2013-01-07 12:56:31"
+},
+{
+"kids":[],
+"uid":"2689217350",
+"parent":"zdkXgzlLH",
+"text":"",
+"mid":"zdlIyp9DZ",
+"date":"2013-01-07 12:52:54"
+},
+{
+"kids":[],
+"uid":"1638502597",
+"parent":"zdlzh7wBD",
+"text":"",
+"mid":"zdlHFrQ1W",
+"date":"2013-01-07 12:50:43"
+},
+{
+"kids":[],
+"uid":"2623240095",
+"parent":"zdkxF9zbr",
+"text":"",
+"mid":"zdlFf42Hs",
+"date":"2013-01-07 12:44:43"
+},
+{
+"kids":[],
+"uid":"2878616142",
+"parent":"zdkpHnEim",
+"text":"",
+"mid":"zdlAu9DwM",
+"date":"2013-01-07 12:33:01"
+},
+{
+"kids":[
+"zdlHFrQ1W"
+],
+"uid":"2631988671",
+"parent":"",
+"text":"裸官世界冠军的国度，是否假币也是世界冠军？",
+"mid":"zdlzh7wBD",
+"date":"2013-01-07 12:30:01"
+},
+{
+"kids":[],
+"uid":"2870998071",
+"parent":"zdlm0q9zp",
+"text":"赞]",
+"mid":"zdlwxbOWH",
+"date":"2013-01-07 12:23:16"
+},
+{
+"kids":[],
+"uid":"1590605907",
+"parent":"zdlm0q9zp",
+"text":"[话筒][话筒][话筒]温馨提示：100元假币两款来袭，收款时仔细核对，以免上当！",
+"mid":"zdlpACtqe",
+"date":"2013-01-07 12:06:11"
+},
+{
+"kids":[],
+"uid":"1072538217",
+"parent":"zdlm0q9zp",
+"text":"",
+"mid":"zdlpi1I0O",
+"date":"2013-01-07 12:05:25"
+},
+{
+"kids":[],
+"uid":"2403560061",
+"parent":"zdlm0q9zp",
+"text":"",
+"mid":"zdlmB7cCs",
+"date":"2013-01-07 11:58:46"
+},
+{
+"kids":[
+"zdm9zgIxA",
+"zdlwxbOWH",
+"zdlpACtqe",
+"zdlpi1I0O",
+"zdlmB7cCs"
+],
+"uid":"2759675731",
+"parent":"zdk8kl3ol",
+"text":"回复@邯郸置家网:[赞]",
+"mid":"zdlm0q9zp",
+"date":"2013-01-07 11:57:21"
+},
+{
+"kids":[],
+"uid":"2809342031",
+"parent":"",
+"text":"转发微博。",
+"mid":"zdlfN7Z71",
+"date":"2013-01-07 11:42:02"
+},
+{
+"kids":[
+"zdlXQD5aC"
+],
+"uid":"208656758",
+"parent":"zdlbgoJtC",
+"text":"",
+"mid":"zdldfCmUn",
+"date":"2013-01-07 11:35:47"
+},
+{
+"kids":[
+"zdldfCmUn"
+],
+"uid":"2315466092",
+"parent":"zdkhcw2Rk",
+"text":"",
+"mid":"zdlbgoJtC",
+"date":"2013-01-07 11:30:52"
+},
+{
+"kids":[],
+"uid":"nicole610",
+"parent":"zdkWDefBI",
+"text":"",
+"mid":"zdlaZxGCd",
+"date":"2013-01-07 11:30:13"
+},
+{
+"kids":[],
+"uid":"hdzhijiawang",
+"parent":"zdk8kl3ol",
+"text":"大家注意啊，小心假币",
+"mid":"zdl1KjAdO",
+"date":"2013-01-07 11:07:25"
+},
+{
+"kids":[],
+"uid":"2689496002",
+"parent":"zdk8U87v5",
+"text":"",
+"mid":"zdl0pheAV",
+"date":"2013-01-07 11:04:08"
+},
+{
+"kids":[
+"zdlIyp9DZ"
+],
+"uid":"2625637864",
+"parent":"zdkWDefBI",
+"text":"这么多怎记得清呀[晕]",
+"mid":"zdkXgzlLH",
+"date":"2013-01-07 10:56:23"
+},
+{
+"kids":[
+"zdlaZxGCd",
+"zdkXgzlLH"
+],
+"uid":"2010anniechan",
+"parent":"zdkIGkE96",
+"text":"[失望]",
+"mid":"zdkWDefBI",
+"date":"2013-01-07 10:54:50"
+},
+{
+"kids":[],
+"uid":"2041551243",
+"parent":"zdk8kl3ol",
+"text":"各位请注意",
+"mid":"zdkQ69D9Z",
+"date":"2013-01-07 10:38:43"
+},
+{
+"kids":[],
+"uid":"3072518595",
+"parent":"",
+"text":"小心点哈，多几张这种货过年你都堵得慌。",
+"mid":"zdkPPjR32",
+"date":"2013-01-07 10:38:04"
+},
+{
+"kids":[],
+"uid":"1898452725",
+"parent":"zdkrjBhn5",
+"text":"",
+"mid":"zdkJ8FxeK",
+"date":"2013-01-07 10:21:36"
+},
+{
+"kids":[],
+"uid":"1665548201",
+"parent":"zdjEPdTVP",
+"text":"",
+"mid":"zdkJ5uJw9",
+"date":"2013-01-07 10:21:28"
+},
+{
+"kids":[
+"zdkWDefBI"
+],
+"uid":"1787489261",
+"parent":"zdkFagsOa",
+"text":"",
+"mid":"zdkIGkE96",
+"date":"2013-01-07 10:20:27"
+},
+{
+"kids":[
+"zdkIGkE96"
+],
+"uid":"1794818082",
+"parent":"zdkpHnEim",
+"text":"[话筒]",
+"mid":"zdkFagsOa",
+"date":"2013-01-07 10:11:48"
+},
+{
+"kids":[],
+"uid":"2668104352",
+"parent":"zdkxF9zbr",
+"text":"",
+"mid":"zdkEj7kRT",
+"date":"2013-01-07 10:09:40"
+},
+{
+"kids":[],
+"uid":"1060596041",
+"parent":"zdkhcw2Rk",
+"text":"[话筒]",
+"mid":"zdkBQ1CXI",
+"date":"2013-01-07 10:03:36"
+},
+{
+"kids":[],
+"uid":"2189886055",
+"parent":"zdkpHnEim",
+"text":"[话筒]",
+"mid":"zdky5srU2",
+"date":"2013-01-07 09:54:20"
+},
+{
+"kids":[
+"zdtDMvPpW",
+"zdp3ess6D",
+"zdlFf42Hs",
+"zdkEj7kRT"
+],
+"uid":"2427598814",
+"parent":"",
+"text":"[吃惊]",
+"mid":"zdkxF9zbr",
+"date":"2013-01-07 09:53:19"
+},
+{
+"kids":[],
+"uid":"1309625723",
+"parent":"zdkpHnEim",
+"text":"@晴雨小闻文 是吗？[思考]",
+"mid":"zdkuumRSu",
+"date":"2013-01-07 09:45:30"
+},
+{
+"kids":[],
+"uid":"2421963775",
+"parent":"zdk8U87v5",
+"text":"",
+"mid":"zdkrzwFqY",
+"date":"2013-01-07 09:38:19"
+},
+{
+"kids":[
+"zdkJ8FxeK"
+],
+"uid":"1573711423",
+"parent":"zdkhcw2Rk",
+"text":"",
+"mid":"zdkrjBhn5",
+"date":"2013-01-07 09:37:41"
+},
+{
+"kids":[
+"zdlAu9DwM",
+"zdkFagsOa",
+"zdky5srU2",
+"zdkuumRSu"
+],
+"uid":"81101408",
+"parent":"",
+"text":"[话筒]",
+"mid":"zdkpHnEim",
+"date":"2013-01-07 09:33:42"
+},
+{
+"kids":[],
+"uid":"2873585280",
+"parent":"",
+"text":"",
+"mid":"zdkofyjnc",
+"date":"2013-01-07 09:30:08"
+},
+{
+"kids":[],
+"uid":"2206420344",
+"parent":"",
+"text":"",
+"mid":"zdkkTfoNf",
+"date":"2013-01-07 09:21:51"
+},
+{
+"kids":[],
+"uid":"shine999china",
+"parent":"zdkhcw2Rk",
+"text":"",
+"mid":"zdkjf3dcL",
+"date":"2013-01-07 09:17:46"
+},
+{
+"kids":[],
+"uid":"1901079581",
+"parent":"zdkhcw2Rk",
+"text":"",
+"mid":"zdkiJ7RN9",
+"date":"2013-01-07 09:16:30"
+},
+{
+"kids":[],
+"uid":"206067614",
+"parent":"zdka81Ump",
+"text":"[手套]",
+"mid":"zdkhL9UQk",
+"date":"2013-01-07 09:14:08"
+},
+{
+"kids":[],
+"uid":"319654222",
+"parent":"zdkhcw2Rk",
+"text":"",
+"mid":"zdkhw3gGA",
+"date":"2013-01-07 09:13:32"
+},
+{
+"kids":[
+"zdlbgoJtC",
+"zdkBQ1CXI",
+"zdkrjBhn5",
+"zdkjf3dcL",
+"zdkiJ7RN9",
+"zdkhw3gGA"
+],
+"uid":"2045823624",
+"parent":"zdkeIgM36",
+"text":"",
+"mid":"zdkhcw2Rk",
+"date":"2013-01-07 09:12:46"
+},
+{
+"kids":[],
+"uid":"1654242132",
+"parent":"zdkeIgM36",
+"text":"",
+"mid":"zdkg5nUZQ",
+"date":"2013-01-07 09:10:00"
+},
+{
+"kids":[
+"zdm8pdx2A",
+"zdkhcw2Rk",
+"zdkg5nUZQ"
+],
+"uid":"2702378201",
+"parent":"",
+"text":"警惕",
+"mid":"zdkeIgM36",
+"date":"2013-01-07 09:06:38"
+},
+{
+"kids":[],
+"uid":"628830YXP",
+"parent":"zdk8U87v5",
+"text":"",
+"mid":"zdkeqyFNo",
+"date":"2013-01-07 09:05:56"
+},
+{
+"kids":[],
+"uid":"3101840677",
+"parent":"zdk8kl3ol",
+"text":"",
+"mid":"zdkdBpu9f",
+"date":"2013-01-07 09:03:53"
+},
+{
+"kids":[],
+"uid":"2258451683",
+"parent":"zdk8kl3ol",
+"text":"",
+"mid":"zdkce5qcs",
+"date":"2013-01-07 09:00:29"
+},
+{
+"kids":[],
+"uid":"2708153800",
+"parent":"zdk8kl3ol",
+"text":"",
+"mid":"zdkaSr0ga",
+"date":"2013-01-07 08:57:10"
+},
+{
+"kids":[],
+"uid":"2706215047",
+"parent":"zdk8kl3ol",
+"text":"",
+"mid":"zdkal23c3",
+"date":"2013-01-07 08:55:51"
+},
+{
+"kids":[],
+"uid":"2466313082",
+"parent":"zdk8kl3ol",
+"text":"发给爱撒谎的南方系当工资吧",
+"mid":"zdkaefHjC",
+"date":"2013-01-07 08:55:35"
+},
+{
+"kids":[
+"zdkhL9UQk"
+],
+"uid":"zi1987zi",
+"parent":"zdjEPdTVP",
+"text":"越来越真！",
+"mid":"zdka81Ump",
+"date":"2013-01-07 08:55:20"
+},
+{
+"kids":[],
+"uid":"1723837473",
+"parent":"zdk8kl3ol",
+"text":"",
+"mid":"zdk9KmBB4",
+"date":"2013-01-07 08:54:23"
+},
+{
+"kids":[
+"zdl0pheAV",
+"zdkrzwFqY",
+"zdkeqyFNo"
+],
+"uid":"panpan318",
+"parent":"",
+"text":"",
+"mid":"zdk8U87v5",
+"date":"2013-01-07 08:52:19"
+},
+{
+"kids":[],
+"uid":"2423698701",
+"parent":"zdk8kl3ol",
+"text":"",
+"mid":"zdk8N2Cti",
+"date":"2013-01-07 08:52:00"
+},
+{
+"kids":[
+"zdlm0q9zp",
+"zdl1KjAdO",
+"zdkQ69D9Z",
+"zdkdBpu9f",
+"zdkce5qcs",
+"zdkaSr0ga",
+"zdkal23c3",
+"zdkaefHjC",
+"zdk9KmBB4",
+"zdk8N2Cti"
+],
+"uid":"2759675731",
+"parent":"zdk10r8zL",
+"text":"",
+"mid":"zdk8kl3ol",
+"date":"2013-01-07 08:50:54"
+},
+{
+"kids":[
+"zdk8kl3ol"
+],
+"uid":"1931440997",
+"parent":"",
+"text":"",
+"mid":"zdk10r8zL",
+"date":"2013-01-07 08:32:53"
+},
+{
+"kids":[
+"zdkJ5uJw9",
+"zdka81Ump"
+],
+"uid":"2215443037",
+"parent":"",
+"text":"",
+"mid":"zdjEPdTVP",
+"date":"2013-01-07 07:38:12"
+},
+{
+"kids":[],
+"uid":"2789675984",
+"parent":"",
+"text":"",
+"mid":"zcnXGtSt6",
+"date":"2013-01-01 04:45:22"
+},
+{
+"kids":[],
+"uid":"2626816463",
+"parent":"zbG4H4u0f",
+"text":"",
+"mid":"zcibhf6Ql",
+"date":"2012-12-31 14:02:20"
+},
+{
+"kids":[],
+"uid":"2789976170",
+"parent":"",
+"text":"",
+"mid":"zcgfadg4v",
+"date":"2012-12-31 09:06:26"
+},
+{
+"kids":[],
+"uid":"baochangjie",
+"parent":"zbzT3pDov",
+"text":"",
+"mid":"zbKiqzpNe",
+"date":"2012-12-27 23:46:36"
+},
+{
+"kids":[],
+"uid":"2352714652",
+"parent":"",
+"text":"[衰]",
+"mid":"zbGWJ6zxW",
+"date":"2012-12-27 15:14:53"
+},
+{
+"kids":[],
+"uid":"2960543387",
+"parent":"zbG4p2Ux0",
+"text":"",
+"mid":"zbGFft37U",
+"date":"2012-12-27 14:31:48"
+},
+{
+"kids":[],
+"uid":"2043513901",
+"parent":"",
+"text":"",
+"mid":"zbGe8ptGA",
+"date":"2012-12-27 13:25:02"
+},
+{
+"kids":[],
+"uid":"2882646104",
+"parent":"zbG0jtJxk",
+"text":"",
+"mid":"zbG5kmxpv",
+"date":"2012-12-27 13:03:20"
+},
+{
+"kids":[
+"zcibhf6Ql"
+],
+"uid":"1920297837",
+"parent":"zbG0jtJxk",
+"text":"",
+"mid":"zbG4H4u0f",
+"date":"2012-12-27 13:01:45"
+},
+{
+"kids":[
+"zbGFft37U"
+],
+"uid":"1750029464",
+"parent":"zbG0jtJxk",
+"text":"",
+"mid":"zbG4p2Ux0",
+"date":"2012-12-27 13:01:01"
+},
+{
+"kids":[
+"zbG5kmxpv",
+"zbG4H4u0f",
+"zbG4p2Ux0"
+],
+"uid":"207098986",
+"parent":"",
+"text":"回复@紫若_幽蓝:[衰]",
+"mid":"zbG0jtJxk",
+"date":"2012-12-27 12:50:59"
+},
+{
+"kids":[],
+"uid":"1853763742",
+"parent":"zbD0CfuRl",
+"text":"回复@真金无畏: 假币一旦泛滥成灾，必将导致金融混乱，严重时有使国民经济崩溃的危险，后果不堪设想…此绝非疥癣小疾…必须时刻予以高度重视和警惕，一经发现，要寻根朔源，从速破案，重拳出击，一网打尽！",
+"mid":"zbDuDfvK3",
+"date":"2012-12-27 06:27:26"
+},
+{
+"kids":[],
+"uid":"1693563261",
+"parent":"zbD0CfuRl",
+"text":"@",
+"mid":"zbD14C1AJ",
+"date":"2012-12-27 05:14:37"
+},
+{
+"kids":[
+"zbDuDfvK3",
+"zbD14C1AJ"
+],
+"uid":"1999973753",
+"parent":"",
+"text":"回复@真金无畏: 假币一旦泛滥成灾，必将导致金融混乱，严重时有使国民经济崩溃的危险，后果不堪设想…此绝非疥癣小疾…必须时刻予以高度重视和警惕，一经发现，要寻根朔源，从速破案，重拳出击，一网打尽！",
+"mid":"zbD0CfuRl",
+"date":"2012-12-27 05:13:29"
+},
+{
+"kids":[
+"zbKiqzpNe"
+],
+"uid":"40279210",
+"parent":"zbzQsmyUb",
+"text":"",
+"mid":"zbzT3pDov",
+"date":"2012-12-26 21:16:37"
+},
+{
+"kids":[
+"zbzT3pDov"
+],
+"uid":"ccn6679",
+"parent":"zbzOVuRuo",
+"text":"",
+"mid":"zbzQsmyUb",
+"date":"2012-12-26 21:10:12"
+},
+{
+"kids":[],
+"uid":"1809158877",
+"parent":"",
+"text":"",
+"mid":"zbzPUoiVA",
+"date":"2012-12-26 21:08:54"
+},
+{
+"kids":[
+"zbzQsmyUb"
+],
+"uid":"1871799023",
+"parent":"zbzcU6lSS",
+"text":"警惕哦~",
+"mid":"zbzOVuRuo",
+"date":"2012-12-26 21:06:25"
+},
+{
+"kids":[],
+"uid":"2599351302",
+"parent":"",
+"text":"",
+"mid":"zbzNpjfb8",
+"date":"2012-12-26 21:02:41"
+},
+{
+"kids":[],
+"uid":"2272846175",
+"parent":"",
+"text":"",
+"mid":"zbzG83VcT",
+"date":"2012-12-26 20:44:46"
+},
+{
+"kids":[],
+"uid":"2651936653",
+"parent":"zbzcU6lSS",
+"text":"",
+"mid":"zbzEnCids",
+"date":"2012-12-26 20:40:28"
+},
+{
+"kids":[],
+"uid":"tmpls",
+"parent":"",
+"text":"没有鉴别方法，像谣言",
+"mid":"zbzA4u0rN",
+"date":"2012-12-26 20:29:48"
+},
+{
+"kids":[],
+"uid":"1063712861",
+"parent":"zbzcU6lSS",
+"text":"",
+"mid":"zbzpYBwqW",
+"date":"2012-12-26 20:04:58"
+},
+{
+"kids":[],
+"uid":"2907229455",
+"parent":"",
+"text":"@幽巷深处@劳动者花七",
+"mid":"zbzo2F1d4",
+"date":"2012-12-26 20:00:11"
+},
+{
+"kids":[],
+"uid":"tailaid",
+"parent":"",
+"text":"擦亮眼睛，小心为妙！",
+"mid":"zbzgch7f6",
+"date":"2012-12-26 19:40:53"
+},
+{
+"kids":[],
+"uid":"2611451627",
+"parent":"",
+"text":"",
+"mid":"zbzfa8TkA",
+"date":"2012-12-26 19:38:18"
+},
+{
+"kids":[],
+"uid":"aa158598",
+"parent":"zbzcU6lSS",
+"text":"",
+"mid":"zbzdilz7F",
+"date":"2012-12-26 19:33:42"
+},
+{
+"kids":[
+"zbzOVuRuo",
+"zbzEnCids",
+"zbzpYBwqW",
+"zbzdilz7F"
+],
+"uid":"207098986",
+"parent":"",
+"text":"回复@孓遗的三叶虫:假币如此泛滥，有关部门难辞其咎！！！中国老百姓提心吊胆使用血汗钱！[可怜]",
+"mid":"zbzcU6lSS",
+"date":"2012-12-26 19:32:46"
+},
+{
+"kids":[],
+"uid":"2815686844",
+"parent":"",
+"text":"",
+"mid":"zbymvsg55",
+"date":"2012-12-26 17:23:39"
+},
+{
+"kids":[],
+"uid":"1790200293",
+"parent":"zbygZyUx1",
+"text":"",
+"mid":"zbykbgZjM",
+"date":"2012-12-26 17:17:57"
+},
+{
+"kids":[
+"zbykbgZjM"
+],
+"uid":"1999973753",
+"parent":"",
+"text":"利令智昏，祸国殃民…凡是假币案，统统应该列为最大重案，全力侦破，重拳严打… 逮住全宰了！",
+"mid":"zbygZyUx1",
+"date":"2012-12-26 17:10:03"
+},
+{
+"kids":[],
+"uid":"2769225367",
+"parent":"",
+"text":"",
+"mid":"zby78u60G",
+"date":"2012-12-26 16:45:48"
+},
+{
+"kids":[],
+"uid":"txtsun",
+"parent":"",
+"text":"谁没事蛋疼看编码验真伪",
+"mid":"zby0R2mVy",
+"date":"2012-12-26 16:30:20"
+},
+{
+"kids":[],
+"uid":"1783974743",
+"parent":"",
+"text":"",
+"mid":"zbxYS5RKc",
+"date":"2012-12-26 16:25:25"
+},
+{
+"kids":[],
+"uid":"1758766835",
+"parent":"",
+"text":"",
+"mid":"zbxVKzRxQ",
+"date":"2012-12-26 16:17:46"
+},
+{
+"kids":[],
+"uid":"xiaoxiaodecer",
+"parent":"zbxS52p9v",
+"text":"",
+"mid":"zbxSyh7UH",
+"date":"2012-12-26 16:09:53"
+},
+{
+"kids":[
+"zbxSyh7UH"
+],
+"uid":"1677292910",
+"parent":"",
+"text":"",
+"mid":"zbxS52p9v",
+"date":"2012-12-26 16:08:43"
+}
+]

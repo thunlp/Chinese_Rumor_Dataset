@@ -1,0 +1,926 @@
+[
+{
+"kids":[],
+"uid":"2919475564",
+"parent":"",
+"text":"",
+"mid":"z5D3nrAjj",
+"date":"2012-11-17 18:18:26"
+},
+{
+"kids":[],
+"uid":"2920473872",
+"parent":"",
+"text":"",
+"mid":"z5D3n97gB",
+"date":"2012-11-17 18:18:27"
+},
+{
+"kids":[],
+"uid":"2920629084",
+"parent":"",
+"text":"",
+"mid":"z5oJA5sfl",
+"date":"2012-11-16 05:51:14"
+},
+{
+"kids":[],
+"uid":"2789778094",
+"parent":"",
+"text":"",
+"mid":"z5b9QBHfa",
+"date":"2012-11-14 19:17:28"
+},
+{
+"kids":[],
+"uid":"2789788620",
+"parent":"z4yMYdVc3",
+"text":"",
+"mid":"z50AUol8K",
+"date":"2012-11-13 16:23:57"
+},
+{
+"kids":[],
+"uid":"2919282414",
+"parent":"z4vITqNFt",
+"text":"",
+"mid":"z50mridDZ",
+"date":"2012-11-13 15:48:16"
+},
+{
+"kids":[],
+"uid":"1583719433",
+"parent":"",
+"text":"",
+"mid":"z4ZAafqdL",
+"date":"2012-11-13 13:49:21"
+},
+{
+"kids":[],
+"uid":"2803268614",
+"parent":"",
+"text":"",
+"mid":"z4ZAafqci",
+"date":"2012-11-13 13:49:22"
+},
+{
+"kids":[],
+"uid":"2920106100",
+"parent":"",
+"text":"",
+"mid":"z4Xah2Klm",
+"date":"2012-11-13 07:40:04"
+},
+{
+"kids":[],
+"uid":"2808064002",
+"parent":"z4yMYdVc3",
+"text":"",
+"mid":"z4Qth4etw",
+"date":"2012-11-12 14:37:40"
+},
+{
+"kids":[],
+"uid":"1582743112",
+"parent":"z4yMYdVc3",
+"text":"",
+"mid":"z4Qth4esj",
+"date":"2012-11-12 14:37:38"
+},
+{
+"kids":[],
+"uid":"2803136392",
+"parent":"",
+"text":"",
+"mid":"z4NJ8hvri",
+"date":"2012-11-12 07:38:29"
+},
+{
+"kids":[],
+"uid":"1583511740",
+"parent":"",
+"text":"",
+"mid":"z4NJ8hvqe",
+"date":"2012-11-12 07:38:30"
+},
+{
+"kids":[],
+"uid":"1778222732",
+"parent":"z4vITqNFt",
+"text":"",
+"mid":"z4Nr0eUYt",
+"date":"2012-11-12 06:53:50"
+},
+{
+"kids":[],
+"uid":"1578743531",
+"parent":"z4E0He0dt",
+"text":"",
+"mid":"z4GI67ch6",
+"date":"2012-11-11 13:46:43"
+},
+{
+"kids":[],
+"uid":"271770027",
+"parent":"z4yHp6k4g",
+"text":"",
+"mid":"z4GkvFEst",
+"date":"2012-11-11 12:48:37"
+},
+{
+"kids":[],
+"uid":"2294979931",
+"parent":"z4F2Yx1fk",
+"text":"让中央电视台拉个字幕就解决了",
+"mid":"z4FmAaY1q",
+"date":"2012-11-11 10:20:59"
+},
+{
+"kids":[
+"z4FmAaY1q"
+],
+"uid":"2294450717",
+"parent":"z4F1YcT9O",
+"text":"",
+"mid":"z4F2Yx1fk",
+"date":"2012-11-11 09:32:40"
+},
+{
+"kids":[
+"z4F2Yx1fk"
+],
+"uid":"2011mici",
+"parent":"",
+"text":"",
+"mid":"z4F1YcT9O",
+"date":"2012-11-11 09:30:10"
+},
+{
+"kids":[],
+"uid":"3030456813",
+"parent":"z4EtiadI2",
+"text":"",
+"mid":"z4EO6BCh3",
+"date":"2012-11-11 08:56:01"
+},
+{
+"kids":[],
+"uid":"1776905123",
+"parent":"",
+"text":"",
+"mid":"z4EtiadJ8",
+"date":"2012-11-11 08:04:44"
+},
+{
+"kids":[
+"z4EO6BCh3"
+],
+"uid":"2920460252",
+"parent":"",
+"text":"",
+"mid":"z4EtiadI2",
+"date":"2012-11-11 08:04:44"
+},
+{
+"kids":[],
+"uid":"jcliulixin",
+"parent":"z4DSf287D",
+"text":"",
+"mid":"z4E5exOI0",
+"date":"2012-11-11 07:05:29"
+},
+{
+"kids":[],
+"uid":"2567520331",
+"parent":"",
+"text":"",
+"mid":"z4E0V6zqy",
+"date":"2012-11-11 06:54:51"
+},
+{
+"kids":[
+"z4GI67ch6"
+],
+"uid":"311168711",
+"parent":"z4DSvfB6G",
+"text":"[话筒][话筒][话筒]",
+"mid":"z4E0He0dt",
+"date":"2012-11-11 06:54:17"
+},
+{
+"kids":[],
+"uid":"2725750011",
+"parent":"z4DSf287D",
+"text":"",
+"mid":"z4DXrpoRv",
+"date":"2012-11-11 06:46:16"
+},
+{
+"kids":[],
+"uid":"2149200103",
+"parent":"z4DSf287D",
+"text":"",
+"mid":"z4DXg90aL",
+"date":"2012-11-11 06:45:50"
+},
+{
+"kids":[
+"z4E0He0dt"
+],
+"uid":"2685985934",
+"parent":"z4DSf287D",
+"text":"",
+"mid":"z4DSvfB6G",
+"date":"2012-11-11 06:34:07"
+},
+{
+"kids":[
+"z4E5exOI0",
+"z4DXrpoRv",
+"z4DXg90aL",
+"z4DSvfB6G"
+],
+"uid":"2687969972",
+"parent":"z4zjMoMcF",
+"text":"",
+"mid":"z4DSf287D",
+"date":"2012-11-11 06:33:27"
+},
+{
+"kids":[],
+"uid":"2919905664",
+"parent":"z4yCjtSdb",
+"text":"",
+"mid":"z4D9vdokz",
+"date":"2012-11-11 04:43:15"
+},
+{
+"kids":[],
+"uid":"2919277682",
+"parent":"",
+"text":"",
+"mid":"z4CUlysVq",
+"date":"2012-11-11 04:05:55"
+},
+{
+"kids":[],
+"uid":"1776592094",
+"parent":"z4vITqNFt",
+"text":"",
+"mid":"z4CPhruHZ",
+"date":"2012-11-11 03:53:25"
+},
+{
+"kids":[],
+"uid":"2803393220",
+"parent":"z4vITqNFt",
+"text":"",
+"mid":"z4CPh9Tz2",
+"date":"2012-11-11 03:53:25"
+},
+{
+"kids":[],
+"uid":"jocegao",
+"parent":"z4zcB6WXw",
+"text":"@杜子建",
+"mid":"z4BRmfEQk",
+"date":"2012-11-11 01:25:48"
+},
+{
+"kids":[],
+"uid":"liyjs2005",
+"parent":"",
+"text":"望确认，并帮助！@重庆交巡警 @重庆头条新闻 @重庆晨报",
+"mid":"z4BAthUVx",
+"date":"2012-11-11 00:44:12"
+},
+{
+"kids":[],
+"uid":"2175813252",
+"parent":"",
+"text":"",
+"mid":"z4BbxyP9L",
+"date":"2012-11-10 23:42:44"
+},
+{
+"kids":[],
+"uid":"2375079091",
+"parent":"z4zjMoMcF",
+"text":"",
+"mid":"z4ALS3ENC",
+"date":"2012-11-10 22:39:30"
+},
+{
+"kids":[],
+"uid":"2557505460",
+"parent":"z4xwB7QzH",
+"text":"",
+"mid":"z4AAQ2Doj",
+"date":"2012-11-10 22:12:21"
+},
+{
+"kids":[],
+"uid":"vienlena",
+"parent":"z4xwB7QzH",
+"text":"",
+"mid":"z4AuY01Qx",
+"date":"2012-11-10 21:57:53"
+},
+{
+"kids":[],
+"uid":"2367940442",
+"parent":"z4yPO4uai",
+"text":"",
+"mid":"z4AtF1DKd",
+"date":"2012-11-10 21:54:40"
+},
+{
+"kids":[],
+"uid":"2882646104",
+"parent":"z4AlnqyB3",
+"text":"",
+"mid":"z4AnLuE67",
+"date":"2012-11-10 21:40:09"
+},
+{
+"kids":[
+"z4AnLuE67"
+],
+"uid":"1600177527",
+"parent":"",
+"text":"",
+"mid":"z4AlnqyB3",
+"date":"2012-11-10 21:34:16"
+},
+{
+"kids":[],
+"uid":"2807975605",
+"parent":"z4Aep8HCW",
+"text":"[话筒]",
+"mid":"z4AjGvNsy",
+"date":"2012-11-10 21:30:06"
+},
+{
+"kids":[
+"z4AjGvNsy"
+],
+"uid":"2909505083",
+"parent":"",
+"text":"",
+"mid":"z4Aep8HCW",
+"date":"2012-11-10 21:17:05"
+},
+{
+"kids":[],
+"uid":"2242853761",
+"parent":"",
+"text":"",
+"mid":"z4Acswt6S",
+"date":"2012-11-10 21:12:19"
+},
+{
+"kids":[],
+"uid":"2011013981",
+"parent":"z4zjMoMcF",
+"text":"@没脑子不思考.",
+"mid":"z4A4xrBpu",
+"date":"2012-11-10 20:52:47"
+},
+{
+"kids":[],
+"uid":"2179979713",
+"parent":"z4yHp6k4g",
+"text":"",
+"mid":"z4zzpgO7G",
+"date":"2012-11-10 19:36:02"
+},
+{
+"kids":[],
+"uid":"576220071",
+"parent":"z4zjMoMcF",
+"text":"",
+"mid":"z4zpskAny",
+"date":"2012-11-10 19:11:34"
+},
+{
+"kids":[],
+"uid":"2564518947",
+"parent":"z4yrWdJpp",
+"text":"",
+"mid":"z4zmL5lLe",
+"date":"2012-11-10 19:04:53"
+},
+{
+"kids":[],
+"uid":"2649687587",
+"parent":"z4zjMoMcF",
+"text":"",
+"mid":"z4zmzfwHC",
+"date":"2012-11-10 19:04:28"
+},
+{
+"kids":[],
+"uid":"2405741555",
+"parent":"z4zjMoMcF",
+"text":"[吃惊]",
+"mid":"z4zmuvIkV",
+"date":"2012-11-10 19:04:15"
+},
+{
+"kids":[
+"z4DSf287D",
+"z4ALS3ENC",
+"z4A4xrBpu",
+"z4zpskAny",
+"z4zmzfwHC",
+"z4zmuvIkV"
+],
+"uid":"2687969972",
+"parent":"z4zdF0bkS",
+"text":"",
+"mid":"z4zjMoMcF",
+"date":"2012-11-10 18:57:32"
+},
+{
+"kids":[
+"z4zjMoMcF"
+],
+"uid":"2326008423",
+"parent":"z4zb9dJjD",
+"text":"",
+"mid":"z4zdF0bkS",
+"date":"2012-11-10 18:42:30"
+},
+{
+"kids":[
+"z4BRmfEQk"
+],
+"uid":"jocegao",
+"parent":"z4z2QdPmU",
+"text":"",
+"mid":"z4zcB6WXw",
+"date":"2012-11-10 18:39:53"
+},
+{
+"kids":[],
+"uid":"2334122090",
+"parent":"z4yAgpgMp",
+"text":"我的老家哇[泪][泪]",
+"mid":"z4zbW2fBJ",
+"date":"2012-11-10 18:38:13"
+},
+{
+"kids":[
+"z4zdF0bkS"
+],
+"uid":"1975025983",
+"parent":"",
+"text":"转发",
+"mid":"z4zb9dJjD",
+"date":"2012-11-10 18:36:18"
+},
+{
+"kids":[],
+"uid":"2314664610",
+"parent":"z4yI0zsDA",
+"text":"",
+"mid":"z4z79CVPM",
+"date":"2012-11-10 18:26:29"
+},
+{
+"kids":[
+"z4zcB6WXw"
+],
+"uid":"uwine",
+"parent":"z4yPO4uai",
+"text":"",
+"mid":"z4z2QdPmU",
+"date":"2012-11-10 18:15:51"
+},
+{
+"kids":[],
+"uid":"2811051060",
+"parent":"",
+"text":"",
+"mid":"z4z16Docj",
+"date":"2012-11-10 18:11:33"
+},
+{
+"kids":[],
+"uid":"1777799012",
+"parent":"",
+"text":"",
+"mid":"z4z16DoaO",
+"date":"2012-11-10 18:11:32"
+},
+{
+"kids":[],
+"uid":"1774001462",
+"parent":"",
+"text":"@于建嵘 @姚晨",
+"mid":"z4yYc8OwP",
+"date":"2012-11-10 18:04:24"
+},
+{
+"kids":[],
+"uid":"1321766423",
+"parent":"",
+"text":"",
+"mid":"z4yXRoSdm",
+"date":"2012-11-10 18:03:36"
+},
+{
+"kids":[],
+"uid":"1913604044",
+"parent":"z4yPO4uai",
+"text":"",
+"mid":"z4yVq8oU2",
+"date":"2012-11-10 17:57:34"
+},
+{
+"kids":[],
+"uid":"mirandaview",
+"parent":"z4yU1gdXs",
+"text":"",
+"mid":"z4yUIFjA5",
+"date":"2012-11-10 17:55:48"
+},
+{
+"kids":[
+"z4yUIFjA5"
+],
+"uid":"ludanchang",
+"parent":"z4yp4DFs1",
+"text":"",
+"mid":"z4yU1gdXs",
+"date":"2012-11-10 17:54:05"
+},
+{
+"kids":[
+"z4AtF1DKd",
+"z4z2QdPmU",
+"z4yVq8oU2"
+],
+"uid":"1402691504",
+"parent":"z4yJ8FfUb",
+"text":"[悲伤]",
+"mid":"z4yPO4uai",
+"date":"2012-11-10 17:43:43"
+},
+{
+"kids":[],
+"uid":"1974201034",
+"parent":"z4wVCqFvy",
+"text":"",
+"mid":"z4yOuuiYj",
+"date":"2012-11-10 17:40:30"
+},
+{
+"kids":[
+"z50AUol8K",
+"z4Qth4etw",
+"z4Qth4esj"
+],
+"uid":"1654289444",
+"parent":"",
+"text":"",
+"mid":"z4yMYdVc3",
+"date":"2012-11-10 17:36:45"
+},
+{
+"kids":[],
+"uid":"2134425330",
+"parent":"z4yHp6k4g",
+"text":"",
+"mid":"z4yLxixrQ",
+"date":"2012-11-10 17:33:13"
+},
+{
+"kids":[],
+"uid":"1152753970",
+"parent":"z4yG45lqB",
+"text":"[爱心传递]",
+"mid":"z4yL3onbv",
+"date":"2012-11-10 17:32:02"
+},
+{
+"kids":[],
+"uid":"cyan1030",
+"parent":"z4yHp6k4g",
+"text":"",
+"mid":"z4yKT5nId",
+"date":"2012-11-10 17:31:38"
+},
+{
+"kids":[],
+"uid":"1300961337",
+"parent":"",
+"text":"",
+"mid":"z4yJvoTOv",
+"date":"2012-11-10 17:28:10"
+},
+{
+"kids":[
+"z4yPO4uai"
+],
+"uid":"2246722787",
+"parent":"z4yp4DFs1",
+"text":"",
+"mid":"z4yJ8FfUb",
+"date":"2012-11-10 17:27:17"
+},
+{
+"kids":[],
+"uid":"1322052184",
+"parent":"",
+"text":"",
+"mid":"z4yJ2r8IG",
+"date":"2012-11-10 17:27:02"
+},
+{
+"kids":[
+"z4z79CVPM"
+],
+"uid":"1897234103",
+"parent":"",
+"text":"转",
+"mid":"z4yI0zsDA",
+"date":"2012-11-10 17:24:32"
+},
+{
+"kids":[
+"z4GkvFEst",
+"z4zzpgO7G",
+"z4yLxixrQ",
+"z4yKT5nId"
+],
+"uid":"siif",
+"parent":"",
+"text":"",
+"mid":"z4yHp6k4g",
+"date":"2012-11-10 17:23:02"
+},
+{
+"kids":[
+"z4yL3onbv"
+],
+"uid":"2145444335",
+"parent":"",
+"text":"",
+"mid":"z4yG45lqB",
+"date":"2012-11-10 17:19:44"
+},
+{
+"kids":[],
+"uid":"2654074893",
+"parent":"",
+"text":"",
+"mid":"z4yD1wDM9",
+"date":"2012-11-10 17:12:13"
+},
+{
+"kids":[
+"z4D9vdokz"
+],
+"uid":"1912047592",
+"parent":"",
+"text":"",
+"mid":"z4yCjtSdb",
+"date":"2012-11-10 17:10:31"
+},
+{
+"kids":[],
+"uid":"2104597494",
+"parent":"",
+"text":"",
+"mid":"z4yByf3cW",
+"date":"2012-11-10 17:08:37"
+},
+{
+"kids":[
+"z4zbW2fBJ"
+],
+"uid":"backstagevv",
+"parent":"z4yxGAhGI",
+"text":"",
+"mid":"z4yAgpgMp",
+"date":"2012-11-10 17:05:25"
+},
+{
+"kids":[
+"z4yAgpgMp"
+],
+"uid":"1820749495",
+"parent":"z4voepez3",
+"text":"",
+"mid":"z4yxGAhGI",
+"date":"2012-11-10 16:59:04"
+},
+{
+"kids":[],
+"uid":"chenhanxing",
+"parent":"z4yrWdJpp",
+"text":"",
+"mid":"z4ysD3yUD",
+"date":"2012-11-10 16:46:37"
+},
+{
+"kids":[
+"z4zmL5lLe",
+"z4ysD3yUD"
+],
+"uid":"1917786010",
+"parent":"z4voepez3",
+"text":"",
+"mid":"z4yrWdJpp",
+"date":"2012-11-10 16:44:56"
+},
+{
+"kids":[],
+"uid":"1904966973",
+"parent":"",
+"text":"@晓雪",
+"mid":"z4ypG7HEn",
+"date":"2012-11-10 16:39:22"
+},
+{
+"kids":[],
+"uid":"1904966973",
+"parent":"",
+"text":"@时尚主播linda",
+"mid":"z4ypFygj7",
+"date":"2012-11-10 16:39:21"
+},
+{
+"kids":[
+"z4yU1gdXs",
+"z4yJ8FfUb"
+],
+"uid":"1904966973",
+"parent":"",
+"text":"@顾荣军--名流摄影 @可爱晨风 @猫仙女 @南山北陶峰",
+"mid":"z4yp4DFs1",
+"date":"2012-11-10 16:37:53"
+},
+{
+"kids":[],
+"uid":"2809234992",
+"parent":"z4xcKq6Vx",
+"text":"",
+"mid":"z4xYOq7Pg",
+"date":"2012-11-10 15:33:09"
+},
+{
+"kids":[],
+"uid":"1861611342",
+"parent":"z4xrObKn5",
+"text":"我怎么记得去年转过个一样的？[疑问]",
+"mid":"z4xVYE4Uv",
+"date":"2012-11-10 15:26:12"
+},
+{
+"kids":[],
+"uid":"fennanbei",
+"parent":"",
+"text":"祈祷",
+"mid":"z4xDA4QaA",
+"date":"2012-11-10 14:40:51"
+},
+{
+"kids":[],
+"uid":"1865594292",
+"parent":"z4xwB7QzH",
+"text":"",
+"mid":"z4xx6tAgx",
+"date":"2012-11-10 14:24:55"
+},
+{
+"kids":[],
+"uid":"275752247",
+"parent":"",
+"text":"",
+"mid":"z4xwWolz4",
+"date":"2012-11-10 14:24:29"
+},
+{
+"kids":[
+"z4AAQ2Doj",
+"z4AuY01Qx",
+"z4xx6tAgx"
+],
+"uid":"1736710002",
+"parent":"z4x61vE5L",
+"text":"",
+"mid":"z4xwB7QzH",
+"date":"2012-11-10 14:23:40"
+},
+{
+"kids":[
+"z4xVYE4Uv"
+],
+"uid":"1729619733",
+"parent":"z4xqsgWad",
+"text":"",
+"mid":"z4xrObKn5",
+"date":"2012-11-10 14:11:52"
+},
+{
+"kids":[
+"z4xrObKn5"
+],
+"uid":"1225879827",
+"parent":"",
+"text":"",
+"mid":"z4xqsgWad",
+"date":"2012-11-10 14:08:31"
+},
+{
+"kids":[
+"z4xYOq7Pg"
+],
+"uid":"jiangrui66570",
+"parent":"",
+"text":"",
+"mid":"z4xcKq6Vx",
+"date":"2012-11-10 13:34:46"
+},
+{
+"kids":[
+"z4xwB7QzH"
+],
+"uid":"1862291690",
+"parent":"z4wVCqFvy",
+"text":"",
+"mid":"z4x61vE5L",
+"date":"2012-11-10 13:18:12"
+},
+{
+"kids":[],
+"uid":"allen813",
+"parent":"",
+"text":"",
+"mid":"z4x4M4OYp",
+"date":"2012-11-10 13:15:06"
+},
+{
+"kids":[
+"z4yOuuiYj",
+"z4x61vE5L"
+],
+"uid":"1499028555",
+"parent":"",
+"text":"",
+"mid":"z4wVCqFvy",
+"date":"2012-11-10 12:52:34"
+},
+{
+"kids":[],
+"uid":"2152689702",
+"parent":"",
+"text":"",
+"mid":"z4wJVxI8y",
+"date":"2012-11-10 12:23:46"
+},
+{
+"kids":[],
+"uid":"2311515913",
+"parent":"z4vpfEPat",
+"text":"",
+"mid":"z4vLn6m0m",
+"date":"2012-11-10 09:54:33"
+},
+{
+"kids":[
+"z50mridDZ",
+"z4Nr0eUYt",
+"z4CPhruHZ",
+"z4CPh9Tz2"
+],
+"uid":"1943258442",
+"parent":"",
+"text":"@耶鲁英语 @Kuma很愛李大仁0v0 @Magicbabyweibo @阳光修正 @影像基因 @英文王子_张介英 @三联生活周刊 @凤凰网华人佛教",
+"mid":"z4vITqNFt",
+"date":"2012-11-10 09:48:27"
+},
+{
+"kids":[
+"z4vLn6m0m"
+],
+"uid":"1878863120",
+"parent":"",
+"text":"@高力豆sa @Eason仝Tong @风与梵家 @含笑眯眯 @几个个字 @林之语sky @果果2660642997 @茧子树 @江湖客栈_梵 @娇娇娃1007 @靜兒_漠 @懒耕居 @SummerKing冰",
+"mid":"z4vpfEPat",
+"date":"2012-11-10 09:00:04"
+},
+{
+"kids":[
+"z4yxGAhGI",
+"z4yrWdJpp"
+],
+"uid":"1878863120",
+"parent":"",
+"text":"@彤少-梵家 @贝勒无知 @江湖客栈_梵 @木目心JOY @爱大自然的小马 @奥特曼炜炜 @彼岸花纹绣李五兰 @不分南北 @Celine隐 @cleo0907 @沉檀老记 @陈翰星 @Djmarry @duoduo-月 @冬绽 @Edward_AutumnsTale_钱明君 @Elma-戒 @梵真",
+"mid":"z4voepez3",
+"date":"2012-11-10 08:57:34"
+}
+]

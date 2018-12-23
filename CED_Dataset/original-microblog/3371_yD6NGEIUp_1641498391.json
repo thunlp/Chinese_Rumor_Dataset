@@ -1,0 +1,22 @@
+{
+"multi":null,
+"text":"本条微博转发数过1000，我上传马指导唱歌视频，大伙晚安~",
+"user":{
+"verified":true,
+"description":true,
+"gender":"m",
+"messages":20065,
+"followers":1460208,
+"location":"北京 西城区",
+"time":1251448529,
+"friends":603,
+"verified_type":0
+},
+"has_url":false,
+"comments":256,
+"pics":0,
+"source":"微博 weibo.com",
+"likes":4,
+"time":1348329476,
+"reposts":926
+}

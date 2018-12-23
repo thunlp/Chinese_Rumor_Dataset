@@ -1,0 +1,22 @@
+{
+"multi":null,
+"text":"if ( you.Love(Me)==1 || you.Love(Me)==0 ) { love = love; love++; love--; } //你爱，或者不爱我，爱就在那里，不增不减",
+"user":{
+"verified":false,
+"description":true,
+"gender":"m",
+"messages":6533,
+"followers":144300,
+"location":"北京 东城区",
+"time":1283874543,
+"friends":289,
+"verified_type":220
+},
+"has_url":false,
+"comments":113,
+"pics":1,
+"source":"微博 weibo.com",
+"likes":0,
+"time":1297416274,
+"reposts":524
+}

@@ -1,0 +1,4542 @@
+[
+{
+"kids":[],
+"uid":"1777775012",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"zwOU4DqqX",
+"date":"2013-05-15 14:06:42"
+},
+{
+"kids":[],
+"uid":"2803623424",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"zwCIryTVL",
+"date":"2013-05-14 07:05:06"
+},
+{
+"kids":[],
+"uid":"2809737762",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"zwCIrxKi1",
+"date":"2013-05-14 07:05:05"
+},
+{
+"kids":[],
+"uid":"3044369730",
+"parent":"",
+"text":"",
+"mid":"zwcB1dIst",
+"date":"2013-05-11 12:35:23"
+},
+{
+"kids":[],
+"uid":"2920660544",
+"parent":"",
+"text":"",
+"mid":"zw8yMF7fy",
+"date":"2013-05-11 02:18:54"
+},
+{
+"kids":[],
+"uid":"3044878544",
+"parent":"",
+"text":"",
+"mid":"zw8yMF7eg",
+"date":"2013-05-11 02:18:53"
+},
+{
+"kids":[],
+"uid":"2803673884",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"zvR58FwcP",
+"date":"2013-05-09 05:49:09"
+},
+{
+"kids":[],
+"uid":"2920296480",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"zvGCvoAqN",
+"date":"2013-05-08 03:11:09"
+},
+{
+"kids":[],
+"uid":"3043910200",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"zvGCvn18F",
+"date":"2013-05-08 03:11:09"
+},
+{
+"kids":[],
+"uid":"3043528154",
+"parent":"",
+"text":"",
+"mid":"zvetCcEZR",
+"date":"2013-05-05 03:32:19"
+},
+{
+"kids":[],
+"uid":"2919954420",
+"parent":"",
+"text":"",
+"mid":"zv8Zbumnc",
+"date":"2013-05-04 13:33:38"
+},
+{
+"kids":[],
+"uid":"2920045420",
+"parent":"",
+"text":"",
+"mid":"zv8ZbcLcK",
+"date":"2013-05-04 13:33:36"
+},
+{
+"kids":[],
+"uid":"3044792850",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"zv4Wzlzyk",
+"date":"2013-05-04 03:16:11"
+},
+{
+"kids":[],
+"uid":"2789730942",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"zv4WzkpOV",
+"date":"2013-05-04 03:16:12"
+},
+{
+"kids":[],
+"uid":"3044910250",
+"parent":"ztkcwbtlA",
+"text":"",
+"mid":"zv3ZMroza",
+"date":"2013-05-04 00:51:22"
+},
+{
+"kids":[],
+"uid":"2803951514",
+"parent":"ztkcwbtlA",
+"text":"",
+"mid":"zv3ZMriQB",
+"date":"2013-05-04 00:51:18"
+},
+{
+"kids":[],
+"uid":"1778171742",
+"parent":"ztjK8dnLj",
+"text":"",
+"mid":"zuLqVEJfv",
+"date":"2013-05-02 01:36:04"
+},
+{
+"kids":[],
+"uid":"2804094940",
+"parent":"ztjK8dnLj",
+"text":"",
+"mid":"zuLqVonuc",
+"date":"2013-05-02 01:36:03"
+},
+{
+"kids":[],
+"uid":"2803582762",
+"parent":"ztjToBvvo",
+"text":"",
+"mid":"zuLiTbgNI",
+"date":"2013-05-02 01:16:15"
+},
+{
+"kids":[],
+"uid":"2965885461",
+"parent":"ztjb14v6a",
+"text":"",
+"mid":"zuKrCsvvm",
+"date":"2013-05-01 23:05:00"
+},
+{
+"kids":[],
+"uid":"2920485212",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"zuCAe0ish",
+"date":"2013-05-01 03:04:14"
+},
+{
+"kids":[],
+"uid":"2919638540",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"zuCAdF50W",
+"date":"2013-05-01 03:04:14"
+},
+{
+"kids":[],
+"uid":"3043703372",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"zulpN5Qg2",
+"date":"2013-04-29 07:21:50"
+},
+{
+"kids":[],
+"uid":"3045153460",
+"parent":"",
+"text":"",
+"mid":"zuiN8vquk",
+"date":"2013-04-29 00:41:07"
+},
+{
+"kids":[],
+"uid":"2805296940",
+"parent":"ztmKj3EjP",
+"text":"",
+"mid":"zuaGAmgTt",
+"date":"2013-04-28 04:03:00"
+},
+{
+"kids":[],
+"uid":"2919594492",
+"parent":"",
+"text":"",
+"mid":"zua9ReiBy",
+"date":"2013-04-28 02:42:22"
+},
+{
+"kids":[],
+"uid":"3043554682",
+"parent":"",
+"text":"",
+"mid":"zua9ReizG",
+"date":"2013-04-28 02:42:22"
+},
+{
+"kids":[],
+"uid":"2789896064",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"zu9NbzlIY",
+"date":"2013-04-28 01:46:31"
+},
+{
+"kids":[],
+"uid":"2789828034",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"zu9NbxHYy",
+"date":"2013-04-28 01:46:31"
+},
+{
+"kids":[],
+"uid":"3044033522",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"zu9qIkrdy",
+"date":"2013-04-28 00:51:08"
+},
+{
+"kids":[],
+"uid":"3044920092",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"zu9qI2avG",
+"date":"2013-04-28 00:51:05"
+},
+{
+"kids":[],
+"uid":"1520714351",
+"parent":"ztmKj3EjP",
+"text":"",
+"mid":"zu0P97dMh",
+"date":"2013-04-27 02:56:37"
+},
+{
+"kids":[],
+"uid":"1581740353",
+"parent":"ztmKj3EjP",
+"text":"",
+"mid":"zu0P96SC7",
+"date":"2013-04-27 02:56:36"
+},
+{
+"kids":[],
+"uid":"2790086070",
+"parent":"ztjwbAV0K",
+"text":"",
+"mid":"zu0vByN3b",
+"date":"2013-04-27 02:08:28"
+},
+{
+"kids":[],
+"uid":"2920600790",
+"parent":"ztjwbAV0K",
+"text":"",
+"mid":"ztSiJ1MFC",
+"date":"2013-04-26 05:14:46"
+},
+{
+"kids":[],
+"uid":"2919426964",
+"parent":"ztjwbAV0K",
+"text":"",
+"mid":"ztSiJ0wpk",
+"date":"2013-04-26 05:14:46"
+},
+{
+"kids":[],
+"uid":"3044357144",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"ztQw5avVs",
+"date":"2013-04-26 00:42:11"
+},
+{
+"kids":[],
+"uid":"3044317412",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"ztQw5avT9",
+"date":"2013-04-26 00:42:11"
+},
+{
+"kids":[],
+"uid":"1813960102",
+"parent":"",
+"text":"[汗]",
+"mid":"ztNnbils8",
+"date":"2013-04-25 16:42:00"
+},
+{
+"kids":[],
+"uid":"2920209052",
+"parent":"ztlkl9esi",
+"text":"",
+"mid":"ztHsA5Ga4",
+"date":"2013-04-25 01:38:49"
+},
+{
+"kids":[],
+"uid":"3044295082",
+"parent":"ztlkl9esi",
+"text":"",
+"mid":"ztHsA3yJb",
+"date":"2013-04-25 01:38:50"
+},
+{
+"kids":[],
+"uid":"3044945480",
+"parent":"ztlFUwQma",
+"text":"",
+"mid":"ztHskpNiQ",
+"date":"2013-04-25 01:38:13"
+},
+{
+"kids":[],
+"uid":"1915957485",
+"parent":"",
+"text":"",
+"mid":"ztBO7mvXY",
+"date":"2013-04-24 11:15:24"
+},
+{
+"kids":[],
+"uid":"xiaoniubaba",
+"parent":"",
+"text":"",
+"mid":"ztBkR1z8P",
+"date":"2013-04-24 10:03:18"
+},
+{
+"kids":[],
+"uid":"3043893784",
+"parent":"ztkidA7qY",
+"text":"",
+"mid":"ztAAg0rCw",
+"date":"2013-04-24 08:08:31"
+},
+{
+"kids":[],
+"uid":"3044536774",
+"parent":"ztlFUwQma",
+"text":"",
+"mid":"ztAerfpGl",
+"date":"2013-04-24 07:14:46"
+},
+{
+"kids":[],
+"uid":"2808049830",
+"parent":"ztlFUwQma",
+"text":"",
+"mid":"ztAerfpEZ",
+"date":"2013-04-24 07:14:45"
+},
+{
+"kids":[],
+"uid":"2809442540",
+"parent":"",
+"text":"",
+"mid":"ztA4A9vLN",
+"date":"2013-04-24 06:50:29"
+},
+{
+"kids":[],
+"uid":"1965376995",
+"parent":"",
+"text":"红会腐败只是政府腐败的一个缩影",
+"mid":"ztxiJkliR",
+"date":"2013-04-23 23:47:05"
+},
+{
+"kids":[],
+"uid":"1907540197",
+"parent":"ztrdkds44",
+"text":"攒人品",
+"mid":"ztrwSieiX",
+"date":"2013-04-23 09:05:28"
+},
+{
+"kids":[],
+"uid":"2789749822",
+"parent":"ztkidA7qY",
+"text":"",
+"mid":"ztrqLsGZt",
+"date":"2013-04-23 08:50:25"
+},
+{
+"kids":[],
+"uid":"2919871314",
+"parent":"ztkidA7qY",
+"text":"",
+"mid":"ztrqLbT7d",
+"date":"2013-04-23 08:50:24"
+},
+{
+"kids":[
+"ztrwSieiX"
+],
+"uid":"2375635764",
+"parent":"",
+"text":"攒人品",
+"mid":"ztrdkds44",
+"date":"2013-04-23 08:17:18"
+},
+{
+"kids":[],
+"uid":"3043638870",
+"parent":"ztjqj0XQu",
+"text":"",
+"mid":"ztotMDz83",
+"date":"2013-04-23 01:19:37"
+},
+{
+"kids":[],
+"uid":"2919480130",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"ztooIvT1t",
+"date":"2013-04-23 01:07:08"
+},
+{
+"kids":[],
+"uid":"1582849293",
+"parent":"ztiQNfWQX",
+"text":"",
+"mid":"ztooIehQQ",
+"date":"2013-04-23 01:07:07"
+},
+{
+"kids":[],
+"uid":"3044023390",
+"parent":"",
+"text":"",
+"mid":"zto6r2y0x",
+"date":"2013-04-23 00:22:02"
+},
+{
+"kids":[],
+"uid":"2475840423",
+"parent":"ztj5v81QZ",
+"text":"",
+"mid":"ztnNV4iQy",
+"date":"2013-04-22 23:36:28"
+},
+{
+"kids":[],
+"uid":"2887386620",
+"parent":"ztj3Y0Raj",
+"text":"",
+"mid":"ztn3kB7b4",
+"date":"2013-04-22 21:41:40"
+},
+{
+"kids":[],
+"uid":"2448928585",
+"parent":"ztj0bnOsp",
+"text":"回复@丹平167:[握手]",
+"mid":"ztn2PyCFD",
+"date":"2013-04-22 21:40:28"
+},
+{
+"kids":[
+"zuaGAmgTt",
+"zu0P97dMh",
+"zu0P96SC7"
+],
+"uid":"2900554833",
+"parent":"",
+"text":"如此红会，简直就是糟蹋爱心，有关部门必须查实，给民众一个交代。",
+"mid":"ztmKj3EjP",
+"date":"2013-04-22 20:54:50"
+},
+{
+"kids":[],
+"uid":"1880308604",
+"parent":"ztj5zz8xY",
+"text":"[怒]",
+"mid":"ztmrA28Lt",
+"date":"2013-04-22 20:08:41"
+},
+{
+"kids":[],
+"uid":"1832510592",
+"parent":"ztlMmAvAX",
+"text":"",
+"mid":"ztlNj9h3c",
+"date":"2013-04-22 18:29:28"
+},
+{
+"kids":[
+"ztlNj9h3c"
+],
+"uid":"1664520851",
+"parent":"",
+"text":"",
+"mid":"ztlMmAvAX",
+"date":"2013-04-22 18:27:10"
+},
+{
+"kids":[
+"ztHskpNiQ",
+"ztAerfpGl",
+"ztAerfpEZ"
+],
+"uid":"3244037851",
+"parent":"",
+"text":"仲么了",
+"mid":"ztlFUwQma",
+"date":"2013-04-22 18:11:15"
+},
+{
+"kids":[],
+"uid":"1864456805",
+"parent":"",
+"text":"",
+"mid":"ztlBzD5ZT",
+"date":"2013-04-22 18:00:32"
+},
+{
+"kids":[],
+"uid":"1974607891",
+"parent":"ztj2k2HN1",
+"text":"",
+"mid":"ztlv3FrCg",
+"date":"2013-04-22 17:44:31"
+},
+{
+"kids":[],
+"uid":"shuma6",
+"parent":"",
+"text":"",
+"mid":"ztlmFCKZq",
+"date":"2013-04-22 17:23:51"
+},
+{
+"kids":[
+"ztHsA5Ga4",
+"ztHsA3yJb"
+],
+"uid":"3106702977",
+"parent":"",
+"text":"红会牛啊！",
+"mid":"ztlkl9esi",
+"date":"2013-04-22 17:18:06"
+},
+{
+"kids":[],
+"uid":"1157645013",
+"parent":"ztjt7kqA6",
+"text":"TMD.败类.....",
+"mid":"ztlcuaxPq",
+"date":"2013-04-22 16:58:43"
+},
+{
+"kids":[],
+"uid":"1444190432",
+"parent":"",
+"text":"都来看看",
+"mid":"ztkXDoGhJ",
+"date":"2013-04-22 16:22:10"
+},
+{
+"kids":[],
+"uid":"1766116992",
+"parent":"",
+"text":"万恶的",
+"mid":"ztkVfCZou",
+"date":"2013-04-22 16:16:17"
+},
+{
+"kids":[],
+"uid":"1793348597",
+"parent":"",
+"text":"",
+"mid":"ztkUK24NY",
+"date":"2013-04-22 16:15:02"
+},
+{
+"kids":[],
+"uid":"liuxize0308",
+"parent":"ztkAusffw",
+"text":"玛莎拉蒂保养费真的很贵@作家崔成浩",
+"mid":"ztkUEqMxT",
+"date":"2013-04-22 16:14:49"
+},
+{
+"kids":[],
+"uid":"2567219191",
+"parent":"ztkCFwGzI",
+"text":"",
+"mid":"ztkFin83i",
+"date":"2013-04-22 15:36:59"
+},
+{
+"kids":[],
+"uid":"tianchunjian007",
+"parent":"ztkCFwGzI",
+"text":"",
+"mid":"ztkF0i8MG",
+"date":"2013-04-22 15:36:15"
+},
+{
+"kids":[
+"ztkFin83i",
+"ztkF0i8MG"
+],
+"uid":"2624660375",
+"parent":"",
+"text":"本想评，又觉得怪异，就不平转发即可。",
+"mid":"ztkCFwGzI",
+"date":"2013-04-22 15:30:31"
+},
+{
+"kids":[],
+"uid":"aomandenvren",
+"parent":"ztkC92qbX",
+"text":"",
+"mid":"ztkCpg3RD",
+"date":"2013-04-22 15:29:52"
+},
+{
+"kids":[],
+"uid":"2299532017",
+"parent":"ztkARdC67",
+"text":"彻查！如属实必须严惩！",
+"mid":"ztkCatqsc",
+"date":"2013-04-22 15:29:15"
+},
+{
+"kids":[
+"ztkCpg3RD"
+],
+"uid":"2624660375",
+"parent":"",
+"text":"是那一方不实",
+"mid":"ztkC92qbX",
+"date":"2013-04-22 15:29:12"
+},
+{
+"kids":[],
+"uid":"1680724445",
+"parent":"",
+"text":"",
+"mid":"ztkBCfduB",
+"date":"2013-04-22 15:27:56"
+},
+{
+"kids":[
+"ztkCatqsc"
+],
+"uid":"3108908983",
+"parent":"ztkzYAIkF",
+"text":"国难财也敢发，深查",
+"mid":"ztkARdC67",
+"date":"2013-04-22 15:26:04"
+},
+{
+"kids":[
+"ztkUEqMxT"
+],
+"uid":"1010566455",
+"parent":"",
+"text":"",
+"mid":"ztkAusffw",
+"date":"2013-04-22 15:25:08"
+},
+{
+"kids":[
+"ztkARdC67"
+],
+"uid":"2917030413",
+"parent":"",
+"text":"",
+"mid":"ztkzYAIkF",
+"date":"2013-04-22 15:23:50"
+},
+{
+"kids":[],
+"uid":"1733340347",
+"parent":"",
+"text":"",
+"mid":"ztkzxm9Ac",
+"date":"2013-04-22 15:22:46"
+},
+{
+"kids":[],
+"uid":"1977370073",
+"parent":"",
+"text":"估计又是临时工",
+"mid":"ztkx9EpA5",
+"date":"2013-04-22 15:16:56"
+},
+{
+"kids":[],
+"uid":"2672510592",
+"parent":"ztjvvjEJe",
+"text":"针对网上谣言、虚假信息大家要及时举报，相关部门要及时避谣澄清。希望@微博管理员 @微博小秘书 也及时將垃圾信息删除。",
+"mid":"ztkqAcitZ",
+"date":"2013-04-22 15:00:42"
+},
+{
+"kids":[],
+"uid":"1974390071",
+"parent":"",
+"text":"红会是不是盼望这种天灾啊，好发国难财[弱]",
+"mid":"ztkps7ooy",
+"date":"2013-04-22 14:57:55"
+},
+{
+"kids":[],
+"uid":"yiyi520qiqi",
+"parent":"ztiW4Chsl",
+"text":"要捐也不会去红十字会~~~~[怒]",
+"mid":"ztkpfoQua",
+"date":"2013-04-22 14:57:27"
+},
+{
+"kids":[],
+"uid":"2565620647",
+"parent":"ztjuleKUU",
+"text":"",
+"mid":"ztko510W8",
+"date":"2013-04-22 14:54:33"
+},
+{
+"kids":[
+"ztAAg0rCw",
+"ztrqLsGZt",
+"ztrqLbT7d"
+],
+"uid":"2377006370",
+"parent":"",
+"text":"良心都让狗给吃了，这些人为何不让震死，车翻了压死。",
+"mid":"ztkidA7qY",
+"date":"2013-04-22 14:40:06"
+},
+{
+"kids":[],
+"uid":"1838912203",
+"parent":"ztj3tzkTh",
+"text":"",
+"mid":"ztkes8C4K",
+"date":"2013-04-22 14:30:50"
+},
+{
+"kids":[
+"zv3ZMroza",
+"zv3ZMriQB"
+],
+"uid":"2509014405",
+"parent":"",
+"text":"",
+"mid":"ztkcwbtlA",
+"date":"2013-04-22 14:26:04"
+},
+{
+"kids":[],
+"uid":"2197982554",
+"parent":"ztj5dr4Se",
+"text":"",
+"mid":"ztkbxyyDk",
+"date":"2013-04-22 14:23:40"
+},
+{
+"kids":[],
+"uid":"chucy0303",
+"parent":"ztjWZ80zf",
+"text":"[good]",
+"mid":"ztk9N7yNT",
+"date":"2013-04-22 14:19:22"
+},
+{
+"kids":[],
+"uid":"2806683063",
+"parent":"ztjeamMn5",
+"text":"",
+"mid":"ztk986WgW",
+"date":"2013-04-22 14:17:45"
+},
+{
+"kids":[],
+"uid":"1713537132",
+"parent":"ztj0tmYZi",
+"text":"等待结果",
+"mid":"ztk5674sG",
+"date":"2013-04-22 14:07:46"
+},
+{
+"kids":[],
+"uid":"1616198742",
+"parent":"ztiVT705h",
+"text":"网友称:红会工作人员购1万元救灾药品开5万发票！请有关部门核实查处！",
+"mid":"ztjXzdUwF",
+"date":"2013-04-22 13:49:13"
+},
+{
+"kids":[],
+"uid":"ykk1017",
+"parent":"ztjV73JxD",
+"text":"",
+"mid":"ztjXioGB2",
+"date":"2013-04-22 13:48:33"
+},
+{
+"kids":[
+"ztk9N7yNT"
+],
+"uid":"1935198073",
+"parent":"ztjlQFp4m",
+"text":"及时辟谣，赞！",
+"mid":"ztjWZ80zf",
+"date":"2013-04-22 13:47:49"
+},
+{
+"kids":[],
+"uid":"figowei",
+"parent":"ztjkewLIU",
+"text":"",
+"mid":"ztjWgfqbz",
+"date":"2013-04-22 13:46:01"
+},
+{
+"kids":[],
+"uid":"3077957177",
+"parent":"ztjUYanok",
+"text":"",
+"mid":"ztjVZ5Dxt",
+"date":"2013-04-22 13:45:19"
+},
+{
+"kids":[],
+"uid":"2578397263",
+"parent":"ztjP42xb0",
+"text":"",
+"mid":"ztjVoqQx2",
+"date":"2013-04-22 13:43:55"
+},
+{
+"kids":[
+"ztjXioGB2"
+],
+"uid":"1155117253",
+"parent":"ztjRWuIUK",
+"text":"",
+"mid":"ztjV73JxD",
+"date":"2013-04-22 13:43:11"
+},
+{
+"kids":[
+"ztjVZ5Dxt"
+],
+"uid":"1537790187",
+"parent":"ztiQFxypy",
+"text":"",
+"mid":"ztjUYanok",
+"date":"2013-04-22 13:42:49"
+},
+{
+"kids":[
+"zuLiTbgNI"
+],
+"uid":"1014457194",
+"parent":"",
+"text":"",
+"mid":"ztjToBvvo",
+"date":"2013-04-22 13:38:59"
+},
+{
+"kids":[],
+"uid":"1727495324",
+"parent":"ztj5v81QZ",
+"text":"",
+"mid":"ztjTiqHga",
+"date":"2013-04-22 13:38:42"
+},
+{
+"kids":[],
+"uid":"2926725513",
+"parent":"",
+"text":"",
+"mid":"ztjT58Aq6",
+"date":"2013-04-22 13:38:12"
+},
+{
+"kids":[
+"ztjV73JxD"
+],
+"uid":"1499098964",
+"parent":"",
+"text":"",
+"mid":"ztjRWuIUK",
+"date":"2013-04-22 13:35:24"
+},
+{
+"kids":[
+"ztjVoqQx2"
+],
+"uid":"2988210285",
+"parent":"ztjq26QWf",
+"text":"",
+"mid":"ztjP42xb0",
+"date":"2013-04-22 13:28:17"
+},
+{
+"kids":[],
+"uid":"1862268133",
+"parent":"ztjokDIoe",
+"text":"",
+"mid":"ztjOEDJFy",
+"date":"2013-04-22 13:27:18"
+},
+{
+"kids":[],
+"uid":"2734201002",
+"parent":"ztjaXrtcK",
+"text":"狗改不了吃屎@无规矩难成方圆: 这样发国难财的，算不算乌龟王八蛋？",
+"mid":"ztjNIsfj0",
+"date":"2013-04-22 13:24:57"
+},
+{
+"kids":[],
+"uid":"2442589625",
+"parent":"",
+"text":"你小心点",
+"mid":"ztjKc2vum",
+"date":"2013-04-22 13:16:17"
+},
+{
+"kids":[
+"zuLqVEJfv",
+"zuLqVonuc"
+],
+"uid":"1403982605",
+"parent":"",
+"text":"",
+"mid":"ztjK8dnLj",
+"date":"2013-04-22 13:16:08"
+},
+{
+"kids":[],
+"uid":"1957697362",
+"parent":"ztjA75Y3h",
+"text":"",
+"mid":"ztjIY7YAO",
+"date":"2013-04-22 13:13:17"
+},
+{
+"kids":[],
+"uid":"wlzhzjq",
+"parent":"ztj9Ex21x",
+"text":"",
+"mid":"ztjIL7LJL",
+"date":"2013-04-22 13:12:46"
+},
+{
+"kids":[],
+"uid":"1791500597",
+"parent":"ztjlQFp4m",
+"text":"",
+"mid":"ztjId7MI2",
+"date":"2013-04-22 13:11:25"
+},
+{
+"kids":[],
+"uid":"2830533582",
+"parent":"ztjw6htCW",
+"text":"红十字会又在趁火打劫了。",
+"mid":"ztjI09tm8",
+"date":"2013-04-22 13:10:53"
+},
+{
+"kids":[],
+"uid":"2266767492",
+"parent":"",
+"text":"",
+"mid":"ztjHllIF7",
+"date":"2013-04-22 13:09:17"
+},
+{
+"kids":[],
+"uid":"2029130695",
+"parent":"ztjvA3tfi",
+"text":"保护好举报人",
+"mid":"ztjGv5xWz",
+"date":"2013-04-22 13:07:12"
+},
+{
+"kids":[],
+"uid":"1747141112",
+"parent":"",
+"text":"",
+"mid":"ztjFhnLad",
+"date":"2013-04-22 13:04:12"
+},
+{
+"kids":[],
+"uid":"softflower",
+"parent":"",
+"text":"",
+"mid":"ztjFalyP8",
+"date":"2013-04-22 13:03:55"
+},
+{
+"kids":[],
+"uid":"xzaifeng",
+"parent":"ztizEl328",
+"text":"公信力迈入坟墓之日即是民心尽失之时。",
+"mid":"ztjF8fP9g",
+"date":"2013-04-22 13:03:50"
+},
+{
+"kids":[],
+"uid":"1618482710",
+"parent":"ztjCI8flT",
+"text":"[挖鼻屎]",
+"mid":"ztjEfzcoi",
+"date":"2013-04-22 13:01:40"
+},
+{
+"kids":[],
+"uid":"2237305364",
+"parent":"ztjoPDPiB",
+"text":"我觉得这个新闻真实性有待考证。",
+"mid":"ztjE6qI3G",
+"date":"2013-04-22 13:01:17"
+},
+{
+"kids":[],
+"uid":"3215739483",
+"parent":"ztjlXcUDl",
+"text":"慈善怎么能这样做[怒][囧][鄙视][围观]",
+"mid":"ztjDCfDA9",
+"date":"2013-04-22 13:00:05"
+},
+{
+"kids":[],
+"uid":"3290250422",
+"parent":"",
+"text":"",
+"mid":"ztjCQn9rI",
+"date":"2013-04-22 12:58:12"
+},
+{
+"kids":[
+"ztjEfzcoi"
+],
+"uid":"020318landy",
+"parent":"ztjwOzyMj",
+"text":"泼脏水给红会真是不遗余力啊[挖鼻屎]",
+"mid":"ztjCI8flT",
+"date":"2013-04-22 12:57:52"
+},
+{
+"kids":[],
+"uid":"lemon507",
+"parent":"",
+"text":"[围观][围观]",
+"mid":"ztjCna3po",
+"date":"2013-04-22 12:57:02"
+},
+{
+"kids":[],
+"uid":"2108862891",
+"parent":"ztjlQFp4m",
+"text":"造谣可耻。",
+"mid":"ztjBX8FhA",
+"date":"2013-04-22 12:56:00"
+},
+{
+"kids":[],
+"uid":"1858886832",
+"parent":"",
+"text":"這麼快就不實了?!  呵呵",
+"mid":"ztjBFp1O6",
+"date":"2013-04-22 12:55:18"
+},
+{
+"kids":[],
+"uid":"1904662397",
+"parent":"",
+"text":"究竟是谁造谣呢",
+"mid":"ztjAMaxXS",
+"date":"2013-04-22 12:53:07"
+},
+{
+"kids":[
+"ztjIY7YAO"
+],
+"uid":"2317387275",
+"parent":"ztj3tzkTh",
+"text":"",
+"mid":"ztjA75Y3h",
+"date":"2013-04-22 12:51:28"
+},
+{
+"kids":[],
+"uid":"271100387",
+"parent":"",
+"text":"((‵□′)) 怒转！",
+"mid":"ztjA1cAsy",
+"date":"2013-04-22 12:51:15"
+},
+{
+"kids":[],
+"uid":"light00",
+"parent":"",
+"text":"日尼玛!!!!",
+"mid":"ztjzX4XJG",
+"date":"2013-04-22 12:51:04"
+},
+{
+"kids":[],
+"uid":"sylvialiu0820",
+"parent":"ztjcQvvh0",
+"text":"真假？",
+"mid":"ztjzF3jLE",
+"date":"2013-04-22 12:50:19"
+},
+{
+"kids":[],
+"uid":"3106429013",
+"parent":"",
+"text":"又有灾难了，也又到中国红十字会的贪倌们发财的时候了。千万不能捐款给共产党控制的各种红会捐钱呐，个人琢磨捐给他们相于行贿，是对灾区人民犯罪。愿意捐的应捐给民间口碑好的公益组织才能把钱用在灾区人民身上。",
+"mid":"ztjyJ4Okh",
+"date":"2013-04-22 12:48:03"
+},
+{
+"kids":[],
+"uid":"1919966273",
+"parent":"",
+"text":"说说怎么不实了",
+"mid":"ztjyz1YFI",
+"date":"2013-04-22 12:47:38"
+},
+{
+"kids":[],
+"uid":"3017120153",
+"parent":"ztjmWEh7B",
+"text":"",
+"mid":"ztjyrEN7o",
+"date":"2013-04-22 12:47:20"
+},
+{
+"kids":[],
+"uid":"fangcore",
+"parent":"",
+"text":"＂嘿嘿，又一个小香到手＂",
+"mid":"ztjye736t",
+"date":"2013-04-22 12:46:49"
+},
+{
+"kids":[],
+"uid":"oceanfat",
+"parent":"",
+"text":"不实~",
+"mid":"ztjxIbWYv",
+"date":"2013-04-22 12:45:33"
+},
+{
+"kids":[],
+"uid":"1664520851",
+"parent":"ztjsmksf4",
+"text":"",
+"mid":"ztjxynX6i",
+"date":"2013-04-22 12:45:10"
+},
+{
+"kids":[],
+"uid":"3206868324",
+"parent":"ztjmRCQsT",
+"text":"",
+"mid":"ztjwWgHEy",
+"date":"2013-04-22 12:43:38"
+},
+{
+"kids":[],
+"uid":"2177198277",
+"parent":"",
+"text":"",
+"mid":"ztjwVF3Xi",
+"date":"2013-04-22 12:43:37"
+},
+{
+"kids":[
+"ztjCI8flT"
+],
+"uid":"1910095425",
+"parent":"ztjmxvlos",
+"text":"",
+"mid":"ztjwOzyMj",
+"date":"2013-04-22 12:43:21"
+},
+{
+"kids":[],
+"uid":"2871207994",
+"parent":"ztjvA3tfi",
+"text":"一群发国难财的畜生！",
+"mid":"ztjwqFe0l",
+"date":"2013-04-22 12:42:24"
+},
+{
+"kids":[
+"zu0vByN3b",
+"ztSiJ1MFC",
+"ztSiJ0wpk"
+],
+"uid":"2211956491",
+"parent":"",
+"text":"",
+"mid":"ztjwbAV0K",
+"date":"2013-04-22 12:41:48"
+},
+{
+"kids":[],
+"uid":"2020477491",
+"parent":"ztjt5wtNk",
+"text":"求证！[酷]",
+"mid":"ztjwaa9nh",
+"date":"2013-04-22 12:41:42"
+},
+{
+"kids":[],
+"uid":"1749945570",
+"parent":"ztjqIoCyW",
+"text":"我琢磨着像这帮乌龟王八蛋的套路[酷]",
+"mid":"ztjw7sjZ0",
+"date":"2013-04-22 12:41:38"
+},
+{
+"kids":[
+"ztjI09tm8"
+],
+"uid":"2811917715",
+"parent":"",
+"text":"败类！",
+"mid":"ztjw6htCW",
+"date":"2013-04-22 12:41:34"
+},
+{
+"kids":[],
+"uid":"2031450553",
+"parent":"ztjhR5pDX",
+"text":"我希望是不实信息，而且造谣得给个说法不是？",
+"mid":"ztjvX7T5w",
+"date":"2013-04-22 12:41:13"
+},
+{
+"kids":[
+"ztjGv5xWz",
+"ztjwqFe0l"
+],
+"uid":"2627477055",
+"parent":"",
+"text":"红会还嫌不够丢人么，又是郭美美又是王部长你们到底算个什么组织啊。。@中国红十字会",
+"mid":"ztjvA3tfi",
+"date":"2013-04-22 12:40:19"
+},
+{
+"kids":[
+"ztkqAcitZ"
+],
+"uid":"3118531003",
+"parent":"ztj2BbfSE",
+"text":"博猪所说，已被新浪认证为假信息了[哈哈]",
+"mid":"ztjvvjEJe",
+"date":"2013-04-22 12:40:07"
+},
+{
+"kids":[],
+"uid":"2297408370",
+"parent":"ztjmxvlos",
+"text":"",
+"mid":"ztjuEqREW",
+"date":"2013-04-22 12:38:01"
+},
+{
+"kids":[],
+"uid":"2660406823",
+"parent":"ztj0bnOsp",
+"text":"",
+"mid":"ztjuwbZoR",
+"date":"2013-04-22 12:37:41"
+},
+{
+"kids":[],
+"uid":"1703993394",
+"parent":"ztjpLg7Et",
+"text":"",
+"mid":"ztjuu6qR9",
+"date":"2013-04-22 12:37:35"
+},
+{
+"kids":[
+"ztko510W8"
+],
+"uid":"2024648727",
+"parent":"ztjqaqygT",
+"text":"",
+"mid":"ztjuleKUU",
+"date":"2013-04-22 12:37:15"
+},
+{
+"kids":[],
+"uid":"1036018887",
+"parent":"ztjpLg7Et",
+"text":"不信谣，不传谣",
+"mid":"ztjtSh6fA",
+"date":"2013-04-22 12:36:06"
+},
+{
+"kids":[],
+"uid":"278004489",
+"parent":"ztjaXrtcK",
+"text":"一再出现和地震有关谣言！我不得不愤怒的说一句：造谣死全家！",
+"mid":"ztjtRpYIG",
+"date":"2013-04-22 12:36:04"
+},
+{
+"kids":[],
+"uid":"1848011581",
+"parent":"ztj88fEdp",
+"text":"",
+"mid":"ztjtE5MED",
+"date":"2013-04-22 12:35:31"
+},
+{
+"kids":[],
+"uid":"2797895465",
+"parent":"ztjpgxo4M",
+"text":"",
+"mid":"ztjtDeVfF",
+"date":"2013-04-22 12:35:29"
+},
+{
+"kids":[],
+"uid":"2969004404",
+"parent":"ztj66m17K",
+"text":"终于得到证实，目前，中江县检察院已将这一网上发布谣言事件移交县公安局展开调查。",
+"mid":"ztjto8iow",
+"date":"2013-04-22 12:34:53"
+},
+{
+"kids":[
+"ztlcuaxPq"
+],
+"uid":"1667528643",
+"parent":"ztjpLg7Et",
+"text":"",
+"mid":"ztjt7kqA6",
+"date":"2013-04-22 12:34:14"
+},
+{
+"kids":[
+"ztjwaa9nh"
+],
+"uid":"1213839685",
+"parent":"ztjsmksf4",
+"text":"我看是红会又花了五万公关费。",
+"mid":"ztjt5wtNk",
+"date":"2013-04-22 12:34:09"
+},
+{
+"kids":[],
+"uid":"babysbaby",
+"parent":"",
+"text":"虽然红会是让人不齿，但拿N年前的事来冒充当下的事混淆视听也高尚不到哪里去",
+"mid":"ztjsP0AVq",
+"date":"2013-04-22 12:33:29"
+},
+{
+"kids":[],
+"uid":"2827455930",
+"parent":"ztjnVtDGk",
+"text":"就算对红十字不认同，但也没必要蓄意摸黑[睡觉]",
+"mid":"ztjspB5Jw",
+"date":"2013-04-22 12:32:30"
+},
+{
+"kids":[
+"ztjxynX6i",
+"ztjt5wtNk"
+],
+"uid":"2020477491",
+"parent":"ztjr35Zso",
+"text":"内容不实？",
+"mid":"ztjsmksf4",
+"date":"2013-04-22 12:32:21"
+},
+{
+"kids":[],
+"uid":"lwzcrup",
+"parent":"ztjmRCQsT",
+"text":"",
+"mid":"ztjselGf9",
+"date":"2013-04-22 12:32:03"
+},
+{
+"kids":[],
+"uid":"2609343117",
+"parent":"ztjjGg1XD",
+"text":"我觉得是虚假信息 这个时候他们是不敢这样做的",
+"mid":"ztjscjhLV",
+"date":"2013-04-22 12:31:56"
+},
+{
+"kids":[],
+"uid":"1750315313",
+"parent":"ztjbMiB7F",
+"text":"解释了就相信你清白[偷乐]",
+"mid":"ztjr8mzRt",
+"date":"2013-04-22 12:29:21"
+},
+{
+"kids":[],
+"uid":"2605887734",
+"parent":"ztj0TpQNz",
+"text":"@媣稥 @戴旭 以上两个最近十分活跃的跳梁，这对狼犲驴毛最近替红虱子说了不少好话。但我们处理此类信息要小心，严防钓鱼。",
+"mid":"ztjr3la48",
+"date":"2013-04-22 12:29:09"
+},
+{
+"kids":[
+"ztjsmksf4"
+],
+"uid":"1213839685",
+"parent":"ztjlDpUfj",
+"text":"@江苏东方之子:[话筒][话筒]",
+"mid":"ztjr35Zso",
+"date":"2013-04-22 12:29:08"
+},
+{
+"kids":[],
+"uid":"2924834401",
+"parent":"",
+"text":"",
+"mid":"ztjr0833c",
+"date":"2013-04-22 12:29:01"
+},
+{
+"kids":[
+"ztjw7sjZ0"
+],
+"uid":"sanrenxieyi",
+"parent":"ztj2i14Gj",
+"text":"@中国红十字会总会 @中国红十字会社会监督委员会 真假都要给大家个说法吧",
+"mid":"ztjqIoCyW",
+"date":"2013-04-22 12:28:19"
+},
+{
+"kids":[],
+"uid":"1963675925",
+"parent":"ztjnG7Nly",
+"text":"要調查",
+"mid":"ztjqEgr3N",
+"date":"2013-04-22 12:28:09"
+},
+{
+"kids":[
+"zwOU4DqqX",
+"zwCIryTVL",
+"zwCIrxKi1",
+"zvR58FwcP",
+"zvGCvoAqN",
+"zvGCvn18F",
+"zulpN5Qg2",
+"zu9qIkrdy",
+"zu9qI2avG",
+"ztotMDz83"
+],
+"uid":"2149769452",
+"parent":"",
+"text":"",
+"mid":"ztjqj0XQu",
+"date":"2013-04-22 12:27:18"
+},
+{
+"kids":[],
+"uid":"2571576381",
+"parent":"",
+"text":"",
+"mid":"ztjqedLGm",
+"date":"2013-04-22 12:27:07"
+},
+{
+"kids":[
+"ztjuleKUU"
+],
+"uid":"345852187",
+"parent":"ztjpgxo4M",
+"text":"官方辟谣了，更要转了",
+"mid":"ztjqaqygT",
+"date":"2013-04-22 12:26:58"
+},
+{
+"kids":[],
+"uid":"2757197757",
+"parent":"ztjlDpUfj",
+"text":"公开审判！拒绝捐款红会",
+"mid":"ztjq9ufrg",
+"date":"2013-04-22 12:26:55"
+},
+{
+"kids":[
+"ztjP42xb0"
+],
+"uid":"2070701937",
+"parent":"",
+"text":"",
+"mid":"ztjq26QWf",
+"date":"2013-04-22 12:26:37"
+},
+{
+"kids":[],
+"uid":"2522012263",
+"parent":"ztjoX4uux",
+"text":"曝光，严查，积点德吧",
+"mid":"ztjpYBcxA",
+"date":"2013-04-22 12:26:29"
+},
+{
+"kids":[],
+"uid":"2028539901",
+"parent":"ztj2n02dn",
+"text":"食血红十字会",
+"mid":"ztjpX8KHf",
+"date":"2013-04-22 12:26:25"
+},
+{
+"kids":[
+"ztjuu6qR9",
+"ztjtSh6fA",
+"ztjt7kqA6"
+],
+"uid":"2173864957",
+"parent":"ztjmRCQsT",
+"text":"",
+"mid":"ztjpLg7Et",
+"date":"2013-04-22 12:25:56"
+},
+{
+"kids":[],
+"uid":"1299571081",
+"parent":"",
+"text":"不错哟，还真买药啊",
+"mid":"ztjpGggne",
+"date":"2013-04-22 12:25:46"
+},
+{
+"kids":[],
+"uid":"176160828",
+"parent":"ztjb5ryY2",
+"text":"",
+"mid":"ztjpA55ph",
+"date":"2013-04-22 12:25:30"
+},
+{
+"kids":[],
+"uid":"3135718085",
+"parent":"ztjlQFp4m",
+"text":"[哼][哼][哼]",
+"mid":"ztjpA3QAL",
+"date":"2013-04-22 12:25:31"
+},
+{
+"kids":[],
+"uid":"2020477491",
+"parent":"ztjnTpynq",
+"text":"",
+"mid":"ztjpn5uxo",
+"date":"2013-04-22 12:24:59"
+},
+{
+"kids":[],
+"uid":"1961683381",
+"parent":"ztjhelx0C",
+"text":"",
+"mid":"ztjpkmz7h",
+"date":"2013-04-22 12:24:53"
+},
+{
+"kids":[],
+"uid":"2938502005",
+"parent":"ztjlQFp4m",
+"text":"",
+"mid":"ztjpiA50v",
+"date":"2013-04-22 12:24:50"
+},
+{
+"kids":[
+"ztjtDeVfF",
+"ztjqaqygT"
+],
+"uid":"1894853784",
+"parent":"ztjls9YBM",
+"text":"[怒]",
+"mid":"ztjpgxo4M",
+"date":"2013-04-22 12:24:45"
+},
+{
+"kids":[],
+"uid":"3198066180",
+"parent":"ztjlQFp4m",
+"text":"怎么总有人唯恐天下不乱呢",
+"mid":"ztjp2o8ay",
+"date":"2013-04-22 12:24:10"
+},
+{
+"kids":[],
+"uid":"2020477491",
+"parent":"ztjnZFR3Z",
+"text":"",
+"mid":"ztjp0BDAP",
+"date":"2013-04-22 12:24:05"
+},
+{
+"kids":[
+"ztjpYBcxA"
+],
+"uid":"2933187403",
+"parent":"",
+"text":"@溪客炊烟   狗日的，发国难财，转起。狗日的江中红十字会[][最差][最差][最差]",
+"mid":"ztjoX4uux",
+"date":"2013-04-22 12:23:57"
+},
+{
+"kids":[
+"ztjE6qI3G"
+],
+"uid":"quqinggang",
+"parent":"ztjlDpUfj",
+"text":"毫无人性的怎么都混到官员队伍里了呢？",
+"mid":"ztjoPDPiB",
+"date":"2013-04-22 12:23:39"
+},
+{
+"kids":[],
+"uid":"liutingyemen",
+"parent":"ztjlQFp4m",
+"text":"",
+"mid":"ztjoBbe5j",
+"date":"2013-04-22 12:23:04"
+},
+{
+"kids":[],
+"uid":"1997434963",
+"parent":"",
+"text":"没删除，看来是真的。",
+"mid":"ztjounkhS",
+"date":"2013-04-22 12:22:50"
+},
+{
+"kids":[
+"ztjOEDJFy"
+],
+"uid":"1295588141",
+"parent":"ztjkWdDaz",
+"text":"",
+"mid":"ztjokDIoe",
+"date":"2013-04-22 12:22:27"
+},
+{
+"kids":[],
+"uid":"2992102233",
+"parent":"ztjlQFp4m",
+"text":"",
+"mid":"ztjoj8gqG",
+"date":"2013-04-22 12:22:21"
+},
+{
+"kids":[],
+"uid":"334545990",
+"parent":"ztjnz3Gwn",
+"text":"因为你们这些败类，现在社会才有了那么多猜忌[哼][哼][哼]",
+"mid":"ztjohoarf",
+"date":"2013-04-22 12:22:19"
+},
+{
+"kids":[],
+"uid":"1935348952",
+"parent":"",
+"text":"",
+"mid":"ztjoh8h77",
+"date":"2013-04-22 12:22:19"
+},
+{
+"kids":[
+"ztjp0BDAP"
+],
+"uid":"2197605562",
+"parent":"ztjlDpUfj",
+"text":"",
+"mid":"ztjnZFR3Z",
+"date":"2013-04-22 12:21:35"
+},
+{
+"kids":[
+"ztjspB5Jw"
+],
+"uid":"2262365063",
+"parent":"ztjarxR5U",
+"text":"不是已经辟谣过了，怎么又开始了！",
+"mid":"ztjnVtDGk",
+"date":"2013-04-22 12:21:27"
+},
+{
+"kids":[],
+"uid":"1743422791",
+"parent":"ztjhjlzL8",
+"text":"",
+"mid":"ztjnUBMNs",
+"date":"2013-04-22 12:21:23"
+},
+{
+"kids":[
+"ztjpn5uxo"
+],
+"uid":"1888732317",
+"parent":"ztjl0FdU6",
+"text":"杀/@天网20102080915767:",
+"mid":"ztjnTpynq",
+"date":"2013-04-22 12:21:22"
+},
+{
+"kids":[],
+"uid":"1689582467",
+"parent":"ztjls9YBM",
+"text":"红会你太恶心人了",
+"mid":"ztjnSAkXn",
+"date":"2013-04-22 12:21:21"
+},
+{
+"kids":[],
+"uid":"ted123",
+"parent":"",
+"text":"[怒]",
+"mid":"ztjnPmU5q",
+"date":"2013-04-22 12:21:10"
+},
+{
+"kids":[
+"ztjqEgr3N"
+],
+"uid":"2259751992",
+"parent":"",
+"text":"",
+"mid":"ztjnG7Nly",
+"date":"2013-04-22 12:20:50"
+},
+{
+"kids":[],
+"uid":"2638202170",
+"parent":"",
+"text":"",
+"mid":"ztjnAewMv",
+"date":"2013-04-22 12:20:35"
+},
+{
+"kids":[
+"ztjohoarf"
+],
+"uid":"334545990",
+"parent":"",
+"text":"。。。贱人们",
+"mid":"ztjnz3Gwn",
+"date":"2013-04-22 12:20:32"
+},
+{
+"kids":[],
+"uid":"1210360113",
+"parent":"ztjlQFp4m",
+"text":"",
+"mid":"ztjnu37X2",
+"date":"2013-04-22 12:20:21"
+},
+{
+"kids":[],
+"uid":"1398143177",
+"parent":"ztjmWEh7B",
+"text":"pr:",
+"mid":"ztjnr4WkQ",
+"date":"2013-04-22 12:20:13"
+},
+{
+"kids":[],
+"uid":"1815485971",
+"parent":"ztjgCgS59",
+"text":"",
+"mid":"ztjno8rTZ",
+"date":"2013-04-22 12:20:08"
+},
+{
+"kids":[],
+"uid":"2910521025",
+"parent":"ztj2n02dn",
+"text":"",
+"mid":"ztjno7BXs",
+"date":"2013-04-22 12:20:05"
+},
+{
+"kids":[],
+"uid":"fufu123456",
+"parent":"ztj9KqjSZ",
+"text":"[围观]",
+"mid":"ztjnhDQiF",
+"date":"2013-04-22 12:19:51"
+},
+{
+"kids":[
+"ztjyrEN7o",
+"ztjnr4WkQ"
+],
+"uid":"kaitomaster",
+"parent":"ztjm36Y7p",
+"text":"",
+"mid":"ztjmWEh7B",
+"date":"2013-04-22 12:19:01"
+},
+{
+"kids":[
+"ztjwWgHEy",
+"ztjselGf9",
+"ztjpLg7Et"
+],
+"uid":"1287729031",
+"parent":"ztjkewLIU",
+"text":"删了我再转！",
+"mid":"ztjmRCQsT",
+"date":"2013-04-22 12:18:48"
+},
+{
+"kids":[
+"ztjwOzyMj",
+"ztjuEqREW"
+],
+"uid":"818521726",
+"parent":"ztjlQFp4m",
+"text":"这样造谣成风我反而以后就捐红会了",
+"mid":"ztjmxvlos",
+"date":"2013-04-22 12:18:02"
+},
+{
+"kids":[],
+"uid":"2251770677",
+"parent":"",
+"text":"",
+"mid":"ztjmwkvaz",
+"date":"2013-04-22 12:17:57"
+},
+{
+"kids":[
+"ztjmWEh7B"
+],
+"uid":"1784737844",
+"parent":"",
+"text":"麻批",
+"mid":"ztjm36Y7p",
+"date":"2013-04-22 12:16:48"
+},
+{
+"kids":[
+"ztjDCfDA9"
+],
+"uid":"208083776",
+"parent":"ztjls9YBM",
+"text":"[围观]",
+"mid":"ztjlXcUDl",
+"date":"2013-04-22 12:16:35"
+},
+{
+"kids":[],
+"uid":"guaixiaojin",
+"parent":"ztj0tmYZi",
+"text":"",
+"mid":"ztjlT2994",
+"date":"2013-04-22 12:16:24"
+},
+{
+"kids":[
+"ztjWZ80zf",
+"ztjId7MI2",
+"ztjBX8FhA",
+"ztjpA3QAL",
+"ztjpiA50v",
+"ztjp2o8ay",
+"ztjoBbe5j",
+"ztjoj8gqG",
+"ztjnu37X2",
+"ztjmxvlos"
+],
+"uid":"qdgafbt",
+"parent":"",
+"text":"此系2008年5月网传消息，四川省中江县检察院当时即已查明系谣传，详见检察日报相关报道http:",
+"mid":"ztjlQFp4m",
+"date":"2013-04-22 12:16:19"
+},
+{
+"kids":[
+"ztjr35Zso",
+"ztjq9ufrg",
+"ztjoPDPiB",
+"ztjnZFR3Z"
+],
+"uid":"2020477491",
+"parent":"ztjkLkrd0",
+"text":"[话筒][话筒]",
+"mid":"ztjlDpUfj",
+"date":"2013-04-22 12:15:47"
+},
+{
+"kids":[
+"ztjpgxo4M",
+"ztjnSAkXn",
+"ztjlXcUDl"
+],
+"uid":"345852187",
+"parent":"ztjkewLIU",
+"text":"这个帖不能沉，",
+"mid":"ztjls9YBM",
+"date":"2013-04-22 12:15:20"
+},
+{
+"kids":[],
+"uid":"eugaghang",
+"parent":"",
+"text":"",
+"mid":"ztjlhu7PG",
+"date":"2013-04-22 12:14:56"
+},
+{
+"kids":[],
+"uid":"2251196374",
+"parent":"ztjih3jZC",
+"text":"tmd一群败类",
+"mid":"ztjl7sGlC",
+"date":"2013-04-22 12:14:32"
+},
+{
+"kids":[
+"ztjnTpynq"
+],
+"uid":"2020477491",
+"parent":"ztjkbhPz5",
+"text":"[话筒][话筒]",
+"mid":"ztjl0FdU6",
+"date":"2013-04-22 12:14:16"
+},
+{
+"kids":[
+"ztjokDIoe"
+],
+"uid":"2599318622",
+"parent":"",
+"text":"狗，永远该笔了吃屎，发灾难财，这群狼心狗肺的强盗轻车熟路[怒]",
+"mid":"ztjkWdDaz",
+"date":"2013-04-22 12:14:05"
+},
+{
+"kids":[],
+"uid":"1959893191",
+"parent":"ztjkrbUIZ",
+"text":"@大河报 @碧血剑178 @央视新闻 @中国之声",
+"mid":"ztjkLC2Dr",
+"date":"2013-04-22 12:13:40"
+},
+{
+"kids":[
+"ztjlDpUfj"
+],
+"uid":"2417593322",
+"parent":"ztjjHF9Z5",
+"text":"[怒]",
+"mid":"ztjkLkrd0",
+"date":"2013-04-22 12:13:37"
+},
+{
+"kids":[],
+"uid":"1764713627",
+"parent":"ztjjIzMoy",
+"text":"",
+"mid":"ztjkJwsxU",
+"date":"2013-04-22 12:13:33"
+},
+{
+"kids":[],
+"uid":"loolishing",
+"parent":"ztjbo4M6A",
+"text":"",
+"mid":"ztjkEtFnJ",
+"date":"2013-04-22 12:13:23"
+},
+{
+"kids":[],
+"uid":"2079579537",
+"parent":"",
+"text":"红会你到底要闹哪样",
+"mid":"ztjku9f2G",
+"date":"2013-04-22 12:12:58"
+},
+{
+"kids":[],
+"uid":"2020477491",
+"parent":"ztjjHF9Z5",
+"text":"[话筒][话筒]",
+"mid":"ztjktAquH",
+"date":"2013-04-22 12:12:56"
+},
+{
+"kids":[
+"ztjkLC2Dr"
+],
+"uid":"2092744567",
+"parent":"ztj5l5ctU",
+"text":"",
+"mid":"ztjkrbUIZ",
+"date":"2013-04-22 12:12:50"
+},
+{
+"kids":[
+"ztjWgfqbz",
+"ztjmRCQsT",
+"ztjls9YBM"
+],
+"uid":"ditiewuqiang",
+"parent":"ztjjGg1XD",
+"text":"一定是临时工干的！",
+"mid":"ztjkewLIU",
+"date":"2013-04-22 12:12:20"
+},
+{
+"kids":[
+"ztjl0FdU6"
+],
+"uid":"xingyanyi",
+"parent":"ztjjHF9Z5",
+"text":"",
+"mid":"ztjkbhPz5",
+"date":"2013-04-22 12:12:13"
+},
+{
+"kids":[],
+"uid":"2626936881",
+"parent":"",
+"text":"",
+"mid":"ztjjZ7wEM",
+"date":"2013-04-22 12:11:44"
+},
+{
+"kids":[],
+"uid":"1960759270",
+"parent":"",
+"text":"这帮人的心都让狗吃了吧！",
+"mid":"ztjjWdydW",
+"date":"2013-04-22 12:11:37"
+},
+{
+"kids":[],
+"uid":"331222108",
+"parent":"ztj9v38ft",
+"text":"黑十拿着无知善良的人民最真诚的爱心去表达所谓的爱心 ，必须给弄死[怒]",
+"mid":"ztjjSCBET",
+"date":"2013-04-22 12:11:27"
+},
+{
+"kids":[],
+"uid":"2605624765",
+"parent":"ztj5dr4Se",
+"text":"抵制!",
+"mid":"ztjjJdmMj",
+"date":"2013-04-22 12:11:06"
+},
+{
+"kids":[
+"ztjkJwsxU"
+],
+"uid":"aurorastrategy",
+"parent":"ztjiHldY1",
+"text":"求辟谣",
+"mid":"ztjjIzMoy",
+"date":"2013-04-22 12:11:06"
+},
+{
+"kids":[
+"ztjkLkrd0",
+"ztjktAquH",
+"ztjkbhPz5"
+],
+"uid":"2020477491",
+"parent":"",
+"text":"子弟兵在流血流汗、抢险救人；红会的人却在挖空心思的贪污发横财。这种人渣留着何用？就地正法，以儆效尤！[拳头]",
+"mid":"ztjjHF9Z5",
+"date":"2013-04-22 12:11:02"
+},
+{
+"kids":[
+"ztjscjhLV",
+"ztjkewLIU"
+],
+"uid":"345852187",
+"parent":"ztj6sfBU3",
+"text":"原帖被浪蜜删了，回来再转一次",
+"mid":"ztjjGg1XD",
+"date":"2013-04-22 12:10:57"
+},
+{
+"kids":[],
+"uid":"2815661573",
+"parent":"ztj73r2NW",
+"text":"妹的，本来心情不好，看这个更火大",
+"mid":"ztjj8gh0K",
+"date":"2013-04-22 12:09:38"
+},
+{
+"kids":[],
+"uid":"neotheone",
+"parent":"ztjb61QYc",
+"text":"",
+"mid":"ztjj4otuy",
+"date":"2013-04-22 12:09:28"
+},
+{
+"kids":[],
+"uid":"2734887931",
+"parent":"ztjhzm20m",
+"text":"",
+"mid":"ztjiXkbet",
+"date":"2013-04-22 12:09:12"
+},
+{
+"kids":[],
+"uid":"annieluo0810",
+"parent":"ztjarxR5U",
+"text":"造谣一时爽 全家火葬场",
+"mid":"ztjiR9D9L",
+"date":"2013-04-22 12:08:57"
+},
+{
+"kids":[
+"ztjjIzMoy"
+],
+"uid":"1291883641",
+"parent":"",
+"text":"",
+"mid":"ztjiHldY1",
+"date":"2013-04-22 12:08:33"
+},
+{
+"kids":[],
+"uid":"love77but88more",
+"parent":"ztjigt2Mk",
+"text":"",
+"mid":"ztjiDdkqs",
+"date":"2013-04-22 12:08:24"
+},
+{
+"kids":[],
+"uid":"1229873173",
+"parent":"ztiYAmPpN",
+"text":"什么时候都会有坏人，要严查！",
+"mid":"ztjiBrZty",
+"date":"2013-04-22 12:08:20"
+},
+{
+"kids":[
+"ztjl7sGlC"
+],
+"uid":"clearlate",
+"parent":"",
+"text":"",
+"mid":"ztjih3jZC",
+"date":"2013-04-22 12:07:31"
+},
+{
+"kids":[
+"ztjiDdkqs"
+],
+"uid":"2111353467",
+"parent":"",
+"text":"求证！",
+"mid":"ztjigt2Mk",
+"date":"2013-04-22 12:07:29"
+},
+{
+"kids":[
+"ztjvX7T5w"
+],
+"uid":"1876755331",
+"parent":"ztjgb3aQi",
+"text":"",
+"mid":"ztjhR5pDX",
+"date":"2013-04-22 12:06:29"
+},
+{
+"kids":[
+"ztjiXkbet"
+],
+"uid":"2290762784",
+"parent":"ztjb61QYc",
+"text":"",
+"mid":"ztjhzm20m",
+"date":"2013-04-22 12:05:47"
+},
+{
+"kids":[],
+"uid":"2487902672",
+"parent":"",
+"text":"",
+"mid":"ztjhm1iNJ",
+"date":"2013-04-22 12:05:14"
+},
+{
+"kids":[
+"ztjnUBMNs"
+],
+"uid":"2620228551",
+"parent":"",
+"text":"",
+"mid":"ztjhjlzL8",
+"date":"2013-04-22 12:05:10"
+},
+{
+"kids":[
+"ztjpkmz7h"
+],
+"uid":"youxiudezhu",
+"parent":"ztjb61QYc",
+"text":"又来！！！[怒]",
+"mid":"ztjhelx0C",
+"date":"2013-04-22 12:04:56"
+},
+{
+"kids":[
+"ztjno8rTZ"
+],
+"uid":"2342377973",
+"parent":"",
+"text":"贪善款是真的要下地狱的，这话不是吓唬人的",
+"mid":"ztjgCgS59",
+"date":"2013-04-22 12:03:25"
+},
+{
+"kids":[],
+"uid":"2601843932",
+"parent":"",
+"text":"",
+"mid":"ztjgy8GWe",
+"date":"2013-04-22 12:03:16"
+},
+{
+"kids":[],
+"uid":"2556505711",
+"parent":"",
+"text":"",
+"mid":"ztjgtmkQs",
+"date":"2013-04-22 12:03:04"
+},
+{
+"kids":[],
+"uid":"yueyue128",
+"parent":"ztiFIeRhU",
+"text":"傻逼多的是",
+"mid":"ztjgqrwVd",
+"date":"2013-04-22 12:02:58"
+},
+{
+"kids":[
+"ztjhR5pDX"
+],
+"uid":"2031450553",
+"parent":"ztj88fEdp",
+"text":"",
+"mid":"ztjgb3aQi",
+"date":"2013-04-22 12:02:21"
+},
+{
+"kids":[],
+"uid":"318804111",
+"parent":"ztjdSAG8h",
+"text":"",
+"mid":"ztjg8DGo4",
+"date":"2013-04-22 12:02:16"
+},
+{
+"kids":[],
+"uid":"3177039360",
+"parent":"",
+"text":"把我笑死了",
+"mid":"ztjg4vvGE",
+"date":"2013-04-22 12:02:04"
+},
+{
+"kids":[],
+"uid":"1421946812",
+"parent":"",
+"text":"",
+"mid":"ztjfX9Mix",
+"date":"2013-04-22 12:01:48"
+},
+{
+"kids":[],
+"uid":"1782636943",
+"parent":"ztj5v81QZ",
+"text":"",
+"mid":"ztjfRf7Is",
+"date":"2013-04-22 12:01:34"
+},
+{
+"kids":[],
+"uid":"1737457195",
+"parent":"ztj8urDT7",
+"text":"[打哈气]这多正常，去看看汶川各级政府的办公楼和公车就行了",
+"mid":"ztjfMeo4S",
+"date":"2013-04-22 12:01:21"
+},
+{
+"kids":[],
+"uid":"2424818071",
+"parent":"ztjb5ryY2",
+"text":"求真相",
+"mid":"ztjfDlJ2e",
+"date":"2013-04-22 12:01:01"
+},
+{
+"kids":[],
+"uid":"tarryzh",
+"parent":"",
+"text":"",
+"mid":"ztjfBk1D1",
+"date":"2013-04-22 12:00:56"
+},
+{
+"kids":[],
+"uid":"ruc01",
+"parent":"",
+"text":"",
+"mid":"ztjfhvgUj",
+"date":"2013-04-22 12:00:09"
+},
+{
+"kids":[],
+"uid":"519722340",
+"parent":"",
+"text":"我给举报了，现在好多四川的事，真假难辨，所以我一条都不转发",
+"mid":"ztjeXnW5F",
+"date":"2013-04-22 11:59:19"
+},
+{
+"kids":[],
+"uid":"1981456334",
+"parent":"",
+"text":"什么都不想说",
+"mid":"ztjeMcv8c",
+"date":"2013-04-22 11:58:54"
+},
+{
+"kids":[],
+"uid":"1253729467",
+"parent":"ztj9v38ft",
+"text":"[弱].",
+"mid":"ztjeHuJaO",
+"date":"2013-04-22 11:58:41"
+},
+{
+"kids":[],
+"uid":"2702810654",
+"parent":"ztj9Ex21x",
+"text":"",
+"mid":"ztjeyj4qi",
+"date":"2013-04-22 11:58:21"
+},
+{
+"kids":[],
+"uid":"2083990957",
+"parent":"ztj41dH1K",
+"text":"",
+"mid":"ztjei3WkA",
+"date":"2013-04-22 11:57:40"
+},
+{
+"kids":[],
+"uid":"2636196737",
+"parent":"ztjde95Mh",
+"text":"坚决查处[愤怒]转",
+"mid":"ztjedhII3",
+"date":"2013-04-22 11:57:31"
+},
+{
+"kids":[
+"ztk986WgW"
+],
+"uid":"2683630081",
+"parent":"ztjb61QYc",
+"text":"真恶心！",
+"mid":"ztjeamMn5",
+"date":"2013-04-22 11:57:22"
+},
+{
+"kids":[],
+"uid":"1889083227",
+"parent":"ztj2k2HN1",
+"text":"人渣 贼心不改！！！[愤怒][愤怒]",
+"mid":"ztjdVgpeJ",
+"date":"2013-04-22 11:56:48"
+},
+{
+"kids":[
+"ztjg8DGo4"
+],
+"uid":"523486299",
+"parent":"",
+"text":"",
+"mid":"ztjdSAG8h",
+"date":"2013-04-22 11:56:42"
+},
+{
+"kids":[],
+"uid":"2179676265",
+"parent":"ztj9Ztd6G",
+"text":"",
+"mid":"ztjdKD2gk",
+"date":"2013-04-22 11:56:21"
+},
+{
+"kids":[],
+"uid":"2507389294",
+"parent":"ztj6Y81Zo",
+"text":"公布网友身份是为了方便被曝光人报复么？~突然想起前阵子看到的一则实名举报村委贪腐的夫妻两尸体在自家院内被发现的新闻~就是2B部门将实名举报人的真名公布在网上~实名举报不等于可以任意公开~傻X~",
+"mid":"ztjdyw7ps",
+"date":"2013-04-22 11:55:54"
+},
+{
+"kids":[],
+"uid":"1906928730",
+"parent":"",
+"text":"",
+"mid":"ztjdqeq3E",
+"date":"2013-04-22 11:55:34"
+},
+{
+"kids":[
+"ztjedhII3"
+],
+"uid":"3207443165",
+"parent":"",
+"text":"围观请求公安部查证",
+"mid":"ztjde95Mh",
+"date":"2013-04-22 11:55:03"
+},
+{
+"kids":[],
+"uid":"2709048780",
+"parent":"ztj6LtRt8",
+"text":"",
+"mid":"ztjd3bqQq",
+"date":"2013-04-22 11:54:38"
+},
+{
+"kids":[
+"ztjzF3jLE"
+],
+"uid":"577447098",
+"parent":"",
+"text":"",
+"mid":"ztjcQvvh0",
+"date":"2013-04-22 11:54:10"
+},
+{
+"kids":[],
+"uid":"2116589413",
+"parent":"ztj3Xn7yT",
+"text":"",
+"mid":"ztjcH4hXB",
+"date":"2013-04-22 11:53:45"
+},
+{
+"kids":[],
+"uid":"2349317333",
+"parent":"",
+"text":"",
+"mid":"ztjcs00qt",
+"date":"2013-04-22 11:53:10"
+},
+{
+"kids":[],
+"uid":"1948083430",
+"parent":"ztjc8tv28",
+"text":"表情不全，建议@新浪微博 加上",
+"mid":"ztjcr4ctU",
+"date":"2013-04-22 11:53:08"
+},
+{
+"kids":[],
+"uid":"himahome",
+"parent":"",
+"text":"这不仅是红会如此吧？？",
+"mid":"ztjc93Z0b",
+"date":"2013-04-22 11:52:25"
+},
+{
+"kids":[
+"ztjcr4ctU"
+],
+"uid":"1935773171",
+"parent":"ztj8a28jX",
+"text":"[怒][怒]",
+"mid":"ztjc8tv28",
+"date":"2013-04-22 11:52:23"
+},
+{
+"kids":[],
+"uid":"1937168121",
+"parent":"",
+"text":"",
+"mid":"ztjc5tEMV",
+"date":"2013-04-22 11:52:16"
+},
+{
+"kids":[],
+"uid":"2736884420",
+"parent":"",
+"text":"求核实！[怒]",
+"mid":"ztjc1mQ9h",
+"date":"2013-04-22 11:52:06"
+},
+{
+"kids":[
+"ztjr8mzRt"
+],
+"uid":"1401862410",
+"parent":"ztjb61QYc",
+"text":"求辟谣",
+"mid":"ztjbMiB7F",
+"date":"2013-04-22 11:51:31"
+},
+{
+"kids":[],
+"uid":"2735749435",
+"parent":"",
+"text":"我刚捐给红会2 块。。。。",
+"mid":"ztjbMhfdV",
+"date":"2013-04-22 11:51:30"
+},
+{
+"kids":[],
+"uid":"simonxxf",
+"parent":"",
+"text":"",
+"mid":"ztjbArVTy",
+"date":"2013-04-22 11:51:03"
+},
+{
+"kids":[],
+"uid":"2290234664",
+"parent":"",
+"text":"",
+"mid":"ztjbpioRV",
+"date":"2013-04-22 11:50:36"
+},
+{
+"kids":[
+"ztjkEtFnJ"
+],
+"uid":"1282160683",
+"parent":"ztj0XyKRh",
+"text":"这个我觉得有关部门要落实，既然实名应该不难。",
+"mid":"ztjbo4M6A",
+"date":"2013-04-22 11:50:34"
+},
+{
+"kids":[
+"ztjj4otuy",
+"ztjhzm20m",
+"ztjhelx0C",
+"ztjeamMn5",
+"ztjbMiB7F"
+],
+"uid":"1621952483",
+"parent":"",
+"text":"",
+"mid":"ztjb61QYc",
+"date":"2013-04-22 11:49:50"
+},
+{
+"kids":[
+"ztjpA55ph",
+"ztjfDlJ2e"
+],
+"uid":"1808756403",
+"parent":"ztj4VFpLV",
+"text":"真的假的啊。求真相。",
+"mid":"ztjb5ryY2",
+"date":"2013-04-22 11:49:49"
+},
+{
+"kids":[],
+"uid":"2405741555",
+"parent":"ztj9Ex21x",
+"text":"有这好事？顺藤摸瓜呀！",
+"mid":"ztjb58BTj",
+"date":"2013-04-22 11:49:48"
+},
+{
+"kids":[],
+"uid":"2627446197",
+"parent":"",
+"text":"",
+"mid":"ztjb1zDMa",
+"date":"2013-04-22 11:49:40"
+},
+{
+"kids":[
+"zuKrCsvvm"
+],
+"uid":"3034131231",
+"parent":"ztiXM9KEA",
+"text":"[弱]",
+"mid":"ztjb14v6a",
+"date":"2013-04-22 11:49:38"
+},
+{
+"kids":[
+"ztjNIsfj0",
+"ztjtRpYIG"
+],
+"uid":"2154925121",
+"parent":"",
+"text":"",
+"mid":"ztjaXrtcK",
+"date":"2013-04-22 11:49:29"
+},
+{
+"kids":[],
+"uid":"1460864367",
+"parent":"",
+"text":"",
+"mid":"ztjaRz5vl",
+"date":"2013-04-22 11:49:14"
+},
+{
+"kids":[
+"ztjnVtDGk",
+"ztjiR9D9L"
+],
+"uid":"laoniushushu",
+"parent":"",
+"text":"造谣者删除辟谣的评论，博主也算是奇葩了……",
+"mid":"ztjarxR5U",
+"date":"2013-04-22 11:48:13"
+},
+{
+"kids":[],
+"uid":"2435679380",
+"parent":"",
+"text":"红虱子会名不虚传！",
+"mid":"ztjadpqix",
+"date":"2013-04-22 11:47:39"
+},
+{
+"kids":[
+"ztjdKD2gk"
+],
+"uid":"2161710491",
+"parent":"",
+"text":"右边没记错，绝对是汶川地震时候的事！而且当时这件事就不是真的，已经辟谣了，呵呵，这微博发出点儿负面消息就能博眼球",
+"mid":"ztj9Ztd6G",
+"date":"2013-04-22 11:47:06"
+},
+{
+"kids":[],
+"uid":"2946234064",
+"parent":"",
+"text":"",
+"mid":"ztj9WewZG",
+"date":"2013-04-22 11:47:00"
+},
+{
+"kids":[
+"ztjnhDQiF"
+],
+"uid":"1851225801",
+"parent":"",
+"text":"",
+"mid":"ztj9KqjSZ",
+"date":"2013-04-22 11:46:30"
+},
+{
+"kids":[],
+"uid":"122400324",
+"parent":"ztj73r2NW",
+"text":"[赞]",
+"mid":"ztj9Gi9fH",
+"date":"2013-04-22 11:46:21"
+},
+{
+"kids":[
+"ztjIL7LJL",
+"ztjeyj4qi",
+"ztjb58BTj"
+],
+"uid":"1028594760",
+"parent":"ztj2n02dn",
+"text":"@大雄说命理 @传统文化公益论坛 @马千里咨询 @陈业文新大都 @老聂谈战略 @讽刺批判语录",
+"mid":"ztj9Ex21x",
+"date":"2013-04-22 11:46:16"
+},
+{
+"kids":[],
+"uid":"2339037274",
+"parent":"",
+"text":"",
+"mid":"ztj9zcEi1",
+"date":"2013-04-22 11:46:04"
+},
+{
+"kids":[
+"ztjjSCBET",
+"ztjeHuJaO"
+],
+"uid":"2415422451",
+"parent":"ztj66m17K",
+"text":"",
+"mid":"ztj9v38ft",
+"date":"2013-04-22 11:45:54"
+},
+{
+"kids":[],
+"uid":"1148551747",
+"parent":"",
+"text":"",
+"mid":"ztj9tAVER",
+"date":"2013-04-22 11:45:51"
+},
+{
+"kids":[],
+"uid":"1904872622",
+"parent":"ztj221lW8",
+"text":"",
+"mid":"ztj9bwGd4",
+"date":"2013-04-22 11:45:08"
+},
+{
+"kids":[],
+"uid":"2592082753",
+"parent":"",
+"text":"",
+"mid":"ztj98zlXj",
+"date":"2013-04-22 11:45:02"
+},
+{
+"kids":[],
+"uid":"2428135495",
+"parent":"",
+"text":"真他妈的黑！",
+"mid":"ztj8UomcP",
+"date":"2013-04-22 11:44:27"
+},
+{
+"kids":[],
+"uid":"jixiangsunshine",
+"parent":"",
+"text":"他们可以消失了！",
+"mid":"ztj8U8Ezo",
+"date":"2013-04-22 11:44:26"
+},
+{
+"kids":[],
+"uid":"1621921544",
+"parent":"ztj66m17K",
+"text":"[怒][抓狂]",
+"mid":"ztj8PrV2Z",
+"date":"2013-04-22 11:44:13"
+},
+{
+"kids":[],
+"uid":"59xueshengka",
+"parent":"",
+"text":"",
+"mid":"ztj8K5Nif",
+"date":"2013-04-22 11:44:01"
+},
+{
+"kids":[],
+"uid":"210103687",
+"parent":"",
+"text":"同右→",
+"mid":"ztj8C5byd",
+"date":"2013-04-22 11:43:43"
+},
+{
+"kids":[
+"ztjfMeo4S"
+],
+"uid":"206660487",
+"parent":"",
+"text":"[怒]",
+"mid":"ztj8urDT7",
+"date":"2013-04-22 11:43:23"
+},
+{
+"kids":[],
+"uid":"210575767",
+"parent":"ztj66m17K",
+"text":"",
+"mid":"ztj8texPy",
+"date":"2013-04-22 11:43:22"
+},
+{
+"kids":[],
+"uid":"1519021412",
+"parent":"",
+"text":"这么wc?[怒]",
+"mid":"ztj8sByOw",
+"date":"2013-04-22 11:43:21"
+},
+{
+"kids":[],
+"uid":"1942287225",
+"parent":"",
+"text":"",
+"mid":"ztj8jc9Zq",
+"date":"2013-04-22 11:42:58"
+},
+{
+"kids":[],
+"uid":"2593236071",
+"parent":"",
+"text":"TMD!就不怕半夜有阴魂找你们这些傻逼吗？",
+"mid":"ztj8guEa3",
+"date":"2013-04-22 11:42:50"
+},
+{
+"kids":[
+"ztjc8tv28"
+],
+"uid":"1948083430",
+"parent":"",
+"text":"这里边的表情为什么没有粑粑",
+"mid":"ztj8a28jX",
+"date":"2013-04-22 11:42:37"
+},
+{
+"kids":[
+"ztjtE5MED",
+"ztjgb3aQi"
+],
+"uid":"1928859721",
+"parent":"ztiYAmPpN",
+"text":"",
+"mid":"ztj88fEdp",
+"date":"2013-04-22 11:42:32"
+},
+{
+"kids":[],
+"uid":"1734707577",
+"parent":"ztj3Ov8Ft",
+"text":"",
+"mid":"ztj7QxOVI",
+"date":"2013-04-22 11:41:49"
+},
+{
+"kids":[],
+"uid":"1952731211",
+"parent":"ztj5xev43",
+"text":"",
+"mid":"ztj7KjqaZ",
+"date":"2013-04-22 11:41:35"
+},
+{
+"kids":[],
+"uid":"22313512",
+"parent":"ztiVXgsn0",
+"text":"造谣一时爽，全家火葬场",
+"mid":"ztj7GcGmw",
+"date":"2013-04-22 11:41:24"
+},
+{
+"kids":[],
+"uid":"2237142541",
+"parent":"",
+"text":"",
+"mid":"ztj7j6VxR",
+"date":"2013-04-22 11:40:30"
+},
+{
+"kids":[],
+"uid":"328630909",
+"parent":"ztj6sfBU3",
+"text":"[兔子][围观]",
+"mid":"ztj73tHus",
+"date":"2013-04-22 11:39:53"
+},
+{
+"kids":[
+"ztjj8gh0K",
+"ztj9Gi9fH"
+],
+"uid":"zhangyue1985",
+"parent":"ztj53ldYD",
+"text":"扩散",
+"mid":"ztj73r2NW",
+"date":"2013-04-22 11:39:52"
+},
+{
+"kids":[],
+"uid":"cuixiaobo",
+"parent":"ztiQFxypy",
+"text":"[吃惊]真的假的？",
+"mid":"ztj721VTM",
+"date":"2013-04-22 11:39:49"
+},
+{
+"kids":[],
+"uid":"sharon531",
+"parent":"ztj0tmYZi",
+"text":"万恶[怒]",
+"mid":"ztj71mXyo",
+"date":"2013-04-22 11:39:47"
+},
+{
+"kids":[],
+"uid":"2095884831",
+"parent":"ztj3tzkTh",
+"text":"狗改不了吃屎[怒]",
+"mid":"ztj6ZDNHg",
+"date":"2013-04-22 11:39:42"
+},
+{
+"kids":[
+"ztjdyw7ps"
+],
+"uid":"zombieslam",
+"parent":"ztj2k2HN1",
+"text":"又到骗钱的时候了 ~",
+"mid":"ztj6Y81Zo",
+"date":"2013-04-22 11:39:40"
+},
+{
+"kids":[],
+"uid":"3206970120",
+"parent":"",
+"text":"",
+"mid":"ztj6WlxS4",
+"date":"2013-04-22 11:39:36"
+},
+{
+"kids":[],
+"uid":"1971809005",
+"parent":"ztj3D3Haw",
+"text":"",
+"mid":"ztj6QaCJY",
+"date":"2013-04-22 11:39:20"
+},
+{
+"kids":[
+"ztjd3bqQq"
+],
+"uid":"345852187",
+"parent":"ztj6sfBU3",
+"text":"",
+"mid":"ztj6LtRt8",
+"date":"2013-04-22 11:39:10"
+},
+{
+"kids":[
+"ztjjGg1XD",
+"ztj73tHus",
+"ztj6LtRt8"
+],
+"uid":"fq1119",
+"parent":"ztj3D3Haw",
+"text":"把我笑死了",
+"mid":"ztj6sfBU3",
+"date":"2013-04-22 11:38:23"
+},
+{
+"kids":[],
+"uid":"206323282",
+"parent":"ztj66m17K",
+"text":"[给力]",
+"mid":"ztj6h0uoz",
+"date":"2013-04-22 11:37:57"
+},
+{
+"kids":[],
+"uid":"xiaoyerong",
+"parent":"ztj4d4kxl",
+"text":"坑爹！",
+"mid":"ztj6da9xm",
+"date":"2013-04-22 11:37:48"
+},
+{
+"kids":[],
+"uid":"206323282",
+"parent":"ztj66m17K",
+"text":"",
+"mid":"ztj6auqr1",
+"date":"2013-04-22 11:37:41"
+},
+{
+"kids":[],
+"uid":"1930221284",
+"parent":"ztj2k2HN1",
+"text":"",
+"mid":"ztj66DQUQ",
+"date":"2013-04-22 11:37:33"
+},
+{
+"kids":[
+"ztjto8iow",
+"ztj9v38ft",
+"ztj8PrV2Z",
+"ztj8texPy",
+"ztj6h0uoz",
+"ztj6auqr1"
+],
+"uid":"2969004404",
+"parent":"",
+"text":"严重关注！求证！",
+"mid":"ztj66m17K",
+"date":"2013-04-22 11:37:32"
+},
+{
+"kids":[],
+"uid":"1707283002",
+"parent":"",
+"text":"",
+"mid":"ztj62vGbZ",
+"date":"2013-04-22 11:37:22"
+},
+{
+"kids":[
+"ztmrA28Lt"
+],
+"uid":"2321596722",
+"parent":"",
+"text":"真TM黑了心了~~~~~~",
+"mid":"ztj5zz8xY",
+"date":"2013-04-22 11:36:14"
+},
+{
+"kids":[],
+"uid":"207034591",
+"parent":"ztiXM9KEA",
+"text":"",
+"mid":"ztj5z1Ghs",
+"date":"2013-04-22 11:36:12"
+},
+{
+"kids":[
+"ztj7KjqaZ"
+],
+"uid":"2389148654",
+"parent":"",
+"text":"",
+"mid":"ztj5xev43",
+"date":"2013-04-22 11:36:07"
+},
+{
+"kids":[],
+"uid":"1739097102",
+"parent":"ztiWIzxBY",
+"text":"爆头哥死不瞑目呀",
+"mid":"ztj5w3Eui",
+"date":"2013-04-22 11:36:05"
+},
+{
+"kids":[
+"ztnNV4iQy",
+"ztjTiqHga",
+"ztjfRf7Is"
+],
+"uid":"e3f4",
+"parent":"ztj4llvOu",
+"text":"人在做，天在看，你们会有报应的~~扩散~~",
+"mid":"ztj5v81QZ",
+"date":"2013-04-22 11:36:03"
+},
+{
+"kids":[
+"ztjkrbUIZ"
+],
+"uid":"2200521673",
+"parent":"",
+"text":"",
+"mid":"ztj5l5ctU",
+"date":"2013-04-22 11:35:39"
+},
+{
+"kids":[
+"ztkbxyyDk",
+"ztjjJdmMj"
+],
+"uid":"juncaoz",
+"parent":"",
+"text":"[打哈气]说什么来着，山寨红不可信",
+"mid":"ztj5dr4Se",
+"date":"2013-04-22 11:35:21"
+},
+{
+"kids":[],
+"uid":"2335435992",
+"parent":"",
+"text":"",
+"mid":"ztj59ictX",
+"date":"2013-04-22 11:35:11"
+},
+{
+"kids":[],
+"uid":"2720801030",
+"parent":"ztj3D3Haw",
+"text":"",
+"mid":"ztj590AXD",
+"date":"2013-04-22 11:35:09"
+},
+{
+"kids":[],
+"uid":"2612121035",
+"parent":"ztj3Xn7yT",
+"text":"红十字吸血鬼",
+"mid":"ztj58oXad",
+"date":"2013-04-22 11:35:08"
+},
+{
+"kids":[
+"ztj73r2NW"
+],
+"uid":"1092032140",
+"parent":"ztj1QuJPu",
+"text":"真tm好样的",
+"mid":"ztj53ldYD",
+"date":"2013-04-22 11:34:57"
+},
+{
+"kids":[],
+"uid":"chaober",
+"parent":"ztj1Nw5Tl",
+"text":"未知真假，不过发国难财就该枪毙",
+"mid":"ztj533CNv",
+"date":"2013-04-22 11:34:55"
+},
+{
+"kids":[
+"ztjb5ryY2"
+],
+"uid":"molafeier",
+"parent":"",
+"text":"@中国红十字会社会监督委员会",
+"mid":"ztj4VFpLV",
+"date":"2013-04-22 11:34:39"
+},
+{
+"kids":[],
+"uid":"3094310917",
+"parent":"ztiZ5ESg5",
+"text":"@中国红十字会",
+"mid":"ztj4TCgLs",
+"date":"2013-04-22 11:34:32"
+},
+{
+"kids":[],
+"uid":"Aimy1993",
+"parent":"ztj3Ov8Ft",
+"text":"",
+"mid":"ztj4mvw1T",
+"date":"2013-04-22 11:33:15"
+},
+{
+"kids":[
+"ztj5v81QZ"
+],
+"uid":"1285760841",
+"parent":"ztj1Nw5Tl",
+"text":"@中国红十字会总会     你们丫就等着土地爷给你们挖坑吧       狗操的",
+"mid":"ztj4llvOu",
+"date":"2013-04-22 11:33:11"
+},
+{
+"kids":[],
+"uid":"2608125713",
+"parent":"",
+"text":"",
+"mid":"ztj4jjdzg",
+"date":"2013-04-22 11:33:05"
+},
+{
+"kids":[],
+"uid":"1878375125",
+"parent":"",
+"text":"发灾难财的不得好死",
+"mid":"ztj4iDCgV",
+"date":"2013-04-22 11:33:05"
+},
+{
+"kids":[
+"ztj6da9xm"
+],
+"uid":"1691990324",
+"parent":"",
+"text":"[围观]",
+"mid":"ztj4d4kxl",
+"date":"2013-04-22 11:32:52"
+},
+{
+"kids":[],
+"uid":"hermit85",
+"parent":"ztj3EtDxE",
+"text":"[围观]",
+"mid":"ztj4bhQvo",
+"date":"2013-04-22 11:32:46"
+},
+{
+"kids":[
+"ztjei3WkA"
+],
+"uid":"1836910181",
+"parent":"",
+"text":"",
+"mid":"ztj41dH1K",
+"date":"2013-04-22 11:32:23"
+},
+{
+"kids":[
+"ztn3kB7b4"
+],
+"uid":"2106552130",
+"parent":"ztj3tzkTh",
+"text":"",
+"mid":"ztj3Y0Raj",
+"date":"2013-04-22 11:32:16"
+},
+{
+"kids":[
+"ztjcH4hXB",
+"ztj58oXad"
+],
+"uid":"1417472004",
+"parent":"",
+"text":"只转大灾面前的丑恶",
+"mid":"ztj3Xn7yT",
+"date":"2013-04-22 11:32:14"
+},
+{
+"kids":[],
+"uid":"1656592854",
+"parent":"",
+"text":"",
+"mid":"ztj3SpAlD",
+"date":"2013-04-22 11:32:02"
+},
+{
+"kids":[],
+"uid":"2146564365",
+"parent":"",
+"text":"该杀",
+"mid":"ztj3QBigw",
+"date":"2013-04-22 11:31:59"
+},
+{
+"kids":[],
+"uid":"2936771223",
+"parent":"",
+"text":"狗改不了吃屎！",
+"mid":"ztj3QAyag",
+"date":"2013-04-22 11:31:59"
+},
+{
+"kids":[],
+"uid":"578377332",
+"parent":"",
+"text":"之前的一条微博被删了，求真相",
+"mid":"ztj3QzdUw",
+"date":"2013-04-22 11:31:58"
+},
+{
+"kids":[
+"ztj7QxOVI",
+"ztj4mvw1T"
+],
+"uid":"206400035",
+"parent":"",
+"text":"",
+"mid":"ztj3Ov8Ft",
+"date":"2013-04-22 11:31:53"
+},
+{
+"kids":[],
+"uid":"1709018345",
+"parent":"ztj0tmYZi",
+"text":"刚才在上面看@点子正 辟谣 ，那到底真假如何",
+"mid":"ztj3N2H2L",
+"date":"2013-04-22 11:31:49"
+},
+{
+"kids":[],
+"uid":"1840402435",
+"parent":"",
+"text":"",
+"mid":"ztj3KEzjJ",
+"date":"2013-04-22 11:31:43"
+},
+{
+"kids":[],
+"uid":"578377332",
+"parent":"",
+"text":"",
+"mid":"ztj3H9mGH",
+"date":"2013-04-22 11:31:35"
+},
+{
+"kids":[
+"ztj4bhQvo"
+],
+"uid":"beachsoft",
+"parent":"ztj1Nw5Tl",
+"text":"求证！",
+"mid":"ztj3EtDxE",
+"date":"2013-04-22 11:31:30"
+},
+{
+"kids":[],
+"uid":"2844871993",
+"parent":"",
+"text":"",
+"mid":"ztj3EcJWr",
+"date":"2013-04-22 11:31:28"
+},
+{
+"kids":[
+"ztj6QaCJY",
+"ztj6sfBU3",
+"ztj590AXD"
+],
+"uid":"345852187",
+"parent":"ztj1Untb0",
+"text":"",
+"mid":"ztj3D3Haw",
+"date":"2013-04-22 11:31:26"
+},
+{
+"kids":[
+"ztkes8C4K",
+"ztjA75Y3h",
+"ztj6ZDNHg",
+"ztj3Y0Raj"
+],
+"uid":"2044707747",
+"parent":"",
+"text":"",
+"mid":"ztj3tzkTh",
+"date":"2013-04-22 11:31:03"
+},
+{
+"kids":[],
+"uid":"dqbyd",
+"parent":"ztiYMc9vP",
+"text":"拒绝红十字啊~~",
+"mid":"ztj3ev2M2",
+"date":"2013-04-22 11:30:28"
+},
+{
+"kids":[],
+"uid":"63728305",
+"parent":"",
+"text":"",
+"mid":"ztj3ajPK0",
+"date":"2013-04-22 11:30:18"
+},
+{
+"kids":[],
+"uid":"2388014570",
+"parent":"",
+"text":"",
+"mid":"ztj33i2mp",
+"date":"2013-04-22 11:30:00"
+},
+{
+"kids":[],
+"uid":"1003846205",
+"parent":"",
+"text":"无耻！",
+"mid":"ztj2S1Zan",
+"date":"2013-04-22 11:29:32"
+},
+{
+"kids":[],
+"uid":"laojinlaiye",
+"parent":"",
+"text":"[偷笑]",
+"mid":"ztj2FjqyH",
+"date":"2013-04-22 11:29:04"
+},
+{
+"kids":[
+"ztjvvjEJe"
+],
+"uid":"3118531003",
+"parent":"ztj0kwj6x",
+"text":"如果不假，请公示当时开具的发一票，敢吗？[哈哈]",
+"mid":"ztj2BbfSE",
+"date":"2013-04-22 11:28:54"
+},
+{
+"kids":[],
+"uid":"1336328915",
+"parent":"",
+"text":"",
+"mid":"ztj2zoLOn",
+"date":"2013-04-22 11:28:50"
+},
+{
+"kids":[],
+"uid":"2524804807",
+"parent":"",
+"text":"",
+"mid":"ztj2qgJEC",
+"date":"2013-04-22 11:28:28"
+},
+{
+"kids":[],
+"uid":"2085187074",
+"parent":"ztj1IvZQQ",
+"text":"真的假的？",
+"mid":"ztj2p6BeQ",
+"date":"2013-04-22 11:28:25"
+},
+{
+"kids":[
+"ztjpX8KHf",
+"ztjno7BXs",
+"ztj9Ex21x"
+],
+"uid":"jacksbook",
+"parent":"",
+"text":"",
+"mid":"ztj2n02dn",
+"date":"2013-04-22 11:28:20"
+},
+{
+"kids":[
+"ztlv3FrCg",
+"ztjdVgpeJ",
+"ztj6Y81Zo",
+"ztj66DQUQ"
+],
+"uid":"arthaslian",
+"parent":"",
+"text":"为这个有良心的网友顶起，红十字会去死。",
+"mid":"ztj2k2HN1",
+"date":"2013-04-22 11:28:13"
+},
+{
+"kids":[
+"ztjqIoCyW"
+],
+"uid":"2708447311",
+"parent":"",
+"text":"[吃惊][吃惊][吃惊]",
+"mid":"ztj2i14Gj",
+"date":"2013-04-22 11:28:07"
+},
+{
+"kids":[
+"ztj9bwGd4"
+],
+"uid":"1781816634",
+"parent":"",
+"text":"",
+"mid":"ztj221lW8",
+"date":"2013-04-22 11:27:30"
+},
+{
+"kids":[],
+"uid":"1182929801",
+"parent":"ztj0qqXT5",
+"text":"真的假的？如果是真，那转死这个没人性的大蛀虫",
+"mid":"ztj20wfzH",
+"date":"2013-04-22 11:27:26"
+},
+{
+"kids":[],
+"uid":"1672321784",
+"parent":"",
+"text":"无语",
+"mid":"ztj1ZmIWd",
+"date":"2013-04-22 11:27:24"
+},
+{
+"kids":[
+"ztj3D3Haw"
+],
+"uid":"2720801030",
+"parent":"",
+"text":"",
+"mid":"ztj1Untb0",
+"date":"2013-04-22 11:27:12"
+},
+{
+"kids":[
+"ztj53ldYD"
+],
+"uid":"336767727",
+"parent":"ztj1tapw7",
+"text":"这块牌子早就臭了",
+"mid":"ztj1QuJPu",
+"date":"2013-04-22 11:27:02"
+},
+{
+"kids":[],
+"uid":"2708744065",
+"parent":"ztiYDBLdA",
+"text":"",
+"mid":"ztj1P4r8M",
+"date":"2013-04-22 11:26:58"
+},
+{
+"kids":[
+"ztj533CNv",
+"ztj4llvOu",
+"ztj3EtDxE"
+],
+"uid":"1235967780",
+"parent":"",
+"text":"[怒][怒]",
+"mid":"ztj1Nw5Tl",
+"date":"2013-04-22 11:26:55"
+},
+{
+"kids":[],
+"uid":"1935091621",
+"parent":"",
+"text":"",
+"mid":"ztj1J7DIE",
+"date":"2013-04-22 11:26:44"
+},
+{
+"kids":[],
+"uid":"1764441244",
+"parent":"ztj0qqXT5",
+"text":"",
+"mid":"ztj1Iy7rQ",
+"date":"2013-04-22 11:26:44"
+},
+{
+"kids":[
+"ztj2p6BeQ"
+],
+"uid":"boyuanwang",
+"parent":"",
+"text":"",
+"mid":"ztj1IvZQQ",
+"date":"2013-04-22 11:26:43"
+},
+{
+"kids":[],
+"uid":"3094310917",
+"parent":"",
+"text":"让更多的人看见。",
+"mid":"ztj1Hnh2J",
+"date":"2013-04-22 11:26:40"
+},
+{
+"kids":[],
+"uid":"milannuoguidu",
+"parent":"ztiZ5ESg5",
+"text":"红十字是得了癌症晚期——没得救了",
+"mid":"ztj1ydEOz",
+"date":"2013-04-22 11:26:19"
+},
+{
+"kids":[
+"ztj1QuJPu"
+],
+"uid":"522612318",
+"parent":"ztiYMc9vP",
+"text":"垃圾",
+"mid":"ztj1tapw7",
+"date":"2013-04-22 11:26:06"
+},
+{
+"kids":[],
+"uid":"fuhaichun",
+"parent":"",
+"text":"",
+"mid":"ztj1s1nEr",
+"date":"2013-04-22 11:26:02"
+},
+{
+"kids":[],
+"uid":"2409258813",
+"parent":"ztiXM9KEA",
+"text":"艹",
+"mid":"ztj14Chxj",
+"date":"2013-04-22 11:25:09"
+},
+{
+"kids":[
+"ztjbo4M6A"
+],
+"uid":"1189424241",
+"parent":"ztiYAmPpN",
+"text":"",
+"mid":"ztj0XyKRh",
+"date":"2013-04-22 11:24:51"
+},
+{
+"kids":[
+"ztjr3la48"
+],
+"uid":"2196095842",
+"parent":"",
+"text":"",
+"mid":"ztj0TpQNz",
+"date":"2013-04-22 11:24:43"
+},
+{
+"kids":[],
+"uid":"2770372111",
+"parent":"ztiYAmPpN",
+"text":"",
+"mid":"ztj0RE4Xh",
+"date":"2013-04-22 11:24:37"
+},
+{
+"kids":[],
+"uid":"hzg88888888",
+"parent":"ztiZxecdz",
+"text":"",
+"mid":"ztj0H05JR",
+"date":"2013-04-22 11:24:12"
+},
+{
+"kids":[],
+"uid":"3121735943",
+"parent":"",
+"text":"",
+"mid":"ztj0uxPa8",
+"date":"2013-04-22 11:23:43"
+},
+{
+"kids":[
+"ztk5674sG",
+"ztjlT2994",
+"ztj71mXyo",
+"ztj3N2H2L"
+],
+"uid":"zhoumu82",
+"parent":"",
+"text":"滚你妈的红会",
+"mid":"ztj0tmYZi",
+"date":"2013-04-22 11:23:40"
+},
+{
+"kids":[],
+"uid":"1686222182",
+"parent":"ztiZSrTVQ",
+"text":"红会不怕报应吗",
+"mid":"ztj0riTEX",
+"date":"2013-04-22 11:23:35"
+},
+{
+"kids":[
+"ztj20wfzH",
+"ztj1Iy7rQ"
+],
+"uid":"1203431974",
+"parent":"",
+"text":"与其愤恨红会的肮脏，我更担心吴斌的安全！",
+"mid":"ztj0qqXT5",
+"date":"2013-04-22 11:23:33"
+},
+{
+"kids":[
+"ztj2BbfSE"
+],
+"uid":"2672510592",
+"parent":"",
+"text":"是08年的贴子。你们百度一下。",
+"mid":"ztj0kwj6x",
+"date":"2013-04-22 11:23:18"
+},
+{
+"kids":[],
+"uid":"2881454372",
+"parent":"ztiXM9KEA",
+"text":"要死了！",
+"mid":"ztj0bEk1h",
+"date":"2013-04-22 11:22:58"
+},
+{
+"kids":[
+"ztn2PyCFD",
+"ztjuwbZoR"
+],
+"uid":"2448928585",
+"parent":"",
+"text":"@897在路上",
+"mid":"ztj0bnOsp",
+"date":"2013-04-22 11:22:57"
+},
+{
+"kids":[],
+"uid":"2939187167",
+"parent":"ztiXM9KEA",
+"text":"",
+"mid":"ztj06EIeR",
+"date":"2013-04-22 11:22:45"
+},
+{
+"kids":[],
+"uid":"laishunshuo",
+"parent":"ztiYAmPpN",
+"text":"",
+"mid":"ztj04hdAI",
+"date":"2013-04-22 11:22:39"
+},
+{
+"kids":[],
+"uid":"2361711684",
+"parent":"",
+"text":"这就是中国红会的所作所为！",
+"mid":"ztiZUuGcC",
+"date":"2013-04-22 11:22:17"
+},
+{
+"kids":[
+"ztj0riTEX"
+],
+"uid":"2081972661",
+"parent":"ztiYAmPpN",
+"text":"抵制红会！@佛釋昕",
+"mid":"ztiZSrTVQ",
+"date":"2013-04-22 11:22:11"
+},
+{
+"kids":[],
+"uid":"mise214",
+"parent":"ztiXM9KEA",
+"text":"",
+"mid":"ztiZAt8pN",
+"date":"2013-04-22 11:21:29"
+},
+{
+"kids":[
+"ztj0H05JR"
+],
+"uid":"2759706723",
+"parent":"",
+"text":"",
+"mid":"ztiZxecdz",
+"date":"2013-04-22 11:21:21"
+},
+{
+"kids":[],
+"uid":"1066544421",
+"parent":"ztiWIzxBY",
+"text":"[话筒][话筒]",
+"mid":"ztiZg33sv",
+"date":"2013-04-22 11:20:41"
+},
+{
+"kids":[],
+"uid":"larryhuang12588",
+"parent":"ztiW4Chsl",
+"text":"@中国红十字会总会 请监察委员会的各位委员给个解释",
+"mid":"ztiZegzkr",
+"date":"2013-04-22 11:20:36"
+},
+{
+"kids":[
+"ztj4TCgLs",
+"ztj1ydEOz"
+],
+"uid":"2563045454",
+"parent":"",
+"text":"",
+"mid":"ztiZ5ESg5",
+"date":"2013-04-22 11:20:16"
+},
+{
+"kids":[],
+"uid":"1665331882",
+"parent":"ztiVOosOz",
+"text":"",
+"mid":"ztiZ2rfsR",
+"date":"2013-04-22 11:20:08"
+},
+{
+"kids":[
+"ztj3ev2M2",
+"ztj1tapw7"
+],
+"uid":"2094090953",
+"parent":"ztiWIzxBY",
+"text":"[怒]无耻！！！",
+"mid":"ztiYMc9vP",
+"date":"2013-04-22 11:19:28"
+},
+{
+"kids":[],
+"uid":"3318942422",
+"parent":"",
+"text":"",
+"mid":"ztiYLCqfS",
+"date":"2013-04-22 11:19:27"
+},
+{
+"kids":[],
+"uid":"2496327245",
+"parent":"ztiQFxypy",
+"text":"发国难财！！！",
+"mid":"ztiYJBIWu",
+"date":"2013-04-22 11:19:21"
+},
+{
+"kids":[
+"ztj1P4r8M"
+],
+"uid":"wangwenchuan2",
+"parent":"ztiXpoT9I",
+"text":"我估计消息是不实的,因为那样,他们又一次挑战了我们的底线.",
+"mid":"ztiYDBLdA",
+"date":"2013-04-22 11:19:09"
+},
+{
+"kids":[
+"ztjiBrZty",
+"ztj88fEdp",
+"ztj0XyKRh",
+"ztj0RE4Xh",
+"ztj04hdAI",
+"ztiZSrTVQ"
+],
+"uid":"2706652385",
+"parent":"",
+"text":"抵制，不捐给红会!",
+"mid":"ztiYAmPpN",
+"date":"2013-04-22 11:19:01"
+},
+{
+"kids":[],
+"uid":"2077653033",
+"parent":"",
+"text":"",
+"mid":"ztiYnE459",
+"date":"2013-04-22 11:18:31"
+},
+{
+"kids":[],
+"uid":"3177478503",
+"parent":"ztiW4Chsl",
+"text":"又肿么啦？！[汗][汗]",
+"mid":"ztiYmvfH3",
+"date":"2013-04-22 11:18:26"
+},
+{
+"kids":[],
+"uid":"2863284980",
+"parent":"",
+"text":"遇红会，请绕行。",
+"mid":"ztiY9t3yv",
+"date":"2013-04-22 11:17:56"
+},
+{
+"kids":[],
+"uid":"2756486863",
+"parent":"",
+"text":"",
+"mid":"ztiY27fuY",
+"date":"2013-04-22 11:17:40"
+},
+{
+"kids":[
+"ztjb14v6a",
+"ztj5z1Ghs",
+"ztj14Chxj",
+"ztj0bEk1h",
+"ztj06EIeR",
+"ztiZAt8pN"
+],
+"uid":"213134544",
+"parent":"ztiQFxypy",
+"text":"",
+"mid":"ztiXM9KEA",
+"date":"2013-04-22 11:17:00"
+},
+{
+"kids":[],
+"uid":"godlove",
+"parent":"",
+"text":"",
+"mid":"ztiXIhSZ7",
+"date":"2013-04-22 11:16:52"
+},
+{
+"kids":[],
+"uid":"2578897985",
+"parent":"",
+"text":"[闭嘴][怒]",
+"mid":"ztiXz9AEF",
+"date":"2013-04-22 11:16:29"
+},
+{
+"kids":[
+"ztiYDBLdA"
+],
+"uid":"1261718815",
+"parent":"ztiVOosOz",
+"text":"打劫啦，每次都是乘灾难打劫，太不要脸了！说过的，换了谁当红十字会的领导都一样的无耻！",
+"mid":"ztiXpoT9I",
+"date":"2013-04-22 11:16:06"
+},
+{
+"kids":[],
+"uid":"1783065315",
+"parent":"",
+"text":"",
+"mid":"ztiXofTrW",
+"date":"2013-04-22 11:16:03"
+},
+{
+"kids":[],
+"uid":"2453048684",
+"parent":"",
+"text":"",
+"mid":"ztiWRo0if",
+"date":"2013-04-22 11:14:46"
+},
+{
+"kids":[
+"ztj5w3Eui",
+"ztiZg33sv",
+"ztiYMc9vP"
+],
+"uid":"2284824187",
+"parent":"",
+"text":"",
+"mid":"ztiWIzxBY",
+"date":"2013-04-22 11:14:25"
+},
+{
+"kids":[],
+"uid":"1659284295",
+"parent":"ztiW4Chsl",
+"text":"",
+"mid":"ztiWF2ZY8",
+"date":"2013-04-22 11:14:16"
+},
+{
+"kids":[],
+"uid":"zwl1013",
+"parent":"ztiTAp9Mm",
+"text":"如果是真的话，那我无语了[怒]",
+"mid":"ztiWx3sCs",
+"date":"2013-04-22 11:13:56"
+},
+{
+"kids":[
+"ztkpfoQua",
+"ztiZegzkr",
+"ztiYmvfH3",
+"ztiWF2ZY8"
+],
+"uid":"311179868",
+"parent":"ztiTAp9Mm",
+"text":"",
+"mid":"ztiW4Chsl",
+"date":"2013-04-22 11:12:51"
+},
+{
+"kids":[],
+"uid":"1880427241",
+"parent":"ztiQFxypy",
+"text":"",
+"mid":"ztiW0vo7V",
+"date":"2013-04-22 11:12:41"
+},
+{
+"kids":[
+"ztj7GcGmw"
+],
+"uid":"laoniushushu",
+"parent":"",
+"text":"请百度：http:",
+"mid":"ztiVXgsn0",
+"date":"2013-04-22 11:12:32"
+},
+{
+"kids":[
+"ztjXzdUwF"
+],
+"uid":"2070701937",
+"parent":"",
+"text":"",
+"mid":"ztiVT705h",
+"date":"2013-04-22 11:12:20"
+},
+{
+"kids":[
+"ztiZ2rfsR",
+"ztiXpoT9I"
+],
+"uid":"wangwenchuan2",
+"parent":"",
+"text":"如属实的话,这是红十字的又一重大丑闻..急需要证实.",
+"mid":"ztiVOosOz",
+"date":"2013-04-22 11:12:11"
+},
+{
+"kids":[],
+"uid":"1599762067",
+"parent":"",
+"text":"",
+"mid":"ztiVomQV5",
+"date":"2013-04-22 11:11:08"
+},
+{
+"kids":[],
+"uid":"3128296113",
+"parent":"",
+"text":"",
+"mid":"ztiVmBsYS",
+"date":"2013-04-22 11:11:04"
+},
+{
+"kids":[],
+"uid":"laoniushushu",
+"parent":"",
+"text":"请百度一下：http:",
+"mid":"ztiVlqNGR",
+"date":"2013-04-22 11:11:00"
+},
+{
+"kids":[],
+"uid":"1656592854",
+"parent":"",
+"text":"",
+"mid":"ztiV4BcUm",
+"date":"2013-04-22 11:10:21"
+},
+{
+"kids":[],
+"uid":"3123118617",
+"parent":"ztiMP7a6S",
+"text":"",
+"mid":"ztiU63uL4",
+"date":"2013-04-22 11:07:56"
+},
+{
+"kids":[],
+"uid":"1911143354",
+"parent":"",
+"text":"",
+"mid":"ztiTLm7qA",
+"date":"2013-04-22 11:07:08"
+},
+{
+"kids":[],
+"uid":"1075987832",
+"parent":"ztiTd7e3X",
+"text":"",
+"mid":"ztiTEgAOR",
+"date":"2013-04-22 11:06:50"
+},
+{
+"kids":[
+"ztiWx3sCs",
+"ztiW4Chsl"
+],
+"uid":"zhidaosc",
+"parent":"ztiS9cWS0",
+"text":"/求证？！#四川雅安地震#/@黄刚1975:",
+"mid":"ztiTAp9Mm",
+"date":"2013-04-22 11:06:41"
+},
+{
+"kids":[],
+"uid":"laoniushushu",
+"parent":"",
+"text":"百度一下：http:",
+"mid":"ztiTsp9ea",
+"date":"2013-04-22 11:06:23"
+},
+{
+"kids":[],
+"uid":"dannyjack",
+"parent":"ztiMC70hl",
+"text":"",
+"mid":"ztiTryMFK",
+"date":"2013-04-22 11:06:21"
+},
+{
+"kids":[],
+"uid":"2163958465",
+"parent":"ztiQZp5t9",
+"text":"",
+"mid":"ztiTpady7",
+"date":"2013-04-22 11:06:15"
+},
+{
+"kids":[],
+"uid":"2431660055",
+"parent":"ztiSTy5Ky",
+"text":"艹！！！太不要脸了！！！！把他找出来！！！灭掉！！[怒][怒][怒][怒][怒][怒]",
+"mid":"ztiTlkUfe",
+"date":"2013-04-22 11:06:07"
+},
+{
+"kids":[],
+"uid":"wyw1963",
+"parent":"",
+"text":"发国难财者、杀！",
+"mid":"ztiThx10t",
+"date":"2013-04-22 11:05:57"
+},
+{
+"kids":[
+"ztiTEgAOR"
+],
+"uid":"lslok",
+"parent":"",
+"text":"惯性了",
+"mid":"ztiTd7e3X",
+"date":"2013-04-22 11:05:45"
+},
+{
+"kids":[],
+"uid":"2250454171",
+"parent":"",
+"text":"你年龄也不小了，没有拿到证据，失去一个大大的好机会。咳",
+"mid":"ztiTca3nZ",
+"date":"2013-04-22 11:05:44"
+},
+{
+"kids":[],
+"uid":"2653248073",
+"parent":"",
+"text":"如是真的话，良心被狗吃了！[怒]",
+"mid":"ztiT3k41K",
+"date":"2013-04-22 11:05:22"
+},
+{
+"kids":[],
+"uid":"2550315300",
+"parent":"ztiQFxypy",
+"text":"[吃惊] 真的？",
+"mid":"ztiT29dxz",
+"date":"2013-04-22 11:05:19"
+},
+{
+"kids":[
+"ztiTlkUfe"
+],
+"uid":"1997374910",
+"parent":"",
+"text":"靠！[怒][怒]永远不会捐钱给红十字会！",
+"mid":"ztiSTy5Ky",
+"date":"2013-04-22 11:04:59"
+},
+{
+"kids":[],
+"uid":"1795466917",
+"parent":"ztiQFxypy",
+"text":"",
+"mid":"ztiSLgu47",
+"date":"2013-04-22 11:04:41"
+},
+{
+"kids":[],
+"uid":"3192804812",
+"parent":"",
+"text":"",
+"mid":"ztiSbezMg",
+"date":"2013-04-22 11:03:14"
+},
+{
+"kids":[
+"ztiTAp9Mm"
+],
+"uid":"2548935494",
+"parent":"",
+"text":"",
+"mid":"ztiS9cWS0",
+"date":"2013-04-22 11:03:08"
+},
+{
+"kids":[],
+"uid":"2943282530",
+"parent":"",
+"text":"这个………要转下…",
+"mid":"ztiS6uLbr",
+"date":"2013-04-22 11:03:01"
+},
+{
+"kids":[],
+"uid":"1220604182",
+"parent":"ztiQFxypy",
+"text":"",
+"mid":"ztiS3waWo",
+"date":"2013-04-22 11:02:55"
+},
+{
+"kids":[],
+"uid":"xiaodaoxinxi",
+"parent":"",
+"text":"",
+"mid":"ztiS2EbHP",
+"date":"2013-04-22 11:02:54"
+},
+{
+"kids":[],
+"uid":"2524804807",
+"parent":"",
+"text":"",
+"mid":"ztiRP7dBx",
+"date":"2013-04-22 11:02:20"
+},
+{
+"kids":[],
+"uid":"2272846175",
+"parent":"",
+"text":"",
+"mid":"ztiRNibql",
+"date":"2013-04-22 11:02:16"
+},
+{
+"kids":[],
+"uid":"2272846175",
+"parent":"ztiQFxypy",
+"text":"",
+"mid":"ztiRxCi7b",
+"date":"2013-04-22 11:01:39"
+},
+{
+"kids":[],
+"uid":"2347475391",
+"parent":"",
+"text":"",
+"mid":"ztiRplWIE",
+"date":"2013-04-22 11:01:20"
+},
+{
+"kids":[
+"ztiTpady7"
+],
+"uid":"2550360660",
+"parent":"ztiQFxypy",
+"text":"求证。",
+"mid":"ztiQZp5t9",
+"date":"2013-04-22 11:00:17"
+},
+{
+"kids":[
+"zv4Wzlzyk",
+"zv4WzkpOV",
+"zuCAe0ish",
+"zuCAdF50W",
+"zu9NbzlIY",
+"zu9NbxHYy",
+"ztQw5avVs",
+"ztQw5avT9",
+"ztooIvT1t",
+"ztooIehQQ"
+],
+"uid":"3353358670",
+"parent":"",
+"text":"好的",
+"mid":"ztiQNfWQX",
+"date":"2013-04-22 10:59:48"
+},
+{
+"kids":[
+"ztjUYanok",
+"ztj721VTM",
+"ztiYJBIWu",
+"ztiXM9KEA",
+"ztiW0vo7V",
+"ztiT29dxz",
+"ztiSLgu47",
+"ztiS3waWo",
+"ztiRxCi7b",
+"ztiQZp5t9"
+],
+"uid":"1256043357",
+"parent":"",
+"text":"这样发国难财的，算不算乌龟王八蛋？",
+"mid":"ztiQFxypy",
+"date":"2013-04-22 10:59:31"
+},
+{
+"kids":[],
+"uid":"2466417962",
+"parent":"",
+"text":"[good]",
+"mid":"ztiQg8RPB",
+"date":"2013-04-22 10:58:30"
+},
+{
+"kids":[],
+"uid":"1748974284",
+"parent":"",
+"text":"",
+"mid":"ztiPC0IKg",
+"date":"2013-04-22 10:56:53"
+},
+{
+"kids":[],
+"uid":"2616883741",
+"parent":"",
+"text":"",
+"mid":"ztiON9U3G",
+"date":"2013-04-22 10:54:52"
+},
+{
+"kids":[],
+"uid":"1972875893",
+"parent":"",
+"text":"恩。刚看了，原博主己删除。",
+"mid":"ztiNNExiJ",
+"date":"2013-04-22 10:52:27"
+},
+{
+"kids":[],
+"uid":"2276870447",
+"parent":"ztiJzynu7",
+"text":"",
+"mid":"ztiNtAMcH",
+"date":"2013-04-22 10:51:39"
+},
+{
+"kids":[],
+"uid":"2770684893",
+"parent":"",
+"text":"",
+"mid":"ztiNliwC6",
+"date":"2013-04-22 10:51:19"
+},
+{
+"kids":[
+"ztiU63uL4"
+],
+"uid":"47118904",
+"parent":"",
+"text":"谁再给中国红十字会捐钱，谁就是标准的SB！[吐][弱]",
+"mid":"ztiMP7a6S",
+"date":"2013-04-22 10:50:02"
+},
+{
+"kids":[
+"ztiTryMFK"
+],
+"uid":"2266292502",
+"parent":"ztiMc5sEJ",
+"text":"",
+"mid":"ztiMC70hl",
+"date":"2013-04-22 10:49:31"
+},
+{
+"kids":[
+"ztiMC70hl"
+],
+"uid":"1972875893",
+"parent":"",
+"text":"",
+"mid":"ztiMc5sEJ",
+"date":"2013-04-22 10:48:29"
+},
+{
+"kids":[],
+"uid":"2250988211",
+"parent":"",
+"text":"",
+"mid":"ztiLNB8vV",
+"date":"2013-04-22 10:47:31"
+},
+{
+"kids":[],
+"uid":"2705479065",
+"parent":"",
+"text":"",
+"mid":"ztiLfywQt",
+"date":"2013-04-22 10:46:09"
+},
+{
+"kids":[],
+"uid":"344687778",
+"parent":"",
+"text":"紅會攤上事了…[汗][汗][汗][汗][汗]",
+"mid":"ztiL97e2s",
+"date":"2013-04-22 10:45:54"
+},
+{
+"kids":[],
+"uid":"1956744835",
+"parent":"",
+"text":"",
+"mid":"ztiKW7Ufq",
+"date":"2013-04-22 10:45:23"
+},
+{
+"kids":[],
+"uid":"3327982774",
+"parent":"",
+"text":"",
+"mid":"ztiKswkfP",
+"date":"2013-04-22 10:44:14"
+},
+{
+"kids":[],
+"uid":"2386745015",
+"parent":"",
+"text":"",
+"mid":"ztiKfhPOJ",
+"date":"2013-04-22 10:43:41"
+},
+{
+"kids":[],
+"uid":"1829371207",
+"parent":"",
+"text":"狗改不了吃屎",
+"mid":"ztiJFwbKC",
+"date":"2013-04-22 10:42:16"
+},
+{
+"kids":[],
+"uid":"brainrelax",
+"parent":"",
+"text":"他们上下一心，已经习惯了贪腐",
+"mid":"ztiJBDGqj",
+"date":"2013-04-22 10:42:06"
+},
+{
+"kids":[
+"ztiNtAMcH"
+],
+"uid":"2990475221",
+"parent":"",
+"text":"",
+"mid":"ztiJzynu7",
+"date":"2013-04-22 10:42:02"
+},
+{
+"kids":[],
+"uid":"1739082334",
+"parent":"",
+"text":"",
+"mid":"ztiJjD6eH",
+"date":"2013-04-22 10:41:24"
+},
+{
+"kids":[],
+"uid":"1289431101",
+"parent":"",
+"text":"",
+"mid":"ztiHMrCCq",
+"date":"2013-04-22 10:37:36"
+},
+{
+"kids":[],
+"uid":"3177076304",
+"parent":"",
+"text":"",
+"mid":"ztiHDDwSV",
+"date":"2013-04-22 10:37:16"
+},
+{
+"kids":[],
+"uid":"3077598851",
+"parent":"ztiFqtG3q",
+"text":"",
+"mid":"ztiHqAH6q",
+"date":"2013-04-22 10:36:45"
+},
+{
+"kids":[
+"ztjgqrwVd"
+],
+"uid":"1789840340",
+"parent":"ztizEl328",
+"text":"",
+"mid":"ztiFIeRhU",
+"date":"2013-04-22 10:32:30"
+},
+{
+"kids":[
+"ztiHqAH6q"
+],
+"uid":"2445931177",
+"parent":"",
+"text":"",
+"mid":"ztiFqtG3q",
+"date":"2013-04-22 10:31:49"
+},
+{
+"kids":[],
+"uid":"ailaipigui",
+"parent":"",
+"text":"",
+"mid":"ztiAsiMuM",
+"date":"2013-04-22 10:19:34"
+},
+{
+"kids":[],
+"uid":"3207619645",
+"parent":"",
+"text":"",
+"mid":"ztizUm9iE",
+"date":"2013-04-22 10:18:12"
+},
+{
+"kids":[
+"ztjF8fP9g",
+"ztiFIeRhU"
+],
+"uid":"saohuangshidai",
+"parent":"",
+"text":"",
+"mid":"ztizEl328",
+"date":"2013-04-22 10:17:35"
+}
+]

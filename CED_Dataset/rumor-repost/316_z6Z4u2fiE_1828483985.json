@@ -1,0 +1,5250 @@
+[
+{
+"kids":[],
+"uid":"2805369274",
+"parent":"zetlFfw8Z",
+"text":"",
+"mid":"zeF5Yyq6V",
+"date":"2013-01-16 04:03:06"
+},
+{
+"kids":[],
+"uid":"2919387034",
+"parent":"zetlFfw8Z",
+"text":"",
+"mid":"zevQ6mmTN",
+"date":"2013-01-15 04:29:16"
+},
+{
+"kids":[
+"zeF5Yyq6V",
+"zevQ6mmTN"
+],
+"uid":"1908531144",
+"parent":"",
+"text":"",
+"mid":"zetlFfw8Z",
+"date":"2013-01-14 22:08:48"
+},
+{
+"kids":[],
+"uid":"1777494322",
+"parent":"",
+"text":"",
+"mid":"zbnKcBpyd",
+"date":"2012-12-25 14:21:51"
+},
+{
+"kids":[],
+"uid":"2920089810",
+"parent":"",
+"text":"",
+"mid":"z9ZyIFkQ2",
+"date":"2012-12-16 10:57:18"
+},
+{
+"kids":[],
+"uid":"2804272374",
+"parent":"z6ZwIdVTQ",
+"text":"",
+"mid":"z9OBYrHAn",
+"date":"2012-12-15 07:05:07"
+},
+{
+"kids":[],
+"uid":"2920426204",
+"parent":"",
+"text":"",
+"mid":"z9MX5nWrc",
+"date":"2012-12-15 02:51:39"
+},
+{
+"kids":[],
+"uid":"2919957900",
+"parent":"",
+"text":"",
+"mid":"z9MX5nlpv",
+"date":"2012-12-15 02:51:38"
+},
+{
+"kids":[],
+"uid":"2920583114",
+"parent":"z6ZwIdVTQ",
+"text":"",
+"mid":"z9LeN1gGX",
+"date":"2012-12-14 22:29:43"
+},
+{
+"kids":[],
+"uid":"2805012234",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z9wAzbzFQ",
+"date":"2012-12-13 09:12:12"
+},
+{
+"kids":[],
+"uid":"2919592444",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z9wAzaMvQ",
+"date":"2012-12-13 09:12:12"
+},
+{
+"kids":[],
+"uid":"2790068700",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z9eMgaSbE",
+"date":"2012-12-11 11:51:35"
+},
+{
+"kids":[],
+"uid":"2803500244",
+"parent":"",
+"text":"",
+"mid":"z9cuA5BrV",
+"date":"2012-12-11 06:02:32"
+},
+{
+"kids":[],
+"uid":"2919335752",
+"parent":"",
+"text":"",
+"mid":"z95ltjK4e",
+"date":"2012-12-10 11:50:51"
+},
+{
+"kids":[],
+"uid":"2919615470",
+"parent":"",
+"text":"",
+"mid":"z91Nr1WHA",
+"date":"2012-12-10 02:48:46"
+},
+{
+"kids":[],
+"uid":"2919648112",
+"parent":"",
+"text":"",
+"mid":"z91NqsgF1",
+"date":"2012-12-10 02:48:45"
+},
+{
+"kids":[],
+"uid":"2790039874",
+"parent":"z80Rsq8nT",
+"text":"",
+"mid":"z91jLiZqS",
+"date":"2012-12-10 01:35:40"
+},
+{
+"kids":[],
+"uid":"2790030834",
+"parent":"",
+"text":"",
+"mid":"z8UIQEd0t",
+"date":"2012-12-09 08:48:15"
+},
+{
+"kids":[],
+"uid":"2804756864",
+"parent":"",
+"text":"",
+"mid":"z8UIQojdq",
+"date":"2012-12-09 08:48:13"
+},
+{
+"kids":[],
+"uid":"2920149304",
+"parent":"z80Rsq8nT",
+"text":"",
+"mid":"z8RRf9PpU",
+"date":"2012-12-09 01:30:41"
+},
+{
+"kids":[],
+"uid":"2920617194",
+"parent":"z6ZwIdVTQ",
+"text":"",
+"mid":"z8CRnu2w7",
+"date":"2012-12-07 11:19:48"
+},
+{
+"kids":[],
+"uid":"1778358073",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z8rJXnXJx",
+"date":"2012-12-06 07:01:19"
+},
+{
+"kids":[],
+"uid":"2808330792",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z8rJXmzka",
+"date":"2012-12-06 07:01:19"
+},
+{
+"kids":[],
+"uid":"2810175242",
+"parent":"z6ZwIdVTQ",
+"text":"",
+"mid":"z8oZY4NaA",
+"date":"2012-12-06 00:02:28"
+},
+{
+"kids":[],
+"uid":"1584004904",
+"parent":"z6ZwIdVTQ",
+"text":"",
+"mid":"z8oZY4N8u",
+"date":"2012-12-06 00:02:28"
+},
+{
+"kids":[],
+"uid":"2803528262",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z8irNl23O",
+"date":"2012-12-05 07:21:50"
+},
+{
+"kids":[],
+"uid":"2919366734",
+"parent":"",
+"text":"",
+"mid":"z8gpLmj8b",
+"date":"2012-12-05 02:11:21"
+},
+{
+"kids":[],
+"uid":"2919575670",
+"parent":"",
+"text":"",
+"mid":"z88l8zb1R",
+"date":"2012-12-04 05:37:58"
+},
+{
+"kids":[],
+"uid":"2810168870",
+"parent":"",
+"text":"",
+"mid":"z86KOhZCx",
+"date":"2012-12-04 01:35:44"
+},
+{
+"kids":[],
+"uid":"2920041662",
+"parent":"",
+"text":"",
+"mid":"z86KOgCyJ",
+"date":"2012-12-04 01:35:44"
+},
+{
+"kids":[
+"z91jLiZqS",
+"z8RRf9PpU"
+],
+"uid":"2450679607",
+"parent":"z6ZE8xRCo",
+"text":"档不了牌牌了",
+"mid":"z80Rsq8nT",
+"date":"2012-12-03 10:35:38"
+},
+{
+"kids":[],
+"uid":"2803627254",
+"parent":"",
+"text":"",
+"mid":"z80z0j10P",
+"date":"2012-12-03 09:50:10"
+},
+{
+"kids":[],
+"uid":"1583946472",
+"parent":"",
+"text":"",
+"mid":"z80z0hIGN",
+"date":"2012-12-03 09:50:10"
+},
+{
+"kids":[],
+"uid":"2920567370",
+"parent":"",
+"text":"",
+"mid":"z7XRK0Ivr",
+"date":"2012-12-03 02:58:04"
+},
+{
+"kids":[],
+"uid":"1584098660",
+"parent":"",
+"text":"",
+"mid":"z7XRK0IuR",
+"date":"2012-12-03 02:58:04"
+},
+{
+"kids":[],
+"uid":"2804840562",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z7LA58UHu",
+"date":"2012-12-01 19:41:35"
+},
+{
+"kids":[],
+"uid":"1579304982",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z7LA58UFx",
+"date":"2012-12-01 19:41:37"
+},
+{
+"kids":[],
+"uid":"2118270307",
+"parent":"z70ud5HQP",
+"text":"为了道路松快些，红牌黄牌可谓十面埋伏啊[汗]行驶中用耳机或蓝牙接打电话不算吧?@茶叶飘香歌不停 @大眼睛亮亮的幸福人生",
+"mid":"z7ILgb9tc",
+"date":"2012-12-01 12:30:55"
+},
+{
+"kids":[],
+"uid":"1589678672",
+"parent":"",
+"text":"",
+"mid":"z7IuxB5vM",
+"date":"2012-12-01 11:49:42"
+},
+{
+"kids":[],
+"uid":"2919932082",
+"parent":"z6Zwdalu5",
+"text":"",
+"mid":"z7HkxAySJ",
+"date":"2012-12-01 08:52:20"
+},
+{
+"kids":[],
+"uid":"2920057914",
+"parent":"z70ud5HQP",
+"text":"",
+"mid":"z7EC5pgqb",
+"date":"2012-12-01 01:57:20"
+},
+{
+"kids":[],
+"uid":"2920195952",
+"parent":"z70ud5HQP",
+"text":"",
+"mid":"z7EC57Fcs",
+"date":"2012-12-01 01:57:19"
+},
+{
+"kids":[],
+"uid":"lilyzhang1983",
+"parent":"z6ZA7t7M6",
+"text":"",
+"mid":"z7DKQwiNo",
+"date":"2012-11-30 23:46:10"
+},
+{
+"kids":[],
+"uid":"1583692781",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z7C7KuKu3",
+"date":"2012-11-30 19:37:05"
+},
+{
+"kids":[],
+"uid":"1583982544",
+"parent":"z70ud5HQP",
+"text":"",
+"mid":"z7BBxy5Bh",
+"date":"2012-11-30 18:17:46"
+},
+{
+"kids":[],
+"uid":"2789773352",
+"parent":"z70ud5HQP",
+"text":"",
+"mid":"z7BBxy5zM",
+"date":"2012-11-30 18:17:43"
+},
+{
+"kids":[],
+"uid":"2804912090",
+"parent":"z6ZwIdVTQ",
+"text":"",
+"mid":"z7AfmhwkG",
+"date":"2012-11-30 14:50:19"
+},
+{
+"kids":[],
+"uid":"2810638630",
+"parent":"z6Zwdalu5",
+"text":"",
+"mid":"z7wJbfoSk",
+"date":"2012-11-30 05:52:50"
+},
+{
+"kids":[],
+"uid":"2807720204",
+"parent":"z6Zwdalu5",
+"text":"",
+"mid":"z7wJbfoRx",
+"date":"2012-11-30 05:52:49"
+},
+{
+"kids":[],
+"uid":"1777490604",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z7vuGCwek",
+"date":"2012-11-30 02:44:23"
+},
+{
+"kids":[],
+"uid":"2920629492",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z7vuGB2lx",
+"date":"2012-11-30 02:44:23"
+},
+{
+"kids":[],
+"uid":"2680658171",
+"parent":"z7t65t7nT",
+"text":"看",
+"mid":"z7u8Vn4Tf",
+"date":"2012-11-29 23:17:59"
+},
+{
+"kids":[],
+"uid":"2804559420",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z7tWEadOp",
+"date":"2012-11-29 22:47:43"
+},
+{
+"kids":[],
+"uid":"2804913774",
+"parent":"z6ZxkkszO",
+"text":"",
+"mid":"z7tWE9g3a",
+"date":"2012-11-29 22:47:44"
+},
+{
+"kids":[
+"z7u8Vn4Tf"
+],
+"uid":"1583902293",
+"parent":"z70QQqZLj",
+"text":"",
+"mid":"z7t65t7nT",
+"date":"2012-11-29 20:38:14"
+},
+{
+"kids":[],
+"uid":"2920127420",
+"parent":"z70QQqZLj",
+"text":"",
+"mid":"z7t65svYV",
+"date":"2012-11-29 20:38:18"
+},
+{
+"kids":[],
+"uid":"2920328634",
+"parent":"",
+"text":"",
+"mid":"z7s6Zyvzj",
+"date":"2012-11-29 18:07:44"
+},
+{
+"kids":[],
+"uid":"1894729260",
+"parent":"",
+"text":"",
+"mid":"z7q4HiH2Y",
+"date":"2012-11-29 12:56:36"
+},
+{
+"kids":[],
+"uid":"2810276394",
+"parent":"z6ZwIdVTQ",
+"text":"",
+"mid":"z7pVi1PqT",
+"date":"2012-11-29 12:33:25"
+},
+{
+"kids":[],
+"uid":"2789834934",
+"parent":"z6ZwIdVTQ",
+"text":"",
+"mid":"z7pVhpDcj",
+"date":"2012-11-29 12:33:25"
+},
+{
+"kids":[],
+"uid":"2920268622",
+"parent":"",
+"text":"",
+"mid":"z7mi4f8dt",
+"date":"2012-11-29 03:18:33"
+},
+{
+"kids":[],
+"uid":"1739318333",
+"parent":"z7gzt2vtm",
+"text":"12分肯定不够扣呀！",
+"mid":"z7iBeeseT",
+"date":"2012-11-28 17:54:47"
+},
+{
+"kids":[],
+"uid":"2141964827",
+"parent":"z7hqdwT2K",
+"text":"",
+"mid":"z7i1m4lSb",
+"date":"2012-11-28 16:26:22"
+},
+{
+"kids":[],
+"uid":"2809105481",
+"parent":"",
+"text":"",
+"mid":"z7hwD2sZr",
+"date":"2012-11-28 15:10:40"
+},
+{
+"kids":[],
+"uid":"2808106380",
+"parent":"z6ZJ9qEue",
+"text":"",
+"mid":"z7hqdy7X8",
+"date":"2012-11-28 14:54:55"
+},
+{
+"kids":[
+"z7i1m4lSb"
+],
+"uid":"1582836267",
+"parent":"z6ZJ9qEue",
+"text":"",
+"mid":"z7hqdwT2K",
+"date":"2012-11-28 14:54:53"
+},
+{
+"kids":[],
+"uid":"1778394464",
+"parent":"",
+"text":"",
+"mid":"z7gHgb3Vx",
+"date":"2012-11-28 13:04:08"
+},
+{
+"kids":[],
+"uid":"1726919527",
+"parent":"",
+"text":"",
+"mid":"z7gHga7el",
+"date":"2012-11-28 13:04:08"
+},
+{
+"kids":[
+"z7iBeeseT"
+],
+"uid":"2421647150",
+"parent":"",
+"text":"@狼抬灰 @nicolas991 @沛雨宝宝 @芭比小甜",
+"mid":"z7gzt2vtm",
+"date":"2012-11-28 12:44:57"
+},
+{
+"kids":[],
+"uid":"2919278570",
+"parent":"z6ZwpzNzI",
+"text":"",
+"mid":"z7gcsFVku",
+"date":"2012-11-28 11:48:15"
+},
+{
+"kids":[],
+"uid":"2805062594",
+"parent":"z6ZwpzNzI",
+"text":"",
+"mid":"z7gcsFVje",
+"date":"2012-11-28 11:48:16"
+},
+{
+"kids":[],
+"uid":"2920568254",
+"parent":"",
+"text":"",
+"mid":"z7g1qDvHC",
+"date":"2012-11-28 11:21:05"
+},
+{
+"kids":[],
+"uid":"2789708742",
+"parent":"",
+"text":"",
+"mid":"z7g1qDvGm",
+"date":"2012-11-28 11:21:04"
+},
+{
+"kids":[],
+"uid":"2789934662",
+"parent":"z78YO52fS",
+"text":"",
+"mid":"z7fC14Ryf",
+"date":"2012-11-28 10:18:27"
+},
+{
+"kids":[],
+"uid":"1439660430",
+"parent":"z78YO52fS",
+"text":"",
+"mid":"z7fC0tGLw",
+"date":"2012-11-28 10:18:28"
+},
+{
+"kids":[],
+"uid":"2789895462",
+"parent":"z6ZDcnCr5",
+"text":"",
+"mid":"z7dadl2ku",
+"date":"2012-11-28 04:04:30"
+},
+{
+"kids":[],
+"uid":"2919572752",
+"parent":"z6ZDcnCr5",
+"text":"",
+"mid":"z7dadl2jy",
+"date":"2012-11-28 04:04:29"
+},
+{
+"kids":[],
+"uid":"2790093244",
+"parent":"z6ZJ9qEue",
+"text":"",
+"mid":"z7bXVuXhB",
+"date":"2012-11-28 01:01:29"
+},
+{
+"kids":[],
+"uid":"1930298543",
+"parent":"",
+"text":"12分怎么跟钱一样的都贬值了。",
+"mid":"z7bIDCslx",
+"date":"2012-11-28 00:23:49"
+},
+{
+"kids":[],
+"uid":"2802945504",
+"parent":"z6ZDcnCr5",
+"text":"",
+"mid":"z79DEFgfX",
+"date":"2012-11-27 19:06:03"
+},
+{
+"kids":[],
+"uid":"2919731750",
+"parent":"z6ZDcnCr5",
+"text":"",
+"mid":"z79DEEEdX",
+"date":"2012-11-27 19:06:01"
+},
+{
+"kids":[],
+"uid":"2920367420",
+"parent":"z6ZwMDIgs",
+"text":"",
+"mid":"z79qI8FBK",
+"date":"2012-11-27 18:34:08"
+},
+{
+"kids":[],
+"uid":"2920626000",
+"parent":"z6ZwMDIgs",
+"text":"",
+"mid":"z79qI71EB",
+"date":"2012-11-27 18:34:10"
+},
+{
+"kids":[],
+"uid":"1879910041",
+"parent":"z78YO52fS",
+"text":"哈哈消息不属实 哈哈哈",
+"mid":"z78Z3Fkad",
+"date":"2012-11-27 17:26:02"
+},
+{
+"kids":[
+"z7fC14Ryf",
+"z7fC0tGLw",
+"z78Z3Fkad"
+],
+"uid":"xmjojo",
+"parent":"z6Zxr77Nu",
+"text":"真的好可爱[偷笑][哈哈]",
+"mid":"z78YO52fS",
+"date":"2012-11-27 17:25:24"
+},
+{
+"kids":[],
+"uid":"1367706620",
+"parent":"",
+"text":"",
+"mid":"z78kbwG99",
+"date":"2012-11-27 15:45:20"
+},
+{
+"kids":[],
+"uid":"2874057480",
+"parent":"",
+"text":"[din推撞]",
+"mid":"z77345WYN",
+"date":"2012-11-27 12:30:24"
+},
+{
+"kids":[],
+"uid":"1583027970",
+"parent":"z6ZilAcWI",
+"text":"",
+"mid":"z76xNkTjE",
+"date":"2012-11-27 11:13:21"
+},
+{
+"kids":[],
+"uid":"1583494475",
+"parent":"z6ZilAcWI",
+"text":"",
+"mid":"z76xNkTiv",
+"date":"2012-11-27 11:13:22"
+},
+{
+"kids":[],
+"uid":"2425583741",
+"parent":"",
+"text":"开车滴童鞋记住呀~~",
+"mid":"z76uj70u0",
+"date":"2012-11-27 11:04:45"
+},
+{
+"kids":[],
+"uid":"2789831992",
+"parent":"",
+"text":"",
+"mid":"z76qh4kmO",
+"date":"2012-11-27 10:54:51"
+},
+{
+"kids":[],
+"uid":"1781161601",
+"parent":"",
+"text":"@jimzhu2001",
+"mid":"z762mAJ2s",
+"date":"2012-11-27 09:55:55"
+},
+{
+"kids":[],
+"uid":"1980538131",
+"parent":"",
+"text":"尼玛。。还让不让人开车了~~~！！！！！",
+"mid":"z75ZKEP0O",
+"date":"2012-11-27 09:49:30"
+},
+{
+"kids":[],
+"uid":"2804728204",
+"parent":"z6ZCDcRpB",
+"text":"",
+"mid":"z75W0nATn",
+"date":"2012-11-27 09:40:14"
+},
+{
+"kids":[],
+"uid":"2920390574",
+"parent":"z6ZCDcRpB",
+"text":"",
+"mid":"z75W07KEn",
+"date":"2012-11-27 09:40:14"
+},
+{
+"kids":[],
+"uid":"2803298092",
+"parent":"",
+"text":"",
+"mid":"z75EogAfg",
+"date":"2012-11-27 08:56:51"
+},
+{
+"kids":[],
+"uid":"1727356557",
+"parent":"",
+"text":"",
+"mid":"z75EofXst",
+"date":"2012-11-27 08:56:51"
+},
+{
+"kids":[],
+"uid":"1785698220",
+"parent":"",
+"text":"",
+"mid":"z75yIBEWN",
+"date":"2012-11-27 08:42:53"
+},
+{
+"kids":[],
+"uid":"1582607033",
+"parent":"z6Zi80Nqt",
+"text":"",
+"mid":"z75q7xdvk",
+"date":"2012-11-27 08:21:42"
+},
+{
+"kids":[],
+"uid":"1582553981",
+"parent":"z6Zi80Nqt",
+"text":"",
+"mid":"z75q7xduw",
+"date":"2012-11-27 08:21:42"
+},
+{
+"kids":[],
+"uid":"windholdtear",
+"parent":"z71qu64kC",
+"text":"可以这么想，开车时抽着烟打着电话还超速行驶不小心闯了红灯，但没被警察发现没被摄像头拍，那这一天可就赚了好几千呢……",
+"mid":"z75pfdijZ",
+"date":"2012-11-27 08:19:33"
+},
+{
+"kids":[],
+"uid":"1777526972",
+"parent":"",
+"text":"",
+"mid":"z74YacWFg",
+"date":"2012-11-27 07:12:49"
+},
+{
+"kids":[],
+"uid":"2920647780",
+"parent":"z70wYuZNo",
+"text":"",
+"mid":"z74WgAeWe",
+"date":"2012-11-27 07:08:09"
+},
+{
+"kids":[],
+"uid":"2920388120",
+"parent":"z6ZwpzNzI",
+"text":"",
+"mid":"z74GJzywn",
+"date":"2012-11-27 06:29:53"
+},
+{
+"kids":[],
+"uid":"1272831961",
+"parent":"z71O5EPU8",
+"text":"对啊！如果这样的话该有多少个6分啊！",
+"mid":"z74E489lw",
+"date":"2012-11-27 06:23:18"
+},
+{
+"kids":[],
+"uid":"2920656800",
+"parent":"z6ZAXb8oZ",
+"text":"",
+"mid":"z74tDh2gd",
+"date":"2012-11-27 05:57:36"
+},
+{
+"kids":[],
+"uid":"2920142604",
+"parent":"z6ZAXb8oZ",
+"text":"",
+"mid":"z74tCFoAa",
+"date":"2012-11-27 05:57:36"
+},
+{
+"kids":[],
+"uid":"2810171252",
+"parent":"",
+"text":"",
+"mid":"z73ZhzLVn",
+"date":"2012-11-27 04:42:50"
+},
+{
+"kids":[],
+"uid":"1582726542",
+"parent":"",
+"text":"",
+"mid":"z73ZhznoC",
+"date":"2012-11-27 04:42:50"
+},
+{
+"kids":[],
+"uid":"2920427940",
+"parent":"z6ZB87c8Y",
+"text":"",
+"mid":"z73QMr32o",
+"date":"2012-11-27 04:21:54"
+},
+{
+"kids":[],
+"uid":"2805286172",
+"parent":"z6ZB87c8Y",
+"text":"",
+"mid":"z73QMr30T",
+"date":"2012-11-27 04:21:54"
+},
+{
+"kids":[],
+"uid":"1582900961",
+"parent":"z6ZDaiN0k",
+"text":"",
+"mid":"z73yo8K1H",
+"date":"2012-11-27 03:36:34"
+},
+{
+"kids":[],
+"uid":"2805214820",
+"parent":"z6ZDaiN0k",
+"text":"",
+"mid":"z73yo6UX8",
+"date":"2012-11-27 03:36:35"
+},
+{
+"kids":[],
+"uid":"2808404204",
+"parent":"z6ZMeBYq7",
+"text":"",
+"mid":"z73xrBcbz",
+"date":"2012-11-27 03:34:15"
+},
+{
+"kids":[],
+"uid":"1440474010",
+"parent":"z6ZMeBYq7",
+"text":"",
+"mid":"z73xrkide",
+"date":"2012-11-27 03:34:15"
+},
+{
+"kids":[],
+"uid":"1632436135",
+"parent":"z6Zwrmiop",
+"text":"可惜没有强行规定婴儿座椅的使用",
+"mid":"z73wrB3r6",
+"date":"2012-11-27 03:31:48"
+},
+{
+"kids":[],
+"uid":"2920649590",
+"parent":"z6Z518afr",
+"text":"",
+"mid":"z72TL2UhF",
+"date":"2012-11-27 01:56:29"
+},
+{
+"kids":[],
+"uid":"2920176152",
+"parent":"z6ZwC1EBE",
+"text":"",
+"mid":"z72Nti0rf",
+"date":"2012-11-27 01:41:00"
+},
+{
+"kids":[],
+"uid":"2920569222",
+"parent":"",
+"text":"",
+"mid":"z72Kp1vBj",
+"date":"2012-11-27 01:33:26"
+},
+{
+"kids":[],
+"uid":"1583587450",
+"parent":"z6ZWEwseZ",
+"text":"",
+"mid":"z72sPeKBe",
+"date":"2012-11-27 00:50:04"
+},
+{
+"kids":[],
+"uid":"2919522304",
+"parent":"z6Zwdalu5",
+"text":"",
+"mid":"z72lEe1Fv",
+"date":"2012-11-27 00:32:28"
+},
+{
+"kids":[],
+"uid":"2271628952",
+"parent":"",
+"text":"",
+"mid":"z72e1bxCw",
+"date":"2012-11-27 00:13:39"
+},
+{
+"kids":[],
+"uid":"2814038082",
+"parent":"",
+"text":"",
+"mid":"z728Xm8iO",
+"date":"2012-11-27 00:01:11"
+},
+{
+"kids":[],
+"uid":"1419742764",
+"parent":"z6ZzbvMWB",
+"text":"副驾位置很关键！",
+"mid":"z71PgDNQs",
+"date":"2012-11-26 23:12:41"
+},
+{
+"kids":[
+"z74E489lw"
+],
+"uid":"daliw",
+"parent":"z6ZAsbicZ",
+"text":"如何认定最后一条？",
+"mid":"z71O5EPU8",
+"date":"2012-11-26 23:09:47"
+},
+{
+"kids":[],
+"uid":"1998376563",
+"parent":"",
+"text":"",
+"mid":"z71MRpQXh",
+"date":"2012-11-26 23:06:46"
+},
+{
+"kids":[],
+"uid":"2702158562",
+"parent":"",
+"text":"大雪纷纷！[嘻嘻]",
+"mid":"z71Hxo3s4",
+"date":"2012-11-26 22:53:38"
+},
+{
+"kids":[],
+"uid":"1461824812",
+"parent":"",
+"text":"",
+"mid":"z71HeuaFX",
+"date":"2012-11-26 22:52:53"
+},
+{
+"kids":[
+"z75pfdijZ"
+],
+"uid":"1199340454",
+"parent":"z6Z7x5ZWq",
+"text":"@人说标题得长才有人看",
+"mid":"z71qu64kC",
+"date":"2012-11-26 22:11:37"
+},
+{
+"kids":[],
+"uid":"1583674521",
+"parent":"z6ZK8gH7H",
+"text":"",
+"mid":"z71mzcmqh",
+"date":"2012-11-26 22:01:55"
+},
+{
+"kids":[],
+"uid":"2803430994",
+"parent":"z6ZK8gH7H",
+"text":"",
+"mid":"z71mzaYVq",
+"date":"2012-11-26 22:01:59"
+},
+{
+"kids":[],
+"uid":"2028862631",
+"parent":"z70J0i19o",
+"text":"",
+"mid":"z71kz6H1v",
+"date":"2012-11-26 21:57:02"
+},
+{
+"kids":[],
+"uid":"2803733712",
+"parent":"",
+"text":"",
+"mid":"z71iQobQY",
+"date":"2012-11-26 21:52:45"
+},
+{
+"kids":[],
+"uid":"1816390443",
+"parent":"",
+"text":"",
+"mid":"z71istkNz",
+"date":"2012-11-26 21:51:48"
+},
+{
+"kids":[],
+"uid":"1009172203",
+"parent":"z6Zzk7j3M",
+"text":"@珍珠的守护者",
+"mid":"z71ieil5V",
+"date":"2012-11-26 21:51:18"
+},
+{
+"kids":[],
+"uid":"2803715790",
+"parent":"z6ZFYBOsG",
+"text":"",
+"mid":"z71bkqfeH",
+"date":"2012-11-26 21:34:14"
+},
+{
+"kids":[],
+"uid":"1583972492",
+"parent":"z6ZFYBOsG",
+"text":"",
+"mid":"z71bkqfcL",
+"date":"2012-11-26 21:34:14"
+},
+{
+"kids":[],
+"uid":"2809931760",
+"parent":"z6ZBejrLL",
+"text":"",
+"mid":"z717d84P0",
+"date":"2012-11-26 21:24:06"
+},
+{
+"kids":[],
+"uid":"2806437672",
+"parent":"",
+"text":"",
+"mid":"z715aoAD6",
+"date":"2012-11-26 21:19:07"
+},
+{
+"kids":[],
+"uid":"2002835113",
+"parent":"",
+"text":"好洋气！",
+"mid":"z712xhjwh",
+"date":"2012-11-26 21:12:36"
+},
+{
+"kids":[],
+"uid":"2701130194",
+"parent":"z6ZwEmvhk",
+"text":"关注新交规",
+"mid":"z711stgvA",
+"date":"2012-11-26 21:09:58"
+},
+{
+"kids":[],
+"uid":"234235523",
+"parent":"",
+"text":"带耳机或蓝牙不知道行不行",
+"mid":"z70Y5ilwg",
+"date":"2012-11-26 21:01:37"
+},
+{
+"kids":[],
+"uid":"2275790713",
+"parent":"z6Zid0dYQ",
+"text":"@Sean雷神",
+"mid":"z70WU0i5S",
+"date":"2012-11-26 20:58:45"
+},
+{
+"kids":[
+"z7t65t7nT",
+"z7t65svYV"
+],
+"uid":"2279196797",
+"parent":"",
+"text":"开车的注意了@刻着你名字的一支烟 @大鳄鳄肥肚宝 @巴萨小赵 @大锐锐ray0506",
+"mid":"z70QQqZLj",
+"date":"2012-11-26 20:43:46"
+},
+{
+"kids":[],
+"uid":"2953469365",
+"parent":"z70u9gokP",
+"text":"",
+"mid":"z70Np6xBP",
+"date":"2012-11-26 20:35:20"
+},
+{
+"kids":[],
+"uid":"2571007085",
+"parent":"",
+"text":"",
+"mid":"z70MaxE61",
+"date":"2012-11-26 20:32:18"
+},
+{
+"kids":[],
+"uid":"1650257693",
+"parent":"",
+"text":"",
+"mid":"z70JpqlDe",
+"date":"2012-11-26 20:25:28"
+},
+{
+"kids":[
+"z71kz6H1v"
+],
+"uid":"1805157383",
+"parent":"z70u9gokP",
+"text":"最后一条有点扯吧，如何判定副驾年龄？还有那条，副驾不带安全带扣分的，坐出租呢，好多出租上都已没有安全带了",
+"mid":"z70J0i19o",
+"date":"2012-11-26 20:24:30"
+},
+{
+"kids":[],
+"uid":"1822270302",
+"parent":"",
+"text":"还没学",
+"mid":"z70Ixn5uh",
+"date":"2012-11-26 20:23:18"
+},
+{
+"kids":[],
+"uid":"2648837667",
+"parent":"z6ZCBpO9h",
+"text":"",
+"mid":"z70DtyvRI",
+"date":"2012-11-26 20:10:53"
+},
+{
+"kids":[],
+"uid":"2306936401",
+"parent":"",
+"text":"",
+"mid":"z70CpE9rR",
+"date":"2012-11-26 20:08:16"
+},
+{
+"kids":[],
+"uid":"2311762402",
+"parent":"z6ZyFEqLH",
+"text":"",
+"mid":"z70BIeMXB",
+"date":"2012-11-26 20:06:30"
+},
+{
+"kids":[],
+"uid":"1864002310",
+"parent":"",
+"text":"@TV张莉",
+"mid":"z70BCj32M",
+"date":"2012-11-26 20:06:17"
+},
+{
+"kids":[],
+"uid":"2803737610",
+"parent":"z6Z8Oziib",
+"text":"",
+"mid":"z70ymsPN2",
+"date":"2012-11-26 19:58:16"
+},
+{
+"kids":[],
+"uid":"2137870030",
+"parent":"",
+"text":"貌似酒驾处罚很严哦",
+"mid":"z70xTxj7K",
+"date":"2012-11-26 19:57:08"
+},
+{
+"kids":[
+"z74WgAeWe"
+],
+"uid":"2064994123",
+"parent":"",
+"text":"",
+"mid":"z70wYuZNo",
+"date":"2012-11-26 19:54:52"
+},
+{
+"kids":[],
+"uid":"1837767562",
+"parent":"",
+"text":"惨了，我驾照都还没拿到呢[可怜][可怜]",
+"mid":"z70uODm0q",
+"date":"2012-11-26 19:49:30"
+},
+{
+"kids":[],
+"uid":"1699695775",
+"parent":"",
+"text":"开车的筒子门，盆子们注意啦！不小心就要重头再来啦！",
+"mid":"z70uisLcH",
+"date":"2012-11-26 19:48:16"
+},
+{
+"kids":[
+"z7ILgb9tc",
+"z7EC5pgqb",
+"z7EC57Fcs",
+"z7BBxy5Bh",
+"z7BBxy5zM"
+],
+"uid":"1401859550",
+"parent":"z6ZKimXvG",
+"text":"转发微博。",
+"mid":"z70ud5HQP",
+"date":"2012-11-26 19:48:02"
+},
+{
+"kids":[
+"z70Np6xBP",
+"z70J0i19o"
+],
+"uid":"sunsophie",
+"parent":"",
+"text":"应该加一条：鸣笛，扣3分。",
+"mid":"z70u9gokP",
+"date":"2012-11-26 19:47:54"
+},
+{
+"kids":[],
+"uid":"1953415224",
+"parent":"",
+"text":"大家看看",
+"mid":"z70mhFKN5",
+"date":"2012-11-26 19:28:30"
+},
+{
+"kids":[],
+"uid":"3096221101",
+"parent":"",
+"text":"[吃惊]",
+"mid":"z70kt9E2Z",
+"date":"2012-11-26 19:24:04"
+},
+{
+"kids":[],
+"uid":"filly213",
+"parent":"z6ZgGbjA6",
+"text":"儿童保护还没力度，应该是不乘坐安全座椅罚6分300",
+"mid":"z70i3zTik",
+"date":"2012-11-26 19:18:07"
+},
+{
+"kids":[],
+"uid":"2013602380",
+"parent":"",
+"text":"",
+"mid":"z70gQye36",
+"date":"2012-11-26 19:15:08"
+},
+{
+"kids":[],
+"uid":"2451939241",
+"parent":"",
+"text":"[晕]",
+"mid":"z70eJnHeN",
+"date":"2012-11-26 19:09:54"
+},
+{
+"kids":[],
+"uid":"soniachu",
+"parent":"z6Zytf3xW",
+"text":"",
+"mid":"z70dQEUaD",
+"date":"2012-11-26 19:07:45"
+},
+{
+"kids":[],
+"uid":"1596365605",
+"parent":"z6Zzk7j3M",
+"text":"",
+"mid":"z70bK5uX0",
+"date":"2012-11-26 19:02:34"
+},
+{
+"kids":[],
+"uid":"1875173751",
+"parent":"",
+"text":"",
+"mid":"z70aIxdqo",
+"date":"2012-11-26 19:00:02"
+},
+{
+"kids":[],
+"uid":"1868572203",
+"parent":"",
+"text":"",
+"mid":"z704h2OKO",
+"date":"2012-11-26 18:44:10"
+},
+{
+"kids":[],
+"uid":"1724893935",
+"parent":"",
+"text":"",
+"mid":"z703W6JHj",
+"date":"2012-11-26 18:43:19"
+},
+{
+"kids":[],
+"uid":"lixin100",
+"parent":"z6ZwwlBBa",
+"text":"",
+"mid":"z7031lMf3",
+"date":"2012-11-26 18:41:04"
+},
+{
+"kids":[],
+"uid":"1240657467",
+"parent":"",
+"text":"@西单的歪歪 @小米Violet @不吃猛睡 @Leo雷 @meg_luo @boffett @动感达叔 转给有车的，没车的，会开车的，不会开车的，有驾照，没驾照的",
+"mid":"z702pchs2",
+"date":"2012-11-26 18:39:33"
+},
+{
+"kids":[],
+"uid":"lovekimjeauck",
+"parent":"z6ZwmiMQO",
+"text":"哇哦",
+"mid":"z701WgHbU",
+"date":"2012-11-26 18:38:22"
+},
+{
+"kids":[],
+"uid":"1589658362",
+"parent":"z6ZxoroQ9",
+"text":"",
+"mid":"z701Usb3D",
+"date":"2012-11-26 18:38:17"
+},
+{
+"kids":[],
+"uid":"1582773252",
+"parent":"z6ZxoroQ9",
+"text":"",
+"mid":"z701UbM4X",
+"date":"2012-11-26 18:38:20"
+},
+{
+"kids":[],
+"uid":"1475838762",
+"parent":"",
+"text":"@粉调调调调调",
+"mid":"z701Lm3Y4",
+"date":"2012-11-26 18:37:58"
+},
+{
+"kids":[],
+"uid":"1784473180",
+"parent":"z6ZzFEeZT",
+"text":"",
+"mid":"z700wszWo",
+"date":"2012-11-26 18:34:55"
+},
+{
+"kids":[],
+"uid":"2286121565",
+"parent":"",
+"text":"",
+"mid":"z6ZYu2oNi",
+"date":"2012-11-26 18:29:53"
+},
+{
+"kids":[],
+"uid":"1409255684",
+"parent":"",
+"text":"",
+"mid":"z6ZWTCsBH",
+"date":"2012-11-26 18:25:59"
+},
+{
+"kids":[
+"z72sPeKBe"
+],
+"uid":"yatou0325",
+"parent":"",
+"text":"转起来并迅速扩散",
+"mid":"z6ZWEwseZ",
+"date":"2012-11-26 18:25:24"
+},
+{
+"kids":[],
+"uid":"1944456745",
+"parent":"",
+"text":"",
+"mid":"z6ZWnqSZh",
+"date":"2012-11-26 18:24:40"
+},
+{
+"kids":[],
+"uid":"2482603093",
+"parent":"z6ZtYzP85",
+"text":"@NOAH苏慧",
+"mid":"z6ZVAm5EU",
+"date":"2012-11-26 18:22:44"
+},
+{
+"kids":[],
+"uid":"reynoldcxeve",
+"parent":"z6ZwGpyTZ",
+"text":"这个必须扩散下",
+"mid":"z6ZTosnUK",
+"date":"2012-11-26 18:17:22"
+},
+{
+"kids":[],
+"uid":"2408543601",
+"parent":"",
+"text":"学习一下",
+"mid":"z6ZT7k0Ai",
+"date":"2012-11-26 18:16:38"
+},
+{
+"kids":[],
+"uid":"2234960607",
+"parent":"z6Z9UAj3h",
+"text":"不满14岁不能坐副驾驶?这还真是刚听说。",
+"mid":"z6ZSNdN50",
+"date":"2012-11-26 18:15:52"
+},
+{
+"kids":[],
+"uid":"1424751582",
+"parent":"z6ZyYhHQv",
+"text":"@城隍小护院",
+"mid":"z6ZQI6aH0",
+"date":"2012-11-26 18:10:43"
+},
+{
+"kids":[],
+"uid":"2031159421",
+"parent":"",
+"text":"cool",
+"mid":"z6ZQBfUCU",
+"date":"2012-11-26 18:10:27"
+},
+{
+"kids":[],
+"uid":"2154006332",
+"parent":"z6ZBR18vC",
+"text":"最后一条真的假的啊？",
+"mid":"z6ZQrh1wQ",
+"date":"2012-11-26 18:10:04"
+},
+{
+"kids":[],
+"uid":"1743862030",
+"parent":"",
+"text":"",
+"mid":"z6ZOhEZl1",
+"date":"2012-11-26 18:04:46"
+},
+{
+"kids":[],
+"uid":"ruguonijide",
+"parent":"",
+"text":"",
+"mid":"z6ZO5y5Hm",
+"date":"2012-11-26 18:04:17"
+},
+{
+"kids":[],
+"uid":"579720222",
+"parent":"",
+"text":"",
+"mid":"z6ZNMC88S",
+"date":"2012-11-26 18:03:30"
+},
+{
+"kids":[],
+"uid":"1109296067",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6ZNM4ucT",
+"date":"2012-11-26 18:03:30"
+},
+{
+"kids":[],
+"uid":"2445507421",
+"parent":"",
+"text":"@大回小回王一鸣 @小于哥2016",
+"mid":"z6ZNndu16",
+"date":"2012-11-26 18:02:31"
+},
+{
+"kids":[],
+"uid":"chiayan",
+"parent":"z6ZKimXvG",
+"text":"我没身份证呢咋办？。。。好在我不爱坐副驾[嘻嘻]",
+"mid":"z6ZN9lgMF",
+"date":"2012-11-26 18:01:58"
+},
+{
+"kids":[],
+"uid":"2807668681",
+"parent":"",
+"text":"",
+"mid":"z6ZMZBVut",
+"date":"2012-11-26 18:01:35"
+},
+{
+"kids":[],
+"uid":"1462627637",
+"parent":"",
+"text":"@Ruby_幸福哑铃 @大茅不毛叫PhiL @野比康夫大雄的马甲 @野比康夫大雄的马甲 @想不同做不同 @爆果果 @陈小鼎 @定海神针1004129812 @放慢节奏深呼吸 @峻岭深邃藏琪玉",
+"mid":"z6ZMIqzBK",
+"date":"2012-11-26 18:00:54"
+},
+{
+"kids":[],
+"uid":"1777558137",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6ZMDs7BG",
+"date":"2012-11-26 18:00:43"
+},
+{
+"kids":[],
+"uid":"1809846434",
+"parent":"",
+"text":"@Tommy__XXXXXX",
+"mid":"z6ZMrkzsh",
+"date":"2012-11-26 18:00:13"
+},
+{
+"kids":[],
+"uid":"samllworld",
+"parent":"z6ZKTyCvk",
+"text":"",
+"mid":"z6ZMoDHJF",
+"date":"2012-11-26 18:00:08"
+},
+{
+"kids":[],
+"uid":"2808300100",
+"parent":"z6ZrYbUGo",
+"text":"",
+"mid":"z6ZMkvxhj",
+"date":"2012-11-26 17:59:58"
+},
+{
+"kids":[],
+"uid":"2802916380",
+"parent":"z6ZrYbUGo",
+"text":"",
+"mid":"z6ZMkcLDY",
+"date":"2012-11-26 17:59:54"
+},
+{
+"kids":[],
+"uid":"1891539957",
+"parent":"",
+"text":"@然胖",
+"mid":"z6ZMfvOMP",
+"date":"2012-11-26 17:59:44"
+},
+{
+"kids":[
+"z73xrBcbz",
+"z73xrkide"
+],
+"uid":"2412790544",
+"parent":"z6ZyupU9k",
+"text":"@玥儿她妈 @培蓓g @小宝真粉 @",
+"mid":"z6ZMeBYq7",
+"date":"2012-11-26 17:59:43"
+},
+{
+"kids":[],
+"uid":"3066809915",
+"parent":"",
+"text":"",
+"mid":"z6ZMeBYjX",
+"date":"2012-11-26 17:59:42"
+},
+{
+"kids":[],
+"uid":"cmh19881005",
+"parent":"",
+"text":"扣分扣的好厉害。",
+"mid":"z6ZM3DEPc",
+"date":"2012-11-26 17:59:17"
+},
+{
+"kids":[],
+"uid":"huihui8899",
+"parent":"",
+"text":"",
+"mid":"z6ZM1zzEu",
+"date":"2012-11-26 17:59:09"
+},
+{
+"kids":[],
+"uid":"2295498240",
+"parent":"",
+"text":"宁可信其有",
+"mid":"z6ZLEApSc",
+"date":"2012-11-26 17:58:16"
+},
+{
+"kids":[],
+"uid":"2117467244",
+"parent":"z6ZkiaVKr",
+"text":"真替你两担心[挖鼻屎]",
+"mid":"z6ZLoBalN",
+"date":"2012-11-26 17:57:39"
+},
+{
+"kids":[],
+"uid":"2557583290",
+"parent":"",
+"text":"记住记住",
+"mid":"z6ZLo17lz",
+"date":"2012-11-26 17:57:38"
+},
+{
+"kids":[],
+"uid":"2534273685",
+"parent":"",
+"text":"[围观]",
+"mid":"z6ZLcaEmz",
+"date":"2012-11-26 17:57:09"
+},
+{
+"kids":[],
+"uid":"907019789",
+"parent":"",
+"text":"",
+"mid":"z6ZL8lfmr",
+"date":"2012-11-26 17:57:00"
+},
+{
+"kids":[],
+"uid":"2150928282",
+"parent":"",
+"text":"",
+"mid":"z6ZL3mjMH",
+"date":"2012-11-26 17:56:46"
+},
+{
+"kids":[],
+"uid":"1627573253",
+"parent":"",
+"text":"",
+"mid":"z6ZL1eAqU",
+"date":"2012-11-26 17:56:43"
+},
+{
+"kids":[],
+"uid":"2261434782",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6ZKVnyg9",
+"date":"2012-11-26 17:56:27"
+},
+{
+"kids":[
+"z6ZMoDHJF"
+],
+"uid":"kim03122",
+"parent":"z6ZddBbQb",
+"text":"",
+"mid":"z6ZKTyCvk",
+"date":"2012-11-26 17:56:25"
+},
+{
+"kids":[],
+"uid":"1169626141",
+"parent":"",
+"text":"",
+"mid":"z6ZKP7GGs",
+"date":"2012-11-26 17:56:14"
+},
+{
+"kids":[],
+"uid":"1900523297",
+"parent":"z6ZxEoRQC",
+"text":"我靠~~~最后一条副驾驶不满14周岁也罚！！！抽烟罚，那喝水罚不罚啊~我觉得还是不够严谨，比如开车摸大腿抓咪咪也得罚",
+"mid":"z6ZKI2c16",
+"date":"2012-11-26 17:55:57"
+},
+{
+"kids":[],
+"uid":"2311072310",
+"parent":"",
+"text":"@小灰辉_狼",
+"mid":"z6ZKucjaB",
+"date":"2012-11-26 17:55:24"
+},
+{
+"kids":[],
+"uid":"1922066423",
+"parent":"",
+"text":"",
+"mid":"z6ZKl0oIc",
+"date":"2012-11-26 17:54:59"
+},
+{
+"kids":[],
+"uid":"2712294054",
+"parent":"",
+"text":"@小铜锣Liz_Jo",
+"mid":"z6ZKkFbYM",
+"date":"2012-11-26 17:55:02"
+},
+{
+"kids":[
+"z70ud5HQP",
+"z6ZN9lgMF"
+],
+"uid":"shelley520",
+"parent":"z6ZC7znPW",
+"text":"@紫霞76 @lillian0920玲 @chia-yan的世界 @2笨蛋云2 以后不坐副驾驶了！分也不富裕啊！~~",
+"mid":"z6ZKimXvG",
+"date":"2012-11-26 17:54:56"
+},
+{
+"kids":[],
+"uid":"teanlon",
+"parent":"",
+"text":"提醒身边开车的朋友吧！",
+"mid":"z6ZKf7o1X",
+"date":"2012-11-26 17:54:47"
+},
+{
+"kids":[
+"z71mzcmqh",
+"z71mzaYVq"
+],
+"uid":"1098284167",
+"parent":"",
+"text":"熟么玩意儿~",
+"mid":"z6ZK8gH7H",
+"date":"2012-11-26 17:54:32"
+},
+{
+"kids":[],
+"uid":"1872625912",
+"parent":"",
+"text":"这么严格啊!",
+"mid":"z6ZK2pqui",
+"date":"2012-11-26 17:54:16"
+},
+{
+"kids":[],
+"uid":"1979776947",
+"parent":"",
+"text":"@月光_V 好好看看",
+"mid":"z6ZJZ9QP2",
+"date":"2012-11-26 17:54:10"
+},
+{
+"kids":[],
+"uid":"1959495643",
+"parent":"",
+"text":"[瑜伽二][小汽车][小汽车][小汽车]",
+"mid":"z6ZJMrfQ4",
+"date":"2012-11-26 17:53:38"
+},
+{
+"kids":[],
+"uid":"2178453931",
+"parent":"",
+"text":"这是真的吗？太恐怖了，以后车没法开了。@小鸟一只2212521335",
+"mid":"z6ZJFj5nL",
+"date":"2012-11-26 17:53:24"
+},
+{
+"kids":[],
+"uid":"2942113357",
+"parent":"z6ZIawIFk",
+"text":"[嘻嘻]我驾车经常做到3,5,8这3条，以后要遵循了。",
+"mid":"z6ZJuobSv",
+"date":"2012-11-26 17:52:58"
+},
+{
+"kids":[],
+"uid":"2255913930",
+"parent":"",
+"text":"开车的朋友看过来！！",
+"mid":"z6ZJgezBf",
+"date":"2012-11-26 17:52:20"
+},
+{
+"kids":[
+"z7hqdy7X8",
+"z7hqdwT2K",
+"z7bXVuXhB"
+],
+"uid":"1691108820",
+"parent":"",
+"text":"",
+"mid":"z6ZJ9qEue",
+"date":"2012-11-26 17:52:07"
+},
+{
+"kids":[],
+"uid":"ginnyjin",
+"parent":"",
+"text":"",
+"mid":"z6ZJ22a4v",
+"date":"2012-11-26 17:51:49"
+},
+{
+"kids":[],
+"uid":"1916686317",
+"parent":"",
+"text":"@哲840213 @兔小白的喵 @Tony大碗加肉帽 @KB真TMD帅 @爱睡觉的猫ling @澈lynn @淡蓝色冰餹 @Fire_Fox_ZQ @Isa菟儿 @jessica-杰西卡 @JOJO佳飞 @Joyi_wang @嬌琪雯女 @珊嬢 @完美范特西 @小坤V5 @楊楊楊小悦 @一朵夏夏 @雨N_Y @-小马鹿- 开车的朋友看过来！！",
+"mid":"z6ZJ01b9R",
+"date":"2012-11-26 17:51:42"
+},
+{
+"kids":[],
+"uid":"2854668672",
+"parent":"",
+"text":"",
+"mid":"z6ZITrMZJ",
+"date":"2012-11-26 17:51:28"
+},
+{
+"kids":[],
+"uid":"2554557615",
+"parent":"",
+"text":"",
+"mid":"z6ZIOtqDQ",
+"date":"2012-11-26 17:51:17"
+},
+{
+"kids":[],
+"uid":"2159034345",
+"parent":"",
+"text":"",
+"mid":"z6ZIJaoFt",
+"date":"2012-11-26 17:51:04"
+},
+{
+"kids":[],
+"uid":"2188442065",
+"parent":"",
+"text":"确实需要学习一下[太开心]",
+"mid":"z6ZIGa36p",
+"date":"2012-11-26 17:50:57"
+},
+{
+"kids":[],
+"uid":"2047517775",
+"parent":"",
+"text":"开车的朋友看过来！！@若痕萧清",
+"mid":"z6ZIAzklQ",
+"date":"2012-11-26 17:50:44"
+},
+{
+"kids":[],
+"uid":"201224999",
+"parent":"",
+"text":"",
+"mid":"z6ZInhwoi",
+"date":"2012-11-26 17:50:12"
+},
+{
+"kids":[],
+"uid":"liran503",
+"parent":"",
+"text":"@memorywater 噢噢噢不能抽烟喽",
+"mid":"z6ZIfAlPZ",
+"date":"2012-11-26 17:49:53"
+},
+{
+"kids":[],
+"uid":"2399650614",
+"parent":"",
+"text":"@朱云婷Cindy",
+"mid":"z6ZIf05DC",
+"date":"2012-11-26 17:49:53"
+},
+{
+"kids":[
+"z6ZJuobSv"
+],
+"uid":"lexelover",
+"parent":"z6ZGfaV3i",
+"text":"以后都要绑上安全带",
+"mid":"z6ZIawIFk",
+"date":"2012-11-26 17:49:40"
+},
+{
+"kids":[],
+"uid":"2312533817",
+"parent":"z6ZE8xRCo",
+"text":"真的假的，太吓人了",
+"mid":"z6ZHW48yS",
+"date":"2012-11-26 17:49:07"
+},
+{
+"kids":[],
+"uid":"wuying1015",
+"parent":"",
+"text":"转~~~",
+"mid":"z6ZH6EFHK",
+"date":"2012-11-26 17:47:03"
+},
+{
+"kids":[],
+"uid":"1786906682",
+"parent":"z6ZfVaBmq",
+"text":"转发微博。",
+"mid":"z6ZGZz9fP",
+"date":"2012-11-26 17:46:48"
+},
+{
+"kids":[],
+"uid":"spacezbq",
+"parent":"",
+"text":"",
+"mid":"z6ZGWzXlm",
+"date":"2012-11-26 17:46:39"
+},
+{
+"kids":[],
+"uid":"huiwangdengruzhou",
+"parent":"",
+"text":"这个，好凶残，一不小心就中枪了。@守望灯如昼  元芳，提前为你转起哦",
+"mid":"z6ZGT73c7",
+"date":"2012-11-26 17:46:32"
+},
+{
+"kids":[],
+"uid":"paul00ivy",
+"parent":"",
+"text":"@君女ii",
+"mid":"z6ZGIoYjd",
+"date":"2012-11-26 17:46:07"
+},
+{
+"kids":[],
+"uid":"2263683540",
+"parent":"",
+"text":"[吃惊]真吗",
+"mid":"z6ZGxd3A6",
+"date":"2012-11-26 17:45:41"
+},
+{
+"kids":[
+"z6ZIawIFk"
+],
+"uid":"2942113357",
+"parent":"z6Z5Xk80c",
+"text":"为了您的安全，请你遵循交通新规@Chuck的脚步止不住 @文艺小流氓Lu-cifer @春光灿烂祝八戒",
+"mid":"z6ZGfaV3i",
+"date":"2012-11-26 17:44:57"
+},
+{
+"kids":[],
+"uid":"2915168995",
+"parent":"",
+"text":"",
+"mid":"z6ZGblWhm",
+"date":"2012-11-26 17:44:46"
+},
+{
+"kids":[
+"z71bkqfeH",
+"z71bkqfcL"
+],
+"uid":"2650826454",
+"parent":"",
+"text":"抽烟1分",
+"mid":"z6ZFYBOsG",
+"date":"2012-11-26 17:44:18"
+},
+{
+"kids":[],
+"uid":"1843314933",
+"parent":"",
+"text":"【实用的】",
+"mid":"z6ZFT02VN",
+"date":"2012-11-26 17:44:02"
+},
+{
+"kids":[],
+"uid":"1806887597",
+"parent":"",
+"text":"开车的注意啊·！",
+"mid":"z6ZFJz2ZU",
+"date":"2012-11-26 17:43:40"
+},
+{
+"kids":[],
+"uid":"2232929970",
+"parent":"",
+"text":"@溁溁 @爱在深秋中11 @风雨无阻67",
+"mid":"z6ZFvo05k",
+"date":"2012-11-26 17:43:07"
+},
+{
+"kids":[],
+"uid":"cuisir1983",
+"parent":"",
+"text":"",
+"mid":"z6ZFsrmKR",
+"date":"2012-11-26 17:43:01"
+},
+{
+"kids":[],
+"uid":"1798761427",
+"parent":"",
+"text":"",
+"mid":"z6ZFccedJ",
+"date":"2012-11-26 17:42:22"
+},
+{
+"kids":[],
+"uid":"cathyjing",
+"parent":"",
+"text":"副驾不系安全带的分和费用自理哈[哈哈][哈哈]",
+"mid":"z6ZFc93y1",
+"date":"2012-11-26 17:42:21"
+},
+{
+"kids":[],
+"uid":"1941725917",
+"parent":"z6ZvtCunC",
+"text":"@李家丫头33  @judyzhang1028 @小桃子1231 @丽小_Sa @小豆豆和小驴驴 @牛牛serena @我是宁宁人儿 @园草三心 @瑶瑶玛迷Christina",
+"mid":"z6ZEX7WfJ",
+"date":"2012-11-26 17:41:44"
+},
+{
+"kids":[],
+"uid":"1888798801",
+"parent":"",
+"text":"",
+"mid":"z6ZEJt3b2",
+"date":"2012-11-26 17:41:14"
+},
+{
+"kids":[],
+"uid":"sunsoracat",
+"parent":"",
+"text":"开车的来看了！~",
+"mid":"z6ZEHri6K",
+"date":"2012-11-26 17:41:09"
+},
+{
+"kids":[],
+"uid":"2719698391",
+"parent":"",
+"text":"",
+"mid":"z6ZEGgrrW",
+"date":"2012-11-26 17:41:04"
+},
+{
+"kids":[],
+"uid":"sparkgirl",
+"parent":"",
+"text":"我还是别开车的好啊",
+"mid":"z6ZEDAHKh",
+"date":"2012-11-26 17:40:58"
+},
+{
+"kids":[],
+"uid":"333541777",
+"parent":"",
+"text":"",
+"mid":"z6ZECrFOZ",
+"date":"2012-11-26 17:40:57"
+},
+{
+"kids":[],
+"uid":"2212232592",
+"parent":"",
+"text":"",
+"mid":"z6ZEADmMd",
+"date":"2012-11-26 17:40:53"
+},
+{
+"kids":[],
+"uid":"1052149363",
+"parent":"",
+"text":"背诵，今天还在车上跟同事说，要严以律己喽！",
+"mid":"z6ZEnjkNQ",
+"date":"2012-11-26 17:40:21"
+},
+{
+"kids":[
+"z80Rsq8nT",
+"z6ZHW48yS"
+],
+"uid":"bjhuangxuanping",
+"parent":"",
+"text":"",
+"mid":"z6ZE8xRCo",
+"date":"2012-11-26 17:39:47"
+},
+{
+"kids":[],
+"uid":"jiangzhiping",
+"parent":"",
+"text":"",
+"mid":"z6ZE2nGBL",
+"date":"2012-11-26 17:39:31"
+},
+{
+"kids":[],
+"uid":"544870796",
+"parent":"",
+"text":"",
+"mid":"z6ZDS1958",
+"date":"2012-11-26 17:39:07"
+},
+{
+"kids":[],
+"uid":"lostxiaobai524013725",
+"parent":"",
+"text":"",
+"mid":"z6ZDRpyyB",
+"date":"2012-11-26 17:39:06"
+},
+{
+"kids":[],
+"uid":"2808946093",
+"parent":"",
+"text":"",
+"mid":"z6ZDRpyxB",
+"date":"2012-11-26 17:39:03"
+},
+{
+"kids":[],
+"uid":"237123726",
+"parent":"",
+"text":"【交通新规】2013年1月1日交通新规就要正式实行。",
+"mid":"z6ZDGtrPr",
+"date":"2012-11-26 17:38:37"
+},
+{
+"kids":[],
+"uid":"joyofly2011",
+"parent":"",
+"text":"",
+"mid":"z6ZDBbAMf",
+"date":"2012-11-26 17:38:26"
+},
+{
+"kids":[],
+"uid":"2100872117",
+"parent":"",
+"text":"",
+"mid":"z6ZDnyEDG",
+"date":"2012-11-26 17:37:55"
+},
+{
+"kids":[],
+"uid":"guilu",
+"parent":"",
+"text":"太狠了~",
+"mid":"z6ZDja2rZ",
+"date":"2012-11-26 17:37:42"
+},
+{
+"kids":[
+"z7dadl2ku",
+"z7dadl2jy",
+"z79DEFgfX",
+"z79DEEEdX"
+],
+"uid":"1877149813",
+"parent":"",
+"text":"最后一条。",
+"mid":"z6ZDcnCr5",
+"date":"2012-11-26 17:37:24"
+},
+{
+"kids":[],
+"uid":"2357364951",
+"parent":"",
+"text":"开车的朋友看过来！！",
+"mid":"z6ZDc5hoe",
+"date":"2012-11-26 17:37:23"
+},
+{
+"kids":[
+"z73yo8K1H",
+"z73yo6UX8"
+],
+"uid":"1430917730",
+"parent":"",
+"text":"",
+"mid":"z6ZDaiN0k",
+"date":"2012-11-26 17:37:22"
+},
+{
+"kids":[],
+"uid":"swat0519",
+"parent":"",
+"text":"一不小心就要被罚了。。。",
+"mid":"z6ZD5yfW5",
+"date":"2012-11-26 17:37:12"
+},
+{
+"kids":[],
+"uid":"2368109711",
+"parent":"",
+"text":"不开车也看看，副驾驶未满14岁也罚？",
+"mid":"z6ZD5fvjj",
+"date":"2012-11-26 17:37:07"
+},
+{
+"kids":[],
+"uid":"1066550822",
+"parent":"",
+"text":"@One_Mix @清澈的小双鱼 @大狮子小老虎",
+"mid":"z6ZD2ibdD",
+"date":"2012-11-26 17:37:04"
+},
+{
+"kids":[],
+"uid":"2266109330",
+"parent":"",
+"text":"",
+"mid":"z6ZD0e5ZP",
+"date":"2012-11-26 17:36:58"
+},
+{
+"kids":[],
+"uid":"721237717",
+"parent":"",
+"text":"",
+"mid":"z6ZCXhVft",
+"date":"2012-11-26 17:36:51"
+},
+{
+"kids":[],
+"uid":"2162997892",
+"parent":"",
+"text":"收了。。。@fishleeyujing",
+"mid":"z6ZCVvrnd",
+"date":"2012-11-26 17:36:48"
+},
+{
+"kids":[],
+"uid":"lanlanSTAR",
+"parent":"",
+"text":"",
+"mid":"z6ZCTsKiy",
+"date":"2012-11-26 17:36:42"
+},
+{
+"kids":[],
+"uid":"1944406823",
+"parent":"",
+"text":"@圈圈儿的丁先森 @GT端木子 看看吧，12分够不够扣哦。",
+"mid":"z6ZCIf2mR",
+"date":"2012-11-26 17:36:15"
+},
+{
+"kids":[],
+"uid":"wukaisen",
+"parent":"",
+"text":"球辟谣",
+"mid":"z6ZCG9CcA",
+"date":"2012-11-26 17:36:08"
+},
+{
+"kids":[],
+"uid":"2215227683",
+"parent":"",
+"text":"[汗][吃惊]",
+"mid":"z6ZCFwP3V",
+"date":"2012-11-26 17:36:08"
+},
+{
+"kids":[
+"z75W0nATn",
+"z75W07KEn"
+],
+"uid":"tjgk",
+"parent":"",
+"text":"开车的朋友看过来！！",
+"mid":"z6ZCDcRpB",
+"date":"2012-11-26 17:36:02"
+},
+{
+"kids":[
+"z70DtyvRI"
+],
+"uid":"1815024152",
+"parent":"",
+"text":"真的吗？",
+"mid":"z6ZCBpO9h",
+"date":"2012-11-26 17:35:59"
+},
+{
+"kids":[],
+"uid":"2297619397",
+"parent":"",
+"text":"开车的朋友看过来！！",
+"mid":"z6ZCz4FKq",
+"date":"2012-11-26 17:35:51"
+},
+{
+"kids":[],
+"uid":"2260031384",
+"parent":"",
+"text":"尼玛 好凶残[生病]",
+"mid":"z6ZCpAvwU",
+"date":"2012-11-26 17:35:31"
+},
+{
+"kids":[],
+"uid":"1947054920",
+"parent":"",
+"text":"",
+"mid":"z6ZChkaK3",
+"date":"2012-11-26 17:35:11"
+},
+{
+"kids":[],
+"uid":"pennydolphin",
+"parent":"",
+"text":"",
+"mid":"z6ZCelHfL",
+"date":"2012-11-26 17:35:04"
+},
+{
+"kids":[],
+"uid":"234757142",
+"parent":"",
+"text":"",
+"mid":"z6ZCe5fib",
+"date":"2012-11-26 17:35:03"
+},
+{
+"kids":[],
+"uid":"1759971197",
+"parent":"",
+"text":"@blueiyoyo 亲，你会不会一个月就把分都扣完了呀？我觉得你每天应该早起5分钟好好朗诵一遍[好激动]",
+"mid":"z6ZC9D2qS",
+"date":"2012-11-26 17:34:54"
+},
+{
+"kids":[],
+"uid":"2581330472",
+"parent":"",
+"text":"",
+"mid":"z6ZC9BT76",
+"date":"2012-11-26 17:34:54"
+},
+{
+"kids":[
+"z6ZKimXvG"
+],
+"uid":"cissyqi7",
+"parent":"",
+"text":"以后打出租车，上车先系好安全带，然后把身份证准备好，时刻准备着证明自己已满14岁",
+"mid":"z6ZC7znPW",
+"date":"2012-11-26 17:34:46"
+},
+{
+"kids":[],
+"uid":"1802948833",
+"parent":"",
+"text":"好严厉啊，转回去看",
+"mid":"z6ZC7hMzh",
+"date":"2012-11-26 17:34:47"
+},
+{
+"kids":[],
+"uid":"1093564154",
+"parent":"",
+"text":"温馨提示，小心点！！",
+"mid":"z6ZBWlilw",
+"date":"2012-11-26 17:34:21"
+},
+{
+"kids":[],
+"uid":"2503607071",
+"parent":"",
+"text":"",
+"mid":"z6ZBR2hH1",
+"date":"2012-11-26 17:34:08"
+},
+{
+"kids":[
+"z6ZQrh1wQ"
+],
+"uid":"1821959724",
+"parent":"",
+"text":"",
+"mid":"z6ZBR18vC",
+"date":"2012-11-26 17:34:09"
+},
+{
+"kids":[],
+"uid":"michellelee0619",
+"parent":"z6ZyupU9k",
+"text":"我只会载在第5条上，请问是要直接被警察逮住？还是被监控抓拍？？",
+"mid":"z6ZBPhfyn",
+"date":"2012-11-26 17:34:03"
+},
+{
+"kids":[],
+"uid":"2836608730",
+"parent":"",
+"text":"@一人的生活两人的精彩 @RobinHouLei @VictorLuv @擅长隔山打牛",
+"mid":"z6ZBOoLze",
+"date":"2012-11-26 17:34:00"
+},
+{
+"kids":[],
+"uid":"2217679511",
+"parent":"",
+"text":"[吃驚]",
+"mid":"z6ZBNuLe5",
+"date":"2012-11-26 17:34:00"
+},
+{
+"kids":[],
+"uid":"1739206591",
+"parent":"z6ZwicGhd",
+"text":"转行去广州做交警[怒]",
+"mid":"z6ZBLo5kj",
+"date":"2012-11-26 17:33:53"
+},
+{
+"kids":[],
+"uid":"2075022774",
+"parent":"",
+"text":"开车的朋友看过来！！",
+"mid":"z6ZBJCKFl",
+"date":"2012-11-26 17:33:51"
+},
+{
+"kids":[],
+"uid":"2134598655",
+"parent":"",
+"text":"",
+"mid":"z6ZBtE8c9",
+"date":"2012-11-26 17:33:14"
+},
+{
+"kids":[],
+"uid":"810817898",
+"parent":"z6ZxEoRQC",
+"text":"增加一个行人的，不看信号灯过马路的，可以随便撞死！",
+"mid":"z6ZBrirKF",
+"date":"2012-11-26 17:33:07"
+},
+{
+"kids":[],
+"uid":"2087829340",
+"parent":"",
+"text":"",
+"mid":"z6ZBr1ZFJ",
+"date":"2012-11-26 17:33:06"
+},
+{
+"kids":[],
+"uid":"drystarfish",
+"parent":"",
+"text":"",
+"mid":"z6ZBmh2go",
+"date":"2012-11-26 17:32:56"
+},
+{
+"kids":[],
+"uid":"2282552212",
+"parent":"",
+"text":"转给开车的朋友们！",
+"mid":"z6ZBm0Adq",
+"date":"2012-11-26 17:32:54"
+},
+{
+"kids":[],
+"uid":"2917417085",
+"parent":"",
+"text":"",
+"mid":"z6ZBh1feJ",
+"date":"2012-11-26 17:32:39"
+},
+{
+"kids":[
+"z717d84P0"
+],
+"uid":"emily1981",
+"parent":"",
+"text":"[围观]开车的朋友看过来！！",
+"mid":"z6ZBejrLL",
+"date":"2012-11-26 17:32:36"
+},
+{
+"kids":[],
+"uid":"louzhiping",
+"parent":"",
+"text":"以后得注意咯",
+"mid":"z6ZBcedqQ",
+"date":"2012-11-26 17:32:31"
+},
+{
+"kids":[],
+"uid":"810817898",
+"parent":"z6ZxEoRQC",
+"text":"我觉得挺好，还可以再严点！但就看能不能处罚的下去了！",
+"mid":"z6ZBcedpQ",
+"date":"2012-11-26 17:32:31"
+},
+{
+"kids":[],
+"uid":"cbj2011",
+"parent":"",
+"text":"（:开车的朋友看过来！！",
+"mid":"z6ZB9gTgg",
+"date":"2012-11-26 17:32:25"
+},
+{
+"kids":[
+"z73QMr32o",
+"z73QMr30T"
+],
+"uid":"2100340673",
+"parent":"",
+"text":"最后一个？[惊恐]转给你们看啊@WH-Lindaliu @Xueer-baby @可爱妈咪飞飞",
+"mid":"z6ZB87c8Y",
+"date":"2012-11-26 17:32:21"
+},
+{
+"kids":[],
+"uid":"guotuofeng",
+"parent":"",
+"text":"",
+"mid":"z6ZB07jwg",
+"date":"2012-11-26 17:32:02"
+},
+{
+"kids":[],
+"uid":"1951204043",
+"parent":"",
+"text":"开车的朋友看过来 十二分没得太容易了",
+"mid":"z6ZB07jtS",
+"date":"2012-11-26 17:32:00"
+},
+{
+"kids":[],
+"uid":"2496741120",
+"parent":"",
+"text":"",
+"mid":"z6ZAYFzN7",
+"date":"2012-11-26 17:31:57"
+},
+{
+"kids":[],
+"uid":"810817898",
+"parent":"z6ZxEoRQC",
+"text":"@老卡影像-马进",
+"mid":"z6ZAXsJAi",
+"date":"2012-11-26 17:31:56"
+},
+{
+"kids":[],
+"uid":"1971879381",
+"parent":"",
+"text":"",
+"mid":"z6ZAXrAsr",
+"date":"2012-11-26 17:31:56"
+},
+{
+"kids":[
+"z74tDh2gd",
+"z74tCFoAa"
+],
+"uid":"24501130",
+"parent":"",
+"text":"坚决拥护！",
+"mid":"z6ZAXb8oZ",
+"date":"2012-11-26 17:31:53"
+},
+{
+"kids":[],
+"uid":"1404921671",
+"parent":"",
+"text":"看过来，看过来。",
+"mid":"z6ZAWhTlP",
+"date":"2012-11-26 17:31:54"
+},
+{
+"kids":[],
+"uid":"1824005802",
+"parent":"",
+"text":"",
+"mid":"z6ZAVpRB4",
+"date":"2012-11-26 17:31:51"
+},
+{
+"kids":[],
+"uid":"536031231",
+"parent":"",
+"text":"",
+"mid":"z6ZAQ6Pmq",
+"date":"2012-11-26 17:31:38"
+},
+{
+"kids":[],
+"uid":"leilei5123",
+"parent":"",
+"text":"@TimmyHong @daisy小帆 @耗子扛枪_追着猫打 @nini8210085 @耿姗V坚持跑下去 怕怕。。[衰]",
+"mid":"z6ZAJycsa",
+"date":"2012-11-26 17:31:22"
+},
+{
+"kids":[],
+"uid":"2864402452",
+"parent":"",
+"text":"开车的朋友看过来！！",
+"mid":"z6ZACvLa1",
+"date":"2012-11-26 17:31:06"
+},
+{
+"kids":[],
+"uid":"2219828213",
+"parent":"z6ZzbvMYH",
+"text":"哈哈，某人要被罚死了",
+"mid":"z6ZAv8D96",
+"date":"2012-11-26 17:30:46"
+},
+{
+"kids":[],
+"uid":"wz1992618",
+"parent":"",
+"text":"",
+"mid":"z6ZAuv7mi",
+"date":"2012-11-26 17:30:47"
+},
+{
+"kids":[
+"z71O5EPU8"
+],
+"uid":"1272831961",
+"parent":"",
+"text":"算了！我决定不开车了以后",
+"mid":"z6ZAsbicZ",
+"date":"2012-11-26 17:30:39"
+},
+{
+"kids":[],
+"uid":"10266272",
+"parent":"",
+"text":"",
+"mid":"z6ZAmyduR",
+"date":"2012-11-26 17:30:26"
+},
+{
+"kids":[],
+"uid":"ohcatshit",
+"parent":"",
+"text":"",
+"mid":"z6ZAd6cJe",
+"date":"2012-11-26 17:30:04"
+},
+{
+"kids":[],
+"uid":"chui1860",
+"parent":"",
+"text":"[围观]",
+"mid":"z6ZA8DYsa",
+"date":"2012-11-26 17:29:55"
+},
+{
+"kids":[
+"z7DKQwiNo"
+],
+"uid":"2294891934",
+"parent":"",
+"text":"",
+"mid":"z6ZA7t7M6",
+"date":"2012-11-26 17:29:52"
+},
+{
+"kids":[],
+"uid":"2319675253",
+"parent":"",
+"text":"[moc转发]",
+"mid":"z6ZA31f7D",
+"date":"2012-11-26 17:29:42"
+},
+{
+"kids":[],
+"uid":"1418969334",
+"parent":"",
+"text":"记得哦@flora_21cn @雨文陈",
+"mid":"z6ZzWyU0d",
+"date":"2012-11-26 17:29:27"
+},
+{
+"kids":[],
+"uid":"2452478171",
+"parent":"",
+"text":"",
+"mid":"z6ZzI6flU",
+"date":"2012-11-26 17:28:49"
+},
+{
+"kids":[
+"z700wszWo"
+],
+"uid":"1850274702",
+"parent":"",
+"text":"",
+"mid":"z6ZzFEeZT",
+"date":"2012-11-26 17:28:46"
+},
+{
+"kids":[],
+"uid":"2292051105",
+"parent":"",
+"text":"最后一项咋判断？身长吗？",
+"mid":"z6ZzEbNFf",
+"date":"2012-11-26 17:28:42"
+},
+{
+"kids":[],
+"uid":"1845221551",
+"parent":"",
+"text":"",
+"mid":"z6ZzAmnqX",
+"date":"2012-11-26 17:28:33"
+},
+{
+"kids":[],
+"uid":"rpng",
+"parent":"",
+"text":"",
+"mid":"z6Zzwd4fR",
+"date":"2012-11-26 17:28:24"
+},
+{
+"kids":[],
+"uid":"2274027712",
+"parent":"",
+"text":"",
+"mid":"z6ZzreEWy",
+"date":"2012-11-26 17:28:11"
+},
+{
+"kids":[],
+"uid":"1906746493",
+"parent":"",
+"text":":开车的朋友看过来！！",
+"mid":"z6Zzq3Oig",
+"date":"2012-11-26 17:28:08"
+},
+{
+"kids":[],
+"uid":"2568490227",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6ZzovVHW",
+"date":"2012-11-26 17:28:06"
+},
+{
+"kids":[
+"z71ieil5V",
+"z70bK5uX0"
+],
+"uid":"1658024283",
+"parent":"",
+"text":"[话筒][话筒]",
+"mid":"z6Zzk7j3M",
+"date":"2012-11-26 17:27:52"
+},
+{
+"kids":[],
+"uid":"celticshxw",
+"parent":"",
+"text":"[衰][衰][衰]",
+"mid":"z6Zzi5PYf",
+"date":"2012-11-26 17:27:49"
+},
+{
+"kids":[],
+"uid":"2729875951",
+"parent":"",
+"text":"",
+"mid":"z6ZzhrA5B",
+"date":"2012-11-26 17:27:48"
+},
+{
+"kids":[],
+"uid":"1408579643",
+"parent":"",
+"text":"",
+"mid":"z6Zzfpiw9",
+"date":"2012-11-26 17:27:42"
+},
+{
+"kids":[
+"z6ZAv8D96"
+],
+"uid":"1968064895",
+"parent":"",
+"text":"@心随面相",
+"mid":"z6ZzbvMYH",
+"date":"2012-11-26 17:27:34"
+},
+{
+"kids":[
+"z71PgDNQs"
+],
+"uid":"719661231",
+"parent":"z6ZtiBSE7",
+"text":"有用，转起",
+"mid":"z6ZzbvMWB",
+"date":"2012-11-26 17:27:34"
+},
+{
+"kids":[],
+"uid":"2802812562",
+"parent":"",
+"text":"",
+"mid":"z6Zzbh6TW",
+"date":"2012-11-26 17:27:31"
+},
+{
+"kids":[],
+"uid":"2769464721",
+"parent":"",
+"text":"坑爹啊",
+"mid":"z6ZzaoFk7",
+"date":"2012-11-26 17:27:28"
+},
+{
+"kids":[],
+"uid":"1827668683",
+"parent":"",
+"text":"",
+"mid":"z6Zz7nCzx",
+"date":"2012-11-26 17:27:25"
+},
+{
+"kids":[],
+"uid":"nbqixin",
+"parent":"",
+"text":"要注意了。",
+"mid":"z6Zz31xy0",
+"date":"2012-11-26 17:27:14"
+},
+{
+"kids":[],
+"uid":"1998262363",
+"parent":"",
+"text":"",
+"mid":"z6Zz2p5Mj",
+"date":"2012-11-26 17:27:12"
+},
+{
+"kids":[
+"z6ZQI6aH0"
+],
+"uid":"2178284710",
+"parent":"",
+"text":"",
+"mid":"z6ZyYhHQv",
+"date":"2012-11-26 17:27:01"
+},
+{
+"kids":[],
+"uid":"candyrr",
+"parent":"",
+"text":"@woodboow-笨蕉LanA",
+"mid":"z6ZyVBajj",
+"date":"2012-11-26 17:26:55"
+},
+{
+"kids":[],
+"uid":"333144288",
+"parent":"",
+"text":"真的假的@smile_xiao琪",
+"mid":"z6ZyRbnkk",
+"date":"2012-11-26 17:26:45"
+},
+{
+"kids":[],
+"uid":"1732464911",
+"parent":"",
+"text":"",
+"mid":"z6ZyN3ZTR",
+"date":"2012-11-26 17:26:35"
+},
+{
+"kids":[],
+"uid":"dunkuiming",
+"parent":"",
+"text":"",
+"mid":"z6ZyN1ufo",
+"date":"2012-11-26 17:26:35"
+},
+{
+"kids":[
+"z70BIeMXB"
+],
+"uid":"2780115411",
+"parent":"",
+"text":"转发",
+"mid":"z6ZyFEqLH",
+"date":"2012-11-26 17:26:18"
+},
+{
+"kids":[],
+"uid":"1496896114",
+"parent":"",
+"text":"路遇拥堵，加塞儿剁脚！[哈哈][哈哈][哈哈]",
+"mid":"z6ZyBuVAV",
+"date":"2012-11-26 17:26:07"
+},
+{
+"kids":[],
+"uid":"modelhaixia",
+"parent":"",
+"text":"12分好像一不小心就能扣完啦~",
+"mid":"z6ZyBcbAd",
+"date":"2012-11-26 17:26:06"
+},
+{
+"kids":[],
+"uid":"pangdandan711",
+"parent":"",
+"text":"",
+"mid":"z6ZyzpHCh",
+"date":"2012-11-26 17:26:03"
+},
+{
+"kids":[],
+"uid":"1942897373",
+"parent":"",
+"text":"[吃惊][吃惊][吃惊][吃惊][吃惊][吃惊][吃惊]",
+"mid":"z6Zyxnfah",
+"date":"2012-11-26 17:25:56"
+},
+{
+"kids":[
+"z6ZMeBYq7",
+"z6ZBPhfyn"
+],
+"uid":"fishcat0924",
+"parent":"",
+"text":"@欢小猪 @尐媛媛er @开心瑞瑞718 @飞在树上的鱼 @多拉猫梦  怎么查14周岁[晕]",
+"mid":"z6ZyupU9k",
+"date":"2012-11-26 17:25:51"
+},
+{
+"kids":[
+"z70dQEUaD"
+],
+"uid":"jeffywang2011",
+"parent":"",
+"text":"靠谱不？",
+"mid":"z6Zytf3xW",
+"date":"2012-11-26 17:25:48"
+},
+{
+"kids":[],
+"uid":"2313558892",
+"parent":"",
+"text":"转给大家",
+"mid":"z6ZyrtnwI",
+"date":"2012-11-26 17:25:44"
+},
+{
+"kids":[],
+"uid":"2648568201",
+"parent":"",
+"text":"@最喜欢逗起闹郭涛",
+"mid":"z6ZyrqY7n",
+"date":"2012-11-26 17:25:44"
+},
+{
+"kids":[],
+"uid":"2161828542",
+"parent":"",
+"text":"转给有车的朋友们…[飞机]",
+"mid":"z6ZyqA8ls",
+"date":"2012-11-26 17:25:40"
+},
+{
+"kids":[],
+"uid":"1834279835",
+"parent":"",
+"text":"@yinzixin @澎澎妈妈-丁丁 @假装快樂的小破孩",
+"mid":"z6Zyqix16",
+"date":"2012-11-26 17:25:41"
+},
+{
+"kids":[],
+"uid":"1954836150",
+"parent":"",
+"text":"",
+"mid":"z6Zypphv6",
+"date":"2012-11-26 17:25:39"
+},
+{
+"kids":[],
+"uid":"1921143312",
+"parent":"",
+"text":"",
+"mid":"z6ZylyHHN",
+"date":"2012-11-26 17:25:28"
+},
+{
+"kids":[],
+"uid":"2032852335",
+"parent":"",
+"text":"有车的朋友记得看看哦！！",
+"mid":"z6ZykFsGv",
+"date":"2012-11-26 17:25:25"
+},
+{
+"kids":[],
+"uid":"2044043684",
+"parent":"",
+"text":"",
+"mid":"z6ZykD4UY",
+"date":"2012-11-26 17:25:28"
+},
+{
+"kids":[],
+"uid":"138178128",
+"parent":"",
+"text":"",
+"mid":"z6Zyiixi2",
+"date":"2012-11-26 17:25:22"
+},
+{
+"kids":[],
+"uid":"1974772735",
+"parent":"",
+"text":"",
+"mid":"z6Zy97OMS",
+"date":"2012-11-26 17:25:00"
+},
+{
+"kids":[],
+"uid":"1611990583",
+"parent":"",
+"text":"真的吗？",
+"mid":"z6Zy8xjKa",
+"date":"2012-11-26 17:24:59"
+},
+{
+"kids":[],
+"uid":"1219971793",
+"parent":"",
+"text":"[围观]",
+"mid":"z6Zy6bDle",
+"date":"2012-11-26 17:24:51"
+},
+{
+"kids":[],
+"uid":"2320661471",
+"parent":"",
+"text":"",
+"mid":"z6Zy22kbI",
+"date":"2012-11-26 17:24:42"
+},
+{
+"kids":[],
+"uid":"1410884500",
+"parent":"",
+"text":"..........",
+"mid":"z6Zy1ae1r",
+"date":"2012-11-26 17:24:43"
+},
+{
+"kids":[],
+"uid":"meijiatuangouwang",
+"parent":"",
+"text":"http:",
+"mid":"z6ZxXDuB0",
+"date":"2012-11-26 17:24:33"
+},
+{
+"kids":[],
+"uid":"2716954831",
+"parent":"",
+"text":"",
+"mid":"z6ZxXBg2m",
+"date":"2012-11-26 17:24:33"
+},
+{
+"kids":[],
+"uid":"waner0627",
+"parent":"",
+"text":"呃",
+"mid":"z6ZxTbMvG",
+"date":"2012-11-26 17:24:22"
+},
+{
+"kids":[],
+"uid":"534576772",
+"parent":"",
+"text":"[衰]",
+"mid":"z6ZxTbuxa",
+"date":"2012-11-26 17:24:22"
+},
+{
+"kids":[],
+"uid":"1791617644",
+"parent":"",
+"text":"@藍的幻想_eva @顶天立地Mini男",
+"mid":"z6ZxPn7DG",
+"date":"2012-11-26 17:24:13"
+},
+{
+"kids":[],
+"uid":"2021475807",
+"parent":"",
+"text":"",
+"mid":"z6ZxM8aGK",
+"date":"2012-11-26 17:24:05"
+},
+{
+"kids":[],
+"uid":"silary0822",
+"parent":"",
+"text":"",
+"mid":"z6ZxHolSV",
+"date":"2012-11-26 17:23:53"
+},
+{
+"kids":[],
+"uid":"linlianggui",
+"parent":"",
+"text":"赋诗一首：我勒个去！",
+"mid":"z6ZxFzI2H",
+"date":"2012-11-26 17:23:50"
+},
+{
+"kids":[
+"z6ZKI2c16",
+"z6ZBrirKF",
+"z6ZBcedpQ",
+"z6ZAXsJAi"
+],
+"uid":"brookeg",
+"parent":"z6Zg92Sto",
+"text":"@o温_温o @小璐小姐lulu @维尼解 @妖妖邀明月 @美女郑 @秋儿斯密达 @满座郑义",
+"mid":"z6ZxEoRQC",
+"date":"2012-11-26 17:23:45"
+},
+{
+"kids":[],
+"uid":"2313706544",
+"parent":"",
+"text":"开车的朋友看过来！！[呵呵]",
+"mid":"z6ZxBbfbv",
+"date":"2012-11-26 17:23:39"
+},
+{
+"kids":[],
+"uid":"1984454273",
+"parent":"",
+"text":"",
+"mid":"z6ZxzpA0K",
+"date":"2012-11-26 17:23:34"
+},
+{
+"kids":[],
+"uid":"1722015014",
+"parent":"",
+"text":"@versace-JJ 注意喽！",
+"mid":"z6ZxzoKFM",
+"date":"2012-11-26 17:23:35"
+},
+{
+"kids":[
+"z78YO52fS"
+],
+"uid":"2465225074",
+"parent":"",
+"text":"怎么弄了这个可爱的背景。。。 @斫子",
+"mid":"z6Zxr77Nu",
+"date":"2012-11-26 17:23:15"
+},
+{
+"kids":[],
+"uid":"songlinayh",
+"parent":"",
+"text":"是需要特别注意了",
+"mid":"z6ZxoroRU",
+"date":"2012-11-26 17:23:09"
+},
+{
+"kids":[
+"z701Usb3D",
+"z701UbM4X"
+],
+"uid":"2654519014",
+"parent":"",
+"text":"呃，这惩罚也太严厉了吧",
+"mid":"z6ZxoroQ9",
+"date":"2012-11-26 17:23:08"
+},
+{
+"kids":[],
+"uid":"209095722",
+"parent":"",
+"text":"有意遮挡？真含糊！真人情",
+"mid":"z6Zxm4zYD",
+"date":"2012-11-26 17:23:04"
+},
+{
+"kids":[],
+"uid":"2534345192",
+"parent":"",
+"text":"",
+"mid":"z6ZxlsWei",
+"date":"2012-11-26 17:23:02"
+},
+{
+"kids":[],
+"uid":"1765965414",
+"parent":"",
+"text":"@iTia [吃惊][吃惊][吃惊]",
+"mid":"z6Zxklikc",
+"date":"2012-11-26 17:22:59"
+},
+{
+"kids":[
+"z9wAzbzFQ",
+"z9wAzaMvQ",
+"z9eMgaSbE",
+"z8rJXnXJx",
+"z8rJXmzka",
+"z8irNl23O",
+"z7LA58UHu",
+"z7LA58UFx",
+"z7C7KuKu3",
+"z7vuGCwek",
+"z7vuGB2lx",
+"z7tWEadOp",
+"z7tWE9g3a"
+],
+"uid":"2537623042",
+"parent":"",
+"text":"",
+"mid":"z6ZxkkszO",
+"date":"2012-11-26 17:22:59"
+},
+{
+"kids":[],
+"uid":"1741999771",
+"parent":"",
+"text":"【交通新规】2013年1月1日交通新规就要正式实行了，开车的朋友看过来！！",
+"mid":"z6ZxhCn8P",
+"date":"2012-11-26 17:22:54"
+},
+{
+"kids":[],
+"uid":"1874560173",
+"parent":"",
+"text":"看过来看过来",
+"mid":"z6ZxhkLXk",
+"date":"2012-11-26 17:22:53"
+},
+{
+"kids":[],
+"uid":"1919770005",
+"parent":"",
+"text":"",
+"mid":"z6Zxh5w1j",
+"date":"2012-11-26 17:22:51"
+},
+{
+"kids":[],
+"uid":"880127wss",
+"parent":"",
+"text":"",
+"mid":"z6Zxe5Qt7",
+"date":"2012-11-26 17:22:44"
+},
+{
+"kids":[],
+"uid":"1725170524",
+"parent":"",
+"text":"[汗]",
+"mid":"z6Zxbrg6V",
+"date":"2012-11-26 17:22:38"
+},
+{
+"kids":[],
+"uid":"1497945857",
+"parent":"",
+"text":"@风雨无阻美丽人生",
+"mid":"z6Zx4CeeL",
+"date":"2012-11-26 17:22:23"
+},
+{
+"kids":[],
+"uid":"1730077241",
+"parent":"",
+"text":"@Monsieur-Wong",
+"mid":"z6Zx4nKCA",
+"date":"2012-11-26 17:22:19"
+},
+{
+"kids":[],
+"uid":"1836077711",
+"parent":"",
+"text":"[惊恐]~",
+"mid":"z6ZwYaD9S",
+"date":"2012-11-26 17:22:06"
+},
+{
+"kids":[],
+"uid":"2233684312",
+"parent":"",
+"text":"",
+"mid":"z6ZwVe8fV",
+"date":"2012-11-26 17:21:58"
+},
+{
+"kids":[],
+"uid":"1720167135",
+"parent":"",
+"text":"真的吗",
+"mid":"z6ZwSwsM5",
+"date":"2012-11-26 17:21:53"
+},
+{
+"kids":[],
+"uid":"1530387400",
+"parent":"",
+"text":"",
+"mid":"z6ZwR5WDD",
+"date":"2012-11-26 17:21:47"
+},
+{
+"kids":[],
+"uid":"2903397353",
+"parent":"",
+"text":"",
+"mid":"z6ZwQuiDY",
+"date":"2012-11-26 17:21:46"
+},
+{
+"kids":[],
+"uid":"1797529004",
+"parent":"",
+"text":"超级严苛啊！用耳机打行不？",
+"mid":"z6ZwPiBNo",
+"date":"2012-11-26 17:21:44"
+},
+{
+"kids":[],
+"uid":"lvlc1228",
+"parent":"",
+"text":"",
+"mid":"z6ZwP10zB",
+"date":"2012-11-26 17:21:44"
+},
+{
+"kids":[],
+"uid":"1829261707",
+"parent":"z6Zb73RcJ",
+"text":"规范开车",
+"mid":"z6ZwOpmCG",
+"date":"2012-11-26 17:21:43"
+},
+{
+"kids":[],
+"uid":"2086870347",
+"parent":"",
+"text":"",
+"mid":"z6ZwNdsdJ",
+"date":"2012-11-26 17:21:40"
+},
+{
+"kids":[
+"z79qI8FBK",
+"z79qI71EB"
+],
+"uid":"2179307884",
+"parent":"",
+"text":"好黑。@ING德Moore",
+"mid":"z6ZwMDIgs",
+"date":"2012-11-26 17:21:39"
+},
+{
+"kids":[],
+"uid":"1747825124",
+"parent":"",
+"text":"安全带算上了终于有点忧患意识",
+"mid":"z6ZwLsRzP",
+"date":"2012-11-26 17:21:33"
+},
+{
+"kids":[],
+"uid":"2504823730",
+"parent":"",
+"text":"",
+"mid":"z6ZwJ6kJn",
+"date":"2012-11-26 17:21:29"
+},
+{
+"kids":[
+"z9OBYrHAn",
+"z9LeN1gGX",
+"z8CRnu2w7",
+"z8oZY4NaA",
+"z8oZY4N8u",
+"z7AfmhwkG",
+"z7pVi1PqT",
+"z7pVhpDcj"
+],
+"uid":"2171894215",
+"parent":"",
+"text":"",
+"mid":"z6ZwIdVTQ",
+"date":"2012-11-26 17:21:28"
+},
+{
+"kids":[],
+"uid":"1878071275",
+"parent":"",
+"text":"",
+"mid":"z6ZwH048Q",
+"date":"2012-11-26 17:21:25"
+},
+{
+"kids":[
+"z6ZTosnUK"
+],
+"uid":"1750847911",
+"parent":"",
+"text":"继续扩散~",
+"mid":"z6ZwGpyTZ",
+"date":"2012-11-26 17:21:21"
+},
+{
+"kids":[
+"z711stgvA"
+],
+"uid":"2701130194",
+"parent":"",
+"text":"",
+"mid":"z6ZwEmvhk",
+"date":"2012-11-26 17:21:18"
+},
+{
+"kids":[],
+"uid":"1899442635",
+"parent":"",
+"text":"哟哟。。",
+"mid":"z6ZwDbEHW",
+"date":"2012-11-26 17:21:15"
+},
+{
+"kids":[],
+"uid":"2921356845",
+"parent":"",
+"text":"是不是真的啊[围观]",
+"mid":"z6ZwDaDu8",
+"date":"2012-11-26 17:21:16"
+},
+{
+"kids":[],
+"uid":"1991254637",
+"parent":"",
+"text":"@老天-我要钱",
+"mid":"z6ZwCiprh",
+"date":"2012-11-26 17:21:14"
+},
+{
+"kids":[],
+"uid":"cxyv5",
+"parent":"",
+"text":"@__我还是我__是个假命题 @FanMiss_6002",
+"mid":"z6ZwCgfVB",
+"date":"2012-11-26 17:21:12"
+},
+{
+"kids":[
+"z72Nti0rf"
+],
+"uid":"2429238454",
+"parent":"",
+"text":"",
+"mid":"z6ZwC1EBE",
+"date":"2012-11-26 17:21:13"
+},
+{
+"kids":[],
+"uid":"2919405730",
+"parent":"z6Z518afr",
+"text":"",
+"mid":"z6ZwB5pLE",
+"date":"2012-11-26 17:21:10"
+},
+{
+"kids":[],
+"uid":"2919568954",
+"parent":"z6Z518afr",
+"text":"",
+"mid":"z6ZwB5pKf",
+"date":"2012-11-26 17:21:12"
+},
+{
+"kids":[],
+"uid":"2477981361",
+"parent":"",
+"text":"@爱瞌睡的老虎 看看第九条",
+"mid":"z6ZwAdjet",
+"date":"2012-11-26 17:21:09"
+},
+{
+"kids":[],
+"uid":"1697354372",
+"parent":"",
+"text":"",
+"mid":"z6ZwzCFCJ",
+"date":"2012-11-26 17:21:08"
+},
+{
+"kids":[],
+"uid":"f7house326",
+"parent":"",
+"text":"@我就是胖肿么了 注意了哈哈",
+"mid":"z6Zwz1ktB",
+"date":"2012-11-26 17:21:06"
+},
+{
+"kids":[
+"z7031lMf3"
+],
+"uid":"1014184337",
+"parent":"",
+"text":"",
+"mid":"z6ZwwlBBa",
+"date":"2012-11-26 17:21:00"
+},
+{
+"kids":[],
+"uid":"2129881203",
+"parent":"",
+"text":"[哈哈]为免重新考证，大家多看看。",
+"mid":"z6ZwsfxGe",
+"date":"2012-11-26 17:20:49"
+},
+{
+"kids":[
+"z73wrB3r6"
+],
+"uid":"1878666627",
+"parent":"",
+"text":"附驾不能做未满14周岁的， @natral",
+"mid":"z6Zwrmiop",
+"date":"2012-11-26 17:20:48"
+},
+{
+"kids":[],
+"uid":"1989618707",
+"parent":"",
+"text":"Mark",
+"mid":"z6Zwr5xDY",
+"date":"2012-11-26 17:20:47"
+},
+{
+"kids":[
+"z7gcsFVku",
+"z7gcsFVje",
+"z74GJzywn"
+],
+"uid":"zhenxingchina",
+"parent":"",
+"text":"",
+"mid":"z6ZwpzNzI",
+"date":"2012-11-26 17:20:44"
+},
+{
+"kids":[],
+"uid":"fhm1987",
+"parent":"",
+"text":"",
+"mid":"z6ZwpyQEj",
+"date":"2012-11-26 17:20:42"
+},
+{
+"kids":[],
+"uid":"1742868524",
+"parent":"",
+"text":"",
+"mid":"z6ZwpyQDF",
+"date":"2012-11-26 17:20:44"
+},
+{
+"kids":[],
+"uid":"2120823294",
+"parent":"",
+"text":"要小心了哎",
+"mid":"z6Zwp0ASZ",
+"date":"2012-11-26 17:20:41"
+},
+{
+"kids":[],
+"uid":"2153423850",
+"parent":"",
+"text":"",
+"mid":"z6ZwmBwvl",
+"date":"2012-11-26 17:20:35"
+},
+{
+"kids":[
+"z701WgHbU"
+],
+"uid":"2522769452",
+"parent":"",
+"text":"各位有车人士赶紧转了。。",
+"mid":"z6ZwmiMQO",
+"date":"2012-11-26 17:20:35"
+},
+{
+"kids":[],
+"uid":"1936840930",
+"parent":"",
+"text":"@Ellie菜菜 @yingtaoxiaoke @夜狼的狂嚎",
+"mid":"z6Zwm472o",
+"date":"2012-11-26 17:20:33"
+},
+{
+"kids":[],
+"uid":"2664588253",
+"parent":"",
+"text":"",
+"mid":"z6Zwm2k8k",
+"date":"2012-11-26 17:20:35"
+},
+{
+"kids":[],
+"uid":"1434203730",
+"parent":"",
+"text":"",
+"mid":"z6ZwjlsGW",
+"date":"2012-11-26 17:20:28"
+},
+{
+"kids":[
+"z6ZBLo5kj"
+],
+"uid":"1849385552",
+"parent":"",
+"text":"",
+"mid":"z6ZwicGhd",
+"date":"2012-11-26 17:20:24"
+},
+{
+"kids":[],
+"uid":"2898638800",
+"parent":"",
+"text":"@毛儿大帅 国人来看哈！免得重新去学习",
+"mid":"z6ZwdrWM4",
+"date":"2012-11-26 17:20:16"
+},
+{
+"kids":[],
+"uid":"tuanzhangyimi",
+"parent":"",
+"text":"@Noir_你们的所长好累不爱了 please遵守交通法规！",
+"mid":"z6ZwdrWGw",
+"date":"2012-11-26 17:20:15"
+},
+{
+"kids":[
+"z7HkxAySJ",
+"z7wJbfoSk",
+"z7wJbfoRx",
+"z72lEe1Fv"
+],
+"uid":"1707554942",
+"parent":"",
+"text":"[围观]",
+"mid":"z6Zwdalu5",
+"date":"2012-11-26 17:20:14"
+},
+{
+"kids":[],
+"uid":"2152139720",
+"parent":"",
+"text":"",
+"mid":"z6ZwcyHKm",
+"date":"2012-11-26 17:20:13"
+},
+{
+"kids":[],
+"uid":"joriserq945",
+"parent":"",
+"text":"[din推撞]",
+"mid":"z6Zwch6qB",
+"date":"2012-11-26 17:20:12"
+},
+{
+"kids":[],
+"uid":"meijiatuangouwang",
+"parent":"",
+"text":"今日团购：【全国包邮】原价1268元，现只需255元!毛绒绒,软绵绵,再加上超级厚,有了这款加厚天鹅绒四件套,冬天想不暖都难,AB版设计,色调搭配具有强烈温暖感,看着就不冷,更不用说包在里面的感觉了! http:",
+"mid":"z6Zw5u4zx",
+"date":"2012-11-26 17:19:55"
+},
+{
+"kids":[],
+"uid":"2311316757",
+"parent":"",
+"text":"",
+"mid":"z6Zw3nZu8",
+"date":"2012-11-26 17:19:52"
+},
+{
+"kids":[],
+"uid":"1869733230",
+"parent":"",
+"text":"@小猪吃豆 是真的么。。。",
+"mid":"z6Zw3nZqK",
+"date":"2012-11-26 17:19:51"
+},
+{
+"kids":[],
+"uid":"1998408877",
+"parent":"",
+"text":"[衰][衰]够呛的",
+"mid":"z6Zw1Du1g",
+"date":"2012-11-26 17:19:46"
+},
+{
+"kids":[],
+"uid":"1935329324",
+"parent":"",
+"text":"",
+"mid":"z6ZvZgXx6",
+"date":"2012-11-26 17:19:41"
+},
+{
+"kids":[],
+"uid":"zypfc",
+"parent":"",
+"text":"@CF不吃青椒 看看记住喽，不然这罚款就。。。",
+"mid":"z6ZvRAC95",
+"date":"2012-11-26 17:19:23"
+},
+{
+"kids":[],
+"uid":"2013992507",
+"parent":"",
+"text":"[酷]驾驶座坐不满14周岁的儿童没说罚吧？@慈溪赌神",
+"mid":"z6ZvArwbg",
+"date":"2012-11-26 17:18:42"
+},
+{
+"kids":[
+"z6ZEX7WfJ"
+],
+"uid":"2634240771",
+"parent":"",
+"text":"@蓝色窕莉 @不只喝可乐的猫 @格林小胖猪她老公 @小晶格格",
+"mid":"z6ZvtCunC",
+"date":"2012-11-26 17:18:26"
+},
+{
+"kids":[],
+"uid":"xyhu",
+"parent":"z6ZsYv74X",
+"text":"这个不是都解读过了么？里面很多事错的。",
+"mid":"z6ZuDD2DW",
+"date":"2012-11-26 17:16:21"
+},
+{
+"kids":[
+"z6ZVAm5EU"
+],
+"uid":"1052553313",
+"parent":"z6Z860KlL",
+"text":"@岸上的鱼1116",
+"mid":"z6ZtYzP85",
+"date":"2012-11-26 17:14:44"
+},
+{
+"kids":[],
+"uid":"1899111394",
+"parent":"",
+"text":"@刀刀1983的地盘 @何塞mourinho @兔嘈嘈 @爱游泳的狐狸",
+"mid":"z6ZtJvwGY",
+"date":"2012-11-26 17:14:06"
+},
+{
+"kids":[
+"z6ZzbvMWB"
+],
+"uid":"sters",
+"parent":"",
+"text":"",
+"mid":"z6ZtiBSE7",
+"date":"2012-11-26 17:13:04"
+},
+{
+"kids":[
+"z6ZuDD2DW"
+],
+"uid":"1477875082",
+"parent":"",
+"text":"",
+"mid":"z6ZsYv74X",
+"date":"2012-11-26 17:12:16"
+},
+{
+"kids":[],
+"uid":"malloryq",
+"parent":"",
+"text":"这比刚才那版震撼……",
+"mid":"z6ZsluGv5",
+"date":"2012-11-26 17:10:41"
+},
+{
+"kids":[],
+"uid":"1086681500",
+"parent":"",
+"text":"我开车还是比较规矩滴。",
+"mid":"z6Zsk2f8u",
+"date":"2012-11-26 17:10:39"
+},
+{
+"kids":[],
+"uid":"1942777691",
+"parent":"",
+"text":"大家要牢记啊",
+"mid":"z6Zs3vRCA",
+"date":"2012-11-26 17:09:58"
+},
+{
+"kids":[
+"z6ZMkvxhj",
+"z6ZMkcLDY"
+],
+"uid":"best8",
+"parent":"",
+"text":"",
+"mid":"z6ZrYbUGo",
+"date":"2012-11-26 17:09:47"
+},
+{
+"kids":[],
+"uid":"1667548787",
+"parent":"",
+"text":"",
+"mid":"z6Zrnhp2i",
+"date":"2012-11-26 17:08:17"
+},
+{
+"kids":[],
+"uid":"beerium",
+"parent":"",
+"text":"@beer_mimi 注意第九条",
+"mid":"z6ZrlspNl",
+"date":"2012-11-26 17:08:15"
+},
+{
+"kids":[],
+"uid":"1791371031",
+"parent":"",
+"text":"学习了！",
+"mid":"z6Zrahcap",
+"date":"2012-11-26 17:07:47"
+},
+{
+"kids":[],
+"uid":"1929041370",
+"parent":"",
+"text":"",
+"mid":"z6ZqRmjv6",
+"date":"2012-11-26 17:07:03"
+},
+{
+"kids":[],
+"uid":"1901264613",
+"parent":"",
+"text":"有车族的筒子请注意[围观][话筒]@微笑apple8023 @女泥娃娃",
+"mid":"z6ZqBFrDl",
+"date":"2012-11-26 17:06:24"
+},
+{
+"kids":[],
+"uid":"2463621065",
+"parent":"",
+"text":"必须好好学学",
+"mid":"z6ZpQnjwP",
+"date":"2012-11-26 17:04:33"
+},
+{
+"kids":[],
+"uid":"2726752444",
+"parent":"",
+"text":"",
+"mid":"z6ZpL5oLc",
+"date":"2012-11-26 17:04:18"
+},
+{
+"kids":[],
+"uid":"2463621065",
+"parent":"",
+"text":"必须的学学",
+"mid":"z6ZpK9Wql",
+"date":"2012-11-26 17:04:18"
+},
+{
+"kids":[],
+"uid":"2033073270",
+"parent":"",
+"text":"@撒尿牛团子@Echo_飞 以后开车要谨慎小心了",
+"mid":"z6Zpo4mRk",
+"date":"2012-11-26 17:03:25"
+},
+{
+"kids":[],
+"uid":"1969245175",
+"parent":"z6Z9MxuzH",
+"text":"@雪狐阿牛",
+"mid":"z6ZoZtvdE",
+"date":"2012-11-26 17:02:27"
+},
+{
+"kids":[],
+"uid":"2542394132",
+"parent":"",
+"text":"",
+"mid":"z6ZoLCX48",
+"date":"2012-11-26 17:01:53"
+},
+{
+"kids":[],
+"uid":"207894886",
+"parent":"",
+"text":"",
+"mid":"z6ZoKFKX4",
+"date":"2012-11-26 17:01:53"
+},
+{
+"kids":[],
+"uid":"1643336852",
+"parent":"",
+"text":"好严啊！",
+"mid":"z6ZoD4Yln",
+"date":"2012-11-26 17:01:30"
+},
+{
+"kids":[],
+"uid":"3103659173",
+"parent":"",
+"text":"",
+"mid":"z6Zoofxvq",
+"date":"2012-11-26 17:00:58"
+},
+{
+"kids":[],
+"uid":"1865219491",
+"parent":"",
+"text":"",
+"mid":"z6ZolidkN",
+"date":"2012-11-26 17:00:52"
+},
+{
+"kids":[],
+"uid":"2049059390",
+"parent":"",
+"text":"",
+"mid":"z6ZnTy1hx",
+"date":"2012-11-26 16:59:44"
+},
+{
+"kids":[],
+"uid":"2250875620",
+"parent":"",
+"text":"",
+"mid":"z6ZnqBm0V",
+"date":"2012-11-26 16:58:36"
+},
+{
+"kids":[],
+"uid":"2191301724",
+"parent":"",
+"text":"",
+"mid":"z6ZnlxQvX",
+"date":"2012-11-26 16:58:24"
+},
+{
+"kids":[],
+"uid":"ruoshui0322",
+"parent":"",
+"text":"驾校生意要火爆了！[汗]",
+"mid":"z6ZlHCjvL",
+"date":"2012-11-26 16:54:20"
+},
+{
+"kids":[],
+"uid":"2141504597",
+"parent":"",
+"text":"",
+"mid":"z6ZlDu7Vg",
+"date":"2012-11-26 16:54:09"
+},
+{
+"kids":[],
+"uid":"1178609477",
+"parent":"",
+"text":"",
+"mid":"z6ZlcBynY",
+"date":"2012-11-26 16:53:04"
+},
+{
+"kids":[],
+"uid":"terrybeckham",
+"parent":"",
+"text":"6分6分6分。。。。。",
+"mid":"z6Zkw1Oji",
+"date":"2012-11-26 16:51:26"
+},
+{
+"kids":[
+"z6ZLoBalN"
+],
+"uid":"1975636305",
+"parent":"",
+"text":"@峰子-Ken",
+"mid":"z6ZkiaVKr",
+"date":"2012-11-26 16:50:50"
+},
+{
+"kids":[],
+"uid":"2007156097",
+"parent":"",
+"text":"【交通新规】2013年1月1日交通新规就要正式实行了，开车的朋友看过来！！",
+"mid":"z6ZkbkwUx",
+"date":"2012-11-26 16:50:36"
+},
+{
+"kids":[],
+"uid":"yanli1119",
+"parent":"",
+"text":"都看看啊。",
+"mid":"z6ZiYzHjx",
+"date":"2012-11-26 16:47:38"
+},
+{
+"kids":[],
+"uid":"1960198271",
+"parent":"",
+"text":"@Z胡思Y亂想 @红星闪闪的金胜 @豫鄂-彬彬有才 @糖蕊児_5522 不系安全带是要扣分的哦亲~",
+"mid":"z6ZiAlTk4",
+"date":"2012-11-26 16:46:40"
+},
+{
+"kids":[],
+"uid":"1948468743",
+"parent":"",
+"text":"[威武][围观]",
+"mid":"z6ZivmvtJ",
+"date":"2012-11-26 16:46:26"
+},
+{
+"kids":[],
+"uid":"1750318217",
+"parent":"",
+"text":"@张佳伟2011 @瀚旻 @霍太--阳妈 @沈-太太 @沈岑麟-cash",
+"mid":"z6Zip9bXu",
+"date":"2012-11-26 16:46:11"
+},
+{
+"kids":[],
+"uid":"2119448710",
+"parent":"",
+"text":"[抓狂]12分不够扣。。。。。。。。。。",
+"mid":"z6ZilAcXd",
+"date":"2012-11-26 16:46:05"
+},
+{
+"kids":[
+"z76xNkTjE",
+"z76xNkTiv"
+],
+"uid":"1872939780",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6ZilAcWI",
+"date":"2012-11-26 16:46:03"
+},
+{
+"kids":[
+"z70WU0i5S"
+],
+"uid":"2338501867",
+"parent":"",
+"text":"注意啦",
+"mid":"z6Zid0dYQ",
+"date":"2012-11-26 16:45:45"
+},
+{
+"kids":[
+"z75q7xdvk",
+"z75q7xduw"
+],
+"uid":"2446937385",
+"parent":"",
+"text":"交通法则牢记心中",
+"mid":"z6Zi80Nqt",
+"date":"2012-11-26 16:45:32"
+},
+{
+"kids":[],
+"uid":"2314401647",
+"parent":"",
+"text":"@常烨C @衰老的太婆恐怖啊。！",
+"mid":"z6ZhIyQ1b",
+"date":"2012-11-26 16:44:32"
+},
+{
+"kids":[],
+"uid":"2131757731",
+"parent":"",
+"text":"【交通新规】2013年1月1日交通新规就要正式实行",
+"mid":"z6Zh45Y0z",
+"date":"2012-11-26 16:42:53"
+},
+{
+"kids":[],
+"uid":"2039197927",
+"parent":"",
+"text":"好好落实",
+"mid":"z6ZgMDCeo",
+"date":"2012-11-26 16:42:14"
+},
+{
+"kids":[
+"z70i3zTik"
+],
+"uid":"1740685705",
+"parent":"",
+"text":"我的娘啊！要被罚死了~~~",
+"mid":"z6ZgGbjA6",
+"date":"2012-11-26 16:41:58"
+},
+{
+"kids":[],
+"uid":"1701269277",
+"parent":"",
+"text":"@少东家ws @薛飞xuefei @大媛元的妈妈",
+"mid":"z6ZgE8hMw",
+"date":"2012-11-26 16:41:53"
+},
+{
+"kids":[],
+"uid":"2247648640",
+"parent":"",
+"text":"開個車都木有自由了",
+"mid":"z6Zgw6WJy",
+"date":"2012-11-26 16:41:34"
+},
+{
+"kids":[],
+"uid":"2121617947",
+"parent":"",
+"text":"更不敢开车了。",
+"mid":"z6ZgrEJP9",
+"date":"2012-11-26 16:41:25"
+},
+{
+"kids":[],
+"uid":"1960041627",
+"parent":"",
+"text":"[威武]",
+"mid":"z6ZgoslOv",
+"date":"2012-11-26 16:41:17"
+},
+{
+"kids":[],
+"uid":"2081898891",
+"parent":"",
+"text":"@大大大叔叔叔 @少俊多努力 伤不起啊，，，",
+"mid":"z6Zgk02H9",
+"date":"2012-11-26 16:41:05"
+},
+{
+"kids":[
+"z6ZxEoRQC"
+],
+"uid":"2150208325",
+"parent":"z6ZdZtAvx",
+"text":"@大_飞_哥 要不你别开车了，简直是高危人群",
+"mid":"z6Zg92Sto",
+"date":"2012-11-26 16:40:39"
+},
+{
+"kids":[],
+"uid":"lucasbian",
+"parent":"",
+"text":"搞得最好没人开车……",
+"mid":"z6Zg7Bz5P",
+"date":"2012-11-26 16:40:35"
+},
+{
+"kids":[],
+"uid":"2803812584",
+"parent":"",
+"text":"",
+"mid":"z6Zg3pPrk",
+"date":"2012-11-26 16:40:27"
+},
+{
+"kids":[
+"z6ZGZz9fP"
+],
+"uid":"1872263960",
+"parent":"",
+"text":"[衰]咋办呢！",
+"mid":"z6ZfVaBmq",
+"date":"2012-11-26 16:40:06"
+},
+{
+"kids":[],
+"uid":"2660316941",
+"parent":"",
+"text":"",
+"mid":"z6ZfOEjfk",
+"date":"2012-11-26 16:39:51"
+},
+{
+"kids":[],
+"uid":"1967429773",
+"parent":"",
+"text":"",
+"mid":"z6ZfIbJbv",
+"date":"2012-11-26 16:39:34"
+},
+{
+"kids":[],
+"uid":"2609218947",
+"parent":"",
+"text":"[大巴][围观]",
+"mid":"z6ZfG8IfR",
+"date":"2012-11-26 16:39:28"
+},
+{
+"kids":[],
+"uid":"tofulion",
+"parent":"",
+"text":"这几天好好看",
+"mid":"z6ZfCfO6S",
+"date":"2012-11-26 16:39:19"
+},
+{
+"kids":[],
+"uid":"1097185800",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6ZePcz7z",
+"date":"2012-11-26 16:37:24"
+},
+{
+"kids":[],
+"uid":"2639179050",
+"parent":"",
+"text":"",
+"mid":"z6ZeCw4KS",
+"date":"2012-11-26 16:36:52"
+},
+{
+"kids":[],
+"uid":"2534978895",
+"parent":"",
+"text":"",
+"mid":"z6ZenrMm5",
+"date":"2012-11-26 16:36:18"
+},
+{
+"kids":[],
+"uid":"3057898235",
+"parent":"",
+"text":"",
+"mid":"z6ZehyctJ",
+"date":"2012-11-26 16:36:04"
+},
+{
+"kids":[],
+"uid":"2189375441",
+"parent":"",
+"text":"",
+"mid":"z6Zed6tt1",
+"date":"2012-11-26 16:35:53"
+},
+{
+"kids":[],
+"uid":"2808239181",
+"parent":"",
+"text":"",
+"mid":"z6Ze5q8QT",
+"date":"2012-11-26 16:35:35"
+},
+{
+"kids":[
+"z6Zg92Sto"
+],
+"uid":"2117651467",
+"parent":"",
+"text":"转给开车的人",
+"mid":"z6ZdZtAvx",
+"date":"2012-11-26 16:35:20"
+},
+{
+"kids":[],
+"uid":"1895175091",
+"parent":"",
+"text":"我不爱系安全带",
+"mid":"z6ZdV3OZY",
+"date":"2012-11-26 16:35:08"
+},
+{
+"kids":[],
+"uid":"p927",
+"parent":"z6Z6sjTVO",
+"text":"",
+"mid":"z6ZdRdfR2",
+"date":"2012-11-26 16:34:59"
+},
+{
+"kids":[],
+"uid":"1927946672",
+"parent":"",
+"text":"必须转",
+"mid":"z6ZdO1giB",
+"date":"2012-11-26 16:34:53"
+},
+{
+"kids":[],
+"uid":"stevenlew",
+"parent":"",
+"text":"",
+"mid":"z6ZdGiitF",
+"date":"2012-11-26 16:34:35"
+},
+{
+"kids":[],
+"uid":"lgbwb",
+"parent":"",
+"text":"",
+"mid":"z6ZdAoj1I",
+"date":"2012-11-26 16:34:21"
+},
+{
+"kids":[],
+"uid":"1870463297",
+"parent":"",
+"text":"",
+"mid":"z6Zdjfl9F",
+"date":"2012-11-26 16:33:40"
+},
+{
+"kids":[
+"z6ZKTyCvk"
+],
+"uid":"lzarrive",
+"parent":"z6ZamiZKh",
+"text":"@一念成魔方 :超速6分噢……",
+"mid":"z6ZddBbQb",
+"date":"2012-11-26 16:33:27"
+},
+{
+"kids":[],
+"uid":"tranidey",
+"parent":"",
+"text":"",
+"mid":"z6Zd8jhse",
+"date":"2012-11-26 16:33:14"
+},
+{
+"kids":[],
+"uid":"2735791857",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6Zd04yrQ",
+"date":"2012-11-26 16:32:55"
+},
+{
+"kids":[],
+"uid":"1984144253",
+"parent":"",
+"text":"真的假的！！！",
+"mid":"z6ZcWtYKn",
+"date":"2012-11-26 16:32:45"
+},
+{
+"kids":[],
+"uid":"2810936134",
+"parent":"",
+"text":"",
+"mid":"z6ZcWbhqG",
+"date":"2012-11-26 16:32:46"
+},
+{
+"kids":[],
+"uid":"mutouzz",
+"parent":"",
+"text":"请大家在开车时养成好习惯。",
+"mid":"z6ZcOdDWy",
+"date":"2012-11-26 16:32:26"
+},
+{
+"kids":[],
+"uid":"minicat1227",
+"parent":"z6Z6Qg65D",
+"text":"过来看啊过来看[熊猫]",
+"mid":"z6ZcF2XWM",
+"date":"2012-11-26 16:32:04"
+},
+{
+"kids":[],
+"uid":"fulu522305",
+"parent":"",
+"text":"",
+"mid":"z6ZcC5DLq",
+"date":"2012-11-26 16:31:55"
+},
+{
+"kids":[],
+"uid":"sutar99",
+"parent":"",
+"text":"[黑线][黑线]以后小冯不能坐前座了",
+"mid":"z6ZcyhDxq",
+"date":"2012-11-26 16:31:48"
+},
+{
+"kids":[],
+"uid":"1854974501",
+"parent":"",
+"text":"",
+"mid":"z6Zcgv7Eh",
+"date":"2012-11-26 16:31:06"
+},
+{
+"kids":[],
+"uid":"zyzhouying",
+"parent":"",
+"text":"[汗]",
+"mid":"z6Zc7nZ7w",
+"date":"2012-11-26 16:30:44"
+},
+{
+"kids":[],
+"uid":"1350816034",
+"parent":"",
+"text":"@lovely小雪妞儿 @橘子团团Lily",
+"mid":"z6ZbF1SwJ",
+"date":"2012-11-26 16:29:36"
+},
+{
+"kids":[],
+"uid":"1411352315",
+"parent":"",
+"text":"",
+"mid":"z6ZbBcrya",
+"date":"2012-11-26 16:29:27"
+},
+{
+"kids":[],
+"uid":"1974681382",
+"parent":"",
+"text":"小心啦，不过我还真担心我家开车的[抓狂]总是开车打电话。",
+"mid":"z6ZbxlRuO",
+"date":"2012-11-26 16:29:18"
+},
+{
+"kids":[],
+"uid":"enozhang",
+"parent":"",
+"text":"",
+"mid":"z6Zbh6IGc",
+"date":"2012-11-26 16:28:39"
+},
+{
+"kids":[],
+"uid":"1698417572",
+"parent":"",
+"text":"@沐沐我的最爱",
+"mid":"z6Zb8bp8a",
+"date":"2012-11-26 16:28:16"
+},
+{
+"kids":[
+"z6ZwOpmCG"
+],
+"uid":"2118394384",
+"parent":"",
+"text":"无！",
+"mid":"z6Zb73RcJ",
+"date":"2012-11-26 16:28:15"
+},
+{
+"kids":[],
+"uid":"2117121957",
+"parent":"",
+"text":"@鬼马妞子 @Marsm @史子旭大圣 @眯眯眼ryan @无风云出塞 ：记住新交规规定，太麻烦。",
+"mid":"z6ZaZB1Oa",
+"date":"2012-11-26 16:27:55"
+},
+{
+"kids":[],
+"uid":"1917024377",
+"parent":"",
+"text":"",
+"mid":"z6ZaT9fHT",
+"date":"2012-11-26 16:27:40"
+},
+{
+"kids":[],
+"uid":"2688362713",
+"parent":"",
+"text":"",
+"mid":"z6ZaL8rtc",
+"date":"2012-11-26 16:27:23"
+},
+{
+"kids":[
+"z6ZddBbQb"
+],
+"uid":"2416468680",
+"parent":"",
+"text":"",
+"mid":"z6ZamiZKh",
+"date":"2012-11-26 16:26:22"
+},
+{
+"kids":[],
+"uid":"2819032202",
+"parent":"",
+"text":"",
+"mid":"z6Za8szUP",
+"date":"2012-11-26 16:25:48"
+},
+{
+"kids":[],
+"uid":"1776061547",
+"parent":"",
+"text":"*^○^*",
+"mid":"z6Za2w3lc",
+"date":"2012-11-26 16:25:37"
+},
+{
+"kids":[],
+"uid":"311757999",
+"parent":"z6Z4TFRB9",
+"text":"@嗳myseel曹",
+"mid":"z6Z9XuDZq",
+"date":"2012-11-26 16:25:25"
+},
+{
+"kids":[
+"z6ZSNdN50"
+],
+"uid":"fangcherry",
+"parent":"",
+"text":"@马丽莎莎 @桦姐小窝 @补丁绣成花",
+"mid":"z6Z9UAj3h",
+"date":"2012-11-26 16:25:19"
+},
+{
+"kids":[],
+"uid":"2843765214minjiameng",
+"parent":"",
+"text":"哈哈哈",
+"mid":"z6Z9RlmKK",
+"date":"2012-11-26 16:25:10"
+},
+{
+"kids":[
+"z6ZoZtvdE"
+],
+"uid":"shishenshen",
+"parent":"",
+"text":"第一次知道，副驾驶不能坐超过14岁的。。。",
+"mid":"z6Z9MxuzH",
+"date":"2012-11-26 16:24:59"
+},
+{
+"kids":[],
+"uid":"sleepingkid",
+"parent":"",
+"text":"驾驶员们都小心一点哦",
+"mid":"z6Z9JBgfO",
+"date":"2012-11-26 16:24:52"
+},
+{
+"kids":[],
+"uid":"2230163907",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6Z9E0EDb",
+"date":"2012-11-26 16:24:38"
+},
+{
+"kids":[],
+"uid":"1884868162",
+"parent":"",
+"text":"",
+"mid":"z6Z9wCOWk",
+"date":"2012-11-26 16:24:21"
+},
+{
+"kids":[],
+"uid":"1850086764",
+"parent":"",
+"text":"",
+"mid":"z6Z9sd22E",
+"date":"2012-11-26 16:24:11"
+},
+{
+"kids":[],
+"uid":"275449964",
+"parent":"",
+"text":"你遵纪守法不就好了 不过你不是本本族么[偷笑]",
+"mid":"z6Z9jmcfU",
+"date":"2012-11-26 16:23:48"
+},
+{
+"kids":[],
+"uid":"uirljh",
+"parent":"z6Z7psgOc",
+"text":"",
+"mid":"z6Z9j3pGa",
+"date":"2012-11-26 16:23:48"
+},
+{
+"kids":[],
+"uid":"1809641004",
+"parent":"",
+"text":"@幸福的炭坨",
+"mid":"z6Z9eyttW",
+"date":"2012-11-26 16:23:38"
+},
+{
+"kids":[],
+"uid":"2632325111",
+"parent":"",
+"text":"",
+"mid":"z6Z9dFex8",
+"date":"2012-11-26 16:23:36"
+},
+{
+"kids":[],
+"uid":"ab1025",
+"parent":"",
+"text":"[xb压力][din推撞]",
+"mid":"z6Z96zKbM",
+"date":"2012-11-26 16:23:19"
+},
+{
+"kids":[],
+"uid":"1774537804",
+"parent":"",
+"text":"各位汽车的银们要注意咯，特别是妈妈们，注意最后一条哦",
+"mid":"z6Z92dOEk",
+"date":"2012-11-26 16:23:06"
+},
+{
+"kids":[],
+"uid":"1762505820",
+"parent":"",
+"text":"@David0206 @刘大沛多笑西西",
+"mid":"z6Z8T4cpR",
+"date":"2012-11-26 16:22:44"
+},
+{
+"kids":[
+"z70ymsPN2"
+],
+"uid":"kuaile728",
+"parent":"",
+"text":"",
+"mid":"z6Z8Oziib",
+"date":"2012-11-26 16:22:36"
+},
+{
+"kids":[],
+"uid":"1820650402",
+"parent":"z6Z5Xk80c",
+"text":"这样还开毛啊。。驾照全收去算了[挖鼻屎]",
+"mid":"z6Z8vFUgx",
+"date":"2012-11-26 16:21:51"
+},
+{
+"kids":[],
+"uid":"2721935154",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6Z8nqJzW",
+"date":"2012-11-26 16:21:31"
+},
+{
+"kids":[],
+"uid":"haominwithfalao",
+"parent":"",
+"text":"",
+"mid":"z6Z8jxBdo",
+"date":"2012-11-26 16:21:22"
+},
+{
+"kids":[],
+"uid":"2881793284",
+"parent":"",
+"text":"2013年1月1日交通新规",
+"mid":"z6Z8cbPfa",
+"date":"2012-11-26 16:21:05"
+},
+{
+"kids":[
+"z6ZtYzP85"
+],
+"uid":"skodabl",
+"parent":"",
+"text":"",
+"mid":"z6Z860KlL",
+"date":"2012-11-26 16:20:49"
+},
+{
+"kids":[],
+"uid":"1874935627",
+"parent":"",
+"text":"",
+"mid":"z6Z7YBbvo",
+"date":"2012-11-26 16:20:30"
+},
+{
+"kids":[],
+"uid":"2125375525",
+"parent":"",
+"text":"",
+"mid":"z6Z7EubiT",
+"date":"2012-11-26 16:19:44"
+},
+{
+"kids":[],
+"uid":"1895175091",
+"parent":"z6Z6sjTVO",
+"text":"[汗]",
+"mid":"z6Z7EcA5Z",
+"date":"2012-11-26 16:19:42"
+},
+{
+"kids":[
+"z71qu64kC"
+],
+"uid":"wyj0617",
+"parent":"",
+"text":"@新没有灵犀",
+"mid":"z6Z7x5ZWq",
+"date":"2012-11-26 16:19:25"
+},
+{
+"kids":[
+"z6Z9j3pGa"
+],
+"uid":"zm0921",
+"parent":"",
+"text":"",
+"mid":"z6Z7psgOc",
+"date":"2012-11-26 16:19:08"
+},
+{
+"kids":[],
+"uid":"1753266445",
+"parent":"",
+"text":"",
+"mid":"z6Z7oe1yw",
+"date":"2012-11-26 16:19:06"
+},
+{
+"kids":[],
+"uid":"1781036791",
+"parent":"z6Z6BdY6B",
+"text":"转给需要的轮",
+"mid":"z6Z7nFMoS",
+"date":"2012-11-26 16:19:04"
+},
+{
+"kids":[],
+"uid":"278840326",
+"parent":"",
+"text":"尼玛，好坑爹...副驾驶又关事",
+"mid":"z6Z7jwnxq",
+"date":"2012-11-26 16:18:54"
+},
+{
+"kids":[],
+"uid":"2535606390",
+"parent":"",
+"text":"",
+"mid":"z6Z7fFNjn",
+"date":"2012-11-26 16:18:45"
+},
+{
+"kids":[],
+"uid":"325001010",
+"parent":"",
+"text":"",
+"mid":"z6Z79d8jQ",
+"date":"2012-11-26 16:18:29"
+},
+{
+"kids":[],
+"uid":"1761040241",
+"parent":"",
+"text":"[xb压力]",
+"mid":"z6Z76dyWa",
+"date":"2012-11-26 16:18:22"
+},
+{
+"kids":[],
+"uid":"1450022847",
+"parent":"",
+"text":"",
+"mid":"z6Z74tiVd",
+"date":"2012-11-26 16:18:18"
+},
+{
+"kids":[],
+"uid":"kaal",
+"parent":"",
+"text":"求辟谣~求证实~",
+"mid":"z6Z71uKn5",
+"date":"2012-11-26 16:18:11"
+},
+{
+"kids":[
+"z6ZcF2XWM"
+],
+"uid":"yangxiaozhu410",
+"parent":"",
+"text":"看过来啊看过来",
+"mid":"z6Z6Qg65D",
+"date":"2012-11-26 16:17:44"
+},
+{
+"kids":[],
+"uid":"silencejia1991",
+"parent":"",
+"text":"记住了哦",
+"mid":"z6Z6M6QcB",
+"date":"2012-11-26 16:17:32"
+},
+{
+"kids":[],
+"uid":"jcamy",
+"parent":"",
+"text":"開車的朋友，要注意喔~",
+"mid":"z6Z6F4ybr",
+"date":"2012-11-26 16:17:16"
+},
+{
+"kids":[],
+"uid":"1811624821",
+"parent":"",
+"text":"",
+"mid":"z6Z6DeRMQ",
+"date":"2012-11-26 16:17:13"
+},
+{
+"kids":[
+"z6Z7nFMoS"
+],
+"uid":"1914198777",
+"parent":"",
+"text":"[威武]",
+"mid":"z6Z6BdY6B",
+"date":"2012-11-26 16:17:08"
+},
+{
+"kids":[
+"z6ZdRdfR2",
+"z6Z7EcA5Z"
+],
+"uid":"1812003513",
+"parent":"",
+"text":"@麻小不小 [哈哈][哈哈][哈哈]不知道真假 还是多注意吧以后",
+"mid":"z6Z6sjTVO",
+"date":"2012-11-26 16:16:45"
+},
+{
+"kids":[],
+"uid":"juny123654",
+"parent":"",
+"text":"",
+"mid":"z6Z6p4Yyo",
+"date":"2012-11-26 16:16:39"
+},
+{
+"kids":[],
+"uid":"skodabl",
+"parent":"",
+"text":"",
+"mid":"z6Z6mrhlb",
+"date":"2012-11-26 16:16:31"
+},
+{
+"kids":[],
+"uid":"neight",
+"parent":"",
+"text":"不管真的假的，这些也都是平时应该注意的，大家就应该养成好习惯，自觉一些，别到最后所有的习惯都变成法律了我们才知道要注意！",
+"mid":"z6Z6mq38t",
+"date":"2012-11-26 16:16:33"
+},
+{
+"kids":[],
+"uid":"2875542620",
+"parent":"",
+"text":"",
+"mid":"z6Z6m7EmB",
+"date":"2012-11-26 16:16:32"
+},
+{
+"kids":[],
+"uid":"2631863443",
+"parent":"",
+"text":"",
+"mid":"z6Z6h714Q",
+"date":"2012-11-26 16:16:20"
+},
+{
+"kids":[],
+"uid":"1905406364",
+"parent":"",
+"text":"@李李李玥忻 @对号入座贱兮兮 @習慣兩嗰秂",
+"mid":"z6Z6h710H",
+"date":"2012-11-26 16:16:20"
+},
+{
+"kids":[],
+"uid":"pilk",
+"parent":"",
+"text":"",
+"mid":"z6Z6h70XN",
+"date":"2012-11-26 16:16:20"
+},
+{
+"kids":[],
+"uid":"2141862935",
+"parent":"",
+"text":"@暴普雷斯alfonzo",
+"mid":"z6Z69pQBv",
+"date":"2012-11-26 16:16:02"
+},
+{
+"kids":[],
+"uid":"junecats",
+"parent":"",
+"text":"小孩不能坐副驾驶哦[哼]",
+"mid":"z6Z63dzbg",
+"date":"2012-11-26 16:15:46"
+},
+{
+"kids":[],
+"uid":"1403873473",
+"parent":"",
+"text":"[吃惊]",
+"mid":"z6Z61sjn7",
+"date":"2012-11-26 16:15:43"
+},
+{
+"kids":[
+"z6ZGfaV3i",
+"z6Z8vFUgx"
+],
+"uid":"1804395351",
+"parent":"",
+"text":"[哼]规矩好多''记不住撒'",
+"mid":"z6Z5Xk80c",
+"date":"2012-11-26 16:15:31"
+},
+{
+"kids":[],
+"uid":"1004675505",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6Z5UBoI4",
+"date":"2012-11-26 16:15:27"
+},
+{
+"kids":[],
+"uid":"alfredzhao1988",
+"parent":"",
+"text":"有车的自个儿来看看阿！",
+"mid":"z6Z5Qwd1v",
+"date":"2012-11-26 16:15:15"
+},
+{
+"kids":[],
+"uid":"1744847607",
+"parent":"",
+"text":"@JerryLiu-Searcher @那一抹天际蓝- 看清楚啦",
+"mid":"z6Z5Ple1B",
+"date":"2012-11-26 16:15:15"
+},
+{
+"kids":[],
+"uid":"2844639762",
+"parent":"",
+"text":"@sbrina0 @亲亲馒头小宝",
+"mid":"z6Z5Ld2dS",
+"date":"2012-11-26 16:15:03"
+},
+{
+"kids":[],
+"uid":"1547579922",
+"parent":"",
+"text":"",
+"mid":"z6Z5H23lK",
+"date":"2012-11-26 16:14:54"
+},
+{
+"kids":[],
+"uid":"1833851584",
+"parent":"",
+"text":"学车的人不容易，开车的更不容易啊！",
+"mid":"z6Z5xCr73",
+"date":"2012-11-26 16:14:32"
+},
+{
+"kids":[],
+"uid":"1861929884",
+"parent":"",
+"text":"真的假的？@今夜无故事 @小羊肖恩乖乖",
+"mid":"z6Z5u4EqP",
+"date":"2012-11-26 16:14:22"
+},
+{
+"kids":[],
+"uid":"1717275014",
+"parent":"",
+"text":"",
+"mid":"z6Z5r5G6w",
+"date":"2012-11-26 16:14:16"
+},
+{
+"kids":[],
+"uid":"1973590812",
+"parent":"",
+"text":"又实际也不现实",
+"mid":"z6Z5pCqn8",
+"date":"2012-11-26 16:14:13"
+},
+{
+"kids":[],
+"uid":"1922034114",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6Z5nhYxO",
+"date":"2012-11-26 16:14:07"
+},
+{
+"kids":[],
+"uid":"2609319195",
+"parent":"",
+"text":"",
+"mid":"z6Z5m3brv",
+"date":"2012-11-26 16:14:05"
+},
+{
+"kids":[],
+"uid":"helloshe",
+"parent":"",
+"text":"",
+"mid":"z6Z5kzo72",
+"date":"2012-11-26 16:13:58"
+},
+{
+"kids":[],
+"uid":"207411186",
+"parent":"",
+"text":"",
+"mid":"z6Z5dcizJ",
+"date":"2012-11-26 16:13:43"
+},
+{
+"kids":[],
+"uid":"akumalisa",
+"parent":"",
+"text":"请遵守新法规！~@盗版歌神",
+"mid":"z6Z5boJ8X",
+"date":"2012-11-26 16:13:39"
+},
+{
+"kids":[
+"z72TL2UhF",
+"z6ZwB5pLE",
+"z6ZwB5pKf"
+],
+"uid":"awfvvf",
+"parent":"",
+"text":"@唉的哗啦啦",
+"mid":"z6Z518afr",
+"date":"2012-11-26 16:13:13"
+},
+{
+"kids":[],
+"uid":"2591510932",
+"parent":"",
+"text":"本本族们可要当心啦！[话筒]",
+"mid":"z6Z50tKW0",
+"date":"2012-11-26 16:13:13"
+},
+{
+"kids":[],
+"uid":"1809641004",
+"parent":"",
+"text":"@幸福的炭坨",
+"mid":"z6Z4Uhvo0",
+"date":"2012-11-26 16:12:58"
+},
+{
+"kids":[
+"z6Z9XuDZq"
+],
+"uid":"319907111",
+"parent":"",
+"text":"",
+"mid":"z6Z4TFRB9",
+"date":"2012-11-26 16:12:57"
+},
+{
+"kids":[],
+"uid":"wp1987",
+"parent":"",
+"text":"",
+"mid":"z6Z4L9nhc",
+"date":"2012-11-26 16:12:36"
+},
+{
+"kids":[],
+"uid":"2509406064",
+"parent":"",
+"text":"@王律wl",
+"mid":"z6Z4KvcBJ",
+"date":"2012-11-26 16:12:35"
+},
+{
+"kids":[],
+"uid":"1896925364",
+"parent":"",
+"text":"",
+"mid":"z6Z4Hghef",
+"date":"2012-11-26 16:12:25"
+}
+]

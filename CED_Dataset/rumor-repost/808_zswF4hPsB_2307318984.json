@@ -1,0 +1,4822 @@
+[
+{
+"kids":[],
+"uid":"1991418485",
+"parent":"",
+"text":"",
+"mid":"zwE04CrG3",
+"date":"2013-05-14 10:21:17"
+},
+{
+"kids":[],
+"uid":"2804160062",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zwbI4aYY9",
+"date":"2013-05-11 10:20:00"
+},
+{
+"kids":[],
+"uid":"3044361284",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zvYJfCvM1",
+"date":"2013-05-10 01:17:13"
+},
+{
+"kids":[],
+"uid":"1583075330",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zvYJfCvKh",
+"date":"2013-05-10 01:17:12"
+},
+{
+"kids":[],
+"uid":"1975387342",
+"parent":"",
+"text":"",
+"mid":"zvgyszavI",
+"date":"2013-05-05 08:49:46"
+},
+{
+"kids":[],
+"uid":"1776538662",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zv4YjtQRJ",
+"date":"2013-05-04 03:20:30"
+},
+{
+"kids":[],
+"uid":"2803945692",
+"parent":"zsDcuEMeK",
+"text":"",
+"mid":"zv0uN06RH",
+"date":"2013-05-03 15:56:45"
+},
+{
+"kids":[],
+"uid":"2802864314",
+"parent":"zsDcuEMeK",
+"text":"",
+"mid":"zv0uMot9e",
+"date":"2013-05-03 15:56:46"
+},
+{
+"kids":[],
+"uid":"3044673972",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zuUiPfVYz",
+"date":"2013-05-03 00:10:49"
+},
+{
+"kids":[],
+"uid":"2920486892",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zuUiPfVUw",
+"date":"2013-05-03 00:10:48"
+},
+{
+"kids":[],
+"uid":"1560979375",
+"parent":"ztCDg2SCI",
+"text":"",
+"mid":"zuLldojHL",
+"date":"2013-05-02 01:21:59"
+},
+{
+"kids":[],
+"uid":"3045123244",
+"parent":"zsDcuEMeK",
+"text":"",
+"mid":"zuFzDczFk",
+"date":"2013-05-01 10:41:01"
+},
+{
+"kids":[],
+"uid":"2810967322",
+"parent":"zsyxdsFZd",
+"text":"",
+"mid":"zusMsfJJh",
+"date":"2013-04-30 02:06:53"
+},
+{
+"kids":[],
+"uid":"2803717532",
+"parent":"zsyxdsFZd",
+"text":"",
+"mid":"zuiTmrtLR",
+"date":"2013-04-29 00:56:27"
+},
+{
+"kids":[],
+"uid":"2920610032",
+"parent":"zsyxdsFZd",
+"text":"",
+"mid":"zuiTmqfYj",
+"date":"2013-04-29 00:56:27"
+},
+{
+"kids":[],
+"uid":"2920017092",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zubnixFs3",
+"date":"2013-04-28 05:48:14"
+},
+{
+"kids":[],
+"uid":"2790109420",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zu8jNvxK6",
+"date":"2013-04-27 22:01:21"
+},
+{
+"kids":[],
+"uid":"3045274180",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zu8jNuQMH",
+"date":"2013-04-27 22:01:22"
+},
+{
+"kids":[
+"zuLldojHL"
+],
+"uid":"2910825687",
+"parent":"ztAz7mFMt",
+"text":"",
+"mid":"ztCDg2SCI",
+"date":"2013-04-24 13:21:23"
+},
+{
+"kids":[
+"ztCDg2SCI"
+],
+"uid":"1438693272",
+"parent":"zsyxdsFZd",
+"text":"",
+"mid":"ztAz7mFMt",
+"date":"2013-04-24 08:05:43"
+},
+{
+"kids":[],
+"uid":"3120704931",
+"parent":"",
+"text":"",
+"mid":"ztuDPiNNu",
+"date":"2013-04-23 17:00:48"
+},
+{
+"kids":[],
+"uid":"2752273323",
+"parent":"",
+"text":"",
+"mid":"ztuuKFSVN",
+"date":"2013-04-23 16:38:29"
+},
+{
+"kids":[],
+"uid":"2919550210",
+"parent":"zsyxdsFZd",
+"text":"",
+"mid":"ztsHOc2pq",
+"date":"2013-04-23 12:05:10"
+},
+{
+"kids":[],
+"uid":"2809946380",
+"parent":"zsyxdsFZd",
+"text":"",
+"mid":"ztsHOc2nx",
+"date":"2013-04-23 12:05:09"
+},
+{
+"kids":[],
+"uid":"2920475840",
+"parent":"",
+"text":"",
+"mid":"ztpRfo104",
+"date":"2013-04-23 04:50:10"
+},
+{
+"kids":[],
+"uid":"2811353370",
+"parent":"",
+"text":"",
+"mid":"ztpRf6pMK",
+"date":"2013-04-23 04:50:09"
+},
+{
+"kids":[],
+"uid":"2803128932",
+"parent":"zswFHAiN5",
+"text":"",
+"mid":"ztp5ac6xK",
+"date":"2013-04-23 02:51:41"
+},
+{
+"kids":[],
+"uid":"2919701680",
+"parent":"zswFHAiN5",
+"text":"",
+"mid":"ztjzxiYuC",
+"date":"2013-04-22 12:50:01"
+},
+{
+"kids":[],
+"uid":"3043977632",
+"parent":"zswFHAiN5",
+"text":"",
+"mid":"ztjzxiYqZ",
+"date":"2013-04-22 12:50:03"
+},
+{
+"kids":[],
+"uid":"2789812280",
+"parent":"zsAj61WCA",
+"text":"",
+"mid":"zteFVAO2M",
+"date":"2013-04-22 00:22:04"
+},
+{
+"kids":[],
+"uid":"2656583040",
+"parent":"",
+"text":"",
+"mid":"zteunmaRh",
+"date":"2013-04-21 23:53:34"
+},
+{
+"kids":[],
+"uid":"2919943254",
+"parent":"zsAj61WCA",
+"text":"",
+"mid":"ztayosRYs",
+"date":"2013-04-21 13:52:32"
+},
+{
+"kids":[],
+"uid":"3044094994",
+"parent":"zsAj61WCA",
+"text":"",
+"mid":"ztayosRVE",
+"date":"2013-04-21 13:52:31"
+},
+{
+"kids":[],
+"uid":"3044508720",
+"parent":"",
+"text":"",
+"mid":"zta0OaXun",
+"date":"2013-04-21 12:29:46"
+},
+{
+"kids":[],
+"uid":"3043673832",
+"parent":"",
+"text":"",
+"mid":"zta0OaXrY",
+"date":"2013-04-21 12:29:45"
+},
+{
+"kids":[],
+"uid":"3044329894",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zt74tvr7B",
+"date":"2013-04-21 05:00:34"
+},
+{
+"kids":[],
+"uid":"2919719180",
+"parent":"",
+"text":"",
+"mid":"zsWrbugk7",
+"date":"2013-04-20 01:56:18"
+},
+{
+"kids":[],
+"uid":"2808683222",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zsVMonvso",
+"date":"2013-04-20 00:15:47"
+},
+{
+"kids":[],
+"uid":"2789973160",
+"parent":"zsxxo1iQd",
+"text":"",
+"mid":"zsVMo5Ugv",
+"date":"2013-04-20 00:15:47"
+},
+{
+"kids":[],
+"uid":"cohend",
+"parent":"zsTO70Jdv",
+"text":"",
+"mid":"zsURJiHnN",
+"date":"2013-04-19 21:56:13"
+},
+{
+"kids":[
+"zsURJiHnN"
+],
+"uid":"2965588185",
+"parent":"zsD1MEBmg",
+"text":"",
+"mid":"zsTO70Jdv",
+"date":"2013-04-19 19:14:32"
+},
+{
+"kids":[],
+"uid":"3198341341",
+"parent":"",
+"text":"",
+"mid":"zsPnjuwer",
+"date":"2013-04-19 07:57:32"
+},
+{
+"kids":[],
+"uid":"2790077314",
+"parent":"",
+"text":"",
+"mid":"zsOHTDpax",
+"date":"2013-04-19 06:15:30"
+},
+{
+"kids":[],
+"uid":"2920519430",
+"parent":"",
+"text":"",
+"mid":"zsOHTCDge",
+"date":"2013-04-19 06:15:30"
+},
+{
+"kids":[],
+"uid":"2159526781",
+"parent":"zswH51EcH",
+"text":"",
+"mid":"zsI5mfVtu",
+"date":"2013-04-18 13:24:03"
+},
+{
+"kids":[],
+"uid":"wangkunlaw",
+"parent":"",
+"text":"新浪链接了两个网页，显示中央台和湖南台报道了襄阳大火事件。这至少说明媒体并没有都保持沉默。敢于及时公布真相i就是进步，至于受关注度如何，我觉得暂不宜强求，毕竟事故太多了，重视不过来。事故少的国家可高调处理甚至降半旗，咱们如果出了事故死了人就降半旗，恐怕国旗很难再完全升起来了。",
+"mid":"zsHt6kJMF",
+"date":"2013-04-18 11:49:49"
+},
+{
+"kids":[],
+"uid":"1832851255",
+"parent":"",
+"text":"",
+"mid":"zsH7UzvwS",
+"date":"2013-04-18 10:57:38"
+},
+{
+"kids":[],
+"uid":"2805230072",
+"parent":"",
+"text":"",
+"mid":"zsGUxquv4",
+"date":"2013-04-18 10:24:39"
+},
+{
+"kids":[],
+"uid":"2066822292",
+"parent":"",
+"text":"我想应该是吧",
+"mid":"zsGNN1BJi",
+"date":"2013-04-18 10:08:02"
+},
+{
+"kids":[],
+"uid":"jiujieyu",
+"parent":"zsG7dFDlb",
+"text":"次奥！！",
+"mid":"zsGHQvOWN",
+"date":"2013-04-18 09:53:23"
+},
+{
+"kids":[],
+"uid":"2605163645",
+"parent":"",
+"text":"",
+"mid":"zsGGe4zkN",
+"date":"2013-04-18 09:49:23"
+},
+{
+"kids":[],
+"uid":"2919407614",
+"parent":"zsyxdsFZd",
+"text":"",
+"mid":"zsGBvx8L8",
+"date":"2013-04-18 09:37:47"
+},
+{
+"kids":[],
+"uid":"2605079714",
+"parent":"",
+"text":"[给力]",
+"mid":"zsGyvFROM",
+"date":"2013-04-18 09:30:23"
+},
+{
+"kids":[],
+"uid":"1581469320",
+"parent":"zsCZBBhV4",
+"text":"央视，彰显2B风范！！！",
+"mid":"zsGp66825",
+"date":"2013-04-18 09:07:11"
+},
+{
+"kids":[],
+"uid":"2624102505",
+"parent":"",
+"text":"",
+"mid":"zsGnevGD1",
+"date":"2013-04-18 09:02:37"
+},
+{
+"kids":[],
+"uid":"2118172014",
+"parent":"",
+"text":"",
+"mid":"zsGmK70zY",
+"date":"2013-04-18 09:01:23"
+},
+{
+"kids":[],
+"uid":"602790834",
+"parent":"",
+"text":"",
+"mid":"zsGmsoBbB",
+"date":"2013-04-18 09:00:42"
+},
+{
+"kids":[],
+"uid":"2288348020",
+"parent":"",
+"text":"",
+"mid":"zsGah5UxG",
+"date":"2013-04-18 08:30:41"
+},
+{
+"kids":[],
+"uid":"3154582281",
+"parent":"",
+"text":"#热门微博# http:",
+"mid":"zsG8cjaJv",
+"date":"2013-04-18 08:25:34"
+},
+{
+"kids":[],
+"uid":"3124291872",
+"parent":"zsCNgkmZ0",
+"text":"",
+"mid":"zsG7Uzcn5",
+"date":"2013-04-18 08:24:52"
+},
+{
+"kids":[
+"zsGHQvOWN"
+],
+"uid":"liangms",
+"parent":"",
+"text":"",
+"mid":"zsG7dFDlb",
+"date":"2013-04-18 08:23:10"
+},
+{
+"kids":[],
+"uid":"2710229472",
+"parent":"zsFepgTUU",
+"text":"",
+"mid":"zsG6Xt3SC",
+"date":"2013-04-18 08:22:31"
+},
+{
+"kids":[],
+"uid":"2134476442",
+"parent":"",
+"text":"",
+"mid":"zsG3Wqx5W",
+"date":"2013-04-18 08:15:04"
+},
+{
+"kids":[],
+"uid":"dlyjandzhj",
+"parent":"",
+"text":"#热门微博# http:",
+"mid":"zsG1j1zS3",
+"date":"2013-04-18 08:08:35"
+},
+{
+"kids":[],
+"uid":"2125784105",
+"parent":"",
+"text":"天朝都习惯喽！！[鄙视]",
+"mid":"zsFY6ok9Y",
+"date":"2013-04-18 08:00:42"
+},
+{
+"kids":[],
+"uid":"2734109205",
+"parent":"",
+"text":"",
+"mid":"zsFSZlL4m",
+"date":"2013-04-18 07:48:05"
+},
+{
+"kids":[],
+"uid":"3199015332",
+"parent":"",
+"text":"",
+"mid":"zsFLcuQXO",
+"date":"2013-04-18 07:28:55"
+},
+{
+"kids":[],
+"uid":"1597784612",
+"parent":"",
+"text":"央视是美国的央视吗？",
+"mid":"zsFJWdE9w",
+"date":"2013-04-18 07:25:48"
+},
+{
+"kids":[],
+"uid":"2309604380",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"zsFvkvWqK",
+"date":"2013-04-18 06:49:48"
+},
+{
+"kids":[],
+"uid":"2789907092",
+"parent":"zsyiH6Nil",
+"text":"",
+"mid":"zsFpTlMSU",
+"date":"2013-04-18 06:36:24"
+},
+{
+"kids":[],
+"uid":"1822760410",
+"parent":"zsCWbsNYM",
+"text":"",
+"mid":"zsFewkztJ",
+"date":"2013-04-18 06:08:23"
+},
+{
+"kids":[
+"zsG6Xt3SC"
+],
+"uid":"207767693",
+"parent":"",
+"text":"#热门微博# http:",
+"mid":"zsFepgTUU",
+"date":"2013-04-18 06:08:07"
+},
+{
+"kids":[],
+"uid":"2647166591",
+"parent":"",
+"text":"又要面子，又想装逼！",
+"mid":"zsF5kDcLL",
+"date":"2013-04-18 05:45:45"
+},
+{
+"kids":[],
+"uid":"1583195660",
+"parent":"zsxFuEA0e",
+"text":"",
+"mid":"zsF35pR3p",
+"date":"2013-04-18 05:40:13"
+},
+{
+"kids":[],
+"uid":"2883786174",
+"parent":"",
+"text":"",
+"mid":"zsEYelMyi",
+"date":"2013-04-18 05:28:15"
+},
+{
+"kids":[],
+"uid":"ohmyladyxuexue",
+"parent":"",
+"text":"央视是世界的",
+"mid":"zsECuAAcy",
+"date":"2013-04-18 04:34:42"
+},
+{
+"kids":[],
+"uid":"1833303891",
+"parent":"",
+"text":"襄阳没有波士顿出名的原因？？",
+"mid":"zsEA57sFq",
+"date":"2013-04-18 04:28:45"
+},
+{
+"kids":[],
+"uid":"stillangry",
+"parent":"",
+"text":"如果要反思，不只是ZF，死要面子，报喜不报忧，已经成为生活文化。",
+"mid":"zsEdfF8X8",
+"date":"2013-04-18 03:32:32"
+},
+{
+"kids":[],
+"uid":"1723772617",
+"parent":"",
+"text":"",
+"mid":"zsDRRfDD7",
+"date":"2013-04-18 02:39:49"
+},
+{
+"kids":[],
+"uid":"ckiki0219",
+"parent":"zsBJ1f3UA",
+"text":"",
+"mid":"zsDJsiDcV",
+"date":"2013-04-18 02:19:07"
+},
+{
+"kids":[],
+"uid":"1401996395",
+"parent":"zsCMyAZFk",
+"text":"",
+"mid":"zsDuwshVg",
+"date":"2013-04-18 01:42:20"
+},
+{
+"kids":[],
+"uid":"lycsh",
+"parent":"",
+"text":"",
+"mid":"zsDrxvR5L",
+"date":"2013-04-18 01:34:59"
+},
+{
+"kids":[],
+"uid":"1910838827",
+"parent":"",
+"text":"牛肉里面掺马肉现在还时不时的贴心跟踪报道呢[挖鼻屎]",
+"mid":"zsDhycas6",
+"date":"2013-04-18 01:10:22"
+},
+{
+"kids":[],
+"uid":"wmd128",
+"parent":"",
+"text":"",
+"mid":"zsDfWzGwi",
+"date":"2013-04-18 01:06:25"
+},
+{
+"kids":[],
+"uid":"blacktailed",
+"parent":"",
+"text":"",
+"mid":"zsDdf3GdT",
+"date":"2013-04-18 00:59:45"
+},
+{
+"kids":[],
+"uid":"2836342623",
+"parent":"",
+"text":"这样的评论太偏激了，美国也是如此评价中国的一些事件的。媒体，宗教，文化自古以来都是为巩固统治者统治的工具",
+"mid":"zsDde8hHV",
+"date":"2013-04-18 00:59:43"
+},
+{
+"kids":[],
+"uid":"1476093882",
+"parent":"",
+"text":"",
+"mid":"zsDcWqt0b",
+"date":"2013-04-18 00:59:01"
+},
+{
+"kids":[
+"zv0uN06RH",
+"zv0uMot9e",
+"zuFzDczFk"
+],
+"uid":"2213608663",
+"parent":"",
+"text":"",
+"mid":"zsDcuEMeK",
+"date":"2013-04-18 00:57:53"
+},
+{
+"kids":[],
+"uid":"208123197",
+"parent":"",
+"text":"",
+"mid":"zsDch4jzf",
+"date":"2013-04-18 00:57:21"
+},
+{
+"kids":[],
+"uid":"1939482931",
+"parent":"",
+"text":"",
+"mid":"zsDaB0M2b",
+"date":"2013-04-18 00:53:14"
+},
+{
+"kids":[],
+"uid":"2763922475",
+"parent":"",
+"text":"",
+"mid":"zsD8gv7Ri",
+"date":"2013-04-18 00:47:31"
+},
+{
+"kids":[],
+"uid":"yssalp",
+"parent":"",
+"text":"",
+"mid":"zsD3wx9tA",
+"date":"2013-04-18 00:35:46"
+},
+{
+"kids":[
+"zsTO70Jdv"
+],
+"uid":"2965588185",
+"parent":"",
+"text":"",
+"mid":"zsD1MEBmg",
+"date":"2013-04-18 00:31:29"
+},
+{
+"kids":[],
+"uid":"spaceyang",
+"parent":"",
+"text":"这是一个令人作呕的国度。。",
+"mid":"zsD0M2lND",
+"date":"2013-04-18 00:29:02"
+},
+{
+"kids":[],
+"uid":"2033375231",
+"parent":"",
+"text":"",
+"mid":"zsCZMfMPN",
+"date":"2013-04-18 00:26:35"
+},
+{
+"kids":[],
+"uid":"younghelen",
+"parent":"",
+"text":"",
+"mid":"zsCZDnMfJ",
+"date":"2013-04-18 00:26:14"
+},
+{
+"kids":[
+"zsGp66825"
+],
+"uid":"perfectxingcheng",
+"parent":"",
+"text":"",
+"mid":"zsCZBBhV4",
+"date":"2013-04-18 00:26:10"
+},
+{
+"kids":[],
+"uid":"1986371090",
+"parent":"",
+"text":"",
+"mid":"zsCZoCMen",
+"date":"2013-04-18 00:25:37"
+},
+{
+"kids":[],
+"uid":"2522322404",
+"parent":"",
+"text":"#中国梦#～不要“假大空”。",
+"mid":"zsCYn80Bx",
+"date":"2013-04-18 00:23:08"
+},
+{
+"kids":[],
+"uid":"2881931463",
+"parent":"",
+"text":"",
+"mid":"zsCY32iZI",
+"date":"2013-04-18 00:22:18"
+},
+{
+"kids":[],
+"uid":"1980151554",
+"parent":"",
+"text":"这就是中国媒体",
+"mid":"zsCX1tAfJ",
+"date":"2013-04-18 00:19:46"
+},
+{
+"kids":[],
+"uid":"2599460995",
+"parent":"",
+"text":"央视总是报自己国家的喜别人国家的忧",
+"mid":"zsCWoswtX",
+"date":"2013-04-18 00:18:12"
+},
+{
+"kids":[],
+"uid":"1701776362",
+"parent":"",
+"text":"",
+"mid":"zsCWepG19",
+"date":"2013-04-18 00:17:51"
+},
+{
+"kids":[
+"zsFewkztJ"
+],
+"uid":"durianknight",
+"parent":"",
+"text":"因为美国人民生活在资本主义的水深火热之中！",
+"mid":"zsCWbsNYM",
+"date":"2013-04-18 00:17:44"
+},
+{
+"kids":[],
+"uid":"mensaoskate",
+"parent":"",
+"text":"中国特色",
+"mid":"zsCVBnsm4",
+"date":"2013-04-18 00:16:15"
+},
+{
+"kids":[],
+"uid":"1796249375",
+"parent":"",
+"text":"開門，有你們的快遞！",
+"mid":"zsCVkA6Oy",
+"date":"2013-04-18 00:15:36"
+},
+{
+"kids":[],
+"uid":"2068175065",
+"parent":"",
+"text":"啊，他本来就用英文命名。cctv不是。",
+"mid":"zsCUNrWD3",
+"date":"2013-04-18 00:14:16"
+},
+{
+"kids":[],
+"uid":"1847703047",
+"parent":"",
+"text":"领导子女都在美国，能不关注吗？！",
+"mid":"zsCUNdGWp",
+"date":"2013-04-18 00:14:14"
+},
+{
+"kids":[],
+"uid":"rio3603",
+"parent":"",
+"text":"总之不是屁民的央视。。。",
+"mid":"zsCTwjfD4",
+"date":"2013-04-18 00:11:09"
+},
+{
+"kids":[],
+"uid":"1839646037",
+"parent":"",
+"text":"",
+"mid":"zsCTw1Ehh",
+"date":"2013-04-18 00:11:08"
+},
+{
+"kids":[],
+"uid":"2151300805",
+"parent":"",
+"text":"央视的职责就是最大程度地体现国外多么动乱，大陆多么美好。",
+"mid":"zsCSQjNy9",
+"date":"2013-04-18 00:09:27"
+},
+{
+"kids":[],
+"uid":"2084640111",
+"parent":"",
+"text":"",
+"mid":"zsCSwyhQ0",
+"date":"2013-04-18 00:08:43"
+},
+{
+"kids":[],
+"uid":"1960153565",
+"parent":"",
+"text":"[哼]",
+"mid":"zsCSi4eh8",
+"date":"2013-04-18 00:08:05"
+},
+{
+"kids":[],
+"uid":"1879486203",
+"parent":"",
+"text":"外国人民生活在水深火热中",
+"mid":"zsCSebZFq",
+"date":"2013-04-18 00:07:59"
+},
+{
+"kids":[],
+"uid":"1312069110",
+"parent":"",
+"text":"不是美国的央视，是日本的央视",
+"mid":"zsCRsmpCQ",
+"date":"2013-04-18 00:06:05"
+},
+{
+"kids":[],
+"uid":"vivienhei",
+"parent":"",
+"text":"",
+"mid":"zsCR8gG92",
+"date":"2013-04-18 00:05:14"
+},
+{
+"kids":[],
+"uid":"mygirlzhengmingzhen",
+"parent":"",
+"text":"同问",
+"mid":"zsCQix6rx",
+"date":"2013-04-18 00:03:11"
+},
+{
+"kids":[],
+"uid":"ygh2398909",
+"parent":"",
+"text":"[泪]",
+"mid":"zsCQ0wTQz",
+"date":"2013-04-18 00:02:29"
+},
+{
+"kids":[],
+"uid":"1952829773",
+"parent":"",
+"text":"",
+"mid":"zsCPbpiL5",
+"date":"2013-04-18 00:00:29"
+},
+{
+"kids":[],
+"uid":"2562469617",
+"parent":"",
+"text":"",
+"mid":"zsCOYoIaj",
+"date":"2013-04-17 23:59:58"
+},
+{
+"kids":[],
+"uid":"2741061130",
+"parent":"",
+"text":"央视是美国的央视吗？",
+"mid":"zsCOXcvE0",
+"date":"2013-04-17 23:59:54"
+},
+{
+"kids":[],
+"uid":"1821251305",
+"parent":"",
+"text":"",
+"mid":"zsCOt2vY6",
+"date":"2013-04-17 23:58:44"
+},
+{
+"kids":[],
+"uid":"zgx545",
+"parent":"",
+"text":"大眼说的对，ccav聚焦在美国！",
+"mid":"zsCOns9p9",
+"date":"2013-04-17 23:58:28"
+},
+{
+"kids":[],
+"uid":"creator3",
+"parent":"",
+"text":"@央视新闻频道走基层",
+"mid":"zsCOg514E",
+"date":"2013-04-17 23:58:13"
+},
+{
+"kids":[],
+"uid":"2409564601",
+"parent":"",
+"text":"恶心去吧",
+"mid":"zsCO3Cw5L",
+"date":"2013-04-17 23:57:43"
+},
+{
+"kids":[],
+"uid":"2471159205",
+"parent":"",
+"text":"",
+"mid":"zsCO10Hk1",
+"date":"2013-04-17 23:57:33"
+},
+{
+"kids":[],
+"uid":"2703586591",
+"parent":"",
+"text":"",
+"mid":"zsCNYjUEz",
+"date":"2013-04-17 23:57:30"
+},
+{
+"kids":[],
+"uid":"2786806762",
+"parent":"",
+"text":"～这就是我国的基本国情了～",
+"mid":"zsCNXbBzS",
+"date":"2013-04-17 23:57:25"
+},
+{
+"kids":[],
+"uid":"2511559027",
+"parent":"",
+"text":"",
+"mid":"zsCNPsVT2",
+"date":"2013-04-17 23:57:09"
+},
+{
+"kids":[
+"zsG7Uzcn5"
+],
+"uid":"2787270262",
+"parent":"",
+"text":"三天了，我才看到这个新闻，而波士顿才两天，却不断的看到新闻报道[围观][围观][围观]",
+"mid":"zsCNgkmZ0",
+"date":"2013-04-17 23:55:41"
+},
+{
+"kids":[],
+"uid":"1775583535",
+"parent":"",
+"text":"央视是美国的央视吗？[怒]",
+"mid":"zsCMQjWOh",
+"date":"2013-04-17 23:54:43"
+},
+{
+"kids":[],
+"uid":"1760501264",
+"parent":"",
+"text":"睡前笑一笑[哈哈]",
+"mid":"zsCML0ulj",
+"date":"2013-04-17 23:54:30"
+},
+{
+"kids":[],
+"uid":"1918775830",
+"parent":"",
+"text":"[兔子]",
+"mid":"zsCMDAUiu",
+"date":"2013-04-17 23:54:12"
+},
+{
+"kids":[],
+"uid":"1975215545",
+"parent":"",
+"text":"",
+"mid":"zsCMC7PVG",
+"date":"2013-04-17 23:54:09"
+},
+{
+"kids":[
+"zsDuwshVg"
+],
+"uid":"lynnlu494126",
+"parent":"",
+"text":"",
+"mid":"zsCMyAZFk",
+"date":"2013-04-17 23:53:58"
+},
+{
+"kids":[],
+"uid":"2502248404",
+"parent":"",
+"text":"fack you",
+"mid":"zsCMwfie9",
+"date":"2013-04-17 23:53:53"
+},
+{
+"kids":[],
+"uid":"2698608220",
+"parent":"",
+"text":"大爷的 心寒",
+"mid":"zsCMmalTP",
+"date":"2013-04-17 23:53:29"
+},
+{
+"kids":[],
+"uid":"2796616382",
+"parent":"",
+"text":"",
+"mid":"zsCMlxeUW",
+"date":"2013-04-17 23:53:30"
+},
+{
+"kids":[],
+"uid":"airlois",
+"parent":"",
+"text":"",
+"mid":"zsCM1v1ao",
+"date":"2013-04-17 23:52:42"
+},
+{
+"kids":[],
+"uid":"godnightmoon",
+"parent":"",
+"text":"",
+"mid":"zsCLMnmhp",
+"date":"2013-04-17 23:52:06"
+},
+{
+"kids":[],
+"uid":"bianyixiang",
+"parent":"",
+"text":"",
+"mid":"zsCLLej2X",
+"date":"2013-04-17 23:52:04"
+},
+{
+"kids":[],
+"uid":"2161354607",
+"parent":"",
+"text":"",
+"mid":"zsCLz8SkS",
+"date":"2013-04-17 23:51:32"
+},
+{
+"kids":[],
+"uid":"2395721482",
+"parent":"",
+"text":"",
+"mid":"zsCLyfbbT",
+"date":"2013-04-17 23:51:30"
+},
+{
+"kids":[],
+"uid":"2735750394",
+"parent":"",
+"text":"",
+"mid":"zsCLrot5Y",
+"date":"2013-04-17 23:51:17"
+},
+{
+"kids":[],
+"uid":"turbomachinery",
+"parent":"",
+"text":"[吐]",
+"mid":"zsCLdv4Cz",
+"date":"2013-04-17 23:50:40"
+},
+{
+"kids":[],
+"uid":"1804527601",
+"parent":"",
+"text":"我朝.",
+"mid":"zsBS17Pbe",
+"date":"2013-04-17 21:34:40"
+},
+{
+"kids":[
+"zsDJsiDcV"
+],
+"uid":"tiantian4you",
+"parent":"zsB84CcjS",
+"text":"央视想借此借表示，国内死人不是新闻",
+"mid":"zsBJ1f3UA",
+"date":"2013-04-17 21:12:31"
+},
+{
+"kids":[],
+"uid":"hefaglod",
+"parent":"",
+"text":"",
+"mid":"zsBrAk1Py",
+"date":"2013-04-17 20:29:33"
+},
+{
+"kids":[],
+"uid":"ubub1765",
+"parent":"",
+"text":"",
+"mid":"zsBpnetp1",
+"date":"2013-04-17 20:24:07"
+},
+{
+"kids":[],
+"uid":"2560553750",
+"parent":"",
+"text":"央视新闻都是只说好不说坏的！",
+"mid":"zsBh8DK5L",
+"date":"2013-04-17 20:03:52"
+},
+{
+"kids":[],
+"uid":"2631084701",
+"parent":"",
+"text":"",
+"mid":"zsBfHo4m7",
+"date":"2013-04-17 20:00:20"
+},
+{
+"kids":[],
+"uid":"heywinnie84",
+"parent":"zsAt6zRn6",
+"text":"[哼]",
+"mid":"zsBdsvuwo",
+"date":"2013-04-17 19:54:48"
+},
+{
+"kids":[],
+"uid":"2177640402",
+"parent":"zsB84CcjS",
+"text":"[怒]",
+"mid":"zsBcdq8YQ",
+"date":"2013-04-17 19:51:44"
+},
+{
+"kids":[
+"zsBJ1f3UA",
+"zsBcdq8YQ"
+],
+"uid":"1813968182",
+"parent":"zsxI2ulYm",
+"text":"",
+"mid":"zsB84CcjS",
+"date":"2013-04-17 19:41:32"
+},
+{
+"kids":[],
+"uid":"qiuyahui",
+"parent":"",
+"text":"知道为什么央视这么关心美国的事情不？因为官老爷的家眷、后宫、后代全在美国呢，所以要关心他们的安全嘛",
+"mid":"zsARKxmZm",
+"date":"2013-04-17 19:01:19"
+},
+{
+"kids":[],
+"uid":"3154098490",
+"parent":"",
+"text":"",
+"mid":"zsAxlyLkx",
+"date":"2013-04-17 18:11:03"
+},
+{
+"kids":[],
+"uid":"1846542573",
+"parent":"zsAt6zRn6",
+"text":"",
+"mid":"zsAtyBsD0",
+"date":"2013-04-17 18:01:41"
+},
+{
+"kids":[
+"zsBdsvuwo",
+"zsAtyBsD0"
+],
+"uid":"1928516771",
+"parent":"zsyCJD3hI",
+"text":"",
+"mid":"zsAt6zRn6",
+"date":"2013-04-17 18:00:36"
+},
+{
+"kids":[
+"zteFVAO2M",
+"ztayosRYs",
+"ztayosRVE"
+],
+"uid":"2430403897",
+"parent":"",
+"text":"",
+"mid":"zsAj61WCA",
+"date":"2013-04-17 17:35:54"
+},
+{
+"kids":[],
+"uid":"luyan1988",
+"parent":"zswQE2wtv",
+"text":"我也才知道",
+"mid":"zsAgDdSBG",
+"date":"2013-04-17 17:29:50"
+},
+{
+"kids":[],
+"uid":"2641679471",
+"parent":"zsxs5pxWK",
+"text":"让中国老百姓情何以堪啊",
+"mid":"zsA9u1dhV",
+"date":"2013-04-17 17:12:14"
+},
+{
+"kids":[],
+"uid":"sophieyang2012",
+"parent":"",
+"text":"",
+"mid":"zsA70DLOJ",
+"date":"2013-04-17 17:06:10"
+},
+{
+"kids":[],
+"uid":"2052831304",
+"parent":"zsyfdDFZN",
+"text":"转起",
+"mid":"zszTKA81s",
+"date":"2013-04-17 16:33:30"
+},
+{
+"kids":[],
+"uid":"1713455365",
+"parent":"zswWjELkT",
+"text":"",
+"mid":"zszPEcXhu",
+"date":"2013-04-17 16:23:22"
+},
+{
+"kids":[],
+"uid":"2185163571",
+"parent":"",
+"text":"",
+"mid":"zszBqomGx",
+"date":"2013-04-17 15:48:20"
+},
+{
+"kids":[],
+"uid":"2160944042",
+"parent":"",
+"text":"除了揭别人家的短，央视只会取自己家的长，让他们大自己的脸，可能吗？",
+"mid":"zszBjAtfc",
+"date":"2013-04-17 15:48:04"
+},
+{
+"kids":[],
+"uid":"lazypumbaa",
+"parent":"",
+"text":"",
+"mid":"zszAN8KiW",
+"date":"2013-04-17 15:46:47"
+},
+{
+"kids":[],
+"uid":"2518292165",
+"parent":"",
+"text":"",
+"mid":"zszwZihdd",
+"date":"2013-04-17 15:37:25"
+},
+{
+"kids":[],
+"uid":"1890074060",
+"parent":"zsx6lFPXV",
+"text":"别和央视较劲，这不抬举他了么，不还有网络么，还有更多关注的媒体么。",
+"mid":"zszlJ98ua",
+"date":"2013-04-17 15:09:38"
+},
+{
+"kids":[],
+"uid":"1989983013",
+"parent":"",
+"text":"",
+"mid":"zsziGvOuO",
+"date":"2013-04-17 15:02:12"
+},
+{
+"kids":[],
+"uid":"1008042007",
+"parent":"",
+"text":"只有吐口水。[哼]",
+"mid":"zszfTEqWT",
+"date":"2013-04-17 14:55:17"
+},
+{
+"kids":[],
+"uid":"1752854293",
+"parent":"",
+"text":"",
+"mid":"zszemwrow",
+"date":"2013-04-17 14:51:30"
+},
+{
+"kids":[],
+"uid":"3154881677",
+"parent":"",
+"text":"",
+"mid":"zszaXg80q",
+"date":"2013-04-17 14:43:07"
+},
+{
+"kids":[],
+"uid":"subingliu",
+"parent":"",
+"text":"选择性失明～",
+"mid":"zsz9zgs6Z",
+"date":"2013-04-17 14:39:43"
+},
+{
+"kids":[],
+"uid":"guhui198331",
+"parent":"",
+"text":"@左小祖咒 @阿丘 @李开复",
+"mid":"zsz5L9zrb",
+"date":"2013-04-17 14:30:20"
+},
+{
+"kids":[],
+"uid":"2414727234",
+"parent":"",
+"text":"",
+"mid":"zsz4cwyrH",
+"date":"2013-04-17 14:26:30"
+},
+{
+"kids":[],
+"uid":"2920504380",
+"parent":"",
+"text":"",
+"mid":"zsz28iukW",
+"date":"2013-04-17 14:21:24"
+},
+{
+"kids":[],
+"uid":"3043587414",
+"parent":"",
+"text":"",
+"mid":"zsz28iuiz",
+"date":"2013-04-17 14:21:21"
+},
+{
+"kids":[],
+"uid":"2307033690",
+"parent":"",
+"text":"",
+"mid":"zsz1SCB5n",
+"date":"2013-04-17 14:20:45"
+},
+{
+"kids":[],
+"uid":"1730269347",
+"parent":"",
+"text":"",
+"mid":"zsz10xZcq",
+"date":"2013-04-17 14:18:38"
+},
+{
+"kids":[],
+"uid":"2146494605",
+"parent":"",
+"text":"",
+"mid":"zsyWLij0Y",
+"date":"2013-04-17 14:08:09"
+},
+{
+"kids":[],
+"uid":"2542284664",
+"parent":"",
+"text":"",
+"mid":"zsyTvqPcW",
+"date":"2013-04-17 14:00:09"
+},
+{
+"kids":[],
+"uid":"3007613875",
+"parent":"",
+"text":"鄙视",
+"mid":"zsySufc4D",
+"date":"2013-04-17 13:57:37"
+},
+{
+"kids":[],
+"uid":"1733797523",
+"parent":"",
+"text":"[弱]@人民网 @央视新闻 @人民日报",
+"mid":"zsySd8Ko0",
+"date":"2013-04-17 13:56:57"
+},
+{
+"kids":[],
+"uid":"1794142607",
+"parent":"zswGlen9V",
+"text":"",
+"mid":"zsyRUbl20",
+"date":"2013-04-17 13:56:12"
+},
+{
+"kids":[],
+"uid":"2234332054",
+"parent":"",
+"text":"",
+"mid":"zsyQ76RRu",
+"date":"2013-04-17 13:51:46"
+},
+{
+"kids":[],
+"uid":"2150235733",
+"parent":"",
+"text":"",
+"mid":"zsyMQDLMz",
+"date":"2013-04-17 13:43:45"
+},
+{
+"kids":[],
+"uid":"2649604024",
+"parent":"",
+"text":"[怒]",
+"mid":"zsyK96Z3C",
+"date":"2013-04-17 13:37:05"
+},
+{
+"kids":[],
+"uid":"ainai",
+"parent":"",
+"text":"[伤心]",
+"mid":"zsyJiiVOa",
+"date":"2013-04-17 13:34:58"
+},
+{
+"kids":[],
+"uid":"1847348827",
+"parent":"zswTJwxz3",
+"text":"@斑点大白兔",
+"mid":"zsyHmgZmS",
+"date":"2013-04-17 13:30:13"
+},
+{
+"kids":[],
+"uid":"3315295422",
+"parent":"",
+"text":"",
+"mid":"zsyEwb4Zu",
+"date":"2013-04-17 13:23:12"
+},
+{
+"kids":[],
+"uid":"2411267314",
+"parent":"",
+"text":"",
+"mid":"zsyDJ4BQQ",
+"date":"2013-04-17 13:21:16"
+},
+{
+"kids":[],
+"uid":"2610038121",
+"parent":"",
+"text":"",
+"mid":"zsyCStZb0",
+"date":"2013-04-17 13:19:10"
+},
+{
+"kids":[
+"zsAt6zRn6"
+],
+"uid":"huanglu007",
+"parent":"zswKzzwNc",
+"text":"",
+"mid":"zsyCJD3hI",
+"date":"2013-04-17 13:18:50"
+},
+{
+"kids":[],
+"uid":"1262893882",
+"parent":"",
+"text":"",
+"mid":"zsyCl60te",
+"date":"2013-04-17 13:17:50"
+},
+{
+"kids":[],
+"uid":"3218932914",
+"parent":"",
+"text":"",
+"mid":"zsyBKrdjS",
+"date":"2013-04-17 13:16:24"
+},
+{
+"kids":[],
+"uid":"3189139950",
+"parent":"",
+"text":"",
+"mid":"zsyAbhe31",
+"date":"2013-04-17 13:12:31"
+},
+{
+"kids":[],
+"uid":"2138133703",
+"parent":"",
+"text":"",
+"mid":"zsyzIzmTa",
+"date":"2013-04-17 13:11:24"
+},
+{
+"kids":[],
+"uid":"1828040805",
+"parent":"",
+"text":"",
+"mid":"zsyztxShN",
+"date":"2013-04-17 13:10:48"
+},
+{
+"kids":[],
+"uid":"1632763934",
+"parent":"",
+"text":"垃圾媒体。",
+"mid":"zsyz1s3q7",
+"date":"2013-04-17 13:09:41"
+},
+{
+"kids":[],
+"uid":"2006927353",
+"parent":"",
+"text":"哎、、、、",
+"mid":"zsyxe3lDQ",
+"date":"2013-04-17 13:05:14"
+},
+{
+"kids":[
+"zusMsfJJh",
+"zuiTmrtLR",
+"zuiTmqfYj",
+"ztAz7mFMt",
+"ztsHOc2pq",
+"ztsHOc2nx",
+"zsGBvx8L8"
+],
+"uid":"2427924203",
+"parent":"",
+"text":"",
+"mid":"zsyxdsFZd",
+"date":"2013-04-17 13:05:13"
+},
+{
+"kids":[],
+"uid":"1093325087",
+"parent":"",
+"text":"",
+"mid":"zsywL49uX",
+"date":"2013-04-17 13:04:04"
+},
+{
+"kids":[],
+"uid":"psrpg",
+"parent":"",
+"text":"[弱]",
+"mid":"zsyvD58GH",
+"date":"2013-04-17 13:01:19"
+},
+{
+"kids":[],
+"uid":"2463464432",
+"parent":"",
+"text":"建议改名ACTV",
+"mid":"zsyvqC3Ea",
+"date":"2013-04-17 13:00:50"
+},
+{
+"kids":[],
+"uid":"2390755481",
+"parent":"",
+"text":"",
+"mid":"zsyvkqcey",
+"date":"2013-04-17 13:00:35"
+},
+{
+"kids":[],
+"uid":"1948503400",
+"parent":"",
+"text":"",
+"mid":"zsytNhYSN",
+"date":"2013-04-17 12:56:48"
+},
+{
+"kids":[],
+"uid":"1790542507",
+"parent":"",
+"text":"",
+"mid":"zsys7fg3h",
+"date":"2013-04-17 12:52:40"
+},
+{
+"kids":[],
+"uid":"1764623775",
+"parent":"",
+"text":"Cor！",
+"mid":"zsyrYoHZX",
+"date":"2013-04-17 12:52:19"
+},
+{
+"kids":[],
+"uid":"2456402827",
+"parent":"",
+"text":"",
+"mid":"zsyrSu31r",
+"date":"2013-04-17 12:52:05"
+},
+{
+"kids":[],
+"uid":"1958451223",
+"parent":"",
+"text":"",
+"mid":"zsyqRxkkv",
+"date":"2013-04-17 12:49:35"
+},
+{
+"kids":[],
+"uid":"1715886187",
+"parent":"",
+"text":"",
+"mid":"zsyqlDrjQ",
+"date":"2013-04-17 12:48:17"
+},
+{
+"kids":[],
+"uid":"cici268",
+"parent":"",
+"text":"唾弃",
+"mid":"zsyqiovEp",
+"date":"2013-04-17 12:48:09"
+},
+{
+"kids":[],
+"uid":"1042709743",
+"parent":"",
+"text":"",
+"mid":"zsypUu6Nq",
+"date":"2013-04-17 12:47:13"
+},
+{
+"kids":[],
+"uid":"3191676001",
+"parent":"",
+"text":"无语，，，，，",
+"mid":"zsyptyH4n",
+"date":"2013-04-17 12:46:11"
+},
+{
+"kids":[],
+"uid":"1775787591",
+"parent":"",
+"text":"",
+"mid":"zsyoFAKt8",
+"date":"2013-04-17 12:44:11"
+},
+{
+"kids":[],
+"uid":"2036839834",
+"parent":"",
+"text":"",
+"mid":"zsyoClOJk",
+"date":"2013-04-17 12:44:03"
+},
+{
+"kids":[],
+"uid":"2266128204",
+"parent":"",
+"text":"对国外的报道热衷得多！",
+"mid":"zsyouEFKU",
+"date":"2013-04-17 12:43:43"
+},
+{
+"kids":[],
+"uid":"2611211853",
+"parent":"",
+"text":"好像是这个情况。。",
+"mid":"zsynYtrO5",
+"date":"2013-04-17 12:42:29"
+},
+{
+"kids":[],
+"uid":"1954002041",
+"parent":"zsxD7cAbs",
+"text":"央视不知道即使沉默开大了，也有人已经开了bkb",
+"mid":"zsynP4MXL",
+"date":"2013-04-17 12:42:05"
+},
+{
+"kids":[],
+"uid":"2030886935",
+"parent":"zsy2VzbvU",
+"text":"",
+"mid":"zsynDcGS4",
+"date":"2013-04-17 12:41:36"
+},
+{
+"kids":[],
+"uid":"hufan2010",
+"parent":"",
+"text":"中午在食堂吃饭，电视里的ccav还在大肆报道",
+"mid":"zsynBqs5h",
+"date":"2013-04-17 12:41:33"
+},
+{
+"kids":[],
+"uid":"1935967130",
+"parent":"zsy2VzbvU",
+"text":"一直是这样",
+"mid":"zsynsgRsQ",
+"date":"2013-04-17 12:41:11"
+},
+{
+"kids":[],
+"uid":"1279759307",
+"parent":"",
+"text":"",
+"mid":"zsyklBdgH",
+"date":"2013-04-17 12:33:32"
+},
+{
+"kids":[],
+"uid":"2723042507",
+"parent":"",
+"text":"",
+"mid":"zsyjXnnyG",
+"date":"2013-04-17 12:32:34"
+},
+{
+"kids":[],
+"uid":"2946414394",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"zsyj76epL",
+"date":"2013-04-17 12:30:29"
+},
+{
+"kids":[],
+"uid":"1681360841",
+"parent":"",
+"text":"",
+"mid":"zsyiZnPPo",
+"date":"2013-04-17 12:30:10"
+},
+{
+"kids":[
+"zsFpTlMSU"
+],
+"uid":"1420425175",
+"parent":"",
+"text":"",
+"mid":"zsyiH6Nil",
+"date":"2013-04-17 12:29:25"
+},
+{
+"kids":[],
+"uid":"haohaoaibaba",
+"parent":"",
+"text":"",
+"mid":"zsyik2V3x",
+"date":"2013-04-17 12:28:32"
+},
+{
+"kids":[],
+"uid":"yigepifu",
+"parent":"zsy9aEk2I",
+"text":"作为个体敢说，作为集体沉默。被压抑的乌合之众。",
+"mid":"zsyi69vNP",
+"date":"2013-04-17 12:27:58"
+},
+{
+"kids":[],
+"uid":"2233433622",
+"parent":"zsy7YfNW9",
+"text":"",
+"mid":"zsyhitks8",
+"date":"2013-04-17 12:25:59"
+},
+{
+"kids":[],
+"uid":"2389717820",
+"parent":"",
+"text":"！！！",
+"mid":"zsyg7eSFN",
+"date":"2013-04-17 12:23:07"
+},
+{
+"kids":[],
+"uid":"2176792771",
+"parent":"",
+"text":"[弱][弱]",
+"mid":"zsyfYlilV",
+"date":"2013-04-17 12:22:45"
+},
+{
+"kids":[],
+"uid":"1257008751",
+"parent":"",
+"text":"",
+"mid":"zsyfzedPR",
+"date":"2013-04-17 12:21:45"
+},
+{
+"kids":[
+"zszTKA81s"
+],
+"uid":"hamburgerwang",
+"parent":"",
+"text":"回复@王昆律师:有道理",
+"mid":"zsyfdDFZN",
+"date":"2013-04-17 12:20:53"
+},
+{
+"kids":[],
+"uid":"2786793484",
+"parent":"",
+"text":"一个漠视民众生命的媒体必将被唾弃",
+"mid":"zsyeQkfWq",
+"date":"2013-04-17 12:19:58"
+},
+{
+"kids":[],
+"uid":"2873905950",
+"parent":"",
+"text":"诛九族都不解气，看着像人，其实是犬科类的畜生",
+"mid":"zsycbrrg9",
+"date":"2013-04-17 12:13:24"
+},
+{
+"kids":[],
+"uid":"diamond1224",
+"parent":"",
+"text":"[弱]",
+"mid":"zsyaB27XS",
+"date":"2013-04-17 12:09:29"
+},
+{
+"kids":[],
+"uid":"2091934637",
+"parent":"",
+"text":"",
+"mid":"zsy9hbGvV",
+"date":"2013-04-17 12:06:15"
+},
+{
+"kids":[
+"zsyi69vNP"
+],
+"uid":"1409159567",
+"parent":"",
+"text":"",
+"mid":"zsy9aEk2I",
+"date":"2013-04-17 12:05:59"
+},
+{
+"kids":[],
+"uid":"1411929504",
+"parent":"",
+"text":"[弱][弱][弱][弱]",
+"mid":"zsy90mpQJ",
+"date":"2013-04-17 12:05:34"
+},
+{
+"kids":[],
+"uid":"1904748821",
+"parent":"",
+"text":"回复@黄小生微博:这里评论的大部分人都是头脑简单、思想偏激，这个微博明显的就是在煽动，妈的！都是唯恐中国不乱的，国内好多突发事件央视都第一时间进行报道的，这些人眼睛都他妈瞎了",
+"mid":"zsy8NDP50",
+"date":"2013-04-17 12:05:05"
+},
+{
+"kids":[
+"zsyhitks8"
+],
+"uid":"chardnisuff",
+"parent":"zsxTNsaoB",
+"text":"",
+"mid":"zsy7YfNW9",
+"date":"2013-04-17 12:03:02"
+},
+{
+"kids":[],
+"uid":"2429372323",
+"parent":"",
+"text":"美国还欠中国钱，美国那有很多领导们的资产，中国出事不要紧，随便能摆平",
+"mid":"zsy7Mo9DE",
+"date":"2013-04-17 12:02:34"
+},
+{
+"kids":[],
+"uid":"2810218093",
+"parent":"",
+"text":"",
+"mid":"zsy7K2t6z",
+"date":"2013-04-17 12:02:26"
+},
+{
+"kids":[],
+"uid":"1015879751",
+"parent":"zsxTNsaoB",
+"text":"[弱]",
+"mid":"zsy7Jt7OT",
+"date":"2013-04-17 12:02:26"
+},
+{
+"kids":[],
+"uid":"2286164825",
+"parent":"",
+"text":"",
+"mid":"zsy7x3lJx",
+"date":"2013-04-17 12:01:57"
+},
+{
+"kids":[],
+"uid":"1881460625",
+"parent":"",
+"text":"他们家属都在美国那。",
+"mid":"zsy6OqV1w",
+"date":"2013-04-17 12:00:10"
+},
+{
+"kids":[],
+"uid":"imbazhou",
+"parent":"",
+"text":"",
+"mid":"zsy5Ia5au",
+"date":"2013-04-17 11:57:28"
+},
+{
+"kids":[],
+"uid":"2301657731",
+"parent":"",
+"text":"",
+"mid":"zsy5uyhwG",
+"date":"2013-04-17 11:56:55"
+},
+{
+"kids":[],
+"uid":"suoliqu",
+"parent":"",
+"text":"",
+"mid":"zsy4Ux0Ra",
+"date":"2013-04-17 11:55:29"
+},
+{
+"kids":[],
+"uid":"1904748821",
+"parent":"",
+"text":"回复@轩辕长风之伤:对的，这篇微博有点断章取义了，湖北火灾央视第一时间做了报道，而且报道几次呢，我就是从央视新闻报道知道的湖北火灾",
+"mid":"zsy3WxslI",
+"date":"2013-04-17 11:53:05"
+},
+{
+"kids":[],
+"uid":"jiangbei0902",
+"parent":"",
+"text":"国内的不报道，就知道大肆宣传美国，不是不同情，可态度确实……",
+"mid":"zsy3Am8vj",
+"date":"2013-04-17 11:52:14"
+},
+{
+"kids":[
+"zsynDcGS4",
+"zsynsgRsQ"
+],
+"uid":"0ntour",
+"parent":"",
+"text":"中国的新闻行业就是政府的工具，不是代表人民群众的监督员",
+"mid":"zsy2VzbvU",
+"date":"2013-04-17 11:50:36"
+},
+{
+"kids":[],
+"uid":"2422702143",
+"parent":"",
+"text":"",
+"mid":"zsy2F3rIR",
+"date":"2013-04-17 11:49:57"
+},
+{
+"kids":[],
+"uid":"XHF270813225",
+"parent":"",
+"text":"",
+"mid":"zsy1vdOOM",
+"date":"2013-04-17 11:47:06"
+},
+{
+"kids":[],
+"uid":"2236785995",
+"parent":"",
+"text":"",
+"mid":"zsy15fwyR",
+"date":"2013-04-17 11:46:03"
+},
+{
+"kids":[],
+"uid":"2381629641",
+"parent":"",
+"text":"唾弃他",
+"mid":"zsxZUf4Xi",
+"date":"2013-04-17 11:43:09"
+},
+{
+"kids":[],
+"uid":"2677110163",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxZmxCQD",
+"date":"2013-04-17 11:41:49"
+},
+{
+"kids":[],
+"uid":"1006461000",
+"parent":"",
+"text":"",
+"mid":"zsxYAqkE1",
+"date":"2013-04-17 11:39:54"
+},
+{
+"kids":[],
+"uid":"jiangsiming",
+"parent":"",
+"text":"[怒]",
+"mid":"zsxXAk6yM",
+"date":"2013-04-17 11:37:27"
+},
+{
+"kids":[],
+"uid":"1700902033",
+"parent":"",
+"text":"",
+"mid":"zsxXzrIgf",
+"date":"2013-04-17 11:37:25"
+},
+{
+"kids":[],
+"uid":"2518946380",
+"parent":"zsxTNsaoB",
+"text":"",
+"mid":"zsxXdCm5v",
+"date":"2013-04-17 11:36:32"
+},
+{
+"kids":[],
+"uid":"3204716674",
+"parent":"",
+"text":"[弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱][弱]",
+"mid":"zsxWk52uX",
+"date":"2013-04-17 11:34:18"
+},
+{
+"kids":[],
+"uid":"3229625407",
+"parent":"",
+"text":"[伤心][怒]",
+"mid":"zsxWiyBdH",
+"date":"2013-04-17 11:34:16"
+},
+{
+"kids":[],
+"uid":"531612351",
+"parent":"",
+"text":"",
+"mid":"zsxWhFm72",
+"date":"2013-04-17 11:34:14"
+},
+{
+"kids":[],
+"uid":"1673976442",
+"parent":"",
+"text":"",
+"mid":"zsxWbd20m",
+"date":"2013-04-17 11:33:58"
+},
+{
+"kids":[],
+"uid":"eugenema",
+"parent":"",
+"text":"",
+"mid":"zsxUQt9p4",
+"date":"2013-04-17 11:30:42"
+},
+{
+"kids":[],
+"uid":"2622754857",
+"parent":"",
+"text":"",
+"mid":"zsxUM0Ws9",
+"date":"2013-04-17 11:30:31"
+},
+{
+"kids":[
+"zsy7YfNW9",
+"zsy7Jt7OT",
+"zsxXdCm5v"
+],
+"uid":"1821522561",
+"parent":"zsxO4gsiA",
+"text":"[弱]",
+"mid":"zsxTNsaoB",
+"date":"2013-04-17 11:28:07"
+},
+{
+"kids":[],
+"uid":"2661157281",
+"parent":"",
+"text":"[弱][弱]",
+"mid":"zsxTri9VY",
+"date":"2013-04-17 11:27:13"
+},
+{
+"kids":[],
+"uid":"2610419921",
+"parent":"",
+"text":"",
+"mid":"zsxSZurHq",
+"date":"2013-04-17 11:26:08"
+},
+{
+"kids":[],
+"uid":"1154336963",
+"parent":"",
+"text":"",
+"mid":"zsxSIm6XB",
+"date":"2013-04-17 11:25:27"
+},
+{
+"kids":[],
+"uid":"lyltim",
+"parent":"zsxHwfiAQ",
+"text":"",
+"mid":"zsxSk8gUN",
+"date":"2013-04-17 11:24:28"
+},
+{
+"kids":[],
+"uid":"1974878295",
+"parent":"zsxJ7dwh1",
+"text":"悲哀 。还我们新闻理想。请不要扼杀。",
+"mid":"zsxRvBG4D",
+"date":"2013-04-17 11:22:29"
+},
+{
+"kids":[],
+"uid":"3189336362",
+"parent":"",
+"text":"央视一直不都在说其他国家的子民过的水深火热，只有中国人民最幸福吗？",
+"mid":"zsxRrr9LQ",
+"date":"2013-04-17 11:22:19"
+},
+{
+"kids":[],
+"uid":"2734964001",
+"parent":"",
+"text":"",
+"mid":"zsxQ7BFMA",
+"date":"2013-04-17 11:19:04"
+},
+{
+"kids":[],
+"uid":"1885664404",
+"parent":"zsxCRicNe",
+"text":"",
+"mid":"zsxQ7jQls",
+"date":"2013-04-17 11:19:02"
+},
+{
+"kids":[],
+"uid":"2010136601",
+"parent":"",
+"text":"",
+"mid":"zsxPR4VBk",
+"date":"2013-04-17 11:18:24"
+},
+{
+"kids":[],
+"uid":"3092183187",
+"parent":"",
+"text":"央视是美国的央视吗？",
+"mid":"zsxPgo9hN",
+"date":"2013-04-17 11:16:56"
+},
+{
+"kids":[],
+"uid":"1679677443",
+"parent":"",
+"text":"还在看央视啊？",
+"mid":"zsxOYnFEK",
+"date":"2013-04-17 11:16:13"
+},
+{
+"kids":[],
+"uid":"2348162897",
+"parent":"",
+"text":"[弱][弱]",
+"mid":"zsxOt7snI",
+"date":"2013-04-17 11:14:58"
+},
+{
+"kids":[],
+"uid":"2689037383",
+"parent":"",
+"text":"美国人很感动",
+"mid":"zsxOo2UTl",
+"date":"2013-04-17 11:14:45"
+},
+{
+"kids":[],
+"uid":"2264538370",
+"parent":"",
+"text":"",
+"mid":"zsxOname8",
+"date":"2013-04-17 11:14:45"
+},
+{
+"kids":[
+"zsxTNsaoB"
+],
+"uid":"206682929",
+"parent":"zsxw6dTlI",
+"text":"中国人民很幸福[哈哈]外国人民生活在水生火热之中[害羞]@花吃花开DAVA朵薇高端婚纱摄影 @朵薇首席化妆师果果",
+"mid":"zsxO4gsiA",
+"date":"2013-04-17 11:14:00"
+},
+{
+"kids":[],
+"uid":"2700339250",
+"parent":"",
+"text":"",
+"mid":"zsxNJfXdv",
+"date":"2013-04-17 11:13:10"
+},
+{
+"kids":[],
+"uid":"2015767573",
+"parent":"zsxvm9laH",
+"text":"",
+"mid":"zsxMWcE8F",
+"date":"2013-04-17 11:11:13"
+},
+{
+"kids":[],
+"uid":"1807687660",
+"parent":"",
+"text":"为了社会和谐与稳定。",
+"mid":"zsxMN33FY",
+"date":"2013-04-17 11:10:51"
+},
+{
+"kids":[],
+"uid":"2282358293",
+"parent":"zsxDOk7Sh",
+"text":"",
+"mid":"zsxLu4L8v",
+"date":"2013-04-17 11:07:38"
+},
+{
+"kids":[],
+"uid":"2937899150",
+"parent":"",
+"text":"",
+"mid":"zsxLgw8XW",
+"date":"2013-04-17 11:07:05"
+},
+{
+"kids":[],
+"uid":"433344",
+"parent":"",
+"text":"[蜡烛]",
+"mid":"zsxKAwQW4",
+"date":"2013-04-17 11:05:25"
+},
+{
+"kids":[],
+"uid":"1864188815",
+"parent":"zsxFbcvx5",
+"text":"转发微博。",
+"mid":"zsxKz4pj8",
+"date":"2013-04-17 11:05:22"
+},
+{
+"kids":[],
+"uid":"2955704657",
+"parent":"",
+"text":"",
+"mid":"zsxKvde4p",
+"date":"2013-04-17 11:05:12"
+},
+{
+"kids":[],
+"uid":"shejizhemao",
+"parent":"",
+"text":"",
+"mid":"zsxKhkqzg",
+"date":"2013-04-17 11:04:39"
+},
+{
+"kids":[],
+"uid":"2249767451",
+"parent":"zswGS1urj",
+"text":"",
+"mid":"zsxJXz9di",
+"date":"2013-04-17 11:03:53"
+},
+{
+"kids":[],
+"uid":"1889447444",
+"parent":"",
+"text":"@阿囧小妹妹妹 你转移话题的招数是向央视学的吗[偷笑][偷笑][偷笑]",
+"mid":"zsxJfwCdL",
+"date":"2013-04-17 11:02:07"
+},
+{
+"kids":[],
+"uid":"2825360940",
+"parent":"",
+"text":"",
+"mid":"zsxJafmzV",
+"date":"2013-04-17 11:01:55"
+},
+{
+"kids":[
+"zsxRvBG4D"
+],
+"uid":"2505919262",
+"parent":"",
+"text":"",
+"mid":"zsxJ7dwh1",
+"date":"2013-04-17 11:01:48"
+},
+{
+"kids":[],
+"uid":"2647461985",
+"parent":"",
+"text":"",
+"mid":"zsxJ35lAF",
+"date":"2013-04-17 11:01:38"
+},
+{
+"kids":[],
+"uid":"1106119101",
+"parent":"",
+"text":"",
+"mid":"zsxIcd7du",
+"date":"2013-04-17 10:59:30"
+},
+{
+"kids":[
+"zsB84CcjS"
+],
+"uid":"1783723682",
+"parent":"",
+"text":"",
+"mid":"zsxI2ulYm",
+"date":"2013-04-17 10:59:08"
+},
+{
+"kids":[],
+"uid":"songqi78",
+"parent":"",
+"text":"",
+"mid":"zsxHEcouw",
+"date":"2013-04-17 10:58:10"
+},
+{
+"kids":[
+"zsxSk8gUN"
+],
+"uid":"wangkunlaw",
+"parent":"",
+"text":"在社会主义中国，所有的媒体都是党的宣传工具，一切服务于党的利益，体现党的意志。党管媒体，是铁打的原则，中国一切的媒体（台湾除外）都要按照党的指令行事，这无须任何遮掩。所以，是否听党的话才决定命运，民众的唾液不是导弹，力量不行。稳定压倒一切，只有这样权贵们才能确保自己安心享乐。",
+"mid":"zsxHwfiAQ",
+"date":"2013-04-17 10:57:52"
+},
+{
+"kids":[],
+"uid":"339392968",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxHa50Jz",
+"date":"2013-04-17 10:56:58"
+},
+{
+"kids":[],
+"uid":"2374207100",
+"parent":"",
+"text":"",
+"mid":"zsxGTzVRy",
+"date":"2013-04-17 10:56:18"
+},
+{
+"kids":[],
+"uid":"3061557331",
+"parent":"",
+"text":"需要理由吗",
+"mid":"zsxGTh57Y",
+"date":"2013-04-17 10:56:18"
+},
+{
+"kids":[],
+"uid":"chengduoduo",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxGh73O8",
+"date":"2013-04-17 10:54:48"
+},
+{
+"kids":[
+"zsF35pR3p"
+],
+"uid":"3257836294",
+"parent":"",
+"text":"无语，移民吧。",
+"mid":"zsxFuEA0e",
+"date":"2013-04-17 10:52:53"
+},
+{
+"kids":[
+"zsxKz4pj8"
+],
+"uid":"1450464371",
+"parent":"",
+"text":"@木子日天艾娘娘很忙 @晓丹Shara",
+"mid":"zsxFbcvx5",
+"date":"2013-04-17 10:52:06"
+},
+{
+"kids":[],
+"uid":"1857287620",
+"parent":"",
+"text":"",
+"mid":"zsxF70N1I",
+"date":"2013-04-17 10:51:56"
+},
+{
+"kids":[],
+"uid":"2580451977",
+"parent":"",
+"text":"",
+"mid":"zsxF2iA1r",
+"date":"2013-04-17 10:51:45"
+},
+{
+"kids":[],
+"uid":"2917140185",
+"parent":"",
+"text":"",
+"mid":"zsxEX1sVK",
+"date":"2013-04-17 10:51:30"
+},
+{
+"kids":[],
+"uid":"3046209457",
+"parent":"",
+"text":"主要是我们关心美国人民的点滴不适！因为国内已经熟视无睹。",
+"mid":"zsxEoqF8l",
+"date":"2013-04-17 10:50:09"
+},
+{
+"kids":[],
+"uid":"1410932391",
+"parent":"",
+"text":"",
+"mid":"zsxEg6Vr7",
+"date":"2013-04-17 10:49:49"
+},
+{
+"kids":[
+"zsxLu4L8v"
+],
+"uid":"336868923",
+"parent":"",
+"text":"",
+"mid":"zsxDOk7Sh",
+"date":"2013-04-17 10:48:43"
+},
+{
+"kids":[],
+"uid":"2995384534",
+"parent":"",
+"text":"就是权力的走狗！",
+"mid":"zsxDvafHV",
+"date":"2013-04-17 10:47:58"
+},
+{
+"kids":[
+"zsynP4MXL"
+],
+"uid":"toworld",
+"parent":"zswG8edsR",
+"text":"人间炼狱。",
+"mid":"zsxD7cAbs",
+"date":"2013-04-17 10:47:01"
+},
+{
+"kids":[],
+"uid":"728386788",
+"parent":"",
+"text":"",
+"mid":"zsxD6CisE",
+"date":"2013-04-17 10:46:59"
+},
+{
+"kids":[],
+"uid":"3091547562",
+"parent":"",
+"text":"",
+"mid":"zsxD11F5O",
+"date":"2013-04-17 10:46:45"
+},
+{
+"kids":[],
+"uid":"3245866672",
+"parent":"",
+"text":"盖着自己的，把人家的挖出来晒，舒坦",
+"mid":"zsxCXsGaH",
+"date":"2013-04-17 10:46:38"
+},
+{
+"kids":[
+"zsxQ7jQls"
+],
+"uid":"1879611810",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxCRicNe",
+"date":"2013-04-17 10:46:22"
+},
+{
+"kids":[],
+"uid":"1876468243",
+"parent":"zsxBcqJhn",
+"text":"",
+"mid":"zsxCK9B2t",
+"date":"2013-04-17 10:46:06"
+},
+{
+"kids":[],
+"uid":"1961364473",
+"parent":"",
+"text":"[怒]",
+"mid":"zsxCnFOmd",
+"date":"2013-04-17 10:45:13"
+},
+{
+"kids":[],
+"uid":"clldw",
+"parent":"",
+"text":"",
+"mid":"zsxC4vD93",
+"date":"2013-04-17 10:44:27"
+},
+{
+"kids":[],
+"uid":"1791071383",
+"parent":"",
+"text":"都习惯了",
+"mid":"zsxBU8XTg",
+"date":"2013-04-17 10:44:03"
+},
+{
+"kids":[],
+"uid":"1954886584",
+"parent":"",
+"text":"美国是领导，央视是小职员，报道先从领导开始，这是规矩。",
+"mid":"zsxBTfINL",
+"date":"2013-04-17 10:43:59"
+},
+{
+"kids":[],
+"uid":"haiyunnu",
+"parent":"",
+"text":"",
+"mid":"zsxBkoXuy",
+"date":"2013-04-17 10:42:36"
+},
+{
+"kids":[],
+"uid":"2284093762",
+"parent":"",
+"text":"",
+"mid":"zsxBijlkP",
+"date":"2013-04-17 10:42:33"
+},
+{
+"kids":[],
+"uid":"1957845005",
+"parent":"zsxzNeanp",
+"text":"不过呢。。这种反人类的事肯定是要报道的。。。抨击国内不透明是要的，但是不能反对国际消息的闭塞",
+"mid":"zsxBdhVEz",
+"date":"2013-04-17 10:42:20"
+},
+{
+"kids":[
+"zsxCK9B2t"
+],
+"uid":"miffyxzx",
+"parent":"",
+"text":"",
+"mid":"zsxBcqJhn",
+"date":"2013-04-17 10:42:18"
+},
+{
+"kids":[],
+"uid":"3039138877",
+"parent":"",
+"text":"已经在抱怨呢，国外爆个炸，国内铺天盖地的连环报道，烦死了。",
+"mid":"zsxAX2QhZ",
+"date":"2013-04-17 10:41:41"
+},
+{
+"kids":[],
+"uid":"2269277535",
+"parent":"",
+"text":"",
+"mid":"zsxAVgmgN",
+"date":"2013-04-17 10:41:37"
+},
+{
+"kids":[],
+"uid":"1746403210",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxAh8Lp1",
+"date":"2013-04-17 10:40:00"
+},
+{
+"kids":[],
+"uid":"3078488945",
+"parent":"",
+"text":"",
+"mid":"zsxzUnjuo",
+"date":"2013-04-17 10:39:06"
+},
+{
+"kids":[
+"zsxBdhVEz"
+],
+"uid":"3107418615",
+"parent":"",
+"text":"",
+"mid":"zsxzNeanp",
+"date":"2013-04-17 10:38:49"
+},
+{
+"kids":[],
+"uid":"2117734141",
+"parent":"",
+"text":"",
+"mid":"zsxzFx1BE",
+"date":"2013-04-17 10:38:31"
+},
+{
+"kids":[],
+"uid":"2611919513",
+"parent":"",
+"text":"",
+"mid":"zsxzEDMBt",
+"date":"2013-04-17 10:38:30"
+},
+{
+"kids":[],
+"uid":"2200984477",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxzwoW1z",
+"date":"2013-04-17 10:38:10"
+},
+{
+"kids":[],
+"uid":"1017910597",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxzu4w1F",
+"date":"2013-04-17 10:38:04"
+},
+{
+"kids":[],
+"uid":"2439590355",
+"parent":"",
+"text":"",
+"mid":"zsxzmDjkr",
+"date":"2013-04-17 10:37:47"
+},
+{
+"kids":[],
+"uid":"1955703753",
+"parent":"",
+"text":"",
+"mid":"zsxzdvkN9",
+"date":"2013-04-17 10:37:24"
+},
+{
+"kids":[],
+"uid":"1066167191",
+"parent":"",
+"text":"",
+"mid":"zsxzckuhk",
+"date":"2013-04-17 10:37:22"
+},
+{
+"kids":[],
+"uid":"2306060744",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxyItuPS",
+"date":"2013-04-17 10:36:11"
+},
+{
+"kids":[],
+"uid":"1794733981",
+"parent":"",
+"text":"",
+"mid":"zsxyBFzyP",
+"date":"2013-04-17 10:35:55"
+},
+{
+"kids":[],
+"uid":"1904710083",
+"parent":"",
+"text":"[弱][弱]",
+"mid":"zsxyAtg9r",
+"date":"2013-04-17 10:35:51"
+},
+{
+"kids":[],
+"uid":"2671528411",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxyz2h2O",
+"date":"2013-04-17 10:35:46"
+},
+{
+"kids":[],
+"uid":"1867190761",
+"parent":"",
+"text":"",
+"mid":"zsxyy7X69",
+"date":"2013-04-17 10:35:46"
+},
+{
+"kids":[],
+"uid":"rockandsoul",
+"parent":"zsxs5pxWK",
+"text":"",
+"mid":"zsxyrBEtX",
+"date":"2013-04-17 10:35:31"
+},
+{
+"kids":[],
+"uid":"1405364223",
+"parent":"",
+"text":"",
+"mid":"zsxyem0o5",
+"date":"2013-04-17 10:34:59"
+},
+{
+"kids":[],
+"uid":"1966252145",
+"parent":"",
+"text":"中国人得本质就这样，贱",
+"mid":"zsxy3oUYY",
+"date":"2013-04-17 10:34:33"
+},
+{
+"kids":[],
+"uid":"2219802052",
+"parent":"",
+"text":"",
+"mid":"zsxxIrMH2",
+"date":"2013-04-17 10:33:43"
+},
+{
+"kids":[
+"zwbI4aYY9",
+"zvYJfCvM1",
+"zvYJfCvKh",
+"zv4YjtQRJ",
+"zuUiPfVYz",
+"zuUiPfVUw",
+"zubnixFs3",
+"zu8jNvxK6",
+"zu8jNuQMH",
+"zt74tvr7B",
+"zsVMonvso",
+"zsVMo5Ugv"
+],
+"uid":"laihamo",
+"parent":"",
+"text":"就是。[怒]",
+"mid":"zsxxo1iQd",
+"date":"2013-04-17 10:32:54"
+},
+{
+"kids":[],
+"uid":"2250765601",
+"parent":"",
+"text":"",
+"mid":"zsxxg413N",
+"date":"2013-04-17 10:32:35"
+},
+{
+"kids":[],
+"uid":"1338753967",
+"parent":"",
+"text":"",
+"mid":"zsxwWevHS",
+"date":"2013-04-17 10:31:48"
+},
+{
+"kids":[],
+"uid":"2822934603",
+"parent":"",
+"text":"",
+"mid":"zsxwS6l60",
+"date":"2013-04-17 10:31:38"
+},
+{
+"kids":[],
+"uid":"1927057423",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxwMbGrZ",
+"date":"2013-04-17 10:31:23"
+},
+{
+"kids":[],
+"uid":"2211012303",
+"parent":"",
+"text":"",
+"mid":"zsxwA6dkR",
+"date":"2013-04-17 10:30:55"
+},
+{
+"kids":[],
+"uid":"1693372211",
+"parent":"",
+"text":"求真相",
+"mid":"zsxwut9Sn",
+"date":"2013-04-17 10:30:42"
+},
+{
+"kids":[
+"zsxO4gsiA"
+],
+"uid":"1916746547",
+"parent":"",
+"text":"",
+"mid":"zsxw6dTlI",
+"date":"2013-04-17 10:29:44"
+},
+{
+"kids":[],
+"uid":"zqcneed",
+"parent":"",
+"text":"",
+"mid":"zsxw1gtId",
+"date":"2013-04-17 10:29:32"
+},
+{
+"kids":[],
+"uid":"625334575",
+"parent":"",
+"text":"",
+"mid":"zsxvUozVj",
+"date":"2013-04-17 10:29:15"
+},
+{
+"kids":[],
+"uid":"1855090132",
+"parent":"",
+"text":"",
+"mid":"zsxvA2KcP",
+"date":"2013-04-17 10:28:27"
+},
+{
+"kids":[],
+"uid":"limaohua",
+"parent":"",
+"text":"",
+"mid":"zsxvraKXe",
+"date":"2013-04-17 10:28:06"
+},
+{
+"kids":[],
+"uid":"2923788774",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxvov1Nj",
+"date":"2013-04-17 10:27:58"
+},
+{
+"kids":[
+"zsxMWcE8F"
+],
+"uid":"2950813573",
+"parent":"",
+"text":"",
+"mid":"zsxvm9laH",
+"date":"2013-04-17 10:27:54"
+},
+{
+"kids":[],
+"uid":"3055776717",
+"parent":"",
+"text":"",
+"mid":"zsxvf5m5H",
+"date":"2013-04-17 10:27:36"
+},
+{
+"kids":[],
+"uid":"3167802805",
+"parent":"",
+"text":"",
+"mid":"zsxva2q21",
+"date":"2013-04-17 10:27:25"
+},
+{
+"kids":[],
+"uid":"3275145673",
+"parent":"",
+"text":"",
+"mid":"zsxuQelNc",
+"date":"2013-04-17 10:26:36"
+},
+{
+"kids":[],
+"uid":"1556623222",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxuPkNNb",
+"date":"2013-04-17 10:26:36"
+},
+{
+"kids":[],
+"uid":"1712125987",
+"parent":"",
+"text":"",
+"mid":"zsxuIzAcn",
+"date":"2013-04-17 10:26:19"
+},
+{
+"kids":[],
+"uid":"1679283752",
+"parent":"",
+"text":"",
+"mid":"zsxuHDXWl",
+"date":"2013-04-17 10:26:17"
+},
+{
+"kids":[],
+"uid":"3294478884",
+"parent":"",
+"text":"",
+"mid":"zsxuH4Lo9",
+"date":"2013-04-17 10:26:14"
+},
+{
+"kids":[],
+"uid":"2360586254",
+"parent":"",
+"text":"",
+"mid":"zsxuihB3m",
+"date":"2013-04-17 10:25:16"
+},
+{
+"kids":[],
+"uid":"baopei1985",
+"parent":"",
+"text":"",
+"mid":"zsxuh5NqA",
+"date":"2013-04-17 10:25:15"
+},
+{
+"kids":[],
+"uid":"2438315010",
+"parent":"",
+"text":"",
+"mid":"zsxu69GHu",
+"date":"2013-04-17 10:24:47"
+},
+{
+"kids":[],
+"uid":"1956393153",
+"parent":"",
+"text":"[给力]",
+"mid":"zsxtItswA",
+"date":"2013-04-17 10:23:51"
+},
+{
+"kids":[],
+"uid":"danru1984",
+"parent":"",
+"text":"",
+"mid":"zsxtyapYq",
+"date":"2013-04-17 10:23:26"
+},
+{
+"kids":[],
+"uid":"xlwbdz",
+"parent":"",
+"text":"",
+"mid":"zsxtqaioc",
+"date":"2013-04-17 10:23:07"
+},
+{
+"kids":[],
+"uid":"2319281655",
+"parent":"",
+"text":"[泪]",
+"mid":"zsxtgp4v8",
+"date":"2013-04-17 10:22:45"
+},
+{
+"kids":[],
+"uid":"1803944095",
+"parent":"",
+"text":"",
+"mid":"zsxt40ypA",
+"date":"2013-04-17 10:22:15"
+},
+{
+"kids":[],
+"uid":"2915291947",
+"parent":"",
+"text":"[蜡烛][蜡烛][蜡烛]",
+"mid":"zsxt3so3g",
+"date":"2013-04-17 10:22:14"
+},
+{
+"kids":[],
+"uid":"1765286732",
+"parent":"",
+"text":"",
+"mid":"zsxsVqaBw",
+"date":"2013-04-17 10:21:55"
+},
+{
+"kids":[],
+"uid":"238199678",
+"parent":"",
+"text":"",
+"mid":"zsxsQoL6j",
+"date":"2013-04-17 10:21:43"
+},
+{
+"kids":[],
+"uid":"1880841851",
+"parent":"",
+"text":"我们的自由，就是国内的事，必须闭嘴，外国有灾有难，你的自由采访权就来了，你可以想怎么采访就怎么采访，，",
+"mid":"zsxsPfhss",
+"date":"2013-04-17 10:21:40"
+},
+{
+"kids":[],
+"uid":"1600293230",
+"parent":"",
+"text":"央视在等微博报道结束，时态被基本控制住才会发出声音！",
+"mid":"zsxsOCgT5",
+"date":"2013-04-17 10:21:38"
+},
+{
+"kids":[],
+"uid":"cbcb521",
+"parent":"",
+"text":"",
+"mid":"zsxsM2pw8",
+"date":"2013-04-17 10:21:32"
+},
+{
+"kids":[],
+"uid":"1408231790",
+"parent":"",
+"text":"",
+"mid":"zsxsJjfTx",
+"date":"2013-04-17 10:21:25"
+},
+{
+"kids":[],
+"uid":"2409805367",
+"parent":"",
+"text":"",
+"mid":"zsxsIaPCy",
+"date":"2013-04-17 10:21:22"
+},
+{
+"kids":[],
+"uid":"2439378937",
+"parent":"",
+"text":"[弱]",
+"mid":"zsxsE0eZE",
+"date":"2013-04-17 10:21:13"
+},
+{
+"kids":[],
+"uid":"xiaowang3",
+"parent":"",
+"text":"[思考]",
+"mid":"zsxsvpRgG",
+"date":"2013-04-17 10:20:51"
+},
+{
+"kids":[],
+"uid":"1895350157",
+"parent":"",
+"text":"[黑线]",
+"mid":"zsxs87zRe",
+"date":"2013-04-17 10:19:58"
+},
+{
+"kids":[
+"zsA9u1dhV",
+"zsxyrBEtX"
+],
+"uid":"575710320",
+"parent":"",
+"text":"@董思秀 必将被唾弃[哈哈]",
+"mid":"zsxs5pxWK",
+"date":"2013-04-17 10:19:51"
+},
+{
+"kids":[],
+"uid":"2588020861",
+"parent":"",
+"text":"崇洋媚外一直是主流[弱]",
+"mid":"zsxrWie94",
+"date":"2013-04-17 10:19:27"
+},
+{
+"kids":[],
+"uid":"1220954470",
+"parent":"",
+"text":"",
+"mid":"zsxrOhdor",
+"date":"2013-04-17 10:19:10"
+},
+{
+"kids":[],
+"uid":"2840270230",
+"parent":"zsx4U9Dsr",
+"text":"人性淡漠·报应早晚轮回",
+"mid":"zsxoCEIdT",
+"date":"2013-04-17 10:11:18"
+},
+{
+"kids":[],
+"uid":"2044608054",
+"parent":"",
+"text":"[奥特曼]",
+"mid":"zsxosjCpO",
+"date":"2013-04-17 10:10:53"
+},
+{
+"kids":[],
+"uid":"1560028863",
+"parent":"",
+"text":"",
+"mid":"zsxmLFi3t",
+"date":"2013-04-17 10:06:46"
+},
+{
+"kids":[],
+"uid":"2464465454",
+"parent":"",
+"text":"",
+"mid":"zsxl9bLLU",
+"date":"2013-04-17 10:02:45"
+},
+{
+"kids":[],
+"uid":"songhoujian",
+"parent":"",
+"text":"",
+"mid":"zsxjXj0vk",
+"date":"2013-04-17 09:59:48"
+},
+{
+"kids":[],
+"uid":"qw2100544",
+"parent":"",
+"text":"轉發微博",
+"mid":"zsxjulniF",
+"date":"2013-04-17 09:58:40"
+},
+{
+"kids":[],
+"uid":"2459880582",
+"parent":"",
+"text":"[挖鼻屎]",
+"mid":"zsxjdeemU",
+"date":"2013-04-17 09:58:00"
+},
+{
+"kids":[],
+"uid":"2647655151",
+"parent":"",
+"text":"你们都错了！你当领导们关心外国事么？领导们当然关心自己本国发生的事情。因为妻儿子女都还在国内阿，国内波士顿正在遭遇恐怖袭击呢",
+"mid":"zsxhkwQRd",
+"date":"2013-04-17 09:53:20"
+},
+{
+"kids":[],
+"uid":"2327418807",
+"parent":"",
+"text":"",
+"mid":"zsxgL415u",
+"date":"2013-04-17 09:51:57"
+},
+{
+"kids":[],
+"uid":"zwbjay",
+"parent":"",
+"text":"轉發微博",
+"mid":"zsxgGBNVA",
+"date":"2013-04-17 09:51:46"
+},
+{
+"kids":[],
+"uid":"1280863172",
+"parent":"",
+"text":"认为天朝新闻里讲实话的人都是2货！~",
+"mid":"zsxgB03I4",
+"date":"2013-04-17 09:51:32"
+},
+{
+"kids":[],
+"uid":"1651961775",
+"parent":"",
+"text":"麻痹央视真是大裤衩！",
+"mid":"zsxg5569b",
+"date":"2013-04-17 09:50:16"
+},
+{
+"kids":[],
+"uid":"2694011043",
+"parent":"",
+"text":"国民总认为外国的月亮都是圆的。",
+"mid":"zsxfSq252",
+"date":"2013-04-17 09:49:46"
+},
+{
+"kids":[],
+"uid":"elevenyxing",
+"parent":"",
+"text":"去年买了个包。",
+"mid":"zsxfADGDt",
+"date":"2013-04-17 09:49:03"
+},
+{
+"kids":[],
+"uid":"2265881917",
+"parent":"",
+"text":"麻木不仁！",
+"mid":"zsxfd3MiS",
+"date":"2013-04-17 09:48:07"
+},
+{
+"kids":[],
+"uid":"2389225695",
+"parent":"",
+"text":"",
+"mid":"zsxf5km0L",
+"date":"2013-04-17 09:47:49"
+},
+{
+"kids":[],
+"uid":"2438453742",
+"parent":"",
+"text":"",
+"mid":"zsxf1cbuI",
+"date":"2013-04-17 09:47:39"
+},
+{
+"kids":[],
+"uid":"1809106740",
+"parent":"",
+"text":"我记得那个新闻报道过啊，怎么就那么多人不听广播？不看新闻？还就喜欢在一边歪歪？",
+"mid":"zsxdjqemx",
+"date":"2013-04-17 09:43:27"
+},
+{
+"kids":[],
+"uid":"120712711",
+"parent":"",
+"text":"美国的央视！哈哈",
+"mid":"zsxbOBXne",
+"date":"2013-04-17 09:39:45"
+},
+{
+"kids":[],
+"uid":"2527328717",
+"parent":"zswSNl8oE",
+"text":"对内装傻，对外真傻。",
+"mid":"zsxbzhD1a",
+"date":"2013-04-17 09:39:09"
+},
+{
+"kids":[],
+"uid":"1412300611",
+"parent":"",
+"text":"转发微博。",
+"mid":"zsxbqn5NR",
+"date":"2013-04-17 09:38:47"
+},
+{
+"kids":[],
+"uid":"chinaadidasfootball",
+"parent":"",
+"text":"媒体是把冲锋枪！",
+"mid":"zsxbkaPQN",
+"date":"2013-04-17 09:38:33"
+},
+{
+"kids":[],
+"uid":"2881874994",
+"parent":"",
+"text":"公务员成为 群众的人 想咋样 能咋样。",
+"mid":"zsxbg4Ntw",
+"date":"2013-04-17 09:38:23"
+},
+{
+"kids":[],
+"uid":"1231252991",
+"parent":"",
+"text":"",
+"mid":"zsxa9dqH9",
+"date":"2013-04-17 09:35:39"
+},
+{
+"kids":[],
+"uid":"2737343715",
+"parent":"",
+"text":"国内这种事太多了，每天都有各种各样的类似事件，已吸引不了国人眼球了，而谈起国外事件，特别是恐怖爆炸袭击的，更能引起关注",
+"mid":"zsx9YxWLp",
+"date":"2013-04-17 09:35:14"
+},
+{
+"kids":[],
+"uid":"1747527282",
+"parent":"",
+"text":"",
+"mid":"zsx9Dz2Ay",
+"date":"2013-04-17 09:34:24"
+},
+{
+"kids":[],
+"uid":"2547951621",
+"parent":"",
+"text":"",
+"mid":"zsx9xmMGc",
+"date":"2013-04-17 09:34:09"
+},
+{
+"kids":[],
+"uid":"2208575403",
+"parent":"",
+"text":"",
+"mid":"zsx8OsEtm",
+"date":"2013-04-17 09:32:21"
+},
+{
+"kids":[],
+"uid":"2282433550",
+"parent":"",
+"text":"",
+"mid":"zsx8JtKkg",
+"date":"2013-04-17 09:32:09"
+},
+{
+"kids":[],
+"uid":"1894519687",
+"parent":"",
+"text":"",
+"mid":"zsx7Yt2xb",
+"date":"2013-04-17 09:30:17"
+},
+{
+"kids":[],
+"uid":"649683089",
+"parent":"",
+"text":"",
+"mid":"zsx7C0Ftj",
+"date":"2013-04-17 09:29:24"
+},
+{
+"kids":[],
+"uid":"2489200350",
+"parent":"",
+"text":"",
+"mid":"zsx6UzXAr",
+"date":"2013-04-17 09:27:41"
+},
+{
+"kids":[],
+"uid":"2112434985",
+"parent":"",
+"text":"[转发]",
+"mid":"zsx6Rk9te",
+"date":"2013-04-17 09:27:33"
+},
+{
+"kids":[],
+"uid":"1091807415",
+"parent":"",
+"text":"你刚知道?",
+"mid":"zsx6yryXP",
+"date":"2013-04-17 09:26:47"
+},
+{
+"kids":[
+"zszlJ98ua"
+],
+"uid":"zhangwuming8",
+"parent":"",
+"text":"",
+"mid":"zsx6lFPXV",
+"date":"2013-04-17 09:26:17"
+},
+{
+"kids":[],
+"uid":"1572514820",
+"parent":"",
+"text":"",
+"mid":"zsx5YCQY8",
+"date":"2013-04-17 09:25:23"
+},
+{
+"kids":[],
+"uid":"2320070095",
+"parent":"",
+"text":"",
+"mid":"zsx5Srwfe",
+"date":"2013-04-17 09:25:07"
+},
+{
+"kids":[],
+"uid":"625711567",
+"parent":"zsx4U9Dsr",
+"text":"",
+"mid":"zsx5PcAyL",
+"date":"2013-04-17 09:24:59"
+},
+{
+"kids":[],
+"uid":"2695991633",
+"parent":"",
+"text":"",
+"mid":"zsx54csCm",
+"date":"2013-04-17 09:23:08"
+},
+{
+"kids":[],
+"uid":"1297098330",
+"parent":"",
+"text":"",
+"mid":"zsx53BJey",
+"date":"2013-04-17 09:23:07"
+},
+{
+"kids":[],
+"uid":"3217319840",
+"parent":"",
+"text":"",
+"mid":"zsx4X7S2E",
+"date":"2013-04-17 09:22:51"
+},
+{
+"kids":[
+"zsxoCEIdT",
+"zsx5PcAyL"
+],
+"uid":"2614572257",
+"parent":"",
+"text":"",
+"mid":"zsx4U9Dsr",
+"date":"2013-04-17 09:22:44"
+},
+{
+"kids":[],
+"uid":"3085350293",
+"parent":"",
+"text":"",
+"mid":"zsx4gyqJ6",
+"date":"2013-04-17 09:21:09"
+},
+{
+"kids":[],
+"uid":"1964739524",
+"parent":"",
+"text":"",
+"mid":"zsx4f55Hc",
+"date":"2013-04-17 09:21:05"
+},
+{
+"kids":[],
+"uid":"ilomokits",
+"parent":"",
+"text":"领导的家属都在美国，必须时刻关注报道。",
+"mid":"zsx3eq0ie",
+"date":"2013-04-17 09:18:37"
+},
+{
+"kids":[],
+"uid":"2996784194",
+"parent":"",
+"text":"",
+"mid":"zsx37mtKI",
+"date":"2013-04-17 09:18:19"
+},
+{
+"kids":[],
+"uid":"5fufu",
+"parent":"",
+"text":"要理解，领导们的孩子都在那边",
+"mid":"zsx2rnP0L",
+"date":"2013-04-17 09:16:40"
+},
+{
+"kids":[],
+"uid":"1988393823",
+"parent":"",
+"text":"央视？祸国殃民的的电视！！！",
+"mid":"zsx1GpsTJ",
+"date":"2013-04-17 09:14:48"
+},
+{
+"kids":[],
+"uid":"2156477483",
+"parent":"",
+"text":"央视是童话剧，跟现实不沾边",
+"mid":"zsx0XdWUe",
+"date":"2013-04-17 09:13:00"
+},
+{
+"kids":[],
+"uid":"1576864453",
+"parent":"",
+"text":"一些西方国家，媒体的监督那叫 真厉害！",
+"mid":"zsx0EzwPZ",
+"date":"2013-04-17 09:12:16"
+},
+{
+"kids":[],
+"uid":"zhouhpan",
+"parent":"",
+"text":"",
+"mid":"zsx0Eh6mH",
+"date":"2013-04-17 09:12:15"
+},
+{
+"kids":[],
+"uid":"1911216833",
+"parent":"",
+"text":"",
+"mid":"zsx07biFG",
+"date":"2013-04-17 09:10:56"
+},
+{
+"kids":[],
+"uid":"1728676740",
+"parent":"",
+"text":"",
+"mid":"zsx06iSbD",
+"date":"2013-04-17 09:10:54"
+},
+{
+"kids":[],
+"uid":"2534139957",
+"parent":"zswW1Dc4H",
+"text":"",
+"mid":"zswZZw3Zb",
+"date":"2013-04-17 09:10:38"
+},
+{
+"kids":[],
+"uid":"2747097731",
+"parent":"",
+"text":"",
+"mid":"zswZTBoGL",
+"date":"2013-04-17 09:10:24"
+},
+{
+"kids":[],
+"uid":"1440440247",
+"parent":"",
+"text":"",
+"mid":"zswZS7SfU",
+"date":"2013-04-17 09:10:20"
+},
+{
+"kids":[],
+"uid":"1922912607",
+"parent":"",
+"text":"现在才知道这事，发生在中国的事",
+"mid":"zswZJwGim",
+"date":"2013-04-17 09:10:00"
+},
+{
+"kids":[],
+"uid":"mavsfannick",
+"parent":"",
+"text":"因为等了n久中午有一条美帝国主义的负面消息了，当然要鸡冻！符合新闻联播三原则“一，领导们很忙，二，中国人民生活幸福，三，外国人民水深火热。”",
+"mid":"zswZF8ORp",
+"date":"2013-04-17 09:09:50"
+},
+{
+"kids":[],
+"uid":"weirt",
+"parent":"",
+"text":"我的CCAV都被我调到了1XX这类位置去的",
+"mid":"zswZeuXtg",
+"date":"2013-04-17 09:08:46"
+},
+{
+"kids":[],
+"uid":"huanggan1992",
+"parent":"",
+"text":"",
+"mid":"zswZ6wdz0",
+"date":"2013-04-17 09:08:26"
+},
+{
+"kids":[],
+"uid":"1940365423",
+"parent":"",
+"text":"",
+"mid":"zswYReHwb",
+"date":"2013-04-17 09:07:50"
+},
+{
+"kids":[],
+"uid":"2702469000",
+"parent":"",
+"text":"",
+"mid":"zswYQ3R61",
+"date":"2013-04-17 09:07:46"
+},
+{
+"kids":[],
+"uid":"2085569047",
+"parent":"",
+"text":"花费重金，直播亚马逊动物迁徙；连篇累牍，报道国外意外事件。中国媒体， 是一点正事都不干[怒]",
+"mid":"zswYJxy2a",
+"date":"2013-04-17 09:07:31"
+},
+{
+"kids":[],
+"uid":"2932277875",
+"parent":"",
+"text":"[吐]",
+"mid":"zswYmt31V",
+"date":"2013-04-17 09:06:36"
+},
+{
+"kids":[],
+"uid":"3096302703",
+"parent":"",
+"text":"",
+"mid":"zswYf4gCz",
+"date":"2013-04-17 09:06:19"
+},
+{
+"kids":[],
+"uid":"1418780157",
+"parent":"",
+"text":"",
+"mid":"zswY01Fdx",
+"date":"2013-04-17 09:05:42"
+},
+{
+"kids":[],
+"uid":"2527200427",
+"parent":"",
+"text":"这个必须转",
+"mid":"zswXLeZP4",
+"date":"2013-04-17 09:05:08"
+},
+{
+"kids":[],
+"uid":"536075789",
+"parent":"",
+"text":"轉發微博",
+"mid":"zswXK2xSm",
+"date":"2013-04-17 09:05:04"
+},
+{
+"kids":[],
+"uid":"2837359952",
+"parent":"",
+"text":"一个不能民主的国家，希望有一天我能逃离你！！！！",
+"mid":"zswXIhF2Q",
+"date":"2013-04-17 09:05:01"
+},
+{
+"kids":[],
+"uid":"2141574031",
+"parent":"",
+"text":"领导的子孙都在美国呐，他们当然关注，谁还管我等屁民的死活",
+"mid":"zswXyuPUJ",
+"date":"2013-04-17 09:04:37"
+},
+{
+"kids":[],
+"uid":"1615672381",
+"parent":"",
+"text":"那你想怎么的 把相关人员都弄死？",
+"mid":"zswXmoGyh",
+"date":"2013-04-17 09:04:09"
+},
+{
+"kids":[
+"zszPEcXhu"
+],
+"uid":"pingmaren",
+"parent":"",
+"text":"言简意赅的名人名言：操！",
+"mid":"zswWjELkT",
+"date":"2013-04-17 09:01:36"
+},
+{
+"kids":[
+"zswZZw3Zb"
+],
+"uid":"2626768330",
+"parent":"",
+"text":"[抓狂][泪]",
+"mid":"zswW1Dc4H",
+"date":"2013-04-17 09:00:51"
+},
+{
+"kids":[],
+"uid":"2407213353",
+"parent":"",
+"text":"",
+"mid":"zswVJ2qgF",
+"date":"2013-04-17 09:00:06"
+},
+{
+"kids":[],
+"uid":"2097128961",
+"parent":"",
+"text":"",
+"mid":"zswVt6LKF",
+"date":"2013-04-17 08:59:28"
+},
+{
+"kids":[],
+"uid":"103100328",
+"parent":"",
+"text":"@央视新闻 沉默是金？",
+"mid":"zswVm3mY7",
+"date":"2013-04-17 08:59:12"
+},
+{
+"kids":[],
+"uid":"1400677467",
+"parent":"",
+"text":"",
+"mid":"zswV371em",
+"date":"2013-04-17 08:58:27"
+},
+{
+"kids":[],
+"uid":"2838939561",
+"parent":"",
+"text":"央视，从成立之初，就是一个舔菊的角色！！！强烈鄙视！！！",
+"mid":"zswUXrAaK",
+"date":"2013-04-17 08:58:13"
+},
+{
+"kids":[],
+"uid":"2646828040",
+"parent":"",
+"text":"",
+"mid":"zswUNoL1I",
+"date":"2013-04-17 08:57:49"
+},
+{
+"kids":[],
+"uid":"2031231121",
+"parent":"",
+"text":"",
+"mid":"zswUJA061",
+"date":"2013-04-17 08:57:41"
+},
+{
+"kids":[],
+"uid":"2827364545",
+"parent":"",
+"text":"观",
+"mid":"zswUrgPC7",
+"date":"2013-04-17 08:56:57"
+},
+{
+"kids":[],
+"uid":"2082484565",
+"parent":"zswSNl8oE",
+"text":"",
+"mid":"zswUpdfzq",
+"date":"2013-04-17 08:56:52"
+},
+{
+"kids":[],
+"uid":"3219316225",
+"parent":"",
+"text":"",
+"mid":"zswU0nh6T",
+"date":"2013-04-17 08:55:53"
+},
+{
+"kids":[
+"zsyHmgZmS"
+],
+"uid":"fengye9",
+"parent":"zswSNl8oE",
+"text":"",
+"mid":"zswTJwxz3",
+"date":"2013-04-17 08:55:13"
+},
+{
+"kids":[],
+"uid":"caogenlee",
+"parent":"",
+"text":"见怪不怪",
+"mid":"zswTHaQUn",
+"date":"2013-04-17 08:55:05"
+},
+{
+"kids":[],
+"uid":"1910285367",
+"parent":"",
+"text":"",
+"mid":"zswSV0N6Z",
+"date":"2013-04-17 08:53:11"
+},
+{
+"kids":[
+"zsxbzhD1a",
+"zswUpdfzq",
+"zswTJwxz3"
+],
+"uid":"liandongk",
+"parent":"",
+"text":"[",
+"mid":"zswSNl8oE",
+"date":"2013-04-17 08:52:54"
+},
+{
+"kids":[],
+"uid":"1728839787",
+"parent":"",
+"text":"",
+"mid":"zswSM88jz",
+"date":"2013-04-17 08:52:51"
+},
+{
+"kids":[],
+"uid":"2615432762",
+"parent":"",
+"text":"炫耀自己多么好！指责他们多么不好！",
+"mid":"zswSF6jLJ",
+"date":"2013-04-17 08:52:33"
+},
+{
+"kids":[],
+"uid":"526786959",
+"parent":"",
+"text":"",
+"mid":"zswSCFb8E",
+"date":"2013-04-17 08:52:29"
+},
+{
+"kids":[],
+"uid":"2161523571",
+"parent":"",
+"text":"我邻居房子装修的很好，车也高档，隔三差五出去履行，而我却凄惨很多，房子几乎没有装修，有辆自行车，没日没夜的工作，我很嫉妒他们家，总盼望着他们家出点事情，变得不如我们家。比如他们家被小偷光顾了一次，我就特兴奋，恨不得放鞭炮庆祝一下。可是他们家却一直那样，我们家却一直这样。",
+"mid":"zswS6alum",
+"date":"2013-04-17 08:51:11"
+},
+{
+"kids":[],
+"uid":"gaoxingdaming",
+"parent":"",
+"text":"[草泥马]",
+"mid":"zswRlsKr9",
+"date":"2013-04-17 08:49:20"
+},
+{
+"kids":[],
+"uid":"1107713190",
+"parent":"",
+"text":"[泪]",
+"mid":"zswQPARPe",
+"date":"2013-04-17 08:48:03"
+},
+{
+"kids":[],
+"uid":"1169616095",
+"parent":"",
+"text":"",
+"mid":"zswQPxN4n",
+"date":"2013-04-17 08:48:03"
+},
+{
+"kids":[],
+"uid":"2753353851",
+"parent":"",
+"text":"",
+"mid":"zswQL81km",
+"date":"2013-04-17 08:47:53"
+},
+{
+"kids":[
+"zsAgDdSBG"
+],
+"uid":"2004804320",
+"parent":"",
+"text":"有多少人知道襄阳大火这件事",
+"mid":"zswQE2wtv",
+"date":"2013-04-17 08:47:35"
+},
+{
+"kids":[],
+"uid":"2921385845",
+"parent":"",
+"text":"",
+"mid":"zswQsgI7q",
+"date":"2013-04-17 08:47:08"
+},
+{
+"kids":[],
+"uid":"jeroin",
+"parent":"",
+"text":"",
+"mid":"zswQmm32P",
+"date":"2013-04-17 08:46:54"
+},
+{
+"kids":[],
+"uid":"gungunquan",
+"parent":"",
+"text":"",
+"mid":"zswQ2xwkH",
+"date":"2013-04-17 08:46:07"
+},
+{
+"kids":[],
+"uid":"1906081387",
+"parent":"zswPasL0a",
+"text":"我爱天朝，但天朝不爱我…",
+"mid":"zswPMiShN",
+"date":"2013-04-17 08:45:28"
+},
+{
+"kids":[],
+"uid":"1908303374",
+"parent":"",
+"text":"",
+"mid":"zswPst5Nr",
+"date":"2013-04-17 08:44:41"
+},
+{
+"kids":[],
+"uid":"3074613925",
+"parent":"",
+"text":"",
+"mid":"zswPssu9c",
+"date":"2013-04-17 08:44:41"
+},
+{
+"kids":[],
+"uid":"2733121684",
+"parent":"",
+"text":"给个说法吧，央视新闻[鄙视][鄙视][鄙视]@央视新闻 @新闻一加一",
+"mid":"zswPseit3",
+"date":"2013-04-17 08:44:39"
+},
+{
+"kids":[],
+"uid":"1710858924",
+"parent":"",
+"text":"",
+"mid":"zswPnbkl1",
+"date":"2013-04-17 08:44:28"
+},
+{
+"kids":[
+"zswPMiShN"
+],
+"uid":"1502550904",
+"parent":"",
+"text":"",
+"mid":"zswPasL0a",
+"date":"2013-04-17 08:43:58"
+},
+{
+"kids":[],
+"uid":"3168337563",
+"parent":"",
+"text":"社会主义特色媒体",
+"mid":"zswP7fnuf",
+"date":"2013-04-17 08:43:49"
+},
+{
+"kids":[],
+"uid":"1846943214",
+"parent":"",
+"text":"",
+"mid":"zswP619lO",
+"date":"2013-04-17 08:43:47"
+},
+{
+"kids":[],
+"uid":"2827830564",
+"parent":"",
+"text":"",
+"mid":"zswP1CjGL",
+"date":"2013-04-17 08:43:37"
+},
+{
+"kids":[],
+"uid":"1789559771",
+"parent":"",
+"text":"央视是国家的",
+"mid":"zswOXqLQH",
+"date":"2013-04-17 08:43:27"
+},
+{
+"kids":[],
+"uid":"2427358780",
+"parent":"",
+"text":"",
+"mid":"zswONoxC2",
+"date":"2013-04-17 08:43:02"
+},
+{
+"kids":[],
+"uid":"1994887301",
+"parent":"",
+"text":"",
+"mid":"zswOEzjpH",
+"date":"2013-04-17 08:42:41"
+},
+{
+"kids":[],
+"uid":"1730178875",
+"parent":"",
+"text":"",
+"mid":"zswOreNNL",
+"date":"2013-04-17 08:42:10"
+},
+{
+"kids":[],
+"uid":"1066717223",
+"parent":"",
+"text":"再重复：央视是条狗。",
+"mid":"zswOjhf8h",
+"date":"2013-04-17 08:41:51"
+},
+{
+"kids":[],
+"uid":"3239946447",
+"parent":"",
+"text":"",
+"mid":"zswOi4D5n",
+"date":"2013-04-17 08:41:47"
+},
+{
+"kids":[],
+"uid":"2692363563",
+"parent":"zswLneYu3",
+"text":"微博粉丝精灵转发。",
+"mid":"zswOb2rCJ",
+"date":"2013-04-17 08:41:30"
+},
+{
+"kids":[],
+"uid":"2183671790",
+"parent":"",
+"text":"",
+"mid":"zswO1dUtS",
+"date":"2013-04-17 08:41:08"
+},
+{
+"kids":[],
+"uid":"1706081472",
+"parent":"",
+"text":"一方面坚决不走美国的西方道路，一方面美国有点事就高潮，大概这是展现天朝和央视人道主义精神的最佳时刻。",
+"mid":"zswNyB8PH",
+"date":"2013-04-17 08:40:00"
+},
+{
+"kids":[],
+"uid":"1971000454",
+"parent":"",
+"text":"",
+"mid":"zswNmcaBg",
+"date":"2013-04-17 08:39:30"
+},
+{
+"kids":[],
+"uid":"2290725073",
+"parent":"zswIvDHfy",
+"text":"",
+"mid":"zswNmb2tf",
+"date":"2013-04-17 08:39:30"
+},
+{
+"kids":[],
+"uid":"liuchao1976",
+"parent":"",
+"text":"[鄙视]",
+"mid":"zswNhrdXV",
+"date":"2013-04-17 08:39:18"
+},
+{
+"kids":[],
+"uid":"2448874744",
+"parent":"",
+"text":"",
+"mid":"zswNaDkiW",
+"date":"2013-04-17 08:39:04"
+},
+{
+"kids":[],
+"uid":"1774817281",
+"parent":"",
+"text":"",
+"mid":"zswMPEqrG",
+"date":"2013-04-17 08:38:12"
+},
+{
+"kids":[],
+"uid":"1873169930",
+"parent":"",
+"text":"央视是中央的，不是人民的。",
+"mid":"zswMN2GTZ",
+"date":"2013-04-17 08:38:06"
+},
+{
+"kids":[],
+"uid":"2460786203",
+"parent":"",
+"text":"",
+"mid":"zswMC6C1T",
+"date":"2013-04-17 08:37:40"
+},
+{
+"kids":[],
+"uid":"3185426365",
+"parent":"",
+"text":"",
+"mid":"zswMotgMj",
+"date":"2013-04-17 08:37:08"
+},
+{
+"kids":[],
+"uid":"1667346932",
+"parent":"",
+"text":"",
+"mid":"zswMiwXHm",
+"date":"2013-04-17 08:36:52"
+},
+{
+"kids":[],
+"uid":"3239412833",
+"parent":"",
+"text":"",
+"mid":"zswM2m96p",
+"date":"2013-04-17 08:36:15"
+},
+{
+"kids":[],
+"uid":"1961346927",
+"parent":"",
+"text":"狗奴才！公仆不服务人民却勾搭别的主子！",
+"mid":"zswLPjnk8",
+"date":"2013-04-17 08:35:43"
+},
+{
+"kids":[],
+"uid":"2083757601",
+"parent":"",
+"text":"",
+"mid":"zswLM4rEG",
+"date":"2013-04-17 08:35:36"
+},
+{
+"kids":[],
+"uid":"cao1zhan",
+"parent":"",
+"text":"谁让你看的，阿拉十年不看CCTV了。",
+"mid":"zswLH5Dem",
+"date":"2013-04-17 08:35:24"
+},
+{
+"kids":[],
+"uid":"1676666364",
+"parent":"",
+"text":"",
+"mid":"zswLBprdh",
+"date":"2013-04-17 08:35:11"
+},
+{
+"kids":[],
+"uid":"2079913132",
+"parent":"",
+"text":"央视不报道应该批评，领导人保持沉默正常，不是说人命不值钱，而是中国每年大大小小的事故比那个严重的多了去了，都要领导人去关心就有些过了。美国的那个是恐怖袭击，性质也不一样，别跟我提人权或皿煮",
+"mid":"zswLysE8Y",
+"date":"2013-04-17 08:35:04"
+},
+{
+"kids":[],
+"uid":"songfeng99999",
+"parent":"",
+"text":"[囧]",
+"mid":"zswLyavze",
+"date":"2013-04-17 08:35:03"
+},
+{
+"kids":[],
+"uid":"1760200402",
+"parent":"",
+"text":"",
+"mid":"zswLxyRLi",
+"date":"2013-04-17 08:35:00"
+},
+{
+"kids":[],
+"uid":"neomatrix007zjj",
+"parent":"",
+"text":"",
+"mid":"zswLt9DcN",
+"date":"2013-04-17 08:34:51"
+},
+{
+"kids":[
+"zswOb2rCJ"
+],
+"uid":"gaoxing770521",
+"parent":"",
+"text":"[鄙视]",
+"mid":"zswLneYu3",
+"date":"2013-04-17 08:34:37"
+},
+{
+"kids":[],
+"uid":"1258024381",
+"parent":"",
+"text":"央视是世界的央视（中国除外），中国人民是不怎么喜欢看的，只不过一到19点，好多台都主动或者被动的转播，看的人大多数都是被逼的。",
+"mid":"zswLcByvH",
+"date":"2013-04-17 08:34:11"
+},
+{
+"kids":[],
+"uid":"2087663915",
+"parent":"",
+"text":"道德G点太低",
+"mid":"zswLc3T48",
+"date":"2013-04-17 08:34:10"
+},
+{
+"kids":[],
+"uid":"1731706747",
+"parent":"",
+"text":"一向如此",
+"mid":"zswL5dp6F",
+"date":"2013-04-17 08:33:53"
+},
+{
+"kids":[],
+"uid":"1915520940",
+"parent":"",
+"text":"",
+"mid":"zswL17Oer",
+"date":"2013-04-17 08:33:44"
+},
+{
+"kids":[],
+"uid":"2374624284",
+"parent":"",
+"text":"",
+"mid":"zswKZDp6N",
+"date":"2013-04-17 08:33:41"
+},
+{
+"kids":[],
+"uid":"1688504894",
+"parent":"",
+"text":"反正国内出事都是群众情绪稳定，领导立马现场指挥。报道与不报道都一样。",
+"mid":"zswKWD1Cm",
+"date":"2013-04-17 08:33:33"
+},
+{
+"kids":[],
+"uid":"1391690027",
+"parent":"",
+"text":"",
+"mid":"zswKIaqEv",
+"date":"2013-04-17 08:32:59"
+},
+{
+"kids":[
+"zsyCJD3hI"
+],
+"uid":"1863903653",
+"parent":"",
+"text":"sign",
+"mid":"zswKzzwNc",
+"date":"2013-04-17 08:32:40"
+},
+{
+"kids":[],
+"uid":"2464291824",
+"parent":"",
+"text":"",
+"mid":"zswKya9sP",
+"date":"2013-04-17 08:32:34"
+},
+{
+"kids":[],
+"uid":"1894206712",
+"parent":"",
+"text":"[泪]",
+"mid":"zswKwnFr9",
+"date":"2013-04-17 08:32:30"
+},
+{
+"kids":[],
+"uid":"1933393242",
+"parent":"",
+"text":"",
+"mid":"zswKqrtNZ",
+"date":"2013-04-17 08:32:17"
+},
+{
+"kids":[],
+"uid":"lijw06",
+"parent":"",
+"text":"@大鹏看天下",
+"mid":"zswKp0yU9",
+"date":"2013-04-17 08:32:12"
+},
+{
+"kids":[],
+"uid":"1767179450",
+"parent":"",
+"text":"",
+"mid":"zswKkylqb",
+"date":"2013-04-17 08:32:02"
+},
+{
+"kids":[],
+"uid":"edisonzhang1010",
+"parent":"",
+"text":"",
+"mid":"zswKb4CBj",
+"date":"2013-04-17 08:31:39"
+},
+{
+"kids":[],
+"uid":"2079913132",
+"parent":"",
+"text":"http:",
+"mid":"zswJPtAcx",
+"date":"2013-04-17 08:30:49"
+},
+{
+"kids":[],
+"uid":"2708178251",
+"parent":"",
+"text":"",
+"mid":"zswJNaUOO",
+"date":"2013-04-17 08:30:42"
+},
+{
+"kids":[],
+"uid":"1790208697",
+"parent":"",
+"text":"",
+"mid":"zswJCbPxc",
+"date":"2013-04-17 08:30:16"
+},
+{
+"kids":[],
+"uid":"1728079261",
+"parent":"",
+"text":"……",
+"mid":"zswJyFRyE",
+"date":"2013-04-17 08:30:09"
+},
+{
+"kids":[],
+"uid":"fanyu0722",
+"parent":"",
+"text":"",
+"mid":"zswJqmwqK",
+"date":"2013-04-17 08:29:49"
+},
+{
+"kids":[],
+"uid":"2499110247",
+"parent":"",
+"text":"[怒][泪]",
+"mid":"zswJq6whV",
+"date":"2013-04-17 08:29:48"
+},
+{
+"kids":[],
+"uid":"2315698125",
+"parent":"",
+"text":"习惯了。",
+"mid":"zswJo0PZl",
+"date":"2013-04-17 08:29:42"
+},
+{
+"kids":[],
+"uid":"1879351310",
+"parent":"",
+"text":"习惯了！特色！",
+"mid":"zswISp4DI",
+"date":"2013-04-17 08:28:27"
+},
+{
+"kids":[],
+"uid":"1953187197",
+"parent":"",
+"text":"",
+"mid":"zswIKoKBz",
+"date":"2013-04-17 08:28:09"
+},
+{
+"kids":[],
+"uid":"2434460451",
+"parent":"",
+"text":"",
+"mid":"zswIDAR1T",
+"date":"2013-04-17 08:27:52"
+},
+{
+"kids":[
+"zswNmb2tf"
+],
+"uid":"1885144597",
+"parent":"",
+"text":"",
+"mid":"zswIvDHfy",
+"date":"2013-04-17 08:27:34"
+},
+{
+"kids":[],
+"uid":"1517196070",
+"parent":"",
+"text":"跟家丑不可外扬一个道理，然后看到别人过得不好就到处八卦，人的通病",
+"mid":"zswI1exPE",
+"date":"2013-04-17 08:26:20"
+},
+{
+"kids":[],
+"uid":"3220144240",
+"parent":"",
+"text":"",
+"mid":"zswHZ9xeN",
+"date":"2013-04-17 08:26:15"
+},
+{
+"kids":[],
+"uid":"1151824355",
+"parent":"",
+"text":"狗屁央视！",
+"mid":"zswHWcd1m",
+"date":"2013-04-17 08:26:09"
+},
+{
+"kids":[],
+"uid":"1043214265",
+"parent":"",
+"text":"",
+"mid":"zswHQithL",
+"date":"2013-04-17 08:25:55"
+},
+{
+"kids":[],
+"uid":"2344801950",
+"parent":"",
+"text":"央屎就是央视",
+"mid":"zswHPElkG",
+"date":"2013-04-17 08:25:54"
+},
+{
+"kids":[],
+"uid":"liubentao",
+"parent":"",
+"text":"真的是太明显了，报纸上全都是对美国的报道，对襄阳的新闻几乎很难看到～央视真的是这样的吗？别让我对你太失望了",
+"mid":"zswHKpkjm",
+"date":"2013-04-17 08:25:40"
+},
+{
+"kids":[],
+"uid":"1774481185",
+"parent":"",
+"text":"",
+"mid":"zswHrs5GA",
+"date":"2013-04-17 08:24:56"
+},
+{
+"kids":[],
+"uid":"budaodao",
+"parent":"",
+"text":"",
+"mid":"zswH7mrkF",
+"date":"2013-04-17 08:24:07"
+},
+{
+"kids":[],
+"uid":"zh5301314",
+"parent":"",
+"text":"",
+"mid":"zswH74Q4I",
+"date":"2013-04-17 08:24:07"
+},
+{
+"kids":[
+"zsI5mfVtu"
+],
+"uid":"3199025974",
+"parent":"",
+"text":"",
+"mid":"zswH51EcH",
+"date":"2013-04-17 08:24:01"
+},
+{
+"kids":[],
+"uid":"2476930234",
+"parent":"",
+"text":"",
+"mid":"zswGVx8cG",
+"date":"2013-04-17 08:23:40"
+},
+{
+"kids":[
+"zsxJXz9di"
+],
+"uid":"1733473884",
+"parent":"",
+"text":"mlgb",
+"mid":"zswGS1urj",
+"date":"2013-04-17 08:23:31"
+},
+{
+"kids":[],
+"uid":"2438621682",
+"parent":"",
+"text":"央视在中国搞，不够嗨啊",
+"mid":"zswGLvbTU",
+"date":"2013-04-17 08:23:16"
+},
+{
+"kids":[],
+"uid":"1654536621",
+"parent":"",
+"text":"悲催，[汗][汗][汗]",
+"mid":"zswGpE99v",
+"date":"2013-04-17 08:22:24"
+},
+{
+"kids":[
+"zsyRUbl20"
+],
+"uid":"3070131467",
+"parent":"",
+"text":"",
+"mid":"zswGlen9V",
+"date":"2013-04-17 08:22:13"
+},
+{
+"kids":[],
+"uid":"3071030691",
+"parent":"",
+"text":"一个喉舌不装B行吗？",
+"mid":"zswGihrPf",
+"date":"2013-04-17 08:22:06"
+},
+{
+"kids":[],
+"uid":"1304594863",
+"parent":"",
+"text":"",
+"mid":"zswGe6sNc",
+"date":"2013-04-17 08:21:55"
+},
+{
+"kids":[],
+"uid":"kikonkwa",
+"parent":"",
+"text":"",
+"mid":"zswGbqJKw",
+"date":"2013-04-17 08:21:49"
+},
+{
+"kids":[
+"zsxD7cAbs"
+],
+"uid":"hongbing1982",
+"parent":"",
+"text":"无可救药！",
+"mid":"zswG8edsR",
+"date":"2013-04-17 08:21:42"
+},
+{
+"kids":[],
+"uid":"2172516913",
+"parent":"",
+"text":"",
+"mid":"zswG4Ffg7",
+"date":"2013-04-17 08:21:33"
+},
+{
+"kids":[],
+"uid":"audreyran",
+"parent":"",
+"text":"",
+"mid":"zswFVw3Zp",
+"date":"2013-04-17 08:21:12"
+},
+{
+"kids":[],
+"uid":"839663123",
+"parent":"",
+"text":"无语",
+"mid":"zswFMBIhv",
+"date":"2013-04-17 08:20:51"
+},
+{
+"kids":[],
+"uid":"1074519372",
+"parent":"",
+"text":"",
+"mid":"zswFJ791z",
+"date":"2013-04-17 08:20:42"
+},
+{
+"kids":[
+"ztp5ac6xK",
+"ztjzxiYuC",
+"ztjzxiYqZ"
+],
+"uid":"zhengdongtech",
+"parent":"",
+"text":"转发微博。",
+"mid":"zswFHAiN5",
+"date":"2013-04-17 08:20:38"
+},
+{
+"kids":[],
+"uid":"2219752941",
+"parent":"",
+"text":"",
+"mid":"zswFFgzDn",
+"date":"2013-04-17 08:20:33"
+},
+{
+"kids":[],
+"uid":"audreyren",
+"parent":"",
+"text":"",
+"mid":"zswFDcukL",
+"date":"2013-04-17 08:20:27"
+},
+{
+"kids":[],
+"uid":"2863247860",
+"parent":"",
+"text":"",
+"mid":"zswFBnClQ",
+"date":"2013-04-17 08:20:24"
+},
+{
+"kids":[],
+"uid":"chinagaoyang",
+"parent":"",
+"text":"同感！",
+"mid":"zswFrELUA",
+"date":"2013-04-17 08:20:01"
+},
+{
+"kids":[],
+"uid":"3175608154",
+"parent":"",
+"text":"",
+"mid":"zswFrmjUc",
+"date":"2013-04-17 08:20:00"
+},
+{
+"kids":[],
+"uid":"3153324381",
+"parent":"",
+"text":"",
+"mid":"zswFcAVCb",
+"date":"2013-04-17 08:19:25"
+}
+]

@@ -1,0 +1,7524 @@
+[
+{
+"kids":[],
+"uid":"2310238932",
+"parent":"",
+"text":"",
+"mid":"B3HnGCGbd",
+"date":"2014-05-10 23:07:28"
+},
+{
+"kids":[],
+"uid":"3762390271",
+"parent":"A9r018BqT",
+"text":"",
+"mid":"AkDuM9Oyi",
+"date":"2013-11-27 09:44:48"
+},
+{
+"kids":[],
+"uid":"3044220914",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AdDq8ciBA",
+"date":"2013-10-12 08:41:15"
+},
+{
+"kids":[],
+"uid":"3045014604",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AdD3UzNS6",
+"date":"2013-10-12 07:46:31"
+},
+{
+"kids":[],
+"uid":"3043553844",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"Adw1NkkG1",
+"date":"2013-10-11 13:52:04"
+},
+{
+"kids":[],
+"uid":"3043740334",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"AdtVZheiB",
+"date":"2013-10-11 08:32:16"
+},
+{
+"kids":[],
+"uid":"2920202902",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"AdttAb0vF",
+"date":"2013-10-11 07:22:16"
+},
+{
+"kids":[],
+"uid":"2810494362",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"Adtm2nDgM",
+"date":"2013-10-11 07:03:41"
+},
+{
+"kids":[],
+"uid":"1777354780",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AdrnbbxS1",
+"date":"2013-10-11 02:01:01"
+},
+{
+"kids":[],
+"uid":"2919823152",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"Adlpn5DZD",
+"date":"2013-10-10 10:49:54"
+},
+{
+"kids":[],
+"uid":"1437540420",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"Ad3rnnjV1",
+"date":"2013-10-08 13:05:25"
+},
+{
+"kids":[],
+"uid":"3043998444",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"Ad2MnfiPL",
+"date":"2013-10-08 11:24:24"
+},
+{
+"kids":[],
+"uid":"2919702014",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"Ad2B42dDf",
+"date":"2013-10-08 10:56:32"
+},
+{
+"kids":[],
+"uid":"2789781374",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"AcTVwFMkG",
+"date":"2013-10-07 12:52:15"
+},
+{
+"kids":[],
+"uid":"2803760600",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AcTra5JXk",
+"date":"2013-10-07 11:37:25"
+},
+{
+"kids":[],
+"uid":"2920367720",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AcT0QooRN",
+"date":"2013-10-07 10:32:36"
+},
+{
+"kids":[],
+"uid":"2920484252",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AcSA1EhpS",
+"date":"2013-10-07 09:26:32"
+},
+{
+"kids":[],
+"uid":"3043812314",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"AcSs4sEtM",
+"date":"2013-10-07 09:06:55"
+},
+{
+"kids":[],
+"uid":"2803613402",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AcJbz0Fdm",
+"date":"2013-10-06 09:31:31"
+},
+{
+"kids":[],
+"uid":"3043981804",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AcIRsjcgI",
+"date":"2013-10-06 08:42:00"
+},
+{
+"kids":[],
+"uid":"2920548154",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AcIrdCecj",
+"date":"2013-10-06 07:37:21"
+},
+{
+"kids":[],
+"uid":"2919390464",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AchADtmjP",
+"date":"2013-10-03 11:16:24"
+},
+{
+"kids":[],
+"uid":"2789838914",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"Ac8dbq5v2",
+"date":"2013-10-02 11:23:52"
+},
+{
+"kids":[],
+"uid":"1778159882",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"Ac7t2ut9d",
+"date":"2013-10-02 09:30:11"
+},
+{
+"kids":[],
+"uid":"2919751950",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"Ac7r9cjKO",
+"date":"2013-10-02 09:25:33"
+},
+{
+"kids":[],
+"uid":"2919291920",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"Ac7hioBQA",
+"date":"2013-10-02 09:01:16"
+},
+{
+"kids":[],
+"uid":"1560964864",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"Ac6WqrKzl",
+"date":"2013-10-02 08:09:51"
+},
+{
+"kids":[],
+"uid":"1808061775",
+"parent":"AbZIWoVX3",
+"text":"",
+"mid":"Ac0qk0P8q",
+"date":"2013-10-01 15:34:17"
+},
+{
+"kids":[
+"Ac0qk0P8q"
+],
+"uid":"1727947927",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AbZIWoVX3",
+"date":"2013-10-01 13:47:23"
+},
+{
+"kids":[],
+"uid":"2920256510",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"AbZwY7Qtr",
+"date":"2013-10-01 13:17:54"
+},
+{
+"kids":[],
+"uid":"3043800392",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"AbYWc7GJL",
+"date":"2013-10-01 11:47:18"
+},
+{
+"kids":[],
+"uid":"3045307522",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AbYBDDz6f",
+"date":"2013-10-01 10:56:41"
+},
+{
+"kids":[],
+"uid":"2804306064",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"AbYlRxB1R",
+"date":"2013-10-01 10:17:49"
+},
+{
+"kids":[],
+"uid":"3045383702",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AbPV3xtmt",
+"date":"2013-09-30 12:49:47"
+},
+{
+"kids":[],
+"uid":"2920402802",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AbPs7jMUK",
+"date":"2013-09-30 11:38:28"
+},
+{
+"kids":[],
+"uid":"3045442874",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AbOejfFJ1",
+"date":"2013-09-30 08:31:44"
+},
+{
+"kids":[],
+"uid":"2790029010",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"AbNK1FUyy",
+"date":"2013-09-30 07:17:08"
+},
+{
+"kids":[],
+"uid":"1584089237",
+"parent":"A9qQkEpmU",
+"text":"",
+"mid":"Abvdxun2l",
+"date":"2013-09-28 08:07:38"
+},
+{
+"kids":[],
+"uid":"3043496694",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AbokJi2IM",
+"date":"2013-09-27 14:36:07"
+},
+{
+"kids":[],
+"uid":"3044142722",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"Abo7Vzk4l",
+"date":"2013-09-27 14:04:35"
+},
+{
+"kids":[],
+"uid":"3044800980",
+"parent":"A9qQkEpmU",
+"text":"",
+"mid":"AbmTZvBAy",
+"date":"2013-09-27 10:57:31"
+},
+{
+"kids":[],
+"uid":"3043976562",
+"parent":"A9qQkEpmU",
+"text":"",
+"mid":"AbmO6AnB9",
+"date":"2013-09-27 10:43:00"
+},
+{
+"kids":[],
+"uid":"2919916554",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AbmB7F4s8",
+"date":"2013-09-27 10:11:00"
+},
+{
+"kids":[],
+"uid":"3044848954",
+"parent":"A9qQkEpmU",
+"text":"",
+"mid":"AblSC5rTH",
+"date":"2013-09-27 08:21:22"
+},
+{
+"kids":[],
+"uid":"3045114210",
+"parent":"A9qQkEpmU",
+"text":"",
+"mid":"AblQRkakr",
+"date":"2013-09-27 08:17:02"
+},
+{
+"kids":[],
+"uid":"2416453541",
+"parent":"A9x2JiYIp",
+"text":"",
+"mid":"AbhaEvXAe",
+"date":"2013-09-26 20:22:04"
+},
+{
+"kids":[],
+"uid":"3044283630",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"AbdRG166D",
+"date":"2013-09-26 11:57:06"
+},
+{
+"kids":[],
+"uid":"2919659502",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AbdnysXos",
+"date":"2013-09-26 10:42:53"
+},
+{
+"kids":[],
+"uid":"2920078414",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"Abd91efeD",
+"date":"2013-09-26 10:07:04"
+},
+{
+"kids":[],
+"uid":"2804871474",
+"parent":"A9qXi64sS",
+"text":"",
+"mid":"AbcYQDu0T",
+"date":"2013-09-26 09:41:59"
+},
+{
+"kids":[],
+"uid":"3043727050",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AbcXBdTC8",
+"date":"2013-09-26 09:38:55"
+},
+{
+"kids":[],
+"uid":"1777765552",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"Abc8w93ku",
+"date":"2013-09-26 07:33:04"
+},
+{
+"kids":[],
+"uid":"2789783154",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"Ab4hXEasP",
+"date":"2013-09-25 11:34:21"
+},
+{
+"kids":[],
+"uid":"2919675242",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"Ab4hU7DLa",
+"date":"2013-09-25 11:34:13"
+},
+{
+"kids":[],
+"uid":"3045052022",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"Ab483kFUX",
+"date":"2013-09-25 11:09:58"
+},
+{
+"kids":[],
+"uid":"1415037784",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"Ab3PtvsI3",
+"date":"2013-09-25 10:24:12"
+},
+{
+"kids":[],
+"uid":"2919916310",
+"parent":"A9sk2eL8B",
+"text":"",
+"mid":"AaUX9BpjG",
+"date":"2013-09-24 11:48:24"
+},
+{
+"kids":[],
+"uid":"2920237212",
+"parent":"A9sk2eL8B",
+"text":"",
+"mid":"AaTgU3kUQ",
+"date":"2013-09-24 07:31:33"
+},
+{
+"kids":[],
+"uid":"2809437944",
+"parent":"A9qRxospS",
+"text":"",
+"mid":"AaLjH3Ts1",
+"date":"2013-09-23 11:16:25"
+},
+{
+"kids":[],
+"uid":"3756902127",
+"parent":"AaJOz8fNB",
+"text":"不孝的儿子会得到应有的报应，他应该想一想他也有子女。。。",
+"mid":"AaKNk6UFG",
+"date":"2013-09-23 09:56:41"
+},
+{
+"kids":[
+"AaKNk6UFG"
+],
+"uid":"3043678790",
+"parent":"A9qRxospS",
+"text":"",
+"mid":"AaJOz8fNB",
+"date":"2013-09-23 07:27:01"
+},
+{
+"kids":[],
+"uid":"2919656382",
+"parent":"A9qQkEpmU",
+"text":"",
+"mid":"AaC9YCQus",
+"date":"2013-09-22 11:57:46"
+},
+{
+"kids":[],
+"uid":"3044590554",
+"parent":"A9qQkEpmU",
+"text":"",
+"mid":"AaBnrB0gQ",
+"date":"2013-09-22 09:58:14"
+},
+{
+"kids":[],
+"uid":"2810799812",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AasUbrJPD",
+"date":"2013-09-21 12:24:10"
+},
+{
+"kids":[],
+"uid":"3043690822",
+"parent":"A9qQkEpmU",
+"text":"",
+"mid":"AaoE6eMJw",
+"date":"2013-09-21 01:33:33"
+},
+{
+"kids":[],
+"uid":"3044346802",
+"parent":"A9rjA5SMa",
+"text":"",
+"mid":"Aak002B77",
+"date":"2013-09-20 13:43:45"
+},
+{
+"kids":[],
+"uid":"3044595264",
+"parent":"A9qRxospS",
+"text":"",
+"mid":"AaiU22Vq1",
+"date":"2013-09-20 10:56:18"
+},
+{
+"kids":[],
+"uid":"3045145052",
+"parent":"A9qRxospS",
+"text":"",
+"mid":"AaitTw3JT",
+"date":"2013-09-20 09:51:55"
+},
+{
+"kids":[],
+"uid":"3044797050",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AaihPEygQ",
+"date":"2013-09-20 09:22:13"
+},
+{
+"kids":[],
+"uid":"2789722532",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"Aai9LEfCF",
+"date":"2013-09-20 09:02:21"
+},
+{
+"kids":[],
+"uid":"2920250860",
+"parent":"A9rjefaUK",
+"text":"",
+"mid":"Aai2Ut6L5",
+"date":"2013-09-20 08:45:27"
+},
+{
+"kids":[],
+"uid":"3043713074",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"AahpLjjNx",
+"date":"2013-09-20 07:08:59"
+},
+{
+"kids":[],
+"uid":"2809873422",
+"parent":"A9rjA5SMa",
+"text":"",
+"mid":"Aa9RkfM1c",
+"date":"2013-09-19 11:54:55"
+},
+{
+"kids":[],
+"uid":"3044331782",
+"parent":"A9rjA5SMa",
+"text":"",
+"mid":"Aa8qh0TiY",
+"date":"2013-09-19 08:15:32"
+},
+{
+"kids":[],
+"uid":"3044339192",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"Aa8cmrhl5",
+"date":"2013-09-19 07:41:16"
+},
+{
+"kids":[],
+"uid":"2920308032",
+"parent":"A9r4RBbao",
+"text":"",
+"mid":"Aa14V7gic",
+"date":"2013-09-18 13:33:40"
+},
+{
+"kids":[],
+"uid":"3044289202",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"Aa0i93jqb",
+"date":"2013-09-18 11:33:30"
+},
+{
+"kids":[],
+"uid":"2790014982",
+"parent":"A9qRxospS",
+"text":"",
+"mid":"Aa0hcwmgv",
+"date":"2013-09-18 11:31:12"
+},
+{
+"kids":[],
+"uid":"2789898950",
+"parent":"A9qXi64sS",
+"text":"",
+"mid":"A9ZOxqZw9",
+"date":"2013-09-18 10:20:35"
+},
+{
+"kids":[],
+"uid":"2919951352",
+"parent":"A9qRxospS",
+"text":"",
+"mid":"A9ZMS2mvI",
+"date":"2013-09-18 10:16:28"
+},
+{
+"kids":[],
+"uid":"1574179374",
+"parent":"A9qQja3W0",
+"text":"",
+"mid":"A9YD9avx4",
+"date":"2013-09-18 07:19:47"
+},
+{
+"kids":[],
+"uid":"2919364320",
+"parent":"A9xgF30A4",
+"text":"",
+"mid":"A9RvQmWWl",
+"date":"2013-09-17 13:12:33"
+},
+{
+"kids":[],
+"uid":"3044528380",
+"parent":"A9sk2eL8B",
+"text":"",
+"mid":"A9RuSEiuY",
+"date":"2013-09-17 13:10:12"
+},
+{
+"kids":[],
+"uid":"2804649830",
+"parent":"A9r4RBbao",
+"text":"",
+"mid":"A9R6Quivw",
+"date":"2013-09-17 12:10:58"
+},
+{
+"kids":[],
+"uid":"2919297380",
+"parent":"",
+"text":"",
+"mid":"A9QYKsXbw",
+"date":"2013-09-17 11:51:01"
+},
+{
+"kids":[],
+"uid":"2790086374",
+"parent":"A9xjqoNEf",
+"text":"",
+"mid":"A9QIzhei7",
+"date":"2013-09-17 11:11:10"
+},
+{
+"kids":[],
+"uid":"2920628352",
+"parent":"A9rujhHQH",
+"text":"",
+"mid":"A9Qo8u2IH",
+"date":"2013-09-17 10:20:49"
+},
+{
+"kids":[],
+"uid":"3044092254",
+"parent":"A9r4RBbao",
+"text":"",
+"mid":"A9Qml5xOn",
+"date":"2013-09-17 10:16:23"
+},
+{
+"kids":[],
+"uid":"3044919814",
+"parent":"",
+"text":"",
+"mid":"A9QkYAuWo",
+"date":"2013-09-17 10:13:02"
+},
+{
+"kids":[],
+"uid":"1589013987",
+"parent":"A9qXi64sS",
+"text":"",
+"mid":"A9Q3erASp",
+"date":"2013-09-17 09:29:20"
+},
+{
+"kids":[],
+"uid":"2920090842",
+"parent":"A9qXi64sS",
+"text":"",
+"mid":"A9PRyw2O7",
+"date":"2013-09-17 09:00:34"
+},
+{
+"kids":[],
+"uid":"2952240514",
+"parent":"A9r5PkVrY",
+"text":"",
+"mid":"A9POWBndC",
+"date":"2013-09-17 08:54:08"
+},
+{
+"kids":[],
+"uid":"2790108502",
+"parent":"A9rqIahwm",
+"text":"",
+"mid":"A9PK1BCHI",
+"date":"2013-09-17 08:42:00"
+},
+{
+"kids":[],
+"uid":"2919505312",
+"parent":"A9rujhHQH",
+"text":"",
+"mid":"A9PhPc6Ft",
+"date":"2013-09-17 07:32:31"
+},
+{
+"kids":[],
+"uid":"1800244522",
+"parent":"A9s4R6iRJ",
+"text":"抓进去",
+"mid":"A9OYxEtbJ",
+"date":"2013-09-17 06:45:02"
+},
+{
+"kids":[],
+"uid":"2920393394",
+"parent":"A9xgF30A4",
+"text":"",
+"mid":"A9HT4jgS0",
+"date":"2013-09-16 12:42:18"
+},
+{
+"kids":[],
+"uid":"3045007742",
+"parent":"A9xjqoNEf",
+"text":"",
+"mid":"A9GW1rXG8",
+"date":"2013-09-16 10:16:51"
+},
+{
+"kids":[],
+"uid":"2805338200",
+"parent":"A9sk2eL8B",
+"text":"",
+"mid":"A9GRa4zVH",
+"date":"2013-09-16 10:04:50"
+},
+{
+"kids":[],
+"uid":"3044795594",
+"parent":"A9rqIahwm",
+"text":"",
+"mid":"A9GPVvZyk",
+"date":"2013-09-16 10:01:50"
+},
+{
+"kids":[],
+"uid":"1583499970",
+"parent":"A9xjqoNEf",
+"text":"",
+"mid":"A9Gvtzsbs",
+"date":"2013-09-16 09:11:26"
+},
+{
+"kids":[],
+"uid":"3045066204",
+"parent":"A9xgF30A4",
+"text":"",
+"mid":"A9Gfd3XZJ",
+"date":"2013-09-16 08:31:22"
+},
+{
+"kids":[],
+"uid":"1985379785",
+"parent":"",
+"text":"",
+"mid":"A9G7GeFRJ",
+"date":"2013-09-16 08:12:49"
+},
+{
+"kids":[],
+"uid":"2804166812",
+"parent":"A9rqIahwm",
+"text":"",
+"mid":"A9FSTzM9i",
+"date":"2013-09-16 07:36:23"
+},
+{
+"kids":[],
+"uid":"2803477082",
+"parent":"A9sk2eL8B",
+"text":"",
+"mid":"A9FG51pFN",
+"date":"2013-09-16 07:04:49"
+},
+{
+"kids":[],
+"uid":"wengccc",
+"parent":"A9r960fhP",
+"text":"人之初性本恶",
+"mid":"A9FvbugMe",
+"date":"2013-09-16 06:37:59"
+},
+{
+"kids":[],
+"uid":"3297702201",
+"parent":"A9ryS467Z",
+"text":"当继母的悲哀，这样的子女就不怕...",
+"mid":"A9EnZiXPk",
+"date":"2013-09-16 03:47:30"
+},
+{
+"kids":[],
+"uid":"1730509254",
+"parent":"",
+"text":"人性？",
+"mid":"A9E6egyXB",
+"date":"2013-09-16 03:03:45"
+},
+{
+"kids":[],
+"uid":"1876859231",
+"parent":"",
+"text":"畜生！良心真的被狗吃了，出门出车祸，去死吧！！！",
+"mid":"A9DoirWCO",
+"date":"2013-09-16 01:15:31"
+},
+{
+"kids":[],
+"uid":"1632139041",
+"parent":"A9qRQjfVk",
+"text":"水弹壳[怒][怒][怒][怒][怒][怒][怒]",
+"mid":"A9C9mA30s",
+"date":"2013-09-15 22:05:59"
+},
+{
+"kids":[],
+"uid":"3125176550",
+"parent":"A9qRQjfVk",
+"text":"鄙视这种人",
+"mid":"A9C54E3P3",
+"date":"2013-09-15 21:55:23"
+},
+{
+"kids":[],
+"uid":"3561882993",
+"parent":"A9qRQjfVk",
+"text":"人情冷暖,现实总是那么残忍",
+"mid":"A9C4Dbbjs",
+"date":"2013-09-15 21:54:19"
+},
+{
+"kids":[],
+"uid":"3126966207",
+"parent":"A9xL1y7Uj",
+"text":"真是白养了",
+"mid":"A9BcnywCs",
+"date":"2013-09-15 19:40:38"
+},
+{
+"kids":[],
+"uid":"2491326767",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9B9muVoN",
+"date":"2013-09-15 19:33:14"
+},
+{
+"kids":[],
+"uid":"1905546620",
+"parent":"A9rHUxuKW",
+"text":"人在做,天在看[怒]",
+"mid":"A9ApLfuFB",
+"date":"2013-09-15 17:40:53"
+},
+{
+"kids":[],
+"uid":"2654057112",
+"parent":"",
+"text":"人要学会感恩,才能得到幸福。",
+"mid":"A9A2ersUa",
+"date":"2013-09-15 16:42:55"
+},
+{
+"kids":[],
+"uid":"3498470780",
+"parent":"",
+"text":"可怜的老人，有这样的子女真是不幸！",
+"mid":"A9zMniaNI",
+"date":"2013-09-15 16:03:52"
+},
+{
+"kids":[],
+"uid":"2045196647",
+"parent":"",
+"text":"养虎为患",
+"mid":"A9zKSeVkA",
+"date":"2013-09-15 16:00:09"
+},
+{
+"kids":[],
+"uid":"2662016185",
+"parent":"",
+"text":"畜生！",
+"mid":"A9yXrmw97",
+"date":"2013-09-15 13:58:21"
+},
+{
+"kids":[],
+"uid":"jessica861218",
+"parent":"",
+"text":"[怒]",
+"mid":"A9yHvysLn",
+"date":"2013-09-15 13:19:06"
+},
+{
+"kids":[],
+"uid":"1439598933",
+"parent":"A9qXN7RCU",
+"text":"",
+"mid":"A9yzBlftL",
+"date":"2013-09-15 12:59:38"
+},
+{
+"kids":[],
+"uid":"2564975682",
+"parent":"",
+"text":"[怒]",
+"mid":"A9yx8jyeo",
+"date":"2013-09-15 12:53:33"
+},
+{
+"kids":[],
+"uid":"1588617064",
+"parent":"A9tohyvg9",
+"text":"",
+"mid":"A9yx7Fdwj",
+"date":"2013-09-15 12:53:32"
+},
+{
+"kids":[],
+"uid":"3480735574",
+"parent":"",
+"text":"畜生",
+"mid":"A9yrGgJJc",
+"date":"2013-09-15 12:40:07"
+},
+{
+"kids":[],
+"uid":"3043968914",
+"parent":"A9t7d9uRg",
+"text":"",
+"mid":"A9yf7AJ4z",
+"date":"2013-09-15 12:09:10"
+},
+{
+"kids":[],
+"uid":"1588208107",
+"parent":"A9t7d9uRg",
+"text":"",
+"mid":"A9yaszOQc",
+"date":"2013-09-15 11:57:41"
+},
+{
+"kids":[],
+"uid":"liweilawyer",
+"parent":"A9x2JiYIp",
+"text":"对不孝子女应釆取法律措施!@茂刚法官:我想告诉孙桂枝：形成抚养关系的继子女对继父母有赡养义务，无劳动能力或生活困难的继父母，有要求继子女给付赡养费的权利。当继子女不主动甚至拒绝履行赡养义务时，继父母可以通过诉讼方式要求继子女给付赡养费。诉讼中，还可申请先予执行。",
+"mid":"A9y4mEAqr",
+"date":"2013-09-15 11:42:40"
+},
+{
+"kids":[],
+"uid":"2919586294",
+"parent":"A9qWRaPll",
+"text":"",
+"mid":"A9y2rhBa1",
+"date":"2013-09-15 11:37:55"
+},
+{
+"kids":[],
+"uid":"3774907277",
+"parent":"A9x2JiYIp",
+"text":"",
+"mid":"A9xWJyKrj",
+"date":"2013-09-15 11:23:53"
+},
+{
+"kids":[],
+"uid":"2010099633",
+"parent":"",
+"text":"",
+"mid":"A9xUAji3y",
+"date":"2013-09-15 11:18:35"
+},
+{
+"kids":[
+"A9BcnywCs"
+],
+"uid":"2919854864",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"A9xL1y7Uj",
+"date":"2013-09-15 10:55:01"
+},
+{
+"kids":[],
+"uid":"1778351543",
+"parent":"A9qWRaPll",
+"text":"",
+"mid":"A9xKl2z8e",
+"date":"2013-09-15 10:53:20"
+},
+{
+"kids":[],
+"uid":"3043857272",
+"parent":"A9sKyEUYm",
+"text":"",
+"mid":"A9xF4bWMV",
+"date":"2013-09-15 10:40:20"
+},
+{
+"kids":[],
+"uid":"2963309544",
+"parent":"",
+"text":"",
+"mid":"A9xyubtsk",
+"date":"2013-09-15 10:24:08"
+},
+{
+"kids":[],
+"uid":"2919388204",
+"parent":"A9qRxospS",
+"text":"",
+"mid":"A9xxX3mK3",
+"date":"2013-09-15 10:22:49"
+},
+{
+"kids":[],
+"uid":"3173767400",
+"parent":"A9qRQjfVk",
+"text":"没良心！！！！！",
+"mid":"A9xvzjR3R",
+"date":"2013-09-15 10:16:56"
+},
+{
+"kids":[],
+"uid":"2919803350",
+"parent":"A9qRq3Auk",
+"text":"",
+"mid":"A9xsOcwy8",
+"date":"2013-09-15 10:10:09"
+},
+{
+"kids":[],
+"uid":"2093125677",
+"parent":"A9x2JiYIp",
+"text":"",
+"mid":"A9xrC4seq",
+"date":"2013-09-15 10:07:11"
+},
+{
+"kids":[],
+"uid":"1901327147",
+"parent":"",
+"text":"猪狗不如，且看他的晚景凄凉。",
+"mid":"A9xqIbWnd",
+"date":"2013-09-15 10:04:59"
+},
+{
+"kids":[],
+"uid":"2210013951",
+"parent":"",
+"text":"mlgb",
+"mid":"A9xlVdfwP",
+"date":"2013-09-15 09:53:11"
+},
+{
+"kids":[
+"A9QIzhei7",
+"A9GW1rXG8",
+"A9Gvtzsbs"
+],
+"uid":"3371503334",
+"parent":"",
+"text":"对此我感到很气愤！滴水之恩当涌泉相报，连感恩都不会的人实在是社会的败类！",
+"mid":"A9xjqoNEf",
+"date":"2013-09-15 09:47:02"
+},
+{
+"kids":[
+"A9RvQmWWl",
+"A9HT4jgS0",
+"A9Gfd3XZJ"
+],
+"uid":"3284496434",
+"parent":"A9qO15bXl",
+"text":"",
+"mid":"A9xgF30A4",
+"date":"2013-09-15 09:40:13"
+},
+{
+"kids":[],
+"uid":"1845842975",
+"parent":"A9x2JiYIp",
+"text":"这还是人吗，太没良心了。",
+"mid":"A9xcGiP8F",
+"date":"2013-09-15 09:30:24"
+},
+{
+"kids":[],
+"uid":"1589495807",
+"parent":"",
+"text":"",
+"mid":"A9xaUCFeK",
+"date":"2013-09-15 09:26:04"
+},
+{
+"kids":[],
+"uid":"3045339614",
+"parent":"A9qXN7RCU",
+"text":"",
+"mid":"A9x9AbhMZ",
+"date":"2013-09-15 09:22:45"
+},
+{
+"kids":[],
+"uid":"1880020147",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9x8JyY17",
+"date":"2013-09-15 09:20:42"
+},
+{
+"kids":[],
+"uid":"3045135600",
+"parent":"A9qRxospS",
+"text":"",
+"mid":"A9x5znmBS",
+"date":"2013-09-15 09:12:53"
+},
+{
+"kids":[],
+"uid":"2919726570",
+"parent":"A9tohyvg9",
+"text":"",
+"mid":"A9x4Bp3YT",
+"date":"2013-09-15 09:10:29"
+},
+{
+"kids":[],
+"uid":"1791732792",
+"parent":"A9x2JiYIp",
+"text":"国务院先见之明“以房养老”呀！[吃惊]",
+"mid":"A9x4vvkqM",
+"date":"2013-09-15 09:10:17"
+},
+{
+"kids":[],
+"uid":"1582574292",
+"parent":"A9r2A4CgB",
+"text":"",
+"mid":"A9x3e0jnl",
+"date":"2013-09-15 09:07:06"
+},
+{
+"kids":[
+"AbhaEvXAe",
+"A9y4mEAqr",
+"A9xWJyKrj",
+"A9xrC4seq",
+"A9xcGiP8F",
+"A9x4vvkqM"
+],
+"uid":"3508612897",
+"parent":"A9r018BqT",
+"text":"",
+"mid":"A9x2JiYIp",
+"date":"2013-09-15 09:05:53"
+},
+{
+"kids":[],
+"uid":"1777494900",
+"parent":"",
+"text":"",
+"mid":"A9x0WsGpT",
+"date":"2013-09-15 09:01:30"
+},
+{
+"kids":[],
+"uid":"3738255505",
+"parent":"A9qTq753j",
+"text":"",
+"mid":"A9wYtp3OA",
+"date":"2013-09-15 08:55:24"
+},
+{
+"kids":[],
+"uid":"3315385395",
+"parent":"",
+"text":"",
+"mid":"A9wXlo9Yd",
+"date":"2013-09-15 08:52:38"
+},
+{
+"kids":[],
+"uid":"2657940722",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9wJUEmAu",
+"date":"2013-09-15 08:19:32"
+},
+{
+"kids":[],
+"uid":"3798993882",
+"parent":"",
+"text":"[怒]",
+"mid":"A9wJ5gzgm",
+"date":"2013-09-15 08:17:30"
+},
+{
+"kids":[],
+"uid":"3310811571",
+"parent":"",
+"text":"人性良知呢",
+"mid":"A9wIE5miy",
+"date":"2013-09-15 08:16:24"
+},
+{
+"kids":[],
+"uid":"2919621722",
+"parent":"A9rp339Zq",
+"text":"",
+"mid":"A9wFs4Noz",
+"date":"2013-09-15 08:08:32"
+},
+{
+"kids":[],
+"uid":"2919614644",
+"parent":"A9qRq3Auk",
+"text":"",
+"mid":"A9wD6FVG1",
+"date":"2013-09-15 08:02:46"
+},
+{
+"kids":[],
+"uid":"2869304804",
+"parent":"A9qRQjfVk",
+"text":"太气愤了！这种继子应该受法律严惩！！",
+"mid":"A9wtWtaW5",
+"date":"2013-09-15 07:40:12"
+},
+{
+"kids":[],
+"uid":"3044354202",
+"parent":"A9rp339Zq",
+"text":"",
+"mid":"A9wnshWgN",
+"date":"2013-09-15 07:24:13"
+},
+{
+"kids":[],
+"uid":"529412234",
+"parent":"",
+"text":"禽兽",
+"mid":"A9wdMqGrF",
+"date":"2013-09-15 07:00:23"
+},
+{
+"kids":[],
+"uid":"1008377542",
+"parent":"A9qNss6Pc",
+"text":"",
+"mid":"A9vOHgYM1",
+"date":"2013-09-15 05:58:35"
+},
+{
+"kids":[],
+"uid":"1989740585",
+"parent":"A9r4RlqSe",
+"text":"这种人以后老了也没人会养他[怒]",
+"mid":"A9v6YazC7",
+"date":"2013-09-15 04:10:51"
+},
+{
+"kids":[],
+"uid":"3515355825",
+"parent":"",
+"text":"",
+"mid":"A9uZHw5qR",
+"date":"2013-09-15 03:52:57"
+},
+{
+"kids":[],
+"uid":"2126675927",
+"parent":"",
+"text":"人性的丢失~这种人不能称之为人了~乌鸦反哺，动物尚知感恩~这种人该被社会遗弃~",
+"mid":"A9up0eK18",
+"date":"2013-09-15 02:22:32"
+},
+{
+"kids":[],
+"uid":"1655042104",
+"parent":"",
+"text":"养了只畜牲！[怒]",
+"mid":"A9um84kVW",
+"date":"2013-09-15 02:15:27"
+},
+{
+"kids":[],
+"uid":"sxm235",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9uanpme7",
+"date":"2013-09-15 01:46:30"
+},
+{
+"kids":[],
+"uid":"2056937561",
+"parent":"A9qRQjfVk",
+"text":"羔羊跪乳，乌鸦反哺，你这不是畜生不如！！！",
+"mid":"A9tTilkdu",
+"date":"2013-09-15 01:04:25"
+},
+{
+"kids":[],
+"uid":"shop67880006",
+"parent":"",
+"text":"这违法不？",
+"mid":"A9tJJjDBX",
+"date":"2013-09-15 00:40:51"
+},
+{
+"kids":[],
+"uid":"2942802501",
+"parent":"",
+"text":"这种狼心狗肺的畜牲当初就不应该养他",
+"mid":"A9tJkcwaA",
+"date":"2013-09-15 00:39:51"
+},
+{
+"kids":[],
+"uid":"2027514087",
+"parent":"",
+"text":"什么人啊这是[怒][怒][怒]",
+"mid":"A9tGr6jRS",
+"date":"2013-09-15 00:32:42"
+},
+{
+"kids":[],
+"uid":"2051416651",
+"parent":"",
+"text":"[怒][怒]",
+"mid":"A9tG8riG1",
+"date":"2013-09-15 00:31:56"
+},
+{
+"kids":[],
+"uid":"1862332081",
+"parent":"",
+"text":"我觉得还是海洋法系比较适合我们",
+"mid":"A9txv3A1f",
+"date":"2013-09-15 00:10:43"
+},
+{
+"kids":[],
+"uid":"2922008731",
+"parent":"",
+"text":"可以法院告他！继子先生，我代表广大人民群众祝福你：出门被车撞，喝水被水噎死，睡觉被招魂",
+"mid":"A9twgcINC",
+"date":"2013-09-15 00:07:40"
+},
+{
+"kids":[],
+"uid":"luqian0210",
+"parent":"",
+"text":"可恶[怒][怒]",
+"mid":"A9twf3peo",
+"date":"2013-09-15 00:07:37"
+},
+{
+"kids":[],
+"uid":"1760174317",
+"parent":"",
+"text":"",
+"mid":"A9tuUjKm2",
+"date":"2013-09-15 00:04:19"
+},
+{
+"kids":[],
+"uid":"2278329537",
+"parent":"",
+"text":"",
+"mid":"A9ttQnWas",
+"date":"2013-09-15 00:01:43"
+},
+{
+"kids":[
+"A9yx7Fdwj",
+"A9x4Bp3YT"
+],
+"uid":"1835682092",
+"parent":"A9qRQjfVk",
+"text":"真不要脸的人，你有本事把吃了人家的用了人家的都还回来，",
+"mid":"A9tohyvg9",
+"date":"2013-09-14 23:47:59"
+},
+{
+"kids":[],
+"uid":"hailanhu",
+"parent":"",
+"text":"",
+"mid":"A9tnlE2OY",
+"date":"2013-09-14 23:45:43"
+},
+{
+"kids":[],
+"uid":"1610881807",
+"parent":"",
+"text":"",
+"mid":"A9tmN7dQm",
+"date":"2013-09-14 23:44:19"
+},
+{
+"kids":[],
+"uid":"2869727090",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9tmK5WzU",
+"date":"2013-09-14 23:44:12"
+},
+{
+"kids":[],
+"uid":"1893029783",
+"parent":"",
+"text":"畜生！简直不是人！早知道小的时候就弄死他！",
+"mid":"A9tmJf1cz",
+"date":"2013-09-14 23:44:11"
+},
+{
+"kids":[],
+"uid":"1864227773",
+"parent":"A9qRQjfVk",
+"text":"真是畜生都不如。",
+"mid":"A9tmGjhOu",
+"date":"2013-09-14 23:44:04"
+},
+{
+"kids":[],
+"uid":"jufuxuan",
+"parent":"A9qRQjfVk",
+"text":"我最害怕的是：子欲养而亲不待。问一句，你们怎么想的？！！",
+"mid":"A9tmgikoW",
+"date":"2013-09-14 23:43:02"
+},
+{
+"kids":[],
+"uid":"3209062975",
+"parent":"",
+"text":"尼玛，真不是个东西，，，",
+"mid":"A9tkEEPNn",
+"date":"2013-09-14 23:39:03"
+},
+{
+"kids":[],
+"uid":"titi2727",
+"parent":"",
+"text":"是人伐！",
+"mid":"A9tjt8kfN",
+"date":"2013-09-14 23:36:06"
+},
+{
+"kids":[],
+"uid":"1919474705",
+"parent":"A9skpigQK",
+"text":"mlgb!!!![怒]",
+"mid":"A9teJnWOv",
+"date":"2013-09-14 23:24:29"
+},
+{
+"kids":[],
+"uid":"zwc1201violet",
+"parent":"",
+"text":"说话要又良心，举头三尺有神明啊。",
+"mid":"A9tdMiXwl",
+"date":"2013-09-14 23:22:08"
+},
+{
+"kids":[],
+"uid":"3633316015",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9tclmx3V",
+"date":"2013-09-14 23:18:34"
+},
+{
+"kids":[],
+"uid":"2108331812",
+"parent":"",
+"text":"畜牲啊[怒][怒]",
+"mid":"A9tci7AaL",
+"date":"2013-09-14 23:18:29"
+},
+{
+"kids":[],
+"uid":"pangpangdoudou",
+"parent":"",
+"text":"每个人都会老的！",
+"mid":"A9t8WFf3f",
+"date":"2013-09-14 23:10:15"
+},
+{
+"kids":[],
+"uid":"1668261935",
+"parent":"",
+"text":"",
+"mid":"A9t8xfq44",
+"date":"2013-09-14 23:09:13"
+},
+{
+"kids":[],
+"uid":"1613139627",
+"parent":"",
+"text":"这个人真没良心哈！",
+"mid":"A9t7TCmF0",
+"date":"2013-09-14 23:07:40"
+},
+{
+"kids":[
+"A9yf7AJ4z",
+"A9yaszOQc"
+],
+"uid":"3594932301",
+"parent":"",
+"text":"如果是个人'就不会于此说话！",
+"mid":"A9t7d9uRg",
+"date":"2013-09-14 23:05:57"
+},
+{
+"kids":[],
+"uid":"1950988442",
+"parent":"",
+"text":"愤怒呀，让我怎么传递正能量，一上网看到的都是畜生，要么贪官，[生病]",
+"mid":"A9t6I7zcG",
+"date":"2013-09-14 23:04:39"
+},
+{
+"kids":[],
+"uid":"2603203644",
+"parent":"",
+"text":"人在做天在看！",
+"mid":"A9t5nlF5j",
+"date":"2013-09-14 23:01:26"
+},
+{
+"kids":[],
+"uid":"2632766073",
+"parent":"",
+"text":"禽兽！",
+"mid":"A9t5k54Gh",
+"date":"2013-09-14 23:01:19"
+},
+{
+"kids":[],
+"uid":"aamandafy",
+"parent":"",
+"text":"[弱]",
+"mid":"A9t4xkoSZ",
+"date":"2013-09-14 22:59:22"
+},
+{
+"kids":[],
+"uid":"ruyi1824",
+"parent":"A9sZA3OnP",
+"text":"妈了逼啊[怒]",
+"mid":"A9t132Skm",
+"date":"2013-09-14 22:50:46"
+},
+{
+"kids":[],
+"uid":"shkevincn",
+"parent":"A9sVUdEqq",
+"text":"我认为我没有教好孩子的能力",
+"mid":"A9t0g0fMv",
+"date":"2013-09-14 22:48:48"
+},
+{
+"kids":[
+"A9t132Skm"
+],
+"uid":"1073549424",
+"parent":"A9qOY7LQJ",
+"text":"操",
+"mid":"A9sZA3OnP",
+"date":"2013-09-14 22:47:09"
+},
+{
+"kids":[],
+"uid":"1304647623",
+"parent":"",
+"text":"[怒][怒][怒]",
+"mid":"A9sYnhYz4",
+"date":"2013-09-14 22:44:11"
+},
+{
+"kids":[],
+"uid":"1768102762",
+"parent":"A9sOnia4J",
+"text":"",
+"mid":"A9sXDqzcA",
+"date":"2013-09-14 22:42:22"
+},
+{
+"kids":[],
+"uid":"2656722412",
+"parent":"",
+"text":"那现在到底有没有人管嘛？",
+"mid":"A9sX0b2WA",
+"date":"2013-09-14 22:40:48"
+},
+{
+"kids":[],
+"uid":"2653089801",
+"parent":"",
+"text":"会遭报应的",
+"mid":"A9sWb4XZD",
+"date":"2013-09-14 22:38:45"
+},
+{
+"kids":[
+"A9t0g0fMv"
+],
+"uid":"lxj0807",
+"parent":"A9rExFy6V",
+"text":"你有些以偏概全，孩子关键还是要教，宠坏的父母自己本身就有错",
+"mid":"A9sVUdEqq",
+"date":"2013-09-14 22:38:06"
+},
+{
+"kids":[],
+"uid":"2214280150",
+"parent":"A9qNJ4DYQ",
+"text":"这都他妈的是什么人渣，哎",
+"mid":"A9sVsaGYR",
+"date":"2013-09-14 22:36:57"
+},
+{
+"kids":[],
+"uid":"1248328627",
+"parent":"",
+"text":"你的行为你的孩子在看，报应在后头。",
+"mid":"A9sUsnZu0",
+"date":"2013-09-14 22:34:32"
+},
+{
+"kids":[],
+"uid":"2334396433",
+"parent":"",
+"text":"人性没了就得法律制裁了，法律你要也睁一只眼闭一只眼，就该公愤失民心了。",
+"mid":"A9sTN3bQq",
+"date":"2013-09-14 22:32:50"
+},
+{
+"kids":[],
+"uid":"yuelhui",
+"parent":"",
+"text":"丧尽天良",
+"mid":"A9sTsj5yA",
+"date":"2013-09-14 22:32:02"
+},
+{
+"kids":[],
+"uid":"1118wen",
+"parent":"",
+"text":"养育之恩大于生育之恩啊·····哎·····",
+"mid":"A9sSc3Sli",
+"date":"2013-09-14 22:28:55"
+},
+{
+"kids":[],
+"uid":"3626255555",
+"parent":"",
+"text":"",
+"mid":"A9sRAu2Ga",
+"date":"2013-09-14 22:27:26"
+},
+{
+"kids":[],
+"uid":"1846733403",
+"parent":"",
+"text":"谁厌世的、带上这厮一起走！",
+"mid":"A9sRczgXs",
+"date":"2013-09-14 22:26:31"
+},
+{
+"kids":[],
+"uid":"1306723393",
+"parent":"",
+"text":"人渣，你怎么出门不被车撞死啊，良心被喵星人啃了吧[怒]",
+"mid":"A9sR0aGfl",
+"date":"2013-09-14 22:26:01"
+},
+{
+"kids":[],
+"uid":"2716559711",
+"parent":"",
+"text":"法律呢？",
+"mid":"A9sQZxo7Q",
+"date":"2013-09-14 22:25:59"
+},
+{
+"kids":[],
+"uid":"2027685583",
+"parent":"A9sc30lhG",
+"text":"还是不是人?看到这种新闻都是灰常心酸，为什么人总是有那么多的没良心[怒][怒][怒][怒][怒]",
+"mid":"A9sQD8Fde",
+"date":"2013-09-14 22:25:05"
+},
+{
+"kids":[],
+"uid":"lizzy020482",
+"parent":"A9s2hfJt9",
+"text":"[愤怒]",
+"mid":"A9sQbDiSQ",
+"date":"2013-09-14 22:23:59"
+},
+{
+"kids":[],
+"uid":"1495698253",
+"parent":"",
+"text":"",
+"mid":"A9sPA4c0i",
+"date":"2013-09-14 22:22:30"
+},
+{
+"kids":[],
+"uid":"1998895763",
+"parent":"",
+"text":"告他！",
+"mid":"A9sPd3MxB",
+"date":"2013-09-14 22:21:34"
+},
+{
+"kids":[],
+"uid":"627789815",
+"parent":"",
+"text":"轉發微博",
+"mid":"A9sOr9QI7",
+"date":"2013-09-14 22:19:43"
+},
+{
+"kids":[
+"A9sXDqzcA"
+],
+"uid":"1057435387",
+"parent":"A9sNYwiXS",
+"text":"造孽啊",
+"mid":"A9sOnia4J",
+"date":"2013-09-14 22:19:31"
+},
+{
+"kids":[
+"A9sXDqzcA",
+"A9sOnia4J"
+],
+"uid":"1801496630",
+"parent":"A9s2hfJt9",
+"text":"畜生不如",
+"mid":"A9sNYwiXS",
+"date":"2013-09-14 22:18:34"
+},
+{
+"kids":[],
+"uid":"2143860995",
+"parent":"",
+"text":"",
+"mid":"A9sNDf9dW",
+"date":"2013-09-14 22:17:41"
+},
+{
+"kids":[],
+"uid":"520308821",
+"parent":"",
+"text":"[泪]看完心里酸酸的",
+"mid":"A9sNpjSxY",
+"date":"2013-09-14 22:17:10"
+},
+{
+"kids":[],
+"uid":"crashonchris",
+"parent":"",
+"text":"[鄙视][鄙视][鄙视][鄙视]",
+"mid":"A9sMEnFNC",
+"date":"2013-09-14 22:15:18"
+},
+{
+"kids":[],
+"uid":"2093039212",
+"parent":"",
+"text":"",
+"mid":"A9sLZ0HnL",
+"date":"2013-09-14 22:13:37"
+},
+{
+"kids":[
+"A9xF4bWMV"
+],
+"uid":"2901422395",
+"parent":"",
+"text":"现在亲生的都孝那！更何况这个不是了。",
+"mid":"A9sKyEUYm",
+"date":"2013-09-14 22:10:09"
+},
+{
+"kids":[],
+"uid":"1988850445",
+"parent":"A9sFGD95k",
+"text":"",
+"mid":"A9sKq3OEb",
+"date":"2013-09-14 22:09:48"
+},
+{
+"kids":[],
+"uid":"1036047523",
+"parent":"A9qRQjfVk",
+"text":"这世态阿。",
+"mid":"A9sJrdRl0",
+"date":"2013-09-14 22:07:23"
+},
+{
+"kids":[],
+"uid":"yeziguo1991",
+"parent":"",
+"text":"又来一个畜生",
+"mid":"A9sI69Zjq",
+"date":"2013-09-14 22:04:06"
+},
+{
+"kids":[],
+"uid":"2245279515",
+"parent":"",
+"text":"会遭报应的[怒]",
+"mid":"A9sHQdUxU",
+"date":"2013-09-14 22:03:27"
+},
+{
+"kids":[
+"A9sKq3OEb"
+],
+"uid":"2274494870",
+"parent":"A9qR5F2ow",
+"text":"",
+"mid":"A9sFGD95k",
+"date":"2013-09-14 21:58:10"
+},
+{
+"kids":[],
+"uid":"3169818604",
+"parent":"",
+"text":"[怒][怒][怒][怒][怒]",
+"mid":"A9sFDodET",
+"date":"2013-09-14 21:58:01"
+},
+{
+"kids":[],
+"uid":"2315872291",
+"parent":"",
+"text":"就两个字！畜生",
+"mid":"A9sFnsG9O",
+"date":"2013-09-14 21:57:23"
+},
+{
+"kids":[],
+"uid":"2441320992",
+"parent":"A9qRQjfVk",
+"text":"这种人真心活着都是在浪费国家粮食",
+"mid":"A9sFjAbMc",
+"date":"2013-09-14 21:57:15"
+},
+{
+"kids":[],
+"uid":"2341874734",
+"parent":"A9r8yCIbb",
+"text":"",
+"mid":"A9sEYD5tB",
+"date":"2013-09-14 21:56:23"
+},
+{
+"kids":[],
+"uid":"2354196373",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9sEY0UPK",
+"date":"2013-09-14 21:56:21"
+},
+{
+"kids":[],
+"uid":"2081126351",
+"parent":"",
+"text":"[怒]",
+"mid":"A9sEWeqOk",
+"date":"2013-09-14 21:56:18"
+},
+{
+"kids":[],
+"uid":"2792120733",
+"parent":"",
+"text":"",
+"mid":"A9sENFg5d",
+"date":"2013-09-14 21:55:58"
+},
+{
+"kids":[],
+"uid":"207073550",
+"parent":"",
+"text":"[奥特曼][鄙视]",
+"mid":"A9sEgyh9V",
+"date":"2013-09-14 21:54:39"
+},
+{
+"kids":[],
+"uid":"2966165887",
+"parent":"A9skpigQK",
+"text":"",
+"mid":"A9sCE7jTf",
+"date":"2013-09-14 21:50:39"
+},
+{
+"kids":[],
+"uid":"3557665363",
+"parent":"",
+"text":"",
+"mid":"A9sCfkNYF",
+"date":"2013-09-14 21:49:40"
+},
+{
+"kids":[],
+"uid":"2679415983",
+"parent":"",
+"text":"",
+"mid":"A9sC7DD2A",
+"date":"2013-09-14 21:49:20"
+},
+{
+"kids":[],
+"uid":"2057435353",
+"parent":"A9sa2fM1l",
+"text":"不如养条狗！！",
+"mid":"A9sBmEbq6",
+"date":"2013-09-14 21:47:29"
+},
+{
+"kids":[],
+"uid":"2643190713",
+"parent":"",
+"text":"该天杀的东西，人肉他吧！",
+"mid":"A9sBlbhhs",
+"date":"2013-09-14 21:47:26"
+},
+{
+"kids":[],
+"uid":"3646586093",
+"parent":"A9skpigQK",
+"text":"猪狗不如啊、",
+"mid":"A9sAe1Yye",
+"date":"2013-09-14 21:44:41"
+},
+{
+"kids":[],
+"uid":"577115372",
+"parent":"",
+"text":"畜生儿子必遭报应[怒]",
+"mid":"A9szG2llt",
+"date":"2013-09-14 21:43:21"
+},
+{
+"kids":[],
+"uid":"2402453507",
+"parent":"A9qRQjfVk",
+"text":"唉…[怒]",
+"mid":"A9szdFh36",
+"date":"2013-09-14 21:42:13"
+},
+{
+"kids":[],
+"uid":"1728710791",
+"parent":"",
+"text":"不赡养老人枪毙",
+"mid":"A9syJvtOw",
+"date":"2013-09-14 21:41:02"
+},
+{
+"kids":[],
+"uid":"3198571347",
+"parent":"A9rRGBj6p",
+"text":"人性呢[怒]",
+"mid":"A9syA6XSD",
+"date":"2013-09-14 21:40:36"
+},
+{
+"kids":[],
+"uid":"1728710791",
+"parent":"",
+"text":"白眼狼，直接送到监狱",
+"mid":"A9sywu5RE",
+"date":"2013-09-14 21:40:29"
+},
+{
+"kids":[],
+"uid":"2667500143",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9swgcrdM",
+"date":"2013-09-14 21:34:54"
+},
+{
+"kids":[],
+"uid":"2253128762",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9sw43VJo",
+"date":"2013-09-14 21:34:25"
+},
+{
+"kids":[],
+"uid":"2673918912",
+"parent":"A9qRQjfVk",
+"text":"良心被狗吃了！",
+"mid":"A9svFvXgS",
+"date":"2013-09-14 21:33:25"
+},
+{
+"kids":[],
+"uid":"2755369165",
+"parent":"A9rsLf0dA",
+"text":"[怒][怒][怒]",
+"mid":"A9svDtpdT",
+"date":"2013-09-14 21:33:24"
+},
+{
+"kids":[],
+"uid":"2457210812",
+"parent":"A9rHUxuKW",
+"text":"[怒][怒][怒]",
+"mid":"A9svqtbWl",
+"date":"2013-09-14 21:32:52"
+},
+{
+"kids":[],
+"uid":"2426590583",
+"parent":"A9skpigQK",
+"text":"好贱啊!!",
+"mid":"A9sv93b8q",
+"date":"2013-09-14 21:32:08"
+},
+{
+"kids":[],
+"uid":"1799502401",
+"parent":"",
+"text":"人渣![怒]",
+"mid":"A9su6iEqW",
+"date":"2013-09-14 21:29:36"
+},
+{
+"kids":[],
+"uid":"3173942673",
+"parent":"A9sgYx3Gl",
+"text":"操，刀呢[酷库熊怒]",
+"mid":"A9sroa2uu",
+"date":"2013-09-14 21:22:56"
+},
+{
+"kids":[],
+"uid":"572299746",
+"parent":"A9sgYx3Gl",
+"text":"良心被狗吃了",
+"mid":"A9srn1vcb",
+"date":"2013-09-14 21:22:50"
+},
+{
+"kids":[],
+"uid":"2944277514",
+"parent":"",
+"text":"[怒]",
+"mid":"A9sr1oszI",
+"date":"2013-09-14 21:21:59"
+},
+{
+"kids":[],
+"uid":"hanliangbit",
+"parent":"",
+"text":"人渣",
+"mid":"A9sqIc2Yl",
+"date":"2013-09-14 21:21:14"
+},
+{
+"kids":[],
+"uid":"1947803971",
+"parent":"A9qRQjfVk",
+"text":"把个龟儿子掐死算了！[怒]",
+"mid":"A9sq2efEy",
+"date":"2013-09-14 21:19:34"
+},
+{
+"kids":[],
+"uid":"877824234",
+"parent":"A9qRQjfVk",
+"text":"[哼]",
+"mid":"A9spNu9ad",
+"date":"2013-09-14 21:18:58"
+},
+{
+"kids":[],
+"uid":"1822619340",
+"parent":"",
+"text":"不知道说什么好了[怒]",
+"mid":"A9so1z48f",
+"date":"2013-09-14 21:14:38"
+},
+{
+"kids":[],
+"uid":"1971739970",
+"parent":"A9skpigQK",
+"text":"[怒][怒][怒]",
+"mid":"A9smLyJdu",
+"date":"2013-09-14 21:11:32"
+},
+{
+"kids":[],
+"uid":"1703939935",
+"parent":"",
+"text":"这样的人不配活在地球上。",
+"mid":"A9smBbFgO",
+"date":"2013-09-14 21:11:07"
+},
+{
+"kids":[],
+"uid":"xiaoxuanxuansmile",
+"parent":"",
+"text":"是人吗",
+"mid":"A9slw7Ufh",
+"date":"2013-09-14 21:08:27"
+},
+{
+"kids":[],
+"uid":"3312052505",
+"parent":"",
+"text":"怎么看……",
+"mid":"A9skUgVRo",
+"date":"2013-09-14 21:06:57"
+},
+{
+"kids":[],
+"uid":"2562137902",
+"parent":"",
+"text":"不是有立法吗？应当清继子的家当用来养老。",
+"mid":"A9sktEYas",
+"date":"2013-09-14 21:05:54"
+},
+{
+"kids":[
+"A9teJnWOv",
+"A9sCE7jTf",
+"A9sAe1Yye",
+"A9sv93b8q",
+"A9smLyJdu"
+],
+"uid":"06221006",
+"parent":"A9seAu7sT",
+"text":"请右边不要侮辱“畜生”这个词",
+"mid":"A9skpigQK",
+"date":"2013-09-14 21:05:44"
+},
+{
+"kids":[],
+"uid":"2369650793",
+"parent":"",
+"text":"",
+"mid":"A9sk4zfLK",
+"date":"2013-09-14 21:04:52"
+},
+{
+"kids":[
+"AaUX9BpjG",
+"AaTgU3kUQ",
+"A9RuSEiuY",
+"A9GRa4zVH",
+"A9FG51pFN"
+],
+"uid":"3567938893",
+"parent":"A9qRQjfVk",
+"text":"[怒]人性呢？",
+"mid":"A9sk2eL8B",
+"date":"2013-09-14 21:04:47"
+},
+{
+"kids":[],
+"uid":"1976807131",
+"parent":"",
+"text":"真是人渣[怒][怒][怒]",
+"mid":"A9sioi65d",
+"date":"2013-09-14 21:00:45"
+},
+{
+"kids":[],
+"uid":"2440694985",
+"parent":"",
+"text":"",
+"mid":"A9si9tvx4",
+"date":"2013-09-14 21:00:09"
+},
+{
+"kids":[],
+"uid":"2799652770",
+"parent":"",
+"text":"没人性的畜生！等他老了让他们横尸街头[愤怒][愤怒]",
+"mid":"A9shLz3dg",
+"date":"2013-09-14 20:59:13"
+},
+{
+"kids":[],
+"uid":"2709782867",
+"parent":"A9seAu7sT",
+"text":"畜生",
+"mid":"A9shggIfc",
+"date":"2013-09-14 20:57:57"
+},
+{
+"kids":[
+"A9sroa2uu",
+"A9srn1vcb"
+],
+"uid":"3306810883",
+"parent":"A9s3ZktMg",
+"text":"良心何在！！！！！[怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒]",
+"mid":"A9sgYx3Gl",
+"date":"2013-09-14 20:57:15"
+},
+{
+"kids":[],
+"uid":"2801561842",
+"parent":"",
+"text":"真他妈混蛋到家了，他妈神马玩意，",
+"mid":"A9sg0fvhG",
+"date":"2013-09-14 20:54:50"
+},
+{
+"kids":[],
+"uid":"jackier2040293467",
+"parent":"",
+"text":"白眼狼呀[怒]",
+"mid":"A9sfPixfV",
+"date":"2013-09-14 20:54:25"
+},
+{
+"kids":[],
+"uid":"2824045860",
+"parent":"",
+"text":"这就是传说中的白眼狼",
+"mid":"A9sfvf8KU",
+"date":"2013-09-14 20:53:37"
+},
+{
+"kids":[],
+"uid":"2835563563",
+"parent":"A9qRQjfVk",
+"text":"[怒骂]",
+"mid":"A9seSsHu9",
+"date":"2013-09-14 20:52:06"
+},
+{
+"kids":[],
+"uid":"2307966033",
+"parent":"",
+"text":"狗都吃不到他的良心",
+"mid":"A9seEkHOJ",
+"date":"2013-09-14 20:51:31"
+},
+{
+"kids":[
+"A9teJnWOv",
+"A9sCE7jTf",
+"A9sAe1Yye",
+"A9sv93b8q",
+"A9smLyJdu",
+"A9skpigQK",
+"A9shggIfc"
+],
+"uid":"1678899162",
+"parent":"",
+"text":"逆子！",
+"mid":"A9seAu7sT",
+"date":"2013-09-14 20:51:21"
+},
+{
+"kids":[],
+"uid":"johnzcl",
+"parent":"",
+"text":"看到这样的新闻就想说操他妈，真不如养条狗。",
+"mid":"A9semAFw3",
+"date":"2013-09-14 20:50:47"
+},
+{
+"kids":[],
+"uid":"533216234",
+"parent":"",
+"text":"",
+"mid":"A9sehgann",
+"date":"2013-09-14 20:50:35"
+},
+{
+"kids":[],
+"uid":"2653202233",
+"parent":"",
+"text":"不要脸，把他人肉了！！！",
+"mid":"A9sebD7pp",
+"date":"2013-09-14 20:50:25"
+},
+{
+"kids":[],
+"uid":"1767734412",
+"parent":"",
+"text":"白眼狼[怒]",
+"mid":"A9scJv5Gj",
+"date":"2013-09-14 20:46:49"
+},
+{
+"kids":[],
+"uid":"2717072611",
+"parent":"",
+"text":"",
+"mid":"A9scaF4tn",
+"date":"2013-09-14 20:45:26"
+},
+{
+"kids":[
+"A9sQD8Fde"
+],
+"uid":"haochuan",
+"parent":"",
+"text":"操操操操...",
+"mid":"A9sc30lhG",
+"date":"2013-09-14 20:45:08"
+},
+{
+"kids":[],
+"uid":"2577959662",
+"parent":"",
+"text":"",
+"mid":"A9sbYxlXO",
+"date":"2013-09-14 20:44:58"
+},
+{
+"kids":[],
+"uid":"2245035901",
+"parent":"",
+"text":"畜生！[怒]",
+"mid":"A9sbV1zxR",
+"date":"2013-09-14 20:44:48"
+},
+{
+"kids":[],
+"uid":"1945508650",
+"parent":"",
+"text":"",
+"mid":"A9sbI2PMz",
+"date":"2013-09-14 20:44:16"
+},
+{
+"kids":[],
+"uid":"calendar2012",
+"parent":"",
+"text":"",
+"mid":"A9sbFn66O",
+"date":"2013-09-14 20:44:11"
+},
+{
+"kids":[
+"A9sBmEbq6"
+],
+"uid":"149845269",
+"parent":"",
+"text":"现代社会怎么那么多脑残，垃圾……上有贪官，叫兽，下有白眼狼等，真是让人失望",
+"mid":"A9sa2fM1l",
+"date":"2013-09-14 20:40:08"
+},
+{
+"kids":[],
+"uid":"2138599297",
+"parent":"A9qRQjfVk",
+"text":"良心喂狗了?",
+"mid":"A9s9JE0Xp",
+"date":"2013-09-14 20:39:27"
+},
+{
+"kids":[],
+"uid":"3165301964",
+"parent":"",
+"text":"养了白眼狼",
+"mid":"A9s9CywFS",
+"date":"2013-09-14 20:39:08"
+},
+{
+"kids":[],
+"uid":"2437561390",
+"parent":"",
+"text":"好惨啊~",
+"mid":"A9s9t5VDQ",
+"date":"2013-09-14 20:38:46"
+},
+{
+"kids":[],
+"uid":"2675621072",
+"parent":"",
+"text":"这种货估计把它归到畜生队伍里畜生都不会要他！",
+"mid":"A9s9rF1R1",
+"date":"2013-09-14 20:38:44"
+},
+{
+"kids":[],
+"uid":"1930569375",
+"parent":"",
+"text":"",
+"mid":"A9s7TA7sY",
+"date":"2013-09-14 20:34:55"
+},
+{
+"kids":[],
+"uid":"2271471157",
+"parent":"",
+"text":"",
+"mid":"A9s7Q5FFv",
+"date":"2013-09-14 20:34:43"
+},
+{
+"kids":[],
+"uid":"3188772752",
+"parent":"",
+"text":"做人怎么能这样，也不怕雷劈",
+"mid":"A9s7o2hSv",
+"date":"2013-09-14 20:33:36"
+},
+{
+"kids":[],
+"uid":"17795540",
+"parent":"",
+"text":"[怒]",
+"mid":"A9s76ignG",
+"date":"2013-09-14 20:32:54"
+},
+{
+"kids":[],
+"uid":"1027383391",
+"parent":"",
+"text":"有些人不能叫人",
+"mid":"A9s71v9rp",
+"date":"2013-09-14 20:32:45"
+},
+{
+"kids":[],
+"uid":"3756689313",
+"parent":"",
+"text":"继母就该有这样的下场吗？",
+"mid":"A9s6Wc91I",
+"date":"2013-09-14 20:32:33"
+},
+{
+"kids":[],
+"uid":"2164968011",
+"parent":"",
+"text":"",
+"mid":"A9s6NnnXp",
+"date":"2013-09-14 20:32:09"
+},
+{
+"kids":[],
+"uid":"3735323234",
+"parent":"",
+"text":"尼玛！",
+"mid":"A9s6IDyw0",
+"date":"2013-09-14 20:32:00"
+},
+{
+"kids":[],
+"uid":"1900995975",
+"parent":"",
+"text":"@feifeizai21 人渣！妈的这么看这种帖子那么气愤！[怒][怒][怒]",
+"mid":"A9s6maGu7",
+"date":"2013-09-14 20:31:04"
+},
+{
+"kids":[],
+"uid":"2470708841",
+"parent":"A9rWMfVeZ",
+"text":"是人吗[愤怒][愤怒][愤怒]",
+"mid":"A9s60BasW",
+"date":"2013-09-14 20:30:14"
+},
+{
+"kids":[],
+"uid":"2151341281",
+"parent":"",
+"text":"",
+"mid":"A9s5H7rJH",
+"date":"2013-09-14 20:29:26"
+},
+{
+"kids":[
+"A9OYxEtbJ"
+],
+"uid":"juanlianmenami",
+"parent":"",
+"text":"",
+"mid":"A9s4R6iRJ",
+"date":"2013-09-14 20:27:23"
+},
+{
+"kids":[
+"A9sroa2uu",
+"A9srn1vcb",
+"A9sgYx3Gl"
+],
+"uid":"572299746",
+"parent":"A9rWMfVeZ",
+"text":"心被狗吃了[怒][怒][怒][怒][怒]",
+"mid":"A9s3ZktMg",
+"date":"2013-09-14 20:25:15"
+},
+{
+"kids":[],
+"uid":"1964959201",
+"parent":"",
+"text":"人心啊",
+"mid":"A9s3TmkK3",
+"date":"2013-09-14 20:25:02"
+},
+{
+"kids":[],
+"uid":"3146841722",
+"parent":"A9qRQjfVk",
+"text":"怒转[怒]，当地政府没人管了吗？",
+"mid":"A9s3G4B7D",
+"date":"2013-09-14 20:24:30"
+},
+{
+"kids":[],
+"uid":"2789273043",
+"parent":"",
+"text":"看着想流泪，",
+"mid":"A9s3h0sml",
+"date":"2013-09-14 20:23:30"
+},
+{
+"kids":[],
+"uid":"3211787850",
+"parent":"",
+"text":"[怒]有人形，没人性！",
+"mid":"A9s3fu7M1",
+"date":"2013-09-14 20:23:27"
+},
+{
+"kids":[],
+"uid":"1636372775",
+"parent":"A9qRQjfVk",
+"text":"[怒][怒]",
+"mid":"A9s3bC5D6",
+"date":"2013-09-14 20:23:17"
+},
+{
+"kids":[],
+"uid":"3584422911",
+"parent":"",
+"text":"到底还有没有一点良知!人性![怒][怒][怒][怒]",
+"mid":"A9s37gDrN",
+"date":"2013-09-14 20:23:04"
+},
+{
+"kids":[
+"A9sXDqzcA",
+"A9sQbDiSQ",
+"A9sOnia4J",
+"A9sNYwiXS"
+],
+"uid":"asukaflower",
+"parent":"A9rnM6MQz",
+"text":"畜生死不光",
+"mid":"A9s2hfJt9",
+"date":"2013-09-14 20:21:01"
+},
+{
+"kids":[],
+"uid":"2344003945",
+"parent":"A9qRQjfVk",
+"text":"这种人渣！不得好死[怒][怒][怒][怒][怒]",
+"mid":"A9s1NFWdp",
+"date":"2013-09-14 20:19:51"
+},
+{
+"kids":[],
+"uid":"maples928",
+"parent":"",
+"text":"",
+"mid":"A9s0EcnwR",
+"date":"2013-09-14 20:17:00"
+},
+{
+"kids":[],
+"uid":"1984977907",
+"parent":"",
+"text":"",
+"mid":"A9s0xE6Ih",
+"date":"2013-09-14 20:16:46"
+},
+{
+"kids":[],
+"uid":"2489511265",
+"parent":"",
+"text":"",
+"mid":"A9rZXzuvg",
+"date":"2013-09-14 20:15:22"
+},
+{
+"kids":[],
+"uid":"1416004393",
+"parent":"",
+"text":"人渣!",
+"mid":"A9rZBrfsc",
+"date":"2013-09-14 20:14:28"
+},
+{
+"kids":[],
+"uid":"2727986697",
+"parent":"",
+"text":"",
+"mid":"A9rYmjbTJ",
+"date":"2013-09-14 20:11:24"
+},
+{
+"kids":[],
+"uid":"2127874103",
+"parent":"",
+"text":"",
+"mid":"A9rY1kiOr",
+"date":"2013-09-14 20:10:31"
+},
+{
+"kids":[],
+"uid":"2623117915",
+"parent":"",
+"text":"@948微江湖",
+"mid":"A9rXNtqNv",
+"date":"2013-09-14 20:10:01"
+},
+{
+"kids":[
+"A9sroa2uu",
+"A9srn1vcb",
+"A9sgYx3Gl",
+"A9s60BasW",
+"A9s3ZktMg"
+],
+"uid":"2335326225",
+"parent":"A9r5tsK1l",
+"text":"尼玛[怒][怒][怒][怒][怒][怒][怒][怒]",
+"mid":"A9rWMfVeZ",
+"date":"2013-09-14 20:07:29"
+},
+{
+"kids":[],
+"uid":"2609290693",
+"parent":"",
+"text":"",
+"mid":"A9rWLmG9t",
+"date":"2013-09-14 20:07:27"
+},
+{
+"kids":[],
+"uid":"2743095827",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9rWvnqWE",
+"date":"2013-09-14 20:06:49"
+},
+{
+"kids":[],
+"uid":"2941958643",
+"parent":"A9rial0Py",
+"text":"等着吧 以后他们的子女也会这样对他们的",
+"mid":"A9rW5oFjB",
+"date":"2013-09-14 20:05:47"
+},
+{
+"kids":[],
+"uid":"2263974202",
+"parent":"",
+"text":"我养了一条狗，他知道感恩，我养了一个人，他反而要了我一口。",
+"mid":"A9rVhqC90",
+"date":"2013-09-14 20:03:47"
+},
+{
+"kids":[],
+"uid":"2542771203",
+"parent":"",
+"text":"心是铁做的吗？",
+"mid":"A9rUZ8ibf",
+"date":"2013-09-14 20:03:03"
+},
+{
+"kids":[],
+"uid":"1708283450",
+"parent":"A9qRQjfVk",
+"text":"生恩不如养恩[怒]",
+"mid":"A9rUPCimS",
+"date":"2013-09-14 20:02:42"
+},
+{
+"kids":[],
+"uid":"2820512497",
+"parent":"",
+"text":"一群畜生",
+"mid":"A9rUahgic",
+"date":"2013-09-14 20:01:03"
+},
+{
+"kids":[],
+"uid":"2916621610",
+"parent":"",
+"text":"尽快想办法把那些人渣处理掉，相关部门赶快行动，没有作为，要你们当官的顶个屁用啊。[鄙视][怒][lxhx狠]",
+"mid":"A9rTx1bDa",
+"date":"2013-09-14 19:59:30"
+},
+{
+"kids":[],
+"uid":"alondight",
+"parent":"",
+"text":"这人就是畜生",
+"mid":"A9rTo7gFD",
+"date":"2013-09-14 19:59:10"
+},
+{
+"kids":[],
+"uid":"1131416594",
+"parent":"",
+"text":"人渣",
+"mid":"A9rSwEWin",
+"date":"2013-09-14 19:57:02"
+},
+{
+"kids":[
+"A9syA6XSD"
+],
+"uid":"yuedewuyu",
+"parent":"",
+"text":"[怒]人渣",
+"mid":"A9rRGBj6p",
+"date":"2013-09-14 19:54:58"
+},
+{
+"kids":[],
+"uid":"1692483843",
+"parent":"A9qRQjfVk",
+"text":"[怒][怒][怒]",
+"mid":"A9rRArBT4",
+"date":"2013-09-14 19:54:43"
+},
+{
+"kids":[],
+"uid":"570522335",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9rRzgLsv",
+"date":"2013-09-14 19:54:40"
+},
+{
+"kids":[],
+"uid":"2281075414",
+"parent":"",
+"text":"",
+"mid":"A9rRt4uyF",
+"date":"2013-09-14 19:54:25"
+},
+{
+"kids":[],
+"uid":"2135410512",
+"parent":"",
+"text":"畜生！",
+"mid":"A9rR2tSkY",
+"date":"2013-09-14 19:53:22"
+},
+{
+"kids":[],
+"uid":"3149130291",
+"parent":"",
+"text":"人渣",
+"mid":"A9rQDkAGJ",
+"date":"2013-09-14 19:52:20"
+},
+{
+"kids":[],
+"uid":"1810473394",
+"parent":"",
+"text":"求曝光儿子",
+"mid":"A9rQd3mkG",
+"date":"2013-09-14 19:51:17"
+},
+{
+"kids":[],
+"uid":"2556080962",
+"parent":"",
+"text":"这种人不配活到现在",
+"mid":"A9rQ9ebiU",
+"date":"2013-09-14 19:51:10"
+},
+{
+"kids":[],
+"uid":"2031940031",
+"parent":"",
+"text":"简直是畜生，该死的人。",
+"mid":"A9rOBcwwp",
+"date":"2013-09-14 19:47:19"
+},
+{
+"kids":[],
+"uid":"2012295891",
+"parent":"",
+"text":"",
+"mid":"A9rMRj1Qg",
+"date":"2013-09-14 19:43:02"
+},
+{
+"kids":[],
+"uid":"1774392531",
+"parent":"A9qRQjfVk",
+"text":"不如养条狗",
+"mid":"A9rMvseuU",
+"date":"2013-09-14 19:42:11"
+},
+{
+"kids":[],
+"uid":"2432137660",
+"parent":"A9qRQjfVk",
+"text":"杀之",
+"mid":"A9rMpuXIS",
+"date":"2013-09-14 19:41:56"
+},
+{
+"kids":[],
+"uid":"2912633benben",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9rMku2j2",
+"date":"2013-09-14 19:41:43"
+},
+{
+"kids":[],
+"uid":"1784642742",
+"parent":"",
+"text":"不看望老人都违法，这个该直接毙了吧。",
+"mid":"A9rKSnrze",
+"date":"2013-09-14 19:38:12"
+},
+{
+"kids":[],
+"uid":"3012782891",
+"parent":"",
+"text":"",
+"mid":"A9rKDzeYa",
+"date":"2013-09-14 19:37:36"
+},
+{
+"kids":[],
+"uid":"3702864994",
+"parent":"",
+"text":"[怒][怒]",
+"mid":"A9rKslAvS",
+"date":"2013-09-14 19:37:09"
+},
+{
+"kids":[],
+"uid":"3786228812",
+"parent":"",
+"text":"冷得让人心寒",
+"mid":"A9rJIAiDt",
+"date":"2013-09-14 19:35:21"
+},
+{
+"kids":[],
+"uid":"2372830874",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9rJkDIji",
+"date":"2013-09-14 19:34:23"
+},
+{
+"kids":[],
+"uid":"1820610483",
+"parent":"",
+"text":"禽兽不如[怒][怒][怒]",
+"mid":"A9rJkm6TT",
+"date":"2013-09-14 19:34:22"
+},
+{
+"kids":[],
+"uid":"2263165252",
+"parent":"",
+"text":"[怒]",
+"mid":"A9rJ5yuF4",
+"date":"2013-09-14 19:33:44"
+},
+{
+"kids":[
+"A9ApLfuFB",
+"A9svqtbWl"
+],
+"uid":"2313558892",
+"parent":"",
+"text":"[怒][怒][怒]",
+"mid":"A9rHUxuKW",
+"date":"2013-09-14 19:30:53"
+},
+{
+"kids":[],
+"uid":"eileen1850",
+"parent":"A9qSStwR1",
+"text":"這種的將來生了孩子 孩子也會這樣對他們的[怒][怒]",
+"mid":"A9rHfwsXN",
+"date":"2013-09-14 19:29:13"
+},
+{
+"kids":[],
+"uid":"eileen1850",
+"parent":"A9qSStwR1",
+"text":"人渣啊[怒][怒]",
+"mid":"A9rGWjI4k",
+"date":"2013-09-14 19:28:29"
+},
+{
+"kids":[],
+"uid":"3211607283",
+"parent":"",
+"text":"哎。。人性",
+"mid":"A9rGRgPnp",
+"date":"2013-09-14 19:28:16"
+},
+{
+"kids":[],
+"uid":"1877844151",
+"parent":"",
+"text":"",
+"mid":"A9rGzwnEb",
+"date":"2013-09-14 19:27:35"
+},
+{
+"kids":[],
+"uid":"2435152773",
+"parent":"",
+"text":"真不是东西",
+"mid":"A9rF0BiiQ",
+"date":"2013-09-14 19:23:44"
+},
+{
+"kids":[],
+"uid":"1925210970",
+"parent":"",
+"text":"枪毙了吧",
+"mid":"A9rEXlQQY",
+"date":"2013-09-14 19:23:36"
+},
+{
+"kids":[],
+"uid":"2493901573",
+"parent":"",
+"text":"",
+"mid":"A9rEV2YFc",
+"date":"2013-09-14 19:23:29"
+},
+{
+"kids":[],
+"uid":"2572189074",
+"parent":"",
+"text":"你养的是狗都不如的东西！！",
+"mid":"A9rETy5sZ",
+"date":"2013-09-14 19:23:28"
+},
+{
+"kids":[
+"A9t0g0fMv",
+"A9sVUdEqq"
+],
+"uid":"shkevincn",
+"parent":"",
+"text":"咳，养孩子为了啥。越来越觉得自己的决定是准确的。",
+"mid":"A9rExFy6V",
+"date":"2013-09-14 19:22:35"
+},
+{
+"kids":[],
+"uid":"2476052122",
+"parent":"",
+"text":"太可恶了吧！",
+"mid":"A9rEfmhVD",
+"date":"2013-09-14 19:21:51"
+},
+{
+"kids":[],
+"uid":"2269961025",
+"parent":"",
+"text":"",
+"mid":"A9rDPEQww",
+"date":"2013-09-14 19:20:50"
+},
+{
+"kids":[],
+"uid":"1688809984",
+"parent":"",
+"text":"人渣么",
+"mid":"A9rDAft6s",
+"date":"2013-09-14 19:20:11"
+},
+{
+"kids":[],
+"uid":"2955834621",
+"parent":"",
+"text":"[怒][怒][怒]还不如养条狗",
+"mid":"A9rChBCdS",
+"date":"2013-09-14 19:17:02"
+},
+{
+"kids":[],
+"uid":"2361057174",
+"parent":"A9qRQjfVk",
+"text":"混蛋王八蛋，掐死他算了",
+"mid":"A9rC9leIu",
+"date":"2013-09-14 19:16:41"
+},
+{
+"kids":[],
+"uid":"1859982420",
+"parent":"",
+"text":"老太，你就当白养了个连狗都不如的东西了！",
+"mid":"A9rBe2r9O",
+"date":"2013-09-14 19:14:22"
+},
+{
+"kids":[],
+"uid":"1954330523",
+"parent":"",
+"text":"[怒]",
+"mid":"A9rA5ohss",
+"date":"2013-09-14 19:11:34"
+},
+{
+"kids":[],
+"uid":"2627915142",
+"parent":"A9r1e9bF3",
+"text":"可耻啊!现在有法律可以判决了，强烈要求法律给予给这位老人公道",
+"mid":"A9rzQjYnZ",
+"date":"2013-09-14 19:10:58"
+},
+{
+"kids":[],
+"uid":"3552876603",
+"parent":"",
+"text":"什么东西",
+"mid":"A9rzyBhVZ",
+"date":"2013-09-14 19:10:16"
+},
+{
+"kids":[],
+"uid":"1987307102",
+"parent":"",
+"text":"",
+"mid":"A9rz9cveP",
+"date":"2013-09-14 19:09:17"
+},
+{
+"kids":[],
+"uid":"2918836324",
+"parent":"",
+"text":"",
+"mid":"A9rySlrmm",
+"date":"2013-09-14 19:08:38"
+},
+{
+"kids":[
+"A9EnZiXPk"
+],
+"uid":"3237646540",
+"parent":"",
+"text":"………",
+"mid":"A9ryS467Z",
+"date":"2013-09-14 19:08:36"
+},
+{
+"kids":[],
+"uid":"1955973904",
+"parent":"",
+"text":"当初还不如养条狗！",
+"mid":"A9ryqyvuG",
+"date":"2013-09-14 19:07:31"
+},
+{
+"kids":[],
+"uid":"1731753874",
+"parent":"",
+"text":"简直不是人！你也有老的时候？",
+"mid":"A9rylx4g0",
+"date":"2013-09-14 19:07:19"
+},
+{
+"kids":[],
+"uid":"2336110601",
+"parent":"",
+"text":"",
+"mid":"A9rxSj2nk",
+"date":"2013-09-14 19:06:06"
+},
+{
+"kids":[],
+"uid":"2521430881",
+"parent":"A9qRQjfVk",
+"text":"这是人吗",
+"mid":"A9rxzD7eC",
+"date":"2013-09-14 19:05:25"
+},
+{
+"kids":[],
+"uid":"2389349604",
+"parent":"",
+"text":"",
+"mid":"A9rxyaFNA",
+"date":"2013-09-14 19:05:20"
+},
+{
+"kids":[],
+"uid":"2304599592",
+"parent":"",
+"text":"",
+"mid":"A9rxxhZWE",
+"date":"2013-09-14 19:05:19"
+},
+{
+"kids":[],
+"uid":"711467860",
+"parent":"A9qRQjfVk",
+"text":"[怒]还配做人么？",
+"mid":"A9rxu34n5",
+"date":"2013-09-14 19:05:11"
+},
+{
+"kids":[],
+"uid":"3241138793",
+"parent":"",
+"text":"",
+"mid":"A9rxdclQq",
+"date":"2013-09-14 19:04:30"
+},
+{
+"kids":[],
+"uid":"wangxuanbabifood",
+"parent":"",
+"text":"人渣，不孝敬父母的子女要了何用！",
+"mid":"A9rwZinYD",
+"date":"2013-09-14 19:03:57"
+},
+{
+"kids":[],
+"uid":"3199422573",
+"parent":"A9rvPdVkF",
+"text":"[怒]",
+"mid":"A9rwd8lWz",
+"date":"2013-09-14 19:02:03"
+},
+{
+"kids":[],
+"uid":"xunyicao241",
+"parent":"A9qRQjfVk",
+"text":"贱人",
+"mid":"A9rvYmiQT",
+"date":"2013-09-14 19:01:28"
+},
+{
+"kids":[],
+"uid":"2613504663",
+"parent":"",
+"text":"没有人性.去死吧.",
+"mid":"A9rvPukcx",
+"date":"2013-09-14 19:01:07"
+},
+{
+"kids":[
+"A9rwd8lWz"
+],
+"uid":"2189767924",
+"parent":"A9r3j2f2j",
+"text":"卧槽",
+"mid":"A9rvPdVkF",
+"date":"2013-09-14 19:01:06"
+},
+{
+"kids":[],
+"uid":"2941053055",
+"parent":"",
+"text":"等着吧！他会得到应有报应的！[怒][怒][怒]除非他不会老！",
+"mid":"A9rvG5DOa",
+"date":"2013-09-14 19:00:44"
+},
+{
+"kids":[],
+"uid":"2710950292",
+"parent":"",
+"text":"道德是不靠谱的，法律与制度才可信。",
+"mid":"A9rvCvjPv",
+"date":"2013-09-14 19:00:37"
+},
+{
+"kids":[],
+"uid":"1351217862",
+"parent":"",
+"text":"",
+"mid":"A9rvvpN6y",
+"date":"2013-09-14 19:00:18"
+},
+{
+"kids":[],
+"uid":"luhan09090420",
+"parent":"A9qRQjfVk",
+"text":"[怒]这么没良心的人！！贱！！",
+"mid":"A9rvapeBY",
+"date":"2013-09-14 18:59:28"
+},
+{
+"kids":[],
+"uid":"2328312435",
+"parent":"A9qRQjfVk",
+"text":"人渣，你不怕你的子孙也这样待你。",
+"mid":"A9ruTjzZ9",
+"date":"2013-09-14 18:58:48"
+},
+{
+"kids":[
+"A9Qo8u2IH",
+"A9PhPc6Ft"
+],
+"uid":"3772906832",
+"parent":"",
+"text":"唉！，这是泯灭人性啊，",
+"mid":"A9rujhHQH",
+"date":"2013-09-14 18:57:22"
+},
+{
+"kids":[],
+"uid":"2931634211",
+"parent":"",
+"text":"[怒][怒]",
+"mid":"A9rtQxSu5",
+"date":"2013-09-14 18:56:14"
+},
+{
+"kids":[],
+"uid":"2011308744",
+"parent":"",
+"text":"人性呢？心寒。",
+"mid":"A9rtd0w22",
+"date":"2013-09-14 18:54:39"
+},
+{
+"kids":[],
+"uid":"2927269633",
+"parent":"",
+"text":"兽中之兽呀！",
+"mid":"A9rt4rsek",
+"date":"2013-09-14 18:54:17"
+},
+{
+"kids":[
+"A9svDtpdT"
+],
+"uid":"2011308744",
+"parent":"",
+"text":"人性呢？让人心寒。",
+"mid":"A9rsLf0dA",
+"date":"2013-09-14 18:53:33"
+},
+{
+"kids":[],
+"uid":"1735117290",
+"parent":"",
+"text":"畜生，尼玛痹的",
+"mid":"A9rsx2gC9",
+"date":"2013-09-14 18:52:59"
+},
+{
+"kids":[],
+"uid":"2646207742",
+"parent":"",
+"text":"这种白眼狼怎么死不绝的[怒]",
+"mid":"A9rswaJqB",
+"date":"2013-09-14 18:52:56"
+},
+{
+"kids":[],
+"uid":"2451996160",
+"parent":"",
+"text":"如此应该判刑。",
+"mid":"A9rs689Sd",
+"date":"2013-09-14 18:51:55"
+},
+{
+"kids":[],
+"uid":"2904259573",
+"parent":"",
+"text":"",
+"mid":"A9rs21WYa",
+"date":"2013-09-14 18:51:43"
+},
+{
+"kids":[],
+"uid":"3540675700",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9rrZBSa1",
+"date":"2013-09-14 18:51:39"
+},
+{
+"kids":[],
+"uid":"1946014840",
+"parent":"A9rpB2hD5",
+"text":"[怒]",
+"mid":"A9rrL9UjB",
+"date":"2013-09-14 18:51:05"
+},
+{
+"kids":[],
+"uid":"riyuu",
+"parent":"",
+"text":"[怒]",
+"mid":"A9rr5wfqB",
+"date":"2013-09-14 18:49:26"
+},
+{
+"kids":[],
+"uid":"qinqinkk",
+"parent":"",
+"text":"[怒]",
+"mid":"A9rr2fYB9",
+"date":"2013-09-14 18:49:16"
+},
+{
+"kids":[],
+"uid":"1927034964",
+"parent":"",
+"text":"[怒]",
+"mid":"A9rqXcQTL",
+"date":"2013-09-14 18:49:06"
+},
+{
+"kids":[
+"A9PK1BCHI",
+"A9GPVvZyk",
+"A9FSTzM9i"
+],
+"uid":"2836320397",
+"parent":"",
+"text":"",
+"mid":"A9rqIahwm",
+"date":"2013-09-14 18:48:31"
+},
+{
+"kids":[],
+"uid":"3702868892",
+"parent":"",
+"text":"",
+"mid":"A9rqq8Fzj",
+"date":"2013-09-14 18:47:45"
+},
+{
+"kids":[],
+"uid":"2287910031",
+"parent":"",
+"text":"",
+"mid":"A9rqpdRnS",
+"date":"2013-09-14 18:47:42"
+},
+{
+"kids":[],
+"uid":"2822771167",
+"parent":"",
+"text":"真是太可恶了 这种人有报应的",
+"mid":"A9rqnsWf3",
+"date":"2013-09-14 18:47:42"
+},
+{
+"kids":[],
+"uid":"veronika1125",
+"parent":"",
+"text":"白眼狼",
+"mid":"A9rpPbpd9",
+"date":"2013-09-14 18:46:20"
+},
+{
+"kids":[],
+"uid":"3731384857",
+"parent":"",
+"text":"",
+"mid":"A9rpBBIXL",
+"date":"2013-09-14 18:45:47"
+},
+{
+"kids":[
+"A9rrL9UjB"
+],
+"uid":"2690859813",
+"parent":"",
+"text":"",
+"mid":"A9rpB2hD5",
+"date":"2013-09-14 18:45:43"
+},
+{
+"kids":[],
+"uid":"2247075940",
+"parent":"",
+"text":"这种畜生不如啊，白眼狼",
+"mid":"A9rphvMWv",
+"date":"2013-09-14 18:44:59"
+},
+{
+"kids":[
+"A9wFs4Noz",
+"A9wnshWgN"
+],
+"uid":"2185499380",
+"parent":"",
+"text":"这样的继子也不会有好报的",
+"mid":"A9rp339Zq",
+"date":"2013-09-14 18:44:24"
+},
+{
+"kids":[],
+"uid":"1824842702",
+"parent":"",
+"text":"这世道有亲生儿子都这样，何况是继子@lisa-0314  你说是哇？ 这种人家搞不好的，会有报应的",
+"mid":"A9rotiSWz",
+"date":"2013-09-14 18:42:58"
+},
+{
+"kids":[],
+"uid":"2997661347",
+"parent":"",
+"text":"",
+"mid":"A9rnS4PE9",
+"date":"2013-09-14 18:41:30"
+},
+{
+"kids":[
+"A9sXDqzcA",
+"A9sQbDiSQ",
+"A9sOnia4J",
+"A9sNYwiXS",
+"A9s2hfJt9"
+],
+"uid":"1287944461",
+"parent":"",
+"text":"[怒]",
+"mid":"A9rnM6MQz",
+"date":"2013-09-14 18:41:16"
+},
+{
+"kids":[],
+"uid":"3474479414",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9rnDy98z",
+"date":"2013-09-14 18:40:56"
+},
+{
+"kids":[],
+"uid":"2706787082",
+"parent":"",
+"text":"",
+"mid":"A9rnskJBn",
+"date":"2013-09-14 18:40:29"
+},
+{
+"kids":[],
+"uid":"3200520440",
+"parent":"",
+"text":"",
+"mid":"A9rn47Xgu",
+"date":"2013-09-14 18:39:31"
+},
+{
+"kids":[],
+"uid":"3285992851",
+"parent":"",
+"text":"",
+"mid":"A9rmuDWFM",
+"date":"2013-09-14 18:38:07"
+},
+{
+"kids":[],
+"uid":"2868825353",
+"parent":"A9qRQjfVk",
+"text":"人渣[怒]",
+"mid":"A9rmcjI2g",
+"date":"2013-09-14 18:37:23"
+},
+{
+"kids":[],
+"uid":"1785175074",
+"parent":"",
+"text":"真是人渣[怒]",
+"mid":"A9rlomCJU",
+"date":"2013-09-14 18:35:24"
+},
+{
+"kids":[],
+"uid":"1928111197",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9rlgnTvc",
+"date":"2013-09-14 18:35:05"
+},
+{
+"kids":[],
+"uid":"lulili1990",
+"parent":"",
+"text":"麻痹",
+"mid":"A9rkL5WXU",
+"date":"2013-09-14 18:33:49"
+},
+{
+"kids":[],
+"uid":"shuang1212m",
+"parent":"",
+"text":"",
+"mid":"A9rkcwhpX",
+"date":"2013-09-14 18:32:28"
+},
+{
+"kids":[],
+"uid":"1492537031",
+"parent":"",
+"text":"在中国出现这种情况很正常",
+"mid":"A9rk7dfIq",
+"date":"2013-09-14 18:32:13"
+},
+{
+"kids":[],
+"uid":"1930697631",
+"parent":"A9rhPBXRG",
+"text":"是人么？",
+"mid":"A9rjQE5RP",
+"date":"2013-09-14 18:31:35"
+},
+{
+"kids":[],
+"uid":"1270818095",
+"parent":"",
+"text":"禽兽不如！@财迷11",
+"mid":"A9rjMvUA6",
+"date":"2013-09-14 18:31:26"
+},
+{
+"kids":[
+"Aak002B77",
+"Aa9RkfM1c",
+"Aa8qh0TiY"
+],
+"uid":"miaoyourong",
+"parent":"A9qRQjfVk",
+"text":"真可耻！将来他老了也定不会有好下场",
+"mid":"A9rjA5SMa",
+"date":"2013-09-14 18:30:56"
+},
+{
+"kids":[],
+"uid":"1920911862",
+"parent":"",
+"text":"畜生",
+"mid":"A9rjn8wk4",
+"date":"2013-09-14 18:30:23"
+},
+{
+"kids":[
+"AdtVZheiB",
+"AdttAb0vF",
+"Ad3rnnjV1",
+"AcTVwFMkG",
+"AcSs4sEtM",
+"Ac8dbq5v2",
+"Ac7t2ut9d",
+"Ac6WqrKzl",
+"AbZwY7Qtr",
+"AbYWc7GJL",
+"AbYlRxB1R",
+"AbdRG166D",
+"Ab4hXEasP",
+"Ab483kFUX",
+"Aai9LEfCF",
+"Aai2Ut6L5"
+],
+"uid":"3458767940",
+"parent":"",
+"text":"",
+"mid":"A9rjefaUK",
+"date":"2013-09-14 18:30:04"
+},
+{
+"kids":[],
+"uid":"3296500160",
+"parent":"",
+"text":"",
+"mid":"A9riRv4W7",
+"date":"2013-09-14 18:29:08"
+},
+{
+"kids":[],
+"uid":"2723585327",
+"parent":"",
+"text":"",
+"mid":"A9riEuTAX",
+"date":"2013-09-14 18:28:39"
+},
+{
+"kids":[],
+"uid":"1650013567",
+"parent":"",
+"text":"[弱][弱][弱]",
+"mid":"A9riyiCYq",
+"date":"2013-09-14 18:28:24"
+},
+{
+"kids":[],
+"uid":"2714990237",
+"parent":"",
+"text":"",
+"mid":"A9rijuCdb",
+"date":"2013-09-14 18:27:50"
+},
+{
+"kids":[
+"A9rW5oFjB"
+],
+"uid":"3204596683",
+"parent":"A9r7d0KWP",
+"text":"[怒][怒]",
+"mid":"A9rial0Py",
+"date":"2013-09-14 18:27:27"
+},
+{
+"kids":[],
+"uid":"2884615490",
+"parent":"A9qRQjfVk",
+"text":"不回家看望父母都是违法的话 这种人应该判刑",
+"mid":"A9riaje1I",
+"date":"2013-09-14 18:27:25"
+},
+{
+"kids":[],
+"uid":"dinayang",
+"parent":"A9qRQjfVk",
+"text":"这种人。真的该拉出来枪毙",
+"mid":"A9ri48K3b",
+"date":"2013-09-14 18:27:09"
+},
+{
+"kids":[],
+"uid":"3204932093",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9rhS0Khr",
+"date":"2013-09-14 18:26:41"
+},
+{
+"kids":[
+"A9rjQE5RP"
+],
+"uid":"xiongtaliya",
+"parent":"",
+"text":"人性呢。。。",
+"mid":"A9rhPBXRG",
+"date":"2013-09-14 18:26:38"
+},
+{
+"kids":[],
+"uid":"2253391125",
+"parent":"",
+"text":"真无天理可言，这样的养子应受法律的制裁",
+"mid":"A9rhDgsXr",
+"date":"2013-09-14 18:26:06"
+},
+{
+"kids":[],
+"uid":"2209132540",
+"parent":"",
+"text":"法办",
+"mid":"A9rhCndSo",
+"date":"2013-09-14 18:26:06"
+},
+{
+"kids":[],
+"uid":"3790691703",
+"parent":"",
+"text":"什么    千刀万剐",
+"mid":"A9rhC5Cue",
+"date":"2013-09-14 18:26:03"
+},
+{
+"kids":[],
+"uid":"1924760630",
+"parent":"",
+"text":"",
+"mid":"A9rhBtK1o",
+"date":"2013-09-14 18:26:04"
+},
+{
+"kids":[],
+"uid":"2688729603",
+"parent":"",
+"text":"[怒骂]",
+"mid":"A9rgXzX5W",
+"date":"2013-09-14 18:24:27"
+},
+{
+"kids":[],
+"uid":"2390540831",
+"parent":"",
+"text":"怎么会有这种人啊[怒]",
+"mid":"A9rgO7WFJ",
+"date":"2013-09-14 18:24:04"
+},
+{
+"kids":[],
+"uid":"2558260351",
+"parent":"",
+"text":"这种人，该剐",
+"mid":"A9rgpkvBw",
+"date":"2013-09-14 18:23:07"
+},
+{
+"kids":[],
+"uid":"toughguy1990",
+"parent":"",
+"text":"",
+"mid":"A9rgemr9M",
+"date":"2013-09-14 18:22:40"
+},
+{
+"kids":[],
+"uid":"3355781212",
+"parent":"",
+"text":"",
+"mid":"A9rfXeFms",
+"date":"2013-09-14 18:22:00"
+},
+{
+"kids":[],
+"uid":"1933322460",
+"parent":"",
+"text":"",
+"mid":"A9rfI9Tym",
+"date":"2013-09-14 18:21:24"
+},
+{
+"kids":[],
+"uid":"147lisa",
+"parent":"",
+"text":"你麻痹你怎么不去死",
+"mid":"A9rfib3c9",
+"date":"2013-09-14 18:20:23"
+},
+{
+"kids":[],
+"uid":"3517779867",
+"parent":"A9qRQjfVk",
+"text":"什么人也不知道，有种想哭的感觉[泪]",
+"mid":"A9rf9AQQp",
+"date":"2013-09-14 18:20:01"
+},
+{
+"kids":[],
+"uid":"1661351270",
+"parent":"",
+"text":"畜生！禽兽！政府出面解决！",
+"mid":"A9rezewcK",
+"date":"2013-09-14 18:18:36"
+},
+{
+"kids":[],
+"uid":"hedgehoga",
+"parent":"A9qNi9LrN",
+"text":"那也就这两天儿了，正好雷大，别浪费了〜",
+"mid":"A9reiqggD",
+"date":"2013-09-14 18:17:55"
+},
+{
+"kids":[],
+"uid":"1222220885",
+"parent":"A9qRZeQLb",
+"text":"",
+"mid":"A9rdXrgJt",
+"date":"2013-09-14 18:17:05"
+},
+{
+"kids":[],
+"uid":"3166613920",
+"parent":"",
+"text":"",
+"mid":"A9rdTg4st",
+"date":"2013-09-14 18:16:55"
+},
+{
+"kids":[],
+"uid":"1591929174",
+"parent":"",
+"text":"强扭的瓜不甜，与其让其赡养！不如为老人争取合法的经济补偿，让老人住敬老院未尝不是更好的方法！最后特想说句，继子确实该遭受报应！",
+"mid":"A9rdRbZhQ",
+"date":"2013-09-14 18:16:49"
+},
+{
+"kids":[],
+"uid":"3730135674",
+"parent":"",
+"text":"天打五雷轰",
+"mid":"A9rdJwuSz",
+"date":"2013-09-14 18:16:32"
+},
+{
+"kids":[],
+"uid":"2410974033",
+"parent":"",
+"text":"",
+"mid":"A9rdof39E",
+"date":"2013-09-14 18:15:41"
+},
+{
+"kids":[],
+"uid":"2812209387",
+"parent":"",
+"text":"",
+"mid":"A9rdn6ngI",
+"date":"2013-09-14 18:15:37"
+},
+{
+"kids":[],
+"uid":"1774275494",
+"parent":"",
+"text":"没人性",
+"mid":"A9rcX7367",
+"date":"2013-09-14 18:14:36"
+},
+{
+"kids":[],
+"uid":"sherry851115",
+"parent":"",
+"text":"畜生不如的白眼狼！",
+"mid":"A9rcUnvbR",
+"date":"2013-09-14 18:14:30"
+},
+{
+"kids":[],
+"uid":"3167333774",
+"parent":"",
+"text":"为什么中国出现这么多不孝子，这样的人必须受到社会的谴责。为什么不能完善相关法律，切实让他们得到保护！",
+"mid":"A9rcLhGKQ",
+"date":"2013-09-14 18:14:08"
+},
+{
+"kids":[],
+"uid":"2873270292",
+"parent":"",
+"text":"太不是人了",
+"mid":"A9rcIBWY5",
+"date":"2013-09-14 18:14:03"
+},
+{
+"kids":[],
+"uid":"2515583785",
+"parent":"",
+"text":"真是不如养条狗呢",
+"mid":"A9rcIADPe",
+"date":"2013-09-14 18:14:03"
+},
+{
+"kids":[],
+"uid":"1607051652",
+"parent":"",
+"text":"",
+"mid":"A9rcEqIHY",
+"date":"2013-09-14 18:13:53"
+},
+{
+"kids":[],
+"uid":"haijun",
+"parent":"",
+"text":"说出这样话的人，简直就是畜生不如。",
+"mid":"A9rcCpFpR",
+"date":"2013-09-14 18:13:45"
+},
+{
+"kids":[],
+"uid":"1757897341",
+"parent":"",
+"text":"哎东郭先生的故事",
+"mid":"A9rcahzby",
+"date":"2013-09-14 18:12:40"
+},
+{
+"kids":[],
+"uid":"2872039664",
+"parent":"",
+"text":"人是有轮回报应的，畜生有畜生的命",
+"mid":"A9rc98ZUM",
+"date":"2013-09-14 18:12:35"
+},
+{
+"kids":[],
+"uid":"1980478055",
+"parent":"A9qRQjfVk",
+"text":"[怒]愤怒！！！",
+"mid":"A9rbE79cV",
+"date":"2013-09-14 18:11:23"
+},
+{
+"kids":[],
+"uid":"2714365203",
+"parent":"",
+"text":"",
+"mid":"A9rbuDcgS",
+"date":"2013-09-14 18:10:59"
+},
+{
+"kids":[],
+"uid":"2089678335",
+"parent":"",
+"text":"贱命永远是贱命！养你这么多年还是贱命！",
+"mid":"A9rbmop5B",
+"date":"2013-09-14 18:10:41"
+},
+{
+"kids":[],
+"uid":"3207818057",
+"parent":"A9qRQjfVk",
+"text":"[怒]良心呢？！！！",
+"mid":"A9rbgqpvi",
+"date":"2013-09-14 18:10:27"
+},
+{
+"kids":[],
+"uid":"2972030782",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9rbb7oLn",
+"date":"2013-09-14 18:10:13"
+},
+{
+"kids":[],
+"uid":"2814286472",
+"parent":"",
+"text":"百善孝为先，人在做，天在看，他就不怕被雷劈死啊![怒][怒][怒]",
+"mid":"A9rb9mIj5",
+"date":"2013-09-14 18:10:10"
+},
+{
+"kids":[],
+"uid":"1960506543",
+"parent":"A9r5tsK1l",
+"text":"[怒][怒][怒][怒][怒][愤怒][愤怒][愤怒][愤怒][愤怒]",
+"mid":"A9rb1maWj",
+"date":"2013-09-14 18:09:51"
+},
+{
+"kids":[],
+"uid":"2473176171",
+"parent":"",
+"text":"道德无法约束这种败类法律也不要放过他---必遭世人唾弃！枉然披着个人皮！",
+"mid":"A9raXxpnV",
+"date":"2013-09-14 18:09:41"
+},
+{
+"kids":[],
+"uid":"gaosongtta",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9raEnqLz",
+"date":"2013-09-14 18:08:56"
+},
+{
+"kids":[],
+"uid":"1975444567",
+"parent":"",
+"text":"所以啊，丁克没什么不好，以房养老，奔走相告",
+"mid":"A9raEjcWT",
+"date":"2013-09-14 18:08:57"
+},
+{
+"kids":[],
+"uid":"3580033812",
+"parent":"",
+"text":"",
+"mid":"A9ray9QXH",
+"date":"2013-09-14 18:08:41"
+},
+{
+"kids":[],
+"uid":"huashentiandao",
+"parent":"",
+"text":"",
+"mid":"A9rajDJ6a",
+"date":"2013-09-14 18:08:07"
+},
+{
+"kids":[],
+"uid":"2185604077",
+"parent":"",
+"text":"[怒][怒][怒][怒][怒]",
+"mid":"A9ra92Gmn",
+"date":"2013-09-14 18:07:41"
+},
+{
+"kids":[],
+"uid":"1657481945",
+"parent":"",
+"text":"[怒]这样的人该如何惩罚？",
+"mid":"A9r9XeBLo",
+"date":"2013-09-14 18:07:13"
+},
+{
+"kids":[],
+"uid":"2930752513",
+"parent":"",
+"text":"不是人[弱]",
+"mid":"A9r9O3GLS",
+"date":"2013-09-14 18:06:51"
+},
+{
+"kids":[],
+"uid":"bonnie910630",
+"parent":"A9r4l8NUF",
+"text":"[怒]",
+"mid":"A9r9KvZAF",
+"date":"2013-09-14 18:06:43"
+},
+{
+"kids":[],
+"uid":"277179834",
+"parent":"A9r6Ddrhk",
+"text":"迟早被他自己的孩子赶出家门",
+"mid":"A9r9I8aoI",
+"date":"2013-09-14 18:06:37"
+},
+{
+"kids":[],
+"uid":"yaomei2011",
+"parent":"",
+"text":"不是人",
+"mid":"A9r9va4F6",
+"date":"2013-09-14 18:06:04"
+},
+{
+"kids":[],
+"uid":"seala",
+"parent":"A9qRQjfVk",
+"text":"天啦善良也有错吗",
+"mid":"A9r9pwZJ3",
+"date":"2013-09-14 18:05:53"
+},
+{
+"kids":[],
+"uid":"paradisekisshello",
+"parent":"A9r8yCIbb",
+"text":"畜生",
+"mid":"A9r9oBIS6",
+"date":"2013-09-14 18:05:51"
+},
+{
+"kids":[],
+"uid":"zaixianqingfeng",
+"parent":"A9r89tmbu",
+"text":"软弱和老实的人就要吃亏，中国的家丑不可外扬思想很害人。",
+"mid":"A9r9jjqqY",
+"date":"2013-09-14 18:05:37"
+},
+{
+"kids":[],
+"uid":"3358019942",
+"parent":"",
+"text":"",
+"mid":"A9r9ejgY2",
+"date":"2013-09-14 18:05:25"
+},
+{
+"kids":[],
+"uid":"2005195807",
+"parent":"",
+"text":"民政何在？红会何在？",
+"mid":"A9r9cwBhr",
+"date":"2013-09-14 18:05:22"
+},
+{
+"kids":[],
+"uid":"3318923571",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9r99fT52",
+"date":"2013-09-14 18:05:12"
+},
+{
+"kids":[
+"A9FvbugMe"
+],
+"uid":"1870124523",
+"parent":"",
+"text":"所以我说不要收养来路不明的种。人性非本善也。。。",
+"mid":"A9r960fhP",
+"date":"2013-09-14 18:05:06"
+},
+{
+"kids":[],
+"uid":"820228175",
+"parent":"",
+"text":"现在老人的生活就是以后她继子的写照[怒]",
+"mid":"A9r91AEH5",
+"date":"2013-09-14 18:04:54"
+},
+{
+"kids":[],
+"uid":"3221495405",
+"parent":"",
+"text":"[怒骂][怒骂][怒骂][怒骂][怒骂][吐]",
+"mid":"A9r8WwCHN",
+"date":"2013-09-14 18:04:42"
+},
+{
+"kids":[],
+"uid":"1855259783",
+"parent":"",
+"text":"人渣",
+"mid":"A9r8SqQWj",
+"date":"2013-09-14 18:04:33"
+},
+{
+"kids":[],
+"uid":"2247853117",
+"parent":"",
+"text":"父母是孩子的第一任老师，小心你老了之后。。。。做点人事吧！",
+"mid":"A9r8MtNIf",
+"date":"2013-09-14 18:04:20"
+},
+{
+"kids":[],
+"uid":"1654968097",
+"parent":"",
+"text":"得了便宜还卖乖的人渣!",
+"mid":"A9r8ImlMV",
+"date":"2013-09-14 18:04:08"
+},
+{
+"kids":[],
+"uid":"1153868482",
+"parent":"",
+"text":"",
+"mid":"A9r8I4Kyj",
+"date":"2013-09-14 18:04:09"
+},
+{
+"kids":[],
+"uid":"p123345221",
+"parent":"",
+"text":"[怒]畜生！",
+"mid":"A9r8A7Bfh",
+"date":"2013-09-14 18:03:48"
+},
+{
+"kids":[
+"A9sEYD5tB",
+"A9r9oBIS6"
+],
+"uid":"1966521453",
+"parent":"A9qPDcimQ",
+"text":"人肉",
+"mid":"A9r8yCIbb",
+"date":"2013-09-14 18:03:47"
+},
+{
+"kids":[],
+"uid":"2406389880",
+"parent":"",
+"text":"[怒]",
+"mid":"A9r8weJaf",
+"date":"2013-09-14 18:03:39"
+},
+{
+"kids":[],
+"uid":"sunwind0000",
+"parent":"",
+"text":"当年真该喂狗",
+"mid":"A9r8kbkar",
+"date":"2013-09-14 18:03:10"
+},
+{
+"kids":[],
+"uid":"2302920044",
+"parent":"",
+"text":"当年就应该把此子掐死",
+"mid":"A9r8aEcs0",
+"date":"2013-09-14 18:02:50"
+},
+{
+"kids":[
+"A9r9jjqqY"
+],
+"uid":"wrttzzh",
+"parent":"A9r6Q099J",
+"text":"1、老人应该是没有体力与能力和继子拼争，房产证还是不是老人的都不好说。2、老人做为母亲还是不愿意上法庭。3、基层组织此处可以拍死。",
+"mid":"A9r89tmbu",
+"date":"2013-09-14 18:02:47"
+},
+{
+"kids":[],
+"uid":"3167112671",
+"parent":"A9r6Ddrhk",
+"text":"人渣呵呵[怒][蜡烛]",
+"mid":"A9r7RswJD",
+"date":"2013-09-14 18:02:01"
+},
+{
+"kids":[],
+"uid":"2786472040",
+"parent":"A9qRQjfVk",
+"text":"[怒]畜生",
+"mid":"A9r7QhGtd",
+"date":"2013-09-14 18:01:59"
+},
+{
+"kids":[],
+"uid":"1916151575",
+"parent":"",
+"text":"是人说的话吗？",
+"mid":"A9r7P9sQu",
+"date":"2013-09-14 18:01:56"
+},
+{
+"kids":[],
+"uid":"jaychen1989",
+"parent":"",
+"text":"[怒][怒][怒]人渣",
+"mid":"A9r7FEx8n",
+"date":"2013-09-14 18:01:34"
+},
+{
+"kids":[],
+"uid":"3175318391",
+"parent":"",
+"text":"我觉得狗和人的不同在于 狗永远是狗 懂得感恩 人有时候就不是人！",
+"mid":"A9r7y14mw",
+"date":"2013-09-14 18:01:15"
+},
+{
+"kids":[],
+"uid":"1822377487",
+"parent":"",
+"text":"去死吧",
+"mid":"A9r7qiuOs",
+"date":"2013-09-14 18:00:59"
+},
+{
+"kids":[],
+"uid":"718745646",
+"parent":"A9r4v98ex",
+"text":"",
+"mid":"A9r7juBBx",
+"date":"2013-09-14 18:00:47"
+},
+{
+"kids":[
+"A9rW5oFjB",
+"A9rial0Py"
+],
+"uid":"2952987302",
+"parent":"A9r6Ddrhk",
+"text":"[怒]",
+"mid":"A9r7d0KWP",
+"date":"2013-09-14 18:00:27"
+},
+{
+"kids":[],
+"uid":"809007218",
+"parent":"A9qRQjfVk",
+"text":"[怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒]良心被狗吃了。。。",
+"mid":"A9r7a1B7l",
+"date":"2013-09-14 18:00:20"
+},
+{
+"kids":[],
+"uid":"2107743700",
+"parent":"A9qPkBNXt",
+"text":"",
+"mid":"A9r77lS8c",
+"date":"2013-09-14 18:00:12"
+},
+{
+"kids":[],
+"uid":"12215541",
+"parent":"A9qNcdT3E",
+"text":"谴责他",
+"mid":"A9r76vM2c",
+"date":"2013-09-14 18:00:12"
+},
+{
+"kids":[],
+"uid":"1288856115",
+"parent":"A9qRQjfVk",
+"text":"药店碧莲吧",
+"mid":"A9r6Zq5rI",
+"date":"2013-09-14 17:59:55"
+},
+{
+"kids":[],
+"uid":"lrl9528",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9r6WbjHq",
+"date":"2013-09-14 17:59:46"
+},
+{
+"kids":[
+"A9r9jjqqY",
+"A9r89tmbu"
+],
+"uid":"zaixianqingfeng",
+"parent":"A9r5ndKd6",
+"text":"首先这个家的房产证是老人的话，那么老人完全可以把不孝子女赶出去，而不是被赶；其次，老人可以到法院起诉三个子女，要求他们支付赡养费。当地基层组织应该介入依法为老人维权。",
+"mid":"A9r6Q099J",
+"date":"2013-09-14 17:59:31"
+},
+{
+"kids":[
+"A9rW5oFjB",
+"A9rial0Py",
+"A9r9I8aoI",
+"A9r7RswJD",
+"A9r7d0KWP"
+],
+"uid":"3228409403",
+"parent":"A9r4v98ex",
+"text":"艹！不孝敬老人父母的渣滓 迟早被雷劈[怒]",
+"mid":"A9r6Ddrhk",
+"date":"2013-09-14 17:59:02"
+},
+{
+"kids":[],
+"uid":"1961103285",
+"parent":"",
+"text":"会有报应的[怒]",
+"mid":"A9r6Cok0T",
+"date":"2013-09-14 17:59:00"
+},
+{
+"kids":[],
+"uid":"1914104725",
+"parent":"A9r4RlqSe",
+"text":"",
+"mid":"A9r6uFU23",
+"date":"2013-09-14 17:58:40"
+},
+{
+"kids":[],
+"uid":"2529481935",
+"parent":"",
+"text":"[怒][怒][怒][怒][怒][怒][怒骂][怒骂][怒骂]",
+"mid":"A9r6pBFoD",
+"date":"2013-09-14 17:58:30"
+},
+{
+"kids":[],
+"uid":"2843544741",
+"parent":"",
+"text":"猪狗不如，人渣垃圾！",
+"mid":"A9r6h7MDh",
+"date":"2013-09-14 17:58:07"
+},
+{
+"kids":[],
+"uid":"qtzjf",
+"parent":"A9r2etmg9",
+"text":"畜生",
+"mid":"A9r6h7Mub",
+"date":"2013-09-14 17:58:08"
+},
+{
+"kids":[],
+"uid":"1400767953",
+"parent":"",
+"text":"他们是有赡养义务的吧，可以起诉的",
+"mid":"A9r6gexr8",
+"date":"2013-09-14 17:58:07"
+},
+{
+"kids":[],
+"uid":"2033293522",
+"parent":"",
+"text":"不是人[怒][怒]",
+"mid":"A9r6duM0P",
+"date":"2013-09-14 17:58:00"
+},
+{
+"kids":[],
+"uid":"2815993762",
+"parent":"",
+"text":"没人性的",
+"mid":"A9r6bbQIg",
+"date":"2013-09-14 17:57:56"
+},
+{
+"kids":[],
+"uid":"1681140590",
+"parent":"A9qWoxAYK",
+"text":"",
+"mid":"A9r68dBRI",
+"date":"2013-09-14 17:57:48"
+},
+{
+"kids":[],
+"uid":"1769644761",
+"parent":"A9qRQjfVk",
+"text":"靠，有本事把这话回到她养你的时候说！！",
+"mid":"A9r5ZE79S",
+"date":"2013-09-14 17:57:27"
+},
+{
+"kids":[],
+"uid":"3059539385",
+"parent":"",
+"text":"",
+"mid":"A9r5R69vw",
+"date":"2013-09-14 17:57:05"
+},
+{
+"kids":[],
+"uid":"2162362672",
+"parent":"",
+"text":"宗生[怒]",
+"mid":"A9r5PCwOR",
+"date":"2013-09-14 17:57:04"
+},
+{
+"kids":[
+"A9POWBndC"
+],
+"uid":"3580399495",
+"parent":"",
+"text":"养育之恩胜于生儿，哎。可怜的老妇，没良心的养子。",
+"mid":"A9r5PkVrY",
+"date":"2013-09-14 17:57:03"
+},
+{
+"kids":[],
+"uid":"3033149547",
+"parent":"",
+"text":"子女怎么能这样呢？～真不该阿",
+"mid":"A9r5DdZhg",
+"date":"2013-09-14 17:56:32"
+},
+{
+"kids":[
+"A9sroa2uu",
+"A9srn1vcb",
+"A9sgYx3Gl",
+"A9s60BasW",
+"A9s3ZktMg",
+"A9rWMfVeZ",
+"A9rb1maWj"
+],
+"uid":"2272433562",
+"parent":"A9qRQjfVk",
+"text":"气愤",
+"mid":"A9r5tsK1l",
+"date":"2013-09-14 17:56:10"
+},
+{
+"kids":[],
+"uid":"1928460277",
+"parent":"",
+"text":"谴责",
+"mid":"A9r5p2Xs5",
+"date":"2013-09-14 17:55:59"
+},
+{
+"kids":[
+"A9r9jjqqY",
+"A9r89tmbu",
+"A9r6Q099J"
+],
+"uid":"wrttzzh",
+"parent":"",
+"text":"[怒][怒][怒][怒][怒]",
+"mid":"A9r5ndKd6",
+"date":"2013-09-14 17:55:57"
+},
+{
+"kids":[],
+"uid":"1203740250",
+"parent":"",
+"text":"滴水之恩，涌泉相报，是中华民族的传统美德！出现这样的不孝之子，是当代中国教育和中华民族美德传承的失败！现在在发达地区，老有难养已经有成为社会问题的趋势！如果不重视这个问题，后人会小看低看甚至嘲笑谩骂我们当今的所作所为！",
+"mid":"A9r55dBe5",
+"date":"2013-09-14 17:55:13"
+},
+{
+"kids":[],
+"uid":"2126468772",
+"parent":"",
+"text":"",
+"mid":"A9r52z7VM",
+"date":"2013-09-14 17:55:07"
+},
+{
+"kids":[],
+"uid":"2616653942",
+"parent":"",
+"text":"亲生的比这恶毒的还有呢！[怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒][怒]",
+"mid":"A9r4Z2AyY",
+"date":"2013-09-14 17:54:56"
+},
+{
+"kids":[],
+"uid":"1442276260",
+"parent":"",
+"text":"人渣",
+"mid":"A9r4XedZz",
+"date":"2013-09-14 17:54:53"
+},
+{
+"kids":[],
+"uid":"1758636551",
+"parent":"A9qRQjfVk",
+"text":"[怒][怒骂]",
+"mid":"A9r4Suq5D",
+"date":"2013-09-14 17:54:42"
+},
+{
+"kids":[
+"Aa14V7gic",
+"A9R6Quivw",
+"A9Qml5xOn"
+],
+"uid":"2374244634",
+"parent":"",
+"text":"",
+"mid":"A9r4RBbao",
+"date":"2013-09-14 17:54:41"
+},
+{
+"kids":[
+"A9v6YazC7",
+"A9r6uFU23"
+],
+"uid":"1836223777",
+"parent":"",
+"text":"畜生！当年就该把你丢在茅坑里！",
+"mid":"A9r4RlqSe",
+"date":"2013-09-14 17:54:40"
+},
+{
+"kids":[],
+"uid":"3164785995",
+"parent":"A9qRQjfVk",
+"text":"子不孝，猪不如！[怒]",
+"mid":"A9r4MiaWz",
+"date":"2013-09-14 17:54:28"
+},
+{
+"kids":[],
+"uid":"528789318",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9r4LobH6",
+"date":"2013-09-14 17:54:26"
+},
+{
+"kids":[
+"A9rW5oFjB",
+"A9rial0Py",
+"A9r9I8aoI",
+"A9r7RswJD",
+"A9r7juBBx",
+"A9r7d0KWP",
+"A9r6Ddrhk"
+],
+"uid":"712351301",
+"parent":"A9r3j2f2j",
+"text":"[怒]畜生！迟早有报应",
+"mid":"A9r4v98ex",
+"date":"2013-09-14 17:53:47"
+},
+{
+"kids":[],
+"uid":"1712493447",
+"parent":"",
+"text":"她的自愿是她对你的情，你这样对待一个让你重生的人只能说明你的冷酷无情！！！[怒]",
+"mid":"A9r4m1T8J",
+"date":"2013-09-14 17:53:24"
+},
+{
+"kids":[],
+"uid":"joycehui1107",
+"parent":"",
+"text":"让老天收拾你，别出门啊~~~~~~~~早晚被劈死",
+"mid":"A9r4loFIp",
+"date":"2013-09-14 17:53:22"
+},
+{
+"kids":[
+"A9r9KvZAF"
+],
+"uid":"102107077",
+"parent":"",
+"text":"[愤怒]",
+"mid":"A9r4l8NUF",
+"date":"2013-09-14 17:53:23"
+},
+{
+"kids":[],
+"uid":"136935602",
+"parent":"A9qT2tzs2",
+"text":"一点儿担当都没有，真可恶",
+"mid":"A9r4gE7kT",
+"date":"2013-09-14 17:53:12"
+},
+{
+"kids":[],
+"uid":"vanillajia",
+"parent":"",
+"text":"人渣",
+"mid":"A9r48q3Us",
+"date":"2013-09-14 17:52:51"
+},
+{
+"kids":[],
+"uid":"1732190225",
+"parent":"",
+"text":"[爱心]让狗吃了吧！",
+"mid":"A9r45qt01",
+"date":"2013-09-14 17:52:46"
+},
+{
+"kids":[],
+"uid":"1884639965",
+"parent":"",
+"text":"[怒]",
+"mid":"A9r3I86cm",
+"date":"2013-09-14 17:51:50"
+},
+{
+"kids":[],
+"uid":"1210siqing",
+"parent":"",
+"text":"",
+"mid":"A9r3G1Qfm",
+"date":"2013-09-14 17:51:45"
+},
+{
+"kids":[],
+"uid":"2934953697",
+"parent":"",
+"text":"不是禽兽[生病]",
+"mid":"A9r3ueG1A",
+"date":"2013-09-14 17:51:17"
+},
+{
+"kids":[
+"A9rW5oFjB",
+"A9rwd8lWz",
+"A9rvPdVkF",
+"A9rial0Py",
+"A9r9I8aoI",
+"A9r7RswJD",
+"A9r7juBBx",
+"A9r7d0KWP",
+"A9r6Ddrhk",
+"A9r4v98ex"
+],
+"uid":"1937128810",
+"parent":"A9qRQjfVk",
+"text":"还是人吗？[怒]",
+"mid":"A9r3j2f2j",
+"date":"2013-09-14 17:50:50"
+},
+{
+"kids":[],
+"uid":"1687109483",
+"parent":"",
+"text":"",
+"mid":"A9r3iERkJ",
+"date":"2013-09-14 17:50:50"
+},
+{
+"kids":[],
+"uid":"277008005",
+"parent":"",
+"text":"畜生[怒]",
+"mid":"A9r3f8kW8",
+"date":"2013-09-14 17:50:41"
+},
+{
+"kids":[],
+"uid":"2508637883",
+"parent":"",
+"text":"贱人！",
+"mid":"A9r2Y0NrB",
+"date":"2013-09-14 17:50:00"
+},
+{
+"kids":[],
+"uid":"jsu88",
+"parent":"",
+"text":"这是比着畜生来",
+"mid":"A9r2WypM7",
+"date":"2013-09-14 17:49:55"
+},
+{
+"kids":[],
+"uid":"hai101",
+"parent":"",
+"text":"冷血到这境界，还敢公然说出来，等到自己到那年纪才知道错[怒][怒][怒]",
+"mid":"A9r2Muj9A",
+"date":"2013-09-14 17:49:33"
+},
+{
+"kids":[],
+"uid":"2300199462",
+"parent":"",
+"text":"以后他们的孩子对他们说：我又没让你生让你养，不知他们做何感想。天下的父母都没经过孩子同意就把他们生下来养大了，肿么办",
+"mid":"A9r2JwYAA",
+"date":"2013-09-14 17:49:26"
+},
+{
+"kids":[],
+"uid":"shfsr",
+"parent":"",
+"text":"[委屈]可怜的孙妈妈~~~",
+"mid":"A9r2I5MVu",
+"date":"2013-09-14 17:49:20"
+},
+{
+"kids":[
+"AdDq8ciBA",
+"AdD3UzNS6",
+"AdrnbbxS1",
+"Ad2MnfiPL",
+"Ad2B42dDf",
+"AchADtmjP",
+"Ac7r9cjKO",
+"Ac7hioBQA",
+"AbokJi2IM",
+"Abo7Vzk4l",
+"AbmB7F4s8",
+"AbdnysXos",
+"Abd91efeD",
+"AbcXBdTC8",
+"Abc8w93ku",
+"AasUbrJPD",
+"AaihPEygQ",
+"AahpLjjNx",
+"A9BcnywCs",
+"A9xL1y7Uj",
+"A9x3e0jnl"
+],
+"uid":"wenlongxz",
+"parent":"",
+"text":"遭雷劈！！！！！！",
+"mid":"A9r2A4CgB",
+"date":"2013-09-14 17:49:03"
+},
+{
+"kids":[],
+"uid":"2827305705",
+"parent":"",
+"text":"是人吗",
+"mid":"A9r2A4Cei",
+"date":"2013-09-14 17:49:02"
+},
+{
+"kids":[],
+"uid":"535995670",
+"parent":"",
+"text":"",
+"mid":"A9r2y2WjI",
+"date":"2013-09-14 17:48:58"
+},
+{
+"kids":[],
+"uid":"2625432781",
+"parent":"",
+"text":"",
+"mid":"A9r2xFJCv",
+"date":"2013-09-14 17:48:57"
+},
+{
+"kids":[],
+"uid":"2308428857",
+"parent":"",
+"text":"",
+"mid":"A9r2vlWWE",
+"date":"2013-09-14 17:48:53"
+},
+{
+"kids":[
+"A9r6h7Mub"
+],
+"uid":"1787208331",
+"parent":"",
+"text":"太尼玛极品了~",
+"mid":"A9r2etmg9",
+"date":"2013-09-14 17:48:11"
+},
+{
+"kids":[],
+"uid":"3546809071",
+"parent":"",
+"text":"",
+"mid":"A9r23y4jI",
+"date":"2013-09-14 17:47:44"
+},
+{
+"kids":[],
+"uid":"2093986285",
+"parent":"A9qRQjfVk",
+"text":"[顶][伤心]",
+"mid":"A9r1ZqUUQ",
+"date":"2013-09-14 17:47:34"
+},
+{
+"kids":[],
+"uid":"yokoyujian",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9r1KEfpm",
+"date":"2013-09-14 17:47:00"
+},
+{
+"kids":[],
+"uid":"2248050303",
+"parent":"",
+"text":"[怒]没人性",
+"mid":"A9r1Bbmv8",
+"date":"2013-09-14 17:46:38"
+},
+{
+"kids":[],
+"uid":"3202893192",
+"parent":"",
+"text":"",
+"mid":"A9r1za3jj",
+"date":"2013-09-14 17:46:34"
+},
+{
+"kids":[],
+"uid":"3402952224",
+"parent":"",
+"text":"",
+"mid":"A9r1ye2vb",
+"date":"2013-09-14 17:46:31"
+},
+{
+"kids":[],
+"uid":"2409707851",
+"parent":"A9qRQjfVk",
+"text":"[怒][怒]",
+"mid":"A9r1wryAX",
+"date":"2013-09-14 17:46:27"
+},
+{
+"kids":[],
+"uid":"1856007404",
+"parent":"",
+"text":"赡养老人是一种义务",
+"mid":"A9r1sDK9b",
+"date":"2013-09-14 17:46:17"
+},
+{
+"kids":[
+"A9rzQjYnZ"
+],
+"uid":"2627976834",
+"parent":"",
+"text":"[怒][怒][怒][伤心][伤心]",
+"mid":"A9r1e9bF3",
+"date":"2013-09-14 17:45:44"
+},
+{
+"kids":[],
+"uid":"2529790500",
+"parent":"",
+"text":"这样的 该死   希望有关部门   严惩",
+"mid":"A9r1aiCJD",
+"date":"2013-09-14 17:45:35"
+},
+{
+"kids":[],
+"uid":"3207882283",
+"parent":"",
+"text":"[怒]良心被狗吃了吧。",
+"mid":"A9r19sxPI",
+"date":"2013-09-14 17:45:31"
+},
+{
+"kids":[],
+"uid":"chelseawontstop",
+"parent":"",
+"text":"子女养老的确有个逻辑问题:假设某人当时考虑就是为了有人养老，于是领养一个小孩。这个小孩在当时是没有选择权的。于是，在保证了该小孩在法律规定之内的生存条件若干年后，这个孩子必须用后半生照料老人并付出物质代价。是不是有些滑稽？",
+"mid":"A9r0LwgGy",
+"date":"2013-09-14 17:44:34"
+},
+{
+"kids":[],
+"uid":"1876408243",
+"parent":"",
+"text":"[泪][伤心]冷",
+"mid":"A9r0K1RqC",
+"date":"2013-09-14 17:44:30"
+},
+{
+"kids":[],
+"uid":"2536781760",
+"parent":"",
+"text":"没人性！[怒][怒][怒]",
+"mid":"A9r0Ho5zf",
+"date":"2013-09-14 17:44:24"
+},
+{
+"kids":[],
+"uid":"1868773683",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9r0o7TpV",
+"date":"2013-09-14 17:43:39"
+},
+{
+"kids":[],
+"uid":"adalii",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9r0m6i0m",
+"date":"2013-09-14 17:43:33"
+},
+{
+"kids":[],
+"uid":"2269604010",
+"parent":"",
+"text":"",
+"mid":"A9r0if7kp",
+"date":"2013-09-14 17:43:25"
+},
+{
+"kids":[],
+"uid":"rockyforever",
+"parent":"",
+"text":"逆子，读读聊斋，看看逆子都什么下场",
+"mid":"A9r09oXEE",
+"date":"2013-09-14 17:43:04"
+},
+{
+"kids":[],
+"uid":"515679026",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9r071t2W",
+"date":"2013-09-14 17:42:58"
+},
+{
+"kids":[],
+"uid":"1103883633",
+"parent":"",
+"text":"",
+"mid":"A9r04nxsn",
+"date":"2013-09-14 17:42:52"
+},
+{
+"kids":[],
+"uid":"316664887",
+"parent":"",
+"text":"真的好心疼，太多太多让人心疼的人与事了。好好对待自己的家人吧，好好爱自己的家人吧[心]",
+"mid":"A9r03qDjV",
+"date":"2013-09-14 17:42:48"
+},
+{
+"kids":[
+"AkDuM9Oyi",
+"AbhaEvXAe",
+"A9y4mEAqr",
+"A9xWJyKrj",
+"A9xrC4seq",
+"A9xcGiP8F",
+"A9x4vvkqM",
+"A9x2JiYIp"
+],
+"uid":"3762390271",
+"parent":"",
+"text":"我想告诉孙桂枝：形成抚养关系的继子女对继父母有赡养义务，无劳动能力或生活困难的继父母，有要求继子女给付赡养费的权利。当继子女不主动甚至拒绝履行赡养义务时，继父母可以通过诉讼方式要求继子女给付赡养费。诉讼中，还可申请先予执行。",
+"mid":"A9r018BqT",
+"date":"2013-09-14 17:42:45"
+},
+{
+"kids":[],
+"uid":"20000522llh",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9qZVrUcp",
+"date":"2013-09-14 17:42:32"
+},
+{
+"kids":[],
+"uid":"2512025025",
+"parent":"A9qRQjfVk",
+"text":"[怒]人家",
+"mid":"A9qZM34EM",
+"date":"2013-09-14 17:42:08"
+},
+{
+"kids":[],
+"uid":"3190180183",
+"parent":"",
+"text":"还是人么？",
+"mid":"A9qZIdKpk",
+"date":"2013-09-14 17:41:57"
+},
+{
+"kids":[],
+"uid":"1404355112",
+"parent":"",
+"text":"",
+"mid":"A9qZAdJON",
+"date":"2013-09-14 17:41:40"
+},
+{
+"kids":[],
+"uid":"2103187283",
+"parent":"",
+"text":"人渣",
+"mid":"A9qZwn9VT",
+"date":"2013-09-14 17:41:29"
+},
+{
+"kids":[],
+"uid":"2827298935",
+"parent":"",
+"text":"TMD是人吗？",
+"mid":"A9qZtr4Yf",
+"date":"2013-09-14 17:41:24"
+},
+{
+"kids":[],
+"uid":"iprissy",
+"parent":"",
+"text":"",
+"mid":"A9qZswccA",
+"date":"2013-09-14 17:41:21"
+},
+{
+"kids":[],
+"uid":"2762296573",
+"parent":"",
+"text":"中国バンザイ！",
+"mid":"A9qZ9BJd9",
+"date":"2013-09-14 17:40:35"
+},
+{
+"kids":[],
+"uid":"2136238705",
+"parent":"",
+"text":"人肉他！！",
+"mid":"A9qZ6kCzT",
+"date":"2013-09-14 17:40:30"
+},
+{
+"kids":[],
+"uid":"1805656851",
+"parent":"",
+"text":"还不如养条狗",
+"mid":"A9qZ1CYiF",
+"date":"2013-09-14 17:40:18"
+},
+{
+"kids":[],
+"uid":"2452080494",
+"parent":"",
+"text":"这都什么人呐",
+"mid":"A9qYXehUH",
+"date":"2013-09-14 17:40:06"
+},
+{
+"kids":[],
+"uid":"2126304342",
+"parent":"",
+"text":"畜生",
+"mid":"A9qYJCCaG",
+"date":"2013-09-14 17:39:34"
+},
+{
+"kids":[],
+"uid":"1891992223",
+"parent":"",
+"text":"@Happy张江 @央视新闻 @人民日报 帮帮老人家可以吗？",
+"mid":"A9qYJjyES",
+"date":"2013-09-14 17:39:34"
+},
+{
+"kids":[],
+"uid":"1246224873",
+"parent":"",
+"text":"简直畜生不如，无耻之徒！",
+"mid":"A9qYCgBdf",
+"date":"2013-09-14 17:39:14"
+},
+{
+"kids":[],
+"uid":"1883024803",
+"parent":"A9qNOmtl7",
+"text":"要死来！只畜生吃污长大饿！",
+"mid":"A9qYBEXq8",
+"date":"2013-09-14 17:39:16"
+},
+{
+"kids":[],
+"uid":"3240091202",
+"parent":"A9qRQjfVk",
+"text":"太没人性啦",
+"mid":"A9qYxdVlO",
+"date":"2013-09-14 17:39:05"
+},
+{
+"kids":[],
+"uid":"2921950150",
+"parent":"",
+"text":"[怒][怒][怒]",
+"mid":"A9qYrjfS9",
+"date":"2013-09-14 17:38:49"
+},
+{
+"kids":[],
+"uid":"1738187200",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qYpwLyo",
+"date":"2013-09-14 17:38:48"
+},
+{
+"kids":[],
+"uid":"1646344734",
+"parent":"",
+"text":"[围观][囧]",
+"mid":"A9qYej4Ey",
+"date":"2013-09-14 17:38:18"
+},
+{
+"kids":[],
+"uid":"11060209",
+"parent":"A9qWoxAYK",
+"text":"[怒]卧槽，我去年买了个表！！！",
+"mid":"A9qYbjMQc",
+"date":"2013-09-14 17:38:11"
+},
+{
+"kids":[],
+"uid":"2448070864",
+"parent":"",
+"text":"！！！！",
+"mid":"A9qY57xBq",
+"date":"2013-09-14 17:37:57"
+},
+{
+"kids":[],
+"uid":"2210156461",
+"parent":"A9qSynN6D",
+"text":"",
+"mid":"A9qXXtz1k",
+"date":"2013-09-14 17:37:39"
+},
+{
+"kids":[],
+"uid":"1911495942",
+"parent":"",
+"text":"法律的缺席，政府的不作为",
+"mid":"A9qXUwKXt",
+"date":"2013-09-14 17:37:30"
+},
+{
+"kids":[],
+"uid":"WonderBoyKK",
+"parent":"",
+"text":"『干嘛非要逼我爆粗呢…』",
+"mid":"A9qXRxDYX",
+"date":"2013-09-14 17:37:24"
+},
+{
+"kids":[],
+"uid":"1646446107",
+"parent":"",
+"text":"我擦 乌鸦反哺羊羔跪乳 动物都知道报恩，现在人真是连动物都不如  人没了人性还能叫'人'么",
+"mid":"A9qXOiI4E",
+"date":"2013-09-14 17:37:19"
+},
+{
+"kids":[],
+"uid":"10231007",
+"parent":"",
+"text":"[怒][怒][怒][怒][怒][怒][怒]",
+"mid":"A9qXNqIok",
+"date":"2013-09-14 17:37:15"
+},
+{
+"kids":[
+"A9yzBlftL",
+"A9x9AbhMZ"
+],
+"uid":"3518262351",
+"parent":"",
+"text":"`",
+"mid":"A9qXN7RCU",
+"date":"2013-09-14 17:37:14"
+},
+{
+"kids":[],
+"uid":"3502097062",
+"parent":"",
+"text":"",
+"mid":"A9qXKawMf",
+"date":"2013-09-14 17:37:07"
+},
+{
+"kids":[],
+"uid":"1981329423",
+"parent":"",
+"text":"这种人怎么能生得出孩子呢，生出来了孩子也不会养他吧",
+"mid":"A9qXJySYV",
+"date":"2013-09-14 17:37:06"
+},
+{
+"kids":[],
+"uid":"2987528930",
+"parent":"",
+"text":"",
+"mid":"A9qXF7hb8",
+"date":"2013-09-14 17:36:54"
+},
+{
+"kids":[],
+"uid":"1455302477",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9qXEvDrb",
+"date":"2013-09-14 17:36:55"
+},
+{
+"kids":[],
+"uid":"2134990504",
+"parent":"",
+"text":"",
+"mid":"A9qXDEdzX",
+"date":"2013-09-14 17:36:54"
+},
+{
+"kids":[],
+"uid":"jrywenwen",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9qXBBntQ",
+"date":"2013-09-14 17:36:48"
+},
+{
+"kids":[],
+"uid":"608017891",
+"parent":"",
+"text":"这人太恶心了",
+"mid":"A9qXkt0Tp",
+"date":"2013-09-14 17:36:05"
+},
+{
+"kids":[
+"AbcYQDu0T",
+"A9ZOxqZw9",
+"A9Q3erASp",
+"A9PRyw2O7"
+],
+"uid":"2678740155",
+"parent":"",
+"text":"这还是人吗？[怒][怒][怒]",
+"mid":"A9qXi64sS",
+"date":"2013-09-14 17:36:01"
+},
+{
+"kids":[],
+"uid":"1337859647",
+"parent":"A9qWC6C3P",
+"text":"[怒]",
+"mid":"A9qXf8JTi",
+"date":"2013-09-14 17:35:53"
+},
+{
+"kids":[],
+"uid":"1808184184",
+"parent":"",
+"text":"死扑街[怒][怒][怒]",
+"mid":"A9qXedLIT",
+"date":"2013-09-14 17:35:52"
+},
+{
+"kids":[],
+"uid":"2938557377",
+"parent":"",
+"text":"",
+"mid":"A9qXd5TNb",
+"date":"2013-09-14 17:35:47"
+},
+{
+"kids":[],
+"uid":"2062562191",
+"parent":"",
+"text":"良心被狗吃了，白眼狼一个。",
+"mid":"A9qXct0Aj",
+"date":"2013-09-14 17:35:48"
+},
+{
+"kids":[],
+"uid":"thejustme",
+"parent":"",
+"text":"",
+"mid":"A9qWZrWzk",
+"date":"2013-09-14 17:35:17"
+},
+{
+"kids":[],
+"uid":"1900566244",
+"parent":"",
+"text":"人在做、天在看、逆子你会遭报应。",
+"mid":"A9qWZbe3N",
+"date":"2013-09-14 17:35:15"
+},
+{
+"kids":[],
+"uid":"hanguoriben",
+"parent":"",
+"text":"天作孽犹可恕，人作孽不可活。",
+"mid":"A9qWWuCxA",
+"date":"2013-09-14 17:35:11"
+},
+{
+"kids":[],
+"uid":"bloodingflower",
+"parent":"",
+"text":"继子就没有赡养义务？",
+"mid":"A9qWTy9HU",
+"date":"2013-09-14 17:35:01"
+},
+{
+"kids":[],
+"uid":"2443618813",
+"parent":"",
+"text":"道德沦丧，谁之过耶？",
+"mid":"A9qWRu4fT",
+"date":"2013-09-14 17:34:58"
+},
+{
+"kids":[
+"A9y2rhBa1",
+"A9xKl2z8e"
+],
+"uid":"htjin",
+"parent":"",
+"text":"畜生",
+"mid":"A9qWRaPll",
+"date":"2013-09-14 17:34:57"
+},
+{
+"kids":[],
+"uid":"3053835563",
+"parent":"",
+"text":"这种人总有一天会遭报应的！@小胖纸_真的有强迫症怎么办呢",
+"mid":"A9qWOwJsC",
+"date":"2013-09-14 17:34:49"
+},
+{
+"kids":[],
+"uid":"mvpkaixuan",
+"parent":"A9qRQjfVk",
+"text":"[怒][怒][怒][怒]",
+"mid":"A9qWN3s7l",
+"date":"2013-09-14 17:34:46"
+},
+{
+"kids":[],
+"uid":"3792993610",
+"parent":"",
+"text":"",
+"mid":"A9qWKFkvS",
+"date":"2013-09-14 17:34:42"
+},
+{
+"kids":[],
+"uid":"513455988",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9qWFqFLL",
+"date":"2013-09-14 17:34:27"
+},
+{
+"kids":[],
+"uid":"2628267313",
+"parent":"",
+"text":"破人",
+"mid":"A9qWC8cfq",
+"date":"2013-09-14 17:34:21"
+},
+{
+"kids":[
+"A9qXf8JTi"
+],
+"uid":"1242489572",
+"parent":"A9qRQjfVk",
+"text":"无语问苍天",
+"mid":"A9qWC6C3P",
+"date":"2013-09-14 17:34:21"
+},
+{
+"kids":[],
+"uid":"2632487732",
+"parent":"",
+"text":"没心没肺，忘恩负义的小人，大家都应谴责。",
+"mid":"A9qWAlHTq",
+"date":"2013-09-14 17:34:15"
+},
+{
+"kids":[],
+"uid":"3019761991",
+"parent":"",
+"text":"混蛋！！！",
+"mid":"A9qWx5cLT",
+"date":"2013-09-14 17:34:09"
+},
+{
+"kids":[
+"A9r68dBRI",
+"A9qYbjMQc"
+],
+"uid":"1680848684",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9qWoxAYK",
+"date":"2013-09-14 17:33:48"
+},
+{
+"kids":[],
+"uid":"3154577531",
+"parent":"",
+"text":"强烈请求立法保护老人，[泪][泪]",
+"mid":"A9qWnlv6w",
+"date":"2013-09-14 17:33:46"
+},
+{
+"kids":[],
+"uid":"3341343674",
+"parent":"A9qRQjfVk",
+"text":"这样的人当初就该活活被饿死，太没有孝心了，老人该有多伤心啊[怒][怒]",
+"mid":"A9qWn2nUP",
+"date":"2013-09-14 17:33:43"
+},
+{
+"kids":[],
+"uid":"2697051773",
+"parent":"A9qRQjfVk",
+"text":"人渣",
+"mid":"A9qWm98Zy",
+"date":"2013-09-14 17:33:43"
+},
+{
+"kids":[],
+"uid":"207253678",
+"parent":"A9qRQjfVk",
+"text":"[怒][怒][怒]",
+"mid":"A9qWkFLrW",
+"date":"2013-09-14 17:33:40"
+},
+{
+"kids":[],
+"uid":"2480980517",
+"parent":"",
+"text":"畜牲[怒]",
+"mid":"A9qWkFLq5",
+"date":"2013-09-14 17:33:40"
+},
+{
+"kids":[],
+"uid":"runningforhope",
+"parent":"",
+"text":"养了白眼狼啊。。。哦不，是禽兽不如！",
+"mid":"A9qWh7Jyu",
+"date":"2013-09-14 17:33:31"
+},
+{
+"kids":[],
+"uid":"1860471432",
+"parent":"A9qV6qEYB",
+"text":"[怒]",
+"mid":"A9qWa321h",
+"date":"2013-09-14 17:33:14"
+},
+{
+"kids":[],
+"uid":"2694500813",
+"parent":"A9qV6qEYB",
+"text":"贱人",
+"mid":"A9qW4pbAJ",
+"date":"2013-09-14 17:32:59"
+},
+{
+"kids":[],
+"uid":"1920977937",
+"parent":"",
+"text":"这种畜生何时遭报应[怒]",
+"mid":"A9qVV0u8b",
+"date":"2013-09-14 17:32:37"
+},
+{
+"kids":[],
+"uid":"2543635943",
+"parent":"",
+"text":"",
+"mid":"A9qVSlZjn",
+"date":"2013-09-14 17:32:30"
+},
+{
+"kids":[],
+"uid":"3023533457",
+"parent":"",
+"text":"回复@Lucky_TuTu_:[good]",
+"mid":"A9qVP3m3w",
+"date":"2013-09-14 17:32:25"
+},
+{
+"kids":[],
+"uid":"3799197244",
+"parent":"",
+"text":"",
+"mid":"A9qVNzgBT",
+"date":"2013-09-14 17:32:21"
+},
+{
+"kids":[],
+"uid":"3538246583",
+"parent":"",
+"text":"贼子",
+"mid":"A9qVJtXZh",
+"date":"2013-09-14 17:32:09"
+},
+{
+"kids":[],
+"uid":"2721270621",
+"parent":"",
+"text":"不如养一条狗",
+"mid":"A9qVGbnnY",
+"date":"2013-09-14 17:32:01"
+},
+{
+"kids":[],
+"uid":"1844598814",
+"parent":"",
+"text":"这是人么",
+"mid":"A9qVF2VNV",
+"date":"2013-09-14 17:31:59"
+},
+{
+"kids":[],
+"uid":"1925886853",
+"parent":"",
+"text":"所有不孝顺的人都千刀万剐 去死去死",
+"mid":"A9qVDvEpV",
+"date":"2013-09-14 17:31:57"
+},
+{
+"kids":[],
+"uid":"3791681545",
+"parent":"",
+"text":"苍凉的人间",
+"mid":"A9qVCord0",
+"date":"2013-09-14 17:31:53"
+},
+{
+"kids":[],
+"uid":"2371345211",
+"parent":"",
+"text":"灭绝人性。",
+"mid":"A9qVwc9w2",
+"date":"2013-09-14 17:31:39"
+},
+{
+"kids":[],
+"uid":"2478535010",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9qVvfjyY",
+"date":"2013-09-14 17:31:36"
+},
+{
+"kids":[],
+"uid":"2791483237",
+"parent":"",
+"text":"中国不是有很多人抗日吗，现在就是机会，去把（它）做了  我在这里先谢谢你了 英雄:-)",
+"mid":"A9qVupF1d",
+"date":"2013-09-14 17:31:34"
+},
+{
+"kids":[],
+"uid":"2722946301",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9qVnyYFt",
+"date":"2013-09-14 17:31:19"
+},
+{
+"kids":[],
+"uid":"2712812145",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9qVi15MK",
+"date":"2013-09-14 17:31:05"
+},
+{
+"kids":[],
+"uid":"kglywu",
+"parent":"",
+"text":"",
+"mid":"A9qVh6Bnz",
+"date":"2013-09-14 17:31:00"
+},
+{
+"kids":[],
+"uid":"2630539633",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qVfk6Z3",
+"date":"2013-09-14 17:30:58"
+},
+{
+"kids":[],
+"uid":"1412248162",
+"parent":"",
+"text":"[怒][怒][怒]",
+"mid":"A9qVdxCpK",
+"date":"2013-09-14 17:30:55"
+},
+{
+"kids":[],
+"uid":"2168823835",
+"parent":"",
+"text":"[怒][黑线]道德节操什么的在他眼中一文不值的",
+"mid":"A9qVcCUH5",
+"date":"2013-09-14 17:30:53"
+},
+{
+"kids":[],
+"uid":"2497468060",
+"parent":"",
+"text":"[怒]犯法啦！同志……小心把你抓进去哈……不管是亲生的还是继母，这样是不对的……",
+"mid":"A9qVaBwgy",
+"date":"2013-09-14 17:30:47"
+},
+{
+"kids":[],
+"uid":"3487128291",
+"parent":"",
+"text":"大家别把精力浪费在骂人上面，赶紧帮帮老人家吧",
+"mid":"A9qV9nZfl",
+"date":"2013-09-14 17:30:44"
+},
+{
+"kids":[],
+"uid":"1804181432",
+"parent":"A9qRQjfVk",
+"text":"他也有子女的！",
+"mid":"A9qV994iw",
+"date":"2013-09-14 17:30:44"
+},
+{
+"kids":[
+"A9qWa321h",
+"A9qW4pbAJ"
+],
+"uid":"2177918712",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9qV6qEYB",
+"date":"2013-09-14 17:30:39"
+},
+{
+"kids":[],
+"uid":"1412248162",
+"parent":"",
+"text":"",
+"mid":"A9qV6au9R",
+"date":"2013-09-14 17:30:35"
+},
+{
+"kids":[],
+"uid":"2186676481",
+"parent":"",
+"text":"",
+"mid":"A9qV5fOJE",
+"date":"2013-09-14 17:30:35"
+},
+{
+"kids":[],
+"uid":"1702936357",
+"parent":"",
+"text":"禽兽不如",
+"mid":"A9qV3vZ9d",
+"date":"2013-09-14 17:30:31"
+},
+{
+"kids":[],
+"uid":"1009362117",
+"parent":"",
+"text":"位于拉萨河畔仙足岛上的仙足岛庄园，是西藏唯一一家藏文化主题酒店、世界上海拔最高的庄园式酒店、拍摄旧西藏贵族庄园生活的影视基地，2006年在西蒇自治区旅游局、拉萨各级政府支持下由旧西藏三大庄园之一--郎色卡改造而成。转发此博文可获仙足岛庄园酒店价值688元豪华标房一个。网址：www.xzxzdzy.com",
+"mid":"A9qV3enNB",
+"date":"2013-09-14 17:30:28"
+},
+{
+"kids":[],
+"uid":"yuhongchan",
+"parent":"A9qRQjfVk",
+"text":"KAO，这社会啥人都有！[怒]",
+"mid":"A9qV0vcVy",
+"date":"2013-09-14 17:30:23"
+},
+{
+"kids":[],
+"uid":"2889139867",
+"parent":"",
+"text":"畜生[怒][怒][怒]",
+"mid":"A9qUYak6H",
+"date":"2013-09-14 17:30:17"
+},
+{
+"kids":[],
+"uid":"ldj28",
+"parent":"",
+"text":"看到好多人都在骂那子女没道德，没人性。不知道各位是否有想过，或许那老人很难相处，这样的老人相处久了一时忍不了，这也属于正常……",
+"mid":"A9qUW8QUv",
+"date":"2013-09-14 17:30:12"
+},
+{
+"kids":[],
+"uid":"2266420560",
+"parent":"",
+"text":"这厮警察怎么不管？",
+"mid":"A9qUR4Pm0",
+"date":"2013-09-14 17:30:01"
+},
+{
+"kids":[],
+"uid":"ptamam",
+"parent":"",
+"text":"人渣",
+"mid":"A9qUPkV0i",
+"date":"2013-09-14 17:29:57"
+},
+{
+"kids":[],
+"uid":"1801961523",
+"parent":"",
+"text":"没良心。。祝他被雷劈死。。然后把钱留给老人养老",
+"mid":"A9qUDujNx",
+"date":"2013-09-14 17:29:28"
+},
+{
+"kids":[],
+"uid":"1808070242",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9qUCjt9A",
+"date":"2013-09-14 17:29:26"
+},
+{
+"kids":[],
+"uid":"1856244715",
+"parent":"",
+"text":"当地主管部门干嘛吃的？有法不依？干脆开掉几个，不，全部开掉！",
+"mid":"A9qUxi25t",
+"date":"2013-09-14 17:29:12"
+},
+{
+"kids":[],
+"uid":"3480140961",
+"parent":"",
+"text":"",
+"mid":"A9qUtb4XK",
+"date":"2013-09-14 17:29:03"
+},
+{
+"kids":[],
+"uid":"3435920520",
+"parent":"",
+"text":"白眼狼",
+"mid":"A9qUoo0lr",
+"date":"2013-09-14 17:28:53"
+},
+{
+"kids":[],
+"uid":"378644633",
+"parent":"A9qRQjfVk",
+"text":"小时候没教育好",
+"mid":"A9qUgraQo",
+"date":"2013-09-14 17:28:34"
+},
+{
+"kids":[],
+"uid":"3201556157",
+"parent":"A9qRQjfVk",
+"text":"[怒][怒][怒]",
+"mid":"A9qUfeqrW",
+"date":"2013-09-14 17:28:31"
+},
+{
+"kids":[],
+"uid":"youxiaxiaolong",
+"parent":"",
+"text":"后妈不易啊",
+"mid":"A9qUcBSZ2",
+"date":"2013-09-14 17:28:23"
+},
+{
+"kids":[],
+"uid":"2908303447",
+"parent":"",
+"text":"",
+"mid":"A9qU2hh2j",
+"date":"2013-09-14 17:28:00"
+},
+{
+"kids":[],
+"uid":"1302613837",
+"parent":"",
+"text":"这个时候，人肉的力量呢？",
+"mid":"A9qU17Fbu",
+"date":"2013-09-14 17:27:57"
+},
+{
+"kids":[],
+"uid":"2708441872",
+"parent":"",
+"text":"[怒][怒]良心呢",
+"mid":"A9qTZAsDh",
+"date":"2013-09-14 17:27:54"
+},
+{
+"kids":[],
+"uid":"318427666",
+"parent":"A9qRQjfVk",
+"text":"[怒]",
+"mid":"A9qTXcRYq",
+"date":"2013-09-14 17:27:48"
+},
+{
+"kids":[],
+"uid":"83841001",
+"parent":"",
+"text":"",
+"mid":"A9qTV8MMi",
+"date":"2013-09-14 17:27:43"
+},
+{
+"kids":[],
+"uid":"3765411731",
+"parent":"",
+"text":"[怒][怒][鄙视]",
+"mid":"A9qTU28iG",
+"date":"2013-09-14 17:27:39"
+},
+{
+"kids":[],
+"uid":"1863678030",
+"parent":"A9qRQjfVk",
+"text":"大千世界，无奇不有，都说生父母不及养父母大，不知道这样的人为什么还存活在世界上",
+"mid":"A9qTSuY4Q",
+"date":"2013-09-14 17:27:37"
+},
+{
+"kids":[],
+"uid":"2631844194",
+"parent":"A9qRQjfVk",
+"text":"！[怒]@中国法律 @中国社会保障死哪去了",
+"mid":"A9qTLqtQE",
+"date":"2013-09-14 17:27:19"
+},
+{
+"kids":[],
+"uid":"1739734603",
+"parent":"",
+"text":"",
+"mid":"A9qTJDZkd",
+"date":"2013-09-14 17:27:15"
+},
+{
+"kids":[],
+"uid":"2346077167",
+"parent":"",
+"text":"他的孩子长大了也会这么告诉他的[怒]",
+"mid":"A9qTJCZuA",
+"date":"2013-09-14 17:27:17"
+},
+{
+"kids":[],
+"uid":"1832030723",
+"parent":"",
+"text":"没良心，遭天谴！",
+"mid":"A9qTGp2SI",
+"date":"2013-09-14 17:27:08"
+},
+{
+"kids":[],
+"uid":"3684197445",
+"parent":"",
+"text":"养这个逆子还不如养条狗。",
+"mid":"A9qTG6sKU",
+"date":"2013-09-14 17:27:07"
+},
+{
+"kids":[],
+"uid":"3253762184",
+"parent":"",
+"text":"这个禽兽'活剐了他得了",
+"mid":"A9qTFfqGM",
+"date":"2013-09-14 17:27:05"
+},
+{
+"kids":[],
+"uid":"comeoncyy",
+"parent":"",
+"text":"这种人渣，节日快到了，记得给父母打个电话哦，查查看你的爱机是否还处于饥饿状态，给买点吃的预备下了http:",
+"mid":"A9qTArvcI",
+"date":"2013-09-14 17:26:53"
+},
+{
+"kids":[],
+"uid":"2724798297",
+"parent":"",
+"text":"",
+"mid":"A9qTAdZLi",
+"date":"2013-09-14 17:26:53"
+},
+{
+"kids":[],
+"uid":"1851599257",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qTzygcD",
+"date":"2013-09-14 17:26:51"
+},
+{
+"kids":[],
+"uid":"1419550872",
+"parent":"",
+"text":"法律制裁!坐牢!",
+"mid":"A9qTwnpj1",
+"date":"2013-09-14 17:26:44"
+},
+{
+"kids":[],
+"uid":"3263046427",
+"parent":"",
+"text":"",
+"mid":"A9qTsd4KJ",
+"date":"2013-09-14 17:26:33"
+},
+{
+"kids":[
+"A9wYtp3OA"
+],
+"uid":"3746570707",
+"parent":"",
+"text":"白眼狼，该千刀万剐[怒]",
+"mid":"A9qTq753j",
+"date":"2013-09-14 17:26:29"
+},
+{
+"kids":[],
+"uid":"luoxiaoyu793171117",
+"parent":"",
+"text":"真是狗儿子！！！！",
+"mid":"A9qTj4msH",
+"date":"2013-09-14 17:26:12"
+},
+{
+"kids":[],
+"uid":"3011432627",
+"parent":"",
+"text":"",
+"mid":"A9qTfwBNv",
+"date":"2013-09-14 17:26:02"
+},
+{
+"kids":[],
+"uid":"xuanxuan2005",
+"parent":"A9qRQjfVk",
+"text":"[怒][怒]",
+"mid":"A9qTd9Gdi",
+"date":"2013-09-14 17:25:58"
+},
+{
+"kids":[],
+"uid":"1969483415",
+"parent":"",
+"text":"转发微博。",
+"mid":"A9qTcy2mM",
+"date":"2013-09-14 17:25:55"
+},
+{
+"kids":[],
+"uid":"2026211321",
+"parent":"",
+"text":"这种人不配活着！该千刀万剐！",
+"mid":"A9qT7xPCR",
+"date":"2013-09-14 17:25:44"
+},
+{
+"kids":[],
+"uid":"2793818287",
+"parent":"",
+"text":"[怒]白眼狼，还不如狗呢！",
+"mid":"A9qT7vNkd",
+"date":"2013-09-14 17:25:44"
+},
+{
+"kids":[],
+"uid":"1662641811",
+"parent":"",
+"text":"养了只白眼狼！",
+"mid":"A9qT6lKGn",
+"date":"2013-09-14 17:25:41"
+},
+{
+"kids":[],
+"uid":"1895030823",
+"parent":"",
+"text":"养了条白眼狼啊这是，真是坑爹！",
+"mid":"A9qT3FeaR",
+"date":"2013-09-14 17:25:34"
+},
+{
+"kids":[],
+"uid":"1817722053",
+"parent":"",
+"text":"没良心,奶奶怎么办",
+"mid":"A9qT36OlU",
+"date":"2013-09-14 17:25:34"
+},
+{
+"kids":[
+"A9r4gE7kT"
+],
+"uid":"2270508600",
+"parent":"",
+"text":"建议老人可以起诉，也希望社会帮帮这样的老人。",
+"mid":"A9qT2tzs2",
+"date":"2013-09-14 17:25:30"
+},
+{
+"kids":[],
+"uid":"2712393213",
+"parent":"",
+"text":"蛮娘不好当啊",
+"mid":"A9qT0aHvs",
+"date":"2013-09-14 17:25:27"
+},
+{
+"kids":[],
+"uid":"q0700",
+"parent":"",
+"text":"刚才叙利亚那个吊车上的机枪手人哪？如果还没爆头就快过来，扫这个孽畜！[怒][怒][怒]",
+"mid":"A9qSYEA79",
+"date":"2013-09-14 17:25:24"
+},
+{
+"kids":[
+"A9rHfwsXN",
+"A9rGWjI4k"
+],
+"uid":"2614493270",
+"parent":"A9qOe3MiX",
+"text":"作孽的转发量",
+"mid":"A9qSStwR1",
+"date":"2013-09-14 17:25:10"
+},
+{
+"kids":[],
+"uid":"1862779640",
+"parent":"",
+"text":"禽兽！",
+"mid":"A9qSSbVsI",
+"date":"2013-09-14 17:25:08"
+},
+{
+"kids":[],
+"uid":"1180670414",
+"parent":"",
+"text":"",
+"mid":"A9qSQ7PHt",
+"date":"2013-09-14 17:25:03"
+},
+{
+"kids":[],
+"uid":"chaiyumen",
+"parent":"A9qRaDUXe",
+"text":"一代看一代的做法对伐",
+"mid":"A9qSPwbFf",
+"date":"2013-09-14 17:25:02"
+},
+{
+"kids":[],
+"uid":"3213724530",
+"parent":"A9qRQjfVk",
+"text":"可敬的老人，可憎的继子[怒]",
+"mid":"A9qSL5amI",
+"date":"2013-09-14 17:24:49"
+},
+{
+"kids":[],
+"uid":"1883517630",
+"parent":"",
+"text":"人渣",
+"mid":"A9qSKbV3t",
+"date":"2013-09-14 17:24:47"
+},
+{
+"kids":[],
+"uid":"yun2908",
+"parent":"",
+"text":"丢中国人的脸！",
+"mid":"A9qSDpe1u",
+"date":"2013-09-14 17:24:33"
+},
+{
+"kids":[],
+"uid":"3105132700",
+"parent":"A9qRQjfVk",
+"text":"",
+"mid":"A9qSDmwdG",
+"date":"2013-09-14 17:24:32"
+},
+{
+"kids":[],
+"uid":"2084276343",
+"parent":"",
+"text":"人渣！怎么没去死！",
+"mid":"A9qSCenkk",
+"date":"2013-09-14 17:24:28"
+},
+{
+"kids":[
+"A9qXXtz1k"
+],
+"uid":"askazhang",
+"parent":"",
+"text":"畜生！[怒]",
+"mid":"A9qSynN6D",
+"date":"2013-09-14 17:24:20"
+},
+{
+"kids":[],
+"uid":"gujidexuehu",
+"parent":"",
+"text":"垃圾！",
+"mid":"A9qSxsGq9",
+"date":"2013-09-14 17:24:19"
+},
+{
+"kids":[],
+"uid":"2659147870",
+"parent":"",
+"text":"人类到底是怎么了？操蛋的人性。",
+"mid":"A9qSwjH6q",
+"date":"2013-09-14 17:24:16"
+},
+{
+"kids":[],
+"uid":"1958003093",
+"parent":"",
+"text":"",
+"mid":"A9qSrzRDT",
+"date":"2013-09-14 17:24:05"
+},
+{
+"kids":[],
+"uid":"1909249102",
+"parent":"",
+"text":"天打雷劈呢！！[怒]",
+"mid":"A9qSkt6Kj",
+"date":"2013-09-14 17:23:47"
+},
+{
+"kids":[],
+"uid":"2613217381",
+"parent":"",
+"text":"白眼狼",
+"mid":"A9qSkbvdz",
+"date":"2013-09-14 17:23:45"
+},
+{
+"kids":[],
+"uid":"3515626765",
+"parent":"",
+"text":"心酸 [紧张]",
+"mid":"A9qSjzRqC",
+"date":"2013-09-14 17:23:44"
+},
+{
+"kids":[],
+"uid":"3183788630",
+"parent":"",
+"text":"早晚会有报应的！",
+"mid":"A9qSa9RQX",
+"date":"2013-09-14 17:23:23"
+},
+{
+"kids":[],
+"uid":"2559895293",
+"parent":"",
+"text":"",
+"mid":"A9qS6gJhu",
+"date":"2013-09-14 17:23:14"
+},
+{
+"kids":[],
+"uid":"1969665031",
+"parent":"",
+"text":"没人性",
+"mid":"A9qS5q2bP",
+"date":"2013-09-14 17:23:11"
+},
+{
+"kids":[],
+"uid":"kexiwoshishuipinzuo",
+"parent":"",
+"text":"这是什么人啊[怒]",
+"mid":"A9qS1hQrp",
+"date":"2013-09-14 17:23:02"
+},
+{
+"kids":[],
+"uid":"1796722344",
+"parent":"",
+"text":"我还看到那在养母被赶回老屋前她90岁的母亲就是蜗居在这里，她母亲怎么过？",
+"mid":"A9qS06ZY4",
+"date":"2013-09-14 17:22:59"
+},
+{
+"kids":[],
+"uid":"2597418013",
+"parent":"",
+"text":"",
+"mid":"A9qS06RV2",
+"date":"2013-09-14 17:22:58"
+},
+{
+"kids":[],
+"uid":"1763063300",
+"parent":"",
+"text":"畜生！枪毙则畜生！",
+"mid":"A9qS06RQd",
+"date":"2013-09-14 17:22:59"
+},
+{
+"kids":[
+"A9rdXrgJt"
+],
+"uid":"1168403790",
+"parent":"",
+"text":"希望是假新闻吧",
+"mid":"A9qRZeQLb",
+"date":"2013-09-14 17:22:56"
+},
+{
+"kids":[
+"AaUX9BpjG",
+"AaTgU3kUQ",
+"Aak002B77",
+"Aa9RkfM1c",
+"Aa8qh0TiY",
+"A9RuSEiuY",
+"A9GRa4zVH",
+"A9FG51pFN",
+"A9C9mA30s",
+"A9C54E3P3",
+"A9C4Dbbjs",
+"A9B9muVoN",
+"A9yx7Fdwj",
+"A9xvzjR3R",
+"A9x8JyY17",
+"A9x4Bp3YT",
+"A9wJUEmAu",
+"A9wtWtaW5",
+"A9uanpme7",
+"A9tTilkdu",
+"A9tohyvg9",
+"A9tmK5WzU",
+"A9tmGjhOu",
+"A9tmgikoW",
+"A9tclmx3V",
+"A9sJrdRl0",
+"A9sFjAbMc",
+"A9sEY0UPK",
+"A9szdFh36",
+"A9swgcrdM",
+"A9sw43VJo",
+"A9svFvXgS",
+"A9sroa2uu",
+"A9srn1vcb",
+"A9sq2efEy",
+"A9spNu9ad",
+"A9sk2eL8B",
+"A9sgYx3Gl",
+"A9seSsHu9",
+"A9s9JE0Xp",
+"A9s60BasW",
+"A9s3ZktMg",
+"A9s3G4B7D",
+"A9s3bC5D6",
+"A9s1NFWdp",
+"A9rWMfVeZ",
+"A9rWvnqWE",
+"A9rW5oFjB",
+"A9rUPCimS",
+"A9rRArBT4",
+"A9rRzgLsv",
+"A9rMvseuU",
+"A9rMpuXIS",
+"A9rMku2j2",
+"A9rJkDIji",
+"A9rC9leIu",
+"A9rxzD7eC",
+"A9rxu34n5",
+"A9rwd8lWz",
+"A9rvYmiQT",
+"A9rvPdVkF",
+"A9rvapeBY",
+"A9ruTjzZ9",
+"A9rrZBSa1",
+"A9rnDy98z",
+"A9rmcjI2g",
+"A9rlgnTvc",
+"A9rjA5SMa",
+"A9rial0Py",
+"A9riaje1I",
+"A9ri48K3b",
+"A9rhS0Khr",
+"A9rf9AQQp",
+"A9rbE79cV",
+"A9rbgqpvi",
+"A9rbb7oLn",
+"A9rb1maWj",
+"A9raEnqLz",
+"A9r9I8aoI",
+"A9r9pwZJ3",
+"A9r99fT52",
+"A9r7RswJD",
+"A9r7QhGtd",
+"A9r7juBBx",
+"A9r7d0KWP",
+"A9r7a1B7l",
+"A9r6Zq5rI",
+"A9r6WbjHq",
+"A9r6Ddrhk",
+"A9r68dBRI",
+"A9r5ZE79S",
+"A9r5tsK1l",
+"A9r4Suq5D",
+"A9r4MiaWz",
+"A9r4LobH6",
+"A9r4v98ex",
+"A9r3j2f2j",
+"A9r1ZqUUQ",
+"A9r1KEfpm",
+"A9r1wryAX",
+"A9r0o7TpV",
+"A9r0m6i0m",
+"A9r071t2W",
+"A9qZVrUcp",
+"A9qZM34EM",
+"A9qYxdVlO",
+"A9qYbjMQc",
+"A9qXEvDrb",
+"A9qXBBntQ",
+"A9qXf8JTi",
+"A9qWN3s7l",
+"A9qWFqFLL",
+"A9qWC6C3P",
+"A9qWoxAYK",
+"A9qWn2nUP",
+"A9qWm98Zy",
+"A9qWkFLrW",
+"A9qWa321h",
+"A9qW4pbAJ",
+"A9qVvfjyY",
+"A9qVnyYFt",
+"A9qVi15MK",
+"A9qV994iw",
+"A9qV6qEYB",
+"A9qV0vcVy",
+"A9qUCjt9A",
+"A9qUgraQo",
+"A9qUfeqrW",
+"A9qTXcRYq",
+"A9qTSuY4Q",
+"A9qTLqtQE",
+"A9qTd9Gdi",
+"A9qSL5amI",
+"A9qSDmwdG"
+],
+"uid":"toplist",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qRQjfVk",
+"date":"2013-09-14 17:22:36"
+},
+{
+"kids":[],
+"uid":"shanpengda",
+"parent":"",
+"text":"@张爷爷休闲在家 您怎么看？",
+"mid":"A9qRPbZeK",
+"date":"2013-09-14 17:22:33"
+},
+{
+"kids":[],
+"uid":"1001446663",
+"parent":"",
+"text":"[怒][怒][怒]",
+"mid":"A9qRMwfs4",
+"date":"2013-09-14 17:22:25"
+},
+{
+"kids":[],
+"uid":"3461737194",
+"parent":"",
+"text":"叫他去死吧 人渣",
+"mid":"A9qRA6s3c",
+"date":"2013-09-14 17:21:56"
+},
+{
+"kids":[],
+"uid":"2749826683",
+"parent":"",
+"text":"这还是人吗？太没良心了吧！",
+"mid":"A9qRzdcUH",
+"date":"2013-09-14 17:21:55"
+},
+{
+"kids":[],
+"uid":"2640934182",
+"parent":"",
+"text":"是人发[怒][怒][怒][怒][怒][怒]",
+"mid":"A9qRyCNgk",
+"date":"2013-09-14 17:21:53"
+},
+{
+"kids":[
+"AaLjH3Ts1",
+"AaKNk6UFG",
+"AaJOz8fNB",
+"AaiU22Vq1",
+"AaitTw3JT",
+"Aa0hcwmgv",
+"A9ZMS2mvI",
+"A9xxX3mK3",
+"A9x5znmBS"
+],
+"uid":"3793071821",
+"parent":"",
+"text":"",
+"mid":"A9qRxospS",
+"date":"2013-09-14 17:21:52"
+},
+{
+"kids":[],
+"uid":"2749826683",
+"parent":"",
+"text":"这还是人吗？太没良心了吧！",
+"mid":"A9qRvnQGI",
+"date":"2013-09-14 17:21:44"
+},
+{
+"kids":[],
+"uid":"1626177253",
+"parent":"",
+"text":"",
+"mid":"A9qRurXfA",
+"date":"2013-09-14 17:21:44"
+},
+{
+"kids":[],
+"uid":"1805017402",
+"parent":"",
+"text":"[怒][怒][怒][怒][怒][怒]",
+"mid":"A9qRud09L",
+"date":"2013-09-14 17:21:41"
+},
+{
+"kids":[
+"A9xsOcwy8",
+"A9wD6FVG1"
+],
+"uid":"3798700650",
+"parent":"",
+"text":"畜生都不如",
+"mid":"A9qRq3Auk",
+"date":"2013-09-14 17:21:33"
+},
+{
+"kids":[],
+"uid":"2064722095",
+"parent":"",
+"text":"。。。",
+"mid":"A9qRmbCyI",
+"date":"2013-09-14 17:21:23"
+},
+{
+"kids":[],
+"uid":"208111745",
+"parent":"",
+"text":"错桑宗桑~怒转！",
+"mid":"A9qRil3mI",
+"date":"2013-09-14 17:21:15"
+},
+{
+"kids":[],
+"uid":"2946848292",
+"parent":"",
+"text":"[怒][伤心]",
+"mid":"A9qRdiOHe",
+"date":"2013-09-14 17:21:02"
+},
+{
+"kids":[
+"A9qSPwbFf"
+],
+"uid":"damerenjian",
+"parent":"A9qNNbCKD",
+"text":"我比较在意的是，老妈妈住在破房里这件事。",
+"mid":"A9qRaDUXe",
+"date":"2013-09-14 17:20:55"
+},
+{
+"kids":[],
+"uid":"3196975444",
+"parent":"",
+"text":"真想问问这只白眼狼，你的孩子可有说过让你养？",
+"mid":"A9qR9sfsw",
+"date":"2013-09-14 17:20:54"
+},
+{
+"kids":[
+"A9sKq3OEb",
+"A9sFGD95k"
+],
+"uid":"monamie",
+"parent":"",
+"text":"",
+"mid":"A9qR5F2ow",
+"date":"2013-09-14 17:20:45"
+},
+{
+"kids":[],
+"uid":"1915306952",
+"parent":"",
+"text":"[怒][怒][怒][怒]",
+"mid":"A9qR31JV0",
+"date":"2013-09-14 17:20:39"
+},
+{
+"kids":[],
+"uid":"1735741150",
+"parent":"",
+"text":"作孽",
+"mid":"A9qQZb9wY",
+"date":"2013-09-14 17:20:29"
+},
+{
+"kids":[],
+"uid":"1751326187",
+"parent":"",
+"text":"白眼狼",
+"mid":"A9qQUrjNK",
+"date":"2013-09-14 17:20:18"
+},
+{
+"kids":[],
+"uid":"3306141493",
+"parent":"",
+"text":"",
+"mid":"A9qQRcnb3",
+"date":"2013-09-14 17:20:08"
+},
+{
+"kids":[],
+"uid":"2110088415",
+"parent":"",
+"text":"",
+"mid":"A9qQP73iR",
+"date":"2013-09-14 17:20:04"
+},
+{
+"kids":[],
+"uid":"liweimin8",
+"parent":"",
+"text":"这种人该杀",
+"mid":"A9qQN2XyR",
+"date":"2013-09-14 17:19:58"
+},
+{
+"kids":[],
+"uid":"1307880054",
+"parent":"",
+"text":"",
+"mid":"A9qQN1KEz",
+"date":"2013-09-14 17:20:00"
+},
+{
+"kids":[],
+"uid":"2008281831",
+"parent":"",
+"text":"猪狗不如的混账东西！！！",
+"mid":"A9qQDfHIM",
+"date":"2013-09-14 17:19:36"
+},
+{
+"kids":[],
+"uid":"1869516414",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qQAkm2v",
+"date":"2013-09-14 17:19:30"
+},
+{
+"kids":[],
+"uid":"2244522882",
+"parent":"",
+"text":"",
+"mid":"A9qQleYIr",
+"date":"2013-09-14 17:18:54"
+},
+{
+"kids":[
+"Abvdxun2l",
+"AbmTZvBAy",
+"AbmO6AnB9",
+"AblSC5rTH",
+"AblQRkakr",
+"AaC9YCQus",
+"AaBnrB0gQ",
+"AaoE6eMJw"
+],
+"uid":"2518108594",
+"parent":"",
+"text":"此处不能使用“狼心狗肺”，因为“狼”、“狗”等动物，绝对比这位强百倍，应该是“猪狗不如”相对更贴切！",
+"mid":"A9qQkEpmU",
+"date":"2013-09-14 17:18:51"
+},
+{
+"kids":[],
+"uid":"2006056247",
+"parent":"",
+"text":"没心没肺的白眼狼，该用唾沫淹死他",
+"mid":"A9qQjtyPG",
+"date":"2013-09-14 17:18:50"
+},
+{
+"kids":[
+"Adw1NkkG1",
+"Adtm2nDgM",
+"Adlpn5DZD",
+"AcTra5JXk",
+"AcT0QooRN",
+"AcSA1EhpS",
+"AcJbz0Fdm",
+"AcIRsjcgI",
+"AcIrdCecj",
+"Ac0qk0P8q",
+"AbZIWoVX3",
+"AbYBDDz6f",
+"AbPV3xtmt",
+"AbPs7jMUK",
+"AbOejfFJ1",
+"AbNK1FUyy",
+"Ab4hU7DLa",
+"Ab3PtvsI3",
+"Aa8cmrhl5",
+"Aa0i93jqb",
+"A9YD9avx4"
+],
+"uid":"1735150214",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qQja3W0",
+"date":"2013-09-14 17:18:49"
+},
+{
+"kids":[],
+"uid":"2266987084",
+"parent":"",
+"text":"",
+"mid":"A9qQfCYz4",
+"date":"2013-09-14 17:18:40"
+},
+{
+"kids":[],
+"uid":"2273622412",
+"parent":"",
+"text":"真不是人,白眼狼",
+"mid":"A9qQbw0wJ",
+"date":"2013-09-14 17:18:31"
+},
+{
+"kids":[],
+"uid":"1152664951",
+"parent":"",
+"text":"这样的继子还是人吗？人渣都不如吧？",
+"mid":"A9qQa3yAU",
+"date":"2013-09-14 17:18:28"
+},
+{
+"kids":[],
+"uid":"leslie1969",
+"parent":"",
+"text":"人渣",
+"mid":"A9qQ7Fq9S",
+"date":"2013-09-14 17:18:22"
+},
+{
+"kids":[],
+"uid":"2515879703",
+"parent":"",
+"text":"什么人哪！鄙视！",
+"mid":"A9qQ7660w",
+"date":"2013-09-14 17:18:20"
+},
+{
+"kids":[],
+"uid":"2940691137",
+"parent":"",
+"text":"转发微博。",
+"mid":"A9qPYe4xH",
+"date":"2013-09-14 17:17:59"
+},
+{
+"kids":[],
+"uid":"1184756984",
+"parent":"",
+"text":"这个继子...天打雷劈的.....[怒]",
+"mid":"A9qPWoHbS",
+"date":"2013-09-14 17:17:55"
+},
+{
+"kids":[],
+"uid":"cttakjin",
+"parent":"",
+"text":"会有因果报应的",
+"mid":"A9qPU3Qox",
+"date":"2013-09-14 17:17:49"
+},
+{
+"kids":[],
+"uid":"3583809654",
+"parent":"",
+"text":"那是个人吗？像吗？",
+"mid":"A9qPH6Ttm",
+"date":"2013-09-14 17:17:17"
+},
+{
+"kids":[
+"A9sEYD5tB",
+"A9r9oBIS6",
+"A9r8yCIbb"
+],
+"uid":"1666034691",
+"parent":"",
+"text":"应该上法院告这个逆子。",
+"mid":"A9qPDcimQ",
+"date":"2013-09-14 17:17:09"
+},
+{
+"kids":[],
+"uid":"1646917443",
+"parent":"",
+"text":"这继子真是人渣",
+"mid":"A9qPyuqcL",
+"date":"2013-09-14 17:16:57"
+},
+{
+"kids":[],
+"uid":"2861313077",
+"parent":"",
+"text":"",
+"mid":"A9qPwaM5w",
+"date":"2013-09-14 17:16:50"
+},
+{
+"kids":[],
+"uid":"liuyuyingblog",
+"parent":"",
+"text":"没良心的",
+"mid":"A9qPvv9Tt",
+"date":"2013-09-14 17:16:50"
+},
+{
+"kids":[],
+"uid":"1003441450",
+"parent":"",
+"text":"无耻.你自己会长老吗?希望你的孩子也这样对你",
+"mid":"A9qPtdr8g",
+"date":"2013-09-14 17:16:43"
+},
+{
+"kids":[],
+"uid":"2168640833",
+"parent":"",
+"text":"这种畜生枪毙100次都不够",
+"mid":"A9qPoso34",
+"date":"2013-09-14 17:16:34"
+},
+{
+"kids":[],
+"uid":"3175857591",
+"parent":"",
+"text":"怎么那么多混蛋[抓狂][泪][泪][泪]",
+"mid":"A9qPneP4r",
+"date":"2013-09-14 17:16:30"
+},
+{
+"kids":[],
+"uid":"2678573521",
+"parent":"",
+"text":"经济独立最好",
+"mid":"A9qPm7Unt",
+"date":"2013-09-14 17:16:28"
+},
+{
+"kids":[],
+"uid":"2618752123",
+"parent":"",
+"text":"说这话的都没良心，没她那有今天的你们呀[哼][哼]",
+"mid":"A9qPluhfV",
+"date":"2013-09-14 17:16:27"
+},
+{
+"kids":[],
+"uid":"936386969",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qPkD1dT",
+"date":"2013-09-14 17:16:25"
+},
+{
+"kids":[
+"A9r77lS8c"
+],
+"uid":"2432241424",
+"parent":"",
+"text":"TMD!人渣！",
+"mid":"A9qPkBNXt",
+"date":"2013-09-14 17:16:25"
+},
+{
+"kids":[],
+"uid":"coffee1602",
+"parent":"",
+"text":"",
+"mid":"A9qPig6BG",
+"date":"2013-09-14 17:16:17"
+},
+{
+"kids":[],
+"uid":"2086593043",
+"parent":"",
+"text":"我擦，点错了，宗桑[怒][怒][怒]",
+"mid":"A9qPe98aK",
+"date":"2013-09-14 17:16:09"
+},
+{
+"kids":[],
+"uid":"elfwenwen",
+"parent":"",
+"text":"拉出去弄死！",
+"mid":"A9qPe5fbk",
+"date":"2013-09-14 17:16:09"
+},
+{
+"kids":[],
+"uid":"1290409250",
+"parent":"",
+"text":"畜生……",
+"mid":"A9qPddWu3",
+"date":"2013-09-14 17:16:08"
+},
+{
+"kids":[],
+"uid":"weimix",
+"parent":"",
+"text":"",
+"mid":"A9qPciLdr",
+"date":"2013-09-14 17:16:05"
+},
+{
+"kids":[],
+"uid":"206312123",
+"parent":"",
+"text":"养了个畜牲",
+"mid":"A9qPc36a8",
+"date":"2013-09-14 17:16:02"
+},
+{
+"kids":[],
+"uid":"2493768381",
+"parent":"",
+"text":"靠，这人还让他活着，这个社会真是没天理了",
+"mid":"A9qPbbMZU",
+"date":"2013-09-14 17:16:00"
+},
+{
+"kids":[],
+"uid":"3983496",
+"parent":"",
+"text":"",
+"mid":"A9qPawhbq",
+"date":"2013-09-14 17:16:00"
+},
+{
+"kids":[],
+"uid":"2010240700",
+"parent":"",
+"text":"看了心寒",
+"mid":"A9qP5fTz4",
+"date":"2013-09-14 17:15:49"
+},
+{
+"kids":[],
+"uid":"funnydxd",
+"parent":"",
+"text":"还不如养一条狗",
+"mid":"A9qP4FsYh",
+"date":"2013-09-14 17:15:45"
+},
+{
+"kids":[],
+"uid":"queencytwitter",
+"parent":"",
+"text":"养育之恩呀[泪][泪][泪]",
+"mid":"A9qP44mBr",
+"date":"2013-09-14 17:15:45"
+},
+{
+"kids":[],
+"uid":"1961668925",
+"parent":"",
+"text":"这种逆子必须法律惩戒!",
+"mid":"A9qOZ4Psg",
+"date":"2013-09-14 17:15:32"
+},
+{
+"kids":[
+"A9t132Skm",
+"A9sZA3OnP"
+],
+"uid":"1705562530",
+"parent":"",
+"text":"猪狗不如",
+"mid":"A9qOY7LQJ",
+"date":"2013-09-14 17:15:31"
+},
+{
+"kids":[],
+"uid":"2933470071",
+"parent":"",
+"text":"畜生！",
+"mid":"A9qOXh7tc",
+"date":"2013-09-14 17:15:29"
+},
+{
+"kids":[],
+"uid":"3494822260",
+"parent":"",
+"text":"不是人啊！",
+"mid":"A9qOUj8YG",
+"date":"2013-09-14 17:15:21"
+},
+{
+"kids":[],
+"uid":"3554822072",
+"parent":"",
+"text":"",
+"mid":"A9qOU2aP4",
+"date":"2013-09-14 17:15:21"
+},
+{
+"kids":[],
+"uid":"2359136225",
+"parent":"",
+"text":"城管需要你",
+"mid":"A9qOSyv2z",
+"date":"2013-09-14 17:15:17"
+},
+{
+"kids":[],
+"uid":"2785671635",
+"parent":"",
+"text":"这人还有良心吗[怒][怒][怒][怒]",
+"mid":"A9qOQcNSe",
+"date":"2013-09-14 17:15:11"
+},
+{
+"kids":[],
+"uid":"2503572640",
+"parent":"",
+"text":"人渣",
+"mid":"A9qOPjysn",
+"date":"2013-09-14 17:15:09"
+},
+{
+"kids":[],
+"uid":"homeofsky2013",
+"parent":"",
+"text":"",
+"mid":"A9qONfsl3",
+"date":"2013-09-14 17:15:04"
+},
+{
+"kids":[],
+"uid":"1403365835",
+"parent":"",
+"text":"这就是还不如养条狗[怒]",
+"mid":"A9qONeeZ8",
+"date":"2013-09-14 17:15:04"
+},
+{
+"kids":[],
+"uid":"2993748467",
+"parent":"",
+"text":"人渣！",
+"mid":"A9qOL9yZ5",
+"date":"2013-09-14 17:14:58"
+},
+{
+"kids":[],
+"uid":"liexiaofeng",
+"parent":"",
+"text":"如此大逆不道，是什么让他们肆无忌惮。",
+"mid":"A9qOH1XyX",
+"date":"2013-09-14 17:14:49"
+},
+{
+"kids":[],
+"uid":"2831080765",
+"parent":"",
+"text":"没人性",
+"mid":"A9qOCjl9Z",
+"date":"2013-09-14 17:14:39"
+},
+{
+"kids":[],
+"uid":"2124804221",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qOuAWZv",
+"date":"2013-09-14 17:14:21"
+},
+{
+"kids":[],
+"uid":"2877016742",
+"parent":"",
+"text":"人在做天在看~或许他孩子的将来就是他的现在~ 神 是公义的~不偏待人~",
+"mid":"A9qOsy4jG",
+"date":"2013-09-14 17:14:14"
+},
+{
+"kids":[],
+"uid":"2050819011",
+"parent":"",
+"text":"",
+"mid":"A9qOsdV8V",
+"date":"2013-09-14 17:14:14"
+},
+{
+"kids":[],
+"uid":"omosone",
+"parent":"",
+"text":"草泥马！！！去死吧！！！畜生都不如！好去死了！！！断子绝孙把！",
+"mid":"A9qOrDBQi",
+"date":"2013-09-14 17:14:14"
+},
+{
+"kids":[],
+"uid":"2988644105",
+"parent":"",
+"text":"国家法律太不健全 应该判死刑",
+"mid":"A9qOrChi5",
+"date":"2013-09-14 17:14:14"
+},
+{
+"kids":[],
+"uid":"1727555144",
+"parent":"",
+"text":"一个人连养育之恩都能抛到脑后，连畜生都不如！[怒]",
+"mid":"A9qOr4p7B",
+"date":"2013-09-14 17:14:11"
+},
+{
+"kids":[],
+"uid":"2362180030",
+"parent":"",
+"text":"转发微博。",
+"mid":"A9qOm4bja",
+"date":"2013-09-14 17:14:00"
+},
+{
+"kids":[],
+"uid":"2165124975",
+"parent":"",
+"text":"",
+"mid":"A9qOl9IJv",
+"date":"2013-09-14 17:13:58"
+},
+{
+"kids":[],
+"uid":"whp",
+"parent":"",
+"text":"",
+"mid":"A9qOeC8fR",
+"date":"2013-09-14 17:13:44"
+},
+{
+"kids":[],
+"uid":"2280289123",
+"parent":"",
+"text":"禽兽不如啊！",
+"mid":"A9qOeC8cw",
+"date":"2013-09-14 17:13:43"
+},
+{
+"kids":[
+"A9rHfwsXN",
+"A9rGWjI4k",
+"A9qSStwR1"
+],
+"uid":"selenayun",
+"parent":"",
+"text":"[怒][憤怒]没人性讲出这种话！！",
+"mid":"A9qOe3MiX",
+"date":"2013-09-14 17:13:42"
+},
+{
+"kids":[],
+"uid":"208726888",
+"parent":"",
+"text":"痛！",
+"mid":"A9qOd9GJd",
+"date":"2013-09-14 17:13:38"
+},
+{
+"kids":[],
+"uid":"2755821493",
+"parent":"",
+"text":"良心被狗吃了么！！",
+"mid":"A9qO8qJ5U",
+"date":"2013-09-14 17:13:28"
+},
+{
+"kids":[],
+"uid":"2667482041",
+"parent":"",
+"text":"(#‵′)靠，么逼人",
+"mid":"A9qO66w1i",
+"date":"2013-09-14 17:13:22"
+},
+{
+"kids":[],
+"uid":"1943233817",
+"parent":"",
+"text":"TMD这是人说的话吗",
+"mid":"A9qO2xwVW",
+"date":"2013-09-14 17:13:14"
+},
+{
+"kids":[],
+"uid":"1886829805",
+"parent":"",
+"text":"继子就是畜生不如，一定要鞭刑",
+"mid":"A9qO15c1r",
+"date":"2013-09-14 17:13:08"
+},
+{
+"kids":[
+"A9RvQmWWl",
+"A9HT4jgS0",
+"A9Gfd3XZJ",
+"A9xgF30A4"
+],
+"uid":"3254225560",
+"parent":"",
+"text":"畜生不如",
+"mid":"A9qO15bXl",
+"date":"2013-09-14 17:13:10"
+},
+{
+"kids":[],
+"uid":"1188092132",
+"parent":"",
+"text":"政府可以采用司法救济啊……法援起诉继子尽赡养义务啊",
+"mid":"A9qNZh9af",
+"date":"2013-09-14 17:13:04"
+},
+{
+"kids":[],
+"uid":"2411676290",
+"parent":"",
+"text":"这种人就应该拉出去毙了！！！",
+"mid":"A9qNUyRIm",
+"date":"2013-09-14 17:12:55"
+},
+{
+"kids":[],
+"uid":"auqihc",
+"parent":"",
+"text":"看来有当城管的潜质啊",
+"mid":"A9qNU2cZx",
+"date":"2013-09-14 17:12:52"
+},
+{
+"kids":[],
+"uid":"1095321522",
+"parent":"",
+"text":"畜生",
+"mid":"A9qNTFvws",
+"date":"2013-09-14 17:12:53"
+},
+{
+"kids":[],
+"uid":"yingjun8309",
+"parent":"",
+"text":"",
+"mid":"A9qNOnGsN",
+"date":"2013-09-14 17:12:39"
+},
+{
+"kids":[
+"A9qYBEXq8"
+],
+"uid":"2036791750",
+"parent":"",
+"text":"作孽哦",
+"mid":"A9qNOmtl7",
+"date":"2013-09-14 17:12:39"
+},
+{
+"kids":[
+"A9qSPwbFf",
+"A9qRaDUXe"
+],
+"uid":"chaiyumen",
+"parent":"",
+"text":"大v又集体不出声了，看这转发量！！",
+"mid":"A9qNNbCKD",
+"date":"2013-09-14 17:12:38"
+},
+{
+"kids":[],
+"uid":"2915765177",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qNMjArw",
+"date":"2013-09-14 17:12:33"
+},
+{
+"kids":[
+"A9sVsaGYR"
+],
+"uid":"raykang888",
+"parent":"",
+"text":"[怒]",
+"mid":"A9qNJ4DYQ",
+"date":"2013-09-14 17:12:27"
+},
+{
+"kids":[],
+"uid":"1740449910",
+"parent":"",
+"text":"所以，付出的时候先看看是不是白填给白眼狼了",
+"mid":"A9qNFvF3C",
+"date":"2013-09-14 17:12:19"
+},
+{
+"kids":[],
+"uid":"1861011123",
+"parent":"",
+"text":"良心他妈被狗吃了！！",
+"mid":"A9qNE1ZTm",
+"date":"2013-09-14 17:12:13"
+},
+{
+"kids":[],
+"uid":"2325154101",
+"parent":"",
+"text":"冷血啊，人渣啊",
+"mid":"A9qNDqlWy",
+"date":"2013-09-14 17:12:12"
+},
+{
+"kids":[],
+"uid":"3025426845",
+"parent":"",
+"text":"什么人嘛",
+"mid":"A9qNCyjG7",
+"date":"2013-09-14 17:12:11"
+},
+{
+"kids":[],
+"uid":"3794279364",
+"parent":"",
+"text":"",
+"mid":"A9qNAqQra",
+"date":"2013-09-14 17:12:06"
+},
+{
+"kids":[],
+"uid":"3756833111",
+"parent":"",
+"text":"靠！？！！怎么这样？",
+"mid":"A9qNyq7QS",
+"date":"2013-09-14 17:12:00"
+},
+{
+"kids":[],
+"uid":"1411772835",
+"parent":"",
+"text":"把这种畜生回炉吧！",
+"mid":"A9qNynC48",
+"date":"2013-09-14 17:12:01"
+},
+{
+"kids":[],
+"uid":"2906145197",
+"parent":"",
+"text":"人性何在?",
+"mid":"A9qNugJ8v",
+"date":"2013-09-14 17:11:50"
+},
+{
+"kids":[
+"A9vOHgYM1"
+],
+"uid":"qingzhou3g",
+"parent":"",
+"text":"畜牲[怒][怒][怒]",
+"mid":"A9qNss6Pc",
+"date":"2013-09-14 17:11:48"
+},
+{
+"kids":[],
+"uid":"2338194014",
+"parent":"",
+"text":"枪毙",
+"mid":"A9qNrAZmF",
+"date":"2013-09-14 17:11:46"
+},
+{
+"kids":[],
+"uid":"2058509200",
+"parent":"",
+"text":"[怒]养育之恩大过天！",
+"mid":"A9qNpvDqQ",
+"date":"2013-09-14 17:11:41"
+},
+{
+"kids":[],
+"uid":"2872515063",
+"parent":"",
+"text":"人人都会老，报应迟早会来的！",
+"mid":"A9qNmja6j",
+"date":"2013-09-14 17:11:33"
+},
+{
+"kids":[],
+"uid":"fuzheng1986",
+"parent":"",
+"text":"这种人会遭天谴的",
+"mid":"A9qNlEdjv",
+"date":"2013-09-14 17:11:32"
+},
+{
+"kids":[],
+"uid":"2371834707",
+"parent":"",
+"text":"没良心[思考][思考][思考][思考]",
+"mid":"A9qNl8jmQ",
+"date":"2013-09-14 17:11:28"
+},
+{
+"kids":[],
+"uid":"3242472067",
+"parent":"",
+"text":"",
+"mid":"A9qNjjnNz",
+"date":"2013-09-14 17:11:26"
+},
+{
+"kids":[],
+"uid":"3776825295",
+"parent":"",
+"text":"送他们两个字，畜生。",
+"mid":"A9qNjiwOO",
+"date":"2013-09-14 17:11:25"
+},
+{
+"kids":[
+"A9reiqggD"
+],
+"uid":"fish5tvxq",
+"parent":"",
+"text":"等着天打雷劈吧T.T",
+"mid":"A9qNi9LrN",
+"date":"2013-09-14 17:11:23"
+},
+{
+"kids":[],
+"uid":"1735812277",
+"parent":"",
+"text":"[泪][泪]",
+"mid":"A9qNhfiwc",
+"date":"2013-09-14 17:11:20"
+},
+{
+"kids":[],
+"uid":"hudie111",
+"parent":"",
+"text":"人心不是肉长的。",
+"mid":"A9qNgotLo",
+"date":"2013-09-14 17:11:19"
+},
+{
+"kids":[],
+"uid":"1867088613",
+"parent":"",
+"text":"扑街 你也会有老的一天 [怒]",
+"mid":"A9qNcvug5",
+"date":"2013-09-14 17:11:10"
+},
+{
+"kids":[
+"A9r76vM2c"
+],
+"uid":"1007818781",
+"parent":"",
+"text":"谴责他",
+"mid":"A9qNcdT3E",
+"date":"2013-09-14 17:11:10"
+},
+{
+"kids":[],
+"uid":"1747379620",
+"parent":"",
+"text":"[怒][怒][怒]",
+"mid":"A9qN7ws8B",
+"date":"2013-09-14 17:10:57"
+},
+{
+"kids":[],
+"uid":"2747371721",
+"parent":"",
+"text":"",
+"mid":"A9qN7u4QC",
+"date":"2013-09-14 17:10:58"
+}
+]

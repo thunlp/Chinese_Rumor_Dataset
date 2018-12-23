@@ -1,0 +1,1478 @@
+[
+{
+"kids":[],
+"uid":"2803352324",
+"parent":"z6qqnC8Rf",
+"text":"",
+"mid":"z9ruGgYI3",
+"date":"2012-12-12 20:13:59"
+},
+{
+"kids":[],
+"uid":"3105013011",
+"parent":"z9eGm4z0C",
+"text":"",
+"mid":"z9flweP7w",
+"date":"2012-12-11 13:18:26"
+},
+{
+"kids":[
+"z9flweP7w"
+],
+"uid":"1583084751",
+"parent":"z6qqnC8Rf",
+"text":"",
+"mid":"z9eGm4z0C",
+"date":"2012-12-11 11:37:00"
+},
+{
+"kids":[],
+"uid":"2919972450",
+"parent":"z6qqnC8Rf",
+"text":"",
+"mid":"z8rA5oPPd",
+"date":"2012-12-06 06:37:00"
+},
+{
+"kids":[],
+"uid":"2789831904",
+"parent":"z6qqnC8Rf",
+"text":"",
+"mid":"z8rA5oPOL",
+"date":"2012-12-06 06:37:00"
+},
+{
+"kids":[],
+"uid":"2790052230",
+"parent":"z6qqnC8Rf",
+"text":"",
+"mid":"z8imBfhpT",
+"date":"2012-12-05 07:09:03"
+},
+{
+"kids":[],
+"uid":"1909951851",
+"parent":"z6qpwmJbd",
+"text":"",
+"mid":"z8aM5oVKu",
+"date":"2012-12-04 11:49:52"
+},
+{
+"kids":[],
+"uid":"2919349024",
+"parent":"z7kAapT9B",
+"text":"",
+"mid":"z87KTCGwO",
+"date":"2012-12-04 04:08:41"
+},
+{
+"kids":[],
+"uid":"2790010282",
+"parent":"z7kAapT9B",
+"text":"",
+"mid":"z85v55O01",
+"date":"2012-12-03 22:24:14"
+},
+{
+"kids":[],
+"uid":"2789810380",
+"parent":"z7kAapT9B",
+"text":"",
+"mid":"z85v55NXK",
+"date":"2012-12-03 22:24:11"
+},
+{
+"kids":[],
+"uid":"2193910132",
+"parent":"",
+"text":"",
+"mid":"z8108vLuI",
+"date":"2012-12-03 10:57:01"
+},
+{
+"kids":[],
+"uid":"2920027094",
+"parent":"z7agGsvzB",
+"text":"",
+"mid":"z7JXwx83q",
+"date":"2012-12-01 15:33:52"
+},
+{
+"kids":[],
+"uid":"2810177682",
+"parent":"z7agGsvzB",
+"text":"",
+"mid":"z7JXwfwTE",
+"date":"2012-12-01 15:33:50"
+},
+{
+"kids":[],
+"uid":"1583437420",
+"parent":"z7agGsvzB",
+"text":"",
+"mid":"z7ytK0J6s",
+"date":"2012-11-30 10:20:16"
+},
+{
+"kids":[],
+"uid":"2809098764",
+"parent":"z6IxScLg2",
+"text":"",
+"mid":"z7xMxD08s",
+"date":"2012-11-30 08:33:50"
+},
+{
+"kids":[],
+"uid":"2789759482",
+"parent":"z6IxScLg2",
+"text":"",
+"mid":"z7xMxCUXw",
+"date":"2012-11-30 08:33:52"
+},
+{
+"kids":[],
+"uid":"2919484310",
+"parent":"z6qqnC8Rf",
+"text":"",
+"mid":"z7vlen9Dq",
+"date":"2012-11-30 02:21:05"
+},
+{
+"kids":[],
+"uid":"1583950721",
+"parent":"z6qqnC8Rf",
+"text":"",
+"mid":"z7vlelGjl",
+"date":"2012-11-30 02:21:05"
+},
+{
+"kids":[],
+"uid":"2804286804",
+"parent":"z6IxScLg2",
+"text":"",
+"mid":"z7sqflCVv",
+"date":"2012-11-29 18:55:10"
+},
+{
+"kids":[],
+"uid":"2920080834",
+"parent":"z6IxScLg2",
+"text":"",
+"mid":"z7sqflgc8",
+"date":"2012-11-29 18:55:09"
+},
+{
+"kids":[],
+"uid":"2919941050",
+"parent":"z6qqnC8Rf",
+"text":"",
+"mid":"z7pZ1FtHr",
+"date":"2012-11-29 12:42:40"
+},
+{
+"kids":[],
+"uid":"2790072440",
+"parent":"z6qqnC8Rf",
+"text":"",
+"mid":"z7pZ1FtFL",
+"date":"2012-11-29 12:42:39"
+},
+{
+"kids":[
+"z87KTCGwO",
+"z85v55O01",
+"z85v55NXK"
+],
+"uid":"brucemiao",
+"parent":"",
+"text":"感恩的心",
+"mid":"z7kAapT9B",
+"date":"2012-11-28 22:57:40"
+},
+{
+"kids":[
+"z7JXwx83q",
+"z7JXwfwTE",
+"z7ytK0J6s"
+],
+"uid":"1944272565",
+"parent":"",
+"text":"",
+"mid":"z7agGsvzB",
+"date":"2012-11-27 20:42:12"
+},
+{
+"kids":[],
+"uid":"1574170264",
+"parent":"z6qAFhZQy",
+"text":"",
+"mid":"z6KO9pyXM",
+"date":"2012-11-25 03:53:13"
+},
+{
+"kids":[
+"z7xMxD08s",
+"z7xMxCUXw",
+"z7sqflCVv",
+"z7sqflgc8"
+],
+"uid":"1561881805",
+"parent":"",
+"text":"感谢多年来一直未曾离开我的人。",
+"mid":"z6IxScLg2",
+"date":"2012-11-24 22:07:37"
+},
+{
+"kids":[],
+"uid":"1231556481",
+"parent":"z6qETCnNE",
+"text":"",
+"mid":"z6Dv568S9",
+"date":"2012-11-24 09:17:01"
+},
+{
+"kids":[],
+"uid":"1801703887",
+"parent":"",
+"text":"",
+"mid":"z6CWdw5yE",
+"date":"2012-11-24 07:51:09"
+},
+{
+"kids":[],
+"uid":"2919520400",
+"parent":"z6u5Jbb8C",
+"text":"",
+"mid":"z6BKt6YKn",
+"date":"2012-11-24 04:49:25"
+},
+{
+"kids":[],
+"uid":"2272755864",
+"parent":"z6qB0fUgI",
+"text":"",
+"mid":"z6zjOkZZV",
+"date":"2012-11-23 22:38:16"
+},
+{
+"kids":[],
+"uid":"2437932340",
+"parent":"z6qEKbcL5",
+"text":"",
+"mid":"z6xRd0Tfo",
+"date":"2012-11-23 18:55:03"
+},
+{
+"kids":[],
+"uid":"2810409242",
+"parent":"z6tA3ilq7",
+"text":"",
+"mid":"z6x0oCiPH",
+"date":"2012-11-23 16:44:57"
+},
+{
+"kids":[],
+"uid":"1212474794",
+"parent":"",
+"text":"我是个白痴。",
+"mid":"z6wvK42YC",
+"date":"2012-11-23 15:29:26"
+},
+{
+"kids":[],
+"uid":"wushiry",
+"parent":"",
+"text":"明显要啦...不过我宜家先睇到...- -..我都@ 下....@Game-義忠仁瓜神",
+"mid":"z6w6Vanjh",
+"date":"2012-11-23 14:28:16"
+},
+{
+"kids":[],
+"uid":"2168250751",
+"parent":"",
+"text":"",
+"mid":"z6vx6uQ2j",
+"date":"2012-11-23 13:00:02"
+},
+{
+"kids":[],
+"uid":"2100506815",
+"parent":"",
+"text":"",
+"mid":"z6vrNloBJ",
+"date":"2012-11-23 12:46:57"
+},
+{
+"kids":[],
+"uid":"hmhao",
+"parent":"z6qHSCjWM",
+"text":"嗯[得意]@Rong哥仔__",
+"mid":"z6vhiloN9",
+"date":"2012-11-23 12:21:03"
+},
+{
+"kids":[],
+"uid":"2919865290",
+"parent":"z6qZBA6bV",
+"text":"",
+"mid":"z6vh5E8HL",
+"date":"2012-11-23 12:20:35"
+},
+{
+"kids":[],
+"uid":"2919277940",
+"parent":"z6qZBA6bV",
+"text":"",
+"mid":"z6vh5E8Gt",
+"date":"2012-11-23 12:20:34"
+},
+{
+"kids":[],
+"uid":"shanzhifanhua",
+"parent":"z6qEKbcL5",
+"text":"其实，真正需要感谢的是多年来一直未曾离开你的人。",
+"mid":"z6uUHsP7q",
+"date":"2012-11-23 11:25:25"
+},
+{
+"kids":[],
+"uid":"1289092260",
+"parent":"",
+"text":"这段话说得真好",
+"mid":"z6uTakfAP",
+"date":"2012-11-23 11:21:38"
+},
+{
+"kids":[],
+"uid":"2003588763",
+"parent":"",
+"text":"",
+"mid":"z6uO4psoi",
+"date":"2012-11-23 11:09:04"
+},
+{
+"kids":[],
+"uid":"2030065580",
+"parent":"z6u5Jbb8C",
+"text":"感谢你们的包容[鼓掌][鼓掌][鼓掌]",
+"mid":"z6uwvu089",
+"date":"2012-11-23 10:25:49"
+},
+{
+"kids":[],
+"uid":"2165356234",
+"parent":"z6tl8a10g",
+"text":"",
+"mid":"z6uvzkO1D",
+"date":"2012-11-23 10:23:30"
+},
+{
+"kids":[],
+"uid":"2880200854",
+"parent":"z6qICsGLj",
+"text":"第一句话",
+"mid":"z6us6vNCz",
+"date":"2012-11-23 10:14:58"
+},
+{
+"kids":[],
+"uid":"1989024917",
+"parent":"",
+"text":"不做首先离开的人",
+"mid":"z6umTdUWk",
+"date":"2012-11-23 10:02:07"
+},
+{
+"kids":[],
+"uid":"578359935",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6ulLuI0H",
+"date":"2012-11-23 09:59:20"
+},
+{
+"kids":[],
+"uid":"2814736252",
+"parent":"",
+"text":"感谢一直未曾离开的人",
+"mid":"z6ufKAnd2",
+"date":"2012-11-23 09:44:31"
+},
+{
+"kids":[],
+"uid":"1310548172",
+"parent":"z6qEKbcL5",
+"text":"",
+"mid":"z6u9QrbjL",
+"date":"2012-11-23 09:29:59"
+},
+{
+"kids":[],
+"uid":"vickys2010",
+"parent":"z6qtNbnw4",
+"text":"",
+"mid":"z6u9zksei",
+"date":"2012-11-23 09:29:17"
+},
+{
+"kids":[],
+"uid":"1477578927",
+"parent":"",
+"text":"",
+"mid":"z6u760fPD",
+"date":"2012-11-23 09:23:11"
+},
+{
+"kids":[
+"z6BKt6YKn",
+"z6uwvu089"
+],
+"uid":"ranel",
+"parent":"z6tTU4XOn",
+"text":"感谢你们的陪伴",
+"mid":"z6u5Jbb8C",
+"date":"2012-11-23 09:19:50"
+},
+{
+"kids":[],
+"uid":"1599830265",
+"parent":"",
+"text":"",
+"mid":"z6u5odjOj",
+"date":"2012-11-23 09:18:59"
+},
+{
+"kids":[],
+"uid":"1588432234",
+"parent":"",
+"text":"",
+"mid":"z6u57jyS1",
+"date":"2012-11-23 09:18:18"
+},
+{
+"kids":[],
+"uid":"2810241682",
+"parent":"",
+"text":"",
+"mid":"z6u571XHS",
+"date":"2012-11-23 09:18:19"
+},
+{
+"kids":[],
+"uid":"potato007",
+"parent":"",
+"text":"",
+"mid":"z6u4Nyr8M",
+"date":"2012-11-23 09:17:33"
+},
+{
+"kids":[],
+"uid":"2475780570",
+"parent":"",
+"text":"",
+"mid":"z6u1ztPRl",
+"date":"2012-11-23 09:09:36"
+},
+{
+"kids":[],
+"uid":"1745183380",
+"parent":"",
+"text":"一直联系着…就是感情。",
+"mid":"z6tYlseDC",
+"date":"2012-11-23 09:01:38"
+},
+{
+"kids":[],
+"uid":"jky128",
+"parent":"z6qEKbcL5",
+"text":"谢谢p君。",
+"mid":"z6tWNqDAZ",
+"date":"2012-11-23 08:57:50"
+},
+{
+"kids":[
+"z6u5Jbb8C"
+],
+"uid":"2700749622",
+"parent":"z6rd8uB5I",
+"text":"也谢谢你们[爱你]",
+"mid":"z6tTU4XOn",
+"date":"2012-11-23 08:50:41"
+},
+{
+"kids":[],
+"uid":"2695130224",
+"parent":"",
+"text":"",
+"mid":"z6tRJgYmO",
+"date":"2012-11-23 08:45:21"
+},
+{
+"kids":[],
+"uid":"1772306124",
+"parent":"z6qEKbcL5",
+"text":"",
+"mid":"z6tPr9oPz",
+"date":"2012-11-23 08:39:43"
+},
+{
+"kids":[],
+"uid":"mn0617",
+"parent":"",
+"text":"",
+"mid":"z6tOS1YhA",
+"date":"2012-11-23 08:38:18"
+},
+{
+"kids":[],
+"uid":"507896887",
+"parent":"",
+"text":"感谢多年未离开我的人",
+"mid":"z6tLHvHBq",
+"date":"2012-11-23 08:30:30"
+},
+{
+"kids":[],
+"uid":"2064162983",
+"parent":"",
+"text":"",
+"mid":"z6tEsCmxV",
+"date":"2012-11-23 08:12:40"
+},
+{
+"kids":[],
+"uid":"lujianhuan",
+"parent":"z6qEKbcL5",
+"text":"嗯，早安 。感谢亲人和与你不离不弃的朋友。",
+"mid":"z6tDwrPhU",
+"date":"2012-11-23 08:10:21"
+},
+{
+"kids":[],
+"uid":"2808062594",
+"parent":"",
+"text":"",
+"mid":"z6tCxwt7a",
+"date":"2012-11-23 08:07:56"
+},
+{
+"kids":[
+"z6x0oCiPH"
+],
+"uid":"1096833787",
+"parent":"",
+"text":"",
+"mid":"z6tA3ilq7",
+"date":"2012-11-23 08:01:48"
+},
+{
+"kids":[],
+"uid":"felixgd",
+"parent":"z6qEKbcL5",
+"text":"最烦一种人：别人写得好，自己写不出，第一时间就想：这家伙抄的",
+"mid":"z6tutkmj9",
+"date":"2012-11-23 07:48:02"
+},
+{
+"kids":[],
+"uid":"1998336791",
+"parent":"",
+"text":"",
+"mid":"z6tmdvAkB",
+"date":"2012-11-23 07:27:43"
+},
+{
+"kids":[],
+"uid":"sooflife",
+"parent":"",
+"text":"",
+"mid":"z6tlH2fiz",
+"date":"2012-11-23 07:26:25"
+},
+{
+"kids":[
+"z6uvzkO1D"
+],
+"uid":"1687631744",
+"parent":"",
+"text":"",
+"mid":"z6tl8a10g",
+"date":"2012-11-23 07:25:02"
+},
+{
+"kids":[],
+"uid":"1851773775",
+"parent":"",
+"text":"",
+"mid":"z6tkg3jbQ",
+"date":"2012-11-23 07:22:52"
+},
+{
+"kids":[],
+"uid":"btkiller",
+"parent":"z6qEKbcL5",
+"text":"感谢那些还记得我的人，不管联系木联系，偶尔想起或者时常联系的。",
+"mid":"z6tffvR7F",
+"date":"2012-11-23 07:10:33"
+},
+{
+"kids":[],
+"uid":"521367817",
+"parent":"z6qqTuQ9P",
+"text":"转发微薄",
+"mid":"z6tdFoGxI",
+"date":"2012-11-23 07:06:39"
+},
+{
+"kids":[],
+"uid":"a030811063",
+"parent":"",
+"text":"感谢多年陪伴在自己身边的人",
+"mid":"z6t123ubk",
+"date":"2012-11-23 06:35:31"
+},
+{
+"kids":[],
+"uid":"1402226322",
+"parent":"",
+"text":"想念再没见面、很少见面，以及经常见面的亲朋好友。",
+"mid":"z6t0brmJU",
+"date":"2012-11-23 06:33:25"
+},
+{
+"kids":[],
+"uid":"pab188920",
+"parent":"",
+"text":"[偷笑]",
+"mid":"z6sfpvyN1",
+"date":"2012-11-23 04:38:12"
+},
+{
+"kids":[],
+"uid":"1724901604",
+"parent":"z6qEKbcL5",
+"text":"",
+"mid":"z6rXLzLmA",
+"date":"2012-11-23 03:54:44"
+},
+{
+"kids":[],
+"uid":"2901787511",
+"parent":"z6qqTuQ9P",
+"text":"转发微薄",
+"mid":"z6rXy0rh8",
+"date":"2012-11-23 03:54:11"
+},
+{
+"kids":[],
+"uid":"309042315",
+"parent":"z6qEKbcL5",
+"text":"其实~与其在微博上转发，还不如打个电话说说…不过，这句话也挺有道理的…",
+"mid":"z6rVXA2MJ",
+"date":"2012-11-23 03:50:17"
+},
+{
+"kids":[],
+"uid":"1957683585",
+"parent":"",
+"text":"",
+"mid":"z6rs34Tf2",
+"date":"2012-11-23 02:36:34"
+},
+{
+"kids":[],
+"uid":"tankal",
+"parent":"",
+"text":"",
+"mid":"z6rrL1nXp",
+"date":"2012-11-23 02:35:52"
+},
+{
+"kids":[],
+"uid":"2390286347",
+"parent":"",
+"text":"真正要感谢的人是多年来一直未离开你的人，比如父母。",
+"mid":"z6rllhNvv",
+"date":"2012-11-23 02:20:04"
+},
+{
+"kids":[
+"z6tTU4XOn"
+],
+"uid":"1792085090",
+"parent":"z6raohwWu",
+"text":"ps:我不怎么会说话，身上好多缺点，灰常感激你们的不离不弃，感激你们的包容，谢谢and对不起！感恩能让我遇上你们。谢谢大家",
+"mid":"z6rd8uB5I",
+"date":"2012-11-23 01:59:51"
+},
+{
+"kids":[
+"z6rd8uB5I"
+],
+"uid":"1792085090",
+"parent":"",
+"text":"@丨丶灬丽er丨 @尕芸大人仔 @bibi2 @小欣_karen @靓靓_吖moon @LIU楚 @菁彩无限 谢谢你们一直的陪伴，爱你们！[亲亲]",
+"mid":"z6raohwWu",
+"date":"2012-11-23 01:53:05"
+},
+{
+"kids":[],
+"uid":"2404548367",
+"parent":"",
+"text":"Thanks",
+"mid":"z6r9mtiuC",
+"date":"2012-11-23 01:50:33"
+},
+{
+"kids":[],
+"uid":"2949504825",
+"parent":"",
+"text":"",
+"mid":"z6r1Kw8Au",
+"date":"2012-11-23 01:31:48"
+},
+{
+"kids":[
+"z6vh5E8HL",
+"z6vh5E8Gt"
+],
+"uid":"tchyp",
+"parent":"z6quB4Yy1",
+"text":"",
+"mid":"z6qZBA6bV",
+"date":"2012-11-23 01:26:31"
+},
+{
+"kids":[],
+"uid":"2004528911",
+"parent":"",
+"text":"",
+"mid":"z6qXzmMro",
+"date":"2012-11-23 01:21:29"
+},
+{
+"kids":[],
+"uid":"msssssbape",
+"parent":"",
+"text":"",
+"mid":"z6qVl7OYb",
+"date":"2012-11-23 01:16:00"
+},
+{
+"kids":[],
+"uid":"oasissunshine",
+"parent":"",
+"text":"虽然过了感恩节的午夜，还是感谢此时此刻，感谢一直有你们的日子。心里有着你们也是实实在在的陪伴。晚安，每天都要怀着感恩的心对待陪伴的人。[心]",
+"mid":"z6qOdBZri",
+"date":"2012-11-23 00:58:28"
+},
+{
+"kids":[],
+"uid":"534531967",
+"parent":"z6qqTuQ9P",
+"text":"转发微薄",
+"mid":"z6qMOv2wf",
+"date":"2012-11-23 00:54:57"
+},
+{
+"kids":[],
+"uid":"1844256503",
+"parent":"",
+"text":"",
+"mid":"z6qMJrIlz",
+"date":"2012-11-23 00:54:47"
+},
+{
+"kids":[],
+"uid":"13165131",
+"parent":"z6qEKbcL5",
+"text":"Ppt君文采好[good]",
+"mid":"z6qLSyT4a",
+"date":"2012-11-23 00:52:42"
+},
+{
+"kids":[],
+"uid":"niuniubility",
+"parent":"",
+"text":"",
+"mid":"z6qKQrfIF",
+"date":"2012-11-23 00:50:09"
+},
+{
+"kids":[],
+"uid":"chajimali",
+"parent":"",
+"text":"",
+"mid":"z6qKrjHki",
+"date":"2012-11-23 00:49:06"
+},
+{
+"kids":[],
+"uid":"1714028090",
+"parent":"z6qEKbcL5",
+"text":"",
+"mid":"z6qJv7a5j",
+"date":"2012-11-23 00:46:50"
+},
+{
+"kids":[],
+"uid":"lumlumcatcat",
+"parent":"z6qEKbcL5",
+"text":"感恩劫.",
+"mid":"z6qJpw49Z",
+"date":"2012-11-23 00:46:37"
+},
+{
+"kids":[
+"z6us6vNCz"
+],
+"uid":"1909270760",
+"parent":"",
+"text":"@mark",
+"mid":"z6qICsGLj",
+"date":"2012-11-23 00:44:40"
+},
+{
+"kids":[],
+"uid":"candywater",
+"parent":"",
+"text":"PPT君，我要对你刮目相看了!!!",
+"mid":"z6qIhsRoH",
+"date":"2012-11-23 00:43:50"
+},
+{
+"kids":[
+"z6vhiloN9"
+],
+"uid":"208282779",
+"parent":"",
+"text":"多年后希望彼此都不曾远离@ 家人 @__Hao哥仔 @家展爱桃子 [心][心]",
+"mid":"z6qHSCjWM",
+"date":"2012-11-23 00:42:48"
+},
+{
+"kids":[],
+"uid":"2094135185",
+"parent":"z6qF8p0zT",
+"text":"",
+"mid":"z6qHEsiSV",
+"date":"2012-11-23 00:42:17"
+},
+{
+"kids":[],
+"uid":"2374770901",
+"parent":"",
+"text":"+1",
+"mid":"z6qH76PJ4",
+"date":"2012-11-23 00:40:58"
+},
+{
+"kids":[],
+"uid":"5lovekg",
+"parent":"",
+"text":"",
+"mid":"z6qGOryN5",
+"date":"2012-11-23 00:40:09"
+},
+{
+"kids":[],
+"uid":"54yinziqing",
+"parent":"z6qEKbcL5",
+"text":"不是不离不弃，是离而不弃。",
+"mid":"z6qGDuImo",
+"date":"2012-11-23 00:39:47"
+},
+{
+"kids":[],
+"uid":"338386984",
+"parent":"z6qEKbcL5",
+"text":"我们都曾努力去爱过一个人，最后她说你是个好人。",
+"mid":"z6qGotdq8",
+"date":"2012-11-23 00:39:11"
+},
+{
+"kids":[],
+"uid":"2129917533",
+"parent":"z6qEKbcL5",
+"text":"",
+"mid":"z6qFLsEQY",
+"date":"2012-11-23 00:37:39"
+},
+{
+"kids":[],
+"uid":"changlaiwenwen",
+"parent":"",
+"text":"感谢这11年来没有离开过我，伴我成长的每一个人。",
+"mid":"z6qFhhCz0",
+"date":"2012-11-23 00:36:27"
+},
+{
+"kids":[
+"z6qHEsiSV"
+],
+"uid":"206415679",
+"parent":"z6qwPmOfe",
+"text":"特别@ 一下@谁爷又回来了 ,失去联络的六年真心不好受,还好现在又找回来了\"行,我算一算,我好像把你弄丢了六年了,现在才找到\"这话现在还能戳中我泪点,虽然因为时差关系我们的聊天总是断断续续的,不过没关系十年的交情摆在那里不是白看的有事就直奔主题客套寒碜少提,你这个朋友是一辈子的#我又对你煽情了#",
+"mid":"z6qF8p0zT",
+"date":"2012-11-23 00:36:05"
+},
+{
+"kids":[
+"z6Dv568S9"
+],
+"uid":"vivi1102",
+"parent":"",
+"text":"第一句话适合你~ @pix-照宇 [浮云][浮云][浮云]",
+"mid":"z6qETCnNE",
+"date":"2012-11-23 00:35:30"
+},
+{
+"kids":[
+"z6xRd0Tfo",
+"z6uUHsP7q",
+"z6u9QrbjL",
+"z6tWNqDAZ",
+"z6tPr9oPz",
+"z6tDwrPhU",
+"z6tutkmj9",
+"z6tffvR7F",
+"z6rXLzLmA",
+"z6rVXA2MJ",
+"z6qLSyT4a",
+"z6qJv7a5j",
+"z6qJpw49Z",
+"z6qGDuImo",
+"z6qGotdq8",
+"z6qFLsEQY"
+],
+"uid":"208235676",
+"parent":"",
+"text":"回复@郭渣渣:让你失望了亲。。自己写的",
+"mid":"z6qEKbcL5",
+"date":"2012-11-23 00:35:07"
+},
+{
+"kids":[],
+"uid":"2209726760",
+"parent":"",
+"text":"",
+"mid":"z6qDgiHoI",
+"date":"2012-11-23 00:31:28"
+},
+{
+"kids":[],
+"uid":"1778793427",
+"parent":"",
+"text":"很感触",
+"mid":"z6qDf8RAh",
+"date":"2012-11-23 00:31:26"
+},
+{
+"kids":[],
+"uid":"edisonchou7",
+"parent":"",
+"text":"感恩的心，感谢命运[织]",
+"mid":"z6qCKn8i5",
+"date":"2012-11-23 00:30:12"
+},
+{
+"kids":[],
+"uid":"2111499354",
+"parent":"",
+"text":"转发",
+"mid":"z6qBoa1qe",
+"date":"2012-11-23 00:26:51"
+},
+{
+"kids":[
+"z6zjOkZZV"
+],
+"uid":"2254862694",
+"parent":"",
+"text":"现阶段除了父母朋友，感谢你对我的包容和支持[可爱]，原谅我的各种后知后觉和不知不觉[委屈]。@願若玲兒",
+"mid":"z6qB0fUgI",
+"date":"2012-11-23 00:25:54"
+},
+{
+"kids":[
+"z6KO9pyXM"
+],
+"uid":"2055541025",
+"parent":"z6qpH4Sno",
+"text":"[围观][围观][围观]",
+"mid":"z6qAFhZQy",
+"date":"2012-11-23 00:25:04"
+},
+{
+"kids":[],
+"uid":"346351879",
+"parent":"",
+"text":"呜呜呜呜呜",
+"mid":"z6qA9jZBU",
+"date":"2012-11-23 00:23:48"
+},
+{
+"kids":[],
+"uid":"2130077595",
+"parent":"",
+"text":"",
+"mid":"z6qzcgxGl",
+"date":"2012-11-23 00:21:27"
+},
+{
+"kids":[],
+"uid":"1876264695",
+"parent":"",
+"text":"@ 所有多年来一直未曾离开的人 感恩节快乐",
+"mid":"z6qytApXi",
+"date":"2012-11-23 00:19:42"
+},
+{
+"kids":[],
+"uid":"1799018055",
+"parent":"",
+"text":"晚安 没有离开我的人",
+"mid":"z6qysrXZt",
+"date":"2012-11-23 00:19:38"
+},
+{
+"kids":[],
+"uid":"yaozp",
+"parent":"",
+"text":"每一次相遇，都可能是短暂的停留，交集过后，各自沿着原来的轨迹向远方延伸。也许以后不会再有交集，但现在的交集，是在千千万万人之中才得以交汇的，现在的相遇，也会成为一道不可泯灭的风景。感谢家人这些年来的照顾、关爱，感谢生命中遇到你们，感谢这么多年来还一直保持联系的朋友。[心]",
+"mid":"z6qynrF41",
+"date":"2012-11-23 00:19:23"
+},
+{
+"kids":[],
+"uid":"1799018055",
+"parent":"",
+"text":"",
+"mid":"z6qy7bmFv",
+"date":"2012-11-23 00:18:46"
+},
+{
+"kids":[],
+"uid":"xiexiezhuzhups",
+"parent":"",
+"text":"[泪]bingo~~",
+"mid":"z6qy3lV1T",
+"date":"2012-11-23 00:18:38"
+},
+{
+"kids":[],
+"uid":"leezhibo",
+"parent":"",
+"text":"",
+"mid":"z6qxL0sVl",
+"date":"2012-11-23 00:17:55"
+},
+{
+"kids":[],
+"uid":"1969829947",
+"parent":"",
+"text":"",
+"mid":"z6qxAm09v",
+"date":"2012-11-23 00:17:29"
+},
+{
+"kids":[],
+"uid":"hotelhr",
+"parent":"",
+"text":"感恩节",
+"mid":"z6qwVkwd5",
+"date":"2012-11-23 00:15:51"
+},
+{
+"kids":[
+"z6qF8p0zT"
+],
+"uid":"206415679",
+"parent":"",
+"text":"#戳中泪点霎时泪奔#你要真的不会走远,你要发誓在我们不小心走散以后还可以找回我,你要一直在我身边T.T#悲观的人没有未来所以我要学着乐观#",
+"mid":"z6qwPmOfe",
+"date":"2012-11-23 00:15:37"
+},
+{
+"kids":[],
+"uid":"211172868",
+"parent":"",
+"text":"[可爱][呵呵]",
+"mid":"z6qw0idgZ",
+"date":"2012-11-23 00:13:31"
+},
+{
+"kids":[],
+"uid":"44mm",
+"parent":"",
+"text":"晚安，没有离开我的人",
+"mid":"z6qvOsJD0",
+"date":"2012-11-23 00:13:07"
+},
+{
+"kids":[],
+"uid":"1738169285",
+"parent":"",
+"text":"今天意外收到一个曾经很要好但一年来没有联系的同学的感恩节短信，心里很意外又很感激，自己竟然没有意识到今天是什么日子。谢谢爸爸，生日快乐，今年我没有忘记；还有妈妈奶奶，大爹二爹幺爹及你们的家人，以及去世的爷爷和那些一路伴我成长或在某时某刻不经意出现的人。",
+"mid":"z6qvsiS1x",
+"date":"2012-11-23 00:12:11"
+},
+{
+"kids":[
+"z6qZBA6bV"
+],
+"uid":"1879454395",
+"parent":"z6qqxm3HA",
+"text":"[泪] 中",
+"mid":"z6quB4Yy1",
+"date":"2012-11-23 00:10:06"
+},
+{
+"kids":[],
+"uid":"1821492714",
+"parent":"",
+"text":"[打哈欠]",
+"mid":"z6quz2B3J",
+"date":"2012-11-23 00:10:03"
+},
+{
+"kids":[],
+"uid":"1847118577",
+"parent":"",
+"text":"",
+"mid":"z6quxepb6",
+"date":"2012-11-23 00:09:57"
+},
+{
+"kids":[],
+"uid":"1904926365",
+"parent":"z6qqxm3HA",
+"text":"",
+"mid":"z6quitMDL",
+"date":"2012-11-23 00:09:23"
+},
+{
+"kids":[],
+"uid":"2150519627",
+"parent":"",
+"text":"@APRIL晓迪 @啦啦啦小黄瓜 @forever--suju @偷笑的人- @UG小鹏 还有艾特不到的人们 你们老换名字……[哼]",
+"mid":"z6quffWic",
+"date":"2012-11-23 00:09:12"
+},
+{
+"kids":[],
+"uid":"801218998",
+"parent":"",
+"text":"",
+"mid":"z6qu08BBX",
+"date":"2012-11-23 00:08:40"
+},
+{
+"kids":[],
+"uid":"cczhou",
+"parent":"",
+"text":"惊觉感恩节，已经远去。那些让我哭让我笑的人们啊，谢谢你们，一路成长。[围观][熊猫]",
+"mid":"z6qtZ0L6a",
+"date":"2012-11-23 00:08:36"
+},
+{
+"kids":[
+"z6u9zksei"
+],
+"uid":"travelforever",
+"parent":"",
+"text":"感谢你们陪我这个笨孩子 一起走了这么久 [可爱]  @婷婷玉立grace   @QQIvy @phoinikas @hyatb @卖保险的何肥肥Alex @木帛水秀 @关羽傻孩子要撑伞 @賀Emma @暖暖孟婆汤   @LanXLu兰 @喜庆菠萝   @jackyfinance昊 @outlawstars @秋之悠然 @Yolanda_款款 @赵老师很清醒   @Galford-D-Weiler",
+"mid":"z6qtNbnw4",
+"date":"2012-11-23 00:08:05"
+},
+{
+"kids":[],
+"uid":"snowdancing2000",
+"parent":"",
+"text":"我更感谢折磨我的人",
+"mid":"z6qtpdVbR",
+"date":"2012-11-23 00:07:11"
+},
+{
+"kids":[],
+"uid":"206101008",
+"parent":"",
+"text":"心存感激 对事对人",
+"mid":"z6qtb2k0E",
+"date":"2012-11-23 00:06:37"
+},
+{
+"kids":[],
+"uid":"1937237940",
+"parent":"",
+"text":"'珍惜'不是每个人都能做到。当失去时才会真正认知到失去的人或事对自己有多么重要，但已太迟了。你有珍惜你拥有的人和事吗？",
+"mid":"z6qsIDTtM",
+"date":"2012-11-23 00:05:29"
+},
+{
+"kids":[],
+"uid":"2593505495",
+"parent":"z6qqTuQ9P",
+"text":"转发微薄",
+"mid":"z6qscdn8a",
+"date":"2012-11-23 00:04:13"
+},
+{
+"kids":[],
+"uid":"523415717",
+"parent":"",
+"text":"[心]",
+"mid":"z6qs614un",
+"date":"2012-11-23 00:03:56"
+},
+{
+"kids":[],
+"uid":"xudadou",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6qs3CVRu",
+"date":"2012-11-23 00:03:52"
+},
+{
+"kids":[],
+"uid":"loveyou2",
+"parent":"",
+"text":"感谢你们还留在我身边[心]",
+"mid":"z6qrygG3v",
+"date":"2012-11-23 00:02:37"
+},
+{
+"kids":[],
+"uid":"woodlintao",
+"parent":"z6qqxm3HA",
+"text":"",
+"mid":"z6qrh9DnJ",
+"date":"2012-11-23 00:01:53"
+},
+{
+"kids":[],
+"uid":"207411197",
+"parent":"",
+"text":"哎 屁屁踢 你从来不曾离开",
+"mid":"z6qrbxTxV",
+"date":"2012-11-23 00:01:42"
+},
+{
+"kids":[],
+"uid":"1294840685",
+"parent":"z6qqxm3HA",
+"text":"他经常发和ppt毫无关系的大道理",
+"mid":"z6qr7ol7h",
+"date":"2012-11-23 00:01:32"
+},
+{
+"kids":[
+"z6tdFoGxI",
+"z6rXy0rh8",
+"z6qMOv2wf",
+"z6qscdn8a"
+],
+"uid":"101477678",
+"parent":"",
+"text":"哎呀，ppt大晚上的你也小清新了~",
+"mid":"z6qqTuQ9P",
+"date":"2012-11-23 00:01:00"
+},
+{
+"kids":[
+"z6quB4Yy1",
+"z6quitMDL",
+"z6qrh9DnJ",
+"z6qr7ol7h"
+],
+"uid":"littlekids",
+"parent":"z6qpB8Mkm",
+"text":"我被这段话的主人戳中了，叫我爱PPT!",
+"mid":"z6qqxm3HA",
+"date":"2012-11-23 00:00:08"
+},
+{
+"kids":[],
+"uid":"34091353",
+"parent":"",
+"text":"真正需要感谢的是多年来一直未曾离开你的人",
+"mid":"z6qqvh1x2",
+"date":"2012-11-23 00:00:02"
+},
+{
+"kids":[
+"z9ruGgYI3",
+"z9eGm4z0C",
+"z8rA5oPPd",
+"z8rA5oPOL",
+"z8imBfhpT",
+"z7vlen9Dq",
+"z7vlelGjl",
+"z7pZ1FtHr",
+"z7pZ1FtFL"
+],
+"uid":"237255459",
+"parent":"",
+"text":"",
+"mid":"z6qqnC8Rf",
+"date":"2012-11-22 23:59:44"
+},
+{
+"kids":[],
+"uid":"2138528257",
+"parent":"",
+"text":"",
+"mid":"z6qqmnlxH",
+"date":"2012-11-22 23:59:38"
+},
+{
+"kids":[],
+"uid":"shuiguoshike",
+"parent":"",
+"text":"",
+"mid":"z6qqi1unH",
+"date":"2012-11-22 23:59:30"
+},
+{
+"kids":[],
+"uid":"sunjunsj",
+"parent":"",
+"text":"",
+"mid":"z6qq7mXhs",
+"date":"2012-11-22 23:59:05"
+},
+{
+"kids":[],
+"uid":"standming",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6qpXiFyj",
+"date":"2012-11-22 23:58:40"
+},
+{
+"kids":[],
+"uid":"1851083864",
+"parent":"",
+"text":"某人某人某人啊[泪][泪]我这是做错了什么，流年不顺",
+"mid":"z6qpVfXTQ",
+"date":"2012-11-22 23:58:36"
+},
+{
+"kids":[],
+"uid":"missfaith",
+"parent":"",
+"text":"说到心坎里了[泪]",
+"mid":"z6qpJqAem",
+"date":"2012-11-22 23:58:08"
+},
+{
+"kids":[
+"z6qAFhZQy"
+],
+"uid":"1006421467",
+"parent":"",
+"text":"同感⋯⋯",
+"mid":"z6qpH4Sno",
+"date":"2012-11-22 23:58:01"
+},
+{
+"kids":[],
+"uid":"jiguozhen",
+"parent":"",
+"text":"",
+"mid":"z6qpFgpij",
+"date":"2012-11-22 23:57:58"
+},
+{
+"kids":[
+"z6qqxm3HA"
+],
+"uid":"1294840685",
+"parent":"",
+"text":"这段戳中我了，就引用作为今天感恩节的心语吧",
+"mid":"z6qpB8Mkm",
+"date":"2012-11-22 23:57:48"
+},
+{
+"kids":[],
+"uid":"1944944490",
+"parent":"",
+"text":"其实，真正需要感谢的是多年来一直未曾离开你的人",
+"mid":"z6qpAgWhq",
+"date":"2012-11-22 23:57:43"
+},
+{
+"kids":[],
+"uid":"2404853537",
+"parent":"",
+"text":"转发微博。",
+"mid":"z6qpx1Zbu",
+"date":"2012-11-22 23:57:38"
+},
+{
+"kids":[
+"z8aM5oVKu"
+],
+"uid":"hebe521",
+"parent":"",
+"text":"",
+"mid":"z6qpwmJbd",
+"date":"2012-11-22 23:57:37"
+},
+{
+"kids":[],
+"uid":"2823573000",
+"parent":"",
+"text":"",
+"mid":"z6qpvx5Qz",
+"date":"2012-11-22 23:57:35"
+},
+{
+"kids":[],
+"uid":"leikailin",
+"parent":"",
+"text":"谢谢你的话，我们都应该珍惜身边对自己不离不弃的人。",
+"mid":"z6qpsxQZP",
+"date":"2012-11-22 23:57:28"
+},
+{
+"kids":[],
+"uid":"2297672647",
+"parent":"",
+"text":"@爱在路上永恒",
+"mid":"z6qpqvE4p",
+"date":"2012-11-22 23:57:23"
+},
+{
+"kids":[],
+"uid":"2573707561",
+"parent":"",
+"text":"[心][微风][微风]",
+"mid":"z6qpo6o82",
+"date":"2012-11-22 23:57:17"
+},
+{
+"kids":[],
+"uid":"326428686",
+"parent":"",
+"text":"在今天的最后一刻，感谢那些一直在我身边的人~~~[爱你]",
+"mid":"z6qpela1Z",
+"date":"2012-11-22 23:56:54"
+},
+{
+"kids":[],
+"uid":"lionlionlionmonkey",
+"parent":"",
+"text":"有理",
+"mid":"z6qpdc0UT",
+"date":"2012-11-22 23:56:51"
+},
+{
+"kids":[],
+"uid":"2403275221",
+"parent":"",
+"text":"p君的肺腑之言",
+"mid":"z6qp8a0dR",
+"date":"2012-11-22 23:56:38"
+}
+]

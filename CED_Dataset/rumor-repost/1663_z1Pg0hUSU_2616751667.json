@@ -1,0 +1,4259 @@
+[
+{
+"kids":[],
+"uid":"2920422612",
+"parent":"",
+"text":"",
+"mid":"zoZOvuPeN",
+"date":"2013-03-25 03:10:47"
+},
+{
+"kids":[],
+"uid":"2920618560",
+"parent":"",
+"text":"",
+"mid":"zoZOvtrsB",
+"date":"2013-03-25 03:10:47"
+},
+{
+"kids":[],
+"uid":"2808855702",
+"parent":"",
+"text":"",
+"mid":"zoYkurlpT",
+"date":"2013-03-24 23:24:02"
+},
+{
+"kids":[],
+"uid":"2810705592",
+"parent":"",
+"text":"",
+"mid":"zoYkuqca9",
+"date":"2013-03-24 23:24:06"
+},
+{
+"kids":[],
+"uid":"2920516394",
+"parent":"",
+"text":"",
+"mid":"zo4RJjIP6",
+"date":"2013-03-19 02:12:08"
+},
+{
+"kids":[],
+"uid":"2703200113",
+"parent":"znWjzmQdL",
+"text":"",
+"mid":"znXYn97uW",
+"date":"2013-03-18 08:39:17"
+},
+{
+"kids":[
+"znXYn97uW"
+],
+"uid":"2920084350",
+"parent":"",
+"text":"",
+"mid":"znWjzmQdL",
+"date":"2013-03-18 04:26:01"
+},
+{
+"kids":[],
+"uid":"2790128082",
+"parent":"",
+"text":"",
+"mid":"znbTbzKkU",
+"date":"2013-03-13 06:14:40"
+},
+{
+"kids":[],
+"uid":"2920310290",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"zlllZ25BN",
+"date":"2013-03-01 02:39:43"
+},
+{
+"kids":[],
+"uid":"2809938510",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"zlboVDP55",
+"date":"2013-02-28 01:19:30"
+},
+{
+"kids":[],
+"uid":"2919761162",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"zkr2OCeum",
+"date":"2013-02-23 03:18:41"
+},
+{
+"kids":[],
+"uid":"2919286904",
+"parent":"",
+"text":"",
+"mid":"ziuJCcduw",
+"date":"2013-02-10 09:01:45"
+},
+{
+"kids":[],
+"uid":"2802956982",
+"parent":"",
+"text":"",
+"mid":"zijNDfvbQ",
+"date":"2013-02-09 05:11:26"
+},
+{
+"kids":[],
+"uid":"2802991534",
+"parent":"",
+"text":"",
+"mid":"zhyTh9LB4",
+"date":"2013-02-04 05:46:14"
+},
+{
+"kids":[],
+"uid":"2920208200",
+"parent":"",
+"text":"",
+"mid":"zgFRa6pVn",
+"date":"2013-01-29 09:39:57"
+},
+{
+"kids":[],
+"uid":"2920282730",
+"parent":"",
+"text":"",
+"mid":"zgtCMwF46",
+"date":"2013-01-28 02:31:34"
+},
+{
+"kids":[],
+"uid":"2804142770",
+"parent":"",
+"text":"",
+"mid":"zfR34kEyJ",
+"date":"2013-01-24 00:19:12"
+},
+{
+"kids":[],
+"uid":"1583296560",
+"parent":"",
+"text":"",
+"mid":"zfJSqFGrR",
+"date":"2013-01-23 06:03:46"
+},
+{
+"kids":[],
+"uid":"2811026354",
+"parent":"",
+"text":"",
+"mid":"zfJ5Db0SV",
+"date":"2013-01-23 04:03:31"
+},
+{
+"kids":[],
+"uid":"2789684090",
+"parent":"",
+"text":"",
+"mid":"zfFyDAYdc",
+"date":"2013-01-22 19:04:01"
+},
+{
+"kids":[],
+"uid":"1778123500",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"zdidksAeD",
+"date":"2013-01-07 03:57:44"
+},
+{
+"kids":[],
+"uid":"2808238934",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"zda3Jtj0h",
+"date":"2013-01-06 07:12:07"
+},
+{
+"kids":[],
+"uid":"2790076484",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"zcnOkr8tt",
+"date":"2013-01-01 04:22:18"
+},
+{
+"kids":[],
+"uid":"2920050384",
+"parent":"",
+"text":"",
+"mid":"zcdoBF8C3",
+"date":"2012-12-31 01:51:28"
+},
+{
+"kids":[],
+"uid":"2789845754",
+"parent":"",
+"text":"",
+"mid":"zc49LkAGX",
+"date":"2012-12-30 02:20:11"
+},
+{
+"kids":[],
+"uid":"2808424310",
+"parent":"",
+"text":"",
+"mid":"zbkjW017K",
+"date":"2012-12-25 05:38:53"
+},
+{
+"kids":[],
+"uid":"2920394942",
+"parent":"",
+"text":"",
+"mid":"zbgNErVAD",
+"date":"2012-12-24 20:41:08"
+},
+{
+"kids":[],
+"uid":"2919799322",
+"parent":"",
+"text":"",
+"mid":"z8PxPezUS",
+"date":"2012-12-08 19:37:18"
+},
+{
+"kids":[],
+"uid":"1583497844",
+"parent":"",
+"text":"",
+"mid":"z8PxOCWdo",
+"date":"2012-12-08 19:37:18"
+},
+{
+"kids":[],
+"uid":"2920197622",
+"parent":"",
+"text":"",
+"mid":"z8EmLCZzw",
+"date":"2012-12-07 15:09:52"
+},
+{
+"kids":[],
+"uid":"2810920214",
+"parent":"",
+"text":"",
+"mid":"z7QcUpoIB",
+"date":"2012-12-02 07:28:16"
+},
+{
+"kids":[],
+"uid":"2789679532",
+"parent":"",
+"text":"",
+"mid":"z7QcUpoI2",
+"date":"2012-12-02 07:28:15"
+},
+{
+"kids":[],
+"uid":"2920117872",
+"parent":"",
+"text":"",
+"mid":"z7GiYjJ4s",
+"date":"2012-12-01 06:15:44"
+},
+{
+"kids":[],
+"uid":"2809718614",
+"parent":"",
+"text":"",
+"mid":"z6X2c2ORU",
+"date":"2012-11-26 11:00:45"
+},
+{
+"kids":[],
+"uid":"2803260422",
+"parent":"",
+"text":"",
+"mid":"z6X2brbat",
+"date":"2012-11-26 11:00:46"
+},
+{
+"kids":[],
+"uid":"1723011127",
+"parent":"",
+"text":"",
+"mid":"z6QG8qGf3",
+"date":"2012-11-25 18:49:55"
+},
+{
+"kids":[],
+"uid":"2790063300",
+"parent":"",
+"text":"",
+"mid":"z6QG8aE1l",
+"date":"2012-11-25 18:49:55"
+},
+{
+"kids":[],
+"uid":"2919862620",
+"parent":"",
+"text":"",
+"mid":"z6JH1jQ9K",
+"date":"2012-11-25 01:02:55"
+},
+{
+"kids":[],
+"uid":"1584005817",
+"parent":"",
+"text":"",
+"mid":"z6tl9iIMa",
+"date":"2012-11-23 07:25:05"
+},
+{
+"kids":[],
+"uid":"2789942882",
+"parent":"",
+"text":"",
+"mid":"z6tl9iILk",
+"date":"2012-11-23 07:25:04"
+},
+{
+"kids":[],
+"uid":"2920619284",
+"parent":"",
+"text":"",
+"mid":"z5IQUs9cM",
+"date":"2012-11-18 09:04:13"
+},
+{
+"kids":[],
+"uid":"2789876864",
+"parent":"",
+"text":"",
+"mid":"z5xuUr7jr",
+"date":"2012-11-17 04:09:49"
+},
+{
+"kids":[],
+"uid":"1777393722",
+"parent":"",
+"text":"",
+"mid":"z5xuUr7iP",
+"date":"2012-11-17 04:09:48"
+},
+{
+"kids":[],
+"uid":"2920205642",
+"parent":"",
+"text":"",
+"mid":"z4M26vP7y",
+"date":"2012-11-12 03:19:45"
+},
+{
+"kids":[],
+"uid":"2919916734",
+"parent":"",
+"text":"",
+"mid":"z4J2M2FXa",
+"date":"2012-11-11 19:43:07"
+},
+{
+"kids":[],
+"uid":"2810806820",
+"parent":"",
+"text":"",
+"mid":"z4J2M1CdX",
+"date":"2012-11-11 19:43:07"
+},
+{
+"kids":[],
+"uid":"2804090400",
+"parent":"",
+"text":"",
+"mid":"z3PwpvwEj",
+"date":"2012-11-05 22:22:22"
+},
+{
+"kids":[],
+"uid":"2809650634",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"z3LOf0doc",
+"date":"2012-11-05 12:55:17"
+},
+{
+"kids":[],
+"uid":"2805055890",
+"parent":"",
+"text":"",
+"mid":"z3EnSfr8q",
+"date":"2012-11-04 18:01:06"
+},
+{
+"kids":[],
+"uid":"2789909264",
+"parent":"",
+"text":"",
+"mid":"z3EnRDNrn",
+"date":"2012-11-04 18:01:03"
+},
+{
+"kids":[],
+"uid":"2805340730",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"z3DrrcVcd",
+"date":"2012-11-04 15:37:06"
+},
+{
+"kids":[],
+"uid":"2789786910",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"z3DrqBhvg",
+"date":"2012-11-04 15:37:06"
+},
+{
+"kids":[],
+"uid":"1926703982",
+"parent":"",
+"text":"",
+"mid":"z322T82FO",
+"date":"2012-10-31 16:25:01"
+},
+{
+"kids":[],
+"uid":"cukey",
+"parent":"",
+"text":"",
+"mid":"z31yreNMy",
+"date":"2012-10-31 15:10:00"
+},
+{
+"kids":[],
+"uid":"2808969490",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"z2OYZzeBt",
+"date":"2012-10-30 07:09:42"
+},
+{
+"kids":[],
+"uid":"2810162344",
+"parent":"",
+"text":"",
+"mid":"z2GD0jyoC",
+"date":"2012-10-29 09:53:34"
+},
+{
+"kids":[],
+"uid":"1584062823",
+"parent":"",
+"text":"",
+"mid":"z2GD0jynq",
+"date":"2012-10-29 09:53:34"
+},
+{
+"kids":[],
+"uid":"2920087084",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"z2EECFGZO",
+"date":"2012-10-29 04:52:03"
+},
+{
+"kids":[],
+"uid":"2803453292",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"z2EECEr7a",
+"date":"2012-10-29 04:52:04"
+},
+{
+"kids":[],
+"uid":"1320625661",
+"parent":"",
+"text":"",
+"mid":"z2BuZEkVp",
+"date":"2012-10-28 20:50:02"
+},
+{
+"kids":[],
+"uid":"1093551642",
+"parent":"z1XhlrIim",
+"text":"",
+"mid":"z2wPsecy0",
+"date":"2012-10-28 08:56:46"
+},
+{
+"kids":[],
+"uid":"1217673361",
+"parent":"",
+"text":"天朝真是无奇不有啊，话说新摘下来的苹果真好吃，又甜又脆还多汁！",
+"mid":"z2hLR7u3e",
+"date":"2012-10-26 18:36:42"
+},
+{
+"kids":[],
+"uid":"1440437065",
+"parent":"z1WJe260N",
+"text":"",
+"mid":"z2dXWhRpu",
+"date":"2012-10-26 08:55:29"
+},
+{
+"kids":[],
+"uid":"1589474032",
+"parent":"z1WJe260N",
+"text":"",
+"mid":"z2dXWfM0J",
+"date":"2012-10-26 08:55:28"
+},
+{
+"kids":[],
+"uid":"2789893480",
+"parent":"z1WJe260N",
+"text":"",
+"mid":"z29dI4iHZ",
+"date":"2012-10-25 20:50:34"
+},
+{
+"kids":[],
+"uid":"1777283544",
+"parent":"z1QdO8g6S",
+"text":"",
+"mid":"z28HhxhQl",
+"date":"2012-10-25 19:30:41"
+},
+{
+"kids":[],
+"uid":"2790028410",
+"parent":"z1QdO8g6S",
+"text":"",
+"mid":"z28Hhw1dg",
+"date":"2012-10-25 19:30:41"
+},
+{
+"kids":[],
+"uid":"2919976862",
+"parent":"z1WSjfgWz",
+"text":"",
+"mid":"z28h4k1y0",
+"date":"2012-10-25 18:26:09"
+},
+{
+"kids":[],
+"uid":"1727574210",
+"parent":"z1X7orQjx",
+"text":"",
+"mid":"z27Ngkbzt",
+"date":"2012-10-25 17:12:41"
+},
+{
+"kids":[],
+"uid":"2919985620",
+"parent":"z1PLPAMLs",
+"text":"",
+"mid":"z26mn7C6H",
+"date":"2012-10-25 13:33:42"
+},
+{
+"kids":[],
+"uid":"2920095944",
+"parent":"z1WJe260N",
+"text":"",
+"mid":"z256Mtvhl",
+"date":"2012-10-25 10:22:32"
+},
+{
+"kids":[],
+"uid":"2790010962",
+"parent":"z1WJe260N",
+"text":"",
+"mid":"z256MtvfS",
+"date":"2012-10-25 10:22:32"
+},
+{
+"kids":[],
+"uid":"hongyun1980",
+"parent":"z1WEkxFQa",
+"text":"怕怕",
+"mid":"z24jF9Dkc",
+"date":"2012-10-25 08:21:31"
+},
+{
+"kids":[],
+"uid":"2919578914",
+"parent":"",
+"text":"",
+"mid":"z24jy5oiJ",
+"date":"2012-10-25 08:21:14"
+},
+{
+"kids":[],
+"uid":"2790037942",
+"parent":"",
+"text":"",
+"mid":"z24jy5ohP",
+"date":"2012-10-25 08:21:15"
+},
+{
+"kids":[],
+"uid":"1583284367",
+"parent":"z1WRrcAk1",
+"text":"",
+"mid":"z243N9Q46",
+"date":"2012-10-25 07:42:26"
+},
+{
+"kids":[],
+"uid":"2790081884",
+"parent":"z1WRrcAk1",
+"text":"",
+"mid":"z243N9Q3g",
+"date":"2012-10-25 07:42:26"
+},
+{
+"kids":[],
+"uid":"2919715110",
+"parent":"z1QskdbYy",
+"text":"",
+"mid":"z23kv7fcG",
+"date":"2012-10-25 05:50:51"
+},
+{
+"kids":[],
+"uid":"2789946774",
+"parent":"z1QskdbYy",
+"text":"",
+"mid":"z23kv6dKy",
+"date":"2012-10-25 05:50:51"
+},
+{
+"kids":[],
+"uid":"2919932700",
+"parent":"",
+"text":"",
+"mid":"z21Mflk6v",
+"date":"2012-10-25 01:53:43"
+},
+{
+"kids":[],
+"uid":"2919987404",
+"parent":"",
+"text":"",
+"mid":"z21Mfl8Ur",
+"date":"2012-10-25 01:53:43"
+},
+{
+"kids":[],
+"uid":"2809519500",
+"parent":"",
+"text":"",
+"mid":"z21k3dwb8",
+"date":"2012-10-25 00:44:12"
+},
+{
+"kids":[],
+"uid":"1723884435",
+"parent":"",
+"text":"",
+"mid":"z21k2BKE3",
+"date":"2012-10-25 00:44:12"
+},
+{
+"kids":[],
+"uid":"206313182",
+"parent":"",
+"text":"果然有创意！[good]",
+"mid":"z1YZU6NEs",
+"date":"2012-10-24 18:49:06"
+},
+{
+"kids":[],
+"uid":"2268179234",
+"parent":"",
+"text":"牛人啊",
+"mid":"z1YPOeiI8",
+"date":"2012-10-24 18:24:13"
+},
+{
+"kids":[],
+"uid":"1885943321",
+"parent":"z1Yb3dfkL",
+"text":"",
+"mid":"z1YMKtZVs",
+"date":"2012-10-24 18:16:40"
+},
+{
+"kids":[],
+"uid":"2185501030",
+"parent":"",
+"text":"牛的",
+"mid":"z1YpPw1kY",
+"date":"2012-10-24 17:20:14"
+},
+{
+"kids":[],
+"uid":"279330760",
+"parent":"",
+"text":"",
+"mid":"z1YedoaJE",
+"date":"2012-10-24 16:51:38"
+},
+{
+"kids":[
+"z1YMKtZVs"
+],
+"uid":"yuanqudefeng",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1Yb3dfkL",
+"date":"2012-10-24 16:43:50"
+},
+{
+"kids":[],
+"uid":"2344582502",
+"parent":"z1XLx82CJ",
+"text":"一次比一次趴的开，下次一字马",
+"mid":"z1Y0VeX0C",
+"date":"2012-10-24 16:18:51"
+},
+{
+"kids":[],
+"uid":"2810114052",
+"parent":"z1XdmrHtL",
+"text":"",
+"mid":"z1XMyCG2h",
+"date":"2012-10-24 15:43:28"
+},
+{
+"kids":[],
+"uid":"2802973130",
+"parent":"z1XdmrHtL",
+"text":"",
+"mid":"z1XMyBGM2",
+"date":"2012-10-24 15:43:30"
+},
+{
+"kids":[
+"z1Y0VeX0C"
+],
+"uid":"superfireman",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1XLx82CJ",
+"date":"2012-10-24 15:40:58"
+},
+{
+"kids":[],
+"uid":"zhuroudon",
+"parent":"z1WEkxFQa",
+"text":"[吃惊]我艹.这什么叼jb建筑啊???又tmd乱花钱",
+"mid":"z1XzH8Z1X",
+"date":"2012-10-24 15:11:48"
+},
+{
+"kids":[],
+"uid":"1959184672",
+"parent":"z1XcHo5Ez",
+"text":"",
+"mid":"z1XyUn5BK",
+"date":"2012-10-24 15:09:51"
+},
+{
+"kids":[],
+"uid":"alice60112",
+"parent":"",
+"text":"好噁...台北有棟樓故意蓋的歪歪的 我都覺得噁了",
+"mid":"z1XwHgAXz",
+"date":"2012-10-24 15:04:26"
+},
+{
+"kids":[],
+"uid":"xuminghost",
+"parent":"z1WEkxFQa",
+"text":"这个……",
+"mid":"z1XvxpOfv",
+"date":"2012-10-24 15:01:34"
+},
+{
+"kids":[],
+"uid":"2917338410",
+"parent":"z1Xk9wqgy",
+"text":"央视是个大裤衩，这个是裤链没拉上…果然是同一个设计师做的[嘻嘻]",
+"mid":"z1XsUDpMB",
+"date":"2012-10-24 14:55:06"
+},
+{
+"kids":[],
+"uid":"1054603142",
+"parent":"z1WEkxFQa",
+"text":"西班牙设计师？！确实很脑残。。",
+"mid":"z1XsTrDz9",
+"date":"2012-10-24 14:55:03"
+},
+{
+"kids":[],
+"uid":"2374116887",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1Xs93URl",
+"date":"2012-10-24 14:53:12"
+},
+{
+"kids":[],
+"uid":"csh021",
+"parent":"z1WQuFnIy",
+"text":"路过绕行[江南style]",
+"mid":"z1XpF5sle",
+"date":"2012-10-24 14:47:05"
+},
+{
+"kids":[],
+"uid":"1714106622",
+"parent":"z1WEkxFQa",
+"text":"哇哦！好帅的办公楼",
+"mid":"z1Xplz22z",
+"date":"2012-10-24 14:46:18"
+},
+{
+"kids":[],
+"uid":"1781422331",
+"parent":"",
+"text":"[汗]",
+"mid":"z1Xpbx9SD",
+"date":"2012-10-24 14:45:54"
+},
+{
+"kids":[],
+"uid":"1791314663",
+"parent":"z1WEkxFQa",
+"text":"真的假的",
+"mid":"z1Xns0k7I",
+"date":"2012-10-24 14:41:38"
+},
+{
+"kids":[],
+"uid":"nbganning",
+"parent":"",
+"text":"@东南商报 宁波还有这么个规划？",
+"mid":"z1XlVr3tL",
+"date":"2012-10-24 14:37:51"
+},
+{
+"kids":[
+"z1XsUDpMB"
+],
+"uid":"1767860512",
+"parent":"",
+"text":"@树嘉",
+"mid":"z1Xk9wqgy",
+"date":"2012-10-24 14:33:31"
+},
+{
+"kids":[],
+"uid":"kevinpwl",
+"parent":"",
+"text":"[吃惊]",
+"mid":"z1XhTazCV",
+"date":"2012-10-24 14:27:55"
+},
+{
+"kids":[],
+"uid":"2482584813",
+"parent":"z1WOGCYZz",
+"text":"这个劈腿楼",
+"mid":"z1Xhp207H",
+"date":"2012-10-24 14:26:42"
+},
+{
+"kids":[
+"z2wPsecy0"
+],
+"uid":"2312678432",
+"parent":"z1X0xfRlH",
+"text":"太可怕了，谁要住？@和快乐一起流浪 @Easy蕾 @静溢中的张 @miss_阿秋 @平凡的一抹浅笑深白色",
+"mid":"z1XhlrIim",
+"date":"2012-10-24 14:26:34"
+},
+{
+"kids":[],
+"uid":"2025708283",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1XgZjdgd",
+"date":"2012-10-24 14:25:43"
+},
+{
+"kids":[],
+"uid":"zhaoyang1110",
+"parent":"z1Xgg7N4v",
+"text":"[汗]",
+"mid":"z1XguAs4b",
+"date":"2012-10-24 14:24:30"
+},
+{
+"kids":[
+"z1XguAs4b"
+],
+"uid":"cevchina",
+"parent":"z1WGectxW",
+"text":"[给力]",
+"mid":"z1Xgg7N4v",
+"date":"2012-10-24 14:23:54"
+},
+{
+"kids":[],
+"uid":"1850987064",
+"parent":"z1WEkxFQa",
+"text":"吊爆了！[吃驚]",
+"mid":"z1XfI8hWY",
+"date":"2012-10-24 14:22:34"
+},
+{
+"kids":[],
+"uid":"2382024200",
+"parent":"z1WEkxFQa",
+"text":"你个丫的！",
+"mid":"z1XeA5S8S",
+"date":"2012-10-24 14:19:47"
+},
+{
+"kids":[],
+"uid":"doublesheep",
+"parent":"",
+"text":"在里面工作的人类颤抖吧[衰]",
+"mid":"z1Xdza4XA",
+"date":"2012-10-24 14:17:17"
+},
+{
+"kids":[
+"z1XMyCG2h",
+"z1XMyBGM2"
+],
+"uid":"2195739884",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1XdmrHtL",
+"date":"2012-10-24 14:16:47"
+},
+{
+"kids":[
+"z1XyUn5BK"
+],
+"uid":"lovelyniko",
+"parent":"z1WNrvnvG",
+"text":"YKK",
+"mid":"z1XcHo5Ez",
+"date":"2012-10-24 14:15:09"
+},
+{
+"kids":[],
+"uid":"2435935832",
+"parent":"",
+"text":"@草根儿传奇",
+"mid":"z1XbxxTRL",
+"date":"2012-10-24 14:12:15"
+},
+{
+"kids":[],
+"uid":"1763570674",
+"parent":"z1WQuFnIy",
+"text":"@BumbleBILL @st_小V 你地点睇",
+"mid":"z1XaaaHF4",
+"date":"2012-10-24 14:08:54"
+},
+{
+"kids":[],
+"uid":"1419243277",
+"parent":"z1WT31zrm",
+"text":"2B建筑！",
+"mid":"z1X9CcHyE",
+"date":"2012-10-24 14:07:31"
+},
+{
+"kids":[],
+"uid":"1652415533",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1X8AE76Z",
+"date":"2012-10-24 14:05:02"
+},
+{
+"kids":[
+"z27Ngkbzt"
+],
+"uid":"1668242593",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1X7orQjx",
+"date":"2012-10-24 14:02:05"
+},
+{
+"kids":[],
+"uid":"1744817907",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1X6XAViF",
+"date":"2012-10-24 14:00:59"
+},
+{
+"kids":[],
+"uid":"mik6",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1X6qetC2",
+"date":"2012-10-24 13:59:42"
+},
+{
+"kids":[],
+"uid":"1595332581",
+"parent":"z1WEkxFQa",
+"text":"我想知道那个电梯问题是怎么攻破的。。。",
+"mid":"z1X6kheOu",
+"date":"2012-10-24 13:59:27"
+},
+{
+"kids":[],
+"uid":"janeliang33",
+"parent":"z1WEkxFQa",
+"text":"电梯怎么拐弯啊?抗震么?上半部的房间就不水平了么?在里面上班的人们怎么办公啊......",
+"mid":"z1X5oCHJt",
+"date":"2012-10-24 13:57:10"
+},
+{
+"kids":[],
+"uid":"1864208293",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1X4in5Ba",
+"date":"2012-10-24 13:54:28"
+},
+{
+"kids":[],
+"uid":"snow880618",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1X3PsoWR",
+"date":"2012-10-24 13:53:18"
+},
+{
+"kids":[],
+"uid":"2092818243",
+"parent":"z1WEkxFQa",
+"text":"劈腿帝啊！！！帅爆了！[亲亲]",
+"mid":"z1X3jfJLP",
+"date":"2012-10-24 13:52:01"
+},
+{
+"kids":[],
+"uid":"206665219",
+"parent":"z1WVplgmk",
+"text":"2B-U......",
+"mid":"z1X36y1oL",
+"date":"2012-10-24 13:51:32"
+},
+{
+"kids":[],
+"uid":"conmou",
+"parent":"z1WQuFnIy",
+"text":"电梯是斜上去的 太恐怖",
+"mid":"z1X36x8ZR",
+"date":"2012-10-24 13:51:31"
+},
+{
+"kids":[],
+"uid":"1939339914",
+"parent":"z1WQuFnIy",
+"text":"劈腿楼！预示着在这里上班的都会劈腿吗？[哈哈]",
+"mid":"z1X32pPGH",
+"date":"2012-10-24 13:51:21"
+},
+{
+"kids":[],
+"uid":"1864053137",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1X2X6NyP",
+"date":"2012-10-24 13:51:07"
+},
+{
+"kids":[],
+"uid":"2073459943",
+"parent":"z1X0xfRlH",
+"text":"这个是真的么。。",
+"mid":"z1X2JuX61",
+"date":"2012-10-24 13:50:35"
+},
+{
+"kids":[],
+"uid":"1424163745",
+"parent":"z1X0Zlrq2",
+"text":"”丫“",
+"mid":"z1X2H8oyj",
+"date":"2012-10-24 13:50:30"
+},
+{
+"kids":[],
+"uid":"heyimei",
+"parent":"z1WQuFnIy",
+"text":"[偷笑]",
+"mid":"z1X2Gf9k3",
+"date":"2012-10-24 13:50:28"
+},
+{
+"kids":[],
+"uid":"2672351302",
+"parent":"",
+"text":"[",
+"mid":"z1X2xn8An",
+"date":"2012-10-24 13:50:06"
+},
+{
+"kids":[],
+"uid":"yim0",
+"parent":"",
+"text":"",
+"mid":"z1X1NAyKu",
+"date":"2012-10-24 13:48:19"
+},
+{
+"kids":[],
+"uid":"1649521254",
+"parent":"z1WQYv0yK",
+"text":"果然，苏州和宁波就该是兄妹城市嘛〜[思考]",
+"mid":"z1X1Dg5C2",
+"date":"2012-10-24 13:47:53"
+},
+{
+"kids":[],
+"uid":"2503025664",
+"parent":"z1WEkxFQa",
+"text":"@混沌之叶 @卡卡棋棋 建筑的问题我已经想好怎么处理了，现在看你们结构了。。",
+"mid":"z1X1vyVaL",
+"date":"2012-10-24 13:47:35"
+},
+{
+"kids":[],
+"uid":"mfji",
+"parent":"z1WEkxFQa",
+"text":"技术难题不可怕，可怕的是这难题竟然给攻破了！@那一颗麦子 亲，你可以带着好奇和恐惧的心理去上班了！",
+"mid":"z1X10fty6",
+"date":"2012-10-24 13:46:20"
+},
+{
+"kids":[
+"z1X2H8oyj"
+],
+"uid":"guoyan130",
+"parent":"z1WVplgmk",
+"text":"剪刀腿。。。",
+"mid":"z1X0Zlrq2",
+"date":"2012-10-24 13:46:18"
+},
+{
+"kids":[],
+"uid":"2280694113",
+"parent":"z1X0pAxVg",
+"text":"今天好像今天全民上.访，整个城市交通瘫痪了",
+"mid":"z1X0U0ibz",
+"date":"2012-10-24 13:46:04"
+},
+{
+"kids":[],
+"uid":"zoeyfeiery",
+"parent":"",
+"text":"@陆蓓 @黑猫小烦 @云端神马 @执着的轨迹",
+"mid":"z1X0JEmcq",
+"date":"2012-10-24 13:45:41"
+},
+{
+"kids":[
+"z1XhlrIim",
+"z1X2JuX61"
+],
+"uid":"1748552503",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1X0xfRlH",
+"date":"2012-10-24 13:45:11"
+},
+{
+"kids":[],
+"uid":"2612477080",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1X0uA8st",
+"date":"2012-10-24 13:45:04"
+},
+{
+"kids":[
+"z1X0U0ibz"
+],
+"uid":"208181492",
+"parent":"z1WEkxFQa",
+"text":"[衰][衰][衰][衰][衰]",
+"mid":"z1X0pAxVg",
+"date":"2012-10-24 13:44:53"
+},
+{
+"kids":[],
+"uid":"678198774",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1X09AloP",
+"date":"2012-10-24 13:44:16"
+},
+{
+"kids":[],
+"uid":"2264996175",
+"parent":"z1WVplgmk",
+"text":"我怕踩塌了掉下来[哼][哼]",
+"mid":"z1WZY55rQ",
+"date":"2012-10-24 13:43:47"
+},
+{
+"kids":[],
+"uid":"alssakari",
+"parent":"z1WEkxFQa",
+"text":"广州地铁。",
+"mid":"z1WYXb8rU",
+"date":"2012-10-24 13:41:17"
+},
+{
+"kids":[],
+"uid":"206664197",
+"parent":"z1WEkxFQa",
+"text":"[衰]",
+"mid":"z1WYVDAZ8",
+"date":"2012-10-24 13:41:14"
+},
+{
+"kids":[],
+"uid":"1895349901",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WYDEBKh",
+"date":"2012-10-24 13:40:31"
+},
+{
+"kids":[],
+"uid":"1976867293",
+"parent":"z1WQuFnIy",
+"text":"@劢忎",
+"mid":"z1WYs6NiI",
+"date":"2012-10-24 13:40:03"
+},
+{
+"kids":[],
+"uid":"lie1092",
+"parent":"",
+"text":"和大裤衩是配套的吧？",
+"mid":"z1WXNjTnn",
+"date":"2012-10-24 13:38:26"
+},
+{
+"kids":[],
+"uid":"orangefoxkaren",
+"parent":"z1WEkxFQa",
+"text":"真的假的。。。我了个去。。。",
+"mid":"z1WXnlCWR",
+"date":"2012-10-24 13:37:25"
+},
+{
+"kids":[],
+"uid":"1308531365",
+"parent":"z1WQuFnIy",
+"text":"顶楼的阳台站人会掉下去嘛",
+"mid":"z1WXnlCV9",
+"date":"2012-10-24 13:37:25"
+},
+{
+"kids":[],
+"uid":"hyb0925",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WXfEuLP",
+"date":"2012-10-24 13:37:06"
+},
+{
+"kids":[],
+"uid":"1144931694",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WX19TC4",
+"date":"2012-10-24 13:36:31"
+},
+{
+"kids":[],
+"uid":"1939178931",
+"parent":"z1WQuFnIy",
+"text":"上班脚滑会不小心从窗户掉出来吧！",
+"mid":"z1WWXn5vZ",
+"date":"2012-10-24 13:36:23"
+},
+{
+"kids":[],
+"uid":"xavante",
+"parent":"z1WEkxFQa",
+"text":"@Timetraveler427 真有这个",
+"mid":"z1WWlvLxS",
+"date":"2012-10-24 13:34:52"
+},
+{
+"kids":[],
+"uid":"aideyuxiaoyanran",
+"parent":"z1WQuFnIy",
+"text":"有点牛逼~~@嚓屁豆-OsMaMa @Faye_灰 @Barbara青青 @二马吉吉拒绝娘炮 @钱尛燕要减肥减肥肥",
+"mid":"z1WWjrGja",
+"date":"2012-10-24 13:34:47"
+},
+{
+"kids":[],
+"uid":"1973165181",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WWaj17a",
+"date":"2012-10-24 13:34:25"
+},
+{
+"kids":[],
+"uid":"dawn6212",
+"parent":"z1WEkxFQa",
+"text":"我的天！真的假的？斜边里面家具怎么放人怎么呆 [吃惊]",
+"mid":"z1WW8d6G1",
+"date":"2012-10-24 13:34:21"
+},
+{
+"kids":[],
+"uid":"1243208127",
+"parent":"z1WQuFnIy",
+"text":"这……敢不敢住啊！",
+"mid":"z1WVX1d5G",
+"date":"2012-10-24 13:33:52"
+},
+{
+"kids":[],
+"uid":"2179182040",
+"parent":"z1WEkxFQa",
+"text":"[威武]",
+"mid":"z1WVMlUe1",
+"date":"2012-10-24 13:33:28"
+},
+{
+"kids":[],
+"uid":"2217495537",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WVs10eB",
+"date":"2012-10-24 13:32:39"
+},
+{
+"kids":[
+"z1X36y1oL",
+"z1X0Zlrq2",
+"z1WZY55rQ"
+],
+"uid":"wenwen8558",
+"parent":"",
+"text":"这个地块儿名字挺合适这个楼的，叫＂2B呦＂地块儿[哈哈]",
+"mid":"z1WVplgmk",
+"date":"2012-10-24 13:32:33"
+},
+{
+"kids":[],
+"uid":"1081990894",
+"parent":"z1WQuFnIy",
+"text":"[吃惊]",
+"mid":"z1WVduhx5",
+"date":"2012-10-24 13:32:05"
+},
+{
+"kids":[],
+"uid":"71245706",
+"parent":"z1WQuFnIy",
+"text":"@唐evol毕 摆的一米",
+"mid":"z1WV6qmDH",
+"date":"2012-10-24 13:31:48"
+},
+{
+"kids":[],
+"uid":"1935494053",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WV2iaNd",
+"date":"2012-10-24 13:31:38"
+},
+{
+"kids":[],
+"uid":"bzjalyy",
+"parent":"z1WEkxFQa",
+"text":"@辉柏嘉b",
+"mid":"z1WUZ09Cx",
+"date":"2012-10-24 13:31:30"
+},
+{
+"kids":[],
+"uid":"cxdxsq",
+"parent":"z1WQuFnIy",
+"text":"这个我倒觉得应该没问题，中国人遇到难题不可怕，可怕的是不好好对待简单的",
+"mid":"z1WUW2PzI",
+"date":"2012-10-24 13:31:22"
+},
+{
+"kids":[],
+"uid":"inverter1997",
+"parent":"",
+"text":"[偷笑]",
+"mid":"z1WUNvsFC",
+"date":"2012-10-24 13:31:03"
+},
+{
+"kids":[],
+"uid":"1879450537",
+"parent":"z1WQuFnIy",
+"text":"有才",
+"mid":"z1WUKy7wG",
+"date":"2012-10-24 13:30:56"
+},
+{
+"kids":[],
+"uid":"agnes9047smile",
+"parent":"z1WT4uVAh",
+"text":"好的，我组个团去看看～",
+"mid":"z1WUIcq8q",
+"date":"2012-10-24 13:30:48"
+},
+{
+"kids":[],
+"uid":"realsteven",
+"parent":"z1WQuFnIy",
+"text":"技术难题不可怕，可怕的是这难题竟然给攻破了！",
+"mid":"z1WUm0Ew6",
+"date":"2012-10-24 13:29:55"
+},
+{
+"kids":[],
+"uid":"1874630160",
+"parent":"z1WEkxFQa",
+"text":"@天一盛水tracy",
+"mid":"z1WUhiK5u",
+"date":"2012-10-24 13:29:46"
+},
+{
+"kids":[],
+"uid":"zheng1986",
+"parent":"",
+"text":"不可能造成这个样子。。。。",
+"mid":"z1WU86mbc",
+"date":"2012-10-24 13:29:24"
+},
+{
+"kids":[],
+"uid":"huluanbengda",
+"parent":"",
+"text":"北京的大裤衩、苏州的瘦秋裤、宁波的劈腿楼……听听这些外号就知道它们缺少起码的美感。不管你是哪国的设计师，不管你要挑战啥子引力，城市建筑最起码应该遵循视觉美感原则吧，怎么总在中国的城市里放些巨型垃圾呢？",
+"mid":"z1WU2bHWU",
+"date":"2012-10-24 13:29:10"
+},
+{
+"kids":[],
+"uid":"2704037445",
+"parent":"z1WQuFnIy",
+"text":"厉害！",
+"mid":"z1WTNbdw7",
+"date":"2012-10-24 13:28:33"
+},
+{
+"kids":[],
+"uid":"sylvia92817",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WTkv30b",
+"date":"2012-10-24 13:27:25"
+},
+{
+"kids":[],
+"uid":"1973827972",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WTkbVcZ",
+"date":"2012-10-24 13:27:24"
+},
+{
+"kids":[],
+"uid":"1804556355",
+"parent":"z1WGKn9u8",
+"text":"==",
+"mid":"z1WTa93HH",
+"date":"2012-10-24 13:27:00"
+},
+{
+"kids":[],
+"uid":"1635934684",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WT9eJNu",
+"date":"2012-10-24 13:26:59"
+},
+{
+"kids":[],
+"uid":"1973624435",
+"parent":"z1WLJrgYW",
+"text":"[威武]",
+"mid":"z1WT8kzZn",
+"date":"2012-10-24 13:26:55"
+},
+{
+"kids":[
+"z1WUIcq8q"
+],
+"uid":"yzspoyue",
+"parent":"",
+"text":"@Agnes阿丁 快去看看",
+"mid":"z1WT4uVAh",
+"date":"2012-10-24 13:26:47"
+},
+{
+"kids":[
+"z1X9CcHyE"
+],
+"uid":"1877195277",
+"parent":"z1WQuFnIy",
+"text":"等拆迁的时候，容易",
+"mid":"z1WT31zrm",
+"date":"2012-10-24 13:26:45"
+},
+{
+"kids":[],
+"uid":"1894511663",
+"parent":"z1WKembet",
+"text":"",
+"mid":"z1WSVnRJG",
+"date":"2012-10-24 13:26:26"
+},
+{
+"kids":[],
+"uid":"1157927722",
+"parent":"z1WQuFnIy",
+"text":"[吃惊]",
+"mid":"z1WSVkr3k",
+"date":"2012-10-24 13:26:23"
+},
+{
+"kids":[],
+"uid":"2635125334",
+"parent":"z1WEkxFQa",
+"text":"[汗][汗]",
+"mid":"z1WSRfG7G",
+"date":"2012-10-24 13:26:16"
+},
+{
+"kids":[],
+"uid":"1174381834",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WSGxOlb",
+"date":"2012-10-24 13:25:51"
+},
+{
+"kids":[],
+"uid":"2865452192",
+"parent":"z1WQuFnIy",
+"text":"笑死了，技术帝啊！膜拜一下，幸好没修到成都[吐]",
+"mid":"z1WSzvCEg",
+"date":"2012-10-24 13:25:32"
+},
+{
+"kids":[
+"z28h4k1y0"
+],
+"uid":"2807172662",
+"parent":"z1WQuFnIy",
+"text":"@米雪飞V 太有才啦[哈哈]",
+"mid":"z1WSjfgWz",
+"date":"2012-10-24 13:24:55"
+},
+{
+"kids":[],
+"uid":"1745003245",
+"parent":"z1WQuFnIy",
+"text":"对楼的安全性始终怀疑",
+"mid":"z1WSiErig",
+"date":"2012-10-24 13:24:54"
+},
+{
+"kids":[],
+"uid":"1407657450",
+"parent":"z1WQuFnIy",
+"text":"坐在楼上的窗户边很有压力吧？",
+"mid":"z1WSdkCLI",
+"date":"2012-10-24 13:24:41"
+},
+{
+"kids":[],
+"uid":"1905727047",
+"parent":"z1WQuFnIy",
+"text":"不敢在这个楼里上班，怕怕。。。。",
+"mid":"z1WS6yWlQ",
+"date":"2012-10-24 13:24:26"
+},
+{
+"kids":[],
+"uid":"1801886012",
+"parent":"z1WQuFnIy",
+"text":"遮风避雨",
+"mid":"z1WS5mD48",
+"date":"2012-10-24 13:24:22"
+},
+{
+"kids":[],
+"uid":"2133771593",
+"parent":"z1WEkxFQa",
+"text":"下面的小楼好无助，好害怕啊",
+"mid":"z1WS5lTkl",
+"date":"2012-10-24 13:24:22"
+},
+{
+"kids":[],
+"uid":"elizas",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WS30cYe",
+"date":"2012-10-24 13:24:15"
+},
+{
+"kids":[],
+"uid":"1871836232",
+"parent":"z1WQuFnIy",
+"text":"人才呀~我就奇怪啦~怎么竟特么修在中国呢？怎么不去他们西班牙本国修呢？",
+"mid":"z1WS0lca2",
+"date":"2012-10-24 13:24:10"
+},
+{
+"kids":[],
+"uid":"1986646622",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WRMtbxt",
+"date":"2012-10-24 13:23:37"
+},
+{
+"kids":[],
+"uid":"1708788563",
+"parent":"z1WQuFnIy",
+"text":"楼上的人都要斜着做事吧。。。",
+"mid":"z1WRLzWmo",
+"date":"2012-10-24 13:23:36"
+},
+{
+"kids":[],
+"uid":"marsbean",
+"parent":"",
+"text":"Forward.",
+"mid":"z1WRBfsBu",
+"date":"2012-10-24 13:23:10"
+},
+{
+"kids":[],
+"uid":"1483084823",
+"parent":"z1WQuFnIy",
+"text":"靠，这也行！[汗]",
+"mid":"z1WRz9VLX",
+"date":"2012-10-24 13:23:05"
+},
+{
+"kids":[
+"z243N9Q46",
+"z243N9Q3g"
+],
+"uid":"1914807312",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WRrcAk1",
+"date":"2012-10-24 13:22:46"
+},
+{
+"kids":[],
+"uid":"linchuan0308",
+"parent":"z1WEkxFQa",
+"text":"这种很二儿的创意 亏能想出来！",
+"mid":"z1WRowQwj",
+"date":"2012-10-24 13:22:40"
+},
+{
+"kids":[],
+"uid":"1686068983",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WRlhU5d",
+"date":"2012-10-24 13:22:31"
+},
+{
+"kids":[],
+"uid":"1977533147",
+"parent":"z1WIHxsB0",
+"text":"[吃惊]",
+"mid":"z1WRiAK6M",
+"date":"2012-10-24 13:22:24"
+},
+{
+"kids":[],
+"uid":"1576191201",
+"parent":"z1WEkxFQa",
+"text":"@刘冉1130",
+"mid":"z1WRe9zfq",
+"date":"2012-10-24 13:22:15"
+},
+{
+"kids":[],
+"uid":"2213996457",
+"parent":"z1WQuFnIy",
+"text":"油菜",
+"mid":"z1WRdheZ2",
+"date":"2012-10-24 13:22:13"
+},
+{
+"kids":[],
+"uid":"1803472245",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WR5hAwT",
+"date":"2012-10-24 13:21:52"
+},
+{
+"kids":[],
+"uid":"2121029605",
+"parent":"",
+"text":"",
+"mid":"z1WR4pGBS",
+"date":"2012-10-24 13:21:52"
+},
+{
+"kids":[],
+"uid":"foolbobo",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WR3eq2S",
+"date":"2012-10-24 13:21:49"
+},
+{
+"kids":[],
+"uid":"yukun1981",
+"parent":"z1WJJCZVl",
+"text":"看着真的是不协调，就像劈腿这事，没法往出摆。",
+"mid":"z1WQZExoZ",
+"date":"2012-10-24 13:21:41"
+},
+{
+"kids":[],
+"uid":"2616728871",
+"parent":"z1WQuFnIy",
+"text":"",
+"mid":"z1WQZ6fJX",
+"date":"2012-10-24 13:21:40"
+},
+{
+"kids":[
+"z1X1Dg5C2"
+],
+"uid":"ddwangdaewi",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WQYv0yK",
+"date":"2012-10-24 13:21:38"
+},
+{
+"kids":[],
+"uid":"ooojh",
+"parent":"z1WQuFnIy",
+"text":".....",
+"mid":"z1WQLwbWW",
+"date":"2012-10-24 13:21:05"
+},
+{
+"kids":[
+"z1Xs93URl",
+"z1XpF5sle",
+"z1XdmrHtL",
+"z1XaaaHF4",
+"z1X8AE76Z",
+"z1X7orQjx",
+"z1X6qetC2",
+"z1X3PsoWR",
+"z1X36x8ZR",
+"z1X32pPGH",
+"z1X2X6NyP",
+"z1X2Gf9k3",
+"z1X0xfRlH",
+"z1X0uA8st",
+"z1X09AloP",
+"z1WYs6NiI",
+"z1WXnlCV9",
+"z1WXfEuLP",
+"z1WX19TC4",
+"z1WWXn5vZ",
+"z1WWjrGja",
+"z1WWaj17a",
+"z1WVX1d5G",
+"z1WVduhx5",
+"z1WV6qmDH",
+"z1WV2iaNd",
+"z1WUW2PzI",
+"z1WUKy7wG",
+"z1WUm0Ew6",
+"z1WTNbdw7",
+"z1WTkv30b",
+"z1WTkbVcZ",
+"z1WT9eJNu",
+"z1WT31zrm",
+"z1WSVkr3k",
+"z1WSGxOlb",
+"z1WSzvCEg",
+"z1WSjfgWz",
+"z1WSiErig",
+"z1WSdkCLI",
+"z1WS6yWlQ",
+"z1WS5mD48",
+"z1WS30cYe",
+"z1WS0lca2",
+"z1WRLzWmo",
+"z1WRz9VLX",
+"z1WRrcAk1",
+"z1WRlhU5d",
+"z1WRdheZ2",
+"z1WR5hAwT",
+"z1WR3eq2S",
+"z1WQZ6fJX",
+"z1WQLwbWW"
+],
+"uid":"popmv",
+"parent":"",
+"text":"太有才啦[哈哈]",
+"mid":"z1WQuFnIy",
+"date":"2012-10-24 13:20:27"
+},
+{
+"kids":[],
+"uid":"518456419",
+"parent":"",
+"text":"不佩服不行的 啥时候中国人也能设计出这样的呢？？或者比他还牛的",
+"mid":"z1WQu3EaG",
+"date":"2012-10-24 13:20:25"
+},
+{
+"kids":[],
+"uid":"2708905207",
+"parent":"",
+"text":"",
+"mid":"z1WQldS60",
+"date":"2012-10-24 13:20:04"
+},
+{
+"kids":[],
+"uid":"2497797930",
+"parent":"",
+"text":"有才、、、",
+"mid":"z1WPRocD9",
+"date":"2012-10-24 13:18:53"
+},
+{
+"kids":[],
+"uid":"1059114240",
+"parent":"z1WGKn9u8",
+"text":"因为员工太胖塌了就是神作了~",
+"mid":"z1WPRkPrX",
+"date":"2012-10-24 13:18:51"
+},
+{
+"kids":[],
+"uid":"1341211071",
+"parent":"",
+"text":"这都什么啊[汗]",
+"mid":"z1WPkzPkY",
+"date":"2012-10-24 13:17:35"
+},
+{
+"kids":[],
+"uid":"2268625627",
+"parent":"z1WEkxFQa",
+"text":"会不会曲折的上半部限重呢？？？",
+"mid":"z1WP2w10B",
+"date":"2012-10-24 13:16:52"
+},
+{
+"kids":[],
+"uid":"1400027202",
+"parent":"z1WN5EblS",
+"text":"丁字裤吗",
+"mid":"z1WP0u4xy",
+"date":"2012-10-24 13:16:47"
+},
+{
+"kids":[],
+"uid":"raychen0304",
+"parent":"",
+"text":"一定好爽[花心]",
+"mid":"z1WOTlwC0",
+"date":"2012-10-24 13:16:28"
+},
+{
+"kids":[
+"z1Xhp207H"
+],
+"uid":"1882076104",
+"parent":"z1WN5EblS",
+"text":"",
+"mid":"z1WOGCYZz",
+"date":"2012-10-24 13:15:59"
+},
+{
+"kids":[],
+"uid":"chenpengan",
+"parent":"z1WEkxFQa",
+"text":"@冰白白白_SID-GAFA 下次去看看哈哈",
+"mid":"z1WOueu71",
+"date":"2012-10-24 13:15:30"
+},
+{
+"kids":[],
+"uid":"2258972682",
+"parent":"z1WEkxFQa",
+"text":"我表示震撼[汗]",
+"mid":"z1WOoFlIF",
+"date":"2012-10-24 13:15:17"
+},
+{
+"kids":[
+"z1XcHo5Ez"
+],
+"uid":"benweng",
+"parent":"z1WEkxFQa",
+"text":"這這這這這..............",
+"mid":"z1WNrvnvG",
+"date":"2012-10-24 13:12:57"
+},
+{
+"kids":[
+"z1WP0u4xy",
+"z1WOGCYZz"
+],
+"uid":"1752467311",
+"parent":"z1WEkxFQa",
+"text":"额。。额。。。额。。。。",
+"mid":"z1WN5EblS",
+"date":"2012-10-24 13:12:04"
+},
+{
+"kids":[],
+"uid":"2661383153",
+"parent":"z1WEkxFQa",
+"text":"牛",
+"mid":"z1WMUrIHt",
+"date":"2012-10-24 13:11:37"
+},
+{
+"kids":[],
+"uid":"87646002",
+"parent":"z1WEkxFQa",
+"text":"哇靠。。。。地球越来越危险了。",
+"mid":"z1WMP8CiP",
+"date":"2012-10-24 13:11:24"
+},
+{
+"kids":[
+"z1WT8kzZn"
+],
+"uid":"lldidy",
+"parent":"z1WEkxFQa",
+"text":"@阿罗猫_大鱼",
+"mid":"z1WLJrgYW",
+"date":"2012-10-24 13:08:42"
+},
+{
+"kids":[],
+"uid":"shixuhua915",
+"parent":"z1WEkxFQa",
+"text":"太有才了~！上班会感觉斜着吗？",
+"mid":"z1WLhorht",
+"date":"2012-10-24 13:07:36"
+},
+{
+"kids":[],
+"uid":"1865230414",
+"parent":"z1WEkxFQa",
+"text":"求专业人士解释@小谭你过来一下",
+"mid":"z1WL5A9Rs",
+"date":"2012-10-24 13:07:08"
+},
+{
+"kids":[],
+"uid":"1960492022",
+"parent":"z1WEkxFQa",
+"text":"太有才啦[哈哈]",
+"mid":"z1WKW7Qnm",
+"date":"2012-10-24 13:06:45"
+},
+{
+"kids":[],
+"uid":"2268756817",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WKT95Uj",
+"date":"2012-10-24 13:06:38"
+},
+{
+"kids":[],
+"uid":"1851722611",
+"parent":"z1WEkxFQa",
+"text":"这楼劈腿的技术太牛了，太有才啦[哈哈]",
+"mid":"z1WKK32Or",
+"date":"2012-10-24 13:06:16"
+},
+{
+"kids":[],
+"uid":"1937311702",
+"parent":"z1WEkxFQa",
+"text":"真建成啦，元芳去看看",
+"mid":"z1WKFzKjr",
+"date":"2012-10-24 13:06:06"
+},
+{
+"kids":[],
+"uid":"2262402187",
+"parent":"z1WEkxFQa",
+"text":"太厉害了 有机会真想克看看这牛楼",
+"mid":"z1WKx1LgV",
+"date":"2012-10-24 13:05:45"
+},
+{
+"kids":[
+"z1WSVnRJG"
+],
+"uid":"k372550222",
+"parent":"z1WEkxFQa",
+"text":"[黑线]内个一震的话···",
+"mid":"z1WKembet",
+"date":"2012-10-24 13:05:01"
+},
+{
+"kids":[],
+"uid":"xiaxiaoxiaoyang",
+"parent":"z1WEkxFQa",
+"text":"我去………",
+"mid":"z1WK9FEP2",
+"date":"2012-10-24 13:04:47"
+},
+{
+"kids":[
+"z1WQZExoZ"
+],
+"uid":"1859774202",
+"parent":"z1WEkxFQa",
+"text":"@于昆-",
+"mid":"z1WJJCZVl",
+"date":"2012-10-24 13:03:49"
+},
+{
+"kids":[],
+"uid":"savinme927",
+"parent":"z1WEkxFQa",
+"text":"伤不起 幽默还是炒作啊",
+"mid":"z1WJCzEY6",
+"date":"2012-10-24 13:03:31"
+},
+{
+"kids":[
+"z2dXWhRpu",
+"z2dXWfM0J",
+"z29dI4iHZ",
+"z256Mtvhl",
+"z256MtvfS"
+],
+"uid":"samirchen1",
+"parent":"",
+"text":"[吃惊]",
+"mid":"z1WJe260N",
+"date":"2012-10-24 13:02:32"
+},
+{
+"kids":[],
+"uid":"culdesac",
+"parent":"",
+"text":"[吃惊]。。。。无语了。。。",
+"mid":"z1WJceHtA",
+"date":"2012-10-24 13:02:26"
+},
+{
+"kids":[],
+"uid":"finnlam",
+"parent":"z1WEkxFQa",
+"text":"[good]",
+"mid":"z1WJ88r5m",
+"date":"2012-10-24 13:02:18"
+},
+{
+"kids":[],
+"uid":"1797395197",
+"parent":"z1WEkxFQa",
+"text":"。。魔法",
+"mid":"z1WIYpe5F",
+"date":"2012-10-24 13:01:54"
+},
+{
+"kids":[],
+"uid":"xiejingmailbox",
+"parent":"z1WEkxFQa",
+"text":"[吃惊][吃惊][吃惊]",
+"mid":"z1WITjU6a",
+"date":"2012-10-24 13:01:42"
+},
+{
+"kids":[
+"z1WRiAK6M"
+],
+"uid":"1813375500",
+"parent":"z1WEkxFQa",
+"text":"灵感来自广州地铁标志！",
+"mid":"z1WIHxsB0",
+"date":"2012-10-24 13:01:15"
+},
+{
+"kids":[],
+"uid":"imlz",
+"parent":"z1WFSB1JK",
+"text":"裤衩界的奇葩啊[生病]",
+"mid":"z1WIEiw2J",
+"date":"2012-10-24 13:01:07"
+},
+{
+"kids":[],
+"uid":"1748961730",
+"parent":"z1WEkxFQa",
+"text":"[吃惊]恐怖呢[惊恐]",
+"mid":"z1WIAsS1w",
+"date":"2012-10-24 13:00:57"
+},
+{
+"kids":[],
+"uid":"emilychuying",
+"parent":"z1WEkxFQa",
+"text":"[黑線][汗][汗]",
+"mid":"z1WIvoBI0",
+"date":"2012-10-24 13:00:44"
+},
+{
+"kids":[],
+"uid":"1838217031",
+"parent":"z1WEkxFQa",
+"text":"哈哈哈哈！不敢住啊！",
+"mid":"z1WIezFVJ",
+"date":"2012-10-24 13:00:06"
+},
+{
+"kids":[],
+"uid":"lijiali23",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WI842pI",
+"date":"2012-10-24 12:59:50"
+},
+{
+"kids":[],
+"uid":"2187510661",
+"parent":"z1WGKn9u8",
+"text":"看来劈腿也不是见容易事儿。",
+"mid":"z1WHZsKId",
+"date":"2012-10-24 12:59:30"
+},
+{
+"kids":[],
+"uid":"2511429222",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WHVo4DX",
+"date":"2012-10-24 12:59:19"
+},
+{
+"kids":[],
+"uid":"2282941062",
+"parent":"z1WEkxFQa",
+"text":"真的假的呀",
+"mid":"z1WHKr2KC",
+"date":"2012-10-24 12:58:54"
+},
+{
+"kids":[],
+"uid":"jjj688100",
+"parent":"",
+"text":"就是旁边的建筑不好看，影响了效果！",
+"mid":"z1WHJxidP",
+"date":"2012-10-24 12:58:51"
+},
+{
+"kids":[],
+"uid":"cepg606413hyuncheong",
+"parent":"",
+"text":"@梦斯一起走下去 昨天说的那个",
+"mid":"z1WHDmoXO",
+"date":"2012-10-24 12:58:37"
+},
+{
+"kids":[],
+"uid":"dayu0821",
+"parent":"z1WEkxFQa",
+"text":"颠覆了。。绝13颠覆了。。。= =",
+"mid":"z1WHByyNm",
+"date":"2012-10-24 12:58:33"
+},
+{
+"kids":[],
+"uid":"318140009",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WHvDUzy",
+"date":"2012-10-24 12:58:19"
+},
+{
+"kids":[],
+"uid":"1938172672",
+"parent":"z1WEkxFQa",
+"text":"[黑线]",
+"mid":"z1WHv60t5",
+"date":"2012-10-24 12:58:15"
+},
+{
+"kids":[],
+"uid":"lolizhuzhu",
+"parent":"z1WEkxFQa",
+"text":"大裤衩、牛仔裤，现在又来了个大拉链，就差个大JB建筑了 [黑线] 都是神马审美观",
+"mid":"z1WHjx0Qq",
+"date":"2012-10-24 12:57:50"
+},
+{
+"kids":[],
+"uid":"1762233607",
+"parent":"z1WEkxFQa",
+"text":"[偷笑][偷笑][偷笑][偷笑]",
+"mid":"z1WHhbks1",
+"date":"2012-10-24 12:57:44"
+},
+{
+"kids":[],
+"uid":"chungyunliang",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WHgxGbW",
+"date":"2012-10-24 12:57:42"
+},
+{
+"kids":[],
+"uid":"zyzlcom",
+"parent":"z1WEkxFQa",
+"text":"拉链？！[吃惊]PS：“劈腿楼”的名称好亮啊~[偷笑]",
+"mid":"z1WHdkLl1",
+"date":"2012-10-24 12:57:35"
+},
+{
+"kids":[],
+"uid":"gulv",
+"parent":"z1WEkxFQa",
+"text":"这坐电梯看来要转换了，质量不过关，死苦西",
+"mid":"z1WGRa8w9",
+"date":"2012-10-24 12:56:42"
+},
+{
+"kids":[],
+"uid":"2607857177",
+"parent":"z1WEkxFQa",
+"text":"[互相膜拜]当时我就懵了",
+"mid":"z1WGOdIFx",
+"date":"2012-10-24 12:56:33"
+},
+{
+"kids":[
+"z1WTa93HH",
+"z1WPRkPrX",
+"z1WHZsKId"
+],
+"uid":"sonypp",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WGKn9u8",
+"date":"2012-10-24 12:56:26"
+},
+{
+"kids":[],
+"uid":"1952178560",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WGBdzWV",
+"date":"2012-10-24 12:56:03"
+},
+{
+"kids":[],
+"uid":"wanmeizhuyizhe",
+"parent":"",
+"text":"",
+"mid":"z1WGyxR3n",
+"date":"2012-10-24 12:55:58"
+},
+{
+"kids":[],
+"uid":"2487739497",
+"parent":"",
+"text":"",
+"mid":"z1WGxn0OB",
+"date":"2012-10-24 12:55:55"
+},
+{
+"kids":[],
+"uid":"1741725457",
+"parent":"z1WEkxFQa",
+"text":"真牛逼！！！",
+"mid":"z1WGknXjT",
+"date":"2012-10-24 12:55:24"
+},
+{
+"kids":[
+"z1Xgg7N4v"
+],
+"uid":"339433326",
+"parent":"z1WEkxFQa",
+"text":"[吃惊]@狮子王之微博",
+"mid":"z1WGectxW",
+"date":"2012-10-24 12:55:08"
+},
+{
+"kids":[],
+"uid":"1892704641",
+"parent":"z1WEkxFQa",
+"text":"简直是以丑为美！",
+"mid":"z1WG8znOh",
+"date":"2012-10-24 12:54:56"
+},
+{
+"kids":[],
+"uid":"bigsungod",
+"parent":"z1WEkxFQa",
+"text":"新奇，但没有美感，我连边上的那些楼都不愿去上班了。有朝一日倒回来，也许会更有美感些。",
+"mid":"z1WG7EkDR",
+"date":"2012-10-24 12:54:55"
+},
+{
+"kids":[
+"z1WIEiw2J"
+],
+"uid":"cqchushi",
+"parent":"z1WEkxFQa",
+"text":"好怕掉下来",
+"mid":"z1WFSB1JK",
+"date":"2012-10-24 12:54:18"
+},
+{
+"kids":[],
+"uid":"1779369115",
+"parent":"",
+"text":"",
+"mid":"z1WFNiLOl",
+"date":"2012-10-24 12:54:05"
+},
+{
+"kids":[],
+"uid":"1269956417",
+"parent":"",
+"text":"脑残的人那都不缺……",
+"mid":"z1WFCCDpl",
+"date":"2012-10-24 12:53:40"
+},
+{
+"kids":[],
+"uid":"50608501",
+"parent":"z1WEkxFQa",
+"text":"哎哟好赞！",
+"mid":"z1WFB9hI4",
+"date":"2012-10-24 12:53:36"
+},
+{
+"kids":[],
+"uid":"1747639504",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WFlbOn7",
+"date":"2012-10-24 12:52:58"
+},
+{
+"kids":[],
+"uid":"1803837221",
+"parent":"z1WEkxFQa",
+"text":"@张xiao白 又来了",
+"mid":"z1WFkjtEx",
+"date":"2012-10-24 12:52:55"
+},
+{
+"kids":[],
+"uid":"digengsheng",
+"parent":"z1WEkxFQa",
+"text":"[偷笑]俺~~~害~~~驫！！！嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚嗚~~~~~",
+"mid":"z1WFifop6",
+"date":"2012-10-24 12:52:49"
+},
+{
+"kids":[],
+"uid":"1609326643",
+"parent":"z1WEkxFQa",
+"text":"拉链帝啊  怕怕 不敢上呢",
+"mid":"z1WFbqAMC",
+"date":"2012-10-24 12:52:35"
+},
+{
+"kids":[],
+"uid":"1845974430",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WF72oUa",
+"date":"2012-10-24 12:52:22"
+},
+{
+"kids":[],
+"uid":"2489929351",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WEZ25kI",
+"date":"2012-10-24 12:52:03"
+},
+{
+"kids":[],
+"uid":"008m",
+"parent":"z1WEkxFQa",
+"text":"感都得。。。",
+"mid":"z1WEX0D2O",
+"date":"2012-10-24 12:52:00"
+},
+{
+"kids":[],
+"uid":"239850121",
+"parent":"z1WEkxFQa",
+"text":"",
+"mid":"z1WEJDOwa",
+"date":"2012-10-24 12:51:27"
+},
+{
+"kids":[
+"z24jF9Dkc",
+"z1Yb3dfkL",
+"z1XLx82CJ",
+"z1XzH8Z1X",
+"z1XvxpOfv",
+"z1XsTrDz9",
+"z1Xplz22z",
+"z1Xns0k7I",
+"z1XgZjdgd",
+"z1XfI8hWY",
+"z1XeA5S8S",
+"z1X6XAViF",
+"z1X6kheOu",
+"z1X5oCHJt",
+"z1X4in5Ba",
+"z1X3jfJLP",
+"z1X1vyVaL",
+"z1X10fty6",
+"z1X0pAxVg",
+"z1WYXb8rU",
+"z1WYVDAZ8",
+"z1WYDEBKh",
+"z1WXnlCWR",
+"z1WWlvLxS",
+"z1WW8d6G1",
+"z1WVMlUe1",
+"z1WVs10eB",
+"z1WUZ09Cx",
+"z1WUhiK5u",
+"z1WSRfG7G",
+"z1WS5lTkl",
+"z1WRMtbxt",
+"z1WRowQwj",
+"z1WRe9zfq",
+"z1WQYv0yK",
+"z1WP2w10B",
+"z1WOueu71",
+"z1WOoFlIF",
+"z1WNrvnvG",
+"z1WN5EblS",
+"z1WMUrIHt",
+"z1WMP8CiP",
+"z1WLJrgYW",
+"z1WLhorht",
+"z1WL5A9Rs",
+"z1WKW7Qnm",
+"z1WKT95Uj",
+"z1WKK32Or",
+"z1WKFzKjr",
+"z1WKx1LgV",
+"z1WKembet",
+"z1WK9FEP2",
+"z1WJJCZVl",
+"z1WJCzEY6",
+"z1WJ88r5m",
+"z1WIYpe5F",
+"z1WITjU6a",
+"z1WIHxsB0",
+"z1WIAsS1w",
+"z1WIvoBI0",
+"z1WIezFVJ",
+"z1WI842pI",
+"z1WHVo4DX",
+"z1WHKr2KC",
+"z1WHByyNm",
+"z1WHvDUzy",
+"z1WHv60t5",
+"z1WHjx0Qq",
+"z1WHhbks1",
+"z1WHgxGbW",
+"z1WHdkLl1",
+"z1WGRa8w9",
+"z1WGOdIFx",
+"z1WGKn9u8",
+"z1WGBdzWV",
+"z1WGknXjT",
+"z1WGectxW",
+"z1WG8znOh",
+"z1WG7EkDR",
+"z1WFSB1JK",
+"z1WFB9hI4",
+"z1WFlbOn7",
+"z1WFkjtEx",
+"z1WFifop6",
+"z1WFbqAMC",
+"z1WF72oUa",
+"z1WEZ25kI",
+"z1WEX0D2O",
+"z1WEJDOwa"
+],
+"uid":"werhappy",
+"parent":"",
+"text":"太有才啦[哈哈]",
+"mid":"z1WEkxFQa",
+"date":"2012-10-24 12:50:28"
+},
+{
+"kids":[],
+"uid":"2130182915",
+"parent":"z1Qv46cNN",
+"text":"",
+"mid":"z1Wn2eZil",
+"date":"2012-10-24 12:07:51"
+},
+{
+"kids":[],
+"uid":"2250350462",
+"parent":"",
+"text":"",
+"mid":"z1VWfgYqx",
+"date":"2012-10-24 11:01:52"
+},
+{
+"kids":[],
+"uid":"1307820941",
+"parent":"z1Pm9tKhq",
+"text":"这个~~~元芳，你怎么看~~~~",
+"mid":"z1VyKdH8v",
+"date":"2012-10-24 10:03:57"
+},
+{
+"kids":[],
+"uid":"1445339257",
+"parent":"",
+"text":"",
+"mid":"z1Vxhubc1",
+"date":"2012-10-24 10:00:21"
+},
+{
+"kids":[],
+"uid":"1900132043",
+"parent":"",
+"text":"技术帝啊。。。。",
+"mid":"z1VodbADy",
+"date":"2012-10-24 09:37:59"
+},
+{
+"kids":[],
+"uid":"2790068892",
+"parent":"z1PLPAMLs",
+"text":"",
+"mid":"z1US3sbI8",
+"date":"2012-10-24 08:18:48"
+},
+{
+"kids":[],
+"uid":"1727983154",
+"parent":"z1PEQp9ej",
+"text":"",
+"mid":"z1ULkvb1J",
+"date":"2012-10-24 08:02:13"
+},
+{
+"kids":[],
+"uid":"1722593090",
+"parent":"z1PEQp9ej",
+"text":"",
+"mid":"z1ULkvaUM",
+"date":"2012-10-24 08:02:14"
+},
+{
+"kids":[],
+"uid":"2920097474",
+"parent":"",
+"text":"",
+"mid":"z1Usc7f9v",
+"date":"2012-10-24 07:15:04"
+},
+{
+"kids":[],
+"uid":"1750271057",
+"parent":"z1PVRzDgk",
+"text":"一定要亲眼看看。。。",
+"mid":"z1UqQx0VO",
+"date":"2012-10-24 07:11:45"
+},
+{
+"kids":[],
+"uid":"2805247510",
+"parent":"z1PAujCC9",
+"text":"",
+"mid":"z1Ul0dMIs",
+"date":"2012-10-24 06:57:21"
+},
+{
+"kids":[],
+"uid":"2803514944",
+"parent":"",
+"text":"",
+"mid":"z1TwZBF7m",
+"date":"2012-10-24 04:54:10"
+},
+{
+"kids":[],
+"uid":"1560962171",
+"parent":"z1PTs69L9",
+"text":"",
+"mid":"z1RSHbIk7",
+"date":"2012-10-24 00:42:07"
+},
+{
+"kids":[],
+"uid":"2036645794",
+"parent":"",
+"text":"",
+"mid":"z1RJ92jkQ",
+"date":"2012-10-24 00:18:36"
+},
+{
+"kids":[],
+"uid":"1821214545",
+"parent":"z1RBb052D",
+"text":"斜的电梯。。建议你亲自过来考证下",
+"mid":"z1RGpoeZH",
+"date":"2012-10-24 00:11:48"
+},
+{
+"kids":[],
+"uid":"rraul",
+"parent":"z1RFRaZHT",
+"text":"假的，确认了",
+"mid":"z1RGjepUK",
+"date":"2012-10-24 00:11:34"
+},
+{
+"kids":[
+"z1RGjepUK"
+],
+"uid":"rraul",
+"parent":"z1RFcmWuq",
+"text":"是不是真的",
+"mid":"z1RFRaZHT",
+"date":"2012-10-24 00:10:29"
+},
+{
+"kids":[
+"z1RFRaZHT"
+],
+"uid":"feng821031",
+"parent":"z1QUtnW1X",
+"text":"很达利很西班牙",
+"mid":"z1RFcmWuq",
+"date":"2012-10-24 00:08:52"
+},
+{
+"kids":[
+"z1RGpoeZH"
+],
+"uid":"1772133800",
+"parent":"z1QHc8WB5",
+"text":"@球球_掉坑星人 @海浪逐波 @多哈一只蛙 @LUCKY爸小熊夫 你们快去证实下！",
+"mid":"z1RBb052D",
+"date":"2012-10-23 23:58:54"
+},
+{
+"kids":[],
+"uid":"2138655572",
+"parent":"",
+"text":"应该是假的吧，宁波规划局这么开放 [偷笑]",
+"mid":"z1RfRx2FK",
+"date":"2012-10-23 23:06:29"
+},
+{
+"kids":[],
+"uid":"lizzyd",
+"parent":"z1PzJl5bH",
+"text":"[带感]",
+"mid":"z1R4kpn7t",
+"date":"2012-10-23 22:38:04"
+},
+{
+"kids":[],
+"uid":"1762170310",
+"parent":"",
+"text":"伟哥 这玩意应该怎么搞啊？",
+"mid":"z1R3y1ckF",
+"date":"2012-10-23 22:36:08"
+},
+{
+"kids":[],
+"uid":"becky1110",
+"parent":"",
+"text":"假的，网上辟谣了",
+"mid":"z1R1YclVk",
+"date":"2012-10-23 22:32:14"
+},
+{
+"kids":[],
+"uid":"hui430",
+"parent":"",
+"text":"",
+"mid":"z1QZLnNgw",
+"date":"2012-10-23 22:26:48"
+},
+{
+"kids":[],
+"uid":"2766844615",
+"parent":"",
+"text":"我在担心旁边的建筑的安全。@屋乐着",
+"mid":"z1QZs7Rax",
+"date":"2012-10-23 22:26:02"
+},
+{
+"kids":[],
+"uid":"2803977680",
+"parent":"z1PTs69L9",
+"text":"",
+"mid":"z1QXKl5A8",
+"date":"2012-10-23 22:21:47"
+},
+{
+"kids":[],
+"uid":"1778373835",
+"parent":"z1PTs69L9",
+"text":"",
+"mid":"z1QXKk6Uk",
+"date":"2012-10-23 22:21:50"
+},
+{
+"kids":[
+"z1RFcmWuq"
+],
+"uid":"dingdingxu1222",
+"parent":"",
+"text":"@清泉莹月",
+"mid":"z1QUtnW1X",
+"date":"2012-10-23 22:13:46"
+},
+{
+"kids":[
+"z1RBb052D"
+],
+"uid":"stevenhzy",
+"parent":"z1Q4LeBmD",
+"text":"必须见识一下！",
+"mid":"z1QHc8WB5",
+"date":"2012-10-23 21:41:01"
+},
+{
+"kids":[],
+"uid":"2028500333",
+"parent":"z1PscrxsP",
+"text":"转发微博。",
+"mid":"z1QH0jxD5",
+"date":"2012-10-23 21:40:35"
+},
+{
+"kids":[],
+"uid":"uc216297275",
+"parent":"",
+"text":"",
+"mid":"z1QDg37RW",
+"date":"2012-10-23 21:31:21"
+},
+{
+"kids":[],
+"uid":"1799916002",
+"parent":"",
+"text":"＂丫＂挺的",
+"mid":"z1QAFiC70",
+"date":"2012-10-23 21:24:58"
+},
+{
+"kids":[],
+"uid":"1963465093",
+"parent":"",
+"text":"@豆子她爸 求辟谣。",
+"mid":"z1QArmTtM",
+"date":"2012-10-23 21:24:26"
+},
+{
+"kids":[],
+"uid":"ef1123",
+"parent":"z1Pod8USd",
+"text":"不会真的是P出来的吧",
+"mid":"z1QvWcrrY",
+"date":"2012-10-23 21:13:18"
+},
+{
+"kids":[],
+"uid":"ying0007",
+"parent":"",
+"text":"哈哈哈",
+"mid":"z1Qvp2GRF",
+"date":"2012-10-23 21:12:00"
+},
+{
+"kids":[
+"z1Wn2eZil"
+],
+"uid":"playgirl959536",
+"parent":"z1PBE8gY4",
+"text":"东部新城是这样的索[左哼哼]",
+"mid":"z1Qv46cNN",
+"date":"2012-10-23 21:11:10"
+},
+{
+"kids":[],
+"uid":"2179366960",
+"parent":"",
+"text":"[帶感]",
+"mid":"z1Qswj9pV",
+"date":"2012-10-23 21:04:52"
+},
+{
+"kids":[
+"z23kv7fcG",
+"z23kv6dKy"
+],
+"uid":"1995544053",
+"parent":"z1QeLeYoN",
+"text":"",
+"mid":"z1QskdbYy",
+"date":"2012-10-23 21:04:25"
+},
+{
+"kids":[],
+"uid":"1871018607",
+"parent":"z1PTs69L9",
+"text":"",
+"mid":"z1QoHkKnf",
+"date":"2012-10-23 20:55:28"
+},
+{
+"kids":[],
+"uid":"2421465894",
+"parent":"z1PltdUOq",
+"text":"[抓狂]",
+"mid":"z1QonwzyK",
+"date":"2012-10-23 20:54:43"
+},
+{
+"kids":[],
+"uid":"1884959650",
+"parent":"",
+"text":"这样的楼电梯能上的去吗？",
+"mid":"z1QmDFcrE",
+"date":"2012-10-23 20:50:25"
+},
+{
+"kids":[],
+"uid":"1870613957",
+"parent":"",
+"text":"这样的建筑，让我们的贾工情何以堪啊！",
+"mid":"z1QhbAjWW",
+"date":"2012-10-23 20:36:59"
+},
+{
+"kids":[],
+"uid":"1041190314",
+"parent":"",
+"text":"[吃惊][吃惊]",
+"mid":"z1QgQ5kx0",
+"date":"2012-10-23 20:36:07"
+},
+{
+"kids":[
+"z1QskdbYy"
+],
+"uid":"94435467",
+"parent":"z1QdO8g6S",
+"text":"",
+"mid":"z1QeLeYoN",
+"date":"2012-10-23 20:30:58"
+},
+{
+"kids":[
+"z28HhxhQl",
+"z28Hhw1dg",
+"z1QeLeYoN"
+],
+"uid":"1928744015",
+"parent":"",
+"text":"为啥要搞这么稀奇古怪的设计[汗]，很没安全感诶",
+"mid":"z1QdO8g6S",
+"date":"2012-10-23 20:28:40"
+},
+{
+"kids":[],
+"uid":"gaodch",
+"parent":"",
+"text":"住在里面安全不啊？",
+"mid":"z1Qd3oM72",
+"date":"2012-10-23 20:26:47"
+},
+{
+"kids":[],
+"uid":"sylviafeifei",
+"parent":"",
+"text":"[吃惊]他是怎么做到的。。。",
+"mid":"z1Qce2vnJ",
+"date":"2012-10-23 20:24:45"
+},
+{
+"kids":[],
+"uid":"anita9737",
+"parent":"z1Pk7gDGc",
+"text":"最近这些楼都跟下半身干上了，不知道会不会出现上半身地楼",
+"mid":"z1Qa5iARL",
+"date":"2012-10-23 20:19:27"
+},
+{
+"kids":[],
+"uid":"1885611144",
+"parent":"",
+"text":"",
+"mid":"z1Q9FihUC",
+"date":"2012-10-23 20:18:26"
+},
+{
+"kids":[],
+"uid":"2138249993",
+"parent":"",
+"text":"有点晕[汗][汗][汗]",
+"mid":"z1Q8WpNj6",
+"date":"2012-10-23 20:16:40"
+},
+{
+"kids":[],
+"uid":"3024336715",
+"parent":"z1Q2vwHLB",
+"text":"好棒啊",
+"mid":"z1Q7GqGhb",
+"date":"2012-10-23 20:13:34"
+},
+{
+"kids":[
+"z1QHc8WB5"
+],
+"uid":"1918923071",
+"parent":"z1Q2Vermq",
+"text":"YY艾[嘻嘻]",
+"mid":"z1Q4LeBmD",
+"date":"2012-10-23 20:06:22"
+},
+{
+"kids":[],
+"uid":"1923712343",
+"parent":"",
+"text":"[懒得理你]真的假的？ 改天一定去看看。。。在里面上班就算了",
+"mid":"z1Q43xEyO",
+"date":"2012-10-23 20:04:35"
+},
+{
+"kids":[],
+"uid":"2863517200",
+"parent":"",
+"text":"",
+"mid":"z1Q31Fxw1",
+"date":"2012-10-23 20:02:04"
+},
+{
+"kids":[
+"z1Q4LeBmD"
+],
+"uid":"2002522723",
+"parent":"z1PhhsOzB",
+"text":"元芳，你怎么看？",
+"mid":"z1Q2Vermq",
+"date":"2012-10-23 20:01:50"
+},
+{
+"kids":[
+"z1Q7GqGhb"
+],
+"uid":"dggbbbbb",
+"parent":"",
+"text":"厉害啊",
+"mid":"z1Q2vwHLB",
+"date":"2012-10-23 20:00:49"
+},
+{
+"kids":[],
+"uid":"ploty",
+"parent":"",
+"text":"[鄙视]符合结构概念设计么？",
+"mid":"z1Q0N8uGN",
+"date":"2012-10-23 19:56:35"
+},
+{
+"kids":[],
+"uid":"phuimin",
+"parent":"z1PBAxSuL",
+"text":"会拐弯的电梯[黑线]",
+"mid":"z1Q0wfprm",
+"date":"2012-10-23 19:55:55"
+},
+{
+"kids":[],
+"uid":"2088056697",
+"parent":"",
+"text":"一看前面破烂的房子就知道不可能是东部新城的建筑，这楼估计是耐不住寂寞的PS作品",
+"mid":"z1Q061vUU",
+"date":"2012-10-23 19:54:53"
+},
+{
+"kids":[],
+"uid":"godblessanny",
+"parent":"",
+"text":"",
+"mid":"z1PYXmFuD",
+"date":"2012-10-23 19:52:04"
+},
+{
+"kids":[],
+"uid":"1096905585",
+"parent":"z1PDUsHkg",
+"text":"",
+"mid":"z1PXfiDyK",
+"date":"2012-10-23 19:47:48"
+},
+{
+"kids":[],
+"uid":"zshani",
+"parent":"",
+"text":"不得了啊",
+"mid":"z1PWuiDEb",
+"date":"2012-10-23 19:45:58"
+},
+{
+"kids":[
+"z1UqQx0VO"
+],
+"uid":"2845771761",
+"parent":"",
+"text":"!",
+"mid":"z1PVRzDgk",
+"date":"2012-10-23 19:44:27"
+},
+{
+"kids":[
+"z1RSHbIk7",
+"z1QXKl5A8",
+"z1QXKk6Uk",
+"z1QoHkKnf"
+],
+"uid":"2062552955",
+"parent":"",
+"text":"@KyleWoo 是怎么做到的？",
+"mid":"z1PTs69L9",
+"date":"2012-10-23 19:38:30"
+},
+{
+"kids":[],
+"uid":"2411251782",
+"parent":"z1PgFnOG4",
+"text":"感觉很适合psbc的样子 @elsajj_rya @蓝色向日葵的小丫儿 @APAN阿潘 @南南围脖 @Miss_joeli4",
+"mid":"z1PSc5Z5s",
+"date":"2012-10-23 19:35:24"
+},
+{
+"kids":[],
+"uid":"wushansmile",
+"parent":"",
+"text":"",
+"mid":"z1PQl7Qdj",
+"date":"2012-10-23 19:30:48"
+},
+{
+"kids":[],
+"uid":"ningboliang",
+"parent":"",
+"text":"",
+"mid":"z1PPCdXD2",
+"date":"2012-10-23 19:29:03"
+},
+{
+"kids":[],
+"uid":"2332188311",
+"parent":"",
+"text":"",
+"mid":"z1POPq1xX",
+"date":"2012-10-23 19:27:08"
+},
+{
+"kids":[],
+"uid":"1959733401",
+"parent":"",
+"text":"空中超出那么多，这样的建筑合法？",
+"mid":"z1POwvek6",
+"date":"2012-10-23 19:26:19"
+},
+{
+"kids":[],
+"uid":"lillyyan",
+"parent":"",
+"text":"[吃惊][吃惊][吃惊]",
+"mid":"z1PO1du9I",
+"date":"2012-10-23 19:25:04"
+},
+{
+"kids":[],
+"uid":"nadoppl",
+"parent":"",
+"text":"",
+"mid":"z1PNXmTXB",
+"date":"2012-10-23 19:24:56"
+},
+{
+"kids":[],
+"uid":"2373902152",
+"parent":"",
+"text":"这结构工程师牛叉呀,小女子佩服佩服~",
+"mid":"z1PNqzTBB",
+"date":"2012-10-23 19:23:40"
+},
+{
+"kids":[],
+"uid":"1657647385",
+"parent":"",
+"text":"确定是宁波？@Z小赵 @趴趴琦",
+"mid":"z1PM4mdMo",
+"date":"2012-10-23 19:20:20"
+},
+{
+"kids":[
+"z26mn7C6H",
+"z1US3sbI8"
+],
+"uid":"shambles",
+"parent":"",
+"text":"......",
+"mid":"z1PLPAMLs",
+"date":"2012-10-23 19:19:43"
+},
+{
+"kids":[],
+"uid":"1556698321",
+"parent":"",
+"text":"奇葩啊！",
+"mid":"z1PLu0tmP",
+"date":"2012-10-23 19:18:52"
+},
+{
+"kids":[],
+"uid":"1822186921",
+"parent":"",
+"text":"不敢去！",
+"mid":"z1PKhexGO",
+"date":"2012-10-23 19:15:54"
+},
+{
+"kids":[],
+"uid":"anemostar",
+"parent":"z1PzJl5bH",
+"text":"以前不知道有恐高症，看到这个有点感觉了。。。",
+"mid":"z1PJHuzes",
+"date":"2012-10-23 19:14:30"
+},
+{
+"kids":[],
+"uid":"1833576340",
+"parent":"",
+"text":"",
+"mid":"z1PHdeV6H",
+"date":"2012-10-23 19:08:18"
+},
+{
+"kids":[],
+"uid":"2279601262",
+"parent":"",
+"text":"假的",
+"mid":"z1PG6m0NC",
+"date":"2012-10-23 19:05:37"
+},
+{
+"kids":[],
+"uid":"wsh0312",
+"parent":"z1PmBfbpS",
+"text":"这都什么跟什么啊",
+"mid":"z1PFgmxy6",
+"date":"2012-10-23 19:03:34"
+},
+{
+"kids":[
+"z1ULkvb1J",
+"z1ULkvaUM"
+],
+"uid":"1865982564",
+"parent":"",
+"text":"轉發微博.",
+"mid":"z1PEQp9ej",
+"date":"2012-10-23 19:02:31"
+},
+{
+"kids":[],
+"uid":"2013209581",
+"parent":"",
+"text":"中国的建筑越来越牛逼了",
+"mid":"z1PEo32Qk",
+"date":"2012-10-23 19:01:23"
+},
+{
+"kids":[
+"z1PXfiDyK"
+],
+"uid":"1068579860",
+"parent":"",
+"text":"幸好是假的",
+"mid":"z1PDUsHkg",
+"date":"2012-10-23 19:00:13"
+},
+{
+"kids":[],
+"uid":"2113547194",
+"parent":"",
+"text":"真不知道这设计师是怎么想的！",
+"mid":"z1PDlhaEM",
+"date":"2012-10-23 18:58:48"
+},
+{
+"kids":[],
+"uid":"335154888",
+"parent":"z1Pqaw3uQ",
+"text":"弯的地方装商场电梯呀[哈哈]",
+"mid":"z1PCKodHQ",
+"date":"2012-10-23 18:57:21"
+},
+{
+"kids":[],
+"uid":"2547102374",
+"parent":"",
+"text":"すごい！",
+"mid":"z1PClxLYL",
+"date":"2012-10-23 18:56:22"
+},
+{
+"kids":[
+"z1Qv46cNN"
+],
+"uid":"nbgege",
+"parent":"z1PifaJVK",
+"text":"真的很配2B地块",
+"mid":"z1PBE8gY4",
+"date":"2012-10-23 18:54:36"
+},
+{
+"kids":[],
+"uid":"2825077310",
+"parent":"",
+"text":"[衰]额。。。哆嗦",
+"mid":"z1PBBaW5M",
+"date":"2012-10-23 18:54:28"
+},
+{
+"kids":[
+"z1Q0wfprm"
+],
+"uid":"1175673084",
+"parent":"",
+"text":"",
+"mid":"z1PBAxSuL",
+"date":"2012-10-23 18:54:31"
+},
+{
+"kids":[],
+"uid":"1894220032",
+"parent":"",
+"text":"[汗][汗]",
+"mid":"z1PBpCkcJ",
+"date":"2012-10-23 18:54:04"
+},
+{
+"kids":[],
+"uid":"minnie16",
+"parent":"",
+"text":"這個結構工程師真厲害~",
+"mid":"z1PAHCg0H",
+"date":"2012-10-23 18:52:18"
+},
+{
+"kids":[
+"zlllZ25BN",
+"zlboVDP55",
+"zkr2OCeum",
+"zdidksAeD",
+"zda3Jtj0h",
+"zcnOkr8tt",
+"z3LOf0doc",
+"z3DrrcVcd",
+"z3DrqBhvg",
+"z2OYZzeBt",
+"z2EECFGZO",
+"z2EECEr7a",
+"z1Ul0dMIs"
+],
+"uid":"2438521800",
+"parent":"z1Pqxj9SA",
+"text":"打完一大段骂人的话刚要发，随即发现这个是假的。。。真要有人设计这样的楼，真要有人敢拿纳税人的钱造这样的楼，那是要断子绝孙的。",
+"mid":"z1PAujCC9",
+"date":"2012-10-23 18:51:47"
+},
+{
+"kids":[],
+"uid":"icewater9",
+"parent":"z1PifaJVK",
+"text":"这个真是技术啊",
+"mid":"z1PAe4utX",
+"date":"2012-10-23 18:51:08"
+},
+{
+"kids":[],
+"uid":"pimpqiu",
+"parent":"",
+"text":"恭喜了！",
+"mid":"z1PA42rX5",
+"date":"2012-10-23 18:50:44"
+},
+{
+"kids":[
+"z1R4kpn7t",
+"z1PJHuzes"
+],
+"uid":"henryhwang",
+"parent":"",
+"text":"续苏州秋裤楼后又一大作[挖鼻屎]",
+"mid":"z1PzJl5bH",
+"date":"2012-10-23 18:49:53"
+},
+{
+"kids":[],
+"uid":"2170532084",
+"parent":"z1Pr5juKT",
+"text":"我觉得吧，斜的电梯至少不会在坏掉的时候自由落体",
+"mid":"z1PzoCVgk",
+"date":"2012-10-23 18:49:03"
+},
+{
+"kids":[],
+"uid":"1865618227",
+"parent":"",
+"text":"@饅頭陳_0908 @Lynn282",
+"mid":"z1PzbEBW5",
+"date":"2012-10-23 18:48:34"
+},
+{
+"kids":[],
+"uid":"2148584492",
+"parent":"",
+"text":"@歌颂者_邋遢娜娜Leona @兽----- 这个强的 白童鞋肿么没有推荐啊",
+"mid":"z1PxWwFlX",
+"date":"2012-10-23 18:45:31"
+},
+{
+"kids":[],
+"uid":"1917913342",
+"parent":"",
+"text":"@杉田家的猫",
+"mid":"z1PxKoYLa",
+"date":"2012-10-23 18:45:03"
+},
+{
+"kids":[],
+"uid":"1452446112",
+"parent":"z1PxkoAVd",
+"text":"[晕]",
+"mid":"z1PxK86BO",
+"date":"2012-10-23 18:44:59"
+},
+{
+"kids":[],
+"uid":"rockeeverybody",
+"parent":"",
+"text":"@桃萄可爱多不多 元芳，你怎么看",
+"mid":"z1PxtycQp",
+"date":"2012-10-23 18:44:22"
+},
+{
+"kids":[
+"z1PxK86BO"
+],
+"uid":"2126251274",
+"parent":"z1PwFDkjd",
+"text":"别怪我先前不提醒，你看吧，被人抢先了",
+"mid":"z1PxkoAVd",
+"date":"2012-10-23 18:44:00"
+},
+{
+"kids":[],
+"uid":"1732446540",
+"parent":"",
+"text":"a o 玉皇大帝保佑我这辈子都不要去这座创意楼。。",
+"mid":"z1PwVARhK",
+"date":"2012-10-23 18:42:59"
+},
+{
+"kids":[],
+"uid":"2854184590",
+"parent":"",
+"text":"中国连个桥都造不好。。。",
+"mid":"z1PwRqnz4",
+"date":"2012-10-23 18:42:51"
+},
+{
+"kids":[
+"z1PxkoAVd"
+],
+"uid":"1402689247",
+"parent":"z1PjAccTh",
+"text":"Orz[汗]",
+"mid":"z1PwFDkjd",
+"date":"2012-10-23 18:42:21"
+},
+{
+"kids":[],
+"uid":"1800953731",
+"parent":"z1PscrxsP",
+"text":"怎么没拉链？",
+"mid":"z1PwFjVUC",
+"date":"2012-10-23 18:42:22"
+},
+{
+"kids":[],
+"uid":"207109234",
+"parent":"",
+"text":"@如果墙不会说话 大姐又造雷了吧~~",
+"mid":"z1Pvjpd88",
+"date":"2012-10-23 18:39:00"
+},
+{
+"kids":[],
+"uid":"1624101943",
+"parent":"",
+"text":"鄞州哪里？我以前也见过这个新闻",
+"mid":"z1Pv1FPy6",
+"date":"2012-10-23 18:38:19"
+},
+{
+"kids":[],
+"uid":"1786827823",
+"parent":"",
+"text":"",
+"mid":"z1PuUzG8Q",
+"date":"2012-10-23 18:38:02"
+},
+{
+"kids":[],
+"uid":"1444222724",
+"parent":"",
+"text":"。。。。。这。。。。",
+"mid":"z1PtLo8Ey",
+"date":"2012-10-23 18:35:14"
+},
+{
+"kids":[],
+"uid":"qiankaifa",
+"parent":"",
+"text":"我勒个去。。。",
+"mid":"z1PtbzttA",
+"date":"2012-10-23 18:33:47"
+},
+{
+"kids":[
+"z1QH0jxD5",
+"z1PwFjVUC"
+],
+"uid":"1766612670",
+"parent":"",
+"text":"@DAPchen 奶爸，劈腿楼啊",
+"mid":"z1PscrxsP",
+"date":"2012-10-23 18:31:20"
+},
+{
+"kids":[
+"z1PzoCVgk"
+],
+"uid":"sephiroth233",
+"parent":"",
+"text":"这样的结构和立面带来的是正溢价还是负溢价呢？",
+"mid":"z1Pr5juKT",
+"date":"2012-10-23 18:28:37"
+},
+{
+"kids":[],
+"uid":"1767989602",
+"parent":"",
+"text":"@牛妞儿vivi 技术口子看看这问题吧 我觉得不太可能啊？",
+"mid":"z1PqxklJ0",
+"date":"2012-10-23 18:27:16"
+},
+{
+"kids":[
+"z1PAujCC9"
+],
+"uid":"52734746",
+"parent":"",
+"text":"效果拔群啊",
+"mid":"z1Pqxj9SA",
+"date":"2012-10-23 18:27:16"
+},
+{
+"kids":[
+"z1PCKodHQ"
+],
+"uid":"1765500154",
+"parent":"z1PpfvaLX",
+"text":"谁的电梯？@还是顾昕明",
+"mid":"z1Pqaw3uQ",
+"date":"2012-10-23 18:26:21"
+},
+{
+"kids":[],
+"uid":"kakalch",
+"parent":"",
+"text":"[怒]真的假的",
+"mid":"z1Pq15YOD",
+"date":"2012-10-23 18:25:59"
+},
+{
+"kids":[],
+"uid":"2158720517",
+"parent":"",
+"text":"",
+"mid":"z1PpZk8Sg",
+"date":"2012-10-23 18:25:55"
+},
+{
+"kids":[],
+"uid":"2099088817",
+"parent":"",
+"text":"怪楼不可怕，可怕的错号，劈腿。。",
+"mid":"z1PpXh73v",
+"date":"2012-10-23 18:25:47"
+},
+{
+"kids":[],
+"uid":"dennyjyzhang",
+"parent":"",
+"text":"真的吗？",
+"mid":"z1PpSwfCz",
+"date":"2012-10-23 18:25:39"
+},
+{
+"kids":[],
+"uid":"2233500667",
+"parent":"",
+"text":"真牛b",
+"mid":"z1PpDt0iq",
+"date":"2012-10-23 18:25:03"
+},
+{
+"kids":[
+"z1Pqaw3uQ"
+],
+"uid":"317111517",
+"parent":"",
+"text":"神馬玩意啊[衰]",
+"mid":"z1PpfvaLX",
+"date":"2012-10-23 18:24:05"
+},
+{
+"kids":[],
+"uid":"blogsody",
+"parent":"",
+"text":"这个仿佛被当作反面教材了啊~~~[哈哈][哈哈][哈哈]",
+"mid":"z1Pp3oVaR",
+"date":"2012-10-23 18:23:37"
+},
+{
+"kids":[],
+"uid":"2514997850",
+"parent":"",
+"text":"",
+"mid":"z1PoWAnya",
+"date":"2012-10-23 18:23:21"
+},
+{
+"kids":[],
+"uid":"1843125073",
+"parent":"",
+"text":"真的会有吗？好想去里面看看……",
+"mid":"z1PoGCUtf",
+"date":"2012-10-23 18:22:43"
+},
+{
+"kids":[
+"z1QvWcrrY"
+],
+"uid":"1990755331",
+"parent":"z1PifaJVK",
+"text":"门户区基本是低密度商业、酒店和单身公寓，没有高层写字楼的！基本可以确定是谣言",
+"mid":"z1Pod8USd",
+"date":"2012-10-23 18:21:30"
+},
+{
+"kids":[],
+"uid":"2805510045",
+"parent":"",
+"text":"",
+"mid":"z1PnX8CX3",
+"date":"2012-10-23 18:20:54"
+},
+{
+"kids":[],
+"uid":"1864711505",
+"parent":"",
+"text":"这设计[衰]",
+"mid":"z1PnS9zhP",
+"date":"2012-10-23 18:20:42"
+},
+{
+"kids":[],
+"uid":"wentianjia",
+"parent":"",
+"text":"@破了的阳 好性感的楼~劈腿楼！不过有点困惑点解要甘设计者",
+"mid":"z1PnMwSId",
+"date":"2012-10-23 18:20:27"
+},
+{
+"kids":[],
+"uid":"faynoon",
+"parent":"",
+"text":"",
+"mid":"z1PnFoG4y",
+"date":"2012-10-23 18:20:09"
+},
+{
+"kids":[],
+"uid":"2425641904",
+"parent":"",
+"text":"",
+"mid":"z1PntBDn6",
+"date":"2012-10-23 18:19:43"
+},
+{
+"kids":[],
+"uid":"522348808",
+"parent":"",
+"text":"宁波劈腿楼。。。",
+"mid":"z1PmZt4E0",
+"date":"2012-10-23 18:18:31"
+},
+{
+"kids":[],
+"uid":"2287066131",
+"parent":"",
+"text":"好性感的丁字裤楼",
+"mid":"z1PmX5fvm",
+"date":"2012-10-23 18:18:26"
+},
+{
+"kids":[],
+"uid":"mayanyan127",
+"parent":"",
+"text":"[吃惊]",
+"mid":"z1PmSD2AE",
+"date":"2012-10-23 18:18:16"
+},
+{
+"kids":[],
+"uid":"2073169885",
+"parent":"",
+"text":"这是真的吗?",
+"mid":"z1PmS5Xlv",
+"date":"2012-10-23 18:18:14"
+},
+{
+"kids":[],
+"uid":"fingwing",
+"parent":"",
+"text":"无语",
+"mid":"z1PmQ1wvG",
+"date":"2012-10-23 18:18:08"
+},
+{
+"kids":[],
+"uid":"ef1123",
+"parent":"z1PifaJVK",
+"text":"真的有这楼啊？",
+"mid":"z1PmK7bSq",
+"date":"2012-10-23 18:17:54"
+},
+{
+"kids":[
+"z1PFgmxy6"
+],
+"uid":"1775010663",
+"parent":"z1Plkj2Yh",
+"text":"顿时觉得大裤衩是安全滴……",
+"mid":"z1PmBfbpS",
+"date":"2012-10-23 18:17:33"
+},
+{
+"kids":[],
+"uid":"1831746641",
+"parent":"",
+"text":"脑残，不说怎么给老百姓多盖一些保障性住房，就会搞噱头",
+"mid":"z1PmxFWfp",
+"date":"2012-10-23 18:17:26"
+},
+{
+"kids":[],
+"uid":"jasoncyt",
+"parent":"",
+"text":"[吃驚]",
+"mid":"z1Pmtw0co",
+"date":"2012-10-23 18:17:17"
+},
+{
+"kids":[],
+"uid":"1689720981",
+"parent":"z1Plkj2Yh",
+"text":"[酷]Y cool 还劈腿",
+"mid":"z1PmrrUZE",
+"date":"2012-10-23 18:17:09"
+},
+{
+"kids":[],
+"uid":"jackystone",
+"parent":"",
+"text":"@Tangled7 真有？",
+"mid":"z1PmfCCjg",
+"date":"2012-10-23 18:16:43"
+},
+{
+"kids":[],
+"uid":"yaoyuan1028",
+"parent":"",
+"text":"怎么看着那么没有安全感呢@upsssion",
+"mid":"z1Pmf5oer",
+"date":"2012-10-23 18:16:41"
+},
+{
+"kids":[],
+"uid":"craz813",
+"parent":"",
+"text":"",
+"mid":"z1PmajBQY",
+"date":"2012-10-23 18:16:30"
+},
+{
+"kids":[
+"z1VyKdH8v"
+],
+"uid":"1858038960",
+"parent":"",
+"text":"这个~~~元芳，你怎么看~~~~",
+"mid":"z1Pm9tKhq",
+"date":"2012-10-23 18:16:28"
+},
+{
+"kids":[],
+"uid":"1491279273",
+"parent":"",
+"text":"国家的地皮上，耸立着一座座外国人的设计，还挺沾沾自喜，你没脸没皮啊。",
+"mid":"z1Pm50BhI",
+"date":"2012-10-23 18:16:17"
+},
+{
+"kids":[],
+"uid":"207077484",
+"parent":"",
+"text":"牛逼蛤",
+"mid":"z1PlBt7Zl",
+"date":"2012-10-23 18:15:07"
+},
+{
+"kids":[],
+"uid":"1728614202",
+"parent":"",
+"text":"",
+"mid":"z1PlAjqOg",
+"date":"2012-10-23 18:15:03"
+},
+{
+"kids":[],
+"uid":"1999041851",
+"parent":"",
+"text":"",
+"mid":"z1PlxAMMA",
+"date":"2012-10-23 18:14:58"
+},
+{
+"kids":[
+"z1QonwzyK"
+],
+"uid":"alibank",
+"parent":"",
+"text":"宁波有这地？要去看看",
+"mid":"z1PltdUOq",
+"date":"2012-10-23 18:14:46"
+},
+{
+"kids":[],
+"uid":"2171620770",
+"parent":"z1Pk7gDGc",
+"text":"我也很想知道电梯是怎么拐弯的[疑问]",
+"mid":"z1Plm9NhM",
+"date":"2012-10-23 18:14:31"
+},
+{
+"kids":[
+"z1PmBfbpS",
+"z1PmrrUZE"
+],
+"uid":"chroniclh",
+"parent":"",
+"text":"",
+"mid":"z1Plkj2Yh",
+"date":"2012-10-23 18:14:26"
+},
+{
+"kids":[],
+"uid":"1573605464",
+"parent":"",
+"text":"[汗]可以办公么？这太惊悚了",
+"mid":"z1Pl7AvCd",
+"date":"2012-10-23 18:13:57"
+},
+{
+"kids":[],
+"uid":"120101116",
+"parent":"",
+"text":"过山车？",
+"mid":"z1PkW5fRd",
+"date":"2012-10-23 18:13:28"
+},
+{
+"kids":[],
+"uid":"1912304664",
+"parent":"",
+"text":"@跳蚤小燕吱 哪天我们去看看- - 一定要拍照留念！",
+"mid":"z1Pkzmzzp",
+"date":"2012-10-23 18:12:34"
+},
+{
+"kids":[],
+"uid":"1767146602",
+"parent":"",
+"text":"毫无PS痕迹。",
+"mid":"z1PkopD2W",
+"date":"2012-10-23 18:12:08"
+},
+{
+"kids":[],
+"uid":"275443328",
+"parent":"",
+"text":"我貌似想到了什么……",
+"mid":"z1PklrCAq",
+"date":"2012-10-23 18:12:01"
+},
+{
+"kids":[],
+"uid":"1400291032",
+"parent":"",
+"text":"设置电梯转换层，就解决电梯拐弯问题了。只是没觉得这建筑有美感。选择这种方案真的脑子有病，随时需要去医院",
+"mid":"z1Pkjqpuj",
+"date":"2012-10-23 18:11:56"
+},
+{
+"kids":[],
+"uid":"2574823421",
+"parent":"",
+"text":"会不会批开的？[失望]",
+"mid":"z1PkawfhL",
+"date":"2012-10-23 18:11:35"
+},
+{
+"kids":[
+"z1Qa5iARL",
+"z1Plm9NhM"
+],
+"uid":"toonboy",
+"parent":"",
+"text":"问题是电梯怎么办?",
+"mid":"z1Pk7gDGc",
+"date":"2012-10-23 18:11:25"
+},
+{
+"kids":[],
+"uid":"1995467965",
+"parent":"",
+"text":"",
+"mid":"z1PjZjlf1",
+"date":"2012-10-23 18:11:08"
+},
+{
+"kids":[],
+"uid":"chankatsun368",
+"parent":"",
+"text":"轉發微博",
+"mid":"z1PjZ0jh7",
+"date":"2012-10-23 18:11:07"
+},
+{
+"kids":[],
+"uid":"stair007",
+"parent":"",
+"text":"@纳一直都在",
+"mid":"z1PjVsL9A",
+"date":"2012-10-23 18:10:57"
+},
+{
+"kids":[],
+"uid":"jin125220",
+"parent":"z1PhZw615",
+"text":"我也被雷到了[衰]",
+"mid":"z1PjItUBz",
+"date":"2012-10-23 18:10:28"
+},
+{
+"kids":[],
+"uid":"esqjf",
+"parent":"",
+"text":"……真的假的。。。盗梦空间拍续集一定要来取景。。。。铁定了~[哈哈]",
+"mid":"z1PjHAFr0",
+"date":"2012-10-23 18:10:25"
+},
+{
+"kids":[],
+"uid":"1865800440",
+"parent":"",
+"text":"转发微博。",
+"mid":"z1PjB479h",
+"date":"2012-10-23 18:10:10"
+},
+{
+"kids":[
+"z1PwFDkjd"
+],
+"uid":"2126251274",
+"parent":"",
+"text":"@haog0724 有人抢在你前面设计丁字裤了[哈哈]",
+"mid":"z1PjAccTh",
+"date":"2012-10-23 18:10:08"
+},
+{
+"kids":[],
+"uid":"6002vicky",
+"parent":"",
+"text":"",
+"mid":"z1PjmBttt",
+"date":"2012-10-23 18:09:36"
+},
+{
+"kids":[],
+"uid":"1625565352",
+"parent":"",
+"text":"越来越超超超乎想像了",
+"mid":"z1Pjjmxtm",
+"date":"2012-10-23 18:09:29"
+},
+{
+"kids":[],
+"uid":"2611434753",
+"parent":"",
+"text":"有才",
+"mid":"z1PjibH0n",
+"date":"2012-10-23 18:09:25"
+},
+{
+"kids":[],
+"uid":"1782822601",
+"parent":"",
+"text":"转发微博。",
+"mid":"z1PjhirRF",
+"date":"2012-10-23 18:09:24"
+},
+{
+"kids":[],
+"uid":"521684566",
+"parent":"",
+"text":"[good]",
+"mid":"z1Pj7xcim",
+"date":"2012-10-23 18:08:59"
+},
+{
+"kids":[],
+"uid":"loongzhang",
+"parent":"",
+"text":"我觉得最该害怕的应该是旁边楼的人吧",
+"mid":"z1Pj6kHSh",
+"date":"2012-10-23 18:08:55"
+},
+{
+"kids":[],
+"uid":"408937820",
+"parent":"",
+"text":"[围观][围观][围观]",
+"mid":"z1PiZgPIl",
+"date":"2012-10-23 18:08:40"
+},
+{
+"kids":[],
+"uid":"1623437285",
+"parent":"",
+"text":"好厉害[围观]",
+"mid":"z1PiScCT7",
+"date":"2012-10-23 18:08:22"
+},
+{
+"kids":[],
+"uid":"2164496672",
+"parent":"",
+"text":"@L一喃",
+"mid":"z1PiRjnOM",
+"date":"2012-10-23 18:08:22"
+},
+{
+"kids":[],
+"uid":"1847755853",
+"parent":"",
+"text":"@vegie",
+"mid":"z1PiExfcG",
+"date":"2012-10-23 18:07:51"
+},
+{
+"kids":[],
+"uid":"shahaoer",
+"parent":"",
+"text":"在这上面上班绝对会有心理阴影啊…电梯到底是如何拐弯的呢?",
+"mid":"z1PiE1A6e",
+"date":"2012-10-23 18:07:50"
+},
+{
+"kids":[],
+"uid":"carolcat",
+"parent":"",
+"text":"象把椅子",
+"mid":"z1PiB4f20",
+"date":"2012-10-23 18:07:42"
+},
+{
+"kids":[],
+"uid":"maiguanggan",
+"parent":"",
+"text":"[晕]",
+"mid":"z1PizhKCj",
+"date":"2012-10-23 18:07:38"
+},
+{
+"kids":[
+"z1PBE8gY4",
+"z1PAe4utX",
+"z1Pod8USd",
+"z1PmK7bSq"
+],
+"uid":"zhouziwei2009",
+"parent":"z1PgRc4qm",
+"text":"这个比裤衩好多了！",
+"mid":"z1PifaJVK",
+"date":"2012-10-23 18:06:48"
+},
+{
+"kids":[],
+"uid":"jiwuxiaoai",
+"parent":"",
+"text":"宁波劈腿楼",
+"mid":"z1Pidm7fh",
+"date":"2012-10-23 18:06:46"
+},
+{
+"kids":[],
+"uid":"littleear",
+"parent":"",
+"text":"这个。。坐电梯的时候是斜着上去的么？",
+"mid":"z1Pi6hka1",
+"date":"2012-10-23 18:06:29"
+},
+{
+"kids":[
+"z1PjItUBz"
+],
+"uid":"1786045081",
+"parent":"",
+"text":"@小童童鞋要加油 真的么?",
+"mid":"z1PhZw615",
+"date":"2012-10-23 18:06:11"
+},
+{
+"kids":[],
+"uid":"2343189711",
+"parent":"",
+"text":"",
+"mid":"z1PhV51QC",
+"date":"2012-10-23 18:06:01"
+},
+{
+"kids":[],
+"uid":"linziqiao",
+"parent":"",
+"text":"牛！[good][good][good]",
+"mid":"z1PhUd44v",
+"date":"2012-10-23 18:06:00"
+},
+{
+"kids":[],
+"uid":"2118670342",
+"parent":"",
+"text":"又不实用又不美观，抽象的东西硬要变成现实的，真心搞不懂",
+"mid":"z1PhRuHj7",
+"date":"2012-10-23 18:05:54"
+},
+{
+"kids":[],
+"uid":"zhuangchensl",
+"parent":"",
+"text":"好犀利",
+"mid":"z1PhKqxcq",
+"date":"2012-10-23 18:05:37"
+},
+{
+"kids":[],
+"uid":"2028645581",
+"parent":"",
+"text":"",
+"mid":"z1PhK6TVj",
+"date":"2012-10-23 18:05:35"
+},
+{
+"kids":[],
+"uid":"zhoufnb",
+"parent":"",
+"text":"这个要去瞧瞧滴",
+"mid":"z1PhuugWc",
+"date":"2012-10-23 18:04:58"
+},
+{
+"kids":[],
+"uid":"1769081154",
+"parent":"",
+"text":"@浪迹天涯July",
+"mid":"z1Phim3Kl",
+"date":"2012-10-23 18:04:28"
+},
+{
+"kids":[
+"z1Q2Vermq"
+],
+"uid":"1560054352",
+"parent":"",
+"text":"求证实@饮瀣醉客 @阿拉_小雷 @多乐无穷 @小钢牙的YY",
+"mid":"z1PhhsOzB",
+"date":"2012-10-23 18:04:28"
+},
+{
+"kids":[],
+"uid":"heyan0225",
+"parent":"",
+"text":"以后要组织去参观一下。。[围观]",
+"mid":"z1Ph6f2GX",
+"date":"2012-10-23 18:04:00"
+},
+{
+"kids":[],
+"uid":"annornot",
+"parent":"",
+"text":"电梯会拐弯",
+"mid":"z1Ph54gph",
+"date":"2012-10-23 18:03:58"
+},
+{
+"kids":[],
+"uid":"darknightrise",
+"parent":"",
+"text":"广州地铁logo= =",
+"mid":"z1PgSlF30",
+"date":"2012-10-23 18:03:27"
+},
+{
+"kids":[
+"z1PifaJVK"
+],
+"uid":"ef1123",
+"parent":"",
+"text":"@Sea_木木 宁波劈腿楼",
+"mid":"z1PgRc4qm",
+"date":"2012-10-23 18:03:25"
+},
+{
+"kids":[],
+"uid":"1747535393",
+"parent":"",
+"text":"我靠！这是真的吗？碉堡了！",
+"mid":"z1PgObGwc",
+"date":"2012-10-23 18:03:17"
+},
+{
+"kids":[
+"z1PSc5Z5s"
+],
+"uid":"beharder",
+"parent":"",
+"text":"最上面几层上班的会有心理阴影吧~~~",
+"mid":"z1PgFnOG4",
+"date":"2012-10-23 18:02:55"
+},
+{
+"kids":[],
+"uid":"2267340153",
+"parent":"",
+"text":"[吃惊]",
+"mid":"z1Pgox2g8",
+"date":"2012-10-23 18:02:17"
+},
+{
+"kids":[],
+"uid":"1859173850",
+"parent":"",
+"text":"= 口 =！！！",
+"mid":"z1PglzHgn",
+"date":"2012-10-23 18:02:07"
+},
+{
+"kids":[],
+"uid":"303566830",
+"parent":"",
+"text":"[黑线]",
+"mid":"z1Pga2dZt",
+"date":"2012-10-23 18:01:42"
+}
+]

@@ -1,0 +1,3003 @@
+[
+{
+"kids":[],
+"uid":"1942673043",
+"parent":"zxDhrzWOU",
+"text":"",
+"mid":"zzdJ1e0dK",
+"date":"2013-05-31 08:58:45"
+},
+{
+"kids":[],
+"uid":"2012781915",
+"parent":"",
+"text":"",
+"mid":"zyQAOw59w",
+"date":"2013-05-28 22:05:22"
+},
+{
+"kids":[],
+"uid":"3044138660",
+"parent":"zxUIz450g",
+"text":"",
+"mid":"zyBUk2fPE",
+"date":"2013-05-27 08:42:13"
+},
+{
+"kids":[],
+"uid":"2803320730",
+"parent":"zynm2nkVe",
+"text":"",
+"mid":"zyuH82BiI",
+"date":"2013-05-26 14:20:29"
+},
+{
+"kids":[],
+"uid":"2919847104",
+"parent":"zynm2nkVe",
+"text":"",
+"mid":"zyunt782V",
+"date":"2013-05-26 13:32:03"
+},
+{
+"kids":[],
+"uid":"3044329710",
+"parent":"zxUIz450g",
+"text":"",
+"mid":"zytDbA0f1",
+"date":"2013-05-26 11:38:02"
+},
+{
+"kids":[],
+"uid":"3043577340",
+"parent":"zxUIz450g",
+"text":"",
+"mid":"zysh490GZ",
+"date":"2013-05-26 08:10:46"
+},
+{
+"kids":[
+"zyuH82BiI",
+"zyunt782V"
+],
+"uid":"1002230297",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zynm2nkVe",
+"date":"2013-05-25 19:39:15"
+},
+{
+"kids":[],
+"uid":"2612106365",
+"parent":"zxHCA2L0t",
+"text":"",
+"mid":"zyeBtAHLJ",
+"date":"2013-05-24 21:22:36"
+},
+{
+"kids":[],
+"uid":"2783746973",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zydMSjzBW",
+"date":"2013-05-24 19:17:56"
+},
+{
+"kids":[],
+"uid":"wongshijie",
+"parent":"zybzx9Dbd",
+"text":"这应该是包装自动设备定位用的标记，用来判断机器在什么位置自动封口，跟考试涂的答题卡原理一样",
+"mid":"zycmS51GY",
+"date":"2013-05-24 15:41:06"
+},
+{
+"kids":[
+"zycmS51GY"
+],
+"uid":"2082193305",
+"parent":"zxHyRx2Eo",
+"text":"咱家现在用的是蓝的，还没用的竹盐的是黑的",
+"mid":"zybzx9Dbd",
+"date":"2013-05-24 13:39:35"
+},
+{
+"kids":[],
+"uid":"1748738942",
+"parent":"zxHyRx2Eo",
+"text":"六必治是蓝色的[哈哈]@朱欢de围脖 你的佳洁士也是",
+"mid":"zy6B4ztvp",
+"date":"2013-05-24 00:59:38"
+},
+{
+"kids":[],
+"uid":"2107227012",
+"parent":"",
+"text":"记得健康啊",
+"mid":"zy6clhz5i",
+"date":"2013-05-23 23:58:44"
+},
+{
+"kids":[],
+"uid":"3008314773",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zy4yYcHpM",
+"date":"2013-05-23 19:48:59"
+},
+{
+"kids":[],
+"uid":"2682092972",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxWre8jS9",
+"date":"2013-05-22 23:07:55"
+},
+{
+"kids":[],
+"uid":"714690938",
+"parent":"zxHFJClbM",
+"text":"",
+"mid":"zxW87tL5j",
+"date":"2013-05-22 22:20:50"
+},
+{
+"kids":[],
+"uid":"2150441645",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxVOLg0M2",
+"date":"2013-05-22 21:33:09"
+},
+{
+"kids":[
+"zyBUk2fPE",
+"zytDbA0f1",
+"zysh490GZ"
+],
+"uid":"2861463454",
+"parent":"",
+"text":"看到amway了，我牙膏就是蓝色的了,[嘻嘻]",
+"mid":"zxUIz450g",
+"date":"2013-05-22 18:45:08"
+},
+{
+"kids":[],
+"uid":"viviautumn",
+"parent":"zxHyRx2Eo",
+"text":"@Shawnwang9",
+"mid":"zxUs4CTa8",
+"date":"2013-05-22 18:04:31"
+},
+{
+"kids":[],
+"uid":"2573068651",
+"parent":"zxDe0wNVM",
+"text":"",
+"mid":"zxUcx2eax",
+"date":"2013-05-22 17:26:13"
+},
+{
+"kids":[],
+"uid":"specialxu",
+"parent":"zxK7juyox",
+"text":"",
+"mid":"zxTfu9aBj",
+"date":"2013-05-22 15:00:46"
+},
+{
+"kids":[],
+"uid":"blingblingb",
+"parent":"",
+"text":"原博就是卖安利广告罢了",
+"mid":"zxT8LdboT",
+"date":"2013-05-22 14:44:11"
+},
+{
+"kids":[],
+"uid":"3372617144",
+"parent":"zxSg2F4At",
+"text":"",
+"mid":"zxSuh4l4O",
+"date":"2013-05-22 13:04:26"
+},
+{
+"kids":[
+"zxSuh4l4O"
+],
+"uid":"710012409",
+"parent":"",
+"text":"",
+"mid":"zxSg2F4At",
+"date":"2013-05-22 12:29:23"
+},
+{
+"kids":[],
+"uid":"2109049035",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxS3MnOow",
+"date":"2013-05-22 11:59:10"
+},
+{
+"kids":[],
+"uid":"BrandyGo",
+"parent":"",
+"text":"轉發微博",
+"mid":"zxReCgAy3",
+"date":"2013-05-22 09:53:06"
+},
+{
+"kids":[],
+"uid":"2730829445",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxRb48ZJA",
+"date":"2013-05-22 09:44:22"
+},
+{
+"kids":[],
+"uid":"3229063614",
+"parent":"zxIbvoqBY",
+"text":"",
+"mid":"zxR2M1CVE",
+"date":"2013-05-22 09:23:56"
+},
+{
+"kids":[],
+"uid":"2201528877",
+"parent":"",
+"text":"我的是蓝的 你们的是黑的[嘻嘻] 该换了",
+"mid":"zxQQZdCV9",
+"date":"2013-05-22 08:54:52"
+},
+{
+"kids":[],
+"uid":"2738862681",
+"parent":"zxHNQgcL2",
+"text":"[哈哈][哈哈][哈哈]认准安利牌纸哦",
+"mid":"zxQGzi2L3",
+"date":"2013-05-22 08:29:14"
+},
+{
+"kids":[],
+"uid":"2164658003",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxQrTsreZ",
+"date":"2013-05-22 07:53:04"
+},
+{
+"kids":[],
+"uid":"2126312912",
+"parent":"zxM5M8Lap",
+"text":"",
+"mid":"zxQlsvK6R",
+"date":"2013-05-22 07:37:13"
+},
+{
+"kids":[],
+"uid":"1747527711",
+"parent":"zxNIjzbrm",
+"text":"我回家看了一下，我家有蓝色，黑色，还有蓝黑色[晕]",
+"mid":"zxQbXmIF9",
+"date":"2013-05-22 07:13:49"
+},
+{
+"kids":[],
+"uid":"1917289461",
+"parent":"zxM5M8Lap",
+"text":"有用吗？",
+"mid":"zxQ99gtgr",
+"date":"2013-05-22 07:06:53"
+},
+{
+"kids":[],
+"uid":"1104912395",
+"parent":"zxHH4EPgS",
+"text":"我家的蓝色，鉴定完毕",
+"mid":"zxQ65jCLt",
+"date":"2013-05-22 06:59:20"
+},
+{
+"kids":[
+"zxQbXmIF9"
+],
+"uid":"1885190102",
+"parent":"zxJunAlLF",
+"text":"又长知识了",
+"mid":"zxNIjzbrm",
+"date":"2013-05-22 00:55:18"
+},
+{
+"kids":[],
+"uid":"1165380303",
+"parent":"",
+"text":"",
+"mid":"zxNsLlK9Z",
+"date":"2013-05-22 00:16:58"
+},
+{
+"kids":[],
+"uid":"2993724425",
+"parent":"zxIrDCwRy",
+"text":"直接安利吧",
+"mid":"zxNbWxszG",
+"date":"2013-05-21 23:35:33"
+},
+{
+"kids":[],
+"uid":"jiangyiyun",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxNbJfHzW",
+"date":"2013-05-21 23:35:01"
+},
+{
+"kids":[],
+"uid":"1907927465",
+"parent":"zxDPE3xRR",
+"text":"",
+"mid":"zxN1Qb0tB",
+"date":"2013-05-21 23:10:39"
+},
+{
+"kids":[],
+"uid":"qq65711012",
+"parent":"",
+"text":"",
+"mid":"zxMVLDZay",
+"date":"2013-05-21 22:55:41"
+},
+{
+"kids":[],
+"uid":"2761886827",
+"parent":"",
+"text":"刚看完，绿色的！",
+"mid":"zxMMqutEu",
+"date":"2013-05-21 22:32:41"
+},
+{
+"kids":[],
+"uid":"12271209",
+"parent":"",
+"text":"",
+"mid":"zxMzJjqgz",
+"date":"2013-05-21 22:01:24"
+},
+{
+"kids":[],
+"uid":"1427797537",
+"parent":"zxMpzjl5Q",
+"text":"",
+"mid":"zxMq5gIdR",
+"date":"2013-05-21 21:37:37"
+},
+{
+"kids":[],
+"uid":"540724626",
+"parent":"zxIWaxMBl",
+"text":"",
+"mid":"zxMq1FkUz",
+"date":"2013-05-21 21:37:27"
+},
+{
+"kids":[
+"zxMq5gIdR"
+],
+"uid":"2044557035",
+"parent":"zxLDDg0LM",
+"text":"",
+"mid":"zxMpzjl5Q",
+"date":"2013-05-21 21:36:22"
+},
+{
+"kids":[],
+"uid":"1732599944",
+"parent":"zxKGpaSqI",
+"text":"蓝色冷酸灵= =",
+"mid":"zxMm7ET0R",
+"date":"2013-05-21 21:27:53"
+},
+{
+"kids":[],
+"uid":"1596071575",
+"parent":"",
+"text":"[good][good]",
+"mid":"zxMlbuMql",
+"date":"2013-05-21 21:25:32"
+},
+{
+"kids":[],
+"uid":"2105386657",
+"parent":"",
+"text":"",
+"mid":"zxMdj2r2z",
+"date":"2013-05-21 21:06:06"
+},
+{
+"kids":[
+"zxQlsvK6R",
+"zxQ99gtgr"
+],
+"uid":"xltf",
+"parent":"zxHNc5Vcz",
+"text":"学习一下[good]",
+"mid":"zxM5M8Lap",
+"date":"2013-05-21 20:47:37"
+},
+{
+"kids":[],
+"uid":"elfagyf",
+"parent":"zxKFt0WxL",
+"text":"",
+"mid":"zxM06crzt",
+"date":"2013-05-21 20:33:37"
+},
+{
+"kids":[],
+"uid":"1642797853",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxLTkADtO",
+"date":"2013-05-21 20:16:56"
+},
+{
+"kids":[],
+"uid":"1243214863",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxLKs7NTT",
+"date":"2013-05-21 19:55:02"
+},
+{
+"kids":[
+"zxMpzjl5Q"
+],
+"uid":"2093649667",
+"parent":"zxJcHk3FC",
+"text":"小孩的牙膏居然是黑色Children's toothpaste all  is black",
+"mid":"zxLDDg0LM",
+"date":"2013-05-21 19:38:14"
+},
+{
+"kids":[],
+"uid":"2615188510",
+"parent":"zxHyRx2Eo",
+"text":"蓝的~~[太开心]",
+"mid":"zxLDmqxfc",
+"date":"2013-05-21 19:37:36"
+},
+{
+"kids":[],
+"uid":"1779035031",
+"parent":"zxKFt0WxL",
+"text":"",
+"mid":"zxLBVvVQN",
+"date":"2013-05-21 19:34:02"
+},
+{
+"kids":[],
+"uid":"2622527541",
+"parent":"zxKU67Z6q",
+"text":"妈的，竹盐牙膏是黑色的[怒]明天买新的去",
+"mid":"zxLAT4qNo",
+"date":"2013-05-21 19:31:29"
+},
+{
+"kids":[],
+"uid":"blingblingb",
+"parent":"zxLtADobh",
+"text":"百度了下，，，这样的判断是谣言……我就说，，进口的还纯化学……(￣▽￣\")",
+"mid":"zxLuExn7e",
+"date":"2013-05-21 19:16:09"
+},
+{
+"kids":[
+"zxLuExn7e"
+],
+"uid":"blingblingb",
+"parent":"",
+"text":"一只是蓝的，，进口的那支黑人牙膏是黑的，，，",
+"mid":"zxLtADobh",
+"date":"2013-05-21 19:13:32"
+},
+{
+"kids":[],
+"uid":"mysunshine0802",
+"parent":"zxKFt0WxL",
+"text":"知识~@一奈一禾",
+"mid":"zxLd0mnuL",
+"date":"2013-05-21 18:32:40"
+},
+{
+"kids":[],
+"uid":"2518946181",
+"parent":"zxHyRx2Eo",
+"text":"@夏一慕  如何判断你的牙膏是否健康！",
+"mid":"zxL92vvAQ",
+"date":"2013-05-21 18:22:52"
+},
+{
+"kids":[
+"zxLAT4qNo"
+],
+"uid":"2030575095",
+"parent":"zxGP30skI",
+"text":"",
+"mid":"zxKU67Z6q",
+"date":"2013-05-21 17:46:06"
+},
+{
+"kids":[],
+"uid":"1737057487",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxKTg7nUn",
+"date":"2013-05-21 17:44:01"
+},
+{
+"kids":[],
+"uid":"2784044660",
+"parent":"zxHyRx2Eo",
+"text":"我刚一看 是黑的 再也不爱黑人了",
+"mid":"zxKSHf6dL",
+"date":"2013-05-21 17:42:36"
+},
+{
+"kids":[],
+"uid":"jqyou",
+"parent":"zxKFt0WxL",
+"text":"涨姿势",
+"mid":"zxKP8wEGx",
+"date":"2013-05-21 17:33:48"
+},
+{
+"kids":[],
+"uid":"cyan051106",
+"parent":"",
+"text":"蓝色的！",
+"mid":"zxKO3qsuU",
+"date":"2013-05-21 17:31:13"
+},
+{
+"kids":[],
+"uid":"bestogether",
+"parent":"zxKFt0WxL",
+"text":"马克",
+"mid":"zxKKkm5TW",
+"date":"2013-05-21 17:22:00"
+},
+{
+"kids":[],
+"uid":"TEUKTEUK1004",
+"parent":"zxKFt0WxL",
+"text":"黑--",
+"mid":"zxKH08CIK",
+"date":"2013-05-21 17:13:50"
+},
+{
+"kids":[
+"zxMm7ET0R"
+],
+"uid":"huayaonvwang",
+"parent":"zxKFt0WxL",
+"text":"回家看看",
+"mid":"zxKGpaSqI",
+"date":"2013-05-21 17:12:21"
+},
+{
+"kids":[
+"zxM06crzt",
+"zxLBVvVQN",
+"zxLd0mnuL",
+"zxKP8wEGx",
+"zxKKkm5TW",
+"zxKH08CIK",
+"zxKGpaSqI"
+],
+"uid":"11060811",
+"parent":"",
+"text":"长知识",
+"mid":"zxKFt0WxL",
+"date":"2013-05-21 17:10:02"
+},
+{
+"kids":[],
+"uid":"bamboobaby507",
+"parent":"",
+"text":"长见识啊~~",
+"mid":"zxKD95B2Q",
+"date":"2013-05-21 17:04:19"
+},
+{
+"kids":[],
+"uid":"1270794573",
+"parent":"zxHb52OeG",
+"text":"",
+"mid":"zxKD2xUzo",
+"date":"2013-05-21 17:04:02"
+},
+{
+"kids":[],
+"uid":"1984831553",
+"parent":"",
+"text":"",
+"mid":"zxKlq9iz2",
+"date":"2013-05-21 16:20:39"
+},
+{
+"kids":[],
+"uid":"2070640891",
+"parent":"zxJcHk3FC",
+"text":"",
+"mid":"zxKjHaK9M",
+"date":"2013-05-21 16:16:22"
+},
+{
+"kids":[],
+"uid":"lizuoxian",
+"parent":"zxHyRx2Eo",
+"text":"回去看看",
+"mid":"zxK7LzPzv",
+"date":"2013-05-21 15:47:00"
+},
+{
+"kids":[
+"zxTfu9aBj"
+],
+"uid":"xxszbdgogo",
+"parent":"",
+"text":"",
+"mid":"zxK7juyox",
+"date":"2013-05-21 15:45:54"
+},
+{
+"kids":[],
+"uid":"1106240794",
+"parent":"zxJgNtQmQ",
+"text":"[兔子] 如何判断你的牙膏是否健康！",
+"mid":"zxK5rECcK",
+"date":"2013-05-21 15:41:18"
+},
+{
+"kids":[],
+"uid":"2435337937",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxK3t22ur",
+"date":"2013-05-21 15:36:25"
+},
+{
+"kids":[],
+"uid":"1200508202",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxK1GcyQU",
+"date":"2013-05-21 15:31:59"
+},
+{
+"kids":[],
+"uid":"houhuipeng",
+"parent":"zxHOfqCsN",
+"text":"",
+"mid":"zxJZ13KgD",
+"date":"2013-05-21 15:25:25"
+},
+{
+"kids":[],
+"uid":"premierpumpking",
+"parent":"zxIYD55jc",
+"text":"",
+"mid":"zxJI2cF6K",
+"date":"2013-05-21 14:43:37"
+},
+{
+"kids":[],
+"uid":"3270549510",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxJDBFujU",
+"date":"2013-05-21 14:32:43"
+},
+{
+"kids":[],
+"uid":"238012630",
+"parent":"",
+"text":"",
+"mid":"zxJAV382u",
+"date":"2013-05-21 14:26:04"
+},
+{
+"kids":[],
+"uid":"2871767135",
+"parent":"zxHyRx2Eo",
+"text":"@懒得休息",
+"mid":"zxJy9kPYd",
+"date":"2013-05-21 14:19:17"
+},
+{
+"kids":[],
+"uid":"2965320803",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxJwy4to5",
+"date":"2013-05-21 14:15:17"
+},
+{
+"kids":[],
+"uid":"2802781474",
+"parent":"zxIbvoqBY",
+"text":"",
+"mid":"zxJwnozSA",
+"date":"2013-05-21 14:14:54"
+},
+{
+"kids":[],
+"uid":"2194623984",
+"parent":"zxJvFo7dI",
+"text":"@锦锦可爱多",
+"mid":"zxJwn96rf",
+"date":"2013-05-21 14:14:51"
+},
+{
+"kids":[
+"zxJwn96rf"
+],
+"uid":"2638266063",
+"parent":"zxJoM7wPM",
+"text":"",
+"mid":"zxJvFo7dI",
+"date":"2013-05-21 14:13:08"
+},
+{
+"kids":[
+"zxNIjzbrm"
+],
+"uid":"1747527711",
+"parent":"zxHmlBfqm",
+"text":"科普一下，回家看看",
+"mid":"zxJunAlLF",
+"date":"2013-05-21 14:09:57"
+},
+{
+"kids":[
+"zxJvFo7dI"
+],
+"uid":"1938164251",
+"parent":"zxHyRx2Eo",
+"text":"涨姿势！",
+"mid":"zxJoM7wPM",
+"date":"2013-05-21 13:56:11"
+},
+{
+"kids":[],
+"uid":"2878474507",
+"parent":"zxHyRx2Eo",
+"text":"如何判断你的牙膏是否健康！",
+"mid":"zxJnBFLvz",
+"date":"2013-05-21 13:53:19"
+},
+{
+"kids":[],
+"uid":"2866966934",
+"parent":"",
+"text":"引用哇塞_icecream粒的转发理由:我家黑的和红的 [衰]",
+"mid":"zxJkG1L5B",
+"date":"2013-05-21 13:46:04"
+},
+{
+"kids":[],
+"uid":"1973291165",
+"parent":"zxJ5ZAhCR",
+"text":"我家红的[泪]",
+"mid":"zxJj8gnRC",
+"date":"2013-05-21 13:42:16"
+},
+{
+"kids":[
+"zxK5rECcK"
+],
+"uid":"1418914861",
+"parent":"zxJcHk3FC",
+"text":"[good]",
+"mid":"zxJgNtQmQ",
+"date":"2013-05-21 13:36:29"
+},
+{
+"kids":[],
+"uid":"1915979565",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxJge03rF",
+"date":"2013-05-21 13:35:06"
+},
+{
+"kids":[],
+"uid":"1832531721",
+"parent":"zxHNc5Vcz",
+"text":"",
+"mid":"zxJfZdHNe",
+"date":"2013-05-21 13:34:29"
+},
+{
+"kids":[],
+"uid":"2161031325",
+"parent":"zxHCi2bun",
+"text":"转一个",
+"mid":"zxJfNo5qh",
+"date":"2013-05-21 13:34:03"
+},
+{
+"kids":[],
+"uid":"2542132807",
+"parent":"",
+"text":"",
+"mid":"zxJd21Fpg",
+"date":"2013-05-21 13:27:14"
+},
+{
+"kids":[
+"zxLDDg0LM",
+"zxKjHaK9M",
+"zxJgNtQmQ"
+],
+"uid":"2093649667",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxJcHk3FC",
+"date":"2013-05-21 13:26:24"
+},
+{
+"kids":[
+"zyBUk2fPE",
+"zytDbA0f1",
+"zysh490GZ"
+],
+"uid":"meganqueen",
+"parent":"zxJ5ZAhCR",
+"text":"马上看！",
+"mid":"zxJbjkiK2",
+"date":"2013-05-21 13:23:00"
+},
+{
+"kids":[],
+"uid":"vividvisions",
+"parent":"zxITV4VIO",
+"text":"难道没见过别的包装上也有这种色块么？牛奶盒子上也有，还有不止一个的。真是脑残多作怪。",
+"mid":"zxJa79RhM",
+"date":"2013-05-21 13:20:03"
+},
+{
+"kids":[],
+"uid":"1307159151",
+"parent":"zxHyRx2Eo",
+"text":"真的假的？",
+"mid":"zxJ9RdKmi",
+"date":"2013-05-21 13:19:25"
+},
+{
+"kids":[],
+"uid":"2947793154",
+"parent":"zxDPXx6AR",
+"text":"回家看看",
+"mid":"zxJ87D6x8",
+"date":"2013-05-21 13:15:08"
+},
+{
+"kids":[
+"zyBUk2fPE",
+"zytDbA0f1",
+"zysh490GZ",
+"zxJj8gnRC",
+"zxJbjkiK2"
+],
+"uid":"2235781905",
+"parent":"zxISInqPT",
+"text":"@Megan只是太想念家人 @蜗居生活新开始",
+"mid":"zxJ5ZAhCR",
+"date":"2013-05-21 13:09:54"
+},
+{
+"kids":[],
+"uid":"2326028733",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxJ4g1TCW",
+"date":"2013-05-21 13:05:37"
+},
+{
+"kids":[],
+"uid":"1797378344",
+"parent":"zxHyRx2Eo",
+"text":"@冰糖水儿橘子汁儿",
+"mid":"zxJ2IgAD5",
+"date":"2013-05-21 13:01:49"
+},
+{
+"kids":[],
+"uid":"2565407601",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxJ1ZETzf",
+"date":"2013-05-21 13:00:02"
+},
+{
+"kids":[],
+"uid":"2516864313",
+"parent":"",
+"text":"",
+"mid":"zxJ0nbZLI",
+"date":"2013-05-21 12:56:04"
+},
+{
+"kids":[],
+"uid":"2218422795",
+"parent":"zxHAbnBod",
+"text":"",
+"mid":"zxIZqnp94",
+"date":"2013-05-21 12:53:42"
+},
+{
+"kids":[],
+"uid":"2099565907",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIYIlbQQ",
+"date":"2013-05-21 12:51:58"
+},
+{
+"kids":[],
+"uid":"2920431432",
+"parent":"zxIbvoqBY",
+"text":"",
+"mid":"zxIYGitIx",
+"date":"2013-05-21 12:51:51"
+},
+{
+"kids":[
+"zxJI2cF6K"
+],
+"uid":"2133580740",
+"parent":"zxISInqPT",
+"text":"@jiang3li4",
+"mid":"zxIYD55jc",
+"date":"2013-05-21 12:51:44"
+},
+{
+"kids":[],
+"uid":"1796417131",
+"parent":"zxHyRx2Eo",
+"text":"我真的跑去看了看",
+"mid":"zxIYkoWmM",
+"date":"2013-05-21 12:51:00"
+},
+{
+"kids":[
+"zxMq1FkUz"
+],
+"uid":"jiyeqian",
+"parent":"zxIVG92Vy",
+"text":"",
+"mid":"zxIWaxMBl",
+"date":"2013-05-21 12:45:41"
+},
+{
+"kids":[],
+"uid":"3181367380",
+"parent":"zxHyRx2Eo",
+"text":"我的是绿色的，你的呢？",
+"mid":"zxIVRFpKY",
+"date":"2013-05-21 12:44:56"
+},
+{
+"kids":[
+"zxIWaxMBl"
+],
+"uid":"1088940061",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIVG92Vy",
+"date":"2013-05-21 12:44:28"
+},
+{
+"kids":[],
+"uid":"ngayangyang",
+"parent":"zxIRh5gDw",
+"text":"",
+"mid":"zxIUUfbw2",
+"date":"2013-05-21 12:42:35"
+},
+{
+"kids":[
+"zxJa79RhM"
+],
+"uid":"luciafairy",
+"parent":"zxIRh5gDw",
+"text":"实在不知道谁这么无聊，真以为自己编个段子就成真的了一样……[汗]",
+"mid":"zxITV4VIO",
+"date":"2013-05-21 12:40:11"
+},
+{
+"kids":[
+"zyBUk2fPE",
+"zytDbA0f1",
+"zysh490GZ",
+"zxJ5ZAhCR",
+"zxIYD55jc"
+],
+"uid":"kuailetudou",
+"parent":"zxI2MoLS1",
+"text":"还有这说法啊",
+"mid":"zxISInqPT",
+"date":"2013-05-21 12:37:11"
+},
+{
+"kids":[
+"zxIUUfbw2",
+"zxITV4VIO"
+],
+"uid":"vividvisions",
+"parent":"zxHyRx2Eo",
+"text":"假的！那个方块是给自动设备定位用的。",
+"mid":"zxIRh5gDw",
+"date":"2013-05-21 12:33:38"
+},
+{
+"kids":[],
+"uid":"1765039844",
+"parent":"zxHyRx2Eo",
+"text":"学一招",
+"mid":"zxIQr4AHP",
+"date":"2013-05-21 12:31:34"
+},
+{
+"kids":[],
+"uid":"3303344065",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIOl5o2g",
+"date":"2013-05-21 12:26:24"
+},
+{
+"kids":[],
+"uid":"2371703373",
+"parent":"zxHyRx2Eo",
+"text":"@dldmp @芭丝罗缤",
+"mid":"zxIOf9lUx",
+"date":"2013-05-21 12:26:10"
+},
+{
+"kids":[],
+"uid":"lovepig888",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIMx52Jj",
+"date":"2013-05-21 12:21:56"
+},
+{
+"kids":[],
+"uid":"2423127083",
+"parent":"zxHyRx2Eo",
+"text":"居然是黑色的~中枪倒地不起……",
+"mid":"zxIMvA9Pe",
+"date":"2013-05-21 12:21:53"
+},
+{
+"kids":[],
+"uid":"2173108985",
+"parent":"",
+"text":"",
+"mid":"zxILC5OYT",
+"date":"2013-05-21 12:19:40"
+},
+{
+"kids":[],
+"uid":"1757963791",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIIq4guE",
+"date":"2013-05-21 12:11:48"
+},
+{
+"kids":[],
+"uid":"2077737494",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIA0eMmN",
+"date":"2013-05-21 11:51:03"
+},
+{
+"kids":[],
+"uid":"1877681647",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIzJmGyd",
+"date":"2013-05-21 11:50:25"
+},
+{
+"kids":[],
+"uid":"fishyao11",
+"parent":"",
+"text":"科普一下！",
+"mid":"zxIycxVy9",
+"date":"2013-05-21 11:46:38"
+},
+{
+"kids":[],
+"uid":"2943799873",
+"parent":"zxHyRx2Eo",
+"text":"转发微博。",
+"mid":"zxIx7svZG",
+"date":"2013-05-21 11:43:59"
+},
+{
+"kids":[],
+"uid":"2708745902",
+"parent":"zxIr28kZ5",
+"text":"",
+"mid":"zxIsYo7js",
+"date":"2013-05-21 11:33:44"
+},
+{
+"kids":[
+"zxNbWxszG"
+],
+"uid":"63699diudiu",
+"parent":"zxHBCFFSp",
+"text":"回去我得看看一看",
+"mid":"zxIrDCwRy",
+"date":"2013-05-21 11:30:29"
+},
+{
+"kids":[
+"zxIsYo7js"
+],
+"uid":"2415869395",
+"parent":"zxHMJr59t",
+"text":"高露洁——红色；冷酸灵——蓝色",
+"mid":"zxIr28kZ5",
+"date":"2013-05-21 11:28:57"
+},
+{
+"kids":[],
+"uid":"jobsjiang",
+"parent":"zxHyRx2Eo",
+"text":"[给力]",
+"mid":"zxIqCqBLa",
+"date":"2013-05-21 11:27:57"
+},
+{
+"kids":[],
+"uid":"2159641123",
+"parent":"zxIh5bCzK",
+"text":"这是多智商低啊。。。。从很小的时候我就发现了这样一个规律 就是彩色包装的封口处 经常会有包装上出现的颜色的小色块",
+"mid":"zxIpEq6qx",
+"date":"2013-05-21 11:25:35"
+},
+{
+"kids":[],
+"uid":"3124289397",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIoWFM8Q",
+"date":"2013-05-21 11:23:51"
+},
+{
+"kids":[],
+"uid":"1875238905",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIoRlp9F",
+"date":"2013-05-21 11:23:38"
+},
+{
+"kids":[],
+"uid":"luxury00",
+"parent":"zxHyRx2Eo",
+"text":"哟[偷笑]",
+"mid":"zxIonyVyB",
+"date":"2013-05-21 11:22:27"
+},
+{
+"kids":[],
+"uid":"3358011254",
+"parent":"zxHyRx2Eo",
+"text":"我的是蓝色",
+"mid":"zxInatgdr",
+"date":"2013-05-21 11:19:28"
+},
+{
+"kids":[],
+"uid":"2782161961",
+"parent":"",
+"text":"",
+"mid":"zxImTBa9z",
+"date":"2013-05-21 11:18:48"
+},
+{
+"kids":[],
+"uid":"1792237013",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIkX4eyO",
+"date":"2013-05-21 11:14:00"
+},
+{
+"kids":[],
+"uid":"mualz",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIiAto0l",
+"date":"2013-05-21 11:08:10"
+},
+{
+"kids":[],
+"uid":"zhangbojessica",
+"parent":"zxHz63hCM",
+"text":"",
+"mid":"zxIib4GM2",
+"date":"2013-05-21 11:07:10"
+},
+{
+"kids":[
+"zxIpEq6qx"
+],
+"uid":"1779013741",
+"parent":"zxIf98J6c",
+"text":"他有智商么？关键是那么显眼的“安利”。丢人不",
+"mid":"zxIh5bCzK",
+"date":"2013-05-21 11:04:26"
+},
+{
+"kids":[],
+"uid":"2482880052",
+"parent":"zxHBleyP3",
+"text":"",
+"mid":"zxIg5FF15",
+"date":"2013-05-21 11:02:02"
+},
+{
+"kids":[],
+"uid":"1701490643",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIg2atRc",
+"date":"2013-05-21 11:01:52"
+},
+{
+"kids":[
+"zxIh5bCzK"
+],
+"uid":"tianhanchengzi",
+"parent":"zxHH4EPgS",
+"text":"就在不少网友为自家牙膏的成分忧心时，上海日用化学品行业的专家对此做出了辟谣，“这是一种定位标记，是印刷时标示上去的，没有特别含义。” http:",
+"mid":"zxIf98J6c",
+"date":"2013-05-21 10:59:42"
+},
+{
+"kids":[],
+"uid":"2774375601",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIePo6L4",
+"date":"2013-05-21 10:58:55"
+},
+{
+"kids":[],
+"uid":"kcleaner",
+"parent":"",
+"text":"",
+"mid":"zxIe6tSfF",
+"date":"2013-05-21 10:57:07"
+},
+{
+"kids":[],
+"uid":"1966084103",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIcVsiE4",
+"date":"2013-05-21 10:54:13"
+},
+{
+"kids":[],
+"uid":"2059684503",
+"parent":"zxDhrzWOU",
+"text":"",
+"mid":"zxIceDQNs",
+"date":"2013-05-21 10:52:32"
+},
+{
+"kids":[],
+"uid":"poisoncrybaby",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIcb4FFq",
+"date":"2013-05-21 10:52:23"
+},
+{
+"kids":[
+"zxR2M1CVE",
+"zxJwnozSA",
+"zxIYGitIx"
+],
+"uid":"3082499815",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIbvoqBY",
+"date":"2013-05-21 10:50:43"
+},
+{
+"kids":[],
+"uid":"2022476151",
+"parent":"zxHyRx2Eo",
+"text":"学习一下",
+"mid":"zxIbmySll",
+"date":"2013-05-21 10:50:24"
+},
+{
+"kids":[],
+"uid":"1338492832",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIaf5ydq",
+"date":"2013-05-21 10:47:37"
+},
+{
+"kids":[],
+"uid":"tutuxy",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxIac9y9P",
+"date":"2013-05-21 10:47:28"
+},
+{
+"kids":[],
+"uid":"1324725680",
+"parent":"",
+"text":"",
+"mid":"zxIabyIXJ",
+"date":"2013-05-21 10:47:28"
+},
+{
+"kids":[],
+"uid":"2881797540",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxI9twDjD",
+"date":"2013-05-21 10:45:43"
+},
+{
+"kids":[],
+"uid":"2111179373",
+"parent":"zxI5bhkCN",
+"text":"回复@asuka-杨:[偷笑]",
+"mid":"zxI80efJr",
+"date":"2013-05-21 10:42:06"
+},
+{
+"kids":[],
+"uid":"2042781735",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxI7Wo2hp",
+"date":"2013-05-21 10:41:56"
+},
+{
+"kids":[],
+"uid":"1857679321",
+"parent":"zxHyRx2Eo",
+"text":"真的假的…我的是黑的[吃惊]",
+"mid":"zxI7P2hsS",
+"date":"2013-05-21 10:41:38"
+},
+{
+"kids":[],
+"uid":"2102115514",
+"parent":"zxI5bhkCN",
+"text":"色块是印刷标记，用于印刷校准，对齐等用途，和牙膏成分一点关系也没有。",
+"mid":"zxI7IsVXY",
+"date":"2013-05-21 10:41:24"
+},
+{
+"kids":[],
+"uid":"2118546941",
+"parent":"",
+"text":"",
+"mid":"zxI7C0oBx",
+"date":"2013-05-21 10:41:08"
+},
+{
+"kids":[],
+"uid":"1183750207",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxI7toFOd",
+"date":"2013-05-21 10:40:47"
+},
+{
+"kids":[],
+"uid":"1412928872",
+"parent":"zxHyRx2Eo",
+"text":"这个准确吗？怎么我家牙膏袋尾部还有紫色的色块呢，紫色代表什么？",
+"mid":"zxI6uxj95",
+"date":"2013-05-21 10:38:23"
+},
+{
+"kids":[
+"zxI80efJr",
+"zxI7IsVXY"
+],
+"uid":"2111179373",
+"parent":"zxHyRx2Eo",
+"text":"赤果果的广告插入啊...",
+"mid":"zxI5bhkCN",
+"date":"2013-05-21 10:35:08"
+},
+{
+"kids":[],
+"uid":"1690510624",
+"parent":"",
+"text":"",
+"mid":"zxI4K9rZ6",
+"date":"2013-05-21 10:34:03"
+},
+{
+"kids":[],
+"uid":"1006753540",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxI4uq0f5",
+"date":"2013-05-21 10:33:27"
+},
+{
+"kids":[],
+"uid":"natsumiching",
+"parent":"zxHYAEpaU",
+"text":"这都辟谣了还出来说，这原po得智商多低。。。",
+"mid":"zxI3F2g3K",
+"date":"2013-05-21 10:31:24"
+},
+{
+"kids":[],
+"uid":"3167861123",
+"parent":"zxHyRx2Eo",
+"text":"回去看看",
+"mid":"zxI3vABJV",
+"date":"2013-05-21 10:31:01"
+},
+{
+"kids":[
+"zyBUk2fPE",
+"zytDbA0f1",
+"zysh490GZ",
+"zxISInqPT"
+],
+"uid":"honghuyuer",
+"parent":"zxHyRx2Eo",
+"text":"学习了",
+"mid":"zxI2MoLS1",
+"date":"2013-05-21 10:29:14"
+},
+{
+"kids":[],
+"uid":"1691140590",
+"parent":"",
+"text":"",
+"mid":"zxI2khogk",
+"date":"2013-05-21 10:28:07"
+},
+{
+"kids":[],
+"uid":"sunny1016",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxI2e4UAp",
+"date":"2013-05-21 10:27:52"
+},
+{
+"kids":[],
+"uid":"3201028574",
+"parent":"",
+"text":"快看看你的牙膏是否健康吧",
+"mid":"zxI1RE58g",
+"date":"2013-05-21 10:26:59"
+},
+{
+"kids":[],
+"uid":"1087141785",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxI11k7XI",
+"date":"2013-05-21 10:24:54"
+},
+{
+"kids":[],
+"uid":"1876867221",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxI0g3g5i",
+"date":"2013-05-21 10:23:00"
+},
+{
+"kids":[],
+"uid":"3092791433",
+"parent":"zxHyRx2Eo",
+"text":"好学习了",
+"mid":"zxHZBiE6j",
+"date":"2013-05-21 10:21:24"
+},
+{
+"kids":[
+"zxI3F2g3K"
+],
+"uid":"mirror2010love",
+"parent":"zxHyRx2Eo",
+"text":"回去看！",
+"mid":"zxHYAEpaU",
+"date":"2013-05-21 10:18:55"
+},
+{
+"kids":[],
+"uid":"yy11208",
+"parent":"zxHyRx2Eo",
+"text":"学习了",
+"mid":"zxHWMlVhI",
+"date":"2013-05-21 10:14:26"
+},
+{
+"kids":[],
+"uid":"microblogofkiki",
+"parent":"",
+"text":"",
+"mid":"zxHVEhTT8",
+"date":"2013-05-21 10:11:39"
+},
+{
+"kids":[],
+"uid":"2262981607",
+"parent":"zxHyRx2Eo",
+"text":"是真的吗",
+"mid":"zxHV3ls0R",
+"date":"2013-05-21 10:10:12"
+},
+{
+"kids":[],
+"uid":"freedomloveyu",
+"parent":"zxHyRx2Eo",
+"text":"[晕]",
+"mid":"zxHUYEEbN",
+"date":"2013-05-21 10:10:01"
+},
+{
+"kids":[],
+"uid":"1851656925",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHUqmbTy",
+"date":"2013-05-21 10:08:39"
+},
+{
+"kids":[],
+"uid":"1791381457",
+"parent":"zxHyRx2Eo",
+"text":"一会儿看看",
+"mid":"zxHTDApI9",
+"date":"2013-05-21 10:06:43"
+},
+{
+"kids":[],
+"uid":"2463545280",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHTDluq7",
+"date":"2013-05-21 10:06:42"
+},
+{
+"kids":[],
+"uid":"zhn0709",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHTxqOkW",
+"date":"2013-05-21 10:06:26"
+},
+{
+"kids":[],
+"uid":"1896372295",
+"parent":"",
+"text":"我用的是黑人的，底下都是黑色的，纯化学合成的，真是不够健康",
+"mid":"zxHSGcqjG",
+"date":"2013-05-21 10:04:21"
+},
+{
+"kids":[],
+"uid":"2032873075",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHStcfjA",
+"date":"2013-05-21 10:03:50"
+},
+{
+"kids":[],
+"uid":"1740795887",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHSbsfxe",
+"date":"2013-05-21 10:03:07"
+},
+{
+"kids":[],
+"uid":"206781523",
+"parent":"zxHyRx2Eo",
+"text":"哎呦我去！！！",
+"mid":"zxHRZ4ZyQ",
+"date":"2013-05-21 10:02:38"
+},
+{
+"kids":[],
+"uid":"2309293380",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHRJ7tLK",
+"date":"2013-05-21 10:02:00"
+},
+{
+"kids":[],
+"uid":"1052838717",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHR5dHl2",
+"date":"2013-05-21 10:00:24"
+},
+{
+"kids":[],
+"uid":"lubetty",
+"parent":"zxHyRx2Eo",
+"text":"[嘻嘻]",
+"mid":"zxHPY5Jcy",
+"date":"2013-05-21 09:57:38"
+},
+{
+"kids":[],
+"uid":"2409895463",
+"parent":"zxHCA2L0t",
+"text":"",
+"mid":"zxHPxst6S",
+"date":"2013-05-21 09:56:37"
+},
+{
+"kids":[],
+"uid":"1886001573",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHPmwnFx",
+"date":"2013-05-21 09:56:11"
+},
+{
+"kids":[],
+"uid":"2369834073",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHP6A8Ci",
+"date":"2013-05-21 09:55:32"
+},
+{
+"kids":[],
+"uid":"dabaoluo",
+"parent":"",
+"text":"可信么？@渤海论坛官博",
+"mid":"zxHOWhNxt",
+"date":"2013-05-21 09:55:07"
+},
+{
+"kids":[],
+"uid":"3084805505",
+"parent":"zxHyRx2Eo",
+"text":"@我爱情绪论述说 @上海游骑兵",
+"mid":"zxHOg2gg4",
+"date":"2013-05-21 09:53:26"
+},
+{
+"kids":[
+"zxJZ13KgD"
+],
+"uid":"1759434837",
+"parent":"",
+"text":"",
+"mid":"zxHOfqCsN",
+"date":"2013-05-21 09:53:25"
+},
+{
+"kids":[
+"zxQGzi2L3"
+],
+"uid":"239845640",
+"parent":"",
+"text":"",
+"mid":"zxHNQgcL2",
+"date":"2013-05-21 09:52:26"
+},
+{
+"kids":[],
+"uid":"1760175795",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHNtxdUX",
+"date":"2013-05-21 09:51:32"
+},
+{
+"kids":[],
+"uid":"579692211",
+"parent":"",
+"text":"果壳网已辟谣。→http:",
+"mid":"zxHNdzCJ5",
+"date":"2013-05-21 09:50:54"
+},
+{
+"kids":[
+"zxM5M8Lap",
+"zxJfZdHNe"
+],
+"uid":"207787860",
+"parent":"zxHMJr59t",
+"text":"普及一下！",
+"mid":"zxHNc5Vcz",
+"date":"2013-05-21 09:50:50"
+},
+{
+"kids":[],
+"uid":"739923401",
+"parent":"",
+"text":"",
+"mid":"zxHMXkvuW",
+"date":"2013-05-21 09:50:14"
+},
+{
+"kids":[
+"zxIr28kZ5",
+"zxHNc5Vcz"
+],
+"uid":"hotshower",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHMJr59t",
+"date":"2013-05-21 09:49:41"
+},
+{
+"kids":[],
+"uid":"fczhangxiaoyun",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHMJ9tS7",
+"date":"2013-05-21 09:49:40"
+},
+{
+"kids":[],
+"uid":"1708805331",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHMxBKxV",
+"date":"2013-05-21 09:49:14"
+},
+{
+"kids":[],
+"uid":"huabangai",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHMumOw5",
+"date":"2013-05-21 09:49:06"
+},
+{
+"kids":[],
+"uid":"ted1029",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHLq9Ph7",
+"date":"2013-05-21 09:46:28"
+},
+{
+"kids":[],
+"uid":"1665352530",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHKeAThn",
+"date":"2013-05-21 09:43:33"
+},
+{
+"kids":[],
+"uid":"1871598571",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHK1Clzc",
+"date":"2013-05-21 09:43:02"
+},
+{
+"kids":[],
+"uid":"2884595542",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHJgC5Cu",
+"date":"2013-05-21 09:41:09"
+},
+{
+"kids":[],
+"uid":"1980323680",
+"parent":"zxHyRx2Eo",
+"text":"@发光D蝸牛",
+"mid":"zxHJdlfWO",
+"date":"2013-05-21 09:41:02"
+},
+{
+"kids":[],
+"uid":"1642911570",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHIetL3T",
+"date":"2013-05-21 09:38:37"
+},
+{
+"kids":[],
+"uid":"1089469481",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHHXkaMX",
+"date":"2013-05-21 09:37:55"
+},
+{
+"kids":[],
+"uid":"311176881",
+"parent":"zxHyRx2Eo",
+"text":"那白色呢。。。",
+"mid":"zxHHsCjUW",
+"date":"2013-05-21 09:36:43"
+},
+{
+"kids":[],
+"uid":"1548631464",
+"parent":"",
+"text":"涨姿势了！",
+"mid":"zxHHbb8uN",
+"date":"2013-05-21 09:36:00"
+},
+{
+"kids":[
+"zxQ65jCLt",
+"zxIf98J6c"
+],
+"uid":"1674393574",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHH4EPgS",
+"date":"2013-05-21 09:35:45"
+},
+{
+"kids":[],
+"uid":"1804096255",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHGYcBAB",
+"date":"2013-05-21 09:35:29"
+},
+{
+"kids":[],
+"uid":"1654765995",
+"parent":"zxGTvix21",
+"text":"高科技",
+"mid":"zxHGXAxgb",
+"date":"2013-05-21 09:35:29"
+},
+{
+"kids":[],
+"uid":"1878668162",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHGtqMxJ",
+"date":"2013-05-21 09:34:17"
+},
+{
+"kids":[],
+"uid":"1951561961",
+"parent":"zxHyRx2Eo",
+"text":"这个是假的啦……",
+"mid":"zxHGkhbwD",
+"date":"2013-05-21 09:33:54"
+},
+{
+"kids":[
+"zxW87tL5j"
+],
+"uid":"2621344067",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHFJClbM",
+"date":"2013-05-21 09:32:28"
+},
+{
+"kids":[],
+"uid":"1971159001",
+"parent":"zxHCA2L0t",
+"text":"还真没注意到！",
+"mid":"zxHFvaVHg",
+"date":"2013-05-21 09:31:53"
+},
+{
+"kids":[],
+"uid":"1884146242",
+"parent":"",
+"text":"@温温阳",
+"mid":"zxHFfv19c",
+"date":"2013-05-21 09:31:16"
+},
+{
+"kids":[],
+"uid":"212346650",
+"parent":"zxHyRx2Eo",
+"text":"马克",
+"mid":"zxHFeBLWz",
+"date":"2013-05-21 09:31:14"
+},
+{
+"kids":[],
+"uid":"lusalome",
+"parent":"zxHyRx2Eo",
+"text":"貌似一般都是蓝色",
+"mid":"zxHF4BhfZ",
+"date":"2013-05-21 09:30:49"
+},
+{
+"kids":[],
+"uid":"2628055723",
+"parent":"zxHBTt9fr",
+"text":"",
+"mid":"zxHF3mSeO",
+"date":"2013-05-21 09:30:48"
+},
+{
+"kids":[],
+"uid":"momogoreal",
+"parent":"zxHA4ARTx",
+"text":"",
+"mid":"zxHEZxvrA",
+"date":"2013-05-21 09:30:38"
+},
+{
+"kids":[],
+"uid":"2413119277",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHET3Duc",
+"date":"2013-05-21 09:30:22"
+},
+{
+"kids":[],
+"uid":"1497517847",
+"parent":"zxHDByM1h",
+"text":"@倒霉熊他老伴儿",
+"mid":"zxHEo365N",
+"date":"2013-05-21 09:29:08"
+},
+{
+"kids":[],
+"uid":"2571532594",
+"parent":"zxHyRx2Eo",
+"text":"[思考]",
+"mid":"zxHEmwRlG",
+"date":"2013-05-21 09:29:04"
+},
+{
+"kids":[],
+"uid":"1009753960",
+"parent":"",
+"text":"",
+"mid":"zxHEa9wRo",
+"date":"2013-05-21 09:28:35"
+},
+{
+"kids":[],
+"uid":"273311782",
+"parent":"",
+"text":"我的都是蓝色",
+"mid":"zxHE3C0Tq",
+"date":"2013-05-21 09:28:19"
+},
+{
+"kids":[],
+"uid":"620120617",
+"parent":"zxHCA2L0t",
+"text":"看见安利俩字，就对这个信息表示怀疑了 囧 是我心理阴暗么。。。",
+"mid":"zxHE29z85",
+"date":"2013-05-21 09:28:15"
+},
+{
+"kids":[],
+"uid":"51624642",
+"parent":"zxHBCFFSp",
+"text":"[汗][汗][汗][汗]",
+"mid":"zxHDWeTOF",
+"date":"2013-05-21 09:28:01"
+},
+{
+"kids":[],
+"uid":"2045624445",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHDOA8pU",
+"date":"2013-05-21 09:27:44"
+},
+{
+"kids":[
+"zxHEo365N"
+],
+"uid":"luzhenhong",
+"parent":"zxHyRx2Eo",
+"text":"如何判断你的牙膏是否健康！",
+"mid":"zxHDByM1h",
+"date":"2013-05-21 09:27:12"
+},
+{
+"kids":[],
+"uid":"2006634965",
+"parent":"",
+"text":"",
+"mid":"zxHDuaslH",
+"date":"2013-05-21 09:26:55"
+},
+{
+"kids":[],
+"uid":"1893686047",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHDrekcp",
+"date":"2013-05-21 09:26:48"
+},
+{
+"kids":[],
+"uid":"538845687",
+"parent":"zxHCA2L0t",
+"text":"",
+"mid":"zxHDmuvds",
+"date":"2013-05-21 09:26:35"
+},
+{
+"kids":[],
+"uid":"207333196",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHDbypOy",
+"date":"2013-05-21 09:26:12"
+},
+{
+"kids":[],
+"uid":"2287904053",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHCRdigb",
+"date":"2013-05-21 09:25:22"
+},
+{
+"kids":[
+"zyeBtAHLJ",
+"zxHPxst6S",
+"zxHFvaVHg",
+"zxHE29z85",
+"zxHDmuvds"
+],
+"uid":"tjparkson",
+"parent":"",
+"text":"亲们，看看自家的牙膏健康吗？",
+"mid":"zxHCA2L0t",
+"date":"2013-05-21 09:24:42"
+},
+{
+"kids":[],
+"uid":"2133030884",
+"parent":"zxHyRx2Eo",
+"text":"我的黑人是黑色！以后弃用",
+"mid":"zxHCxDqHO",
+"date":"2013-05-21 09:24:36"
+},
+{
+"kids":[
+"zxJfNo5qh"
+],
+"uid":"830105633",
+"parent":"",
+"text":"",
+"mid":"zxHCi2bun",
+"date":"2013-05-21 09:23:57"
+},
+{
+"kids":[],
+"uid":"2515865285",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHBYd3Vd",
+"date":"2013-05-21 09:23:11"
+},
+{
+"kids":[],
+"uid":"cuiyanboys",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHBYd3V1",
+"date":"2013-05-21 09:23:10"
+},
+{
+"kids":[
+"zxHF3mSeO"
+],
+"uid":"guanjh",
+"parent":"zxHyRx2Eo",
+"text":"@mark",
+"mid":"zxHBTt9fr",
+"date":"2013-05-21 09:23:00"
+},
+{
+"kids":[],
+"uid":"blfufugengjiankang",
+"parent":"zxHyRx2Eo",
+"text":"这样阿?!!!@penny喜欢吃甜食 我和墙哥,卡西都是红色的!!救命!!!!",
+"mid":"zxHBM7e90",
+"date":"2013-05-21 09:22:42"
+},
+{
+"kids":[],
+"uid":"1629132575",
+"parent":"zxHyRx2Eo",
+"text":"回去看看",
+"mid":"zxHBM629j",
+"date":"2013-05-21 09:22:42"
+},
+{
+"kids":[],
+"uid":"2607686644",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHBIiKkA",
+"date":"2013-05-21 09:22:33"
+},
+{
+"kids":[
+"zxIrDCwRy",
+"zxHDWeTOF"
+],
+"uid":"338382746",
+"parent":"zxHyRx2Eo",
+"text":"都是黑色[汗] 特意给宝宝买的牙膏也是黑色的[汗][汗][汗][晕]",
+"mid":"zxHBCFFSp",
+"date":"2013-05-21 09:22:20"
+},
+{
+"kids":[],
+"uid":"2211844907",
+"parent":"zxHyRx2Eo",
+"text":"长姿势了",
+"mid":"zxHBAzuzQ",
+"date":"2013-05-21 09:22:15"
+},
+{
+"kids":[],
+"uid":"1660201955",
+"parent":"zxHyRx2Eo",
+"text":"回家看看",
+"mid":"zxHBxC9W8",
+"date":"2013-05-21 09:22:08"
+},
+{
+"kids":[],
+"uid":"2674604302",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHBoaXfE",
+"date":"2013-05-21 09:21:45"
+},
+{
+"kids":[
+"zxIg5FF15"
+],
+"uid":"546589371",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHBleyP3",
+"date":"2013-05-21 09:21:37"
+},
+{
+"kids":[],
+"uid":"2831425061",
+"parent":"zxHyRx2Eo",
+"text":"@阿芒德 回去看看咱们的牙膏～",
+"mid":"zxHBburmw",
+"date":"2013-05-21 09:21:14"
+},
+{
+"kids":[],
+"uid":"1414737221",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHB5ww8e",
+"date":"2013-05-21 09:21:00"
+},
+{
+"kids":[],
+"uid":"338382746",
+"parent":"zxHyRx2Eo",
+"text":"[吃惊]",
+"mid":"zxHB1FWhp",
+"date":"2013-05-21 09:20:52"
+},
+{
+"kids":[],
+"uid":"hayibalai",
+"parent":"zxHyRx2Eo",
+"text":"@雨夜yyyuye @雏田kitty 回去看看",
+"mid":"zxHAL9dwD",
+"date":"2013-05-21 09:20:11"
+},
+{
+"kids":[],
+"uid":"2111451594",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHAt7BUy",
+"date":"2013-05-21 09:19:28"
+},
+{
+"kids":[
+"zxIZqnp94"
+],
+"uid":"1871715383",
+"parent":"",
+"text":"",
+"mid":"zxHAbnBod",
+"date":"2013-05-21 09:18:47"
+},
+{
+"kids":[
+"zxHEZxvrA"
+],
+"uid":"1772512514",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHA4ARTx",
+"date":"2013-05-21 09:18:31"
+},
+{
+"kids":[],
+"uid":"3177013707",
+"parent":"zxHyRx2Eo",
+"text":"@洛落清香 @Alice保钓去了 @杜家绿小豆_最爱呆萌与腹黑 @我爱我的稻草人",
+"mid":"zxHA4lhWN",
+"date":"2013-05-21 09:18:29"
+},
+{
+"kids":[],
+"uid":"1875122081",
+"parent":"zxHyRx2Eo",
+"text":"@温柔的丸子大人",
+"mid":"zxHzTlZI9",
+"date":"2013-05-21 09:18:03"
+},
+{
+"kids":[],
+"uid":"3198729440",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHzSb9n4",
+"date":"2013-05-21 09:18:00"
+},
+{
+"kids":[],
+"uid":"liurui1984",
+"parent":"zxHyRx2Eo",
+"text":"@bobon2anann [疑问]",
+"mid":"zxHzvqTLc",
+"date":"2013-05-21 09:17:06"
+},
+{
+"kids":[],
+"uid":"chensi1993",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHzb3xbu",
+"date":"2013-05-21 09:16:17"
+},
+{
+"kids":[],
+"uid":"316549777",
+"parent":"zxHyRx2Eo",
+"text":"",
+"mid":"zxHzb3xaa",
+"date":"2013-05-21 09:16:18"
+},
+{
+"kids":[
+"zxIib4GM2"
+],
+"uid":"1425733081",
+"parent":"",
+"text":"",
+"mid":"zxHz63hCM",
+"date":"2013-05-21 09:16:06"
+},
+{
+"kids":[],
+"uid":"1972459903",
+"parent":"",
+"text":"",
+"mid":"zxHz4hz84",
+"date":"2013-05-21 09:16:01"
+},
+{
+"kids":[
+"zyBUk2fPE",
+"zyuH82BiI",
+"zyunt782V",
+"zytDbA0f1",
+"zysh490GZ",
+"zynm2nkVe",
+"zydMSjzBW",
+"zycmS51GY",
+"zybzx9Dbd",
+"zy6B4ztvp",
+"zy4yYcHpM",
+"zxWre8jS9",
+"zxVOLg0M2",
+"zxUs4CTa8",
+"zxS3MnOow",
+"zxRb48ZJA",
+"zxQrTsreZ",
+"zxNbJfHzW",
+"zxLTkADtO",
+"zxLKs7NTT",
+"zxLDmqxfc",
+"zxL92vvAQ",
+"zxKTg7nUn",
+"zxKSHf6dL",
+"zxK7LzPzv",
+"zxK3t22ur",
+"zxK1GcyQU",
+"zxJDBFujU",
+"zxJy9kPYd",
+"zxJwy4to5",
+"zxJoM7wPM",
+"zxJnBFLvz",
+"zxJge03rF",
+"zxJcHk3FC",
+"zxJ9RdKmi",
+"zxJ4g1TCW",
+"zxJ2IgAD5",
+"zxJ1ZETzf",
+"zxIYIlbQQ",
+"zxIYkoWmM",
+"zxIVRFpKY",
+"zxIVG92Vy",
+"zxIRh5gDw",
+"zxIQr4AHP",
+"zxIOl5o2g",
+"zxIOf9lUx",
+"zxIMx52Jj",
+"zxIMvA9Pe",
+"zxIIq4guE",
+"zxIA0eMmN",
+"zxIzJmGyd",
+"zxIx7svZG",
+"zxIqCqBLa",
+"zxIoWFM8Q",
+"zxIoRlp9F",
+"zxIonyVyB",
+"zxInatgdr",
+"zxIkX4eyO",
+"zxIiAto0l",
+"zxIg2atRc",
+"zxIePo6L4",
+"zxIcVsiE4",
+"zxIcb4FFq",
+"zxIbvoqBY",
+"zxIbmySll",
+"zxIaf5ydq",
+"zxIac9y9P",
+"zxI9twDjD",
+"zxI7Wo2hp",
+"zxI7P2hsS",
+"zxI7toFOd",
+"zxI6uxj95",
+"zxI5bhkCN",
+"zxI4uq0f5",
+"zxI3vABJV",
+"zxI2MoLS1",
+"zxI2e4UAp",
+"zxI11k7XI",
+"zxI0g3g5i",
+"zxHZBiE6j",
+"zxHYAEpaU",
+"zxHWMlVhI",
+"zxHV3ls0R",
+"zxHUYEEbN",
+"zxHUqmbTy",
+"zxHTDApI9",
+"zxHTDluq7",
+"zxHTxqOkW",
+"zxHStcfjA",
+"zxHSbsfxe",
+"zxHRZ4ZyQ",
+"zxHRJ7tLK",
+"zxHR5dHl2",
+"zxHPY5Jcy",
+"zxHPmwnFx",
+"zxHP6A8Ci",
+"zxHOg2gg4",
+"zxHNtxdUX",
+"zxHMJr59t",
+"zxHMJ9tS7",
+"zxHMxBKxV",
+"zxHMumOw5",
+"zxHLq9Ph7",
+"zxHKeAThn",
+"zxHK1Clzc",
+"zxHJgC5Cu",
+"zxHJdlfWO",
+"zxHIetL3T",
+"zxHHXkaMX",
+"zxHHsCjUW",
+"zxHH4EPgS",
+"zxHGYcBAB",
+"zxHGtqMxJ",
+"zxHGkhbwD",
+"zxHFJClbM",
+"zxHFeBLWz",
+"zxHF4BhfZ",
+"zxHET3Duc",
+"zxHEmwRlG",
+"zxHDOA8pU",
+"zxHDByM1h",
+"zxHDrekcp",
+"zxHDbypOy",
+"zxHCRdigb",
+"zxHCxDqHO",
+"zxHBYd3Vd",
+"zxHBYd3V1",
+"zxHBTt9fr",
+"zxHBM7e90",
+"zxHBM629j",
+"zxHBIiKkA",
+"zxHBCFFSp",
+"zxHBAzuzQ",
+"zxHBxC9W8",
+"zxHBoaXfE",
+"zxHBleyP3",
+"zxHBburmw",
+"zxHB5ww8e",
+"zxHB1FWhp",
+"zxHAL9dwD",
+"zxHAt7BUy",
+"zxHA4ARTx",
+"zxHA4lhWN",
+"zxHzTlZI9",
+"zxHzSb9n4",
+"zxHzvqTLc",
+"zxHzb3xbu",
+"zxHzb3xaa"
+],
+"uid":"022food",
+"parent":"",
+"text":"如何判断你的牙膏是否健康！",
+"mid":"zxHyRx2Eo",
+"date":"2013-05-21 09:15:31"
+},
+{
+"kids":[],
+"uid":"1757687851",
+"parent":"",
+"text":"",
+"mid":"zxHoehMRp",
+"date":"2013-05-21 08:49:19"
+},
+{
+"kids":[],
+"uid":"1918558702",
+"parent":"",
+"text":"真的假的",
+"mid":"zxHnewW8x",
+"date":"2013-05-21 08:46:52"
+},
+{
+"kids":[
+"zxJunAlLF"
+],
+"uid":"1934793324",
+"parent":"",
+"text":"发现家里的不是红色，就是黑色[泪]",
+"mid":"zxHmlBfqm",
+"date":"2013-05-21 08:44:42"
+},
+{
+"kids":[
+"zxKD2xUzo"
+],
+"uid":"2051270767",
+"parent":"",
+"text":"",
+"mid":"zxHb52OeG",
+"date":"2013-05-21 08:16:56"
+},
+{
+"kids":[],
+"uid":"2410327967",
+"parent":"",
+"text":"",
+"mid":"zxH7pvEPY",
+"date":"2013-05-21 08:07:53"
+},
+{
+"kids":[],
+"uid":"2342876515",
+"parent":"",
+"text":"",
+"mid":"zxH6VoMdY",
+"date":"2013-05-21 08:06:42"
+},
+{
+"kids":[],
+"uid":"1883959357",
+"parent":"",
+"text":"",
+"mid":"zxH602ump",
+"date":"2013-05-21 08:04:24"
+},
+{
+"kids":[
+"zxHGXAxgb"
+],
+"uid":"3025938957",
+"parent":"zxDRhnylM",
+"text":"……@有异性没人性的",
+"mid":"zxGTvix21",
+"date":"2013-05-21 07:33:38"
+},
+{
+"kids":[],
+"uid":"1655178275",
+"parent":"",
+"text":"",
+"mid":"zxGR4xXxQ",
+"date":"2013-05-21 07:27:39"
+},
+{
+"kids":[
+"zxKU67Z6q"
+],
+"uid":"1273497360",
+"parent":"",
+"text":"@papakolea @清凉自在619 @挣扎的刘糖糖 @豆豆百合的小窝 @晚安自由女神飘到华尔街 都回家看看啊！",
+"mid":"zxGP30skI",
+"date":"2013-05-21 07:22:39"
+},
+{
+"kids":[],
+"uid":"2738090784",
+"parent":"",
+"text":"",
+"mid":"zxGOMrkdP",
+"date":"2013-05-21 07:22:00"
+},
+{
+"kids":[],
+"uid":"1664169465",
+"parent":"",
+"text":"转发微博。",
+"mid":"zxGlybJzN",
+"date":"2013-05-21 06:09:59"
+},
+{
+"kids":[],
+"uid":"1270372892",
+"parent":"",
+"text":"刚知道",
+"mid":"zxEvWxjU6",
+"date":"2013-05-21 01:30:06"
+},
+{
+"kids":[],
+"uid":"2970632607",
+"parent":"",
+"text":"[汗]",
+"mid":"zxEdLfxSN",
+"date":"2013-05-21 00:45:19"
+},
+{
+"kids":[],
+"uid":"1223517970",
+"parent":"zxDuOqH99",
+"text":"成分果然大同小异，以后就10块以内的牙膏了",
+"mid":"zxE5nch8P",
+"date":"2013-05-21 00:24:36"
+},
+{
+"kids":[
+"zxGTvix21"
+],
+"uid":"yanmissj",
+"parent":"",
+"text":"[吃惊]",
+"mid":"zxDRhnylM",
+"date":"2013-05-20 23:49:52"
+},
+{
+"kids":[
+"zxJ87D6x8"
+],
+"uid":"1764987565",
+"parent":"",
+"text":"@溪雨哲南",
+"mid":"zxDPXx6AR",
+"date":"2013-05-20 23:46:40"
+},
+{
+"kids":[
+"zxN1Qb0tB"
+],
+"uid":"1852026447",
+"parent":"zxDuOqH99",
+"text":"@英子Carol [疑问]",
+"mid":"zxDPE3xRR",
+"date":"2013-05-20 23:45:53"
+},
+{
+"kids":[],
+"uid":"2307922622",
+"parent":"",
+"text":"@ZDDLG",
+"mid":"zxDOekatm",
+"date":"2013-05-20 23:42:24"
+},
+{
+"kids":[],
+"uid":"2693494800",
+"parent":"",
+"text":"",
+"mid":"zxDKX37AS",
+"date":"2013-05-20 23:34:17"
+},
+{
+"kids":[],
+"uid":"1800033355",
+"parent":"",
+"text":"",
+"mid":"zxDKPzATW",
+"date":"2013-05-20 23:34:03"
+},
+{
+"kids":[],
+"uid":"5678smile",
+"parent":"",
+"text":"转发微博。",
+"mid":"zxDGQfVlK",
+"date":"2013-05-20 23:24:10"
+},
+{
+"kids":[],
+"uid":"2457619801",
+"parent":"",
+"text":"真的嘛？",
+"mid":"zxDFc3uWd",
+"date":"2013-05-20 23:20:08"
+},
+{
+"kids":[],
+"uid":"2043115587",
+"parent":"",
+"text":"我的是蓝色的[嘻嘻]",
+"mid":"zxDDNblWu",
+"date":"2013-05-20 23:16:41"
+},
+{
+"kids":[],
+"uid":"1789397973",
+"parent":"",
+"text":"",
+"mid":"zxDC03nAE",
+"date":"2013-05-20 23:12:15"
+},
+{
+"kids":[],
+"uid":"1895195957",
+"parent":"",
+"text":"",
+"mid":"zxDB4pCBy",
+"date":"2013-05-20 23:09:56"
+},
+{
+"kids":[],
+"uid":"2553309124",
+"parent":"",
+"text":"看看吧。@啊啊啊啊啊喵畢業要快樂 @熊的麦吉 @漠碎碎念 @Lam-Sophie @Hale_涵 @花朵一夏",
+"mid":"zxDAH50pi",
+"date":"2013-05-20 23:09:02"
+},
+{
+"kids":[],
+"uid":"lovelybride",
+"parent":"",
+"text":"长姿势啦~我家的是蓝色",
+"mid":"zxDyBDAka",
+"date":"2013-05-20 23:03:53"
+},
+{
+"kids":[],
+"uid":"yangzheng626",
+"parent":"zxDpkkiRx",
+"text":"回复@雨飞婷:您这一转可是误导了那么多的同事和朋友 这条微博明显有问题 而且转之前能否自己先上网百度一下 有些信息不仅是对自己负责 也是对身边的人负责啊",
+"mid":"zxDwOxQLp",
+"date":"2013-05-20 22:59:30"
+},
+{
+"kids":[
+"zxE5nch8P",
+"zxDPE3xRR"
+],
+"uid":"yangzheng626",
+"parent":"zxDpkkiRx",
+"text":"回复@Wesley不别扭:热烈欢迎宝洁公司PS部门的专业人士解释和辟谣",
+"mid":"zxDuOqH99",
+"date":"2013-05-20 22:54:35"
+},
+{
+"kids":[],
+"uid":"1740238102",
+"parent":"",
+"text":"",
+"mid":"zxDuort6w",
+"date":"2013-05-20 22:53:32"
+},
+{
+"kids":[],
+"uid":"522037345",
+"parent":"zxDfI2TcI",
+"text":"这 牙膏还有这么一说",
+"mid":"zxDt9kKmV",
+"date":"2013-05-20 22:50:28"
+},
+{
+"kids":[],
+"uid":"2326175401",
+"parent":"",
+"text":"又学了一招。",
+"mid":"zxDrzfKIt",
+"date":"2013-05-20 22:46:33"
+},
+{
+"kids":[],
+"uid":"2787549243",
+"parent":"",
+"text":"@种颗健康树 好么~果真是有区别的！",
+"mid":"zxDrjfqdx",
+"date":"2013-05-20 22:45:56"
+},
+{
+"kids":[
+"zxDwOxQLp",
+"zxDuOqH99"
+],
+"uid":"yangzheng626",
+"parent":"zxDhrzWOU",
+"text":"这么个说法出处在哪儿？ 是否出自官方或权威信息？ 图片是某公司图片，是否涉嫌变相宣传？ 如情况不属实，是否涉嫌欺骗消费者或欺诈？！！！！！！！",
+"mid":"zxDpkkiRx",
+"date":"2013-05-20 22:41:02"
+},
+{
+"kids":[],
+"uid":"1995879953",
+"parent":"",
+"text":"",
+"mid":"zxDoXBwcQ",
+"date":"2013-05-20 22:40:08"
+},
+{
+"kids":[],
+"uid":"1971297403",
+"parent":"",
+"text":"别ＴＭ逗了，这就是印刷的色标！",
+"mid":"zxDlKpcbT",
+"date":"2013-05-20 22:32:14"
+},
+{
+"kids":[],
+"uid":"1762109695",
+"parent":"zxDhrzWOU",
+"text":"mark",
+"mid":"zxDkHr9Dp",
+"date":"2013-05-20 22:29:37"
+},
+{
+"kids":[],
+"uid":"1616735654",
+"parent":"",
+"text":"",
+"mid":"zxDkEtNOG",
+"date":"2013-05-20 22:29:31"
+},
+{
+"kids":[],
+"uid":"2079464000",
+"parent":"",
+"text":"",
+"mid":"zxDku8AcY",
+"date":"2013-05-20 22:29:07"
+},
+{
+"kids":[],
+"uid":"mynameisrenzhiyong",
+"parent":"",
+"text":"真的？",
+"mid":"zxDkfCzAZ",
+"date":"2013-05-20 22:28:30"
+},
+{
+"kids":[],
+"uid":"2235088600",
+"parent":"",
+"text":"这个有用",
+"mid":"zxDiMmGhD",
+"date":"2013-05-20 22:24:52"
+},
+{
+"kids":[],
+"uid":"2199748582",
+"parent":"",
+"text":"",
+"mid":"zxDiM47RY",
+"date":"2013-05-20 22:24:52"
+},
+{
+"kids":[],
+"uid":"carl20050701",
+"parent":"",
+"text":"",
+"mid":"zxDiFxMaY",
+"date":"2013-05-20 22:24:37"
+},
+{
+"kids":[],
+"uid":"2338839312",
+"parent":"",
+"text":"@王醒89",
+"mid":"zxDi64gpv",
+"date":"2013-05-20 22:23:11"
+},
+{
+"kids":[],
+"uid":"1874586554",
+"parent":"",
+"text":"",
+"mid":"zxDhKwmoq",
+"date":"2013-05-20 22:22:21"
+},
+{
+"kids":[
+"zzdJ1e0dK",
+"zxIceDQNs",
+"zxDpkkiRx",
+"zxDkHr9Dp"
+],
+"uid":"1671636123",
+"parent":"",
+"text":"",
+"mid":"zxDhrzWOU",
+"date":"2013-05-20 22:21:37"
+},
+{
+"kids":[],
+"uid":"enen1008",
+"parent":"",
+"text":"",
+"mid":"zxDgwASe7",
+"date":"2013-05-20 22:19:22"
+},
+{
+"kids":[],
+"uid":"2273752767",
+"parent":"",
+"text":"@linlinlin818 @哒莼",
+"mid":"zxDfWywvQ",
+"date":"2013-05-20 22:17:57"
+},
+{
+"kids":[
+"zxDt9kKmV"
+],
+"uid":"206565518",
+"parent":"",
+"text":"蓝宝石级的吧",
+"mid":"zxDfI2TcI",
+"date":"2013-05-20 22:17:21"
+},
+{
+"kids":[],
+"uid":"1947283235",
+"parent":"",
+"text":"",
+"mid":"zxDfmtpvQ",
+"date":"2013-05-20 22:16:30"
+},
+{
+"kids":[],
+"uid":"2404419901",
+"parent":"",
+"text":"",
+"mid":"zxDfk7IDX",
+"date":"2013-05-20 22:16:23"
+},
+{
+"kids":[],
+"uid":"2345173615",
+"parent":"",
+"text":"",
+"mid":"zxDeOuikt",
+"date":"2013-05-20 22:15:09"
+},
+{
+"kids":[],
+"uid":"1881512811",
+"parent":"",
+"text":"",
+"mid":"zxDeOtqnk",
+"date":"2013-05-20 22:15:10"
+},
+{
+"kids":[],
+"uid":"1740288572",
+"parent":"",
+"text":"",
+"mid":"zxDe7mYjQ",
+"date":"2013-05-20 22:13:25"
+},
+{
+"kids":[
+"zxUcx2eax"
+],
+"uid":"3215057695",
+"parent":"",
+"text":"家里的是黑色和红色[汗]",
+"mid":"zxDe0wNVM",
+"date":"2013-05-20 22:13:10"
+},
+{
+"kids":[],
+"uid":"1424475832",
+"parent":"",
+"text":"@曲靖吃货联盟",
+"mid":"zxDdqvB10",
+"date":"2013-05-20 22:11:42"
+},
+{
+"kids":[],
+"uid":"yjz2009",
+"parent":"",
+"text":"我的是蓝色",
+"mid":"zxDdpBdbj",
+"date":"2013-05-20 22:11:40"
+},
+{
+"kids":[],
+"uid":"2012263695",
+"parent":"",
+"text":"",
+"mid":"zxDdjoWsM",
+"date":"2013-05-20 22:11:28"
+},
+{
+"kids":[],
+"uid":"1801336117",
+"parent":"",
+"text":"",
+"mid":"zxDd21UDz",
+"date":"2013-05-20 22:10:43"
+},
+{
+"kids":[],
+"uid":"1829240203",
+"parent":"",
+"text":"",
+"mid":"zxDd1mum9",
+"date":"2013-05-20 22:10:44"
+}
+]

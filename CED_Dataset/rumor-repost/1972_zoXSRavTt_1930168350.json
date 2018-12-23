@@ -1,0 +1,2329 @@
+[
+{
+"kids":[],
+"uid":"3320267327",
+"parent":"zp34vlne3",
+"text":"",
+"mid":"zvMmnvCOp",
+"date":"2013-05-08 17:47:53"
+},
+{
+"kids":[],
+"uid":"2919800100",
+"parent":"zpdwLy8sY",
+"text":"",
+"mid":"zswKQqLPu",
+"date":"2013-04-17 08:33:19"
+},
+{
+"kids":[],
+"uid":"3133897627",
+"parent":"zp3m2u11G",
+"text":"",
+"mid":"zs7dE6qwk",
+"date":"2013-04-14 15:32:51"
+},
+{
+"kids":[],
+"uid":"3174039300",
+"parent":"",
+"text":"",
+"mid":"zrYdiC9IA",
+"date":"2013-04-13 16:37:16"
+},
+{
+"kids":[],
+"uid":"2971825977",
+"parent":"zpmqtcsxo",
+"text":"",
+"mid":"zrvuW978W",
+"date":"2013-04-10 15:31:04"
+},
+{
+"kids":[],
+"uid":"3043931652",
+"parent":"",
+"text":"",
+"mid":"zrq1gnBBr",
+"date":"2013-04-10 01:34:14"
+},
+{
+"kids":[],
+"uid":"1582632111",
+"parent":"",
+"text":"",
+"mid":"zrq1gmEvf",
+"date":"2013-04-10 01:34:14"
+},
+{
+"kids":[],
+"uid":"2920359412",
+"parent":"",
+"text":"",
+"mid":"zrhtQvcEe",
+"date":"2013-04-09 03:49:56"
+},
+{
+"kids":[],
+"uid":"1584080631",
+"parent":"",
+"text":"",
+"mid":"zrctJ9sIM",
+"date":"2013-04-08 15:05:52"
+},
+{
+"kids":[],
+"uid":"1776583040",
+"parent":"",
+"text":"",
+"mid":"zrctIz8Lb",
+"date":"2013-04-08 15:05:53"
+},
+{
+"kids":[],
+"uid":"1583473707",
+"parent":"zpuRF6Wld",
+"text":"",
+"mid":"zqOhBgbHD",
+"date":"2013-04-06 01:30:06"
+},
+{
+"kids":[],
+"uid":"2920201810",
+"parent":"zpuRF6Wld",
+"text":"",
+"mid":"zqG7oreA0",
+"date":"2013-04-05 04:42:58"
+},
+{
+"kids":[],
+"uid":"2919476930",
+"parent":"zpuRF6Wld",
+"text":"",
+"mid":"zqG7ob408",
+"date":"2013-04-05 04:42:58"
+},
+{
+"kids":[],
+"uid":"1583089512",
+"parent":"zqoD55Czd",
+"text":"",
+"mid":"zquXf2ujY",
+"date":"2013-04-04 00:17:42"
+},
+{
+"kids":[],
+"uid":"2804720912",
+"parent":"zqoD55Czd",
+"text":"",
+"mid":"zquXeriKu",
+"date":"2013-04-04 00:17:41"
+},
+{
+"kids":[],
+"uid":"2243319830",
+"parent":"zqoD55Czd",
+"text":"",
+"mid":"zqpIo1XPE",
+"date":"2013-04-03 10:57:24"
+},
+{
+"kids":[
+"zquXf2ujY",
+"zquXeriKu",
+"zqpIo1XPE"
+],
+"uid":"2035981260",
+"parent":"zqojsgqyW",
+"text":"[心]",
+"mid":"zqoD55Czd",
+"date":"2013-04-03 08:11:36"
+},
+{
+"kids":[
+"zqoD55Czd"
+],
+"uid":"2340446004",
+"parent":"zqohhceUi",
+"text":"",
+"mid":"zqojsgqyW",
+"date":"2013-04-03 07:23:15"
+},
+{
+"kids":[
+"zqojsgqyW"
+],
+"uid":"2587844004",
+"parent":"zqoaD2dyz",
+"text":"",
+"mid":"zqohhceUi",
+"date":"2013-04-03 07:17:53"
+},
+{
+"kids":[
+"zqohhceUi"
+],
+"uid":"2029228151",
+"parent":"",
+"text":"",
+"mid":"zqoaD2dyz",
+"date":"2013-04-03 07:01:29"
+},
+{
+"kids":[],
+"uid":"2810097310",
+"parent":"zp2KibTKI",
+"text":"",
+"mid":"zqdhtzB9h",
+"date":"2013-04-02 03:18:10"
+},
+{
+"kids":[],
+"uid":"2454641074",
+"parent":"zpY19y9L2",
+"text":"",
+"mid":"zpYnj2evr",
+"date":"2013-03-31 13:21:19"
+},
+{
+"kids":[],
+"uid":"1778090512",
+"parent":"zp2KibTKI",
+"text":"",
+"mid":"zpYgTyUJA",
+"date":"2013-03-31 13:05:31"
+},
+{
+"kids":[],
+"uid":"1583479152",
+"parent":"zp2KibTKI",
+"text":"",
+"mid":"zpYgTyUGf",
+"date":"2013-03-31 13:05:32"
+},
+{
+"kids":[],
+"uid":"2920612582",
+"parent":"",
+"text":"",
+"mid":"zpY4ye8Rt",
+"date":"2013-03-31 12:35:05"
+},
+{
+"kids":[],
+"uid":"2920528172",
+"parent":"",
+"text":"",
+"mid":"zpY4xDFsn",
+"date":"2013-03-31 12:35:07"
+},
+{
+"kids":[],
+"uid":"2919728464",
+"parent":"",
+"text":"",
+"mid":"zpY1Mh1V2",
+"date":"2013-03-31 12:28:17"
+},
+{
+"kids":[],
+"uid":"2804311914",
+"parent":"",
+"text":"",
+"mid":"zpY1Mh1ST",
+"date":"2013-03-31 12:28:17"
+},
+{
+"kids":[
+"zpYnj2evr"
+],
+"uid":"2454896980",
+"parent":"",
+"text":"",
+"mid":"zpY19y9L2",
+"date":"2013-03-31 12:26:43"
+},
+{
+"kids":[],
+"uid":"zhangjing97111",
+"parent":"",
+"text":"",
+"mid":"zpWY890Zz",
+"date":"2013-03-31 09:46:32"
+},
+{
+"kids":[],
+"uid":"1777757344",
+"parent":"zpuRF6Wld",
+"text":"",
+"mid":"zpVtqwNaw",
+"date":"2013-03-31 05:58:10"
+},
+{
+"kids":[],
+"uid":"2919642334",
+"parent":"zpuRF6Wld",
+"text":"",
+"mid":"zpNer4RcZ",
+"date":"2013-03-30 08:59:15"
+},
+{
+"kids":[],
+"uid":"2809856502",
+"parent":"zpuRF6Wld",
+"text":"",
+"mid":"zpNeqtdvE",
+"date":"2013-03-30 08:59:14"
+},
+{
+"kids":[],
+"uid":"1583825284",
+"parent":"zoY7qbPkR",
+"text":"",
+"mid":"zpGj4sZ0c",
+"date":"2013-03-29 15:21:27"
+},
+{
+"kids":[
+"zqOhBgbHD",
+"zqG7oreA0",
+"zqG7ob408",
+"zpVtqwNaw",
+"zpNer4RcZ",
+"zpNeqtdvE"
+],
+"uid":"2147123122",
+"parent":"zpoaGjK4y",
+"text":"",
+"mid":"zpuRF6Wld",
+"date":"2013-03-28 10:13:42"
+},
+{
+"kids":[],
+"uid":"1302273034",
+"parent":"",
+"text":"国家对老年人不是有补贴吗。当地居委会哪里去了，或者是村委会，",
+"mid":"zpuiSi0tZ",
+"date":"2013-03-28 08:48:00"
+},
+{
+"kids":[],
+"uid":"3085349933",
+"parent":"zpot0saXy",
+"text":"",
+"mid":"zpqzPpytK",
+"date":"2013-03-27 23:18:45"
+},
+{
+"kids":[],
+"uid":"2480678373",
+"parent":"",
+"text":"",
+"mid":"zpoQHmEp3",
+"date":"2013-03-27 18:54:51"
+},
+{
+"kids":[],
+"uid":"3189177297",
+"parent":"zpovaDmg1",
+"text":"",
+"mid":"zpoNOgWVm",
+"date":"2013-03-27 18:47:45"
+},
+{
+"kids":[],
+"uid":"3188570583",
+"parent":"",
+"text":"",
+"mid":"zpoHNovjt",
+"date":"2013-03-27 18:32:54"
+},
+{
+"kids":[],
+"uid":"1195296275",
+"parent":"",
+"text":"",
+"mid":"zpoFR8ZFu",
+"date":"2013-03-27 18:28:07"
+},
+{
+"kids":[],
+"uid":"3025261587",
+"parent":"zpovaDmg1",
+"text":"",
+"mid":"zpoCb0BII",
+"date":"2013-03-27 18:19:05"
+},
+{
+"kids":[
+"zpoNOgWVm",
+"zpoCb0BII"
+],
+"uid":"2705672891",
+"parent":"",
+"text":"",
+"mid":"zpovaDmg1",
+"date":"2013-03-27 18:01:49"
+},
+{
+"kids":[
+"zpqzPpytK"
+],
+"uid":"2857504211",
+"parent":"",
+"text":"",
+"mid":"zpot0saXy",
+"date":"2013-03-27 17:56:29"
+},
+{
+"kids":[],
+"uid":"2342112783",
+"parent":"zpoaGjK4y",
+"text":"",
+"mid":"zpodenT8F",
+"date":"2013-03-27 17:17:37"
+},
+{
+"kids":[],
+"uid":"3175699357",
+"parent":"",
+"text":"",
+"mid":"zpoaRybhE",
+"date":"2013-03-27 17:11:47"
+},
+{
+"kids":[
+"zpuRF6Wld",
+"zpodenT8F"
+],
+"uid":"2081373735",
+"parent":"",
+"text":"",
+"mid":"zpoaGjK4y",
+"date":"2013-03-27 17:11:17"
+},
+{
+"kids":[],
+"uid":"2470368750",
+"parent":"",
+"text":"",
+"mid":"zpnYs4dlE",
+"date":"2013-03-27 16:41:10"
+},
+{
+"kids":[],
+"uid":"2336587912",
+"parent":"",
+"text":"",
+"mid":"zpnyV9KMt",
+"date":"2013-03-27 15:38:18"
+},
+{
+"kids":[],
+"uid":"2041550862",
+"parent":"",
+"text":"可怜[泪]",
+"mid":"zpmLAbWcx",
+"date":"2013-03-27 13:36:45"
+},
+{
+"kids":[],
+"uid":"stypcj",
+"parent":"zpmqtcsxo",
+"text":"",
+"mid":"zpmsRtVSE",
+"date":"2013-03-27 12:50:36"
+},
+{
+"kids":[
+"zrvuW978W",
+"zpmsRtVSE"
+],
+"uid":"1926320197",
+"parent":"zp7ZG2Mw1",
+"text":"",
+"mid":"zpmqtcsxo",
+"date":"2013-03-27 12:44:43"
+},
+{
+"kids":[],
+"uid":"1917365147",
+"parent":"",
+"text":"[可怜][可怜]",
+"mid":"zpme9jLRA",
+"date":"2013-03-27 12:14:23"
+},
+{
+"kids":[],
+"uid":"2132432931",
+"parent":"",
+"text":"@昵稱-王环 @吃货De奶茶控 @Ray_鱿鱼妹 @Cinderella-Xc @郭啊蛋 @-sS0703",
+"mid":"zplGisxiH",
+"date":"2013-03-27 10:50:59"
+},
+{
+"kids":[],
+"uid":"2099185044",
+"parent":"",
+"text":"转",
+"mid":"zpl3g5Wpq",
+"date":"2013-03-27 09:14:48"
+},
+{
+"kids":[],
+"uid":"2618076563",
+"parent":"zpkCEkBCA",
+"text":"[泪][泪]同转",
+"mid":"zpkYElVda",
+"date":"2013-03-27 09:03:27"
+},
+{
+"kids":[],
+"uid":"misslady0107",
+"parent":"zpkCEkBCA",
+"text":"[爱心传递][爱心传递]",
+"mid":"zpkUbbgKM",
+"date":"2013-03-27 08:52:26"
+},
+{
+"kids":[
+"zpkYElVda",
+"zpkUbbgKM"
+],
+"uid":"wongngamung",
+"parent":"",
+"text":"虽然知道是骗人的。还是转个吧[淚][淚][淚]",
+"mid":"zpkCEkBCA",
+"date":"2013-03-27 08:09:14"
+},
+{
+"kids":[],
+"uid":"2789877010",
+"parent":"",
+"text":"",
+"mid":"zpkBUvTn9",
+"date":"2013-03-27 08:07:25"
+},
+{
+"kids":[],
+"uid":"2803131692",
+"parent":"",
+"text":"",
+"mid":"zpkBUeid9",
+"date":"2013-03-27 08:07:25"
+},
+{
+"kids":[],
+"uid":"2805372551",
+"parent":"zphUPsA1w",
+"text":"@陳-煜涛 @铭杰__ @James--325 @阿爸矮 @陈纯20 @卡帕_ @志煌_",
+"mid":"zpi62s72S",
+"date":"2013-03-27 01:43:25"
+},
+{
+"kids":[],
+"uid":"1880492837",
+"parent":"zpeaXaVUs",
+"text":"为什么她的两个儿子不顾她？",
+"mid":"zphZtgXGu",
+"date":"2013-03-27 01:27:14"
+},
+{
+"kids":[
+"zpi62s72S"
+],
+"uid":"2412937252",
+"parent":"",
+"text":"[爱心传递]",
+"mid":"zphUPsA1w",
+"date":"2013-03-27 01:15:47"
+},
+{
+"kids":[],
+"uid":"1888013537",
+"parent":"",
+"text":"",
+"mid":"zphCebPdL",
+"date":"2013-03-27 00:29:58"
+},
+{
+"kids":[],
+"uid":"3213916047",
+"parent":"zpdsPe0Ip",
+"text":"转发微博。",
+"mid":"zphxti3X5",
+"date":"2013-03-27 00:18:15"
+},
+{
+"kids":[],
+"uid":"2094179262",
+"parent":"",
+"text":"[心]请问我想把我的零花钱捐给她，我应该怎么做？",
+"mid":"zphtO1Vl8",
+"date":"2013-03-27 00:09:14"
+},
+{
+"kids":[],
+"uid":"2212607192",
+"parent":"zph31484K",
+"text":"",
+"mid":"zph4CBcip",
+"date":"2013-03-26 23:07:10"
+},
+{
+"kids":[
+"zph4CBcip"
+],
+"uid":"279117762",
+"parent":"",
+"text":"",
+"mid":"zph31484K",
+"date":"2013-03-26 23:03:11"
+},
+{
+"kids":[],
+"uid":"2552748683",
+"parent":"",
+"text":"",
+"mid":"zph2RAu3j",
+"date":"2013-03-26 23:02:48"
+},
+{
+"kids":[],
+"uid":"1985317913",
+"parent":"",
+"text":"[泪]",
+"mid":"zpgVbyb98",
+"date":"2013-03-26 22:43:56"
+},
+{
+"kids":[],
+"uid":"2747946685",
+"parent":"",
+"text":"",
+"mid":"zpgRy6eLo",
+"date":"2013-03-26 22:34:55"
+},
+{
+"kids":[],
+"uid":"206310004",
+"parent":"",
+"text":"[泪][泪][泪]",
+"mid":"zpgR3obKP",
+"date":"2013-03-26 22:33:43"
+},
+{
+"kids":[],
+"uid":"2816049584",
+"parent":"",
+"text":"希望",
+"mid":"zpgxE8v2m",
+"date":"2013-03-26 21:45:56"
+},
+{
+"kids":[],
+"uid":"1493304414",
+"parent":"zpeSWhYT5",
+"text":"[心]",
+"mid":"zpguPbilT",
+"date":"2013-03-26 21:39:00"
+},
+{
+"kids":[],
+"uid":"2013981801",
+"parent":"",
+"text":"",
+"mid":"zpfSglIe3",
+"date":"2013-03-26 20:03:58"
+},
+{
+"kids":[],
+"uid":"1589650530",
+"parent":"zpbzGjLzX",
+"text":"",
+"mid":"zpfxzlou6",
+"date":"2013-03-26 19:13:00"
+},
+{
+"kids":[],
+"uid":"1789427823",
+"parent":"zpe31aVyT",
+"text":"这世界就是这样，哎。。。",
+"mid":"zpfb6o3zm",
+"date":"2013-03-26 18:17:38"
+},
+{
+"kids":[
+"zpguPbilT"
+],
+"uid":"1637861637",
+"parent":"zpdfghtp4",
+"text":"",
+"mid":"zpeSWhYT5",
+"date":"2013-03-26 17:32:54"
+},
+{
+"kids":[
+"zphZtgXGu"
+],
+"uid":"2574843792",
+"parent":"zpdfrvbct",
+"text":"",
+"mid":"zpeaXaVUs",
+"date":"2013-03-26 15:44:32"
+},
+{
+"kids":[
+"zpfb6o3zm"
+],
+"uid":"2132235634",
+"parent":"",
+"text":"为什么这些老人得不到帮助？？当地政府呢",
+"mid":"zpe31aVyT",
+"date":"2013-03-26 15:24:58"
+},
+{
+"kids":[],
+"uid":"2515939202",
+"parent":"zpdkcmOuA",
+"text":"远您老安好",
+"mid":"zpdLhE1K3",
+"date":"2013-03-26 14:41:17"
+},
+{
+"kids":[],
+"uid":"2988656372",
+"parent":"zpdkcmOuA",
+"text":"",
+"mid":"zpdzElOd6",
+"date":"2013-03-26 14:12:38"
+},
+{
+"kids":[
+"zswKQqLPu"
+],
+"uid":"2077825077",
+"parent":"",
+"text":"",
+"mid":"zpdwLy8sY",
+"date":"2013-03-26 14:05:32"
+},
+{
+"kids":[
+"zphxti3X5"
+],
+"uid":"2482998841",
+"parent":"zp7ZG2Mw1",
+"text":"",
+"mid":"zpdsPe0Ip",
+"date":"2013-03-26 13:55:47"
+},
+{
+"kids":[],
+"uid":"2884141931",
+"parent":"zpd1t6YzR",
+"text":"",
+"mid":"zpdohBgmZ",
+"date":"2013-03-26 13:44:38"
+},
+{
+"kids":[],
+"uid":"1921752083",
+"parent":"zp8MOwpxs",
+"text":"顶起来！",
+"mid":"zpdnolE0J",
+"date":"2013-03-26 13:42:24"
+},
+{
+"kids":[],
+"uid":"2092243095",
+"parent":"zpdfghtp4",
+"text":"为什么在新浪微博转，要腾讯捐钱？确定这不是玩笑？",
+"mid":"zpdmGBj1Y",
+"date":"2013-03-26 13:40:42"
+},
+{
+"kids":[
+"zpdLhE1K3",
+"zpdzElOd6"
+],
+"uid":"2452739771",
+"parent":"",
+"text":"",
+"mid":"zpdkcmOuA",
+"date":"2013-03-26 13:34:34"
+},
+{
+"kids":[],
+"uid":"2149668862",
+"parent":"zpd1t6YzR",
+"text":"可怜",
+"mid":"zpdiPzWbk",
+"date":"2013-03-26 13:31:12"
+},
+{
+"kids":[],
+"uid":"2955794294",
+"parent":"zpcQab5P1",
+"text":"",
+"mid":"zpdiMAcOq",
+"date":"2013-03-26 13:31:04"
+},
+{
+"kids":[],
+"uid":"2501750842",
+"parent":"zpdfghtp4",
+"text":"",
+"mid":"zpdfGzte6",
+"date":"2013-03-26 13:23:27"
+},
+{
+"kids":[
+"zpeaXaVUs"
+],
+"uid":"1996805195",
+"parent":"",
+"text":"[心][心][心]",
+"mid":"zpdfrvbct",
+"date":"2013-03-26 13:22:49"
+},
+{
+"kids":[
+"zpeSWhYT5",
+"zpdmGBj1Y",
+"zpdfGzte6"
+],
+"uid":"2121712390",
+"parent":"zpc5jevyV",
+"text":"",
+"mid":"zpdfghtp4",
+"date":"2013-03-26 13:22:22"
+},
+{
+"kids":[],
+"uid":"1893347373",
+"parent":"",
+"text":"",
+"mid":"zpd8taxyA",
+"date":"2013-03-26 13:05:40"
+},
+{
+"kids":[],
+"uid":"1988697894",
+"parent":"",
+"text":"",
+"mid":"zpd1QpCCy",
+"date":"2013-03-26 12:49:21"
+},
+{
+"kids":[
+"zpdohBgmZ",
+"zpdiPzWbk"
+],
+"uid":"2145716661",
+"parent":"zpcVmyUDh",
+"text":"[泪] [泪][悲伤]",
+"mid":"zpd1t6YzR",
+"date":"2013-03-26 12:48:25"
+},
+{
+"kids":[],
+"uid":"2797261763",
+"parent":"",
+"text":"",
+"mid":"zpd0bAzA1",
+"date":"2013-03-26 12:45:15"
+},
+{
+"kids":[
+"zpd1t6YzR"
+],
+"uid":"2475096413",
+"parent":"zpbF2tUeU",
+"text":"",
+"mid":"zpcVmyUDh",
+"date":"2013-03-26 12:33:22"
+},
+{
+"kids":[],
+"uid":"1782933803",
+"parent":"",
+"text":"",
+"mid":"zpcRseA9Z",
+"date":"2013-03-26 12:23:45"
+},
+{
+"kids":[
+"zpdiMAcOq"
+],
+"uid":"2420563207",
+"parent":"zpbXmkJsW",
+"text":"腾迅比钱？大家快转！无比距舌",
+"mid":"zpcQab5P1",
+"date":"2013-03-26 12:20:34"
+},
+{
+"kids":[],
+"uid":"2491305744",
+"parent":"",
+"text":"",
+"mid":"zpcOgyYg7",
+"date":"2013-03-26 12:15:54"
+},
+{
+"kids":[],
+"uid":"2451363764",
+"parent":"zp8YEf8Dv",
+"text":"",
+"mid":"zpcbPstwM",
+"date":"2013-03-26 10:41:11"
+},
+{
+"kids":[
+"zpdfghtp4"
+],
+"uid":"1895681635",
+"parent":"zpc56eiSn",
+"text":"",
+"mid":"zpc5jevyV",
+"date":"2013-03-26 10:25:08"
+},
+{
+"kids":[
+"zpc5jevyV"
+],
+"uid":"2217660260",
+"parent":"zpc4SjJXS",
+"text":"",
+"mid":"zpc56eiSn",
+"date":"2013-03-26 10:24:36"
+},
+{
+"kids":[
+"zpc56eiSn"
+],
+"uid":"1743318807",
+"parent":"zpbFWjBLB",
+"text":"",
+"mid":"zpc4SjJXS",
+"date":"2013-03-26 10:24:02"
+},
+{
+"kids":[
+"zpcQab5P1"
+],
+"uid":"2250661802",
+"parent":"zp7QrkAD5",
+"text":"[蜡烛]",
+"mid":"zpbXmkJsW",
+"date":"2013-03-26 10:05:33"
+},
+{
+"kids":[
+"zpc4SjJXS"
+],
+"uid":"2988263297",
+"parent":"zpbF2tUeU",
+"text":"",
+"mid":"zpbFWjBLB",
+"date":"2013-03-26 09:22:38"
+},
+{
+"kids":[
+"zpcVmyUDh",
+"zpbFWjBLB"
+],
+"uid":"2386723484",
+"parent":"zp8YEf8Dv",
+"text":"",
+"mid":"zpbF2tUeU",
+"date":"2013-03-26 09:20:25"
+},
+{
+"kids":[],
+"uid":"2643894733",
+"parent":"",
+"text":"我其实最讨厌的就是转这类型的微博，因为在很多地方都看到，总觉得像有人在刷一样",
+"mid":"zpbCR8AVO",
+"date":"2013-03-26 09:15:02"
+},
+{
+"kids":[
+"zpfxzlou6"
+],
+"uid":"1855181702",
+"parent":"",
+"text":"",
+"mid":"zpbzGjLzX",
+"date":"2013-03-26 09:07:12"
+},
+{
+"kids":[],
+"uid":"2162714734",
+"parent":"zp34vlne3",
+"text":"唉！",
+"mid":"zpbm5iNnD",
+"date":"2013-03-26 08:33:43"
+},
+{
+"kids":[],
+"uid":"2790036684",
+"parent":"zp2KibTKI",
+"text":"",
+"mid":"zpb0Ea9UO",
+"date":"2013-03-26 07:40:54"
+},
+{
+"kids":[],
+"uid":"2203856504",
+"parent":"",
+"text":"",
+"mid":"zpb08ygN8",
+"date":"2013-03-26 07:39:38"
+},
+{
+"kids":[
+"zpcbPstwM",
+"zpbF2tUeU"
+],
+"uid":"2770496155",
+"parent":"zp8uR8T0V",
+"text":"",
+"mid":"zp8YEf8Dv",
+"date":"2013-03-26 02:30:28"
+},
+{
+"kids":[],
+"uid":"2976119712",
+"parent":"",
+"text":"",
+"mid":"zp8TNr0zt",
+"date":"2013-03-26 02:18:32"
+},
+{
+"kids":[],
+"uid":"2937233847",
+"parent":"",
+"text":"",
+"mid":"zp8R7F06g",
+"date":"2013-03-26 02:11:57"
+},
+{
+"kids":[
+"zpdnolE0J"
+],
+"uid":"2067624407",
+"parent":"zp7X9FHP1",
+"text":"",
+"mid":"zp8MOwpxs",
+"date":"2013-03-26 02:01:20"
+},
+{
+"kids":[
+"zp8YEf8Dv"
+],
+"uid":"1829671682",
+"parent":"zp84SnfxO",
+"text":"",
+"mid":"zp8uR8T0V",
+"date":"2013-03-26 01:17:05"
+},
+{
+"kids":[],
+"uid":"wty308",
+"parent":"zp7X9FHP1",
+"text":"",
+"mid":"zp8ohC8WE",
+"date":"2013-03-26 01:00:55"
+},
+{
+"kids":[],
+"uid":"3135337255",
+"parent":"zp6hDisoh",
+"text":"才给1毛钱，真它妈的小气！",
+"mid":"zp8cFc7In",
+"date":"2013-03-26 00:32:13"
+},
+{
+"kids":[],
+"uid":"2975865150",
+"parent":"",
+"text":"",
+"mid":"zp85xtvBO",
+"date":"2013-03-26 00:14:42"
+},
+{
+"kids":[
+"zp8uR8T0V"
+],
+"uid":"1265273154",
+"parent":"zp7ZG2Mw1",
+"text":"",
+"mid":"zp84SnfxO",
+"date":"2013-03-26 00:13:01"
+},
+{
+"kids":[],
+"uid":"2739400621",
+"parent":"",
+"text":"/",
+"mid":"zp83X5bfO",
+"date":"2013-03-26 00:10:48"
+},
+{
+"kids":[
+"zpmqtcsxo",
+"zpdsPe0Ip",
+"zp84SnfxO"
+],
+"uid":"2177970834",
+"parent":"",
+"text":"转发微博。",
+"mid":"zp7ZG2Mw1",
+"date":"2013-03-26 00:00:16"
+},
+{
+"kids":[],
+"uid":"2427894340",
+"parent":"zp71TleLv",
+"text":"",
+"mid":"zp7YEt8kG",
+"date":"2013-03-25 23:57:42"
+},
+{
+"kids":[
+"zp8MOwpxs",
+"zp8ohC8WE"
+],
+"uid":"1743137760",
+"parent":"zp7WddAwI",
+"text":"[神马][神马][神马][神马]",
+"mid":"zp7X9FHP1",
+"date":"2013-03-25 23:54:04"
+},
+{
+"kids":[
+"zp7X9FHP1"
+],
+"uid":"1713608695",
+"parent":"",
+"text":"",
+"mid":"zp7WddAwI",
+"date":"2013-03-25 23:51:44"
+},
+{
+"kids":[
+"zpbXmkJsW"
+],
+"uid":"2424089053",
+"parent":"",
+"text":"发生在中国",
+"mid":"zp7QrkAD5",
+"date":"2013-03-25 23:37:32"
+},
+{
+"kids":[],
+"uid":"lsxat",
+"parent":"",
+"text":"",
+"mid":"zp7Pr2rMz",
+"date":"2013-03-25 23:34:59"
+},
+{
+"kids":[],
+"uid":"1985558961",
+"parent":"zp7KIcqZM",
+"text":"[爱心传递]",
+"mid":"zp7O0jNrm",
+"date":"2013-03-25 23:31:31"
+},
+{
+"kids":[],
+"uid":"3182372380",
+"parent":"zp3Qc38Nw",
+"text":"[爱心传递][爱心传递]",
+"mid":"zp7NG0b5v",
+"date":"2013-03-25 23:30:42"
+},
+{
+"kids":[
+"zp7O0jNrm"
+],
+"uid":"2021456095",
+"parent":"",
+"text":"",
+"mid":"zp7KIcqZM",
+"date":"2013-03-25 23:23:24"
+},
+{
+"kids":[],
+"uid":"2729547202",
+"parent":"",
+"text":"[心][心][心][心][心]",
+"mid":"zp7GSAF3O",
+"date":"2013-03-25 23:13:58"
+},
+{
+"kids":[],
+"uid":"3044968375",
+"parent":"",
+"text":"这个必须转",
+"mid":"zp7FLb6XU",
+"date":"2013-03-25 23:11:12"
+},
+{
+"kids":[],
+"uid":"1637602512",
+"parent":"",
+"text":"",
+"mid":"zp7lI1RSc",
+"date":"2013-03-25 22:21:48"
+},
+{
+"kids":[],
+"uid":"3062786321",
+"parent":"",
+"text":"",
+"mid":"zp7jW6b27",
+"date":"2013-03-25 22:17:24"
+},
+{
+"kids":[],
+"uid":"2652299624",
+"parent":"",
+"text":"",
+"mid":"zp76DEnxm",
+"date":"2013-03-25 21:44:41"
+},
+{
+"kids":[],
+"uid":"2774898667",
+"parent":"zp4uX5eTH",
+"text":"难过'再转",
+"mid":"zp766xFxG",
+"date":"2013-03-25 21:43:23"
+},
+{
+"kids":[],
+"uid":"2759125833",
+"parent":"zp6CObP4x",
+"text":"",
+"mid":"zp75X8bRA",
+"date":"2013-03-25 21:43:00"
+},
+{
+"kids":[],
+"uid":"2900573545",
+"parent":"",
+"text":"[可怜][moc顶]",
+"mid":"zp75nDwZ9",
+"date":"2013-03-25 21:41:35"
+},
+{
+"kids":[
+"zp7YEt8kG"
+],
+"uid":"2137412772",
+"parent":"",
+"text":"",
+"mid":"zp71TleLv",
+"date":"2013-03-25 21:32:59"
+},
+{
+"kids":[],
+"uid":"2457986875",
+"parent":"zp6Y462f8",
+"text":"看到这种老人家就想哭",
+"mid":"zp6ZBcBAL",
+"date":"2013-03-25 21:27:18"
+},
+{
+"kids":[],
+"uid":"2267629824",
+"parent":"",
+"text":"",
+"mid":"zp6Z1qZDo",
+"date":"2013-03-25 21:25:55"
+},
+{
+"kids":[
+"zp6ZBcBAL"
+],
+"uid":"2522958662",
+"parent":"",
+"text":"腾讯真的给钱的话刷屏都可以",
+"mid":"zp6Y462f8",
+"date":"2013-03-25 21:23:33"
+},
+{
+"kids":[],
+"uid":"2662207215",
+"parent":"",
+"text":"",
+"mid":"zp6JGB1tk",
+"date":"2013-03-25 20:48:08"
+},
+{
+"kids":[],
+"uid":"3047988674",
+"parent":"zp6b1qO81",
+"text":"",
+"mid":"zp6JlzQ9M",
+"date":"2013-03-25 20:47:18"
+},
+{
+"kids":[],
+"uid":"2880513907",
+"parent":"",
+"text":"@灬灬灬灬灬--逸泓为你而留 真的也好假的也好",
+"mid":"zp6GbFRwi",
+"date":"2013-03-25 20:39:28"
+},
+{
+"kids":[
+"zp75X8bRA"
+],
+"uid":"2880690424",
+"parent":"",
+"text":"",
+"mid":"zp6CObP4x",
+"date":"2013-03-25 20:31:11"
+},
+{
+"kids":[],
+"uid":"2673414171",
+"parent":"",
+"text":"",
+"mid":"zp6uYEvtK",
+"date":"2013-03-25 20:11:53"
+},
+{
+"kids":[],
+"uid":"3052258804",
+"parent":"",
+"text":"",
+"mid":"zp6toi8a7",
+"date":"2013-03-25 20:07:59"
+},
+{
+"kids":[],
+"uid":"yzaht",
+"parent":"",
+"text":"",
+"mid":"zp6rttdMM",
+"date":"2013-03-25 20:03:15"
+},
+{
+"kids":[],
+"uid":"2581890641",
+"parent":"",
+"text":"",
+"mid":"zp6nrc8uV",
+"date":"2013-03-25 19:53:17"
+},
+{
+"kids":[],
+"uid":"2107354672",
+"parent":"",
+"text":"",
+"mid":"zp6lz6IrC",
+"date":"2013-03-25 19:48:42"
+},
+{
+"kids":[
+"zp8cFc7In"
+],
+"uid":"83914733juju",
+"parent":"zp6b19cWV",
+"text":"",
+"mid":"zp6hDisoh",
+"date":"2013-03-25 19:39:01"
+},
+{
+"kids":[],
+"uid":"2055201271",
+"parent":"zp3m2u11G",
+"text":"[爱心传递][爱心传递]",
+"mid":"zp6fe7Lh7",
+"date":"2013-03-25 19:33:03"
+},
+{
+"kids":[
+"zp6JlzQ9M"
+],
+"uid":"2789720982",
+"parent":"zp1k1DVbm",
+"text":"",
+"mid":"zp6b1qO81",
+"date":"2013-03-25 19:22:42"
+},
+{
+"kids":[
+"zp6hDisoh"
+],
+"uid":"2919272280",
+"parent":"zp1k1DVbm",
+"text":"",
+"mid":"zp6b19cWV",
+"date":"2013-03-25 19:22:43"
+},
+{
+"kids":[],
+"uid":"2462535420",
+"parent":"",
+"text":"",
+"mid":"zp68PwdTx",
+"date":"2013-03-25 19:17:20"
+},
+{
+"kids":[],
+"uid":"2855060792",
+"parent":"",
+"text":"",
+"mid":"zp666fRWM",
+"date":"2013-03-25 19:10:36"
+},
+{
+"kids":[],
+"uid":"2247579140",
+"parent":"zp3P88Z8y",
+"text":"",
+"mid":"zp642i3qD",
+"date":"2013-03-25 19:05:31"
+},
+{
+"kids":[],
+"uid":"3025716487",
+"parent":"zp5XBC4sk",
+"text":"",
+"mid":"zp63mhrCj",
+"date":"2013-03-25 19:03:48"
+},
+{
+"kids":[
+"zp63mhrCj"
+],
+"uid":"2301973864",
+"parent":"",
+"text":"",
+"mid":"zp5XBC4sk",
+"date":"2013-03-25 18:49:42"
+},
+{
+"kids":[],
+"uid":"3084565273",
+"parent":"",
+"text":"腾讯微博要捐捐捐、还给自己做广告，真恶心",
+"mid":"zp5sGcodT",
+"date":"2013-03-25 17:33:29"
+},
+{
+"kids":[
+"zp766xFxG"
+],
+"uid":"yingyingemily",
+"parent":"zp3oPDDDQ",
+"text":"",
+"mid":"zp4uX5eTH",
+"date":"2013-03-25 15:06:18"
+},
+{
+"kids":[],
+"uid":"3168853915",
+"parent":"zp4ck06wA",
+"text":"@CCjoyous @Charlesli [蜡烛][蜡烛][蜡烛]",
+"mid":"zp4pi57zN",
+"date":"2013-03-25 14:52:23"
+},
+{
+"kids":[],
+"uid":"1890362721",
+"parent":"",
+"text":"",
+"mid":"zp4iDwUQL",
+"date":"2013-03-25 14:36:00"
+},
+{
+"kids":[],
+"uid":"206070797",
+"parent":"zp0PEtdKZ",
+"text":"",
+"mid":"zp4cxzuvI",
+"date":"2013-03-25 14:20:59"
+},
+{
+"kids":[
+"zp4pi57zN"
+],
+"uid":"1410564771",
+"parent":"zp3rqnguh",
+"text":"",
+"mid":"zp4ck06wA",
+"date":"2013-03-25 14:20:25"
+},
+{
+"kids":[],
+"uid":"2954902780",
+"parent":"zp3m2u11G",
+"text":"",
+"mid":"zp4aFdhIJ",
+"date":"2013-03-25 14:16:20"
+},
+{
+"kids":[],
+"uid":"2663924051",
+"parent":"zp4380LjO",
+"text":"[转发][给力]",
+"mid":"zp44ji3ea",
+"date":"2013-03-25 14:00:41"
+},
+{
+"kids":[],
+"uid":"3267877621",
+"parent":"zp3P88Z8y",
+"text":"",
+"mid":"zp43bhZTp",
+"date":"2013-03-25 13:57:56"
+},
+{
+"kids":[
+"zp44ji3ea"
+],
+"uid":"2863023810",
+"parent":"",
+"text":"",
+"mid":"zp4380LjO",
+"date":"2013-03-25 13:57:47"
+},
+{
+"kids":[],
+"uid":"2643073015",
+"parent":"zp3fT0mkU",
+"text":"愿老婆婆身体健康！[爱心传递][爱心传递][爱心传递]",
+"mid":"zp402xVu4",
+"date":"2013-03-25 13:50:11"
+},
+{
+"kids":[],
+"uid":"1941896544",
+"parent":"zp3Qc38Nw",
+"text":"",
+"mid":"zp3ZtDjQA",
+"date":"2013-03-25 13:48:48"
+},
+{
+"kids":[],
+"uid":"1844538603",
+"parent":"zp1PHw2KX",
+"text":"[围观][围观]",
+"mid":"zp3YV8k0c",
+"date":"2013-03-25 13:47:25"
+},
+{
+"kids":[],
+"uid":"1957859023",
+"parent":"",
+"text":"[爱心传递][爱心传递][爱心传递]",
+"mid":"zp3VJ79f5",
+"date":"2013-03-25 13:39:33"
+},
+{
+"kids":[],
+"uid":"1921936631",
+"parent":"",
+"text":"",
+"mid":"zp3Uyp4fw",
+"date":"2013-03-25 13:36:39"
+},
+{
+"kids":[],
+"uid":"2219763863",
+"parent":"",
+"text":"[爱你][爱你][爱你]",
+"mid":"zp3TtmbRD",
+"date":"2013-03-25 13:33:59"
+},
+{
+"kids":[],
+"uid":"2754228401",
+"parent":"",
+"text":"希望是真的/@严亮要坦荡荡:[心]",
+"mid":"zp3SMbljx",
+"date":"2013-03-25 13:32:18"
+},
+{
+"kids":[
+"zp7NG0b5v",
+"zp3ZtDjQA"
+],
+"uid":"619850126",
+"parent":"zp3CTCXmY",
+"text":"",
+"mid":"zp3Qc38Nw",
+"date":"2013-03-25 13:25:55"
+},
+{
+"kids":[
+"zp642i3qD",
+"zp43bhZTp"
+],
+"uid":"2285189954",
+"parent":"zp3m2u11G",
+"text":"",
+"mid":"zp3P88Z8y",
+"date":"2013-03-25 13:23:16"
+},
+{
+"kids":[],
+"uid":"3120204554",
+"parent":"",
+"text":"",
+"mid":"zp3NYBNmV",
+"date":"2013-03-25 13:20:28"
+},
+{
+"kids":[],
+"uid":"2396929062",
+"parent":"",
+"text":"",
+"mid":"zp3HsFWkm",
+"date":"2013-03-25 13:04:25"
+},
+{
+"kids":[],
+"uid":"2630945833",
+"parent":"",
+"text":"",
+"mid":"zp3Hi3SHU",
+"date":"2013-03-25 13:03:59"
+},
+{
+"kids":[],
+"uid":"3150895980",
+"parent":"zp3ofiKYo",
+"text":"",
+"mid":"zp3Eemjgu",
+"date":"2013-03-25 12:56:27"
+},
+{
+"kids":[
+"zp3Qc38Nw"
+],
+"uid":"2539288393",
+"parent":"zp3m2u11G",
+"text":"",
+"mid":"zp3CTCXmY",
+"date":"2013-03-25 12:53:09"
+},
+{
+"kids":[],
+"uid":"1812787323",
+"parent":"",
+"text":"",
+"mid":"zp3CbynqZ",
+"date":"2013-03-25 12:51:23"
+},
+{
+"kids":[],
+"uid":"3193004885",
+"parent":"",
+"text":"",
+"mid":"zp3wGBgoF",
+"date":"2013-03-25 12:37:51"
+},
+{
+"kids":[
+"zp4ck06wA"
+],
+"uid":"1722011610",
+"parent":"zp3oPDDDQ",
+"text":"",
+"mid":"zp3rqnguh",
+"date":"2013-03-25 12:24:54"
+},
+{
+"kids":[],
+"uid":"2249560370",
+"parent":"",
+"text":"大家爱心转起[心][爱心传递]",
+"mid":"zp3r06Ugu",
+"date":"2013-03-25 12:23:51"
+},
+{
+"kids":[],
+"uid":"2957859060",
+"parent":"",
+"text":"",
+"mid":"zp3pAi5iS",
+"date":"2013-03-25 12:20:21"
+},
+{
+"kids":[
+"zp4uX5eTH",
+"zp3rqnguh"
+],
+"uid":"1679716795",
+"parent":"zp3ofiKYo",
+"text":"",
+"mid":"zp3oPDDDQ",
+"date":"2013-03-25 12:18:31"
+},
+{
+"kids":[
+"zp3Eemjgu",
+"zp3oPDDDQ"
+],
+"uid":"mocha126",
+"parent":"",
+"text":"[蜡烛][蜡烛][蜡烛][蜡烛]",
+"mid":"zp3ofiKYo",
+"date":"2013-03-25 12:17:04"
+},
+{
+"kids":[
+"zs7dE6qwk",
+"zp6fe7Lh7",
+"zp4aFdhIJ",
+"zp3P88Z8y",
+"zp3CTCXmY"
+],
+"uid":"swxe",
+"parent":"",
+"text":"老奶奶加油…好嗎[爱心传递][爱心传递][爱心传递][爱心传递]",
+"mid":"zp3m2u11G",
+"date":"2013-03-25 12:11:36"
+},
+{
+"kids":[],
+"uid":"1764946394",
+"parent":"",
+"text":"希望这是真的把钱捐出来~",
+"mid":"zp3lZtKgG",
+"date":"2013-03-25 12:11:29"
+},
+{
+"kids":[],
+"uid":"1880855182",
+"parent":"",
+"text":"[愛心傳遞][愛心傳遞]",
+"mid":"zp3jPkV3b",
+"date":"2013-03-25 12:06:11"
+},
+{
+"kids":[],
+"uid":"1783522843",
+"parent":"",
+"text":"",
+"mid":"zp3ie7gQ2",
+"date":"2013-03-25 12:02:13"
+},
+{
+"kids":[
+"zp402xVu4"
+],
+"uid":"1900954810",
+"parent":"zp38wa2xm",
+"text":"",
+"mid":"zp3fT0mkU",
+"date":"2013-03-25 11:56:26"
+},
+{
+"kids":[],
+"uid":"2079248623",
+"parent":"zp2QelzDv",
+"text":"",
+"mid":"zp3fA7os8",
+"date":"2013-03-25 11:55:42"
+},
+{
+"kids":[],
+"uid":"1924122267",
+"parent":"",
+"text":"每次看到垃圾工破衣拉萨我对自己就有种负疚感",
+"mid":"zp3aTADdJ",
+"date":"2013-03-25 11:44:10"
+},
+{
+"kids":[
+"zp3fT0mkU"
+],
+"uid":"2237560290",
+"parent":"zp34vlne3",
+"text":"",
+"mid":"zp38wa2xm",
+"date":"2013-03-25 11:38:19"
+},
+{
+"kids":[],
+"uid":"2534327784",
+"parent":"",
+"text":"[心]",
+"mid":"zp38dwO6r",
+"date":"2013-03-25 11:37:35"
+},
+{
+"kids":[
+"zvMmnvCOp",
+"zpbm5iNnD",
+"zp38wa2xm"
+],
+"uid":"2118015744",
+"parent":"",
+"text":"",
+"mid":"zp34vlne3",
+"date":"2013-03-25 11:28:26"
+},
+{
+"kids":[],
+"uid":"2833584432",
+"parent":"",
+"text":"",
+"mid":"zp33KlgOR",
+"date":"2013-03-25 11:26:34"
+},
+{
+"kids":[],
+"uid":"2438532210",
+"parent":"",
+"text":"",
+"mid":"zp32UmzqN",
+"date":"2013-03-25 11:24:28"
+},
+{
+"kids":[],
+"uid":"2272323362",
+"parent":"zoYfxazk5",
+"text":"[泪]",
+"mid":"zp30o4KAD",
+"date":"2013-03-25 11:18:16"
+},
+{
+"kids":[],
+"uid":"2917067945",
+"parent":"",
+"text":"",
+"mid":"zp2Rz5lOR",
+"date":"2013-03-25 10:56:33"
+},
+{
+"kids":[
+"zp3fA7os8"
+],
+"uid":"1976659692",
+"parent":"",
+"text":"",
+"mid":"zp2QelzDv",
+"date":"2013-03-25 10:53:15"
+},
+{
+"kids":[],
+"uid":"2170686204",
+"parent":"",
+"text":"",
+"mid":"zp2Orvw1h",
+"date":"2013-03-25 10:48:51"
+},
+{
+"kids":[],
+"uid":"2376520875",
+"parent":"",
+"text":"转了，为什么不直接送温暖呢？",
+"mid":"zp2O2aFL0",
+"date":"2013-03-25 10:47:51"
+},
+{
+"kids":[],
+"uid":"2158018975",
+"parent":"",
+"text":"[心]",
+"mid":"zp2NNnZtF",
+"date":"2013-03-25 10:47:16"
+},
+{
+"kids":[
+"zqdhtzB9h",
+"zpYgTyUJA",
+"zpYgTyUGf",
+"zpb0Ea9UO"
+],
+"uid":"3179807014",
+"parent":"",
+"text":"希望老奶奶身体健康[心]",
+"mid":"zp2KibTKI",
+"date":"2013-03-25 10:38:38"
+},
+{
+"kids":[],
+"uid":"1820920051",
+"parent":"",
+"text":"",
+"mid":"zp2m30ThQ",
+"date":"2013-03-25 09:38:54"
+},
+{
+"kids":[],
+"uid":"2696682313",
+"parent":"",
+"text":"",
+"mid":"zp1ZXqArK",
+"date":"2013-03-25 08:44:28"
+},
+{
+"kids":[],
+"uid":"1293908221",
+"parent":"",
+"text":"[围观][围观][围观]",
+"mid":"zp1TRci5l",
+"date":"2013-03-25 08:29:27"
+},
+{
+"kids":[
+"zp3YV8k0c"
+],
+"uid":"2179158233",
+"parent":"",
+"text":"",
+"mid":"zp1PHw2KX",
+"date":"2013-03-25 08:19:13"
+},
+{
+"kids":[],
+"uid":"2308051883",
+"parent":"",
+"text":"",
+"mid":"zp1LtEM1l",
+"date":"2013-03-25 08:08:49"
+},
+{
+"kids":[],
+"uid":"2302773583",
+"parent":"",
+"text":"",
+"mid":"zp1I3di47",
+"date":"2013-03-25 08:00:22"
+},
+{
+"kids":[],
+"uid":"zfirej",
+"parent":"",
+"text":"",
+"mid":"zp1Hhmnqk",
+"date":"2013-03-25 07:58:27"
+},
+{
+"kids":[],
+"uid":"2678019942",
+"parent":"",
+"text":"噢？！",
+"mid":"zp1sX8Cf9",
+"date":"2013-03-25 07:23:10"
+},
+{
+"kids":[
+"zp6b1qO81",
+"zp6b19cWV"
+],
+"uid":"2243863707",
+"parent":"",
+"text":"",
+"mid":"zp1k1DVbm",
+"date":"2013-03-25 07:01:11"
+},
+{
+"kids":[],
+"uid":"735677464",
+"parent":"",
+"text":"[淚][淚][淚]",
+"mid":"zp1gup5ZT",
+"date":"2013-03-25 06:52:28"
+},
+{
+"kids":[
+"zp4cxzuvI"
+],
+"uid":"2644955011",
+"parent":"",
+"text":"",
+"mid":"zp0PEtdKZ",
+"date":"2013-03-25 05:46:21"
+},
+{
+"kids":[],
+"uid":"1778374482",
+"parent":"zoY7gqzvY",
+"text":"",
+"mid":"zoZWN4Agl",
+"date":"2013-03-25 03:31:11"
+},
+{
+"kids":[],
+"uid":"2789839480",
+"parent":"zoY7gqzvY",
+"text":"",
+"mid":"zoZWN4i6J",
+"date":"2013-03-25 03:31:11"
+},
+{
+"kids":[],
+"uid":"2412106192",
+"parent":"",
+"text":"",
+"mid":"zoZIYt6aD",
+"date":"2013-03-25 02:57:08"
+},
+{
+"kids":[],
+"uid":"2871706903",
+"parent":"",
+"text":"传递爱！",
+"mid":"zoZp28TEN",
+"date":"2013-03-25 02:08:01"
+},
+{
+"kids":[],
+"uid":"2560823125",
+"parent":"",
+"text":"",
+"mid":"zoZmdcpuD",
+"date":"2013-03-25 02:01:03"
+},
+{
+"kids":[],
+"uid":"3029017113",
+"parent":"",
+"text":"",
+"mid":"zoZ485IWU",
+"date":"2013-03-25 01:16:31"
+},
+{
+"kids":[],
+"uid":"2320500274",
+"parent":"",
+"text":"",
+"mid":"zoYVx3bS5",
+"date":"2013-03-25 00:55:20"
+},
+{
+"kids":[],
+"uid":"2751176385",
+"parent":"",
+"text":"",
+"mid":"zoYVlbVcu",
+"date":"2013-03-25 00:54:50"
+},
+{
+"kids":[],
+"uid":"2830204712",
+"parent":"",
+"text":"大家爱心转起[心][爱心传递]",
+"mid":"zoYVgs6sV",
+"date":"2013-03-25 00:54:41"
+},
+{
+"kids":[],
+"uid":"1780202093",
+"parent":"",
+"text":"",
+"mid":"zoYEjmQSO",
+"date":"2013-03-25 00:12:55"
+},
+{
+"kids":[],
+"uid":"2081849535",
+"parent":"",
+"text":"愿老奶奶健康长寿。。[悲伤][悲伤]",
+"mid":"zoYu9r0Au",
+"date":"2013-03-24 23:47:52"
+},
+{
+"kids":[],
+"uid":"1798016593",
+"parent":"",
+"text":"",
+"mid":"zoYtdeUo0",
+"date":"2013-03-24 23:45:34"
+},
+{
+"kids":[],
+"uid":"2289151535",
+"parent":"",
+"text":"",
+"mid":"zoYrq8D07",
+"date":"2013-03-24 23:41:09"
+},
+{
+"kids":[],
+"uid":"2751046353",
+"parent":"",
+"text":"",
+"mid":"zoYqGii7e",
+"date":"2013-03-24 23:39:17"
+},
+{
+"kids":[],
+"uid":"2121955130",
+"parent":"",
+"text":"",
+"mid":"zoYnsvID4",
+"date":"2013-03-24 23:31:24"
+},
+{
+"kids":[],
+"uid":"2668583211",
+"parent":"",
+"text":"",
+"mid":"zoYhSdW5Z",
+"date":"2013-03-24 23:17:38"
+},
+{
+"kids":[
+"zp30o4KAD"
+],
+"uid":"2840118630",
+"parent":"",
+"text":"[伤心]",
+"mid":"zoYfxazk5",
+"date":"2013-03-24 23:11:53"
+},
+{
+"kids":[],
+"uid":"1252319562",
+"parent":"",
+"text":"",
+"mid":"zoYe2CF91",
+"date":"2013-03-24 23:08:10"
+},
+{
+"kids":[],
+"uid":"1950688140",
+"parent":"zoXY82rEy",
+"text":"真会给她钱吗",
+"mid":"zoYaT3PGL",
+"date":"2013-03-24 23:00:25"
+},
+{
+"kids":[],
+"uid":"2874208732",
+"parent":"",
+"text":"就不知道转了那一毛的百分几到人老奶奶手",
+"mid":"zoY8PnYqS",
+"date":"2013-03-24 22:55:19"
+},
+{
+"kids":[
+"zpGj4sZ0c"
+],
+"uid":"2901407951",
+"parent":"",
+"text":"社会须要大家，好的社会更须要有爱的大家。",
+"mid":"zoY7qbPkR",
+"date":"2013-03-24 22:51:54"
+},
+{
+"kids":[
+"zoZWN4Agl",
+"zoZWN4i6J"
+],
+"uid":"1650073187",
+"parent":"",
+"text":"送上祝福",
+"mid":"zoY7gqzvY",
+"date":"2013-03-24 22:51:30"
+},
+{
+"kids":[],
+"uid":"2606591711",
+"parent":"",
+"text":"",
+"mid":"zoY5tnx4K",
+"date":"2013-03-24 22:47:05"
+},
+{
+"kids":[],
+"uid":"3032072184",
+"parent":"",
+"text":"",
+"mid":"zoY4O0uIv",
+"date":"2013-03-24 22:45:24"
+},
+{
+"kids":[],
+"uid":"2285656554",
+"parent":"",
+"text":"",
+"mid":"zoY3BvSdz",
+"date":"2013-03-24 22:42:29"
+},
+{
+"kids":[],
+"uid":"2952984067",
+"parent":"zoY0aaSpm",
+"text":"",
+"mid":"zoY1H1Hbc",
+"date":"2013-03-24 22:37:46"
+},
+{
+"kids":[],
+"uid":"2851824344",
+"parent":"",
+"text":"转发微博。",
+"mid":"zoY1p2Spb",
+"date":"2013-03-24 22:37:03"
+},
+{
+"kids":[],
+"uid":"3190109211",
+"parent":"",
+"text":"",
+"mid":"zoY1jp5F1",
+"date":"2013-03-24 22:36:50"
+},
+{
+"kids":[
+"zoY1H1Hbc"
+],
+"uid":"1854550081",
+"parent":"",
+"text":"",
+"mid":"zoY0aaSpm",
+"date":"2013-03-24 22:34:01"
+},
+{
+"kids":[],
+"uid":"marshall94",
+"parent":"",
+"text":"转发微博。",
+"mid":"zoXZUfGmC",
+"date":"2013-03-24 22:33:22"
+},
+{
+"kids":[],
+"uid":"loverainbow1974",
+"parent":"",
+"text":"让人敬重。",
+"mid":"zoXZo26sD",
+"date":"2013-03-24 22:32:05"
+},
+{
+"kids":[],
+"uid":"1836108235",
+"parent":"",
+"text":"",
+"mid":"zoXZ03mhw",
+"date":"2013-03-24 22:31:07"
+},
+{
+"kids":[],
+"uid":"1843352435",
+"parent":"",
+"text":"",
+"mid":"zoXYiDKla",
+"date":"2013-03-24 22:29:23"
+},
+{
+"kids":[
+"zoYaT3PGL"
+],
+"uid":"1637582141",
+"parent":"",
+"text":"",
+"mid":"zoXY82rEy",
+"date":"2013-03-24 22:28:59"
+},
+{
+"kids":[],
+"uid":"2539361233",
+"parent":"",
+"text":"转发微博。",
+"mid":"zoXXbwbSZ",
+"date":"2013-03-24 22:26:37"
+},
+{
+"kids":[],
+"uid":"1111029842",
+"parent":"",
+"text":"",
+"mid":"zoXX8dAy9",
+"date":"2013-03-24 22:26:32"
+},
+{
+"kids":[],
+"uid":"3255935220",
+"parent":"",
+"text":"",
+"mid":"zoXWIgJQ9",
+"date":"2013-03-24 22:25:30"
+},
+{
+"kids":[],
+"uid":"2631203150",
+"parent":"",
+"text":"",
+"mid":"zoXWb7isj",
+"date":"2013-03-24 22:24:11"
+},
+{
+"kids":[],
+"uid":"1812956422",
+"parent":"",
+"text":"",
+"mid":"zoXVUCxof",
+"date":"2013-03-24 22:23:32"
+},
+{
+"kids":[],
+"uid":"1866818433",
+"parent":"",
+"text":"愿老人家身体康健[蜡烛]",
+"mid":"zoXVfg57a",
+"date":"2013-03-24 22:21:53"
+},
+{
+"kids":[],
+"uid":"2374893432",
+"parent":"",
+"text":"",
+"mid":"zoXUEy4oj",
+"date":"2013-03-24 22:20:25"
+},
+{
+"kids":[],
+"uid":"3232745940",
+"parent":"",
+"text":"",
+"mid":"zoXUDof7n",
+"date":"2013-03-24 22:20:24"
+},
+{
+"kids":[],
+"uid":"2817719161",
+"parent":"",
+"text":"",
+"mid":"zoXUvptEo",
+"date":"2013-03-24 22:20:04"
+},
+{
+"kids":[],
+"uid":"3034819823",
+"parent":"",
+"text":"善良的人都转吧！",
+"mid":"zoXUej47a",
+"date":"2013-03-24 22:19:21"
+},
+{
+"kids":[],
+"uid":"2384694485",
+"parent":"",
+"text":"",
+"mid":"zoXU32nNI",
+"date":"2013-03-24 22:18:55"
+},
+{
+"kids":[],
+"uid":"huangxianbo999",
+"parent":"",
+"text":"",
+"mid":"zoXTUbofH",
+"date":"2013-03-24 22:18:32"
+}
+]

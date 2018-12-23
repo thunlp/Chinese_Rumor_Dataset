@@ -1,0 +1,1778 @@
+[
+{
+"kids":[],
+"uid":"2805306374",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"zdEBZFqPU",
+"date":"2013-01-09 12:58:55"
+},
+{
+"kids":[],
+"uid":"2789978804",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"zcq44g4Nt",
+"date":"2013-01-01 10:06:35"
+},
+{
+"kids":[],
+"uid":"1777404274",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"zbCtkuLNK",
+"date":"2012-12-27 03:51:28"
+},
+{
+"kids":[],
+"uid":"2804201722",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"zbx9hFxk5",
+"date":"2012-12-26 14:18:22"
+},
+{
+"kids":[],
+"uid":"2919327190",
+"parent":"z7S5gB7Yr",
+"text":"",
+"mid":"zbkYzlzMG",
+"date":"2012-12-25 07:18:59"
+},
+{
+"kids":[],
+"uid":"2789836380",
+"parent":"z7S5gB7Yr",
+"text":"",
+"mid":"zbaecfSGY",
+"date":"2012-12-24 03:57:17"
+},
+{
+"kids":[],
+"uid":"2789794690",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"zasSllMQn",
+"date":"2012-12-19 13:35:18"
+},
+{
+"kids":[],
+"uid":"1583875764",
+"parent":"z7S5gB7Yr",
+"text":"",
+"mid":"zapFQpErg",
+"date":"2012-12-19 05:26:18"
+},
+{
+"kids":[],
+"uid":"2803273162",
+"parent":"z7R1ZxGPE",
+"text":"",
+"mid":"zahUb7Gr0",
+"date":"2012-12-18 09:39:38"
+},
+{
+"kids":[],
+"uid":"2804913064",
+"parent":"z7S5gB7Yr",
+"text":"",
+"mid":"zahFgtQh8",
+"date":"2012-12-18 09:02:53"
+},
+{
+"kids":[],
+"uid":"2789719984",
+"parent":"z7S5gB7Yr",
+"text":"",
+"mid":"zahFgcf7s",
+"date":"2012-12-18 09:02:52"
+},
+{
+"kids":[],
+"uid":"2790077242",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"zagxrgi3q",
+"date":"2012-12-18 06:10:51"
+},
+{
+"kids":[],
+"uid":"1583746364",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"zagxqDRRW",
+"date":"2012-12-18 06:10:50"
+},
+{
+"kids":[],
+"uid":"2920591792",
+"parent":"z7R1ZxGPE",
+"text":"",
+"mid":"za7Dky0xt",
+"date":"2012-12-17 07:30:40"
+},
+{
+"kids":[],
+"uid":"2919404144",
+"parent":"z7R1ZxGPE",
+"text":"",
+"mid":"za7Dky0wt",
+"date":"2012-12-17 07:30:40"
+},
+{
+"kids":[],
+"uid":"2920395582",
+"parent":"z9oRY9KfY",
+"text":"",
+"mid":"z9uuXzgYb",
+"date":"2012-12-13 03:52:55"
+},
+{
+"kids":[],
+"uid":"2919659824",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"z9uo4hjRs",
+"date":"2012-12-13 03:35:56"
+},
+{
+"kids":[
+"z9uuXzgYb"
+],
+"uid":"2655418251",
+"parent":"",
+"text":"",
+"mid":"z9oRY9KfY",
+"date":"2012-12-12 13:33:08"
+},
+{
+"kids":[],
+"uid":"2919540312",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"z9nz03PuC",
+"date":"2012-12-12 10:13:38"
+},
+{
+"kids":[],
+"uid":"2919583544",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"z9nz02ufb",
+"date":"2012-12-12 10:13:38"
+},
+{
+"kids":[],
+"uid":"2809547852",
+"parent":"z7RdpcAFT",
+"text":"",
+"mid":"z9fcxxiF7",
+"date":"2012-12-11 12:56:19"
+},
+{
+"kids":[],
+"uid":"1562246480",
+"parent":"z7RdpcAFT",
+"text":"",
+"mid":"z9fcxvuxB",
+"date":"2012-12-11 12:56:19"
+},
+{
+"kids":[],
+"uid":"2920150122",
+"parent":"z7R1ZxGPE",
+"text":"",
+"mid":"z9doLEbn5",
+"date":"2012-12-11 08:20:58"
+},
+{
+"kids":[],
+"uid":"2919305764",
+"parent":"z7R1ZxGPE",
+"text":"",
+"mid":"z9doLCFYc",
+"date":"2012-12-11 08:20:57"
+},
+{
+"kids":[],
+"uid":"2920648380",
+"parent":"z7RdpcAFT",
+"text":"",
+"mid":"z8Snsnp8u",
+"date":"2012-12-09 02:50:03"
+},
+{
+"kids":[],
+"uid":"2920126350",
+"parent":"z7QTfjyVV",
+"text":"",
+"mid":"z8RLykLcJ",
+"date":"2012-12-09 01:16:40"
+},
+{
+"kids":[],
+"uid":"2919773830",
+"parent":"z7QTfjyVV",
+"text":"",
+"mid":"z8RLykLbB",
+"date":"2012-12-09 01:16:40"
+},
+{
+"kids":[],
+"uid":"2789802380",
+"parent":"z7QTfjyVV",
+"text":"",
+"mid":"z8MNr6h2b",
+"date":"2012-12-08 12:37:34"
+},
+{
+"kids":[],
+"uid":"1584043620",
+"parent":"z7RdpcAFT",
+"text":"",
+"mid":"z8Jhokp0U",
+"date":"2012-12-08 03:40:23"
+},
+{
+"kids":[],
+"uid":"1440411210",
+"parent":"z7RdpcAFT",
+"text":"",
+"mid":"z8JhojC3b",
+"date":"2012-12-08 03:40:23"
+},
+{
+"kids":[],
+"uid":"2879137760",
+"parent":"",
+"text":"",
+"mid":"z8FsEmyeN",
+"date":"2012-12-07 17:57:08"
+},
+{
+"kids":[],
+"uid":"1723163997",
+"parent":"z7R2Z0Gwq",
+"text":"",
+"mid":"z8FdCDWjl",
+"date":"2012-12-07 17:20:06"
+},
+{
+"kids":[],
+"uid":"2189638204",
+"parent":"",
+"text":"震惊！！",
+"mid":"z8Fb7h25e",
+"date":"2012-12-07 17:13:54"
+},
+{
+"kids":[],
+"uid":"2804929220",
+"parent":"z8ssOfr50",
+"text":"",
+"mid":"z8AbwmwIw",
+"date":"2012-12-07 04:31:11"
+},
+{
+"kids":[],
+"uid":"1583070971",
+"parent":"",
+"text":"",
+"mid":"z8z6D8ZSO",
+"date":"2012-12-07 01:46:24"
+},
+{
+"kids":[],
+"uid":"2509534083",
+"parent":"z7RFPyX5Y",
+"text":"真的假的？",
+"mid":"z8xYWui0M",
+"date":"2012-12-06 22:54:43"
+},
+{
+"kids":[],
+"uid":"1623835751",
+"parent":"z8swgsYaA",
+"text":"@酱油MODE @元素小平头 @哇呗呗 求证",
+"mid":"z8wH7f3Mv",
+"date":"2012-12-06 19:38:03"
+},
+{
+"kids":[],
+"uid":"cai80",
+"parent":"",
+"text":"",
+"mid":"z8urWArVH",
+"date":"2012-12-06 13:55:10"
+},
+{
+"kids":[
+"z8wH7f3Mv"
+],
+"uid":"1237822552",
+"parent":"",
+"text":"转发微博。",
+"mid":"z8swgsYaA",
+"date":"2012-12-06 09:00:20"
+},
+{
+"kids":[
+"zdEBZFqPU",
+"zcq44g4Nt",
+"zbCtkuLNK",
+"zbx9hFxk5",
+"zasSllMQn",
+"zagxrgi3q",
+"zagxqDRRW",
+"z9uo4hjRs",
+"z9nz03PuC",
+"z9nz02ufb",
+"z8AbwmwIw"
+],
+"uid":"1862681210",
+"parent":"",
+"text":"",
+"mid":"z8ssOfr50",
+"date":"2012-12-06 08:51:49"
+},
+{
+"kids":[],
+"uid":"2920089590",
+"parent":"z7Ul9h3IT",
+"text":"",
+"mid":"z8rPWcLqC",
+"date":"2012-12-06 07:16:02"
+},
+{
+"kids":[],
+"uid":"1583082134",
+"parent":"z7WAE3Mpq",
+"text":"",
+"mid":"z8pw6hgpi",
+"date":"2012-12-06 01:21:41"
+},
+{
+"kids":[],
+"uid":"2809228304",
+"parent":"z7WAE3Mpq",
+"text":"",
+"mid":"z8pw6fExQ",
+"date":"2012-12-06 01:21:41"
+},
+{
+"kids":[],
+"uid":"1583066984",
+"parent":"z7WAE3Mpq",
+"text":"",
+"mid":"z8oCSpDRz",
+"date":"2012-12-05 23:05:37"
+},
+{
+"kids":[],
+"uid":"1582734080",
+"parent":"z7WAE3Mpq",
+"text":"",
+"mid":"z8oCSonae",
+"date":"2012-12-05 23:05:36"
+},
+{
+"kids":[],
+"uid":"2805615032",
+"parent":"z7SdMD6Rr",
+"text":"",
+"mid":"z8o4S4Ymh",
+"date":"2012-12-05 21:41:48"
+},
+{
+"kids":[],
+"uid":"1588001155",
+"parent":"z7SdMD6Rr",
+"text":"",
+"mid":"z8o4S3Zag",
+"date":"2012-12-05 21:41:51"
+},
+{
+"kids":[],
+"uid":"2920010314",
+"parent":"z7R2Z0Gwq",
+"text":"",
+"mid":"z8nS9pd6o",
+"date":"2012-12-05 21:10:29"
+},
+{
+"kids":[],
+"uid":"2919951674",
+"parent":"",
+"text":"",
+"mid":"z8lYCfREJ",
+"date":"2012-12-05 16:20:56"
+},
+{
+"kids":[],
+"uid":"2789840264",
+"parent":"z82mDkJcf",
+"text":"",
+"mid":"z8igIksaV",
+"date":"2012-12-05 06:54:32"
+},
+{
+"kids":[],
+"uid":"2919662132",
+"parent":"z7R2Z0Gwq",
+"text":"",
+"mid":"z89Rbwkpk",
+"date":"2012-12-04 09:29:39"
+},
+{
+"kids":[],
+"uid":"2807966162",
+"parent":"z7R2Z0Gwq",
+"text":"",
+"mid":"z89RbuWQi",
+"date":"2012-12-04 09:29:41"
+},
+{
+"kids":[],
+"uid":"2920552174",
+"parent":"z801IBFQN",
+"text":"",
+"mid":"z87bjuMQa",
+"date":"2012-12-04 02:41:01"
+},
+{
+"kids":[],
+"uid":"2920499824",
+"parent":"",
+"text":"",
+"mid":"z86ZBudVp",
+"date":"2012-12-04 02:12:11"
+},
+{
+"kids":[],
+"uid":"2919362560",
+"parent":"",
+"text":"",
+"mid":"z86ZBudUJ",
+"date":"2012-12-04 02:12:11"
+},
+{
+"kids":[],
+"uid":"2919406400",
+"parent":"",
+"text":"",
+"mid":"z86Y1E1jd",
+"date":"2012-12-04 02:08:18"
+},
+{
+"kids":[],
+"uid":"1439655742",
+"parent":"",
+"text":"",
+"mid":"z86Y1E1iC",
+"date":"2012-12-04 02:08:18"
+},
+{
+"kids":[
+"z8igIksaV"
+],
+"uid":"2800901640",
+"parent":"",
+"text":"",
+"mid":"z82mDkJcf",
+"date":"2012-12-03 14:25:11"
+},
+{
+"kids":[],
+"uid":"zufu",
+"parent":"z7RGJoZJ7",
+"text":"这么恐怖？",
+"mid":"z81aMmtIY",
+"date":"2012-12-03 11:23:14"
+},
+{
+"kids":[],
+"uid":"3169429523",
+"parent":"z7RFPyX5Y",
+"text":"",
+"mid":"z80Xkdes7",
+"date":"2012-12-03 10:50:05"
+},
+{
+"kids":[],
+"uid":"1265537175",
+"parent":"z7RNYggnx",
+"text":"回去就把微波炉给砸了~",
+"mid":"z80vGFGZA",
+"date":"2012-12-03 09:42:00"
+},
+{
+"kids":[],
+"uid":"1777038473",
+"parent":"z801IBFQN",
+"text":"@mo8986 Sorry...只微波炉物归原主啦，哇哈哈哈[江南style]",
+"mid":"z80mPDPeU",
+"date":"2012-12-03 09:20:10"
+},
+{
+"kids":[
+"z87bjuMQa",
+"z80mPDPeU"
+],
+"uid":"myhut",
+"parent":"z7RufwDZE",
+"text":"@GMin_Wang 经证实，此内容不实……",
+"mid":"z801IBFQN",
+"date":"2012-12-03 08:28:10"
+},
+{
+"kids":[],
+"uid":"1778195220",
+"parent":"z7UgSvtil",
+"text":"",
+"mid":"z7ZH5oGlg",
+"date":"2012-12-03 07:37:19"
+},
+{
+"kids":[],
+"uid":"1579700705",
+"parent":"z7UnCko5H",
+"text":"",
+"mid":"z7ZpiBNcM",
+"date":"2012-12-03 06:53:31"
+},
+{
+"kids":[],
+"uid":"2919572132",
+"parent":"z7UnCko5H",
+"text":"",
+"mid":"z7ZpiAEQg",
+"date":"2012-12-03 06:53:31"
+},
+{
+"kids":[],
+"uid":"2804717672",
+"parent":"z7RXDbO35",
+"text":"",
+"mid":"z7ZoNA9eC",
+"date":"2012-12-03 06:52:16"
+},
+{
+"kids":[],
+"uid":"2919969334",
+"parent":"z7S9epUbM",
+"text":"",
+"mid":"z7X3YbmUB",
+"date":"2012-12-03 00:55:29"
+},
+{
+"kids":[],
+"uid":"2920337152",
+"parent":"z7QTfjyVV",
+"text":"",
+"mid":"z7WOIjMsn",
+"date":"2012-12-03 00:17:50"
+},
+{
+"kids":[],
+"uid":"2919820560",
+"parent":"z7QTfjyVV",
+"text":"",
+"mid":"z7WOIjayG",
+"date":"2012-12-03 00:17:54"
+},
+{
+"kids":[
+"z8pw6hgpi",
+"z8pw6fExQ",
+"z8oCSpDRz",
+"z8oCSonae"
+],
+"uid":"netgear517",
+"parent":"z7UnCko5H",
+"text":"",
+"mid":"z7WAE3Mpq",
+"date":"2012-12-02 23:43:13"
+},
+{
+"kids":[],
+"uid":"2302015704",
+"parent":"z7TmntvVh",
+"text":"以后 中午不带饭了？@小黑家的小墩",
+"mid":"z7VZqfUgM",
+"date":"2012-12-02 22:11:31"
+},
+{
+"kids":[],
+"uid":"2789760792",
+"parent":"z7RdpcAFT",
+"text":"",
+"mid":"z7VWhdmAz",
+"date":"2012-12-02 22:03:43"
+},
+{
+"kids":[],
+"uid":"1583725392",
+"parent":"z7RdpcAFT",
+"text":"",
+"mid":"z7VWhdmxP",
+"date":"2012-12-02 22:03:46"
+},
+{
+"kids":[],
+"uid":"summerinlondon",
+"parent":"z7TX0DcBU",
+"text":"瞎扯的，不用信。危害没有那么夸张，但确实有不好的地方。",
+"mid":"z7VSqa4Kd",
+"date":"2012-12-02 21:54:16"
+},
+{
+"kids":[],
+"uid":"2694980154",
+"parent":"",
+"text":"",
+"mid":"z7V7s3ZGQ",
+"date":"2012-12-02 19:58:33"
+},
+{
+"kids":[],
+"uid":"wishesatlas",
+"parent":"z7RL9z3hY",
+"text":"不是吧！这么严重！",
+"mid":"z7V6SlNHU",
+"date":"2012-12-02 19:57:08"
+},
+{
+"kids":[],
+"uid":"2255995442",
+"parent":"z7QWHwrjm",
+"text":"",
+"mid":"z7UYT8e6P",
+"date":"2012-12-02 19:37:26"
+},
+{
+"kids":[],
+"uid":"1769717087",
+"parent":"z7RGJoZJ7",
+"text":"@Erra2010 @始终在学习",
+"mid":"z7UOQsYsc",
+"date":"2012-12-02 19:12:43"
+},
+{
+"kids":[],
+"uid":"wusongdahu",
+"parent":"z7UBn9r5t",
+"text":"没文化真可怕呀",
+"mid":"z7UHWjl7A",
+"date":"2012-12-02 18:55:42"
+},
+{
+"kids":[
+"z7UHWjl7A"
+],
+"uid":"ichbins",
+"parent":"z7RMWphxC",
+"text":"胡说八道的呀，党教育我们要不信谣不传谣。。。[思考]",
+"mid":"z7UBn9r5t",
+"date":"2012-12-02 18:39:31"
+},
+{
+"kids":[],
+"uid":"1450318227",
+"parent":"",
+"text":"无稽之谈，一看就知道是从来没有去过德国的。",
+"mid":"z7Ut6c00E",
+"date":"2012-12-02 18:19:08"
+},
+{
+"kids":[],
+"uid":"2774559253",
+"parent":"",
+"text":"http:",
+"mid":"z7Usp3fqL",
+"date":"2012-12-02 18:17:25"
+},
+{
+"kids":[],
+"uid":"2062780153",
+"parent":"z7UnCko5H",
+"text":"",
+"mid":"z7UqwBRaw",
+"date":"2012-12-02 18:12:47"
+},
+{
+"kids":[],
+"uid":"3170285287",
+"parent":"",
+"text":"太恐怖了",
+"mid":"z7UocnuYY",
+"date":"2012-12-02 18:07:04"
+},
+{
+"kids":[
+"z7ZpiBNcM",
+"z7ZpiAEQg",
+"z7WAE3Mpq",
+"z7UqwBRaw"
+],
+"uid":"1402061984",
+"parent":"",
+"text":"求证",
+"mid":"z7UnCko5H",
+"date":"2012-12-02 18:05:35"
+},
+{
+"kids":[],
+"uid":"2133866674",
+"parent":"",
+"text":"",
+"mid":"z7Ulxtt2k",
+"date":"2012-12-02 18:00:28"
+},
+{
+"kids":[
+"z8rPWcLqC"
+],
+"uid":"3155069103",
+"parent":"",
+"text":"",
+"mid":"z7Ul9h3IT",
+"date":"2012-12-02 17:59:31"
+},
+{
+"kids":[],
+"uid":"2628016801",
+"parent":"",
+"text":"",
+"mid":"z7UhC0NJA",
+"date":"2012-12-02 17:50:50"
+},
+{
+"kids":[
+"z7ZH5oGlg"
+],
+"uid":"3170512075",
+"parent":"",
+"text":"",
+"mid":"z7UgSvtil",
+"date":"2012-12-02 17:49:02"
+},
+{
+"kids":[],
+"uid":"1950841265",
+"parent":"",
+"text":"",
+"mid":"z7Ugp0Dyr",
+"date":"2012-12-02 17:47:49"
+},
+{
+"kids":[],
+"uid":"3065320835",
+"parent":"",
+"text":"http:",
+"mid":"z7Uch7eBd",
+"date":"2012-12-02 17:37:38"
+},
+{
+"kids":[],
+"uid":"1994497871",
+"parent":"z7QXVukj1",
+"text":"",
+"mid":"z7UbPBYhH",
+"date":"2012-12-02 17:36:37"
+},
+{
+"kids":[],
+"uid":"2100136267",
+"parent":"",
+"text":"@明宣宣",
+"mid":"z7Ub2dDdU",
+"date":"2012-12-02 17:34:36"
+},
+{
+"kids":[],
+"uid":"1863870814",
+"parent":"",
+"text":"我还没有享受过微波炉带来的好处，就看到这么恐怖的新闻，微波炉停止使用的最好办法应该是回收及停止生产才是。",
+"mid":"z7U92pOUn",
+"date":"2012-12-02 17:29:41"
+},
+{
+"kids":[],
+"uid":"1765621004",
+"parent":"",
+"text":"不是真的吧 http:",
+"mid":"z7U6pCgGl",
+"date":"2012-12-02 17:23:14"
+},
+{
+"kids":[],
+"uid":"2512199684",
+"parent":"",
+"text":"http:",
+"mid":"z7U63tvxv",
+"date":"2012-12-02 17:22:22"
+},
+{
+"kids":[],
+"uid":"2294646472",
+"parent":"",
+"text":"",
+"mid":"z7U5g8udU",
+"date":"2012-12-02 17:20:25"
+},
+{
+"kids":[],
+"uid":"3170516505",
+"parent":"",
+"text":"",
+"mid":"z7U57eKgJ",
+"date":"2012-12-02 17:20:01"
+},
+{
+"kids":[],
+"uid":"xiguachris",
+"parent":"z7TX0DcBU",
+"text":"真的假的[衰]",
+"mid":"z7U2P6oVr",
+"date":"2012-12-02 17:14:24"
+},
+{
+"kids":[
+"z7VSqa4Kd",
+"z7U2P6oVr"
+],
+"uid":"chuhenliu",
+"parent":"z7RL9z3hY",
+"text":"我唯一害怕的东西就是微波炉，总觉得会爆炸，别人用我也必须躲出去。所以现在家里根本没有这玩意",
+"mid":"z7TX0DcBU",
+"date":"2012-12-02 17:00:05"
+},
+{
+"kids":[],
+"uid":"persiawind",
+"parent":"",
+"text":"骗人的，不晓得哪个吃饱了撑的写的",
+"mid":"z7TImyJsL",
+"date":"2012-12-02 16:24:00"
+},
+{
+"kids":[],
+"uid":"2837431240",
+"parent":"z7RFPyX5Y",
+"text":"",
+"mid":"z7TH1fGvb",
+"date":"2012-12-02 16:20:41"
+},
+{
+"kids":[],
+"uid":"2190272873",
+"parent":"",
+"text":"http:",
+"mid":"z7TvFF1R8",
+"date":"2012-12-02 15:52:44"
+},
+{
+"kids":[],
+"uid":"1959362413",
+"parent":"",
+"text":"？？？@谣言粉碎机",
+"mid":"z7Tqq0Wbe",
+"date":"2012-12-02 15:39:47"
+},
+{
+"kids":[],
+"uid":"2091874562",
+"parent":"",
+"text":"次奥 @千变万化_大彤世界",
+"mid":"z7TnL9DOy",
+"date":"2012-12-02 15:33:12"
+},
+{
+"kids":[
+"z7VZqfUgM"
+],
+"uid":"2218682464",
+"parent":"z7TiVwjge",
+"text":"[闭嘴][吃惊][衰]",
+"mid":"z7TmntvVh",
+"date":"2012-12-02 15:29:48"
+},
+{
+"kids":[
+"z7TmntvVh"
+],
+"uid":"1990052975",
+"parent":"",
+"text":"我们也刚换了新的",
+"mid":"z7TiVwjge",
+"date":"2012-12-02 15:21:20"
+},
+{
+"kids":[],
+"uid":"xfleo",
+"parent":"",
+"text":"扯蛋的",
+"mid":"z7SKauwZB",
+"date":"2012-12-02 13:55:42"
+},
+{
+"kids":[],
+"uid":"2783630625",
+"parent":"",
+"text":"",
+"mid":"z7SGiepDH",
+"date":"2012-12-02 13:46:09"
+},
+{
+"kids":[],
+"uid":"3106243067",
+"parent":"",
+"text":"希望专业人士来辟谣！",
+"mid":"z7SD3AhEI",
+"date":"2012-12-02 13:38:11"
+},
+{
+"kids":[],
+"uid":"2099133680",
+"parent":"",
+"text":"http:",
+"mid":"z7SBF3Wjx",
+"date":"2012-12-02 13:34:42"
+},
+{
+"kids":[],
+"uid":"1843771614",
+"parent":"z7RFPyX5Y",
+"text":"[汗][汗][汗]@朵朵外婆 你昨天刚换新的。。",
+"mid":"z7SBc7Buw",
+"date":"2012-12-02 13:33:35"
+},
+{
+"kids":[],
+"uid":"2081086837",
+"parent":"z7QSToL1N",
+"text":"",
+"mid":"z7Str1Qhx",
+"date":"2012-12-02 13:14:28"
+},
+{
+"kids":[],
+"uid":"1845591303",
+"parent":"",
+"text":"",
+"mid":"z7Soxw7HT",
+"date":"2012-12-02 13:02:25"
+},
+{
+"kids":[],
+"uid":"2876557224",
+"parent":"",
+"text":"",
+"mid":"z7Smjx0Ap",
+"date":"2012-12-02 12:56:54"
+},
+{
+"kids":[
+"z8o4S4Ymh",
+"z8o4S3Zag"
+],
+"uid":"1809950712",
+"parent":"",
+"text":"[晕]",
+"mid":"z7SdMD6Rr",
+"date":"2012-12-02 12:35:55"
+},
+{
+"kids":[],
+"uid":"2709198854",
+"parent":"",
+"text":"",
+"mid":"z7ScT4g8t",
+"date":"2012-12-02 12:33:43"
+},
+{
+"kids":[],
+"uid":"feng4585",
+"parent":"",
+"text":"",
+"mid":"z7ScIqZu6",
+"date":"2012-12-02 12:33:17"
+},
+{
+"kids":[],
+"uid":"1895655403",
+"parent":"",
+"text":"",
+"mid":"z7SaMaKrg",
+"date":"2012-12-02 12:28:30"
+},
+{
+"kids":[],
+"uid":"1947966473",
+"parent":"",
+"text":"我的亲娘哎。。。请大家一定要仔细看看这个内容，，，，，，",
+"mid":"z7SasmHLX",
+"date":"2012-12-02 12:27:44"
+},
+{
+"kids":[
+"z7X3YbmUB"
+],
+"uid":"2074803481",
+"parent":"",
+"text":"额。。好惊悚",
+"mid":"z7S9epUbM",
+"date":"2012-12-02 12:24:42"
+},
+{
+"kids":[],
+"uid":"3169914523",
+"parent":"",
+"text":"",
+"mid":"z7S8M3VxY",
+"date":"2012-12-02 12:23:32"
+},
+{
+"kids":[],
+"uid":"3145281281",
+"parent":"",
+"text":"",
+"mid":"z7S8DbRwW",
+"date":"2012-12-02 12:23:13"
+},
+{
+"kids":[],
+"uid":"2963101061",
+"parent":"",
+"text":"我就说不能走捷径。。。 http:",
+"mid":"z7S8ro727",
+"date":"2012-12-02 12:22:43"
+},
+{
+"kids":[],
+"uid":"2174983315",
+"parent":"",
+"text":"",
+"mid":"z7S88blHl",
+"date":"2012-12-02 12:21:59"
+},
+{
+"kids":[],
+"uid":"2288769144",
+"parent":"",
+"text":"really?",
+"mid":"z7S5y0fhw",
+"date":"2012-12-02 12:15:35"
+},
+{
+"kids":[
+"zbkYzlzMG",
+"zbaecfSGY",
+"zapFQpErg",
+"zahFgtQh8",
+"zahFgcf7s"
+],
+"uid":"1008575091",
+"parent":"",
+"text":"@赣州新鲜事 @",
+"mid":"z7S5gB7Yr",
+"date":"2012-12-02 12:14:55"
+},
+{
+"kids":[
+"z7ZoNA9eC"
+],
+"uid":"1924511634",
+"parent":"",
+"text":"微波炉 是个害！",
+"mid":"z7RXDbO35",
+"date":"2012-12-02 11:56:06"
+},
+{
+"kids":[],
+"uid":"3155397713",
+"parent":"",
+"text":"",
+"mid":"z7RWQq8Cx",
+"date":"2012-12-02 11:54:10"
+},
+{
+"kids":[],
+"uid":"doleon",
+"parent":"z7RNlwkjJ",
+"text":"建议把写这种文章的人抓起来枪毙",
+"mid":"z7RWwDguo",
+"date":"2012-12-02 11:53:24"
+},
+{
+"kids":[],
+"uid":"1899318123",
+"parent":"z7RFPyX5Y",
+"text":"",
+"mid":"z7RVfqneb",
+"date":"2012-12-02 11:50:15"
+},
+{
+"kids":[],
+"uid":"1919506232",
+"parent":"z7RTskNv8",
+"text":"我印象中西门子这个牌子已经很久都没出现过了所以我完全不记得还有这个牌子了。。。。辟谣了就好。。。。。",
+"mid":"z7RV2qe8I",
+"date":"2012-12-02 11:49:45"
+},
+{
+"kids":[],
+"uid":"2315234433",
+"parent":"z7RFPyX5Y",
+"text":"让更多人知道！",
+"mid":"z7RUamEA4",
+"date":"2012-12-02 11:47:35"
+},
+{
+"kids":[
+"z7RV2qe8I"
+],
+"uid":"1964994045",
+"parent":"z7RIk7Jon",
+"text":"果壳早辟谣了，你忘记西门子就是德国货了么？？",
+"mid":"z7RTskNv8",
+"date":"2012-12-02 11:45:50"
+},
+{
+"kids":[],
+"uid":"1096878572",
+"parent":"z7RFPyX5Y",
+"text":"@StevenApple 怎么看？",
+"mid":"z7RRPgWT1",
+"date":"2012-12-02 11:41:49"
+},
+{
+"kids":[],
+"uid":"210106218",
+"parent":"",
+"text":"学习啊。",
+"mid":"z7RRczh7D",
+"date":"2012-12-02 11:40:17"
+},
+{
+"kids":[],
+"uid":"2105580232",
+"parent":"z7RAaelkn",
+"text":"还好我家穷[哈哈][哈哈]",
+"mid":"z7ROkqiSD",
+"date":"2012-12-02 11:33:12"
+},
+{
+"kids":[
+"z80vGFGZA"
+],
+"uid":"yukaka823",
+"parent":"",
+"text":"我家微波炉坏了好一阵子了，懒得修，都都改蒸的了。",
+"mid":"z7RNYggnx",
+"date":"2012-12-02 11:32:19"
+},
+{
+"kids":[],
+"uid":"1353475421",
+"parent":"z7RFPyX5Y",
+"text":"扩散、牢记",
+"mid":"z7RNBuOiy",
+"date":"2012-12-02 11:31:24"
+},
+{
+"kids":[
+"z7RWwDguo"
+],
+"uid":"47826990",
+"parent":"",
+"text":"這傻逼新聞也有人信？",
+"mid":"z7RNlwkjJ",
+"date":"2012-12-02 11:30:47"
+},
+{
+"kids":[
+"z7UBn9r5t"
+],
+"uid":"1416859431",
+"parent":"z7RFPyX5Y",
+"text":"是真的吗@零壹零贰零叁",
+"mid":"z7RMWphxC",
+"date":"2012-12-02 11:29:47"
+},
+{
+"kids":[
+"z7V6SlNHU",
+"z7TX0DcBU"
+],
+"uid":"lyramimi",
+"parent":"z7RFPyX5Y",
+"text":"不会吧，这么可怕阿。。。[惊讶]@weatherm4n @大飞姐-家有懒狗大福宝 @默默莫闻莫言 @cchristine @王一一爸爸 @angryjiaqiao",
+"mid":"z7RL9z3hY",
+"date":"2012-12-02 11:25:24"
+},
+{
+"kids":[],
+"uid":"fanqieluyu",
+"parent":"",
+"text":"我看到这条新闻还有个想法，大多数外国人没有吃热食的习惯吧？",
+"mid":"z7RKJ0EQo",
+"date":"2012-12-02 11:24:20"
+},
+{
+"kids":[
+"z7RTskNv8"
+],
+"uid":"1919506232",
+"parent":"",
+"text":"@果壳网  求真相！ 真是这样的话也太恐怖了！！！",
+"mid":"z7RIk7Jon",
+"date":"2012-12-02 11:18:24"
+},
+{
+"kids":[
+"z81aMmtIY",
+"z7UOQsYsc"
+],
+"uid":"330420691",
+"parent":"z7RFPyX5Y",
+"text":"[晕]",
+"mid":"z7RGJoZJ7",
+"date":"2012-12-02 11:14:28"
+},
+{
+"kids":[],
+"uid":"larryyu2012",
+"parent":"",
+"text":"kk",
+"mid":"z7RGeDhXQ",
+"date":"2012-12-02 11:13:16"
+},
+{
+"kids":[
+"z8xYWui0M",
+"z80Xkdes7",
+"z7TH1fGvb",
+"z7SBc7Buw",
+"z7RVfqneb",
+"z7RUamEA4",
+"z7RRPgWT1",
+"z7RNBuOiy",
+"z7RMWphxC",
+"z7RL9z3hY",
+"z7RGJoZJ7"
+],
+"uid":"haichaolee",
+"parent":"",
+"text":"是真的吗？[吃惊]",
+"mid":"z7RFPyX5Y",
+"date":"2012-12-02 11:12:15"
+},
+{
+"kids":[
+"z7ROkqiSD"
+],
+"uid":"tshawn",
+"parent":"z7R39E2dB",
+"text":"[霹雳][moc打击][ala衰]",
+"mid":"z7RAaelkn",
+"date":"2012-12-02 10:58:18"
+},
+{
+"kids":[],
+"uid":"1025355350",
+"parent":"",
+"text":"",
+"mid":"z7RyHshIs",
+"date":"2012-12-02 10:54:41"
+},
+{
+"kids":[
+"z801IBFQN"
+],
+"uid":"1777038473",
+"parent":"z7RfTrRG0",
+"text":"@MyHut 甘自己哩只微波炉点处置呢？[委屈]",
+"mid":"z7RufwDZE",
+"date":"2012-12-02 10:43:44"
+},
+{
+"kids":[],
+"uid":"1495493985",
+"parent":"z7QXl7puB",
+"text":"显然，微波会破坏细胞，并产生副作用，但传统的烹饪方式，煎炸炒烤一样有副作用，但比不过地沟油，塑化剂。ps:护士用微波炉热血太奇葩。",
+"mid":"z7Rsd0xCx",
+"date":"2012-12-02 10:38:42"
+},
+{
+"kids":[],
+"uid":"2118663360",
+"parent":"",
+"text":"@白胖静静爱黑瘦海海 @小依蔓蔓",
+"mid":"z7RqcBWwt",
+"date":"2012-12-02 10:33:47"
+},
+{
+"kids":[],
+"uid":"1831513212",
+"parent":"",
+"text":"[衰][衰][衰]",
+"mid":"z7RpR5tKT",
+"date":"2012-12-02 10:32:54"
+},
+{
+"kids":[],
+"uid":"2704852552",
+"parent":"",
+"text":"爬哦，早上的玉米汁都是微波炉打的，那以后岂不是吃不到自己做的三明治了",
+"mid":"z7RpM3Ouo",
+"date":"2012-12-02 10:32:42"
+},
+{
+"kids":[],
+"uid":"1838578673",
+"parent":"",
+"text":"",
+"mid":"z7RoI7kzz",
+"date":"2012-12-02 10:30:03"
+},
+{
+"kids":[],
+"uid":"2020972987",
+"parent":"",
+"text":"",
+"mid":"z7Roo2Qj3",
+"date":"2012-12-02 10:29:17"
+},
+{
+"kids":[],
+"uid":"1864511302",
+"parent":"",
+"text":"恩。不用了，赶紧买两个蒸饭器@打倒南霸天",
+"mid":"z7Rm1cslG",
+"date":"2012-12-02 10:23:27"
+},
+{
+"kids":[],
+"uid":"1975619861",
+"parent":"",
+"text":"转发微博。",
+"mid":"z7RlX3CXo",
+"date":"2012-12-02 10:23:17"
+},
+{
+"kids":[],
+"uid":"2345702697",
+"parent":"",
+"text":"[吃惊]",
+"mid":"z7RhaFDtr",
+"date":"2012-12-02 10:11:31"
+},
+{
+"kids":[
+"z7RufwDZE"
+],
+"uid":"myhut",
+"parent":"",
+"text":"@GMin_Wang …睇来微波炉…",
+"mid":"z7RfTrRG0",
+"date":"2012-12-02 10:08:22"
+},
+{
+"kids":[
+"z9fcxxiF7",
+"z9fcxvuxB",
+"z8Snsnp8u",
+"z8Jhokp0U",
+"z8JhojC3b",
+"z7VWhdmAz",
+"z7VWhdmxP"
+],
+"uid":"2140677695",
+"parent":"z7QSp1l9Z",
+"text":"@木太太",
+"mid":"z7RdpcAFT",
+"date":"2012-12-02 10:02:13"
+},
+{
+"kids":[],
+"uid":"1699401872",
+"parent":"",
+"text":"转发微博。",
+"mid":"z7R9P1ur6",
+"date":"2012-12-02 09:53:23"
+},
+{
+"kids":[],
+"uid":"2869596474",
+"parent":"",
+"text":"",
+"mid":"z7R9Bavn5",
+"date":"2012-12-02 09:52:51"
+},
+{
+"kids":[],
+"uid":"2123373847",
+"parent":"",
+"text":"转发微博。",
+"mid":"z7R8ZhncZ",
+"date":"2012-12-02 09:51:21"
+},
+{
+"kids":[],
+"uid":"1309631761",
+"parent":"",
+"text":"..............",
+"mid":"z7R82er6c",
+"date":"2012-12-02 09:49:00"
+},
+{
+"kids":[],
+"uid":"2104197104",
+"parent":"",
+"text":"",
+"mid":"z7R7CvHcC",
+"date":"2012-12-02 09:48:00"
+},
+{
+"kids":[],
+"uid":"1912232537",
+"parent":"",
+"text":"",
+"mid":"z7R7v9TMV",
+"date":"2012-12-02 09:47:41"
+},
+{
+"kids":[],
+"uid":"2132328213",
+"parent":"",
+"text":"@石文魁 哪能办？扔掉？",
+"mid":"z7R6IErCu",
+"date":"2012-12-02 09:45:45"
+},
+{
+"kids":[],
+"uid":"1409297151",
+"parent":"z7QVC8WpJ",
+"text":"",
+"mid":"z7R6sqEP3",
+"date":"2012-12-02 09:45:07"
+},
+{
+"kids":[],
+"uid":"1999018730",
+"parent":"",
+"text":"不好意思",
+"mid":"z7R5XEyOq",
+"date":"2012-12-02 09:43:54"
+},
+{
+"kids":[],
+"uid":"1607258863",
+"parent":"",
+"text":"",
+"mid":"z7R3Ood5X",
+"date":"2012-12-02 09:38:36"
+},
+{
+"kids":[
+"z7RAaelkn"
+],
+"uid":"11290619",
+"parent":"",
+"text":"@落虎妞",
+"mid":"z7R39E2dB",
+"date":"2012-12-02 09:36:59"
+},
+{
+"kids":[
+"z8FdCDWjl",
+"z8nS9pd6o",
+"z89Rbwkpk",
+"z89RbuWQi"
+],
+"uid":"2113347271",
+"parent":"",
+"text":"",
+"mid":"z7R2Z0Gwq",
+"date":"2012-12-02 09:36:32"
+},
+{
+"kids":[
+"zahUb7Gr0",
+"za7Dky0xt",
+"za7Dky0wt",
+"z9doLEbn5",
+"z9doLCFYc"
+],
+"uid":"1006446662",
+"parent":"z7R07qA54",
+"text":"",
+"mid":"z7R1ZxGPE",
+"date":"2012-12-02 09:34:07"
+},
+{
+"kids":[],
+"uid":"1853617971",
+"parent":"",
+"text":"以后尽量不用了",
+"mid":"z7R1SpC4E",
+"date":"2012-12-02 09:33:49"
+},
+{
+"kids":[],
+"uid":"2682165423",
+"parent":"",
+"text":"@免贵姓挂",
+"mid":"z7R0Wuoz9",
+"date":"2012-12-02 09:31:32"
+},
+{
+"kids":[
+"z7R1ZxGPE"
+],
+"uid":"1034929913",
+"parent":"",
+"text":"@森林一君 @jOYSHi小乔",
+"mid":"z7R07qA54",
+"date":"2012-12-02 09:29:29"
+},
+{
+"kids":[],
+"uid":"1650450991",
+"parent":"",
+"text":"",
+"mid":"z7QZUEwcv",
+"date":"2012-12-02 09:29:00"
+},
+{
+"kids":[],
+"uid":"2023181887",
+"parent":"z7QXl7puB",
+"text":"无法鉴辩!",
+"mid":"z7QZKDSQE",
+"date":"2012-12-02 09:28:35"
+},
+{
+"kids":[],
+"uid":"inkrock",
+"parent":"",
+"text":"",
+"mid":"z7QZgdMjD",
+"date":"2012-12-02 09:27:23"
+},
+{
+"kids":[],
+"uid":"1826409987",
+"parent":"",
+"text":"",
+"mid":"z7QYT8HCx",
+"date":"2012-12-02 09:26:28"
+},
+{
+"kids":[],
+"uid":"1799985740",
+"parent":"",
+"text":"转发微博。",
+"mid":"z7QYx2lXH",
+"date":"2012-12-02 09:25:35"
+},
+{
+"kids":[
+"z7UbPBYhH"
+],
+"uid":"1991421210",
+"parent":"",
+"text":"如果这些是有科学依据的，那微波炉还是尽量少用。",
+"mid":"z7QXVukj1",
+"date":"2012-12-02 09:24:06"
+},
+{
+"kids":[
+"z7Rsd0xCx",
+"z7QZKDSQE"
+],
+"uid":"1452521905",
+"parent":"",
+"text":"@果壳问答 真的吗？",
+"mid":"z7QXl7puB",
+"date":"2012-12-02 09:22:39"
+},
+{
+"kids":[],
+"uid":"2016047023",
+"parent":"",
+"text":"不能用微波炉了啊！！！",
+"mid":"z7QXdaClZ",
+"date":"2012-12-02 09:22:20"
+},
+{
+"kids":[],
+"uid":"standylee",
+"parent":"",
+"text":"如果这不是笑话，那微波炉就真的不能用了。[汗][汗]",
+"mid":"z7QWKehWw",
+"date":"2012-12-02 09:21:11"
+},
+{
+"kids":[
+"z7UYT8e6P"
+],
+"uid":"1300152110",
+"parent":"z7QSToL1N",
+"text":"@Ziv未",
+"mid":"z7QWHwrjm",
+"date":"2012-12-02 09:21:05"
+},
+{
+"kids":[],
+"uid":"mybond",
+"parent":"",
+"text":"酒店房间就有个微波炉，前两天还用来热pizza了[衰]",
+"mid":"z7QWglju7",
+"date":"2012-12-02 09:20:00"
+},
+{
+"kids":[],
+"uid":"2239264751",
+"parent":"",
+"text":"转发微博。",
+"mid":"z7QVPqGi8",
+"date":"2012-12-02 09:18:56"
+},
+{
+"kids":[],
+"uid":"1700715724",
+"parent":"z7QSToL1N",
+"text":"[衰][衰]@小女人A女强人 怎么办。",
+"mid":"z7QVDkT3R",
+"date":"2012-12-02 09:18:27"
+},
+{
+"kids":[
+"z7R6sqEP3"
+],
+"uid":"2483089882",
+"parent":"z7QSToL1N",
+"text":"",
+"mid":"z7QVC8WpJ",
+"date":"2012-12-02 09:18:24"
+},
+{
+"kids":[],
+"uid":"temptastic",
+"parent":"",
+"text":"转发微博。",
+"mid":"z7QVqBf72",
+"date":"2012-12-02 09:17:56"
+},
+{
+"kids":[],
+"uid":"2218033807",
+"parent":"",
+"text":"@依米咖啡屋 @幸福小婉婉儿 [吃惊]",
+"mid":"z7QUE9EOu",
+"date":"2012-12-02 09:16:00"
+},
+{
+"kids":[],
+"uid":"1574598373",
+"parent":"",
+"text":"震惊！[汗]",
+"mid":"z7QThkWWA",
+"date":"2012-12-02 09:12:39"
+},
+{
+"kids":[
+"z8RLykLcJ",
+"z8RLykLbB",
+"z8MNr6h2b",
+"z7WOIjMsn",
+"z7WOIjayG"
+],
+"uid":"1828676157",
+"parent":"",
+"text":"@小兔子快回家蛮",
+"mid":"z7QTfjyVV",
+"date":"2012-12-02 09:12:34"
+},
+{
+"kids":[
+"z7Str1Qhx",
+"z7QWHwrjm",
+"z7QVDkT3R",
+"z7QVC8WpJ"
+],
+"uid":"jdfyb",
+"parent":"",
+"text":"",
+"mid":"z7QSToL1N",
+"date":"2012-12-02 09:11:42"
+},
+{
+"kids":[],
+"uid":"wenyuwang",
+"parent":"",
+"text":"求证",
+"mid":"z7QSIf3pB",
+"date":"2012-12-02 09:11:14"
+},
+{
+"kids":[],
+"uid":"10692700",
+"parent":"",
+"text":"好惊",
+"mid":"z7QSvvchX",
+"date":"2012-12-02 09:10:45"
+},
+{
+"kids":[
+"z7RdpcAFT"
+],
+"uid":"1993862194",
+"parent":"",
+"text":"@南山翁769 @Daguojuejin",
+"mid":"z7QSp1l9Z",
+"date":"2012-12-02 09:10:29"
+},
+{
+"kids":[],
+"uid":"lirenzhuo",
+"parent":"",
+"text":"@饭岛肉",
+"mid":"z7QRZBx7U",
+"date":"2012-12-02 09:09:29"
+},
+{
+"kids":[],
+"uid":"1911467633",
+"parent":"",
+"text":"转发微博。",
+"mid":"z7QRZh8d1",
+"date":"2012-12-02 09:09:28"
+},
+{
+"kids":[],
+"uid":"chunge0769",
+"parent":"",
+"text":"",
+"mid":"z7QQPvhak",
+"date":"2012-12-02 09:06:37"
+},
+{
+"kids":[],
+"uid":"2021519923",
+"parent":"",
+"text":"",
+"mid":"z7QQymXpz",
+"date":"2012-12-02 09:05:56"
+},
+{
+"kids":[],
+"uid":"szked",
+"parent":"",
+"text":"",
+"mid":"z7QPZuFKk",
+"date":"2012-12-02 09:04:33"
+}
+]

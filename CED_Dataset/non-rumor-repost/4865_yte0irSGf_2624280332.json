@@ -1,0 +1,5191 @@
+[
+{
+"kids":[],
+"uid":"2920185402",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"zgOuckD1f",
+"date":"2013-01-30 07:38:05"
+},
+{
+"kids":[],
+"uid":"2804042840",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"zg3XxpjI3",
+"date":"2013-01-25 09:11:17"
+},
+{
+"kids":[],
+"uid":"2803402400",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"zfZH2tzwe",
+"date":"2013-01-24 22:19:38"
+},
+{
+"kids":[],
+"uid":"2809898794",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"zbU461P87",
+"date":"2012-12-29 00:38:42"
+},
+{
+"kids":[],
+"uid":"2919494410",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"zbMdvrCZZ",
+"date":"2012-12-28 04:39:57"
+},
+{
+"kids":[],
+"uid":"2804290432",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"zb0AauLD7",
+"date":"2012-12-23 03:23:57"
+},
+{
+"kids":[],
+"uid":"1777577864",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"zaYnBsV1h",
+"date":"2012-12-22 21:47:27"
+},
+{
+"kids":[],
+"uid":"2804225874",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"z8DXjphWD",
+"date":"2012-12-07 14:07:11"
+},
+{
+"kids":[],
+"uid":"1581662663",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"z8upQg7Gi",
+"date":"2012-12-06 13:49:59"
+},
+{
+"kids":[],
+"uid":"2920388190",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"z8upQg7Ew",
+"date":"2012-12-06 13:49:58"
+},
+{
+"kids":[],
+"uid":"1440411533",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"z7EUM4ZyL",
+"date":"2012-12-01 02:43:22"
+},
+{
+"kids":[],
+"uid":"2811229284",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"z7wES9f8o",
+"date":"2012-11-30 05:42:12"
+},
+{
+"kids":[],
+"uid":"2790087020",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"z7wES8sTE",
+"date":"2012-11-30 05:42:13"
+},
+{
+"kids":[],
+"uid":"2920211422",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"z6MnGmNov",
+"date":"2012-11-25 07:53:32"
+},
+{
+"kids":[],
+"uid":"2919878604",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"z6Ip1ttBE",
+"date":"2012-11-24 21:45:48"
+},
+{
+"kids":[],
+"uid":"2808162270",
+"parent":"ytehRDNy9",
+"text":"",
+"mid":"z6Ip1ttzv",
+"date":"2012-11-24 21:45:47"
+},
+{
+"kids":[],
+"uid":"2628979453",
+"parent":"",
+"text":"兄妹",
+"mid":"z1Napi2TO",
+"date":"2012-10-23 12:42:01"
+},
+{
+"kids":[],
+"uid":"2294796847",
+"parent":"yte8N2E2A",
+"text":"",
+"mid":"ywFkw2Qw0",
+"date":"2012-08-11 15:00:05"
+},
+{
+"kids":[],
+"uid":"339439394",
+"parent":"",
+"text":"十面埋伏",
+"mid":"yvrkLBGiU",
+"date":"2012-08-03 13:31:57"
+},
+{
+"kids":[],
+"uid":"2416423283",
+"parent":"",
+"text":"遥远的她",
+"mid":"yvpyRh51l",
+"date":"2012-08-03 09:01:10"
+},
+{
+"kids":[],
+"uid":"2163734101",
+"parent":"",
+"text":"不要说话。",
+"mid":"yv5Ynng8A",
+"date":"2012-08-01 07:09:06"
+},
+{
+"kids":[],
+"uid":"1882438067",
+"parent":"yte1chTjn",
+"text":"",
+"mid":"yuQdUpdH7",
+"date":"2012-07-30 15:03:25"
+},
+{
+"kids":[],
+"uid":"1868967134",
+"parent":"yupm3El9O",
+"text":"红玫瑰",
+"mid":"yurmro0QX",
+"date":"2012-07-27 23:45:41"
+},
+{
+"kids":[],
+"uid":"mrgaga1987",
+"parent":"yupm3El9O",
+"text":"不如不见",
+"mid":"yuq4bAjEj",
+"date":"2012-07-27 20:28:02"
+},
+{
+"kids":[
+"yurmro0QX",
+"yuq4bAjEj"
+],
+"uid":"2873041100",
+"parent":"",
+"text":"好久不见",
+"mid":"yupm3El9O",
+"date":"2012-07-27 18:39:20"
+},
+{
+"kids":[],
+"uid":"2797123912",
+"parent":"yumMrjjw1",
+"text":"最佳损友",
+"mid":"yuoYbd48n",
+"date":"2012-07-27 17:40:29"
+},
+{
+"kids":[
+"yuoYbd48n"
+],
+"uid":"1585938932",
+"parent":"yumwTrtbu",
+"text":"白色球鞋",
+"mid":"yumMrjjw1",
+"date":"2012-07-27 12:06:04"
+},
+{
+"kids":[
+"yumMrjjw1"
+],
+"uid":"1762315154",
+"parent":"yumtyxcza",
+"text":"富士山下",
+"mid":"yumwTrtbu",
+"date":"2012-07-27 11:27:49"
+},
+{
+"kids":[
+"yumwTrtbu"
+],
+"uid":"2124307723",
+"parent":"",
+"text":"明年今日",
+"mid":"yumtyxcza",
+"date":"2012-07-27 11:19:35"
+},
+{
+"kids":[],
+"uid":"1957898871",
+"parent":"",
+"text":"大爱e神的苦瓜",
+"mid":"yuibs6nQ9",
+"date":"2012-07-27 00:23:58"
+},
+{
+"kids":[],
+"uid":"2804989560",
+"parent":"",
+"text":"",
+"mid":"yu4HImXvX",
+"date":"2012-07-25 14:04:58"
+},
+{
+"kids":[],
+"uid":"539573123",
+"parent":"yte4ZdyTt",
+"text":"还是K歌之王吧",
+"mid":"ytWM34LYd",
+"date":"2012-07-24 17:53:43"
+},
+{
+"kids":[],
+"uid":"539573123",
+"parent":"yte4ZdyTt",
+"text":"好久不见",
+"mid":"ytWLS9UW4",
+"date":"2012-07-24 17:53:16"
+},
+{
+"kids":[],
+"uid":"2804835842",
+"parent":"",
+"text":"",
+"mid":"ytVwWlqOs",
+"date":"2012-07-24 14:43:44"
+},
+{
+"kids":[],
+"uid":"571559984",
+"parent":"",
+"text":"不如不見",
+"mid":"ytQBZz6so",
+"date":"2012-07-24 02:12:27"
+},
+{
+"kids":[],
+"uid":"2521908411",
+"parent":"",
+"text":"明年今日",
+"mid":"ytORSBF6M",
+"date":"2012-07-23 21:46:06"
+},
+{
+"kids":[],
+"uid":"2003279274",
+"parent":"",
+"text":"真投入",
+"mid":"ytOxY2NMX",
+"date":"2012-07-23 20:57:03"
+},
+{
+"kids":[],
+"uid":"2123027032",
+"parent":"yteLd0lOq",
+"text":"乜宜家甘多人中意听E臣的歌？",
+"mid":"ytM0bdtcO",
+"date":"2012-07-23 14:28:19"
+},
+{
+"kids":[],
+"uid":"2804835842",
+"parent":"",
+"text":"",
+"mid":"ytLEU9ElR",
+"date":"2012-07-23 13:35:51"
+},
+{
+"kids":[],
+"uid":"1397589092",
+"parent":"",
+"text":"吟游诗人，我喜欢拖你的手，幻想天长地久。好喜欢！！[心]",
+"mid":"ytLES2Umb",
+"date":"2012-07-23 13:35:48"
+},
+{
+"kids":[],
+"uid":"2524526124",
+"parent":"",
+"text":"好久不见[哈哈][嘻嘻][心]",
+"mid":"ytLigx6rK",
+"date":"2012-07-23 12:40:07"
+},
+{
+"kids":[],
+"uid":"1271279862",
+"parent":"ytKNEy8oJ",
+"text":"到我了，那就弱弱的来一首圣诞结吧。",
+"mid":"ytKQUoQGz",
+"date":"2012-07-23 11:32:43"
+},
+{
+"kids":[
+"ytKQUoQGz"
+],
+"uid":"lvwanwang",
+"parent":"ytKHAs9Rb",
+"text":"不如不见",
+"mid":"ytKNEy8oJ",
+"date":"2012-07-23 11:24:41"
+},
+{
+"kids":[
+"ytKNEy8oJ"
+],
+"uid":"elina8698",
+"parent":"",
+"text":"红玫瑰~啊哈哈哈哈[哈哈]",
+"mid":"ytKHAs9Rb",
+"date":"2012-07-23 11:09:44"
+},
+{
+"kids":[],
+"uid":"2178283882",
+"parent":"ytnTGA6nF",
+"text":"人来人往",
+"mid":"ytH0xmU85",
+"date":"2012-07-23 01:45:27"
+},
+{
+"kids":[],
+"uid":"2802956370",
+"parent":"",
+"text":"",
+"mid":"ytEPz4OyJ",
+"date":"2012-07-22 20:12:53"
+},
+{
+"kids":[],
+"uid":"1774909545",
+"parent":"ytwVdEF8b",
+"text":"lonely Christmas",
+"mid":"ytEb7e4eT",
+"date":"2012-07-22 18:33:13"
+},
+{
+"kids":[],
+"uid":"1845629282",
+"parent":"",
+"text":"后台",
+"mid":"ytDDvoCst",
+"date":"2012-07-22 17:10:28"
+},
+{
+"kids":[],
+"uid":"1785786841",
+"parent":"ytordFkfd",
+"text":"",
+"mid":"ytDeNyyFx",
+"date":"2012-07-22 16:09:36"
+},
+{
+"kids":[],
+"uid":"2803973074",
+"parent":"",
+"text":"",
+"mid":"ytC2w3xAV",
+"date":"2012-07-22 13:06:33"
+},
+{
+"kids":[],
+"uid":"2789895582",
+"parent":"yte27myqM",
+"text":"",
+"mid":"ytBYhkLVQ",
+"date":"2012-07-22 12:56:09"
+},
+{
+"kids":[],
+"uid":"2789892640",
+"parent":"",
+"text":"",
+"mid":"ytBVwyRiW",
+"date":"2012-07-22 12:49:22"
+},
+{
+"kids":[],
+"uid":"alcastle",
+"parent":"ytwVdEF8b",
+"text":"富士山下",
+"mid":"ytx7Hggat",
+"date":"2012-07-22 00:35:37"
+},
+{
+"kids":[
+"ytEb7e4eT",
+"ytx7Hggat"
+],
+"uid":"monkey0701",
+"parent":"",
+"text":"单车",
+"mid":"ytwVdEF8b",
+"date":"2012-07-22 00:04:53"
+},
+{
+"kids":[],
+"uid":"2810316852",
+"parent":"ytfQVCIEZ",
+"text":"",
+"mid":"ytwfopZdU",
+"date":"2012-07-21 22:21:49"
+},
+{
+"kids":[],
+"uid":"2802956712",
+"parent":"",
+"text":"",
+"mid":"ytvFOgnCV",
+"date":"2012-07-21 20:54:07"
+},
+{
+"kids":[],
+"uid":"2792906793",
+"parent":"ytfJ7CnkW",
+"text":"喜欢",
+"mid":"ytvzGyBkY",
+"date":"2012-07-21 20:39:05"
+},
+{
+"kids":[],
+"uid":"lzto",
+"parent":"",
+"text":"好久不见",
+"mid":"ytuSei1qc",
+"date":"2012-07-21 18:52:01"
+},
+{
+"kids":[],
+"uid":"2661180955",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ytud5hjoK",
+"date":"2012-07-21 17:10:39"
+},
+{
+"kids":[],
+"uid":"2692624523",
+"parent":"",
+"text":"最佳损友",
+"mid":"yttlucNhz",
+"date":"2012-07-21 14:58:34"
+},
+{
+"kids":[],
+"uid":"2803973042",
+"parent":"",
+"text":"",
+"mid":"ytsWavCNN",
+"date":"2012-07-21 13:56:15"
+},
+{
+"kids":[],
+"uid":"2789852982",
+"parent":"yte27myqM",
+"text":"",
+"mid":"ytsQO6LJM",
+"date":"2012-07-21 13:43:00"
+},
+{
+"kids":[],
+"uid":"2397550512",
+"parent":"",
+"text":"我爱 最后今晚",
+"mid":"ytsxcakca",
+"date":"2012-07-21 12:54:42"
+},
+{
+"kids":[],
+"uid":"1927524672",
+"parent":"ythHcDvkI",
+"text":"最佳损友",
+"mid":"ytretoKP2",
+"date":"2012-07-21 09:35:50"
+},
+{
+"kids":[],
+"uid":"2122620724",
+"parent":"",
+"text":"K歌之王",
+"mid":"ytqURprXc",
+"date":"2012-07-21 08:47:30"
+},
+{
+"kids":[],
+"uid":"2039467552",
+"parent":"",
+"text":"",
+"mid":"ytqHE4MzF",
+"date":"2012-07-21 08:14:56"
+},
+{
+"kids":[],
+"uid":"2674341861",
+"parent":"",
+"text":"白玫瑰",
+"mid":"ytp8txB5h",
+"date":"2012-07-21 04:15:34"
+},
+{
+"kids":[
+"ytDeNyyFx"
+],
+"uid":"1745081682",
+"parent":"",
+"text":"於心有愧",
+"mid":"ytordFkfd",
+"date":"2012-07-21 02:29:00"
+},
+{
+"kids":[
+"ytH0xmU85"
+],
+"uid":"1806574874",
+"parent":"",
+"text":"哇咔咔[奥特曼]",
+"mid":"ytnTGA6nF",
+"date":"2012-07-21 01:06:23"
+},
+{
+"kids":[],
+"uid":"1761693044",
+"parent":"",
+"text":"不聚不散 只等你给另一对手擒获 那时青丝 不会用上余生来量度 但我拖着躯壳 发现沿途寻找的快乐 仍系与你肩膊 或是其实在等我舍割",
+"mid":"ytnLfhQmS",
+"date":"2012-07-21 00:45:34"
+},
+{
+"kids":[],
+"uid":"2864972990",
+"parent":"",
+"text":"好久不见",
+"mid":"ytn6stb7L",
+"date":"2012-07-20 23:05:03"
+},
+{
+"kids":[],
+"uid":"2803253020",
+"parent":"",
+"text":"",
+"mid":"ytmnGC3mp",
+"date":"2012-07-20 21:14:45"
+},
+{
+"kids":[],
+"uid":"2233918540",
+"parent":"",
+"text":"明天合唱一曲？？？[思考]",
+"mid":"ytmk93j57",
+"date":"2012-07-20 21:06:04"
+},
+{
+"kids":[],
+"uid":"206067624",
+"parent":"",
+"text":"最佳损友",
+"mid":"ytmjZ0qjY",
+"date":"2012-07-20 21:05:36"
+},
+{
+"kids":[],
+"uid":"2810455870",
+"parent":"",
+"text":"",
+"mid":"ytm7Y4KE5",
+"date":"2012-07-20 20:36:03"
+},
+{
+"kids":[],
+"uid":"2045911001",
+"parent":"",
+"text":"十年",
+"mid":"ytlVyiKla",
+"date":"2012-07-20 20:05:29"
+},
+{
+"kids":[],
+"uid":"2802859802",
+"parent":"",
+"text":"",
+"mid":"ytlTMnvAX",
+"date":"2012-07-20 20:01:06"
+},
+{
+"kids":[],
+"uid":"2659026084",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ytlnVBJeC",
+"date":"2012-07-20 18:42:39"
+},
+{
+"kids":[],
+"uid":"2176016140",
+"parent":"",
+"text":"我也是，浮夸",
+"mid":"ytlc00Hfj",
+"date":"2012-07-20 18:13:15"
+},
+{
+"kids":[],
+"uid":"2470190940",
+"parent":"ytj7ivYOm",
+"text":"",
+"mid":"ytl2v576d",
+"date":"2012-07-20 17:49:49"
+},
+{
+"kids":[],
+"uid":"2483543997",
+"parent":"yteq1xPuJ",
+"text":"",
+"mid":"ytl0n1aQ5",
+"date":"2012-07-20 17:44:37"
+},
+{
+"kids":[],
+"uid":"2789954994",
+"parent":"",
+"text":"",
+"mid":"ytkWzuvP1",
+"date":"2012-07-20 17:35:14"
+},
+{
+"kids":[],
+"uid":"binaifeng",
+"parent":"",
+"text":"十年",
+"mid":"ytkpaoOkA",
+"date":"2012-07-20 16:12:57"
+},
+{
+"kids":[],
+"uid":"2323602260",
+"parent":"",
+"text":"单车",
+"mid":"ytk9ryrtp",
+"date":"2012-07-20 15:34:13"
+},
+{
+"kids":[],
+"uid":"2695230370",
+"parent":"ytjse3vMR",
+"text":"孤独患者",
+"mid":"ytk4NrNwB",
+"date":"2012-07-20 15:22:44"
+},
+{
+"kids":[],
+"uid":"2034861903",
+"parent":"ytiMzrK9M",
+"text":"最索的一个傻B歌手",
+"mid":"ytk0MDqUB",
+"date":"2012-07-20 15:12:51"
+},
+{
+"kids":[],
+"uid":"2714774711",
+"parent":"",
+"text":"",
+"mid":"ytjXee7ny",
+"date":"2012-07-20 15:04:06"
+},
+{
+"kids":[],
+"uid":"2194735420",
+"parent":"",
+"text":"十面埋伏。最佳损友。more & more@陳奕迅所長 [爱你]",
+"mid":"ytjPCBqSv",
+"date":"2012-07-20 14:45:23"
+},
+{
+"kids":[],
+"uid":"1780672694",
+"parent":"",
+"text":"心的距离。",
+"mid":"ytjzH5ag7",
+"date":"2012-07-20 14:06:08"
+},
+{
+"kids":[],
+"uid":"2031844991",
+"parent":"",
+"text":"好久不见",
+"mid":"ytjyPjwOa",
+"date":"2012-07-20 14:04:00"
+},
+{
+"kids":[],
+"uid":"davidzdw",
+"parent":"",
+"text":"其实有首叫《新歌+精选》 歌词全是歌名",
+"mid":"ytjxCx6Sg",
+"date":"2012-07-20 14:01:01"
+},
+{
+"kids":[],
+"uid":"2475153277",
+"parent":"",
+"text":"就《不要说话》吧。。",
+"mid":"ytjwtz0s0",
+"date":"2012-07-20 13:58:13"
+},
+{
+"kids":[],
+"uid":"2148512530",
+"parent":"ytj6mCbf3",
+"text":"= =就一首好吗...",
+"mid":"ytjwhuRq2",
+"date":"2012-07-20 13:57:44"
+},
+{
+"kids":[],
+"uid":"imhear",
+"parent":"ythjy7Zuh",
+"text":"[奥特曼][汗]不死传说啊[爱你]",
+"mid":"ytjvp6TSh",
+"date":"2012-07-20 13:55:34"
+},
+{
+"kids":[],
+"uid":"2313168907",
+"parent":"",
+"text":"富士山下 十年",
+"mid":"ytjtgt0jz",
+"date":"2012-07-20 13:50:17"
+},
+{
+"kids":[
+"ytk4NrNwB"
+],
+"uid":"2767018120",
+"parent":"ytfPklCX4",
+"text":"淘汰",
+"mid":"ytjse3vMR",
+"date":"2012-07-20 13:47:44"
+},
+{
+"kids":[],
+"uid":"xiaoxi0718",
+"parent":"",
+"text":"最佳损友",
+"mid":"ytjrqnVwn",
+"date":"2012-07-20 13:45:45"
+},
+{
+"kids":[],
+"uid":"2149742044",
+"parent":"",
+"text":"约定   好久不见  最佳损友 还不很多",
+"mid":"ytjovvewA",
+"date":"2012-07-20 13:38:36"
+},
+{
+"kids":[],
+"uid":"1850008213",
+"parent":"",
+"text":"红玫瑰啦。。。。。。。。。。。。国语的都爱",
+"mid":"ytjmXelMf",
+"date":"2012-07-20 13:34:45"
+},
+{
+"kids":[],
+"uid":"1802057113",
+"parent":"",
+"text":"",
+"mid":"ytjhM0GC1",
+"date":"2012-07-20 13:21:57"
+},
+{
+"kids":[],
+"uid":"1770511883",
+"parent":"",
+"text":"K歌之王",
+"mid":"ytjdVgU17",
+"date":"2012-07-20 13:12:28"
+},
+{
+"kids":[],
+"uid":"2375290880",
+"parent":"ytiMzrK9M",
+"text":"垃圾[偷笑]",
+"mid":"ytj9fokB6",
+"date":"2012-07-20 13:00:59"
+},
+{
+"kids":[
+"ytl2v576d"
+],
+"uid":"2806549622",
+"parent":"",
+"text":"伤信 [爱你][爱你][爱你]",
+"mid":"ytj7ivYOm",
+"date":"2012-07-20 12:56:11"
+},
+{
+"kids":[
+"ytjwhuRq2"
+],
+"uid":"2728589641",
+"parent":"",
+"text":"十年，你的背包，对不起谢谢，爱是怀疑，浮夸 Eason的歌各种爱！",
+"mid":"ytj6mCbf3",
+"date":"2012-07-20 12:53:53"
+},
+{
+"kids":[],
+"uid":"xiaodouzivivi",
+"parent":"yte4usEHS",
+"text":"以前特别爱听 好久不见 最近爱听 浮夸",
+"mid":"ytj4C9wcR",
+"date":"2012-07-20 12:49:34"
+},
+{
+"kids":[],
+"uid":"2402503045",
+"parent":"yte0WFfs7",
+"text":"单车",
+"mid":"ytj3ADZVr",
+"date":"2012-07-20 12:47:02"
+},
+{
+"kids":[],
+"uid":"1869503521",
+"parent":"",
+"text":"淘汰[心]",
+"mid":"ytj16FVLv",
+"date":"2012-07-20 12:40:55"
+},
+{
+"kids":[],
+"uid":"1427479423",
+"parent":"",
+"text":"也还是浮夸。。。",
+"mid":"ytiZwiN8O",
+"date":"2012-07-20 12:37:00"
+},
+{
+"kids":[],
+"uid":"1633827583",
+"parent":"",
+"text":"要去看他演唱会了，超开心，980的座位，可以看清他哦。。。",
+"mid":"ytiYUbmoT",
+"date":"2012-07-20 12:35:29"
+},
+{
+"kids":[],
+"uid":"1781101707",
+"parent":"",
+"text":"不要说话。",
+"mid":"ytiXco9e8",
+"date":"2012-07-20 12:31:18"
+},
+{
+"kids":[],
+"uid":"myhoneybear",
+"parent":"",
+"text":"一丝不挂。",
+"mid":"ytiVndNgP",
+"date":"2012-07-20 12:26:46"
+},
+{
+"kids":[],
+"uid":"woaiyajun",
+"parent":"",
+"text":"淘汰",
+"mid":"ytiSlicL9",
+"date":"2012-07-20 12:19:18"
+},
+{
+"kids":[],
+"uid":"pc95279527",
+"parent":"",
+"text":"葡萄成熟时，最佳损友",
+"mid":"ytiSam4O6",
+"date":"2012-07-20 12:18:53"
+},
+{
+"kids":[],
+"uid":"2339671177",
+"parent":"",
+"text":"k歌之王",
+"mid":"ytiS98n4c",
+"date":"2012-07-20 12:18:51"
+},
+{
+"kids":[],
+"uid":"2675078327",
+"parent":"yte2YeynH",
+"text":"一丝不挂，苦瓜，六月飞霜，我什么都没有………………",
+"mid":"ytiRcDQqV",
+"date":"2012-07-20 12:16:32"
+},
+{
+"kids":[
+"ytk0MDqUB",
+"ytj9fokB6"
+],
+"uid":"1084475424",
+"parent":"yte77jzAR",
+"text":"淘汰。。[抓狂]我可以多说几首吗？",
+"mid":"ytiMzrK9M",
+"date":"2012-07-20 12:05:07"
+},
+{
+"kids":[],
+"uid":"2324724620",
+"parent":"",
+"text":"好久不見",
+"mid":"ytiIT237Q",
+"date":"2012-07-20 11:56:02"
+},
+{
+"kids":[],
+"uid":"2679516592",
+"parent":"",
+"text":"不要说话",
+"mid":"ytiFdaHIY",
+"date":"2012-07-20 11:46:59"
+},
+{
+"kids":[],
+"uid":"fuhang1216",
+"parent":"yticibcMw",
+"text":"好久不见",
+"mid":"ytiAEoXd5",
+"date":"2012-07-20 11:35:45"
+},
+{
+"kids":[],
+"uid":"2099198093",
+"parent":"yte4Q3adp",
+"text":"近期听他唱的遥远的她、破音破的超孜然~",
+"mid":"ytixL4miN",
+"date":"2012-07-20 11:28:37"
+},
+{
+"kids":[],
+"uid":"2343540535",
+"parent":"",
+"text":"K歌之王",
+"mid":"ytix4e9MP",
+"date":"2012-07-20 11:26:55"
+},
+{
+"kids":[],
+"uid":"2753125241",
+"parent":"",
+"text":"爱情转移",
+"mid":"ytisI8NUf",
+"date":"2012-07-20 11:16:11"
+},
+{
+"kids":[],
+"uid":"zxm42000",
+"parent":"",
+"text":"",
+"mid":"ytirKFhLz",
+"date":"2012-07-20 11:13:50"
+},
+{
+"kids":[],
+"uid":"zxm42000",
+"parent":"",
+"text":"",
+"mid":"ytiriCWUl",
+"date":"2012-07-20 11:12:43"
+},
+{
+"kids":[],
+"uid":"2873763992",
+"parent":"",
+"text":"好久不见",
+"mid":"ytilVlW9j",
+"date":"2012-07-20 10:59:27"
+},
+{
+"kids":[],
+"uid":"justinbieber520",
+"parent":"",
+"text":"K歌之王",
+"mid":"ytijUjCmU",
+"date":"2012-07-20 10:54:30"
+},
+{
+"kids":[],
+"uid":"1895770605",
+"parent":"",
+"text":"你的背包",
+"mid":"ytihsbaGO",
+"date":"2012-07-20 10:48:26"
+},
+{
+"kids":[],
+"uid":"1760460470",
+"parent":"",
+"text":"十年，或明年今日",
+"mid":"ytigPavrT",
+"date":"2012-07-20 10:46:54"
+},
+{
+"kids":[],
+"uid":"2476293292",
+"parent":"",
+"text":"葡萄成熟时。。。。还有好多其实",
+"mid":"ytifdi2JW",
+"date":"2012-07-20 10:42:55"
+},
+{
+"kids":[],
+"uid":"2301787562",
+"parent":"yte6dtlJX",
+"text":"yes。baby。i。know[爱你]",
+"mid":"ytifa3ZDJ",
+"date":"2012-07-20 10:42:48"
+},
+{
+"kids":[],
+"uid":"xiaoyichuyichan",
+"parent":"",
+"text":"陈奕迅百唱不厌的好久不见",
+"mid":"ytif7nmgq",
+"date":"2012-07-20 10:42:42"
+},
+{
+"kids":[],
+"uid":"2734883573",
+"parent":"",
+"text":"有很多呀 怎么办",
+"mid":"ytif6v0px",
+"date":"2012-07-20 10:42:40"
+},
+{
+"kids":[],
+"uid":"2276483760",
+"parent":"",
+"text":"十面埋伏",
+"mid":"ytieQu1gz",
+"date":"2012-07-20 10:42:01"
+},
+{
+"kids":[],
+"uid":"2642151855",
+"parent":"ythZraw9r",
+"text":"然后怎样",
+"mid":"ytieB8dfk",
+"date":"2012-07-20 10:41:25"
+},
+{
+"kids":[],
+"uid":"1784068095",
+"parent":"ytenVv78Q",
+"text":"最佳损友",
+"mid":"ytie71MDT",
+"date":"2012-07-20 10:40:13"
+},
+{
+"kids":[],
+"uid":"2111565445",
+"parent":"",
+"text":"十年",
+"mid":"ytidm3EYl",
+"date":"2012-07-20 10:38:20"
+},
+{
+"kids":[],
+"uid":"2784637940",
+"parent":"",
+"text":"夕阳无限好",
+"mid":"ytidj78Ix",
+"date":"2012-07-20 10:38:14"
+},
+{
+"kids":[
+"ytiAEoXd5"
+],
+"uid":"2764066324",
+"parent":"yti6B2Et5",
+"text":"",
+"mid":"yticibcMw",
+"date":"2012-07-20 10:35:43"
+},
+{
+"kids":[],
+"uid":"118091342",
+"parent":"yti3iwJiI",
+"text":"K歌之王",
+"mid":"yti8ybHW7",
+"date":"2012-07-20 10:26:31"
+},
+{
+"kids":[],
+"uid":"1674390047",
+"parent":"",
+"text":"十年@小柒fan",
+"mid":"yti820Gxp",
+"date":"2012-07-20 10:25:14"
+},
+{
+"kids":[],
+"uid":"1833485182",
+"parent":"",
+"text":"好久不见。。。。",
+"mid":"yti6WiKqK",
+"date":"2012-07-20 10:22:32"
+},
+{
+"kids":[
+"yticibcMw"
+],
+"uid":"1837743977",
+"parent":"",
+"text":"打回原形",
+"mid":"yti6B2Et5",
+"date":"2012-07-20 10:21:42"
+},
+{
+"kids":[],
+"uid":"2687829457",
+"parent":"",
+"text":"好多好多呀",
+"mid":"yti5gj6aC",
+"date":"2012-07-20 10:18:25"
+},
+{
+"kids":[],
+"uid":"lovexiaoxiaoguo",
+"parent":"",
+"text":"十年~！！！！！！！！1",
+"mid":"yti4iAzBK",
+"date":"2012-07-20 10:16:03"
+},
+{
+"kids":[],
+"uid":"1998471691",
+"parent":"",
+"text":"心的距离",
+"mid":"yti3WaF4S",
+"date":"2012-07-20 10:15:07"
+},
+{
+"kids":[],
+"uid":"daisyandmoer",
+"parent":"",
+"text":"内疚",
+"mid":"yti3HnWCe",
+"date":"2012-07-20 10:14:32"
+},
+{
+"kids":[
+"yti8ybHW7"
+],
+"uid":"513486782",
+"parent":"ythEGE4e3",
+"text":"白玫瑰",
+"mid":"yti3iwJiI",
+"date":"2012-07-20 10:13:35"
+},
+{
+"kids":[],
+"uid":"1290580234",
+"parent":"",
+"text":"淘汰",
+"mid":"yti1goVeL",
+"date":"2012-07-20 10:08:34"
+},
+{
+"kids":[],
+"uid":"2664596741",
+"parent":"ythT5kQWt",
+"text":"十年",
+"mid":"yti0HwseW",
+"date":"2012-07-20 10:07:11"
+},
+{
+"kids":[
+"ytieB8dfk"
+],
+"uid":"525327123",
+"parent":"",
+"text":"你的背包",
+"mid":"ythZraw9r",
+"date":"2012-07-20 10:04:04"
+},
+{
+"kids":[],
+"uid":"2040889524",
+"parent":"",
+"text":"大爱浮夸！！必须地！！",
+"mid":"ythZamtug",
+"date":"2012-07-20 10:03:24"
+},
+{
+"kids":[],
+"uid":"2309760670",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ythWpxDEV",
+"date":"2012-07-20 09:56:37"
+},
+{
+"kids":[],
+"uid":"liuleiandlvxiao",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ythT9plf3",
+"date":"2012-07-20 09:48:35"
+},
+{
+"kids":[
+"yti0HwseW"
+],
+"uid":"2136126554",
+"parent":"",
+"text":"葡萄成熟时",
+"mid":"ythT5kQWt",
+"date":"2012-07-20 09:48:25"
+},
+{
+"kids":[],
+"uid":"2719295563",
+"parent":"ythEGE4e3",
+"text":"十年",
+"mid":"ythR70ZV6",
+"date":"2012-07-20 09:43:32"
+},
+{
+"kids":[],
+"uid":"xiaogoulily",
+"parent":"",
+"text":"太多了，《不要说话》﹏",
+"mid":"ythQt4uUI",
+"date":"2012-07-20 09:41:58"
+},
+{
+"kids":[],
+"uid":"1885794004",
+"parent":"ythzT6FQY",
+"text":"好久不见",
+"mid":"ythQe19xK",
+"date":"2012-07-20 09:41:21"
+},
+{
+"kids":[],
+"uid":"1915332895",
+"parent":"",
+"text":"一生中最爱",
+"mid":"ythPExHr2",
+"date":"2012-07-20 09:39:58"
+},
+{
+"kids":[],
+"uid":"2334955771",
+"parent":"",
+"text":"我都忘了最开始喜欢哪首了～我现在貌似很爱听无人之境～",
+"mid":"ythOl12I5",
+"date":"2012-07-20 09:36:42"
+},
+{
+"kids":[],
+"uid":"2400873920",
+"parent":"",
+"text":"最佳损友",
+"mid":"ythJxaj8M",
+"date":"2012-07-20 09:24:53"
+},
+{
+"kids":[],
+"uid":"zhanglili1030",
+"parent":"yte1chTjn",
+"text":"也昰淘汰，还有冲上云霄的那个主题曲'叫什么忘了",
+"mid":"ythI2Ej3d",
+"date":"2012-07-20 09:21:13"
+},
+{
+"kids":[
+"ytretoKP2"
+],
+"uid":"2689822154",
+"parent":"",
+"text":"苦瓜",
+"mid":"ythHcDvkI",
+"date":"2012-07-20 09:19:07"
+},
+{
+"kids":[],
+"uid":"2134080017",
+"parent":"",
+"text":"单车",
+"mid":"ythFaclNR",
+"date":"2012-07-20 09:14:06"
+},
+{
+"kids":[],
+"uid":"2389400312",
+"parent":"ytec1mJRn",
+"text":"月球上的人 苦瓜 七百年后。。。→薇薇那是属于“凤凰之上”的[哼]",
+"mid":"ythEZxQzL",
+"date":"2012-07-20 09:13:42"
+},
+{
+"kids":[],
+"uid":"1278507855",
+"parent":"",
+"text":"爱情转移",
+"mid":"ythEIoL3O",
+"date":"2012-07-20 09:13:00"
+},
+{
+"kids":[
+"yti3iwJiI",
+"ythR70ZV6"
+],
+"uid":"2126169840",
+"parent":"ythzT6FQY",
+"text":"全世界失眠",
+"mid":"ythEGE4e3",
+"date":"2012-07-20 09:12:56"
+},
+{
+"kids":[],
+"uid":"mxmx008",
+"parent":"",
+"text":"十年.因为爱情.浮夸.淘汰.",
+"mid":"ythE3CNwD",
+"date":"2012-07-20 09:11:24"
+},
+{
+"kids":[],
+"uid":"desireyd",
+"parent":"",
+"text":"所有",
+"mid":"ythCTcfd5",
+"date":"2012-07-20 09:08:32"
+},
+{
+"kids":[],
+"uid":"2024336691",
+"parent":"yte1QbxEc",
+"text":"好久不见",
+"mid":"ythAzAiZp",
+"date":"2012-07-20 09:02:50"
+},
+{
+"kids":[],
+"uid":"spritemoon",
+"parent":"",
+"text":"好久不见",
+"mid":"ythArCqBd",
+"date":"2012-07-20 09:02:30"
+},
+{
+"kids":[],
+"uid":"2622158765",
+"parent":"",
+"text":"不要说话",
+"mid":"ythAmkTAH",
+"date":"2012-07-20 09:02:17"
+},
+{
+"kids":[
+"ythQe19xK",
+"ythEGE4e3"
+],
+"uid":"nj1030",
+"parent":"",
+"text":"淘汰",
+"mid":"ythzT6FQY",
+"date":"2012-07-20 09:01:07"
+},
+{
+"kids":[],
+"uid":"liqikoudai",
+"parent":"",
+"text":"淘汰~",
+"mid":"ythy6heL3",
+"date":"2012-07-20 08:56:43"
+},
+{
+"kids":[],
+"uid":"2403705990",
+"parent":"ytedRq0tH",
+"text":"浮夸",
+"mid":"ythxHbd5F",
+"date":"2012-07-20 08:55:42"
+},
+{
+"kids":[],
+"uid":"2796171547",
+"parent":"",
+"text":"内疚",
+"mid":"ythxslK5n",
+"date":"2012-07-20 08:55:08"
+},
+{
+"kids":[],
+"uid":"1953348600",
+"parent":"",
+"text":"@陈嘉玮_今天是个62 浮夸哥~",
+"mid":"ythxcr0TB",
+"date":"2012-07-20 08:54:29"
+},
+{
+"kids":[],
+"uid":"1963234653",
+"parent":"",
+"text":"单车 @嫩嫩嫩嫩嫩冯生-",
+"mid":"ythwCmbsB",
+"date":"2012-07-20 08:53:04"
+},
+{
+"kids":[],
+"uid":"2034741975",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ythwAjHAb",
+"date":"2012-07-20 08:52:59"
+},
+{
+"kids":[],
+"uid":"suchujun",
+"parent":"",
+"text":"淘汰~！",
+"mid":"ythv5vVSf",
+"date":"2012-07-20 08:49:18"
+},
+{
+"kids":[],
+"uid":"2828278211",
+"parent":"yth66x7Oq",
+"text":"十年",
+"mid":"ythuoEm4R",
+"date":"2012-07-20 08:47:36"
+},
+{
+"kids":[],
+"uid":"1923144223",
+"parent":"",
+"text":"十面埋伏，岁月如歌。",
+"mid":"ythtj1hVt",
+"date":"2012-07-20 08:44:54"
+},
+{
+"kids":[],
+"uid":"1939225891",
+"parent":"ythqk0bAy",
+"text":"十年",
+"mid":"ythsMa0vr",
+"date":"2012-07-20 08:43:37"
+},
+{
+"kids":[],
+"uid":"1936163884",
+"parent":"",
+"text":"浮夸~",
+"mid":"yths7q1sh",
+"date":"2012-07-20 08:41:59"
+},
+{
+"kids":[
+"ythsMa0vr"
+],
+"uid":"1825006094",
+"parent":"",
+"text":"shall we talk",
+"mid":"ythqk0bAy",
+"date":"2012-07-20 08:37:33"
+},
+{
+"kids":[],
+"uid":"chenchen1109",
+"parent":"ytgFDFT0e",
+"text":"怪就怪这张照片!害的我明天就要去听演唱会了。[偷樂]",
+"mid":"ythomiMA3",
+"date":"2012-07-20 08:32:44"
+},
+{
+"kids":[],
+"uid":"1627300324",
+"parent":"yte7azQy2",
+"text":"内疚",
+"mid":"ythmND8ct",
+"date":"2012-07-20 08:28:52"
+},
+{
+"kids":[],
+"uid":"1787701190",
+"parent":"",
+"text":"富士山下",
+"mid":"ythmnmj6x",
+"date":"2012-07-20 08:27:49"
+},
+{
+"kids":[
+"ytjvp6TSh"
+],
+"uid":"1938863082",
+"parent":"",
+"text":"超人主题曲[心][心]",
+"mid":"ythjy7Zuh",
+"date":"2012-07-20 08:20:52"
+},
+{
+"kids":[],
+"uid":"234539767",
+"parent":"",
+"text":"不如不见。",
+"mid":"ythhFnmRr",
+"date":"2012-07-20 08:16:13"
+},
+{
+"kids":[],
+"uid":"249420240",
+"parent":"",
+"text":"k歌之王[落叶][落叶][落叶]",
+"mid":"ytheNf7uL",
+"date":"2012-07-20 08:09:08"
+},
+{
+"kids":[],
+"uid":"2024230665",
+"parent":"ytf174ZNz",
+"text":"非走不可",
+"mid":"ythdmxWWv",
+"date":"2012-07-20 08:05:38"
+},
+{
+"kids":[],
+"uid":"2529889732",
+"parent":"ytekKrcJz",
+"text":"浮夸啊。激动乃啊。",
+"mid":"ythbjvqqB",
+"date":"2012-07-20 08:00:35"
+},
+{
+"kids":[],
+"uid":"1136846741",
+"parent":"",
+"text":"7",
+"mid":"ythakk4o6",
+"date":"2012-07-20 07:58:09"
+},
+{
+"kids":[],
+"uid":"2047311151",
+"parent":"ytevknB5Z",
+"text":"一丝不挂，最佳损友",
+"mid":"yth9Ic8ue",
+"date":"2012-07-20 07:56:38"
+},
+{
+"kids":[],
+"uid":"1759699527",
+"parent":"yte0WFfs7",
+"text":"好久不见，不如不见。不要说话，请用心听，不要说话。",
+"mid":"yth9C0Jfp",
+"date":"2012-07-20 07:56:23"
+},
+{
+"kids":[],
+"uid":"2010346613",
+"parent":"ytevv22hy",
+"text":"浮夸~~~我滴彩铃[爱你][爱你]",
+"mid":"yth6aCBzf",
+"date":"2012-07-20 07:47:53"
+},
+{
+"kids":[
+"ythuoEm4R"
+],
+"uid":"2573631501",
+"parent":"",
+"text":"心的距离",
+"mid":"yth66x7Oq",
+"date":"2012-07-20 07:47:44"
+},
+{
+"kids":[],
+"uid":"2193285447",
+"parent":"",
+"text":"孤独患者",
+"mid":"yth630BiM",
+"date":"2012-07-20 07:47:35"
+},
+{
+"kids":[],
+"uid":"missm00",
+"parent":"",
+"text":"好久不见",
+"mid":"yth5vC38u",
+"date":"2012-07-20 07:46:17"
+},
+{
+"kids":[],
+"uid":"2685866721",
+"parent":"yte0Y97kI",
+"text":"不要说话",
+"mid":"yth4W9miK",
+"date":"2012-07-20 07:44:51"
+},
+{
+"kids":[],
+"uid":"1967620734",
+"parent":"",
+"text":"不要说话",
+"mid":"yth3L9XsQ",
+"date":"2012-07-20 07:41:58"
+},
+{
+"kids":[],
+"uid":"2656328667",
+"parent":"",
+"text":"一生中最爱",
+"mid":"yth3AvvhX",
+"date":"2012-07-20 07:41:32"
+},
+{
+"kids":[],
+"uid":"2149773602",
+"parent":"yte5WBbr7",
+"text":"葡萄成熟时",
+"mid":"yth1QCGYs",
+"date":"2012-07-20 07:37:15"
+},
+{
+"kids":[],
+"uid":"1780524535",
+"parent":"",
+"text":"单车。",
+"mid":"ytgUGvD1P",
+"date":"2012-07-20 07:19:37"
+},
+{
+"kids":[],
+"uid":"2357678433",
+"parent":"yte77jzAR",
+"text":"红玫瑰！从背后抱你的时候，期待的却是她的面孔",
+"mid":"ytgQLCMYa",
+"date":"2012-07-20 07:09:58"
+},
+{
+"kids":[],
+"uid":"2565862152",
+"parent":"",
+"text":"阿牛",
+"mid":"ytgQ8E7mY",
+"date":"2012-07-20 07:08:25"
+},
+{
+"kids":[],
+"uid":"2584319792",
+"parent":"",
+"text":"淘汰",
+"mid":"ytgJlh9u7",
+"date":"2012-07-20 06:51:40"
+},
+{
+"kids":[
+"ythomiMA3"
+],
+"uid":"1939419035",
+"parent":"",
+"text":"孤独患者。。。",
+"mid":"ytgFDFT0e",
+"date":"2012-07-20 06:42:33"
+},
+{
+"kids":[],
+"uid":"2087039307",
+"parent":"yteXLksOO",
+"text":"一丝不挂",
+"mid":"ytgyXoE8I",
+"date":"2012-07-20 06:26:05"
+},
+{
+"kids":[],
+"uid":"2058095310",
+"parent":"",
+"text":"好久不见",
+"mid":"ytgxxCLHn",
+"date":"2012-07-20 06:22:35"
+},
+{
+"kids":[],
+"uid":"2771200543",
+"parent":"",
+"text":"爱情转移",
+"mid":"ytgwZCaio",
+"date":"2012-07-20 06:21:15"
+},
+{
+"kids":[],
+"uid":"1887083792",
+"parent":"yte6neDv0",
+"text":"婚礼的祝福",
+"mid":"ytgeL6R6i",
+"date":"2012-07-20 05:36:19"
+},
+{
+"kids":[],
+"uid":"yanjunjunjun",
+"parent":"ytfiErles",
+"text":"+1",
+"mid":"ytgcP9zyl",
+"date":"2012-07-20 05:31:33"
+},
+{
+"kids":[
+"ytwfopZdU"
+],
+"uid":"1832086004",
+"parent":"ytf174ZNz",
+"text":"葡萄成熟时",
+"mid":"ytfQVCIEZ",
+"date":"2012-07-20 04:37:37"
+},
+{
+"kids":[
+"ytjse3vMR"
+],
+"uid":"tuzigebukaiwx",
+"parent":"",
+"text":"好久不见.",
+"mid":"ytfPklCX4",
+"date":"2012-07-20 04:33:40"
+},
+{
+"kids":[
+"ytvzGyBkY"
+],
+"uid":"2525030055",
+"parent":"",
+"text":"《想哭》",
+"mid":"ytfJ7CnkW",
+"date":"2012-07-20 04:18:23"
+},
+{
+"kids":[],
+"uid":"liusy828",
+"parent":"",
+"text":"好久不见，我想哭",
+"mid":"ytfHbEYa0",
+"date":"2012-07-20 04:13:37"
+},
+{
+"kids":[],
+"uid":"208050555",
+"parent":"",
+"text":"单车",
+"mid":"ytfzV3azy",
+"date":"2012-07-20 03:55:41"
+},
+{
+"kids":[],
+"uid":"cicilovefuture",
+"parent":"ytfr4zzdv",
+"text":"内疚",
+"mid":"ytfsqvM76",
+"date":"2012-07-20 03:37:15"
+},
+{
+"kids":[
+"ytfsqvM76"
+],
+"uid":"aarongtr",
+"parent":"yte5WBbr7",
+"text":"低等动物",
+"mid":"ytfr4zzdv",
+"date":"2012-07-20 03:33:55"
+},
+{
+"kids":[],
+"uid":"2037452155",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ytfotxEcu",
+"date":"2012-07-20 03:27:30"
+},
+{
+"kids":[],
+"uid":"2802353094",
+"parent":"",
+"text":"我什么都没有[鄙视]",
+"mid":"ytfnYfeAl",
+"date":"2012-07-20 03:26:16"
+},
+{
+"kids":[],
+"uid":"yoyoliuliu",
+"parent":"",
+"text":"阿牛",
+"mid":"ytflntd90",
+"date":"2012-07-20 03:19:53"
+},
+{
+"kids":[],
+"uid":"2106270411",
+"parent":"",
+"text":"好久不见。@大慧高柏飞-h @吖阿里巴巴 @乄amnesiac丶明 @維克小姐 @percentage花儿 @聂敏2i_怡怡 @抹楽茶 @淡醒___ @HELEN-最爱灌汤包",
+"mid":"ytfjIEZNF",
+"date":"2012-07-20 03:15:48"
+},
+{
+"kids":[],
+"uid":"2103114845",
+"parent":"yteiYbHLy",
+"text":"十年。。",
+"mid":"ytfiVB3wT",
+"date":"2012-07-20 03:13:51"
+},
+{
+"kids":[
+"ytgcP9zyl"
+],
+"uid":"tfdja",
+"parent":"",
+"text":"最佳损友",
+"mid":"ytfiErles",
+"date":"2012-07-20 03:13:10"
+},
+{
+"kids":[],
+"uid":"50762424",
+"parent":"",
+"text":"太多。",
+"mid":"ytfctuEEb",
+"date":"2012-07-20 02:57:57"
+},
+{
+"kids":[],
+"uid":"1841275931",
+"parent":"",
+"text":"明年今日",
+"mid":"ytfbKjS3I",
+"date":"2012-07-20 02:56:09"
+},
+{
+"kids":[],
+"uid":"1676083920",
+"parent":"yteGs7BIQ",
+"text":"六月飞霜 无人之境",
+"mid":"ytfaDsGEz",
+"date":"2012-07-20 02:53:25"
+},
+{
+"kids":[],
+"uid":"270991733dina",
+"parent":"",
+"text":"十年",
+"mid":"ytf9xd8sY",
+"date":"2012-07-20 02:50:42"
+},
+{
+"kids":[],
+"uid":"2389596431",
+"parent":"yteik2ZgO",
+"text":"看穿",
+"mid":"ytf8Efj6h",
+"date":"2012-07-20 02:48:31"
+},
+{
+"kids":[],
+"uid":"2010761211",
+"parent":"",
+"text":"不要说话",
+"mid":"ytf6kCgvq",
+"date":"2012-07-20 02:42:49"
+},
+{
+"kids":[],
+"uid":"dennyyuyu",
+"parent":"ytf174ZNz",
+"text":"鸿玫瑰",
+"mid":"ytf2CFwKU",
+"date":"2012-07-20 02:33:41"
+},
+{
+"kids":[],
+"uid":"2181633533",
+"parent":"",
+"text":"「单车」",
+"mid":"ytf1qxgtU",
+"date":"2012-07-20 02:30:43"
+},
+{
+"kids":[
+"ythdmxWWv",
+"ytfQVCIEZ",
+"ytf2CFwKU"
+],
+"uid":"mklau1",
+"parent":"",
+"text":"不如不见",
+"mid":"ytf174ZNz",
+"date":"2012-07-20 02:29:57"
+},
+{
+"kids":[],
+"uid":"2065085733",
+"parent":"",
+"text":"好久不见",
+"mid":"ytf0uiNjV",
+"date":"2012-07-20 02:28:24"
+},
+{
+"kids":[],
+"uid":"2527467990",
+"parent":"",
+"text":"最佳损友",
+"mid":"yteZz24TS",
+"date":"2012-07-20 02:26:08"
+},
+{
+"kids":[],
+"uid":"2302989354",
+"parent":"",
+"text":"不要说话，好久不见，都喜欢哎，怎么办",
+"mid":"yteZtpC9v",
+"date":"2012-07-20 02:25:55"
+},
+{
+"kids":[],
+"uid":"julymk",
+"parent":"",
+"text":"不如不见.!",
+"mid":"yteYLnO43",
+"date":"2012-07-20 02:24:10"
+},
+{
+"kids":[
+"ytgyXoE8I"
+],
+"uid":"kinglee06",
+"parent":"yte4D3R35",
+"text":"爱情买卖",
+"mid":"yteXLksOO",
+"date":"2012-07-20 02:21:41"
+},
+{
+"kids":[],
+"uid":"2312463771",
+"parent":"",
+"text":"[爱你][花心]单车",
+"mid":"yteWUnKFC",
+"date":"2012-07-20 02:19:36"
+},
+{
+"kids":[],
+"uid":"2235050552",
+"parent":"",
+"text":"十年。",
+"mid":"yteWBfp4u",
+"date":"2012-07-20 02:18:50"
+},
+{
+"kids":[],
+"uid":"underdarkeye",
+"parent":"yteGs7BIQ",
+"text":"现在是 人来人往 了",
+"mid":"yteUuCoHv",
+"date":"2012-07-20 02:13:39"
+},
+{
+"kids":[],
+"uid":"1765827555",
+"parent":"",
+"text":"白玫瑰",
+"mid":"yteSOjcBu",
+"date":"2012-07-20 02:09:30"
+},
+{
+"kids":[],
+"uid":"120733386",
+"parent":"ytefG2gDT",
+"text":"人来人往",
+"mid":"yteSFreiJ",
+"date":"2012-07-20 02:09:09"
+},
+{
+"kids":[],
+"uid":"mzjlwjy",
+"parent":"",
+"text":"单车",
+"mid":"yteSdnlFF",
+"date":"2012-07-20 02:08:02"
+},
+{
+"kids":[],
+"uid":"1879143847",
+"parent":"",
+"text":"淘汰，是吧。。。[心]",
+"mid":"yteQvh0f6",
+"date":"2012-07-20 02:03:49"
+},
+{
+"kids":[],
+"uid":"1404999725",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ytePP3UpH",
+"date":"2012-07-20 02:02:08"
+},
+{
+"kids":[],
+"uid":"longxiaoquan",
+"parent":"",
+"text":"淘汰…",
+"mid":"yteP947km",
+"date":"2012-07-20 02:00:28"
+},
+{
+"kids":[],
+"uid":"2123027032",
+"parent":"yteLd0lOq",
+"text":"",
+"mid":"yteOr4jmN",
+"date":"2012-07-20 01:58:43"
+},
+{
+"kids":[],
+"uid":"315899953",
+"parent":"yteugvuGs",
+"text":"富士山下",
+"mid":"yteNvqFVA",
+"date":"2012-07-20 01:56:26"
+},
+{
+"kids":[],
+"uid":"dontlovemary",
+"parent":"",
+"text":"十年。。。",
+"mid":"yteN5pZLo",
+"date":"2012-07-20 01:55:24"
+},
+{
+"kids":[],
+"uid":"1778150897",
+"parent":"",
+"text":"还没睡啊。。最佳损友。[偷笑]",
+"mid":"yteMG1lI6",
+"date":"2012-07-20 01:54:22"
+},
+{
+"kids":[],
+"uid":"zonsing",
+"parent":"yte0WEecR",
+"text":"好想再活五百年",
+"mid":"yteMDlCO9",
+"date":"2012-07-20 01:54:17"
+},
+{
+"kids":[],
+"uid":"2022074921",
+"parent":"",
+"text":"同",
+"mid":"yteMqltWZ",
+"date":"2012-07-20 01:53:46"
+},
+{
+"kids":[],
+"uid":"1770080412",
+"parent":"yte4WgeOX",
+"text":"明年今日",
+"mid":"yteLNCEFC",
+"date":"2012-07-20 01:52:14"
+},
+{
+"kids":[
+"ytM0bdtcO",
+"yteOr4jmN"
+],
+"uid":"2123027032",
+"parent":"",
+"text":"[爱心]爱你Eason",
+"mid":"yteLd0lOq",
+"date":"2012-07-20 01:50:46"
+},
+{
+"kids":[],
+"uid":"1744687073",
+"parent":"",
+"text":"内疚",
+"mid":"yteIwlfoc",
+"date":"2012-07-20 01:44:09"
+},
+{
+"kids":[],
+"uid":"1990160027",
+"parent":"",
+"text":"红玫瑰 婚礼的祝福",
+"mid":"yteHoAHmd",
+"date":"2012-07-20 01:41:23"
+},
+{
+"kids":[
+"ytfaDsGEz",
+"yteUuCoHv"
+],
+"uid":"kxwsssz",
+"parent":"yte7azQy2",
+"text":"太多了啊啊啊 低等动物好了",
+"mid":"yteGs7BIQ",
+"date":"2012-07-20 01:39:03"
+},
+{
+"kids":[],
+"uid":"2439408063",
+"parent":"",
+"text":"狮子山下。",
+"mid":"yteFRqjYF",
+"date":"2012-07-20 01:37:36"
+},
+{
+"kids":[],
+"uid":"2027835691",
+"parent":"",
+"text":"爱情转移[话筒]",
+"mid":"yteCPx5Yr",
+"date":"2012-07-20 01:30:08"
+},
+{
+"kids":[],
+"uid":"superlaz",
+"parent":"",
+"text":"陀飞轮",
+"mid":"yteCv8zlW",
+"date":"2012-07-20 01:29:19"
+},
+{
+"kids":[],
+"uid":"2647359454",
+"parent":"yte0Y97kI",
+"text":"红玫瑰",
+"mid":"yteBnpd4Z",
+"date":"2012-07-20 01:26:32"
+},
+{
+"kids":[],
+"uid":"2840553204",
+"parent":"",
+"text":"于心有愧 ！ @May_小小锦同学 @昩-儿",
+"mid":"yteAKF6BU",
+"date":"2012-07-20 01:25:01"
+},
+{
+"kids":[],
+"uid":"1783766333",
+"parent":"",
+"text":"苦瓜，好久不见",
+"mid":"yteAH8zMl",
+"date":"2012-07-20 01:24:52"
+},
+{
+"kids":[],
+"uid":"eatguoguo",
+"parent":"",
+"text":"孤独患者",
+"mid":"yteAmaTm4",
+"date":"2012-07-20 01:24:02"
+},
+{
+"kids":[],
+"uid":"2356792242",
+"parent":"ytevknB5Z",
+"text":"不要说话",
+"mid":"ytez2jgaC",
+"date":"2012-07-20 01:20:47"
+},
+{
+"kids":[],
+"uid":"1806909850",
+"parent":"ytex1hKWw",
+"text":"浮夸",
+"mid":"yteywprEG",
+"date":"2012-07-20 01:19:30"
+},
+{
+"kids":[],
+"uid":"1893947133",
+"parent":"ytefA4NCA",
+"text":"好久不见[泪][泪]",
+"mid":"yteyuCXwo",
+"date":"2012-07-20 01:19:27"
+},
+{
+"kids":[],
+"uid":"2006754981",
+"parent":"",
+"text":"K歌之王，浮夸都几中意嘎！",
+"mid":"ytexQ8cRg",
+"date":"2012-07-20 01:17:50"
+},
+{
+"kids":[],
+"uid":"1828117694",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ytexOnwai",
+"date":"2012-07-20 01:17:46"
+},
+{
+"kids":[],
+"uid":"2655602865",
+"parent":"",
+"text":"你的背包",
+"mid":"ytexvsGz9",
+"date":"2012-07-20 01:17:01"
+},
+{
+"kids":[],
+"uid":"1995905463",
+"parent":"",
+"text":"无人之境",
+"mid":"ytexd726E",
+"date":"2012-07-20 01:16:17"
+},
+{
+"kids":[
+"yteywprEG"
+],
+"uid":"324505080",
+"parent":"yte1fhu7j",
+"text":"明年今日",
+"mid":"ytex1hKWw",
+"date":"2012-07-20 01:15:49"
+},
+{
+"kids":[],
+"uid":"2191571622",
+"parent":"",
+"text":"好久不见",
+"mid":"ytewQFGZ9",
+"date":"2012-07-20 01:15:24"
+},
+{
+"kids":[],
+"uid":"2145890454",
+"parent":"yte1O7sv1",
+"text":"明年今日",
+"mid":"ytew9wZQf",
+"date":"2012-07-20 01:13:41"
+},
+{
+"kids":[
+"yth6aCBzf"
+],
+"uid":"2060774204",
+"parent":"",
+"text":"孤独患者~~四年前第一次看陈奕迅演唱会他的每首歌都是那么好听，从那以后觉得他的每首歌都是那么经典！9.15我在天津等你哦~~",
+"mid":"ytevv22hy",
+"date":"2012-07-20 01:12:04"
+},
+{
+"kids":[
+"yth9Ic8ue",
+"ytez2jgaC"
+],
+"uid":"1564583860",
+"parent":"yte5ziTnB",
+"text":"苦瓜，",
+"mid":"ytevknB5Z",
+"date":"2012-07-20 01:11:39"
+},
+{
+"kids":[],
+"uid":"1825817722",
+"parent":"yte0Y97kI",
+"text":"最佳损友",
+"mid":"ytevi3TdF",
+"date":"2012-07-20 01:11:33"
+},
+{
+"kids":[
+"yteNvqFVA"
+],
+"uid":"1679982081",
+"parent":"",
+"text":"约定。",
+"mid":"yteugvuGs",
+"date":"2012-07-20 01:09:02"
+},
+{
+"kids":[],
+"uid":"melikegakki",
+"parent":"",
+"text":"[酷]沙龙",
+"mid":"yteu9r2ct",
+"date":"2012-07-20 01:08:45"
+},
+{
+"kids":[],
+"uid":"2490393077",
+"parent":"yte17AiaX",
+"text":"淘汰",
+"mid":"yteu9r2bO",
+"date":"2012-07-20 01:08:45"
+},
+{
+"kids":[],
+"uid":"1884779325",
+"parent":"",
+"text":"岁月如歌",
+"mid":"ytetVeb1S",
+"date":"2012-07-20 01:08:11"
+},
+{
+"kids":[],
+"uid":"2495397140",
+"parent":"",
+"text":"十年",
+"mid":"ytetzmO8Q",
+"date":"2012-07-20 01:07:19"
+},
+{
+"kids":[],
+"uid":"1800195631",
+"parent":"",
+"text":"红玫瑰 圣诞结 十年 好久不见 内疚 不要说话 K歌之王……数不清了诶",
+"mid":"ytetzm6mI",
+"date":"2012-07-20 01:07:19"
+},
+{
+"kids":[],
+"uid":"513810128",
+"parent":"",
+"text":"葡萄成熟时",
+"mid":"ytetumuhe",
+"date":"2012-07-20 01:07:07"
+},
+{
+"kids":[],
+"uid":"2103327757",
+"parent":"",
+"text":"孤独患者",
+"mid":"ytett9RG4",
+"date":"2012-07-20 01:07:04"
+},
+{
+"kids":[],
+"uid":"1716665227",
+"parent":"ytest5LAI",
+"text":"绵绵",
+"mid":"ytesVdz4M",
+"date":"2012-07-20 01:05:43"
+},
+{
+"kids":[
+"ytesVdz4M"
+],
+"uid":"1771224574",
+"parent":"",
+"text":"好久不见",
+"mid":"ytest5LAI",
+"date":"2012-07-20 01:04:36"
+},
+{
+"kids":[],
+"uid":"yuyanxin0616",
+"parent":"yteq5ntHx",
+"text":"最近一直在听最佳损友",
+"mid":"yteqHc3XF",
+"date":"2012-07-20 01:00:14"
+},
+{
+"kids":[],
+"uid":"2534450782",
+"parent":"",
+"text":"爱情转移",
+"mid":"yteqEut4r",
+"date":"2012-07-20 01:00:08"
+},
+{
+"kids":[],
+"uid":"Linfengyuan",
+"parent":"ytelG3Xh7",
+"text":"[話筒][話筒][話筒][話筒][話筒][話筒]無人之境[話筒][話筒][話筒][話筒][話筒[話筒][話筒]][話筒][話筒]",
+"mid":"yteqyDHNH",
+"date":"2012-07-20 00:59:51"
+},
+{
+"kids":[],
+"uid":"2193127557",
+"parent":"ytenVv78Q",
+"text":"裙下之臣",
+"mid":"yteqapPxs",
+"date":"2012-07-20 00:58:52"
+},
+{
+"kids":[
+"yteqHc3XF"
+],
+"uid":"kasparove",
+"parent":"",
+"text":"全世界失眠",
+"mid":"yteq5ntHx",
+"date":"2012-07-20 00:58:41"
+},
+{
+"kids":[],
+"uid":"2002575162",
+"parent":"",
+"text":"",
+"mid":"yteq4dyOZ",
+"date":"2012-07-20 00:58:38"
+},
+{
+"kids":[
+"ytl0n1aQ5"
+],
+"uid":"2187983604",
+"parent":"yte3fl5V1",
+"text":"[lb厉害]明年今日",
+"mid":"yteq1xPuJ",
+"date":"2012-07-20 00:58:36"
+},
+{
+"kids":[],
+"uid":"2066766167",
+"parent":"",
+"text":"好久不见",
+"mid":"ytepWsIaZ",
+"date":"2012-07-20 00:58:24"
+},
+{
+"kids":[],
+"uid":"335666900",
+"parent":"",
+"text":"给你",
+"mid":"ytepyzdvf",
+"date":"2012-07-20 00:57:26"
+},
+{
+"kids":[],
+"uid":"1999533973",
+"parent":"yte6MDtdF",
+"text":"葡萄成熟时",
+"mid":"ytepcnHuq",
+"date":"2012-07-20 00:56:33"
+},
+{
+"kids":[],
+"uid":"1629209535",
+"parent":"",
+"text":"不来也不去",
+"mid":"yteoLtoqN",
+"date":"2012-07-20 00:55:29"
+},
+{
+"kids":[],
+"uid":"336785141",
+"parent":"",
+"text":"十年",
+"mid":"yteoF2QEf",
+"date":"2012-07-20 00:55:13"
+},
+{
+"kids":[],
+"uid":"312867316",
+"parent":"ytemZjd9A",
+"text":"苦瓜",
+"mid":"yteoguVwF",
+"date":"2012-07-20 00:54:13"
+},
+{
+"kids":[
+"ytie71MDT",
+"yteqapPxs"
+],
+"uid":"2441371330",
+"parent":"ytenuDsh7",
+"text":"心的距离",
+"mid":"ytenVv78Q",
+"date":"2012-07-20 00:53:25"
+},
+{
+"kids":[],
+"uid":"1857551132",
+"parent":"",
+"text":"淘汰",
+"mid":"ytenR7i4Q",
+"date":"2012-07-20 00:53:13"
+},
+{
+"kids":[
+"ytenVv78Q"
+],
+"uid":"2250325080",
+"parent":"",
+"text":"孤独患者",
+"mid":"ytenuDsh7",
+"date":"2012-07-20 00:52:21"
+},
+{
+"kids":[],
+"uid":"2495511692",
+"parent":"yte1pBZ02",
+"text":"",
+"mid":"yten4B7HH",
+"date":"2012-07-20 00:51:20"
+},
+{
+"kids":[
+"yteoguVwF"
+],
+"uid":"1734068937",
+"parent":"",
+"text":"最佳损友",
+"mid":"ytemZjd9A",
+"date":"2012-07-20 00:51:02"
+},
+{
+"kids":[],
+"uid":"2567480617",
+"parent":"",
+"text":"因为爱情。",
+"mid":"ytemKxmAR",
+"date":"2012-07-20 00:50:29"
+},
+{
+"kids":[],
+"uid":"2017887932",
+"parent":"yte0CzsnX",
+"text":"等。",
+"mid":"ytemjBd34",
+"date":"2012-07-20 00:49:27"
+},
+{
+"kids":[],
+"uid":"1315059381",
+"parent":"yte4D3R35",
+"text":"遥远的她",
+"mid":"ytemgnZBA",
+"date":"2012-07-20 00:49:19"
+},
+{
+"kids":[],
+"uid":"xoap7",
+"parent":"",
+"text":"@也也和妞妞 好久不见",
+"mid":"ytelHwp7J",
+"date":"2012-07-20 00:47:56"
+},
+{
+"kids":[
+"yteqyDHNH"
+],
+"uid":"2109977354",
+"parent":"ytejM9kuZ",
+"text":"葡萄成熟时。",
+"mid":"ytelG3Xh7",
+"date":"2012-07-20 00:47:48"
+},
+{
+"kids":[],
+"uid":"qingfengjiliao",
+"parent":"",
+"text":"爱情转移",
+"mid":"ytelgAB5f",
+"date":"2012-07-20 00:46:52"
+},
+{
+"kids":[],
+"uid":"1678774432",
+"parent":"",
+"text":"好久不见",
+"mid":"ytel5mXhn",
+"date":"2012-07-20 00:46:25"
+},
+{
+"kids":[],
+"uid":"2285264410",
+"parent":"",
+"text":"也是浮夸@FI鱼鱼SH 你呢?[围观]",
+"mid":"ytekYiML3",
+"date":"2012-07-20 00:46:09"
+},
+{
+"kids":[
+"ythbjvqqB"
+],
+"uid":"1022186502",
+"parent":"",
+"text":"",
+"mid":"ytekKrcJz",
+"date":"2012-07-20 00:45:34"
+},
+{
+"kids":[],
+"uid":"ltt0814",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ytekusVCg",
+"date":"2012-07-20 00:44:54"
+},
+{
+"kids":[],
+"uid":"1861330202",
+"parent":"",
+"text":"好久不见。",
+"mid":"ytek8AJkh",
+"date":"2012-07-20 00:44:04"
+},
+{
+"kids":[],
+"uid":"2670068030",
+"parent":"",
+"text":"明年今日",
+"mid":"ytek5lNd7",
+"date":"2012-07-20 00:43:57"
+},
+{
+"kids":[],
+"uid":"1997312205",
+"parent":"",
+"text":"好久不见",
+"mid":"ytek306lx",
+"date":"2012-07-20 00:43:51"
+},
+{
+"kids":[
+"ytelG3Xh7"
+],
+"uid":"1947032332",
+"parent":"",
+"text":"不好意思，我也是浮夸",
+"mid":"ytejM9kuZ",
+"date":"2012-07-20 00:43:09"
+},
+{
+"kids":[],
+"uid":"2075398195",
+"parent":"",
+"text":"幸福摩天轮、k歌之王、淘汰、白玫瑰、婚礼的祝福、因为爱情、一丝不挂、岁月如歌、最佳损友………超人迪加主题曲",
+"mid":"ytejvAa1S",
+"date":"2012-07-20 00:42:33"
+},
+{
+"kids":[],
+"uid":"2723153285",
+"parent":"yteaa7x1a",
+"text":"每首都爱。爱陈英俊。",
+"mid":"ytejs1Gyp",
+"date":"2012-07-20 00:42:20"
+},
+{
+"kids":[],
+"uid":"2230790242",
+"parent":"",
+"text":"《阿牛》，《给你》，《葡萄成熟时》，《不如这样》，《孤独患者》……[心][心][爱你][爱你]",
+"mid":"ytejrq2P8",
+"date":"2012-07-20 00:42:18"
+},
+{
+"kids":[],
+"uid":"2004851165",
+"parent":"yte3fl5V1",
+"text":"大开眼界！",
+"mid":"yteji2z4f",
+"date":"2012-07-20 00:41:59"
+},
+{
+"kids":[],
+"uid":"1869037491",
+"parent":"",
+"text":"浮夸 红玫瑰 好久不见 都不错吶！",
+"mid":"ytej497nR",
+"date":"2012-07-20 00:41:26"
+},
+{
+"kids":[],
+"uid":"2857696850",
+"parent":"",
+"text":"最佳损友",
+"mid":"ytej1tnJd",
+"date":"2012-07-20 00:41:20"
+},
+{
+"kids":[
+"ytfiVB3wT"
+],
+"uid":"1765364615",
+"parent":"",
+"text":"好久不见[心]",
+"mid":"yteiYbHLy",
+"date":"2012-07-20 00:41:12"
+},
+{
+"kids":[],
+"uid":"2648746714",
+"parent":"",
+"text":"第一次接触---十年",
+"mid":"yteiW8yx3",
+"date":"2012-07-20 00:41:07"
+},
+{
+"kids":[],
+"uid":"1977836041",
+"parent":"",
+"text":"单车",
+"mid":"yteiMniS6",
+"date":"2012-07-20 00:40:41"
+},
+{
+"kids":[],
+"uid":"763550437ly",
+"parent":"ytee3fyog",
+"text":"十年",
+"mid":"yteiCkrEH",
+"date":"2012-07-20 00:40:20"
+},
+{
+"kids":[
+"ytf8Efj6h"
+],
+"uid":"1835588312",
+"parent":"",
+"text":"好久不见！",
+"mid":"yteik2ZgO",
+"date":"2012-07-20 00:39:32"
+},
+{
+"kids":[],
+"uid":"lmh55555",
+"parent":"",
+"text":"淘汰",
+"mid":"yteijFCAj",
+"date":"2012-07-20 00:39:36"
+},
+{
+"kids":[],
+"uid":"2764187463",
+"parent":"",
+"text":"明年今日",
+"mid":"yteic1LGZ",
+"date":"2012-07-20 00:39:17"
+},
+{
+"kids":[],
+"uid":"1793378763",
+"parent":"",
+"text":"红玫瑰",
+"mid":"ytei7h8A3",
+"date":"2012-07-20 00:39:07"
+},
+{
+"kids":[],
+"uid":"277772665",
+"parent":"",
+"text":"最佳损友 #",
+"mid":"ytei6nTEV",
+"date":"2012-07-20 00:39:00"
+},
+{
+"kids":[],
+"uid":"2001893965",
+"parent":"",
+"text":"孤独 患者。@T仔是阿Axin",
+"mid":"ytehWCGWS",
+"date":"2012-07-20 00:38:41"
+},
+{
+"kids":[],
+"uid":"jimmyxjy",
+"parent":"",
+"text":"背包！好久不见！太经典了！",
+"mid":"ytehU2Ags",
+"date":"2012-07-20 00:38:31"
+},
+{
+"kids":[
+"zgOuckD1f",
+"zg3XxpjI3",
+"zfZH2tzwe",
+"zbU461P87",
+"zbMdvrCZZ",
+"zb0AauLD7",
+"zaYnBsV1h",
+"z8DXjphWD",
+"z8upQg7Gi",
+"z8upQg7Ew",
+"z7EUM4ZyL",
+"z7wES9f8o",
+"z7wES8sTE",
+"z6MnGmNov",
+"z6Ip1ttBE",
+"z6Ip1ttzv"
+],
+"uid":"2217792827",
+"parent":"",
+"text":"每一个明天   多少",
+"mid":"ytehRDNy9",
+"date":"2012-07-20 00:38:29"
+},
+{
+"kids":[],
+"uid":"2258848055",
+"parent":"",
+"text":"浮夸。十年。",
+"mid":"ytehG6S8U",
+"date":"2012-07-20 00:37:58"
+},
+{
+"kids":[],
+"uid":"2053362017",
+"parent":"",
+"text":"好久不见。",
+"mid":"ytehFvepD",
+"date":"2012-07-20 00:38:00"
+},
+{
+"kids":[],
+"uid":"2635387590",
+"parent":"",
+"text":"红玫瑰。。得不到的永远在骚动。",
+"mid":"ytehAdOMr",
+"date":"2012-07-20 00:37:47"
+},
+{
+"kids":[],
+"uid":"yboyasd",
+"parent":"",
+"text":"好久不见",
+"mid":"ytehmBYGY",
+"date":"2012-07-20 00:37:13"
+},
+{
+"kids":[],
+"uid":"1952198233",
+"parent":"",
+"text":"好久不见。",
+"mid":"ytehm3peL",
+"date":"2012-07-20 00:37:13"
+},
+{
+"kids":[],
+"uid":"1758487025",
+"parent":"yte8Sn5mz",
+"text":"兄妹",
+"mid":"ytehhgDzh",
+"date":"2012-07-20 00:37:02"
+},
+{
+"kids":[],
+"uid":"i0882",
+"parent":"",
+"text":"我什么都没有",
+"mid":"ytehbogIT",
+"date":"2012-07-20 00:36:46"
+},
+{
+"kids":[],
+"uid":"2604931065",
+"parent":"",
+"text":"太多了，但我每次都会说好久不见。[心]@LegendChan陈花洒",
+"mid":"yteh2wfLq",
+"date":"2012-07-20 00:36:27"
+},
+{
+"kids":[],
+"uid":"tungwendy",
+"parent":"",
+"text":"打回原形[口罩]",
+"mid":"ytegVqJju",
+"date":"2012-07-20 00:36:09"
+},
+{
+"kids":[],
+"uid":"2392098447",
+"parent":"",
+"text":"孤独患者[酷]",
+"mid":"ytefVoK3y",
+"date":"2012-07-20 00:33:39"
+},
+{
+"kids":[
+"yteSFreiJ"
+],
+"uid":"1774807320",
+"parent":"",
+"text":"",
+"mid":"ytefG2gDT",
+"date":"2012-07-20 00:33:07"
+},
+{
+"kids":[
+"yteyuCXwo"
+],
+"uid":"2096450257",
+"parent":"",
+"text":"孤独患者",
+"mid":"ytefA4NCA",
+"date":"2012-07-20 00:32:51"
+},
+{
+"kids":[],
+"uid":"1988722033",
+"parent":"",
+"text":"一首哪够？！shall we talk、不要说话、孤独探戈、黑夜不再来、黑择明、婚礼的祝福、活着多好、落花流水、明年今日、你的背包、裙下之臣、伤信、最后派对。。。每夜无限循环地播放！",
+"mid":"yteflD3v6",
+"date":"2012-07-20 00:32:17"
+},
+{
+"kids":[],
+"uid":"1805008744",
+"parent":"",
+"text":"红玫瑰",
+"mid":"yteflD3qE",
+"date":"2012-07-20 00:32:17"
+},
+{
+"kids":[],
+"uid":"cyxkafe",
+"parent":"",
+"text":"k歌之王",
+"mid":"ytefkscPo",
+"date":"2012-07-20 00:32:14"
+},
+{
+"kids":[],
+"uid":"2410075312",
+"parent":"",
+"text":"于心有愧",
+"mid":"ytef03FUR",
+"date":"2012-07-20 00:31:26"
+},
+{
+"kids":[],
+"uid":"2040627575",
+"parent":"",
+"text":"好久不见···",
+"mid":"yteeSn8Jm",
+"date":"2012-07-20 00:31:07"
+},
+{
+"kids":[],
+"uid":"532376012",
+"parent":"",
+"text":"于心有愧",
+"mid":"yteeJwKS2",
+"date":"2012-07-20 00:30:46"
+},
+{
+"kids":[],
+"uid":"2277256623",
+"parent":"yte0zjv6V",
+"text":"红玫瑰",
+"mid":"yteeDArqw",
+"date":"2012-07-20 00:30:31"
+},
+{
+"kids":[],
+"uid":"512337010",
+"parent":"",
+"text":"孤独患者。",
+"mid":"yteeoxLdx",
+"date":"2012-07-20 00:29:53"
+},
+{
+"kids":[],
+"uid":"daxiongniuniu",
+"parent":"",
+"text":"不要说话。。。",
+"mid":"yteeoexiT",
+"date":"2012-07-20 00:29:52"
+},
+{
+"kids":[],
+"uid":"234518508",
+"parent":"",
+"text":"k歌之王、好久不见、明年今日、",
+"mid":"yteekFypJ",
+"date":"2012-07-20 00:29:47"
+},
+{
+"kids":[],
+"uid":"1843291241",
+"parent":"",
+"text":"红玫瑰...",
+"mid":"yteef2ElQ",
+"date":"2012-07-20 00:29:34"
+},
+{
+"kids":[],
+"uid":"1932794073",
+"parent":"",
+"text":"十年",
+"mid":"yteec5ksc",
+"date":"2012-07-20 00:29:26"
+},
+{
+"kids":[],
+"uid":"mdddddddd",
+"parent":"",
+"text":"最佳损友",
+"mid":"ytee6cCdc",
+"date":"2012-07-20 00:29:12"
+},
+{
+"kids":[
+"yteiCkrEH"
+],
+"uid":"2239205545",
+"parent":"",
+"text":"富士山下",
+"mid":"ytee3fyog",
+"date":"2012-07-20 00:29:05"
+},
+{
+"kids":[],
+"uid":"1828991042",
+"parent":"",
+"text":"全部都爱呢",
+"mid":"ytedXCfCA",
+"date":"2012-07-20 00:28:48"
+},
+{
+"kids":[
+"ythxHbd5F"
+],
+"uid":"l1yunfeng",
+"parent":"ytecAykNW",
+"text":"十年",
+"mid":"ytedRq0tH",
+"date":"2012-07-20 00:28:34"
+},
+{
+"kids":[],
+"uid":"2216524452",
+"parent":"yte8izYgK",
+"text":"我十年。。",
+"mid":"ytedC5odf",
+"date":"2012-07-20 00:28:00"
+},
+{
+"kids":[],
+"uid":"materry",
+"parent":"",
+"text":"十年",
+"mid":"ytedplFKg",
+"date":"2012-07-20 00:27:30"
+},
+{
+"kids":[],
+"uid":"1353023423",
+"parent":"",
+"text":"统统都爱，",
+"mid":"ytedk4e0H",
+"date":"2012-07-20 00:27:14"
+},
+{
+"kids":[],
+"uid":"2677486390",
+"parent":"yte2XCUoe",
+"text":"单车",
+"mid":"ytedifmut",
+"date":"2012-07-20 00:27:13"
+},
+{
+"kids":[],
+"uid":"tozhx",
+"parent":"",
+"text":"單車…",
+"mid":"ytedh6SMA",
+"date":"2012-07-20 00:27:10"
+},
+{
+"kids":[],
+"uid":"1925388914",
+"parent":"yte5ZwzYr",
+"text":"孤独患者",
+"mid":"ytedcEEhP",
+"date":"2012-07-20 00:27:00"
+},
+{
+"kids":[],
+"uid":"2631239581",
+"parent":"",
+"text":"好久不见",
+"mid":"yted45dNM",
+"date":"2012-07-20 00:26:39"
+},
+{
+"kids":[],
+"uid":"1819566235",
+"parent":"yteaZxBqg",
+"text":"徒增伤感",
+"mid":"ytecX2eb7",
+"date":"2012-07-20 00:26:21"
+},
+{
+"kids":[],
+"uid":"ls1118",
+"parent":"",
+"text":"《浮夸》+1~",
+"mid":"ytecUE5Pz",
+"date":"2012-07-20 00:26:18"
+},
+{
+"kids":[],
+"uid":"1760770797",
+"parent":"",
+"text":"爱情转移[爱你]",
+"mid":"ytecPl3b3",
+"date":"2012-07-20 00:26:04"
+},
+{
+"kids":[],
+"uid":"2010837531",
+"parent":"",
+"text":"内疚！",
+"mid":"ytecOrNHt",
+"date":"2012-07-20 00:26:02"
+},
+{
+"kids":[
+"ytedRq0tH"
+],
+"uid":"alobobo",
+"parent":"ytea1zpr6",
+"text":"浮夸",
+"mid":"ytecAykNW",
+"date":"2012-07-20 00:25:26"
+},
+{
+"kids":[],
+"uid":"1947565350",
+"parent":"",
+"text":"孤独患者",
+"mid":"ytecngvNY",
+"date":"2012-07-20 00:24:53"
+},
+{
+"kids":[],
+"uid":"2627521211",
+"parent":"",
+"text":"你当我是浮夸吧，哈哈，[鼓掌]",
+"mid":"ytecb80ED",
+"date":"2012-07-20 00:24:29"
+},
+{
+"kids":[],
+"uid":"2131475287",
+"parent":"",
+"text":"淘汰",
+"mid":"ytec7z1tt",
+"date":"2012-07-20 00:24:16"
+},
+{
+"kids":[
+"ythEZxQzL"
+],
+"uid":"1806574874",
+"parent":"yte6dbKa2",
+"text":"最炫民族风",
+"mid":"ytec1mJRn",
+"date":"2012-07-20 00:24:05"
+},
+{
+"kids":[],
+"uid":"1763529781",
+"parent":"",
+"text":"明年今日",
+"mid":"ytec0v1aL",
+"date":"2012-07-20 00:24:03"
+},
+{
+"kids":[],
+"uid":"2182802873",
+"parent":"",
+"text":"吟游诗人 春光乍泄 全世界失眠",
+"mid":"ytebU17OL",
+"date":"2012-07-20 00:23:46"
+},
+{
+"kids":[],
+"uid":"2747287491",
+"parent":"",
+"text":"与我常在@福気包",
+"mid":"ytebHA6JN",
+"date":"2012-07-20 00:23:18"
+},
+{
+"kids":[],
+"uid":"206787753",
+"parent":"yte6e4Oy3",
+"text":"看穿",
+"mid":"ytebB3vQ6",
+"date":"2012-07-20 00:23:02"
+},
+{
+"kids":[],
+"uid":"2272606190",
+"parent":"",
+"text":"",
+"mid":"ytebyqtqn",
+"date":"2012-07-20 00:22:53"
+},
+{
+"kids":[],
+"uid":"1767194297",
+"parent":"yte4WgeOX",
+"text":"好久不见",
+"mid":"ytebvb7oX",
+"date":"2012-07-20 00:22:44"
+},
+{
+"kids":[],
+"uid":"2505753881",
+"parent":"",
+"text":"好久不见",
+"mid":"ytebu0FWf",
+"date":"2012-07-20 00:22:45"
+},
+{
+"kids":[],
+"uid":"someonelikeyou99",
+"parent":"",
+"text":"当地球没有花！",
+"mid":"ytebr2VCk",
+"date":"2012-07-20 00:22:37"
+},
+{
+"kids":[],
+"uid":"05175578",
+"parent":"",
+"text":"最佳损友…",
+"mid":"ytebl8DUi",
+"date":"2012-07-20 00:22:23"
+},
+{
+"kids":[],
+"uid":"lovingcoco",
+"parent":"",
+"text":"愛他穿著白紗唱白玫瑰~",
+"mid":"ytebbDi2K",
+"date":"2012-07-20 00:22:02"
+},
+{
+"kids":[],
+"uid":"queenlalacandy",
+"parent":"",
+"text":"最近喜欢孤独患者",
+"mid":"yteb5caTa",
+"date":"2012-07-20 00:21:46"
+},
+{
+"kids":[
+"ytecX2eb7"
+],
+"uid":"lianyu5866",
+"parent":"yte4Q3adp",
+"text":"嫂子，请不要刺激我，默默的去，带我问声好，否则带我去！！[抓狂]ps：陀飞轮",
+"mid":"yteaZxBqg",
+"date":"2012-07-20 00:21:33"
+},
+{
+"kids":[],
+"uid":"2130516400",
+"parent":"",
+"text":"红玫瑰～",
+"mid":"yteaUuaPP",
+"date":"2012-07-20 00:21:21"
+},
+{
+"kids":[],
+"uid":"2162007664",
+"parent":"",
+"text":"浮夸",
+"mid":"yteaSs4Ci",
+"date":"2012-07-20 00:21:16"
+},
+{
+"kids":[],
+"uid":"fix0528",
+"parent":"",
+"text":"我勒个去！每首都喜欢的啊！EF飘过......@思念王大可",
+"mid":"yteaNqDqS",
+"date":"2012-07-20 00:21:03"
+},
+{
+"kids":[],
+"uid":"fongjm",
+"parent":"",
+"text":"十年。",
+"mid":"yteaFtkKh",
+"date":"2012-07-20 00:20:43"
+},
+{
+"kids":[],
+"uid":"1760647414",
+"parent":"",
+"text":"太多了。。。兄妹，单车，浮夸，好久不见，明年今日，沙龙，你的背包，淘汰，今天等你来，人来人往，孤独患者，想哭，k歌之王，内疚，爱是怀疑，红玫瑰，富士山下，爱情转移，我的快乐时代，不如这样。。。。。。",
+"mid":"yteaji0Lr",
+"date":"2012-07-20 00:19:51"
+},
+{
+"kids":[
+"ytejs1Gyp"
+],
+"uid":"2036353035",
+"parent":"",
+"text":"红玫瑰",
+"mid":"yteaa7x1a",
+"date":"2012-07-20 00:19:30"
+},
+{
+"kids":[
+"ytecAykNW"
+],
+"uid":"2424919924",
+"parent":"yte7BprzV",
+"text":"淘汰",
+"mid":"ytea1zpr6",
+"date":"2012-07-20 00:19:10"
+},
+{
+"kids":[],
+"uid":"songyudezuoan",
+"parent":"",
+"text":"白玫瑰",
+"mid":"yte9K93gT",
+"date":"2012-07-20 00:18:24"
+},
+{
+"kids":[],
+"uid":"2647520374",
+"parent":"yte0zgEz8",
+"text":"最爱：好久不见",
+"mid":"yte9s5KBD",
+"date":"2012-07-20 00:17:42"
+},
+{
+"kids":[],
+"uid":"1901022343",
+"parent":"",
+"text":"k歌之王",
+"mid":"yte9rthvJ",
+"date":"2012-07-20 00:17:40"
+},
+{
+"kids":[],
+"uid":"lingjingsea",
+"parent":"",
+"text":"于心有愧",
+"mid":"yte91wIFP",
+"date":"2012-07-20 00:16:41"
+},
+{
+"kids":[
+"ytehhgDzh"
+],
+"uid":"runawayjas",
+"parent":"",
+"text":"人来人往",
+"mid":"yte8Sn5mz",
+"date":"2012-07-20 00:16:19"
+},
+{
+"kids":[],
+"uid":"taotaovivian",
+"parent":"yte5WBbr7",
+"text":"红玫瑰",
+"mid":"yte8QiZgc",
+"date":"2012-07-20 00:16:11"
+},
+{
+"kids":[],
+"uid":"2242593623",
+"parent":"",
+"text":"淘汰",
+"mid":"yte8Q1o2b",
+"date":"2012-07-20 00:16:14"
+},
+{
+"kids":[],
+"uid":"2646410435",
+"parent":"yte77jzAR",
+"text":"十年@执牛耳金小龙",
+"mid":"yte8NkfuV",
+"date":"2012-07-20 00:16:07"
+},
+{
+"kids":[],
+"uid":"1733309631",
+"parent":"yte8qA8qF",
+"text":"十年",
+"mid":"yte8N2EaC",
+"date":"2012-07-20 00:16:07"
+},
+{
+"kids":[
+"ywFkw2Qw0"
+],
+"uid":"2138282380",
+"parent":"",
+"text":"淘汰",
+"mid":"yte8N2E2A",
+"date":"2012-07-20 00:16:04"
+},
+{
+"kids":[],
+"uid":"515540120",
+"parent":"",
+"text":"一丝不挂",
+"mid":"yte8N1hv1",
+"date":"2012-07-20 00:16:05"
+},
+{
+"kids":[],
+"uid":"kayvane",
+"parent":"",
+"text":"淘汰 兄妹 红玫瑰",
+"mid":"yte8I1cQx",
+"date":"2012-07-20 00:15:54"
+},
+{
+"kids":[],
+"uid":"2121550477",
+"parent":"",
+"text":"孤独患者。",
+"mid":"yte8H9lZn",
+"date":"2012-07-20 00:15:50"
+},
+{
+"kids":[],
+"uid":"2506121742",
+"parent":"",
+"text":"来首单车",
+"mid":"yte8FBKRS",
+"date":"2012-07-20 00:15:51"
+},
+{
+"kids":[],
+"uid":"jdg77",
+"parent":"",
+"text":"六月飞霜 大开眼界 ''若你喜欢怪人 其实我很美''",
+"mid":"yte8vBzMZ",
+"date":"2012-07-20 00:15:26"
+},
+{
+"kids":[
+"yte8N2EaC"
+],
+"uid":"cheongcheong",
+"parent":"yte78uqsA",
+"text":"陀飞轮",
+"mid":"yte8qA8qF",
+"date":"2012-07-20 00:15:11"
+},
+{
+"kids":[
+"ytedC5odf"
+],
+"uid":"jiangyongbin",
+"parent":"",
+"text":"好久不见吧、",
+"mid":"yte8izYgK",
+"date":"2012-07-20 00:14:55"
+},
+{
+"kids":[],
+"uid":"1472634255",
+"parent":"",
+"text":"好久不见",
+"mid":"yte8fCD7u",
+"date":"2012-07-20 00:14:48"
+},
+{
+"kids":[],
+"uid":"2148512530",
+"parent":"",
+"text":"这样的一个麻烦",
+"mid":"yte87kltf",
+"date":"2012-07-20 00:14:25"
+},
+{
+"kids":[],
+"uid":"2368488594",
+"parent":"",
+"text":"打回原形",
+"mid":"yte86bosp",
+"date":"2012-07-20 00:14:24"
+},
+{
+"kids":[],
+"uid":"1916770290",
+"parent":"",
+"text":"富士山下",
+"mid":"yte7S1G9W",
+"date":"2012-07-20 00:13:51"
+},
+{
+"kids":[],
+"uid":"1804473890",
+"parent":"yte302b2q",
+"text":"孤独患者，看到的人，接下去。",
+"mid":"yte7FApmS",
+"date":"2012-07-20 00:13:21"
+},
+{
+"kids":[],
+"uid":"ailsa307",
+"parent":"",
+"text":"在有生的瞬间能遇到你，已花光所有运气。到这日才发现，曾呼吸过空气。",
+"mid":"yte7BtyRU",
+"date":"2012-07-20 00:13:12"
+},
+{
+"kids":[
+"ytea1zpr6"
+],
+"uid":"123721319",
+"parent":"yte0w4yjv",
+"text":"最佳损友",
+"mid":"yte7BprzV",
+"date":"2012-07-20 00:13:09"
+},
+{
+"kids":[],
+"uid":"1696842572",
+"parent":"",
+"text":"葡萄成熟时",
+"mid":"yte7zpsZr",
+"date":"2012-07-20 00:13:08"
+},
+{
+"kids":[],
+"uid":"2619094255",
+"parent":"yte5ziTnB",
+"text":"苦瓜加好久不见",
+"mid":"yte7kl8op",
+"date":"2012-07-20 00:12:31"
+},
+{
+"kids":[],
+"uid":"2182836942",
+"parent":"",
+"text":":淘汰",
+"mid":"yte7dvRK3",
+"date":"2012-07-20 00:12:15"
+},
+{
+"kids":[
+"ythmND8ct",
+"yteGs7BIQ"
+],
+"uid":"2030753065",
+"parent":"yte4Q3adp",
+"text":"不如不见",
+"mid":"yte7azQy2",
+"date":"2012-07-20 00:12:07"
+},
+{
+"kids":[
+"yte8qA8qF"
+],
+"uid":"joetsang88",
+"parent":"",
+"text":"不如不见",
+"mid":"yte78uqsA",
+"date":"2012-07-20 00:12:01"
+},
+{
+"kids":[
+"ytiMzrK9M",
+"ytgQLCMYa",
+"yte8NkfuV"
+],
+"uid":"524113234",
+"parent":"yte4ZdyTt",
+"text":"你的背包~",
+"mid":"yte77jzAR",
+"date":"2012-07-20 00:11:57"
+},
+{
+"kids":[],
+"uid":"2272272182",
+"parent":"",
+"text":"不如不见，独家记忆。。。好多",
+"mid":"yte74lD5O",
+"date":"2012-07-20 00:11:51"
+},
+{
+"kids":[
+"ytepcnHuq"
+],
+"uid":"1802003942",
+"parent":"",
+"text":"淘汰",
+"mid":"yte6MDtdF",
+"date":"2012-07-20 00:11:11"
+},
+{
+"kids":[],
+"uid":"2002025357",
+"parent":"",
+"text":"红玫瑰、红玫瑰",
+"mid":"yte6KxCoH",
+"date":"2012-07-20 00:11:05"
+},
+{
+"kids":[],
+"uid":"2638845835",
+"parent":"yte1Ieg04",
+"text":"全世界都失眠",
+"mid":"yte6H2OSi",
+"date":"2012-07-20 00:10:55"
+},
+{
+"kids":[],
+"uid":"336795556",
+"parent":"yte4D3R35",
+"text":"内疚",
+"mid":"yte6oococ",
+"date":"2012-07-20 00:10:13"
+},
+{
+"kids":[
+"ytgeL6R6i"
+],
+"uid":"2233660420",
+"parent":"",
+"text":"你的背包。。。",
+"mid":"yte6neDv0",
+"date":"2012-07-20 00:10:07"
+},
+{
+"kids":[
+"ytebB3vQ6"
+],
+"uid":"scarlett0315",
+"parent":"yte4Xr504",
+"text":"对对对！",
+"mid":"yte6e4Oy3",
+"date":"2012-07-20 00:09:48"
+},
+{
+"kids":[
+"ytifa3ZDJ"
+],
+"uid":"1731774040",
+"parent":"",
+"text":"婚礼的祝福~@水水YU。 BABY只有你懂~[月亮]",
+"mid":"yte6dtlJX",
+"date":"2012-07-20 00:09:47"
+},
+{
+"kids":[
+"ytec1mJRn"
+],
+"uid":"2436561032",
+"parent":"yte5ziTnB",
+"text":"白玫瑰",
+"mid":"yte6dbKa2",
+"date":"2012-07-20 00:09:46"
+},
+{
+"kids":[],
+"uid":"jny921107",
+"parent":"",
+"text":"十年",
+"mid":"yte6civ0r",
+"date":"2012-07-20 00:09:44"
+},
+{
+"kids":[],
+"uid":"njlzyjj",
+"parent":"",
+"text":"孤独患者",
+"mid":"yte68rUaV",
+"date":"2012-07-20 00:09:34"
+},
+{
+"kids":[],
+"uid":"1938175042",
+"parent":"",
+"text":"好久不见[哈哈]",
+"mid":"yte686WMs",
+"date":"2012-07-20 00:09:33"
+},
+{
+"kids":[],
+"uid":"2071638831",
+"parent":"",
+"text":"淘汰",
+"mid":"yte65byiH",
+"date":"2012-07-20 00:09:27"
+},
+{
+"kids":[],
+"uid":"1644787534",
+"parent":"",
+"text":"浮夸[good]",
+"mid":"yte613o7b",
+"date":"2012-07-20 00:09:13"
+},
+{
+"kids":[],
+"uid":"1985496022",
+"parent":"yte4Q3adp",
+"text":"一首不够啊!!最近很喜欢孤独患者",
+"mid":"yte5ZzRPD",
+"date":"2012-07-20 00:09:14"
+},
+{
+"kids":[
+"ytedcEEhP"
+],
+"uid":"2034353527",
+"parent":"",
+"text":"单车",
+"mid":"yte5ZwzYr",
+"date":"2012-07-20 00:09:14"
+},
+{
+"kids":[
+"yth1QCGYs",
+"ytfr4zzdv",
+"yte8QiZgc"
+],
+"uid":"1721534733",
+"parent":"",
+"text":"想哭",
+"mid":"yte5WBbr7",
+"date":"2012-07-20 00:09:08"
+},
+{
+"kids":[],
+"uid":"helen6788",
+"parent":"",
+"text":"你的背包～",
+"mid":"yte5QoW9T",
+"date":"2012-07-20 00:08:52"
+},
+{
+"kids":[],
+"uid":"seraphimk25712",
+"parent":"",
+"text":"六月飛霜",
+"mid":"yte5Ncntx",
+"date":"2012-07-20 00:08:40"
+},
+{
+"kids":[],
+"uid":"2357419633",
+"parent":"",
+"text":"明年今日[爱你]",
+"mid":"yte5L8hu6",
+"date":"2012-07-20 00:08:36"
+},
+{
+"kids":[],
+"uid":"2494789871",
+"parent":"",
+"text":"爱情转移",
+"mid":"yte5AqELc",
+"date":"2012-07-20 00:08:14"
+},
+{
+"kids":[
+"ytevknB5Z",
+"yte7kl8op",
+"yte6dbKa2"
+],
+"uid":"2419889295",
+"parent":"",
+"text":"陈奕迅－背包 [可怜]",
+"mid":"yte5ziTnB",
+"date":"2012-07-20 00:08:10"
+},
+{
+"kids":[],
+"uid":"1975909985",
+"parent":"",
+"text":"最爱沙龙",
+"mid":"yte5r0jHm",
+"date":"2012-07-20 00:07:51"
+},
+{
+"kids":[],
+"uid":"wingxwf",
+"parent":"",
+"text":"昨天！mr.",
+"mid":"yte5mhpWJ",
+"date":"2012-07-20 00:07:40"
+},
+{
+"kids":[],
+"uid":"2385880530",
+"parent":"",
+"text":"一丝不挂",
+"mid":"yte5i8lq8",
+"date":"2012-07-20 00:07:30"
+},
+{
+"kids":[],
+"uid":"haibarav",
+"parent":"yte1B7jZr",
+"text":"最近超迷孤独患者",
+"mid":"yte55rPIn",
+"date":"2012-07-20 00:07:01"
+},
+{
+"kids":[
+"ytWM34LYd",
+"ytWLS9UW4",
+"yte77jzAR"
+],
+"uid":"539573123",
+"parent":"",
+"text":"全世界失眠......",
+"mid":"yte4ZdyTt",
+"date":"2012-07-20 00:06:45"
+},
+{
+"kids":[
+"yte6e4Oy3"
+],
+"uid":"2506906965",
+"parent":"yte4ps4Yy",
+"text":"其实淘汰也是蛮好的",
+"mid":"yte4Xr504",
+"date":"2012-07-20 00:06:42"
+},
+{
+"kids":[
+"yteLNCEFC",
+"ytebvb7oX"
+],
+"uid":"freestylelee",
+"parent":"",
+"text":"圣诞结",
+"mid":"yte4WgeOX",
+"date":"2012-07-20 00:06:38"
+},
+{
+"kids":[
+"ytixL4miN",
+"yteaZxBqg",
+"yte7azQy2",
+"yte5ZzRPD"
+],
+"uid":"julycaicai",
+"parent":"",
+"text":"红玫瑰",
+"mid":"yte4Q3adp",
+"date":"2012-07-20 00:06:23"
+},
+{
+"kids":[],
+"uid":"1985118811",
+"parent":"",
+"text":"圣诞节",
+"mid":"yte4MfiGJ",
+"date":"2012-07-20 00:06:14"
+},
+{
+"kids":[],
+"uid":"208177893",
+"parent":"",
+"text":"最后派对！",
+"mid":"yte4GCdcr",
+"date":"2012-07-20 00:06:02"
+},
+{
+"kids":[],
+"uid":"2163500675",
+"parent":"",
+"text":"淘汰。",
+"mid":"yte4Dngd6",
+"date":"2012-07-20 00:05:50"
+},
+{
+"kids":[
+"yteXLksOO",
+"ytemgnZBA",
+"yte6oococ"
+],
+"uid":"1847063711",
+"parent":"yte0WEecR",
+"text":"圣诞结",
+"mid":"yte4D3R35",
+"date":"2012-07-20 00:05:52"
+},
+{
+"kids":[],
+"uid":"1842066185",
+"parent":"",
+"text":"一切还好呵呵",
+"mid":"yte4AoI3G",
+"date":"2012-07-20 00:05:43"
+},
+{
+"kids":[],
+"uid":"2443160390",
+"parent":"",
+"text":"",
+"mid":"yte4AoHSI",
+"date":"2012-07-20 00:05:46"
+},
+{
+"kids":[],
+"uid":"linyongxiang",
+"parent":"",
+"text":"大把了。现在听一丝不挂。",
+"mid":"yte4A76C8",
+"date":"2012-07-20 00:05:45"
+},
+{
+"kids":[],
+"uid":"2694673854",
+"parent":"",
+"text":"明年今日",
+"mid":"yte4xaXVg",
+"date":"2012-07-20 00:05:35"
+},
+{
+"kids":[
+"ytj4C9wcR"
+],
+"uid":"1411179774",
+"parent":"",
+"text":"好久不见",
+"mid":"yte4usEHS",
+"date":"2012-07-20 00:05:31"
+},
+{
+"kids":[],
+"uid":"2345395411",
+"parent":"",
+"text":"好久不见",
+"mid":"yte4s8jQ1",
+"date":"2012-07-20 00:05:26"
+},
+{
+"kids":[
+"yte4Xr504"
+],
+"uid":"2506906965",
+"parent":"yte4byHSe",
+"text":"嘿嘿",
+"mid":"yte4ps4Yy",
+"date":"2012-07-20 00:05:21"
+},
+{
+"kids":[],
+"uid":"2215756724",
+"parent":"",
+"text":"最佳损友，k歌之王",
+"mid":"yte4mtVEb",
+"date":"2012-07-20 00:05:09"
+},
+{
+"kids":[],
+"uid":"shmilyrosyandjimmy",
+"parent":"",
+"text":"圣诞节",
+"mid":"yte4lDbbI",
+"date":"2012-07-20 00:05:10"
+},
+{
+"kids":[],
+"uid":"2237091333",
+"parent":"",
+"text":"一丝不挂。有深度的歌。",
+"mid":"yte4jz4Zo",
+"date":"2012-07-20 00:05:06"
+},
+{
+"kids":[],
+"uid":"2086255141",
+"parent":"",
+"text":"淘汰",
+"mid":"yte4huT9k",
+"date":"2012-07-20 00:04:59"
+},
+{
+"kids":[],
+"uid":"1891227853",
+"parent":"",
+"text":"圣诞结",
+"mid":"yte4f7FBF",
+"date":"2012-07-20 00:04:52"
+},
+{
+"kids":[],
+"uid":"2651902351",
+"parent":"",
+"text":"于心有愧，，",
+"mid":"yte4bBnWf",
+"date":"2012-07-20 00:04:48"
+},
+{
+"kids":[
+"yte4ps4Yy"
+],
+"uid":"scarlett0315",
+"parent":"yte3Rbusx",
+"text":"怪理由",
+"mid":"yte4byHSe",
+"date":"2012-07-20 00:04:46"
+},
+{
+"kids":[],
+"uid":"jieyuoo",
+"parent":"",
+"text":"孤独患者[心]",
+"mid":"yte426IbO",
+"date":"2012-07-20 00:04:25"
+},
+{
+"kids":[],
+"uid":"1908995487",
+"parent":"",
+"text":"好久不见",
+"mid":"yte3Yg9hr",
+"date":"2012-07-20 00:04:14"
+},
+{
+"kids":[],
+"uid":"207565633",
+"parent":"",
+"text":"孤独患者！",
+"mid":"yte3Y0Lah",
+"date":"2012-07-20 00:04:11"
+},
+{
+"kids":[],
+"uid":"2477334653",
+"parent":"",
+"text":"K歌之王",
+"mid":"yte3S64pt",
+"date":"2012-07-20 00:04:01"
+},
+{
+"kids":[
+"yte4byHSe"
+],
+"uid":"2506906965",
+"parent":"yte2Tboki",
+"text":"因为这首从没和别人唱好过",
+"mid":"yte3Rbusx",
+"date":"2012-07-20 00:03:58"
+},
+{
+"kids":[],
+"uid":"1769164570",
+"parent":"",
+"text":"最佳损友！",
+"mid":"yte3P9Tq3",
+"date":"2012-07-20 00:03:50"
+},
+{
+"kids":[],
+"uid":"1652533471",
+"parent":"",
+"text":"无人之境。",
+"mid":"yte3Li8fF",
+"date":"2012-07-20 00:03:41"
+},
+{
+"kids":[],
+"uid":"2317375574",
+"parent":"",
+"text":"积木",
+"mid":"yte3K8rOl",
+"date":"2012-07-20 00:03:40"
+},
+{
+"kids":[],
+"uid":"yvonne860604",
+"parent":"yte3k6P2V",
+"text":"太多了，没法儿选。。。",
+"mid":"yte3D2U2Z",
+"date":"2012-07-20 00:03:21"
+},
+{
+"kids":[],
+"uid":"siberia1943",
+"parent":"",
+"text":"好久不见",
+"mid":"yte3viyu4",
+"date":"2012-07-20 00:03:08"
+},
+{
+"kids":[],
+"uid":"1944529443",
+"parent":"",
+"text":"苦瓜",
+"mid":"yte3qzzMg",
+"date":"2012-07-20 00:02:55"
+},
+{
+"kids":[],
+"uid":"2313429917",
+"parent":"",
+"text":"好久不见",
+"mid":"yte3ogacs",
+"date":"2012-07-20 00:02:45"
+},
+{
+"kids":[
+"yte3D2U2Z"
+],
+"uid":"1762457021",
+"parent":"",
+"text":"外向的孤独患者自我拉扯。。。",
+"mid":"yte3k6P2V",
+"date":"2012-07-20 00:02:39"
+},
+{
+"kids":[],
+"uid":"2131986530",
+"parent":"",
+"text":"转发微博。",
+"mid":"yte3iltmI",
+"date":"2012-07-20 00:02:35"
+},
+{
+"kids":[
+"yteq1xPuJ",
+"yteji2z4f"
+],
+"uid":"1914740530",
+"parent":"",
+"text":"苦瓜",
+"mid":"yte3fl5V1",
+"date":"2012-07-20 00:02:28"
+},
+{
+"kids":[],
+"uid":"2699552930",
+"parent":"",
+"text":"他的歌都喜欢 现在正在听兄妹 林夕的词 你说多完美",
+"mid":"yte3aD8KT",
+"date":"2012-07-20 00:02:14"
+},
+{
+"kids":[],
+"uid":"2458664952",
+"parent":"",
+"text":"单车",
+"mid":"yte34rYB1",
+"date":"2012-07-20 00:02:01"
+},
+{
+"kids":[],
+"uid":"hnwangliangchao",
+"parent":"",
+"text":"暂时最爱 一絲不挂",
+"mid":"yte3259aq",
+"date":"2012-07-20 00:01:57"
+},
+{
+"kids":[],
+"uid":"helloflawless",
+"parent":"",
+"text":"淘汰。",
+"mid":"yte31uDg7",
+"date":"2012-07-20 00:01:56"
+},
+{
+"kids":[
+"yte7FApmS"
+],
+"uid":"208077787",
+"parent":"",
+"text":"太多了''''被说掉了'那就'好久不见[可爱]@堕落为虚 @那些美好的台词 @夏米小姐 @面带微笑的向日葵 @那些触动你的歌词",
+"mid":"yte302b2q",
+"date":"2012-07-20 00:01:51"
+},
+{
+"kids":[],
+"uid":"2501878871",
+"parent":"",
+"text":"好久不见",
+"mid":"yte2YxhIF",
+"date":"2012-07-20 00:01:48"
+},
+{
+"kids":[
+"ytiRcDQqV"
+],
+"uid":"1689755740",
+"parent":"",
+"text":"富士山下",
+"mid":"yte2YeynH",
+"date":"2012-07-20 00:01:47"
+},
+{
+"kids":[
+"ytedifmut"
+],
+"uid":"gaoyaoguan",
+"parent":"",
+"text":"不如不見",
+"mid":"yte2XCUoe",
+"date":"2012-07-20 00:01:46"
+},
+{
+"kids":[],
+"uid":"1916864987",
+"parent":"",
+"text":"单车",
+"mid":"yte2XliQa",
+"date":"2012-07-20 00:01:46"
+},
+{
+"kids":[],
+"uid":"2629951951",
+"parent":"",
+"text":"每个人都有爱陈奕迅的一首歌，我先来，红玫瑰。你呢？接下去～",
+"mid":"yte2UEF0H",
+"date":"2012-07-20 00:01:37"
+},
+{
+"kids":[],
+"uid":"2475727124",
+"parent":"",
+"text":"E神，路，一直都在！",
+"mid":"yte2Un3Lz",
+"date":"2012-07-20 00:01:38"
+},
+{
+"kids":[
+"yte3Rbusx"
+],
+"uid":"scarlett0315",
+"parent":"yte1MCzNH",
+"text":"没想到你喜欢这首唉",
+"mid":"yte2Tboki",
+"date":"2012-07-20 00:01:35"
+},
+{
+"kids":[],
+"uid":"1281990890",
+"parent":"",
+"text":"",
+"mid":"yte2RqC2O",
+"date":"2012-07-20 00:01:26"
+},
+{
+"kids":[],
+"uid":"1638704721",
+"parent":"",
+"text":"",
+"mid":"yte2Ra8ht",
+"date":"2012-07-20 00:01:29"
+},
+{
+"kids":[],
+"uid":"2370574634",
+"parent":"",
+"text":"十年[心]",
+"mid":"yte2R90xR",
+"date":"2012-07-20 00:01:30"
+},
+{
+"kids":[],
+"uid":"valenti13",
+"parent":"",
+"text":"好久不见，红玫瑰",
+"mid":"yte2QxmH3",
+"date":"2012-07-20 00:01:29"
+},
+{
+"kids":[],
+"uid":"1916341741",
+"parent":"",
+"text":"红玫瑰、",
+"mid":"yte2QxmCH",
+"date":"2012-07-20 00:01:28"
+},
+{
+"kids":[],
+"uid":"2403928484",
+"parent":"",
+"text":"不要说话",
+"mid":"yte2QgSVX",
+"date":"2012-07-20 00:01:26"
+},
+{
+"kids":[],
+"uid":"miamia1128",
+"parent":"",
+"text":"夕阳无限好，不如不见，阿牛，葡萄成熟时，兄妹，我不好爱 @梅甚么",
+"mid":"yte2NzaRh",
+"date":"2012-07-20 00:01:22"
+},
+{
+"kids":[],
+"uid":"2194357912",
+"parent":"",
+"text":"",
+"mid":"yte2M7zbx",
+"date":"2012-07-20 00:01:14"
+},
+{
+"kids":[],
+"uid":"1097872910",
+"parent":"",
+"text":"",
+"mid":"yte2LvVfb",
+"date":"2012-07-20 00:01:16"
+},
+{
+"kids":[],
+"uid":"2173601342",
+"parent":"",
+"text":"",
+"mid":"yte2LfqSE",
+"date":"2012-07-20 00:01:11"
+},
+{
+"kids":[],
+"uid":"2445724904",
+"parent":"",
+"text":"",
+"mid":"yte2JrP2n",
+"date":"2012-07-20 00:01:09"
+},
+{
+"kids":[],
+"uid":"1014827823",
+"parent":"",
+"text":"红玫瑰",
+"mid":"yte2HoQ38",
+"date":"2012-07-20 00:01:07"
+},
+{
+"kids":[],
+"uid":"10200318",
+"parent":"",
+"text":"富士山下",
+"mid":"yte2HoPdE",
+"date":"2012-07-20 00:01:08"
+},
+{
+"kids":[],
+"uid":"2831526467",
+"parent":"",
+"text":"",
+"mid":"yte2E9SdS",
+"date":"2012-07-20 00:00:54"
+},
+{
+"kids":[],
+"uid":"1837800044",
+"parent":"",
+"text":"",
+"mid":"yte2CEZ9Q",
+"date":"2012-07-20 00:00:53"
+},
+{
+"kids":[],
+"uid":"2363932414",
+"parent":"",
+"text":"",
+"mid":"yte2BveUv",
+"date":"2012-07-20 00:00:48"
+},
+{
+"kids":[],
+"uid":"2591497904",
+"parent":"",
+"text":"",
+"mid":"yte2BcwOU",
+"date":"2012-07-20 00:00:49"
+},
+{
+"kids":[],
+"uid":"siying1012",
+"parent":"",
+"text":"富士山下",
+"mid":"yte2zr8Pw",
+"date":"2012-07-20 00:00:45"
+},
+{
+"kids":[],
+"uid":"2750548860",
+"parent":"",
+"text":"伤信",
+"mid":"yte2yfbtf",
+"date":"2012-07-20 00:00:44"
+},
+{
+"kids":[],
+"uid":"1749003834",
+"parent":"",
+"text":"",
+"mid":"yte2xEEaW",
+"date":"2012-07-20 00:00:43"
+},
+{
+"kids":[],
+"uid":"mylovejustforjun",
+"parent":"yte2dga6T",
+"text":"你妹！",
+"mid":"yte2xlWdY",
+"date":"2012-07-20 00:00:41"
+},
+{
+"kids":[],
+"uid":"1891173404",
+"parent":"",
+"text":"",
+"mid":"yte2x5rfk",
+"date":"2012-07-20 00:00:38"
+},
+{
+"kids":[],
+"uid":"1789122373",
+"parent":"",
+"text":"孤独患者",
+"mid":"yte2vzruj",
+"date":"2012-07-20 00:00:39"
+},
+{
+"kids":[],
+"uid":"stzaq",
+"parent":"",
+"text":"预感[可爱]",
+"mid":"yte2vwOda",
+"date":"2012-07-20 00:00:39"
+},
+{
+"kids":[],
+"uid":"2872689090",
+"parent":"",
+"text":"圣诞结",
+"mid":"yte2tb7OK",
+"date":"2012-07-20 00:00:32"
+},
+{
+"kids":[],
+"uid":"2748952841",
+"parent":"",
+"text":"红玫瑰",
+"mid":"yte2szu7r",
+"date":"2012-07-20 00:00:30"
+},
+{
+"kids":[],
+"uid":"1677973604",
+"parent":"",
+"text":"",
+"mid":"yte2rslzQ",
+"date":"2012-07-20 00:00:25"
+},
+{
+"kids":[],
+"uid":"2659243163",
+"parent":"",
+"text":"红玫瑰…",
+"mid":"yte2r72I8",
+"date":"2012-07-20 00:00:28"
+},
+{
+"kids":[],
+"uid":"818192899",
+"parent":"",
+"text":"都喜欢",
+"mid":"yte2qz63G",
+"date":"2012-07-20 00:00:27"
+},
+{
+"kids":[],
+"uid":"2846859043",
+"parent":"",
+"text":"",
+"mid":"yte2pEKHp",
+"date":"2012-07-20 00:00:21"
+},
+{
+"kids":[],
+"uid":"2303343587",
+"parent":"",
+"text":"",
+"mid":"yte2pn9cQ",
+"date":"2012-07-20 00:00:20"
+},
+{
+"kids":[],
+"uid":"1988138037",
+"parent":"",
+"text":"十面埋伏",
+"mid":"yte2os98V",
+"date":"2012-07-20 00:00:21"
+},
+{
+"kids":[],
+"uid":"luxingboy",
+"parent":"",
+"text":"K歌之王...",
+"mid":"yte2nBKCz",
+"date":"2012-07-20 00:00:21"
+},
+{
+"kids":[],
+"uid":"2492651290",
+"parent":"",
+"text":"寂寞让你更快乐[思考][思考][思考]",
+"mid":"yte2nj3f3",
+"date":"2012-07-20 00:00:20"
+},
+{
+"kids":[],
+"uid":"pigppp",
+"parent":"",
+"text":"人来人往",
+"mid":"yte2mneLs",
+"date":"2012-07-20 00:00:18"
+},
+{
+"kids":[],
+"uid":"mint1213z",
+"parent":"",
+"text":"心的距离",
+"mid":"yte2kjYU4",
+"date":"2012-07-20 00:00:09"
+},
+{
+"kids":[
+"yte2xlWdY"
+],
+"uid":"1954054727",
+"parent":"yte1Z69yV",
+"text":"[哼]机油别抢，他是我的！",
+"mid":"yte2dga6T",
+"date":"2012-07-19 23:59:55"
+},
+{
+"kids":[],
+"uid":"2033630804",
+"parent":"",
+"text":"孤独患者",
+"mid":"yte27E9UR",
+"date":"2012-07-19 23:59:43"
+},
+{
+"kids":[],
+"uid":"2148172940",
+"parent":"",
+"text":"太多了啊，[思考]人来人往！",
+"mid":"yte27D4wn",
+"date":"2012-07-19 23:59:41"
+},
+{
+"kids":[
+"ytBYhkLVQ",
+"ytsQO6LJM"
+],
+"uid":"2213771893",
+"parent":"",
+"text":"遥远的她",
+"mid":"yte27myqM",
+"date":"2012-07-19 23:59:42"
+},
+{
+"kids":[],
+"uid":"byke1989",
+"parent":"",
+"text":"红玫瑰",
+"mid":"yte22l6Ir",
+"date":"2012-07-19 23:59:30"
+},
+{
+"kids":[],
+"uid":"2868084174",
+"parent":"",
+"text":"K歌之王",
+"mid":"yte20v7WP",
+"date":"2012-07-19 23:59:25"
+},
+{
+"kids":[
+"yte2dga6T"
+],
+"uid":"mylovejustforjun",
+"parent":"",
+"text":"全部都爱！",
+"mid":"yte1Z69yV",
+"date":"2012-07-19 23:59:20"
+},
+{
+"kids":[],
+"uid":"2286898483",
+"parent":"",
+"text":"《遥远的她》",
+"mid":"yte1YuvBi",
+"date":"2012-07-19 23:59:17"
+},
+{
+"kids":[],
+"uid":"saktetim",
+"parent":"",
+"text":"孤独患者",
+"mid":"yte1Vxa3M",
+"date":"2012-07-19 23:59:10"
+},
+{
+"kids":[],
+"uid":"1295013565",
+"parent":"",
+"text":"必须是不如不见。",
+"mid":"yte1Vw5Et",
+"date":"2012-07-19 23:59:10"
+},
+{
+"kids":[],
+"uid":"2477955404",
+"parent":"",
+"text":"都爱独爱[爱你]",
+"mid":"yte1UCQmW",
+"date":"2012-07-19 23:59:11"
+},
+{
+"kids":[
+"ythAzAiZp"
+],
+"uid":"chouvkim",
+"parent":"",
+"text":"k歌之王",
+"mid":"yte1QbxEc",
+"date":"2012-07-19 23:58:56"
+},
+{
+"kids":[
+"ytew9wZQf"
+],
+"uid":"2601067364",
+"parent":"",
+"text":"孤独患者",
+"mid":"yte1O7sv1",
+"date":"2012-07-19 23:58:55"
+},
+{
+"kids":[
+"yte2Tboki"
+],
+"uid":"2506906965",
+"parent":"yte1af0kw",
+"text":"因为爱情",
+"mid":"yte1MCzNH",
+"date":"2012-07-19 23:58:49"
+},
+{
+"kids":[
+"yte6H2OSi"
+],
+"uid":"xlzxxl",
+"parent":"",
+"text":"爱情转移",
+"mid":"yte1Ieg04",
+"date":"2012-07-19 23:58:39"
+},
+{
+"kids":[],
+"uid":"leilovecx",
+"parent":"",
+"text":"红玫瑰",
+"mid":"yte1G7TTW",
+"date":"2012-07-19 23:58:37"
+},
+{
+"kids":[],
+"uid":"lhyellow",
+"parent":"",
+"text":"淘汰",
+"mid":"yte1CCe7M",
+"date":"2012-07-19 23:58:26"
+},
+{
+"kids":[],
+"uid":"lemonjuice1229",
+"parent":"",
+"text":"孤独患者",
+"mid":"yte1Cjz4I",
+"date":"2012-07-19 23:58:24"
+},
+{
+"kids":[],
+"uid":"smilexuanyao",
+"parent":"",
+"text":"打回原形",
+"mid":"yte1C31d1",
+"date":"2012-07-19 23:58:22"
+},
+{
+"kids":[
+"yte55rPIn"
+],
+"uid":"2573387492",
+"parent":"",
+"text":"淘汰",
+"mid":"yte1B7jZr",
+"date":"2012-07-19 23:58:25"
+},
+{
+"kids":[],
+"uid":"wjy961889507",
+"parent":"",
+"text":"淘汰，红玫瑰， 富士山下。 　忘了说。Eason 谢谢你",
+"mid":"yte1yqLOK",
+"date":"2012-07-19 23:58:17"
+},
+{
+"kids":[],
+"uid":"xxw12120918",
+"parent":"",
+"text":"爱爱爱爱到要吐",
+"mid":"yte1ybmRI",
+"date":"2012-07-19 23:58:16"
+},
+{
+"kids":[],
+"uid":"1885895540",
+"parent":"",
+"text":"好久不见",
+"mid":"yte1xzITJ",
+"date":"2012-07-19 23:58:16"
+},
+{
+"kids":[],
+"uid":"yellowdoor",
+"parent":"",
+"text":"不要说话。。",
+"mid":"yte1uiBFw",
+"date":"2012-07-19 23:58:08"
+},
+{
+"kids":[],
+"uid":"2091920277",
+"parent":"",
+"text":"红玫瑰",
+"mid":"yte1t9VkI",
+"date":"2012-07-19 23:58:03"
+},
+{
+"kids":[
+"yten4B7HH"
+],
+"uid":"1305885987",
+"parent":"",
+"text":"好久不见。",
+"mid":"yte1pBZ02",
+"date":"2012-07-19 23:57:57"
+},
+{
+"kids":[],
+"uid":"1779688495",
+"parent":"",
+"text":"好久不見",
+"mid":"yte1pknrF",
+"date":"2012-07-19 23:57:54"
+},
+{
+"kids":[],
+"uid":"ilhdd",
+"parent":"",
+"text":"很多，浮夸，红玫瑰，明年今日等等等等。。。",
+"mid":"yte1m5qFF",
+"date":"2012-07-19 23:57:49"
+},
+{
+"kids":[],
+"uid":"2041903343",
+"parent":"",
+"text":"淘汰",
+"mid":"yte1k0hTn",
+"date":"2012-07-19 23:57:44"
+},
+{
+"kids":[],
+"uid":"2150715097",
+"parent":"",
+"text":"浮夸",
+"mid":"yte1joDM0",
+"date":"2012-07-19 23:57:42"
+},
+{
+"kids":[],
+"uid":"foreverlovewyx1205",
+"parent":"yte0zjv6V",
+"text":"一丝不挂@不够女人的龙虾妹  你也是吧~",
+"mid":"yte1icxr0",
+"date":"2012-07-19 23:57:39"
+},
+{
+"kids":[
+"ytex1hKWw"
+],
+"uid":"1947400527",
+"parent":"",
+"text":"淘汰[可爱][可爱]",
+"mid":"yte1fhu7j",
+"date":"2012-07-19 23:57:31"
+},
+{
+"kids":[
+"yuQdUpdH7",
+"ythI2Ej3d"
+],
+"uid":"1771334835",
+"parent":"",
+"text":"淘汰～接下去",
+"mid":"yte1chTjn",
+"date":"2012-07-19 23:57:25"
+},
+{
+"kids":[
+"yte1MCzNH"
+],
+"uid":"scarlett0315",
+"parent":"",
+"text":"爱情转移",
+"mid":"yte1af0kw",
+"date":"2012-07-19 23:57:17"
+},
+{
+"kids":[],
+"uid":"338157888",
+"parent":"",
+"text":"阿牛",
+"mid":"yte19DmqN",
+"date":"2012-07-19 23:57:16"
+},
+{
+"kids":[],
+"uid":"amy576730923lz",
+"parent":"",
+"text":"红玫瑰",
+"mid":"yte19CaqF",
+"date":"2012-07-19 23:57:15"
+},
+{
+"kids":[],
+"uid":"25041sb",
+"parent":"",
+"text":"还是《浮夸》[嘻嘻]",
+"mid":"yte19lL3q",
+"date":"2012-07-19 23:57:19"
+},
+{
+"kids":[
+"yteu9r2bO"
+],
+"uid":"sorpin",
+"parent":"",
+"text":"孤独患者@我好像叫陈桐 浮夸[偷笑]",
+"mid":"yte17AiaX",
+"date":"2012-07-19 23:57:13"
+},
+{
+"kids":[],
+"uid":"2008958801",
+"parent":"",
+"text":"葡萄成熟时",
+"mid":"yte17zgds",
+"date":"2012-07-19 23:57:14"
+},
+{
+"kids":[],
+"uid":"edsonliu",
+"parent":"",
+"text":"好久不见",
+"mid":"yte15cp0J",
+"date":"2012-07-19 23:57:07"
+},
+{
+"kids":[],
+"uid":"501294520",
+"parent":"",
+"text":"好久不见。",
+"mid":"yte12zWLt",
+"date":"2012-07-19 23:56:59"
+},
+{
+"kids":[],
+"uid":"myfreewind",
+"parent":"",
+"text":"最近为什么浮夸这么火[lxhx喝奶]",
+"mid":"yte11CBNs",
+"date":"2012-07-19 23:57:00"
+},
+{
+"kids":[],
+"uid":"xavierccss",
+"parent":"",
+"text":"+1",
+"mid":"yte11CBMq",
+"date":"2012-07-19 23:56:59"
+},
+{
+"kids":[
+"yth4W9miK",
+"yteBnpd4Z",
+"ytevi3TdF"
+],
+"uid":"2476479964",
+"parent":"",
+"text":"十年",
+"mid":"yte0Y97kI",
+"date":"2012-07-19 23:56:51"
+},
+{
+"kids":[
+"ytj3ADZVr",
+"yth9C0Jfp"
+],
+"uid":"2316748553",
+"parent":"",
+"text":"对不起谢谢",
+"mid":"yte0WFfs7",
+"date":"2012-07-19 23:56:48"
+},
+{
+"kids":[
+"yteMDlCO9",
+"yte4D3R35"
+],
+"uid":"joker523",
+"parent":"",
+"text":"婚礼的祝福。",
+"mid":"yte0WEecR",
+"date":"2012-07-19 23:56:49"
+},
+{
+"kids":[],
+"uid":"2387896842",
+"parent":"",
+"text":"裙下之臣",
+"mid":"yte0U0Vji",
+"date":"2012-07-19 23:56:38"
+},
+{
+"kids":[],
+"uid":"1740979351",
+"parent":"",
+"text":"人来人往",
+"mid":"yte0Q9hv4",
+"date":"2012-07-19 23:56:32"
+},
+{
+"kids":[],
+"uid":"2637868631",
+"parent":"",
+"text":"轉發微博。",
+"mid":"yte0Pe72L",
+"date":"2012-07-19 23:56:30"
+},
+{
+"kids":[],
+"uid":"1927102910",
+"parent":"",
+"text":"好久不见",
+"mid":"yte0NdZYh",
+"date":"2012-07-19 23:56:23"
+},
+{
+"kids":[],
+"uid":"1678982151",
+"parent":"",
+"text":"最近一直听的《拥抱这分钟》",
+"mid":"yte0MAjDP",
+"date":"2012-07-19 23:56:20"
+},
+{
+"kids":[],
+"uid":"2287033824",
+"parent":"",
+"text":"每首都爱。最近是 张氏情歌。",
+"mid":"yte0HjiGh",
+"date":"2012-07-19 23:56:08"
+},
+{
+"kids":[],
+"uid":"lily8023timmy",
+"parent":"",
+"text":"淘汰！！！",
+"mid":"yte0Gm8R0",
+"date":"2012-07-19 23:56:09"
+},
+{
+"kids":[],
+"uid":"1734021953",
+"parent":"",
+"text":"红玫瑰！",
+"mid":"yte0FwNXK",
+"date":"2012-07-19 23:56:07"
+},
+{
+"kids":[],
+"uid":"season1987",
+"parent":"",
+"text":"好久不见",
+"mid":"yte0FvNom",
+"date":"2012-07-19 23:56:04"
+},
+{
+"kids":[],
+"uid":"1826353677",
+"parent":"",
+"text":"淘汰",
+"mid":"yte0ECxWK",
+"date":"2012-07-19 23:56:05"
+},
+{
+"kids":[],
+"uid":"1659339980",
+"parent":"",
+"text":"好久不见",
+"mid":"yte0E4lCN",
+"date":"2012-07-19 23:56:03"
+},
+{
+"kids":[
+"ytemjBd34"
+],
+"uid":"siwon521314",
+"parent":"",
+"text":"每個時期都有一首最愛的。最近的話#綿綿#",
+"mid":"yte0CzsnX",
+"date":"2012-07-19 23:56:01"
+},
+{
+"kids":[],
+"uid":"guoguolianger",
+"parent":"",
+"text":"好久不见",
+"mid":"yte0AulRo",
+"date":"2012-07-19 23:55:55"
+},
+{
+"kids":[],
+"uid":"yuanyino1",
+"parent":"",
+"text":"陀飞轮",
+"mid":"yte0AruJC",
+"date":"2012-07-19 23:55:54"
+},
+{
+"kids":[],
+"uid":"2157506850",
+"parent":"",
+"text":"孤独患者",
+"mid":"yte0zB6FY",
+"date":"2012-07-19 23:55:53"
+},
+{
+"kids":[],
+"uid":"1973682960",
+"parent":"",
+"text":"遥远的她",
+"mid":"yte0zyfMJ",
+"date":"2012-07-19 23:55:53"
+},
+{
+"kids":[],
+"uid":"1688755411",
+"parent":"",
+"text":"不如不见",
+"mid":"yte0zkvj8",
+"date":"2012-07-19 23:55:52"
+},
+{
+"kids":[
+"yteeDArqw",
+"yte1icxr0"
+],
+"uid":"envisions",
+"parent":"",
+"text":"孤独患者",
+"mid":"yte0zjv6V",
+"date":"2012-07-19 23:55:52"
+},
+{
+"kids":[
+"yte9s5KBD"
+],
+"uid":"1274913520",
+"parent":"",
+"text":"爱情转移",
+"mid":"yte0zgEz8",
+"date":"2012-07-19 23:55:52"
+},
+{
+"kids":[],
+"uid":"2679859875",
+"parent":"",
+"text":"浮誇",
+"mid":"yte0z0YUh",
+"date":"2012-07-19 23:55:51"
+},
+{
+"kids":[],
+"uid":"2173436420",
+"parent":"",
+"text":"遥远的她。[鼓掌][鼓掌][鼓掌][鼓掌]",
+"mid":"yte0z0YTk",
+"date":"2012-07-19 23:55:51"
+},
+{
+"kids":[],
+"uid":"412735295",
+"parent":"",
+"text":"浮夸",
+"mid":"yte0xgp7t",
+"date":"2012-07-19 23:55:46"
+},
+{
+"kids":[],
+"uid":"miaomiaodemeng",
+"parent":"",
+"text":"",
+"mid":"yte0xfoWK",
+"date":"2012-07-19 23:55:43"
+},
+{
+"kids":[],
+"uid":"q545024884",
+"parent":"",
+"text":"《十年》《明年今日》",
+"mid":"yte0wjkvq",
+"date":"2012-07-19 23:55:45"
+},
+{
+"kids":[
+"yte7BprzV"
+],
+"uid":"qiqiaiwell",
+"parent":"",
+"text":"红玫瑰。得不到的永远在骚动,被偏爱的都有恃无恐。",
+"mid":"yte0w4yjv",
+"date":"2012-07-19 23:55:41"
+}
+]

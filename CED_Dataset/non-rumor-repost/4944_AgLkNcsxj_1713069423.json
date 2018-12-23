@@ -1,0 +1,6327 @@
+[
+{
+"kids":[],
+"uid":"chaofanjnj",
+"parent":"",
+"text":"粤语新闻啊。。。[吃惊]",
+"mid":"AgLlQuQxe",
+"date":"2013-11-01 22:23:35"
+},
+{
+"kids":[],
+"uid":"1679626740",
+"parent":"",
+"text":"@穗_星尕玲 那都有你，真是的[纠结]",
+"mid":"AgLzehB4x",
+"date":"2013-11-01 22:56:33"
+},
+{
+"kids":[],
+"uid":"1796827830",
+"parent":"",
+"text":"",
+"mid":"AgOQLfivI",
+"date":"2013-11-02 07:17:59"
+},
+{
+"kids":[],
+"uid":"1988914123",
+"parent":"AgLCvgr91",
+"text":"",
+"mid":"ApwRSuF56",
+"date":"2013-12-29 14:04:02"
+},
+{
+"kids":[],
+"uid":"3914919046",
+"parent":"",
+"text":"",
+"mid":"Ao9LRAkD2",
+"date":"2013-12-20 13:25:44"
+},
+{
+"kids":[],
+"uid":"3044680300",
+"parent":"AmjZ9ucQY",
+"text":"",
+"mid":"AmDGLpz6Z",
+"date":"2013-12-10 13:54:58"
+},
+{
+"kids":[],
+"uid":"2919690304",
+"parent":"AmjZ9ucQY",
+"text":"",
+"mid":"AmDabrWSb",
+"date":"2013-12-10 12:34:39"
+},
+{
+"kids":[],
+"uid":"3044920180",
+"parent":"AmjZ9ucQY",
+"text":"",
+"mid":"AmCCw6ZRa",
+"date":"2013-12-10 11:11:44"
+},
+{
+"kids":[],
+"uid":"3045189242",
+"parent":"AmjZ9ucQY",
+"text":"",
+"mid":"AmvVpBgMz",
+"date":"2013-12-09 18:09:05"
+},
+{
+"kids":[
+"AmDGLpz6Z",
+"AmDabrWSb",
+"AmCCw6ZRa",
+"AmvVpBgMz"
+],
+"uid":"Janazxy",
+"parent":"AmhLSbAeD",
+"text":"",
+"mid":"AmjZ9ucQY",
+"date":"2013-12-08 11:45:20"
+},
+{
+"kids":[],
+"uid":"zsy0628",
+"parent":"AmhLSbAeD",
+"text":"",
+"mid":"AmjvYtwvo",
+"date":"2013-12-08 10:33:26"
+},
+{
+"kids":[],
+"uid":"zhangjietf",
+"parent":"AmhJJdcXh",
+"text":"",
+"mid":"Amjjw4Fb3",
+"date":"2013-12-08 10:02:44"
+},
+{
+"kids":[],
+"uid":"3873231708",
+"parent":"Amibs5FNl",
+"text":"",
+"mid":"Amibyjau5",
+"date":"2013-12-08 07:10:22"
+},
+{
+"kids":[
+"Amibyjau5"
+],
+"uid":"3191884203",
+"parent":"AmhLSbAeD",
+"text":"",
+"mid":"Amibs5FNl",
+"date":"2013-12-08 07:10:08"
+},
+{
+"kids":[],
+"uid":"1701238242",
+"parent":"AmhJJdcXh",
+"text":"",
+"mid":"AmhXsehPG",
+"date":"2013-12-08 06:35:38"
+},
+{
+"kids":[
+"AmDGLpz6Z",
+"AmDabrWSb",
+"AmCCw6ZRa",
+"AmvVpBgMz",
+"AmjZ9ucQY",
+"AmjvYtwvo",
+"Amibyjau5",
+"Amibs5FNl"
+],
+"uid":"1959398915",
+"parent":"AmhJJdcXh",
+"text":"",
+"mid":"AmhLSbAeD",
+"date":"2013-12-08 06:07:07"
+},
+{
+"kids":[
+"AmDGLpz6Z",
+"AmDabrWSb",
+"AmCCw6ZRa",
+"AmvVpBgMz",
+"AmjZ9ucQY",
+"AmjvYtwvo",
+"Amjjw4Fb3",
+"Amibyjau5",
+"Amibs5FNl",
+"AmhXsehPG",
+"AmhLSbAeD"
+],
+"uid":"2257457362",
+"parent":"",
+"text":"",
+"mid":"AmhJJdcXh",
+"date":"2013-12-08 06:01:50"
+},
+{
+"kids":[],
+"uid":"2646725281",
+"parent":"",
+"text":"",
+"mid":"AlnwAmIPT",
+"date":"2013-12-02 06:55:38"
+},
+{
+"kids":[],
+"uid":"2750637093",
+"parent":"AgLmaBiwr",
+"text":"",
+"mid":"AkXAcD51o",
+"date":"2013-11-29 12:53:07"
+},
+{
+"kids":[],
+"uid":"3044334262",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"AkFYxyhOE",
+"date":"2013-11-27 16:03:39"
+},
+{
+"kids":[],
+"uid":"2805122524",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"AkEQqADK5",
+"date":"2013-11-27 13:10:54"
+},
+{
+"kids":[],
+"uid":"2810775242",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"AkEaEB20X",
+"date":"2013-11-27 11:27:59"
+},
+{
+"kids":[],
+"uid":"2804937122",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"AkuF5Ci40",
+"date":"2013-11-26 11:15:29"
+},
+{
+"kids":[],
+"uid":"3043686004",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"AkkoG1wEw",
+"date":"2013-11-25 09:07:36"
+},
+{
+"kids":[],
+"uid":"2920042544",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"AkkjDERx3",
+"date":"2013-11-25 08:55:12"
+},
+{
+"kids":[],
+"uid":"2919379102",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"Akk89fglA",
+"date":"2013-11-25 08:26:52"
+},
+{
+"kids":[],
+"uid":"2811091650",
+"parent":"",
+"text":"",
+"mid":"AkcNq48Bk",
+"date":"2013-11-24 13:46:34"
+},
+{
+"kids":[],
+"uid":"3045338700",
+"parent":"",
+"text":"",
+"mid":"AkbjZ1Pda",
+"date":"2013-11-24 10:01:18"
+},
+{
+"kids":[],
+"uid":"3513504005",
+"parent":"",
+"text":"",
+"mid":"Ak4bW82C9",
+"date":"2013-11-23 15:52:15"
+},
+{
+"kids":[],
+"uid":"2919458594",
+"parent":"",
+"text":"",
+"mid":"Ak3uNknug",
+"date":"2013-11-23 14:05:57"
+},
+{
+"kids":[],
+"uid":"2805097814",
+"parent":"",
+"text":"",
+"mid":"Ak11ugfWL",
+"date":"2013-11-23 07:48:17"
+},
+{
+"kids":[],
+"uid":"1848170043",
+"parent":"",
+"text":"",
+"mid":"AjUkKh2X7",
+"date":"2013-11-22 14:46:30"
+},
+{
+"kids":[],
+"uid":"3911430199",
+"parent":"",
+"text":"",
+"mid":"AjK6ghkwF",
+"date":"2013-11-21 12:43:19"
+},
+{
+"kids":[],
+"uid":"3045319970",
+"parent":"AgLDN4XIe",
+"text":"",
+"mid":"AjlD33Cfi",
+"date":"2013-11-18 22:25:26"
+},
+{
+"kids":[],
+"uid":"2920278850",
+"parent":"AgLSWo2WT",
+"text":"",
+"mid":"AjhTxu2pN",
+"date":"2013-11-18 12:55:05"
+},
+{
+"kids":[],
+"uid":"3044971720",
+"parent":"",
+"text":"",
+"mid":"AjgNy1LJo",
+"date":"2013-11-18 10:07:36"
+},
+{
+"kids":[],
+"uid":"3043876670",
+"parent":"",
+"text":"",
+"mid":"AjgMs4Fms",
+"date":"2013-11-18 10:04:52"
+},
+{
+"kids":[],
+"uid":"2789965274",
+"parent":"",
+"text":"",
+"mid":"AjbnonPFx",
+"date":"2013-11-17 20:19:23"
+},
+{
+"kids":[],
+"uid":"1975918820",
+"parent":"AgLlz4UUP",
+"text":"[good][給力]",
+"mid":"Aj1Pb7Hbw",
+"date":"2013-11-16 20:00:22"
+},
+{
+"kids":[],
+"uid":"1582689295",
+"parent":"",
+"text":"",
+"mid":"Ai4Kb65jh",
+"date":"2013-11-10 13:35:59"
+},
+{
+"kids":[],
+"uid":"2804452030",
+"parent":"",
+"text":"",
+"mid":"Ai4shuZ2a",
+"date":"2013-11-10 12:51:56"
+},
+{
+"kids":[],
+"uid":"2608226571",
+"parent":"",
+"text":"",
+"mid":"AhTDnnQnm",
+"date":"2013-11-09 09:19:03"
+},
+{
+"kids":[],
+"uid":"1715336224",
+"parent":"AhMoPubI1",
+"text":"",
+"mid":"AhMxf0OZB",
+"date":"2013-11-08 15:14:41"
+},
+{
+"kids":[
+"AhMxf0OZB"
+],
+"uid":"2600110840",
+"parent":"",
+"text":"",
+"mid":"AhMoPubI1",
+"date":"2013-11-08 14:53:58"
+},
+{
+"kids":[],
+"uid":"2920048672",
+"parent":"AgLl8ujgx",
+"text":"",
+"mid":"AhDcy3FlH",
+"date":"2013-11-07 15:29:00"
+},
+{
+"kids":[],
+"uid":"1582542772",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"AhCr4nIxu",
+"date":"2013-11-07 13:32:02"
+},
+{
+"kids":[],
+"uid":"3043581174",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"AhrME2Kge",
+"date":"2013-11-06 10:24:57"
+},
+{
+"kids":[],
+"uid":"2808523690",
+"parent":"AgOWq0jEF",
+"text":"",
+"mid":"AhrDSBYMN",
+"date":"2013-11-06 10:03:21"
+},
+{
+"kids":[],
+"uid":"2179570260",
+"parent":"",
+"text":"收！",
+"mid":"AhqA0CW1I",
+"date":"2013-11-06 07:21:06"
+},
+{
+"kids":[],
+"uid":"1782853495",
+"parent":"",
+"text":"",
+"mid":"Ahplv8BDR",
+"date":"2013-11-06 04:12:36"
+},
+{
+"kids":[],
+"uid":"2919566572",
+"parent":"",
+"text":"",
+"mid":"AhkuP5u0y",
+"date":"2013-11-05 15:51:50"
+},
+{
+"kids":[],
+"uid":"2804591552",
+"parent":"",
+"text":"",
+"mid":"Ahhtg1xzh",
+"date":"2013-11-05 08:09:44"
+},
+{
+"kids":[],
+"uid":"3296079473",
+"parent":"",
+"text":"",
+"mid":"Ah9P95peO",
+"date":"2013-11-04 12:41:41"
+},
+{
+"kids":[],
+"uid":"2656337435",
+"parent":"",
+"text":"",
+"mid":"Ah8UJjXH7",
+"date":"2013-11-04 10:22:42"
+},
+{
+"kids":[],
+"uid":"1582624870",
+"parent":"",
+"text":"",
+"mid":"Ah8dujSuZ",
+"date":"2013-11-04 08:36:09"
+},
+{
+"kids":[],
+"uid":"2919816810",
+"parent":"AgLSWo2WT",
+"text":"",
+"mid":"Ah7RPhuTQ",
+"date":"2013-11-04 07:42:48"
+},
+{
+"kids":[],
+"uid":"3835036659",
+"parent":"",
+"text":"",
+"mid":"Ah4IpfzXw",
+"date":"2013-11-03 23:41:21"
+},
+{
+"kids":[],
+"uid":"3884363788",
+"parent":"",
+"text":"",
+"mid":"Ah4FHnS6j",
+"date":"2013-11-03 23:34:41"
+},
+{
+"kids":[],
+"uid":"3295908302",
+"parent":"AgM50h5RA",
+"text":"",
+"mid":"Ah3Jq7s6P",
+"date":"2013-11-03 21:11:07"
+},
+{
+"kids":[],
+"uid":"3223245853",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"Ah3dXBTu7",
+"date":"2013-11-03 19:53:36"
+},
+{
+"kids":[],
+"uid":"2608959981",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"Ah2l8ebx4",
+"date":"2013-11-03 17:38:31"
+},
+{
+"kids":[],
+"uid":"1988914123",
+"parent":"AgLCvgr91",
+"text":"",
+"mid":"Ah25K6Jer",
+"date":"2013-11-03 17:00:36"
+},
+{
+"kids":[],
+"uid":"3154541341",
+"parent":"",
+"text":"",
+"mid":"Ah12Ksk6G",
+"date":"2013-11-03 14:20:29"
+},
+{
+"kids":[],
+"uid":"2378788095",
+"parent":"",
+"text":"",
+"mid":"Ah0HhBRv5",
+"date":"2013-11-03 13:27:36"
+},
+{
+"kids":[],
+"uid":"3485126907",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"Ah0zTxsP9",
+"date":"2013-11-03 13:09:24"
+},
+{
+"kids":[],
+"uid":"2922030765",
+"parent":"AgM50h5RA",
+"text":"",
+"mid":"Ah0yajFZc",
+"date":"2013-11-03 13:05:06"
+},
+{
+"kids":[],
+"uid":"1803822973",
+"parent":"",
+"text":"",
+"mid":"Ah0f1BNzw",
+"date":"2013-11-03 12:17:59"
+},
+{
+"kids":[],
+"uid":"2920315010",
+"parent":"AgSZheieT",
+"text":"",
+"mid":"Ah06f1fVZ",
+"date":"2013-11-03 11:56:20"
+},
+{
+"kids":[],
+"uid":"3044612382",
+"parent":"AgNLdgsqm",
+"text":"",
+"mid":"AgZEAyUb7",
+"date":"2013-11-03 10:48:12"
+},
+{
+"kids":[],
+"uid":"2804579464",
+"parent":"AgLSWo2WT",
+"text":"",
+"mid":"AgZddePIg",
+"date":"2013-11-03 09:40:45"
+},
+{
+"kids":[],
+"uid":"3218612695",
+"parent":"AgTqL14Jb",
+"text":"",
+"mid":"AgZ88x9gA",
+"date":"2013-11-03 09:28:16"
+},
+{
+"kids":[],
+"uid":"1776577730",
+"parent":"AgLSWo2WT",
+"text":"",
+"mid":"AgYxJ0YGw",
+"date":"2013-11-03 07:58:32"
+},
+{
+"kids":[],
+"uid":"1970934831",
+"parent":"AgTwg1d4b",
+"text":"",
+"mid":"AgYbd7VGj",
+"date":"2013-11-03 07:03:05"
+},
+{
+"kids":[],
+"uid":"1885543920",
+"parent":"",
+"text":"",
+"mid":"AgWQpgcId",
+"date":"2013-11-03 03:39:05"
+},
+{
+"kids":[],
+"uid":"2951842577",
+"parent":"AgQaL9xy0",
+"text":"",
+"mid":"AgWgnyS9a",
+"date":"2013-11-03 02:10:20"
+},
+{
+"kids":[],
+"uid":"2305254793",
+"parent":"",
+"text":"",
+"mid":"AgW5qzC1O",
+"date":"2013-11-03 01:43:21"
+},
+{
+"kids":[],
+"uid":"1917666164",
+"parent":"",
+"text":"",
+"mid":"AgVJTfJNz",
+"date":"2013-11-03 00:50:15"
+},
+{
+"kids":[],
+"uid":"3627029494",
+"parent":"AgLxnChGx",
+"text":"转个！",
+"mid":"AgVr9m1Lo",
+"date":"2013-11-03 00:04:05"
+},
+{
+"kids":[],
+"uid":"2789510613",
+"parent":"",
+"text":"11 31 10",
+"mid":"AgVpUv2hv",
+"date":"2013-11-03 00:01:04"
+},
+{
+"kids":[],
+"uid":"3200312003",
+"parent":"",
+"text":"",
+"mid":"AgVpjkVrN",
+"date":"2013-11-02 23:59:35"
+},
+{
+"kids":[],
+"uid":"jastforJASON",
+"parent":"",
+"text":"",
+"mid":"AgV0BahBX",
+"date":"2013-11-02 22:58:39"
+},
+{
+"kids":[],
+"uid":"272299714",
+"parent":"AgUYdsaJH",
+"text":"",
+"mid":"AgUYwn6Xf",
+"date":"2013-11-02 22:53:33"
+},
+{
+"kids":[
+"AgUYwn6Xf"
+],
+"uid":"meilingl",
+"parent":"AgLzehB4x",
+"text":"这是又让我失眠的节奏吗！？[泪]短发的我，他低头，回头看着，一起扶着礼物。。。有看到我的继续@ 我喔～！又重复看了半个小时┏ (^ω^)=☞",
+"mid":"AgUYdsaJH",
+"date":"2013-11-02 22:52:50"
+},
+{
+"kids":[],
+"uid":"1880809271",
+"parent":"",
+"text":"",
+"mid":"AgUWtyiIv",
+"date":"2013-11-02 22:48:33"
+},
+{
+"kids":[],
+"uid":"2660679093",
+"parent":"AgLlz4UUP",
+"text":"",
+"mid":"AgUQQiZeb",
+"date":"2013-11-02 22:34:38"
+},
+{
+"kids":[],
+"uid":"1794507263",
+"parent":"",
+"text":"",
+"mid":"AgUQGwry4",
+"date":"2013-11-02 22:34:17"
+},
+{
+"kids":[],
+"uid":"2994459965",
+"parent":"AgLrTbsOJ",
+"text":"",
+"mid":"AgUCmijY2",
+"date":"2013-11-02 21:58:59"
+},
+{
+"kids":[],
+"uid":"1764512665",
+"parent":"AgTwg1d4b",
+"text":"",
+"mid":"AgUpS8AYZ",
+"date":"2013-11-02 21:28:14"
+},
+{
+"kids":[],
+"uid":"3212365855",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgUdovXsD",
+"date":"2013-11-02 20:57:29"
+},
+{
+"kids":[],
+"uid":"2641296433",
+"parent":"",
+"text":"",
+"mid":"AgUcf0Jwh",
+"date":"2013-11-02 20:54:38"
+},
+{
+"kids":[],
+"uid":"2595415810",
+"parent":"AgLlQuQxe",
+"text":"我要去我要去。。。看演唱会！",
+"mid":"AgU9SpaSD",
+"date":"2013-11-02 20:48:49"
+},
+{
+"kids":[],
+"uid":"hanchenjiayou",
+"parent":"AgTwg1d4b",
+"text":"",
+"mid":"AgU8BfIJr",
+"date":"2013-11-02 20:45:40"
+},
+{
+"kids":[],
+"uid":"1789563625",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgU8zdz80",
+"date":"2013-11-02 20:45:35"
+},
+{
+"kids":[],
+"uid":"2874063024",
+"parent":"AgRYh59Rj",
+"text":"",
+"mid":"AgU4cvXrU",
+"date":"2013-11-02 20:34:48"
+},
+{
+"kids":[],
+"uid":"3126175044",
+"parent":"AgLqCBzKB",
+"text":"",
+"mid":"AgTW465Tt",
+"date":"2013-11-02 20:14:45"
+},
+{
+"kids":[],
+"uid":"3566264363",
+"parent":"AgSofwfgK",
+"text":"",
+"mid":"AgTR52Ycp",
+"date":"2013-11-02 20:02:30"
+},
+{
+"kids":[],
+"uid":"926JNxy77",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgTQS1MLJ",
+"date":"2013-11-02 20:01:59"
+},
+{
+"kids":[],
+"uid":"2218173663",
+"parent":"AgSHDgKTw",
+"text":"",
+"mid":"AgTQixRRs",
+"date":"2013-11-02 20:00:36"
+},
+{
+"kids":[],
+"uid":"1977460922",
+"parent":"",
+"text":"",
+"mid":"AgTOIb8XP",
+"date":"2013-11-02 19:56:40"
+},
+{
+"kids":[],
+"uid":"1790824703",
+"parent":"",
+"text":"",
+"mid":"AgTHqCves",
+"date":"2013-11-02 19:38:43"
+},
+{
+"kids":[],
+"uid":"1949033661",
+"parent":"AgLAisyzd",
+"text":"我家大宝贝，我家大广东啊[泪]你妹我怎么不能去",
+"mid":"AgTGKodkL",
+"date":"2013-11-02 19:37:06"
+},
+{
+"kids":[],
+"uid":"3566783517",
+"parent":"",
+"text":"",
+"mid":"AgTFYwrQe",
+"date":"2013-11-02 19:35:09"
+},
+{
+"kids":[
+"AgYbd7VGj",
+"AgUpS8AYZ",
+"AgU8BfIJr"
+],
+"uid":"1915447243",
+"parent":"AgQf7fpVH",
+"text":"",
+"mid":"AgTwg1d4b",
+"date":"2013-11-02 19:11:12"
+},
+{
+"kids":[],
+"uid":"2881744644",
+"parent":"",
+"text":"",
+"mid":"AgTvlxJc9",
+"date":"2013-11-02 19:08:57"
+},
+{
+"kids":[],
+"uid":"2517532584",
+"parent":"",
+"text":"",
+"mid":"AgTsNd2s7",
+"date":"2013-11-02 19:02:39"
+},
+{
+"kids":[],
+"uid":"1876413057",
+"parent":"AgTbUeJZ9",
+"text":"",
+"mid":"AgTsKxiy4",
+"date":"2013-11-02 19:02:33"
+},
+{
+"kids":[],
+"uid":"2887563844",
+"parent":"",
+"text":"转发微博。",
+"mid":"AgTsECByQ",
+"date":"2013-11-02 19:02:20"
+},
+{
+"kids":[
+"AgZ88x9gA"
+],
+"uid":"1584549670",
+"parent":"",
+"text":"粤语新闻！[bm可爱]这家伙把他夸的啊～～～～",
+"mid":"AgTqL14Jb",
+"date":"2013-11-02 18:57:39"
+},
+{
+"kids":[],
+"uid":"3208092755",
+"parent":"",
+"text":"",
+"mid":"AgTiSxHGp",
+"date":"2013-11-02 18:38:15"
+},
+{
+"kids":[],
+"uid":"2187640594",
+"parent":"AgSHDgKTw",
+"text":"",
+"mid":"AgTiMFNPo",
+"date":"2013-11-02 18:38:00"
+},
+{
+"kids":[
+"AgTsKxiy4"
+],
+"uid":"2551536210",
+"parent":"AgQDvziRn",
+"text":"",
+"mid":"AgTbUeJZ9",
+"date":"2013-11-02 18:21:04"
+},
+{
+"kids":[],
+"uid":"3213349463",
+"parent":"",
+"text":"",
+"mid":"AgT90jUzz",
+"date":"2013-11-02 18:13:55"
+},
+{
+"kids":[],
+"uid":"2142957467",
+"parent":"",
+"text":"",
+"mid":"AgT5UxGiW",
+"date":"2013-11-02 18:06:18"
+},
+{
+"kids":[],
+"uid":"3186745472",
+"parent":"",
+"text":"#爱，不解释#",
+"mid":"AgT1J7jxF",
+"date":"2013-11-02 17:55:57"
+},
+{
+"kids":[
+"Ah06f1fVZ"
+],
+"uid":"badgirlsmile",
+"parent":"",
+"text":"[威武]",
+"mid":"AgSZheieT",
+"date":"2013-11-02 17:49:56"
+},
+{
+"kids":[],
+"uid":"3297850677",
+"parent":"AgOLouLxu",
+"text":"",
+"mid":"AgSZgl368",
+"date":"2013-11-02 17:49:55"
+},
+{
+"kids":[],
+"uid":"3165787834",
+"parent":"AgLrWsA0c",
+"text":"",
+"mid":"AgSYslZzI",
+"date":"2013-11-02 17:47:56"
+},
+{
+"kids":[],
+"uid":"2123548645",
+"parent":"",
+"text":"[泪]",
+"mid":"AgSUbkQFj",
+"date":"2013-11-02 17:37:23"
+},
+{
+"kids":[],
+"uid":"3829944153",
+"parent":"",
+"text":"",
+"mid":"AgSRainke",
+"date":"2013-11-02 17:29:58"
+},
+{
+"kids":[],
+"uid":"2631196400",
+"parent":"",
+"text":"",
+"mid":"AgSQUDPIQ",
+"date":"2013-11-02 17:29:21"
+},
+{
+"kids":[],
+"uid":"2811234980",
+"parent":"",
+"text":"粤语唉，[吃惊]",
+"mid":"AgSQujH06",
+"date":"2013-11-02 17:28:17"
+},
+{
+"kids":[],
+"uid":"2675232272",
+"parent":"AgSHDgKTw",
+"text":"",
+"mid":"AgSNmaqRy",
+"date":"2013-11-02 17:20:36"
+},
+{
+"kids":[],
+"uid":"1842564764",
+"parent":"AgSGPFEze",
+"text":"",
+"mid":"AgSJxcNsn",
+"date":"2013-11-02 17:11:09"
+},
+{
+"kids":[],
+"uid":"1915455594",
+"parent":"AgSGPFEze",
+"text":"",
+"mid":"AgSImdiAf",
+"date":"2013-11-02 17:08:14"
+},
+{
+"kids":[
+"AgTQixRRs",
+"AgTiMFNPo",
+"AgSNmaqRy"
+],
+"uid":"2785833710",
+"parent":"AgNP37ZkE",
+"text":"",
+"mid":"AgSHDgKTw",
+"date":"2013-11-02 17:06:27"
+},
+{
+"kids":[
+"AgSJxcNsn",
+"AgSImdiAf"
+],
+"uid":"2670826063",
+"parent":"",
+"text":"",
+"mid":"AgSGPFEze",
+"date":"2013-11-02 17:04:31"
+},
+{
+"kids":[],
+"uid":"3598276672",
+"parent":"",
+"text":"",
+"mid":"AgSB5AdLg",
+"date":"2013-11-02 16:50:22"
+},
+{
+"kids":[],
+"uid":"nagexing",
+"parent":"AgRYh59Rj",
+"text":"",
+"mid":"AgSztokkg",
+"date":"2013-11-02 16:46:23"
+},
+{
+"kids":[],
+"uid":"1397692223",
+"parent":"",
+"text":"",
+"mid":"AgSwm8zRF",
+"date":"2013-11-02 16:38:41"
+},
+{
+"kids":[],
+"uid":"1960651733",
+"parent":"",
+"text":"",
+"mid":"AgSvP3S0v",
+"date":"2013-11-02 16:37:22"
+},
+{
+"kids":[],
+"uid":"3839200100",
+"parent":"",
+"text":"杰哥！！！帅气！！",
+"mid":"AgSuTbF8g",
+"date":"2013-11-02 16:35:06"
+},
+{
+"kids":[],
+"uid":"3733315603",
+"parent":"",
+"text":"",
+"mid":"AgSqU9jAn",
+"date":"2013-11-02 16:25:15"
+},
+{
+"kids":[],
+"uid":"3256900040",
+"parent":"AgSofwfgK",
+"text":"",
+"mid":"AgSoO80Pc",
+"date":"2013-11-02 16:20:06"
+},
+{
+"kids":[
+"AgTR52Ycp",
+"AgSoO80Pc"
+],
+"uid":"3282945524",
+"parent":"AgRZ7omFr",
+"text":"",
+"mid":"AgSofwfgK",
+"date":"2013-11-02 16:18:44"
+},
+{
+"kids":[],
+"uid":"2712155424",
+"parent":"AgQqM21ch",
+"text":"",
+"mid":"AgSk97o9x",
+"date":"2013-11-02 16:08:37"
+},
+{
+"kids":[],
+"uid":"1911965300",
+"parent":"AgRYh59Rj",
+"text":"",
+"mid":"AgShGjKBt",
+"date":"2013-11-02 16:02:34"
+},
+{
+"kids":[],
+"uid":"2002101414",
+"parent":"AgRYh59Rj",
+"text":"",
+"mid":"AgS6ozX9e",
+"date":"2013-11-02 15:34:44"
+},
+{
+"kids":[],
+"uid":"3513504005",
+"parent":"",
+"text":"",
+"mid":"AgS5Ps2O4",
+"date":"2013-11-02 15:33:21"
+},
+{
+"kids":[],
+"uid":"3170277493",
+"parent":"AgRYh59Rj",
+"text":"",
+"mid":"AgS1B5PCW",
+"date":"2013-11-02 15:22:55"
+},
+{
+"kids":[
+"AgTR52Ycp",
+"AgSoO80Pc",
+"AgSofwfgK"
+],
+"uid":"3221660114",
+"parent":"AgRYh59Rj",
+"text":"",
+"mid":"AgRZ7omFr",
+"date":"2013-11-02 15:16:51"
+},
+{
+"kids":[
+"AgU4cvXrU",
+"AgTR52Ycp",
+"AgSztokkg",
+"AgSoO80Pc",
+"AgSofwfgK",
+"AgShGjKBt",
+"AgS6ozX9e",
+"AgS1B5PCW",
+"AgRZ7omFr"
+],
+"uid":"532401268",
+"parent":"AgROfEJIT",
+"text":"",
+"mid":"AgRYh59Rj",
+"date":"2013-11-02 15:14:44"
+},
+{
+"kids":[],
+"uid":"1837978802",
+"parent":"AgLlz4UUP",
+"text":"",
+"mid":"AgRWt84ka",
+"date":"2013-11-02 15:10:17"
+},
+{
+"kids":[],
+"uid":"1955076417",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgRUvnlN0",
+"date":"2013-11-02 15:05:27"
+},
+{
+"kids":[],
+"uid":"601293213",
+"parent":"",
+"text":"[给力]",
+"mid":"AgRSEoPyh",
+"date":"2013-11-02 15:00:51"
+},
+{
+"kids":[],
+"uid":"3194813870",
+"parent":"AgNP37ZkE",
+"text":"",
+"mid":"AgRQFu59C",
+"date":"2013-11-02 14:55:59"
+},
+{
+"kids":[],
+"uid":"3221541683",
+"parent":"AgQZpnf36",
+"text":"",
+"mid":"AgRPRxDn9",
+"date":"2013-11-02 14:54:01"
+},
+{
+"kids":[
+"AgU4cvXrU",
+"AgTR52Ycp",
+"AgSztokkg",
+"AgSoO80Pc",
+"AgSofwfgK",
+"AgShGjKBt",
+"AgS6ozX9e",
+"AgS1B5PCW",
+"AgRZ7omFr",
+"AgRYh59Rj"
+],
+"uid":"jifangjie",
+"parent":"AgRIErlmQ",
+"text":"",
+"mid":"AgROfEJIT",
+"date":"2013-11-02 14:50:03"
+},
+{
+"kids":[],
+"uid":"1669791525",
+"parent":"",
+"text":"",
+"mid":"AgRNnBDvF",
+"date":"2013-11-02 14:47:54"
+},
+{
+"kids":[],
+"uid":"1909699125",
+"parent":"",
+"text":"",
+"mid":"AgRJqCB8b",
+"date":"2013-11-02 14:38:10"
+},
+{
+"kids":[
+"AgU4cvXrU",
+"AgTR52Ycp",
+"AgSztokkg",
+"AgSoO80Pc",
+"AgSofwfgK",
+"AgShGjKBt",
+"AgS6ozX9e",
+"AgS1B5PCW",
+"AgRZ7omFr",
+"AgRYh59Rj",
+"AgROfEJIT"
+],
+"uid":"2291551352",
+"parent":"AgPgE4ql9",
+"text":"",
+"mid":"AgRIErlmQ",
+"date":"2013-11-02 14:36:14"
+},
+{
+"kids":[],
+"uid":"3178298175",
+"parent":"",
+"text":"",
+"mid":"AgRFrhXAH",
+"date":"2013-11-02 14:28:20"
+},
+{
+"kids":[],
+"uid":"2678484965",
+"parent":"",
+"text":"",
+"mid":"AgRDDj4OL",
+"date":"2013-11-02 14:23:52"
+},
+{
+"kids":[],
+"uid":"1660821852",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgRCA21ze",
+"date":"2013-11-02 14:21:17"
+},
+{
+"kids":[],
+"uid":"3505024040",
+"parent":"AgQEcoX09",
+"text":"",
+"mid":"AgRC8gzdL",
+"date":"2013-11-02 14:20:10"
+},
+{
+"kids":[],
+"uid":"1655785231",
+"parent":"AgLzBioof",
+"text":"",
+"mid":"AgRAJEOfK",
+"date":"2013-11-02 14:16:43"
+},
+{
+"kids":[],
+"uid":"3485126907",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgRy55gP8",
+"date":"2013-11-02 14:10:11"
+},
+{
+"kids":[],
+"uid":"1852261382",
+"parent":"",
+"text":"",
+"mid":"AgRwNirtK",
+"date":"2013-11-02 14:07:00"
+},
+{
+"kids":[],
+"uid":"2457273587",
+"parent":"",
+"text":"",
+"mid":"AgRqaiogq",
+"date":"2013-11-02 13:50:42"
+},
+{
+"kids":[],
+"uid":"3182034432",
+"parent":"",
+"text":"",
+"mid":"AgRpemW2S",
+"date":"2013-11-02 13:48:22"
+},
+{
+"kids":[],
+"uid":"2170711850",
+"parent":"AgQZpnf36",
+"text":"",
+"mid":"AgRnF9KNN",
+"date":"2013-11-02 13:44:32"
+},
+{
+"kids":[],
+"uid":"1751421592",
+"parent":"AgM50h5RA",
+"text":"",
+"mid":"AgRnpsEdu",
+"date":"2013-11-02 13:43:54"
+},
+{
+"kids":[],
+"uid":"1952752251",
+"parent":"",
+"text":"",
+"mid":"AgRi6zgRg",
+"date":"2013-11-02 13:30:51"
+},
+{
+"kids":[],
+"uid":"2037001910",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgRhi3wWO",
+"date":"2013-11-02 13:28:50"
+},
+{
+"kids":[],
+"uid":"2795044062",
+"parent":"",
+"text":"",
+"mid":"AgRfHDZAl",
+"date":"2013-11-02 13:24:55"
+},
+{
+"kids":[],
+"uid":"1751691083",
+"parent":"AgOQLfivI",
+"text":"",
+"mid":"AgReHhcNp",
+"date":"2013-11-02 13:22:27"
+},
+{
+"kids":[],
+"uid":"2254586833",
+"parent":"",
+"text":"",
+"mid":"AgRcJzKBq",
+"date":"2013-11-02 13:17:37"
+},
+{
+"kids":[],
+"uid":"2841452051",
+"parent":"",
+"text":"啦啦啦啦啦啦…",
+"mid":"AgRbUtcfc",
+"date":"2013-11-02 13:15:34"
+},
+{
+"kids":[],
+"uid":"3218562685",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgR7UcNdh",
+"date":"2013-11-02 13:05:43"
+},
+{
+"kids":[],
+"uid":"2972623477",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgR7Fs1nI",
+"date":"2013-11-02 13:05:09"
+},
+{
+"kids":[],
+"uid":"2616529462",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgR6Mu476",
+"date":"2013-11-02 13:02:57"
+},
+{
+"kids":[],
+"uid":"zhaolina1993",
+"parent":"",
+"text":"",
+"mid":"AgR40cq08",
+"date":"2013-11-02 12:56:05"
+},
+{
+"kids":[],
+"uid":"2947288745",
+"parent":"",
+"text":"我也想去看。。。@惠清-Secret",
+"mid":"AgR3Xh2I7",
+"date":"2013-11-02 12:55:58"
+},
+{
+"kids":[],
+"uid":"1710007397",
+"parent":"AgQZpnf36",
+"text":"",
+"mid":"AgR2hwEwh",
+"date":"2013-11-02 12:51:50"
+},
+{
+"kids":[],
+"uid":"2933298625",
+"parent":"",
+"text":"",
+"mid":"AgR0oh0d8",
+"date":"2013-11-02 12:47:12"
+},
+{
+"kids":[
+"AgRPRxDn9",
+"AgRnF9KNN",
+"AgR2hwEwh"
+],
+"uid":"2263909914",
+"parent":"AgQZkBoXU",
+"text":"",
+"mid":"AgQZpnf36",
+"date":"2013-11-02 12:44:47"
+},
+{
+"kids":[
+"AgRPRxDn9",
+"AgRnF9KNN",
+"AgR2hwEwh",
+"AgQZpnf36"
+],
+"uid":"2565132080",
+"parent":"AgQaL9xy0",
+"text":"",
+"mid":"AgQZkBoXU",
+"date":"2013-11-02 12:44:36"
+},
+{
+"kids":[],
+"uid":"3043894862",
+"parent":"",
+"text":"",
+"mid":"AgQXpflN3",
+"date":"2013-11-02 12:39:51"
+},
+{
+"kids":[],
+"uid":"3179275997",
+"parent":"AgLLeBnHz",
+"text":"",
+"mid":"AgQWHgHN5",
+"date":"2013-11-02 12:38:05"
+},
+{
+"kids":[],
+"uid":"2948010643",
+"parent":"AgLy0AfzE",
+"text":"",
+"mid":"AgQWgDF3b",
+"date":"2013-11-02 12:37:02"
+},
+{
+"kids":[],
+"uid":"3471704262",
+"parent":"AgPseF7zL",
+"text":"",
+"mid":"AgQRPgpt3",
+"date":"2013-11-02 12:26:05"
+},
+{
+"kids":[],
+"uid":"2351132937",
+"parent":"AgPgGrbeb",
+"text":"",
+"mid":"AgQR7dFJD",
+"date":"2013-11-02 12:24:20"
+},
+{
+"kids":[],
+"uid":"1761484420",
+"parent":"AgM1Cudj1",
+"text":"",
+"mid":"AgQPSF9oR",
+"date":"2013-11-02 12:21:19"
+},
+{
+"kids":[],
+"uid":"2917714505",
+"parent":"AgORQhKFG",
+"text":"",
+"mid":"AgQNxBEcM",
+"date":"2013-11-02 12:15:33"
+},
+{
+"kids":[],
+"uid":"1657507723",
+"parent":"",
+"text":"",
+"mid":"AgQLtDLjv",
+"date":"2013-11-02 12:10:28"
+},
+{
+"kids":[],
+"uid":"1724924790",
+"parent":"",
+"text":"",
+"mid":"AgQK1uPI8",
+"date":"2013-11-02 12:06:52"
+},
+{
+"kids":[],
+"uid":"3874862645",
+"parent":"",
+"text":"",
+"mid":"AgQJF6Ugq",
+"date":"2013-11-02 12:05:59"
+},
+{
+"kids":[],
+"uid":"3059572583",
+"parent":"AgLrpFe7D",
+"text":"",
+"mid":"AgQGXfZmB",
+"date":"2013-11-02 11:59:19"
+},
+{
+"kids":[],
+"uid":"3015070555",
+"parent":"",
+"text":"",
+"mid":"AgQFInhrY",
+"date":"2013-11-02 11:56:16"
+},
+{
+"kids":[
+"AgRC8gzdL"
+],
+"uid":"1777589842",
+"parent":"AgQaL9xy0",
+"text":"",
+"mid":"AgQEcoX09",
+"date":"2013-11-02 11:52:32"
+},
+{
+"kids":[
+"AgTsKxiy4",
+"AgTbUeJZ9"
+],
+"uid":"2089838763",
+"parent":"AgQaL9xy0",
+"text":"",
+"mid":"AgQDvziRn",
+"date":"2013-11-02 11:50:50"
+},
+{
+"kids":[],
+"uid":"xinxinIcy",
+"parent":"",
+"text":"白话听着就特别熟悉感，哈哈，",
+"mid":"AgQDqxTzY",
+"date":"2013-11-02 11:50:38"
+},
+{
+"kids":[],
+"uid":"3179184143",
+"parent":"",
+"text":"",
+"mid":"AgQC14vgh",
+"date":"2013-11-02 11:47:09"
+},
+{
+"kids":[],
+"uid":"3321757782",
+"parent":"",
+"text":"",
+"mid":"AgQBRBZ7h",
+"date":"2013-11-02 11:46:47"
+},
+{
+"kids":[],
+"uid":"2910735287",
+"parent":"",
+"text":"#张杰CCTV1开讲啦#",
+"mid":"AgQBr2LWe",
+"date":"2013-11-02 11:45:43"
+},
+{
+"kids":[],
+"uid":"2933549407",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQAwjMCk",
+"date":"2013-11-02 11:43:27"
+},
+{
+"kids":[],
+"uid":"1781781301",
+"parent":"",
+"text":"",
+"mid":"AgQvZ0SYI",
+"date":"2013-11-02 11:32:17"
+},
+{
+"kids":[],
+"uid":"3194351753",
+"parent":"",
+"text":"转发微博。",
+"mid":"AgQtXp2kR",
+"date":"2013-11-02 11:27:17"
+},
+{
+"kids":[],
+"uid":"2023956101",
+"parent":"",
+"text":"",
+"mid":"AgQt2p7J4",
+"date":"2013-11-02 11:25:02"
+},
+{
+"kids":[],
+"uid":"3053536007",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQrW8kYn",
+"date":"2013-11-02 11:22:17"
+},
+{
+"kids":[],
+"uid":"1769895227",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQrwFDL5",
+"date":"2013-11-02 11:21:18"
+},
+{
+"kids":[
+"AgSk97o9x"
+],
+"uid":"3281853582",
+"parent":"AgQaL9xy0",
+"text":"",
+"mid":"AgQqM21ch",
+"date":"2013-11-02 11:19:26"
+},
+{
+"kids":[],
+"uid":"3678460575",
+"parent":"",
+"text":"",
+"mid":"AgQqe45u1",
+"date":"2013-11-02 11:18:06"
+},
+{
+"kids":[],
+"uid":"3561709277",
+"parent":"",
+"text":"",
+"mid":"AgQp8ohr0",
+"date":"2013-11-02 11:15:25"
+},
+{
+"kids":[],
+"uid":"2528256504",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQok9l1q",
+"date":"2013-11-02 11:13:24"
+},
+{
+"kids":[],
+"uid":"1835075220",
+"parent":"",
+"text":"",
+"mid":"AgQn5ANsz",
+"date":"2013-11-02 11:10:23"
+},
+{
+"kids":[],
+"uid":"2753674201",
+"parent":"",
+"text":"",
+"mid":"AgQmK3Nrl",
+"date":"2013-11-02 11:09:31"
+},
+{
+"kids":[],
+"uid":"3780092431",
+"parent":"AgQf7fpVH",
+"text":"",
+"mid":"AgQl2zHk2",
+"date":"2013-11-02 11:05:20"
+},
+{
+"kids":[],
+"uid":"2492709155",
+"parent":"",
+"text":"",
+"mid":"AgQkl9dCE",
+"date":"2013-11-02 11:03:36"
+},
+{
+"kids":[],
+"uid":"1953728851",
+"parent":"",
+"text":"",
+"mid":"AgQil0qKE",
+"date":"2013-11-02 10:58:40"
+},
+{
+"kids":[],
+"uid":"3489929237",
+"parent":"",
+"text":"",
+"mid":"AgQgS2DUl",
+"date":"2013-11-02 10:55:03"
+},
+{
+"kids":[
+"AgYbd7VGj",
+"AgUpS8AYZ",
+"AgU8BfIJr",
+"AgTwg1d4b",
+"AgQl2zHk2"
+],
+"uid":"1890203240",
+"parent":"AgLAFu5GC",
+"text":"",
+"mid":"AgQf7fpVH",
+"date":"2013-11-02 10:50:43"
+},
+{
+"kids":[],
+"uid":"208181296",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQeUy3e6",
+"date":"2013-11-02 10:50:13"
+},
+{
+"kids":[],
+"uid":"2404764840",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgQdG1R1k",
+"date":"2013-11-02 10:47:11"
+},
+{
+"kids":[],
+"uid":"3224604821",
+"parent":"AgLpkwYR0",
+"text":"",
+"mid":"AgQdinXVT",
+"date":"2013-11-02 10:46:14"
+},
+{
+"kids":[
+"AgWgnyS9a",
+"AgTsKxiy4",
+"AgTbUeJZ9",
+"AgSk97o9x",
+"AgRPRxDn9",
+"AgRC8gzdL",
+"AgRnF9KNN",
+"AgR2hwEwh",
+"AgQZpnf36",
+"AgQZkBoXU",
+"AgQEcoX09",
+"AgQDvziRn",
+"AgQqM21ch"
+],
+"uid":"1561174472",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQaL9xy0",
+"date":"2013-11-02 10:39:59"
+},
+{
+"kids":[],
+"uid":"3193743664",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQ9zzo4I",
+"date":"2013-11-02 10:37:06"
+},
+{
+"kids":[],
+"uid":"1811799740",
+"parent":"",
+"text":"",
+"mid":"AgQ97uXzw",
+"date":"2013-11-02 10:35:57"
+},
+{
+"kids":[],
+"uid":"2789949542",
+"parent":"AgLpm1Sg8",
+"text":"",
+"mid":"AgQ8zwLRZ",
+"date":"2013-11-02 10:34:35"
+},
+{
+"kids":[],
+"uid":"3349823522",
+"parent":"AgM50h5RA",
+"text":"",
+"mid":"AgQ8a7bg2",
+"date":"2013-11-02 10:33:35"
+},
+{
+"kids":[],
+"uid":"723461901",
+"parent":"AgPJTcJtF",
+"text":"",
+"mid":"AgQ7Wg4fd",
+"date":"2013-11-02 10:33:03"
+},
+{
+"kids":[],
+"uid":"1887802312",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQ6hpj98",
+"date":"2013-11-02 10:28:58"
+},
+{
+"kids":[],
+"uid":"723460052",
+"parent":"",
+"text":"",
+"mid":"AgQ6h7HPc",
+"date":"2013-11-02 10:28:57"
+},
+{
+"kids":[],
+"uid":"3215254697",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQ65inUf",
+"date":"2013-11-02 10:28:28"
+},
+{
+"kids":[],
+"uid":"3294659075",
+"parent":"AgQ5joVgE",
+"text":"",
+"mid":"AgQ5Hm92D",
+"date":"2013-11-02 10:27:32"
+},
+{
+"kids":[
+"Ah0zTxsP9",
+"AgWgnyS9a",
+"AgTQS1MLJ",
+"AgTsKxiy4",
+"AgTbUeJZ9",
+"AgSk97o9x",
+"AgRUvnlN0",
+"AgRPRxDn9",
+"AgRC8gzdL",
+"AgRy55gP8",
+"AgRnF9KNN",
+"AgRhi3wWO",
+"AgR7Fs1nI",
+"AgR6Mu476",
+"AgR2hwEwh",
+"AgQZpnf36",
+"AgQZkBoXU",
+"AgQEcoX09",
+"AgQDvziRn",
+"AgQAwjMCk",
+"AgQrW8kYn",
+"AgQrwFDL5",
+"AgQqM21ch",
+"AgQok9l1q",
+"AgQeUy3e6",
+"AgQaL9xy0",
+"AgQ9zzo4I",
+"AgQ6hpj98",
+"AgQ65inUf",
+"AgQ5Hm92D"
+],
+"uid":"zhangjieyulu",
+"parent":"",
+"text":"",
+"mid":"AgQ5joVgE",
+"date":"2013-11-02 10:26:35"
+},
+{
+"kids":[],
+"uid":"3208548055",
+"parent":"",
+"text":"",
+"mid":"AgQ4ToAfM",
+"date":"2013-11-02 10:25:33"
+},
+{
+"kids":[],
+"uid":"210666712",
+"parent":"",
+"text":"",
+"mid":"AgQ3g641U",
+"date":"2013-11-02 10:21:31"
+},
+{
+"kids":[],
+"uid":"2110571294",
+"parent":"",
+"text":"",
+"mid":"AgQ2npq3J",
+"date":"2013-11-02 10:19:21"
+},
+{
+"kids":[],
+"uid":"3211914905",
+"parent":"AgPJTcJtF",
+"text":"",
+"mid":"AgQ0kklgl",
+"date":"2013-11-02 10:14:17"
+},
+{
+"kids":[],
+"uid":"2641246312",
+"parent":"",
+"text":"",
+"mid":"AgPXoAD0w",
+"date":"2013-11-02 10:07:04"
+},
+{
+"kids":[],
+"uid":"2739950661",
+"parent":"AgLvHgAyc",
+"text":"",
+"mid":"AgPWgzx6m",
+"date":"2013-11-02 10:04:18"
+},
+{
+"kids":[],
+"uid":"2743973243",
+"parent":"",
+"text":"",
+"mid":"AgPV23pHM",
+"date":"2013-11-02 10:01:15"
+},
+{
+"kids":[],
+"uid":"2404009187",
+"parent":"AgOWzssqm",
+"text":"",
+"mid":"AgPRi6KZh",
+"date":"2013-11-02 09:52:02"
+},
+{
+"kids":[],
+"uid":"3032365315",
+"parent":"AgOQLfivI",
+"text":"",
+"mid":"AgPQP7IEm",
+"date":"2013-11-02 09:50:53"
+},
+{
+"kids":[],
+"uid":"1658964427",
+"parent":"",
+"text":"",
+"mid":"AgPPZqJx3",
+"date":"2013-11-02 09:48:50"
+},
+{
+"kids":[],
+"uid":"2291198315",
+"parent":"",
+"text":"",
+"mid":"AgPPrpxPD",
+"date":"2013-11-02 09:47:29"
+},
+{
+"kids":[],
+"uid":"2568001201",
+"parent":"AgPdjwVmh",
+"text":"",
+"mid":"AgPNqqmV5",
+"date":"2013-11-02 09:42:31"
+},
+{
+"kids":[],
+"uid":"2614422164",
+"parent":"",
+"text":"",
+"mid":"AgPLK9xke",
+"date":"2013-11-02 09:38:22"
+},
+{
+"kids":[],
+"uid":"2758821231",
+"parent":"AgPgGrbeb",
+"text":"转发微博。",
+"mid":"AgPLf8KBr",
+"date":"2013-11-02 09:37:08"
+},
+{
+"kids":[
+"AgQ7Wg4fd",
+"AgQ0kklgl"
+],
+"uid":"1955089227",
+"parent":"AgPHfv7Hf",
+"text":"",
+"mid":"AgPJTcJtF",
+"date":"2013-11-02 09:33:48"
+},
+{
+"kids":[],
+"uid":"505060206",
+"parent":"AgLAisyzd",
+"text":"",
+"mid":"AgPIMl9UE",
+"date":"2013-11-02 09:31:04"
+},
+{
+"kids":[],
+"uid":"1819306773",
+"parent":"AgOKUF4qf",
+"text":"",
+"mid":"AgPIlaQx2",
+"date":"2013-11-02 09:29:59"
+},
+{
+"kids":[],
+"uid":"2321748842",
+"parent":"",
+"text":"",
+"mid":"AgPHlpO1m",
+"date":"2013-11-02 09:27:31"
+},
+{
+"kids":[
+"AgQ7Wg4fd",
+"AgQ0kklgl",
+"AgPJTcJtF"
+],
+"uid":"2256845420",
+"parent":"",
+"text":"啊啊啊啊啊",
+"mid":"AgPHfv7Hf",
+"date":"2013-11-02 09:27:17"
+},
+{
+"kids":[],
+"uid":"1657206972",
+"parent":"",
+"text":"[兔子][心]",
+"mid":"AgPGXd0Z3",
+"date":"2013-11-02 09:26:33"
+},
+{
+"kids":[],
+"uid":"1911812484",
+"parent":"AgLn8gyzb",
+"text":"",
+"mid":"AgPG7sBLR",
+"date":"2013-11-02 09:24:31"
+},
+{
+"kids":[],
+"uid":"2317085385",
+"parent":"AgLTupKFi",
+"text":"",
+"mid":"AgPFxqs4S",
+"date":"2013-11-02 09:23:05"
+},
+{
+"kids":[],
+"uid":"2711400401",
+"parent":"AgPgGrbeb",
+"text":"",
+"mid":"AgPFlydxx",
+"date":"2013-11-02 09:22:37"
+},
+{
+"kids":[],
+"uid":"2405009511",
+"parent":"AgLzehB4x",
+"text":"",
+"mid":"AgPDO8Uir",
+"date":"2013-11-02 09:18:48"
+},
+{
+"kids":[],
+"uid":"1650787051",
+"parent":"",
+"text":"",
+"mid":"AgPDDtSZ1",
+"date":"2013-11-02 09:18:24"
+},
+{
+"kids":[],
+"uid":"3523805352",
+"parent":"AgLrhCV8w",
+"text":"",
+"mid":"AgPCHAOTQ",
+"date":"2013-11-02 09:16:06"
+},
+{
+"kids":[],
+"uid":"3171932904",
+"parent":"",
+"text":"",
+"mid":"AgPBo2I54",
+"date":"2013-11-02 09:12:51"
+},
+{
+"kids":[],
+"uid":"3317774402",
+"parent":"AgNP37ZkE",
+"text":"",
+"mid":"AgPAQ30S0",
+"date":"2013-11-02 09:11:32"
+},
+{
+"kids":[],
+"uid":"2340519602",
+"parent":"AgPseF7zL",
+"text":"",
+"mid":"AgPAkrkLu",
+"date":"2013-11-02 09:10:15"
+},
+{
+"kids":[],
+"uid":"3753574515",
+"parent":"AgOQLfivI",
+"text":"",
+"mid":"AgPzbdatq",
+"date":"2013-11-02 09:07:25"
+},
+{
+"kids":[],
+"uid":"1851347100",
+"parent":"",
+"text":"",
+"mid":"AgPz2o4WX",
+"date":"2013-11-02 09:07:04"
+},
+{
+"kids":[],
+"uid":"2329516245",
+"parent":"",
+"text":"",
+"mid":"AgPxPBHH1",
+"date":"2013-11-02 09:04:06"
+},
+{
+"kids":[],
+"uid":"3109486003",
+"parent":"",
+"text":"期待！",
+"mid":"AgPwyooiQ",
+"date":"2013-11-02 09:00:57"
+},
+{
+"kids":[],
+"uid":"2020284641",
+"parent":"AgM1Cudj1",
+"text":"",
+"mid":"AgPwuA3ma",
+"date":"2013-11-02 09:00:47"
+},
+{
+"kids":[],
+"uid":"2726741821",
+"parent":"AgLrWsA0c",
+"text":"",
+"mid":"AgPvLodVz",
+"date":"2013-11-02 08:59:00"
+},
+{
+"kids":[],
+"uid":"2007075417",
+"parent":"",
+"text":"",
+"mid":"AgPtJcKPS",
+"date":"2013-11-02 08:53:58"
+},
+{
+"kids":[
+"AgQRPgpt3",
+"AgPAkrkLu"
+],
+"uid":"3182034432",
+"parent":"AgPgGrbeb",
+"text":"",
+"mid":"AgPseF7zL",
+"date":"2013-11-02 08:50:18"
+},
+{
+"kids":[],
+"uid":"1876645111",
+"parent":"",
+"text":"",
+"mid":"AgPrKxSa1",
+"date":"2013-11-02 08:49:06"
+},
+{
+"kids":[],
+"uid":"1947288215",
+"parent":"",
+"text":"",
+"mid":"AgPrhy7kH",
+"date":"2013-11-02 08:47:58"
+},
+{
+"kids":[],
+"uid":"2057102610",
+"parent":"AgNP37ZkE",
+"text":"",
+"mid":"AgPqRBSME",
+"date":"2013-11-02 08:46:56"
+},
+{
+"kids":[],
+"uid":"2919845390",
+"parent":"AgLDN4XIe",
+"text":"",
+"mid":"AgPqqFjiM",
+"date":"2013-11-02 08:45:51"
+},
+{
+"kids":[],
+"uid":"2900517793",
+"parent":"AgLrB9mZO",
+"text":"",
+"mid":"AgPpCr8Yx",
+"date":"2013-11-02 08:43:52"
+},
+{
+"kids":[],
+"uid":"3184348232",
+"parent":"AgPfqnOEG",
+"text":"",
+"mid":"AgPmw8R5J",
+"date":"2013-11-02 08:36:13"
+},
+{
+"kids":[],
+"uid":"3478055383",
+"parent":"",
+"text":"",
+"mid":"AgPlFeOsR",
+"date":"2013-11-02 08:34:06"
+},
+{
+"kids":[],
+"uid":"1612869485",
+"parent":"",
+"text":"转发微博。",
+"mid":"AgPl5au32",
+"date":"2013-11-02 08:32:41"
+},
+{
+"kids":[],
+"uid":"521906000",
+"parent":"AgOLouLxu",
+"text":"",
+"mid":"AgPkQ4bIn",
+"date":"2013-11-02 08:32:05"
+},
+{
+"kids":[],
+"uid":"3046048510",
+"parent":"",
+"text":"",
+"mid":"AgPkf9TP3",
+"date":"2013-11-02 08:30:37"
+},
+{
+"kids":[],
+"uid":"2715813352",
+"parent":"AgOQLfivI",
+"text":"",
+"mid":"AgPiOut7k",
+"date":"2013-11-02 08:27:06"
+},
+{
+"kids":[],
+"uid":"1850184671",
+"parent":"",
+"text":"",
+"mid":"AgPiBel8w",
+"date":"2013-11-02 08:26:34"
+},
+{
+"kids":[],
+"uid":"3201719174",
+"parent":"",
+"text":"",
+"mid":"AgPhysrp7",
+"date":"2013-11-02 08:24:00"
+},
+{
+"kids":[],
+"uid":"3731015381",
+"parent":"",
+"text":"",
+"mid":"AgPhtuCTw",
+"date":"2013-11-02 08:23:48"
+},
+{
+"kids":[
+"AgQRPgpt3",
+"AgQR7dFJD",
+"AgPLf8KBr",
+"AgPFlydxx",
+"AgPAkrkLu",
+"AgPseF7zL"
+],
+"uid":"2128135114",
+"parent":"AgOT88GcA",
+"text":"",
+"mid":"AgPgGrbeb",
+"date":"2013-11-02 08:21:51"
+},
+{
+"kids":[
+"AgU4cvXrU",
+"AgTR52Ycp",
+"AgSztokkg",
+"AgSoO80Pc",
+"AgSofwfgK",
+"AgShGjKBt",
+"AgS6ozX9e",
+"AgS1B5PCW",
+"AgRZ7omFr",
+"AgRYh59Rj",
+"AgROfEJIT",
+"AgRIErlmQ"
+],
+"uid":"3182517534",
+"parent":"AgOQLfivI",
+"text":"",
+"mid":"AgPgE4ql9",
+"date":"2013-11-02 08:21:45"
+},
+{
+"kids":[],
+"uid":"1781230307",
+"parent":"",
+"text":"",
+"mid":"AgPfB2ieE",
+"date":"2013-11-02 08:19:10"
+},
+{
+"kids":[
+"AgPmw8R5J"
+],
+"uid":"3210723623",
+"parent":"AgPdjwVmh",
+"text":"",
+"mid":"AgPfqnOEG",
+"date":"2013-11-02 08:18:45"
+},
+{
+"kids":[],
+"uid":"3044526864",
+"parent":"AgLDN4XIe",
+"text":"",
+"mid":"AgPfhwXoX",
+"date":"2013-11-02 08:18:24"
+},
+{
+"kids":[],
+"uid":"wzdhxhnfxj9596",
+"parent":"AgOLouLxu",
+"text":"",
+"mid":"AgPf3EyQx",
+"date":"2013-11-02 08:17:50"
+},
+{
+"kids":[],
+"uid":"3208019034",
+"parent":"",
+"text":"请好好看看原话、、、、",
+"mid":"AgPdsm65V",
+"date":"2013-11-02 08:13:53"
+},
+{
+"kids":[
+"AgPNqqmV5",
+"AgPmw8R5J",
+"AgPfqnOEG"
+],
+"uid":"2068055905",
+"parent":"AgLzsb5pG",
+"text":"",
+"mid":"AgPdjwVmh",
+"date":"2013-11-02 08:13:32"
+},
+{
+"kids":[],
+"uid":"1728048542",
+"parent":"AgLu0nM1U",
+"text":"",
+"mid":"AgPcbbREc",
+"date":"2013-11-02 08:10:45"
+},
+{
+"kids":[],
+"uid":"1685002780",
+"parent":"",
+"text":"",
+"mid":"AgP7GffFm",
+"date":"2013-11-02 07:59:40"
+},
+{
+"kids":[],
+"uid":"3871131000",
+"parent":"AgLUha48x",
+"text":"[鼓掌][鼓掌][鼓掌][鼓掌]",
+"mid":"AgP62i9W8",
+"date":"2013-11-02 07:55:37"
+},
+{
+"kids":[],
+"uid":"3207900935",
+"parent":"AgLzBioof",
+"text":"",
+"mid":"AgP5vv4nO",
+"date":"2013-11-02 07:54:18"
+},
+{
+"kids":[],
+"uid":"2403057931",
+"parent":"AgOLouLxu",
+"text":"",
+"mid":"AgP5kz0ph",
+"date":"2013-11-02 07:53:53"
+},
+{
+"kids":[],
+"uid":"2565863090",
+"parent":"",
+"text":"",
+"mid":"AgP3RxYzq",
+"date":"2013-11-02 07:50:15"
+},
+{
+"kids":[],
+"uid":"3213944593",
+"parent":"AgLHngSC1",
+"text":"",
+"mid":"AgP2DkxSc",
+"date":"2013-11-02 07:47:13"
+},
+{
+"kids":[],
+"uid":"1792443700",
+"parent":"AgOLouLxu",
+"text":"",
+"mid":"AgP0ShYEQ",
+"date":"2013-11-02 07:42:53"
+},
+{
+"kids":[],
+"uid":"1931711481",
+"parent":"AgOQLfivI",
+"text":"",
+"mid":"AgP0lsB3R",
+"date":"2013-11-02 07:41:36"
+},
+{
+"kids":[],
+"uid":"604378996",
+"parent":"AgM2ar8AD",
+"text":"",
+"mid":"AgP0gpM0y",
+"date":"2013-11-02 07:41:23"
+},
+{
+"kids":[],
+"uid":"3216571233",
+"parent":"AgM50h5RA",
+"text":"",
+"mid":"AgOZNaxjH",
+"date":"2013-11-02 07:40:17"
+},
+{
+"kids":[],
+"uid":"3569211287",
+"parent":"",
+"text":"",
+"mid":"AgOYCvZ9i",
+"date":"2013-11-02 07:37:20"
+},
+{
+"kids":[
+"AgPRi6KZh"
+],
+"uid":"2292796917",
+"parent":"",
+"text":"",
+"mid":"AgOWzssqm",
+"date":"2013-11-02 07:32:18"
+},
+{
+"kids":[
+"AkFYxyhOE",
+"AkEQqADK5",
+"AkEaEB20X",
+"AkuF5Ci40",
+"AkkoG1wEw",
+"AkkjDERx3",
+"Akk89fglA",
+"AhCr4nIxu",
+"AhrME2Kge",
+"AhrDSBYMN"
+],
+"uid":"3509149987",
+"parent":"",
+"text":"",
+"mid":"AgOWq0jEF",
+"date":"2013-11-02 07:31:55"
+},
+{
+"kids":[],
+"uid":"1650756031",
+"parent":"",
+"text":"",
+"mid":"AgOTYpVVb",
+"date":"2013-11-02 07:25:55"
+},
+{
+"kids":[],
+"uid":"3692544083",
+"parent":"AgLLeBnHz",
+"text":"爱[爱你]@最爱香橙味丶布丁",
+"mid":"AgOTq8iD3",
+"date":"2013-11-02 07:24:32"
+},
+{
+"kids":[
+"AgQRPgpt3",
+"AgQR7dFJD",
+"AgPLf8KBr",
+"AgPFlydxx",
+"AgPAkrkLu",
+"AgPseF7zL",
+"AgPgGrbeb"
+],
+"uid":"1909026837",
+"parent":"AgOQLfivI",
+"text":"",
+"mid":"AgOT88GcA",
+"date":"2013-11-02 07:23:48"
+},
+{
+"kids":[
+"AgQNxBEcM"
+],
+"uid":"3821187351",
+"parent":"AgOQLfivI",
+"text":"",
+"mid":"AgORQhKFG",
+"date":"2013-11-02 07:20:39"
+},
+{
+"kids":[
+"AgU4cvXrU",
+"AgTR52Ycp",
+"AgSztokkg",
+"AgSoO80Pc",
+"AgSofwfgK",
+"AgShGjKBt",
+"AgS6ozX9e",
+"AgS1B5PCW",
+"AgRZ7omFr",
+"AgRYh59Rj",
+"AgROfEJIT",
+"AgRIErlmQ",
+"AgReHhcNp",
+"AgQRPgpt3",
+"AgQR7dFJD",
+"AgQNxBEcM",
+"AgPQP7IEm",
+"AgPLf8KBr",
+"AgPFlydxx",
+"AgPAkrkLu",
+"AgPzbdatq",
+"AgPseF7zL",
+"AgPiOut7k",
+"AgPgGrbeb",
+"AgPgE4ql9",
+"AgP0lsB3R",
+"AgOT88GcA",
+"AgORQhKFG"
+],
+"uid":"1796827830",
+"parent":"AgOLouLxu",
+"text":"",
+"mid":"AgOQLfivI",
+"date":"2013-11-02 07:17:59"
+},
+{
+"kids":[],
+"uid":"2690683293",
+"parent":"",
+"text":"",
+"mid":"AgOPzF7yC",
+"date":"2013-11-02 07:15:04"
+},
+{
+"kids":[
+"AgU4cvXrU",
+"AgTR52Ycp",
+"AgSZgl368",
+"AgSztokkg",
+"AgSoO80Pc",
+"AgSofwfgK",
+"AgShGjKBt",
+"AgS6ozX9e",
+"AgS1B5PCW",
+"AgRZ7omFr",
+"AgRYh59Rj",
+"AgROfEJIT",
+"AgRIErlmQ",
+"AgReHhcNp",
+"AgQRPgpt3",
+"AgQR7dFJD",
+"AgQNxBEcM",
+"AgPQP7IEm",
+"AgPLf8KBr",
+"AgPFlydxx",
+"AgPAkrkLu",
+"AgPzbdatq",
+"AgPseF7zL",
+"AgPkQ4bIn",
+"AgPiOut7k",
+"AgPgGrbeb",
+"AgPgE4ql9",
+"AgPf3EyQx",
+"AgP5kz0ph",
+"AgP0ShYEQ",
+"AgP0lsB3R",
+"AgOT88GcA",
+"AgORQhKFG",
+"AgOQLfivI"
+],
+"uid":"641307985",
+"parent":"",
+"text":"[爱你]@cojwedrty",
+"mid":"AgOLouLxu",
+"date":"2013-11-02 07:04:46"
+},
+{
+"kids":[
+"AgPIlaQx2"
+],
+"uid":"2137302895",
+"parent":"AgLpm1Sg8",
+"text":"",
+"mid":"AgOKUF4qf",
+"date":"2013-11-02 07:03:35"
+},
+{
+"kids":[],
+"uid":"2346644850",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgOK8fbLb",
+"date":"2013-11-02 07:01:38"
+},
+{
+"kids":[],
+"uid":"2809857927",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgOHCdwAV",
+"date":"2013-11-02 06:55:27"
+},
+{
+"kids":[],
+"uid":"2545778027",
+"parent":"",
+"text":"",
+"mid":"AgOwgAP8T",
+"date":"2013-11-02 06:27:30"
+},
+{
+"kids":[],
+"uid":"2599879607",
+"parent":"",
+"text":"",
+"mid":"AgOtXiPL7",
+"date":"2013-11-02 06:21:48"
+},
+{
+"kids":[],
+"uid":"2610212253",
+"parent":"",
+"text":"",
+"mid":"AgOt4m4cn",
+"date":"2013-11-02 06:19:37"
+},
+{
+"kids":[],
+"uid":"1812675570",
+"parent":"",
+"text":"",
+"mid":"AgOjwc68Q",
+"date":"2013-11-02 05:56:05"
+},
+{
+"kids":[],
+"uid":"2300331817",
+"parent":"",
+"text":"",
+"mid":"AgObZAHkr",
+"date":"2013-11-02 05:37:32"
+},
+{
+"kids":[
+"AgTQixRRs",
+"AgTiMFNPo",
+"AgSNmaqRy",
+"AgSHDgKTw",
+"AgRQFu59C",
+"AgPAQ30S0",
+"AgPqRBSME"
+],
+"uid":"zj12201116",
+"parent":"AgLzBioof",
+"text":"",
+"mid":"AgNP37ZkE",
+"date":"2013-11-02 04:41:00"
+},
+{
+"kids":[],
+"uid":"2756975705",
+"parent":"AgLOxCALj",
+"text":"",
+"mid":"AgNMbwpRm",
+"date":"2013-11-02 04:33:58"
+},
+{
+"kids":[
+"AgZEAyUb7"
+],
+"uid":"2863846032",
+"parent":"AgM1Cudj1",
+"text":"",
+"mid":"AgNLdgsqm",
+"date":"2013-11-02 04:31:34"
+},
+{
+"kids":[],
+"uid":"2043532243",
+"parent":"",
+"text":"[吃惊][吃惊][吃惊][吃惊]粤！语！！版！！！",
+"mid":"AgNBU9alP",
+"date":"2013-11-02 04:08:38"
+},
+{
+"kids":[],
+"uid":"2659596933",
+"parent":"AgLoykWuL",
+"text":"",
+"mid":"AgMWHjdAf",
+"date":"2013-11-02 02:27:07"
+},
+{
+"kids":[],
+"uid":"1883885705",
+"parent":"",
+"text":"",
+"mid":"AgMT3xZra",
+"date":"2013-11-02 02:18:08"
+},
+{
+"kids":[],
+"uid":"2705800704",
+"parent":"",
+"text":"",
+"mid":"AgMPD7Rx9",
+"date":"2013-11-02 02:09:42"
+},
+{
+"kids":[],
+"uid":"love1126707510",
+"parent":"",
+"text":"",
+"mid":"AgMKxtSqd",
+"date":"2013-11-02 01:57:10"
+},
+{
+"kids":[],
+"uid":"3218284041",
+"parent":"AgLTupKFi",
+"text":"",
+"mid":"AgMHp6Ako",
+"date":"2013-11-02 01:49:26"
+},
+{
+"kids":[],
+"uid":"2446114763",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgMHaBiJC",
+"date":"2013-11-02 01:48:52"
+},
+{
+"kids":[],
+"uid":"3225641947",
+"parent":"",
+"text":"",
+"mid":"AgMGSzKfs",
+"date":"2013-11-02 01:48:09"
+},
+{
+"kids":[],
+"uid":"2637587467",
+"parent":"",
+"text":"",
+"mid":"AgMGH1YPq",
+"date":"2013-11-02 01:47:41"
+},
+{
+"kids":[],
+"uid":"1583533407",
+"parent":"AgMpB61Ob",
+"text":"",
+"mid":"AgMAr36U1",
+"date":"2013-11-02 01:32:15"
+},
+{
+"kids":[],
+"uid":"207092626",
+"parent":"AgLw9kXYs",
+"text":"",
+"mid":"AgMtGn3Tv",
+"date":"2013-11-02 01:15:38"
+},
+{
+"kids":[],
+"uid":"3579368095",
+"parent":"",
+"text":"",
+"mid":"AgMsJgq6r",
+"date":"2013-11-02 01:13:17"
+},
+{
+"kids":[],
+"uid":"2072653175",
+"parent":"",
+"text":"",
+"mid":"AgMqgvxkn",
+"date":"2013-11-02 01:07:12"
+},
+{
+"kids":[
+"AgMAr36U1"
+],
+"uid":"1459892322",
+"parent":"",
+"text":"[给力]",
+"mid":"AgMpB61Ob",
+"date":"2013-11-02 01:05:34"
+},
+{
+"kids":[],
+"uid":"1791433620",
+"parent":"",
+"text":"",
+"mid":"AgMovtBX1",
+"date":"2013-11-02 01:02:53"
+},
+{
+"kids":[],
+"uid":"3198179602",
+"parent":"AgMaUqgUL",
+"text":"",
+"mid":"AgMooo5O5",
+"date":"2013-11-02 01:02:36"
+},
+{
+"kids":[],
+"uid":"2788727251",
+"parent":"AgLsQhyhZ",
+"text":"",
+"mid":"AgMlyfPnP",
+"date":"2013-11-02 00:55:36"
+},
+{
+"kids":[],
+"uid":"1864675712",
+"parent":"AgLwMFFPX",
+"text":"",
+"mid":"AgMiLFiE7",
+"date":"2013-11-02 00:48:45"
+},
+{
+"kids":[],
+"uid":"3037232121",
+"parent":"AgLNneMDc",
+"text":"",
+"mid":"AgMeb98Xz",
+"date":"2013-11-02 00:37:27"
+},
+{
+"kids":[],
+"uid":"zangwen",
+"parent":"",
+"text":"",
+"mid":"AgMdkdO2F",
+"date":"2013-11-02 00:35:20"
+},
+{
+"kids":[],
+"uid":"gyn329",
+"parent":"AgLxnChGx",
+"text":"都夸他身形好 瘦了好多 杰哥减肥秘籍分享下可好[嘻嘻]",
+"mid":"AgMd7uqiQ",
+"date":"2013-11-02 00:34:50"
+},
+{
+"kids":[],
+"uid":"2946127413",
+"parent":"",
+"text":"",
+"mid":"AgMcKtTVF",
+"date":"2013-11-02 00:33:53"
+},
+{
+"kids":[],
+"uid":"2360678315",
+"parent":"AgM7Uz0NA",
+"text":"",
+"mid":"AgMcHx0XL",
+"date":"2013-11-02 00:33:49"
+},
+{
+"kids":[],
+"uid":"1768499131",
+"parent":"AgLB2fFtR",
+"text":"",
+"mid":"AgMctAIFl",
+"date":"2013-11-02 00:33:15"
+},
+{
+"kids":[],
+"uid":"315852666",
+"parent":"AgM50h5RA",
+"text":"",
+"mid":"AgMbFEbrv",
+"date":"2013-11-02 00:31:15"
+},
+{
+"kids":[],
+"uid":"2074157781",
+"parent":"",
+"text":"",
+"mid":"AgMbbhyDd",
+"date":"2013-11-02 00:30:00"
+},
+{
+"kids":[
+"AgMooo5O5"
+],
+"uid":"3219691865",
+"parent":"AgLOxCALj",
+"text":"",
+"mid":"AgMaUqgUL",
+"date":"2013-11-02 00:29:21"
+},
+{
+"kids":[],
+"uid":"3800329515",
+"parent":"",
+"text":"",
+"mid":"AgMaNCkHX",
+"date":"2013-11-02 00:29:08"
+},
+{
+"kids":[],
+"uid":"3182495511",
+"parent":"",
+"text":"实在受不了有些狗腿媒体",
+"mid":"AgM8WFoSS",
+"date":"2013-11-02 00:24:31"
+},
+{
+"kids":[
+"AgMcHx0XL"
+],
+"uid":"obstinatelee",
+"parent":"",
+"text":"",
+"mid":"AgM7Uz0NA",
+"date":"2013-11-02 00:21:58"
+},
+{
+"kids":[],
+"uid":"3176870372",
+"parent":"AgLV1ym9p",
+"text":"",
+"mid":"AgM7vaa7x",
+"date":"2013-11-02 00:20:57"
+},
+{
+"kids":[],
+"uid":"2499430262",
+"parent":"",
+"text":"",
+"mid":"AgM6YCQ7n",
+"date":"2013-11-02 00:19:42"
+},
+{
+"kids":[],
+"uid":"3221275885",
+"parent":"",
+"text":"",
+"mid":"AgM6T3KXx",
+"date":"2013-11-02 00:19:28"
+},
+{
+"kids":[],
+"uid":"hanray5",
+"parent":"",
+"text":"",
+"mid":"AgM5L0yXQ",
+"date":"2013-11-02 00:16:39"
+},
+{
+"kids":[],
+"uid":"2038982411",
+"parent":"AgM50h5RA",
+"text":"",
+"mid":"AgM5GyMq1",
+"date":"2013-11-02 00:16:31"
+},
+{
+"kids":[],
+"uid":"2920847697",
+"parent":"",
+"text":"",
+"mid":"AgM5xnSn6",
+"date":"2013-11-02 00:16:08"
+},
+{
+"kids":[],
+"uid":"2714395243",
+"parent":"",
+"text":"",
+"mid":"AgM5xmUbA",
+"date":"2013-11-02 00:16:09"
+},
+{
+"kids":[
+"Ah3Jq7s6P",
+"Ah0yajFZc",
+"AgRnpsEdu",
+"AgQ8a7bg2",
+"AgOZNaxjH",
+"AgMbFEbrv",
+"AgM5GyMq1"
+],
+"uid":"1640400980",
+"parent":"AgLWRAkh4",
+"text":"",
+"mid":"AgM50h5RA",
+"date":"2013-11-02 00:14:50"
+},
+{
+"kids":[],
+"uid":"2951842577",
+"parent":"",
+"text":"",
+"mid":"AgM43bXZm",
+"date":"2013-11-02 00:12:27"
+},
+{
+"kids":[],
+"uid":"2289202140",
+"parent":"",
+"text":"",
+"mid":"AgM3wqecq",
+"date":"2013-11-02 00:11:08"
+},
+{
+"kids":[
+"AgP0gpM0y"
+],
+"uid":"3808825093",
+"parent":"",
+"text":"",
+"mid":"AgM2ar8AD",
+"date":"2013-11-02 00:07:48"
+},
+{
+"kids":[],
+"uid":"3808825093",
+"parent":"",
+"text":"",
+"mid":"AgM1QEayx",
+"date":"2013-11-02 00:07:05"
+},
+{
+"kids":[
+"AgZEAyUb7",
+"AgQPSF9oR",
+"AgPwuA3ma",
+"AgNLdgsqm"
+],
+"uid":"1830471965",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgM1Cudj1",
+"date":"2013-11-02 00:06:31"
+},
+{
+"kids":[],
+"uid":"1971758791",
+"parent":"",
+"text":"@张杰加油",
+"mid":"AgM1whXhO",
+"date":"2013-11-02 00:06:14"
+},
+{
+"kids":[],
+"uid":"2235861531",
+"parent":"AgLXAxgB9",
+"text":"",
+"mid":"AgM0Evuv7",
+"date":"2013-11-02 00:04:04"
+},
+{
+"kids":[],
+"uid":"3256793725",
+"parent":"",
+"text":"[爱你]",
+"mid":"AgM0BzJ2W",
+"date":"2013-11-02 00:03:56"
+},
+{
+"kids":[],
+"uid":"2869273040",
+"parent":"",
+"text":"#1130张杰广州演唱会#[爱你]#张杰CCTV1开讲啦#",
+"mid":"AgLZTfVzv",
+"date":"2013-11-02 00:02:13"
+},
+{
+"kids":[],
+"uid":"3203436235",
+"parent":"",
+"text":"[爱你]",
+"mid":"AgLZgdAqY",
+"date":"2013-11-02 00:00:39"
+},
+{
+"kids":[],
+"uid":"3160813920",
+"parent":"AgLBB6aT6",
+"text":"",
+"mid":"AgLZfEF3i",
+"date":"2013-11-02 00:00:40"
+},
+{
+"kids":[],
+"uid":"206781752",
+"parent":"",
+"text":"转发微博。",
+"mid":"AgLZa1kRj",
+"date":"2013-11-02 00:00:25"
+},
+{
+"kids":[],
+"uid":"245682580",
+"parent":"",
+"text":"",
+"mid":"AgLZ7EgRg",
+"date":"2013-11-02 00:00:19"
+},
+{
+"kids":[],
+"uid":"942781169",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgLYLdUmU",
+"date":"2013-11-01 23:59:26"
+},
+{
+"kids":[],
+"uid":"2285071473",
+"parent":"",
+"text":"",
+"mid":"AgLYJajkZ",
+"date":"2013-11-01 23:59:22"
+},
+{
+"kids":[],
+"uid":"3165402892",
+"parent":"AgLy0AfzE",
+"text":"",
+"mid":"AgLXP2n9t",
+"date":"2013-11-01 23:57:08"
+},
+{
+"kids":[],
+"uid":"zheijiushiai",
+"parent":"AgLOxCALj",
+"text":"",
+"mid":"AgLXOF2jH",
+"date":"2013-11-01 23:57:08"
+},
+{
+"kids":[
+"AgM0Evuv7"
+],
+"uid":"anglechristinamylove",
+"parent":"AgLBB6aT6",
+"text":"",
+"mid":"AgLXAxgB9",
+"date":"2013-11-01 23:56:34"
+},
+{
+"kids":[],
+"uid":"2321365485",
+"parent":"",
+"text":"",
+"mid":"AgLXw5S6w",
+"date":"2013-11-01 23:56:23"
+},
+{
+"kids":[],
+"uid":"1660821852",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLX8sJC0",
+"date":"2013-11-01 23:55:25"
+},
+{
+"kids":[
+"Ah3Jq7s6P",
+"Ah0yajFZc",
+"AgRnpsEdu",
+"AgQ8a7bg2",
+"AgOZNaxjH",
+"AgMbFEbrv",
+"AgM5GyMq1",
+"AgM50h5RA"
+],
+"uid":"2090905301",
+"parent":"AgLV1ym9p",
+"text":"",
+"mid":"AgLWRAkh4",
+"date":"2013-11-01 23:54:46"
+},
+{
+"kids":[],
+"uid":"336949441",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLWNalZ9",
+"date":"2013-11-01 23:54:36"
+},
+{
+"kids":[],
+"uid":"1768042810",
+"parent":"",
+"text":"",
+"mid":"AgLVVDLd3",
+"date":"2013-11-01 23:52:29"
+},
+{
+"kids":[],
+"uid":"weiboyuepeng",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLVi5hKF",
+"date":"2013-11-01 23:50:54"
+},
+{
+"kids":[
+"Ah3Jq7s6P",
+"Ah0yajFZc",
+"AgRnpsEdu",
+"AgQ8a7bg2",
+"AgOZNaxjH",
+"AgMbFEbrv",
+"AgM7vaa7x",
+"AgM5GyMq1",
+"AgM50h5RA",
+"AgLWRAkh4"
+],
+"uid":"2867350402",
+"parent":"AgLTupKFi",
+"text":"",
+"mid":"AgLV1ym9p",
+"date":"2013-11-01 23:50:15"
+},
+{
+"kids":[],
+"uid":"2875352720",
+"parent":"AgLCvgr91",
+"text":"",
+"mid":"AgLUWwUDN",
+"date":"2013-11-01 23:50:03"
+},
+{
+"kids":[],
+"uid":"1989853427",
+"parent":"",
+"text":"",
+"mid":"AgLUp9kYg",
+"date":"2013-11-01 23:48:43"
+},
+{
+"kids":[],
+"uid":"730678001",
+"parent":"",
+"text":"",
+"mid":"AgLUk7TVR",
+"date":"2013-11-01 23:48:31"
+},
+{
+"kids":[
+"AgP62i9W8"
+],
+"uid":"2129762500",
+"parent":"",
+"text":"",
+"mid":"AgLUha48x",
+"date":"2013-11-01 23:48:21"
+},
+{
+"kids":[],
+"uid":"3208545547",
+"parent":"",
+"text":"",
+"mid":"AgLUbxtIJ",
+"date":"2013-11-01 23:48:09"
+},
+{
+"kids":[
+"Ah3Jq7s6P",
+"Ah0yajFZc",
+"AgRnpsEdu",
+"AgQ8a7bg2",
+"AgPFxqs4S",
+"AgOZNaxjH",
+"AgMHp6Ako",
+"AgMbFEbrv",
+"AgM7vaa7x",
+"AgM5GyMq1",
+"AgM50h5RA",
+"AgLWRAkh4",
+"AgLV1ym9p"
+],
+"uid":"3024855861",
+"parent":"",
+"text":"",
+"mid":"AgLTupKFi",
+"date":"2013-11-01 23:46:25"
+},
+{
+"kids":[
+"AjhTxu2pN",
+"Ah7RPhuTQ",
+"AgZddePIg",
+"AgYxJ0YGw"
+],
+"uid":"2933258225",
+"parent":"",
+"text":"",
+"mid":"AgLSWo2WT",
+"date":"2013-11-01 23:45:07"
+},
+{
+"kids":[],
+"uid":"1961471925",
+"parent":"",
+"text":"",
+"mid":"AgLRDbniw",
+"date":"2013-11-01 23:41:51"
+},
+{
+"kids":[],
+"uid":"3280550117",
+"parent":"AgLBu0Fu5",
+"text":"",
+"mid":"AgLQxcqxl",
+"date":"2013-11-01 23:39:12"
+},
+{
+"kids":[],
+"uid":"1650493445",
+"parent":"",
+"text":"",
+"mid":"AgLQv8kiJ",
+"date":"2013-11-01 23:39:06"
+},
+{
+"kids":[],
+"uid":"1844519374",
+"parent":"",
+"text":"",
+"mid":"AgLQkuhxZ",
+"date":"2013-11-01 23:38:41"
+},
+{
+"kids":[],
+"uid":"3294152174",
+"parent":"",
+"text":"",
+"mid":"AgLP53DSZ",
+"date":"2013-11-01 23:35:37"
+},
+{
+"kids":[],
+"uid":"2856550793",
+"parent":"",
+"text":"",
+"mid":"AgLOVA1JX",
+"date":"2013-11-01 23:35:14"
+},
+{
+"kids":[],
+"uid":"3280550117",
+"parent":"AgLHngSC1",
+"text":"",
+"mid":"AgLOV2M55",
+"date":"2013-11-01 23:35:10"
+},
+{
+"kids":[
+"AgNMbwpRm",
+"AgMooo5O5",
+"AgMaUqgUL",
+"AgLXOF2jH"
+],
+"uid":"3297381833",
+"parent":"AgLn1tgVd",
+"text":"我听得懂[嘻嘻][嘻嘻]",
+"mid":"AgLOxCALj",
+"date":"2013-11-01 23:34:17"
+},
+{
+"kids":[],
+"uid":"2261589260",
+"parent":"",
+"text":"",
+"mid":"AgLOsFhb5",
+"date":"2013-11-01 23:34:04"
+},
+{
+"kids":[],
+"uid":"2983186767",
+"parent":"AgLwxyMgE",
+"text":"",
+"mid":"AgLOqzCz3",
+"date":"2013-11-01 23:33:58"
+},
+{
+"kids":[],
+"uid":"2702894510",
+"parent":"",
+"text":"#张杰#",
+"mid":"AgLOaDBXu",
+"date":"2013-11-01 23:33:20"
+},
+{
+"kids":[],
+"uid":"3138541643",
+"parent":"AgLsHavFZ",
+"text":"",
+"mid":"AgLO99Bf1",
+"date":"2013-11-01 23:33:16"
+},
+{
+"kids":[],
+"uid":"3556839867",
+"parent":"",
+"text":"",
+"mid":"AgLO4nnJz",
+"date":"2013-11-01 23:33:05"
+},
+{
+"kids":[],
+"uid":"577229584",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgLO1spRR",
+"date":"2013-11-01 23:32:59"
+},
+{
+"kids":[],
+"uid":"3162408197",
+"parent":"",
+"text":"",
+"mid":"AgLO0zaAW",
+"date":"2013-11-01 23:32:58"
+},
+{
+"kids":[],
+"uid":"zhangjiezuishuai84",
+"parent":"AgLEPalzc",
+"text":"",
+"mid":"AgLNvxh5n",
+"date":"2013-11-01 23:31:44"
+},
+{
+"kids":[
+"AgMeb98Xz"
+],
+"uid":"12203187",
+"parent":"",
+"text":"",
+"mid":"AgLNneMDc",
+"date":"2013-11-01 23:31:25"
+},
+{
+"kids":[],
+"uid":"3692425322",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLNlsiFw",
+"date":"2013-11-01 23:31:20"
+},
+{
+"kids":[],
+"uid":"2036952551",
+"parent":"",
+"text":"",
+"mid":"AgLNjodtg",
+"date":"2013-11-01 23:31:15"
+},
+{
+"kids":[],
+"uid":"3266838030",
+"parent":"",
+"text":"",
+"mid":"AgLNguuQI",
+"date":"2013-11-01 23:31:08"
+},
+{
+"kids":[],
+"uid":"2911624300",
+"parent":"",
+"text":"",
+"mid":"AgLMPALUH",
+"date":"2013-11-01 23:30:05"
+},
+{
+"kids":[],
+"uid":"weiaijiena520",
+"parent":"AgLItcgu1",
+"text":"",
+"mid":"AgLMBF4B8",
+"date":"2013-11-01 23:29:30"
+},
+{
+"kids":[],
+"uid":"chouxiaodan0728",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLMw7Jnc",
+"date":"2013-11-01 23:29:15"
+},
+{
+"kids":[],
+"uid":"2447121253",
+"parent":"",
+"text":"我杰",
+"mid":"AgLM5u4ya",
+"date":"2013-11-01 23:28:14"
+},
+{
+"kids":[],
+"uid":"2353791667",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgLLZ0aqn",
+"date":"2013-11-01 23:27:56"
+},
+{
+"kids":[],
+"uid":"1758175435",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLLyEliN",
+"date":"2013-11-01 23:26:56"
+},
+{
+"kids":[
+"AgQWHgHN5",
+"AgOTq8iD3"
+],
+"uid":"1875578271",
+"parent":"",
+"text":"转发微博。",
+"mid":"AgLLeBnHz",
+"date":"2013-11-01 23:26:08"
+},
+{
+"kids":[],
+"uid":"2298648931",
+"parent":"",
+"text":"",
+"mid":"AgLLejMdl",
+"date":"2013-11-01 23:26:05"
+},
+{
+"kids":[],
+"uid":"2404009187",
+"parent":"",
+"text":"",
+"mid":"AgLLcffmZ",
+"date":"2013-11-01 23:26:03"
+},
+{
+"kids":[],
+"uid":"1694913457",
+"parent":"",
+"text":"",
+"mid":"AgLL34IMv",
+"date":"2013-11-01 23:25:38"
+},
+{
+"kids":[],
+"uid":"3349703270",
+"parent":"",
+"text":"",
+"mid":"AgLL2ac06",
+"date":"2013-11-01 23:25:37"
+},
+{
+"kids":[],
+"uid":"3198265567",
+"parent":"",
+"text":"",
+"mid":"AgLKTjva1",
+"date":"2013-11-01 23:25:17"
+},
+{
+"kids":[],
+"uid":"1703756791",
+"parent":"",
+"text":"",
+"mid":"AgLKg3rQp",
+"date":"2013-11-01 23:23:43"
+},
+{
+"kids":[],
+"uid":"1877578970",
+"parent":"",
+"text":"",
+"mid":"AgLK6i8CH",
+"date":"2013-11-01 23:23:21"
+},
+{
+"kids":[],
+"uid":"ld857205045",
+"parent":"AgLGFvP9f",
+"text":"",
+"mid":"AgLK31hFJ",
+"date":"2013-11-01 23:23:08"
+},
+{
+"kids":[],
+"uid":"3188995134",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLJQAkhd",
+"date":"2013-11-01 23:22:43"
+},
+{
+"kids":[],
+"uid":"279911644",
+"parent":"",
+"text":"",
+"mid":"AgLJLyUsu",
+"date":"2013-11-01 23:22:31"
+},
+{
+"kids":[],
+"uid":"318010222",
+"parent":"",
+"text":"",
+"mid":"AgLJwd3UR",
+"date":"2013-11-01 23:21:54"
+},
+{
+"kids":[],
+"uid":"qianfoever",
+"parent":"AgLpyoNa2",
+"text":"",
+"mid":"AgLJspaoP",
+"date":"2013-11-01 23:21:42"
+},
+{
+"kids":[],
+"uid":"moxiaoxiaoyue",
+"parent":"",
+"text":"",
+"mid":"AgLJqA0h7",
+"date":"2013-11-01 23:21:41"
+},
+{
+"kids":[],
+"uid":"2899562290",
+"parent":"",
+"text":"哟！粤语哦",
+"mid":"AgLJ5B6dt",
+"date":"2013-11-01 23:20:50"
+},
+{
+"kids":[],
+"uid":"2784014063",
+"parent":"",
+"text":"",
+"mid":"AgLIZoQcj",
+"date":"2013-11-01 23:20:37"
+},
+{
+"kids":[],
+"uid":"1844519374",
+"parent":"",
+"text":"",
+"mid":"AgLIXEl0P",
+"date":"2013-11-01 23:20:32"
+},
+{
+"kids":[],
+"uid":"3293241915",
+"parent":"",
+"text":"",
+"mid":"AgLIRss9Z",
+"date":"2013-11-01 23:20:18"
+},
+{
+"kids":[],
+"uid":"207155568",
+"parent":"",
+"text":"",
+"mid":"AgLIHngxa",
+"date":"2013-11-01 23:19:54"
+},
+{
+"kids":[],
+"uid":"1760405535",
+"parent":"AgLzQ6n2Z",
+"text":"",
+"mid":"AgLIvxIq6",
+"date":"2013-11-01 23:19:23"
+},
+{
+"kids":[
+"AgLMBF4B8"
+],
+"uid":"2287876921",
+"parent":"",
+"text":"[呵呵]",
+"mid":"AgLItcgu1",
+"date":"2013-11-01 23:19:17"
+},
+{
+"kids":[],
+"uid":"rui5200926",
+"parent":"",
+"text":"广州的好棒",
+"mid":"AgLIiAYhd",
+"date":"2013-11-01 23:18:54"
+},
+{
+"kids":[],
+"uid":"2723685793",
+"parent":"",
+"text":"",
+"mid":"AgLI8gsKs",
+"date":"2013-11-01 23:18:27"
+},
+{
+"kids":[],
+"uid":"3634217915",
+"parent":"",
+"text":"",
+"mid":"AgLHTtHRY",
+"date":"2013-11-01 23:17:52"
+},
+{
+"kids":[],
+"uid":"3279053482",
+"parent":"",
+"text":"",
+"mid":"AgLHNedos",
+"date":"2013-11-01 23:17:39"
+},
+{
+"kids":[
+"AgP2DkxSc",
+"AgLOV2M55"
+],
+"uid":"3089795631",
+"parent":"AgLn2E7eE",
+"text":"",
+"mid":"AgLHngSC1",
+"date":"2013-11-01 23:16:35"
+},
+{
+"kids":[],
+"uid":"2206817517",
+"parent":"",
+"text":"",
+"mid":"AgLHlclEC",
+"date":"2013-11-01 23:16:33"
+},
+{
+"kids":[],
+"uid":"3793284827",
+"parent":"",
+"text":"",
+"mid":"AgLHcAMr7",
+"date":"2013-11-01 23:16:12"
+},
+{
+"kids":[
+"AgLK31hFJ"
+],
+"uid":"525192343",
+"parent":"AgLy0AfzE",
+"text":"哇哦[花心]",
+"mid":"AgLGFvP9f",
+"date":"2013-11-01 23:14:53"
+},
+{
+"kids":[],
+"uid":"1057543680juan",
+"parent":"",
+"text":"轉發微博",
+"mid":"AgLGd7zFP",
+"date":"2013-11-01 23:13:46"
+},
+{
+"kids":[],
+"uid":"2521537170",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLG7fZVv",
+"date":"2013-11-01 23:13:32"
+},
+{
+"kids":[],
+"uid":"3170490254",
+"parent":"",
+"text":"",
+"mid":"AgLG6jFFb",
+"date":"2013-11-01 23:13:29"
+},
+{
+"kids":[],
+"uid":"1769087311",
+"parent":"",
+"text":"",
+"mid":"AgLG0artd",
+"date":"2013-11-01 23:13:12"
+},
+{
+"kids":[],
+"uid":"2034574751",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLFt5Utz",
+"date":"2013-11-01 23:11:53"
+},
+{
+"kids":[],
+"uid":"2779767137",
+"parent":"",
+"text":"",
+"mid":"AgLFbAjiu",
+"date":"2013-11-01 23:11:14"
+},
+{
+"kids":[
+"AgLNvxh5n"
+],
+"uid":"270133927",
+"parent":"AgLr0gnhD",
+"text":"",
+"mid":"AgLEPalzc",
+"date":"2013-11-01 23:10:20"
+},
+{
+"kids":[],
+"uid":"1824596065",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLEG2em6",
+"date":"2013-11-01 23:09:56"
+},
+{
+"kids":[],
+"uid":"2301609423",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgLECbbwf",
+"date":"2013-11-01 23:09:47"
+},
+{
+"kids":[],
+"uid":"3212436345",
+"parent":"",
+"text":"",
+"mid":"AgLEpsx9p",
+"date":"2013-11-01 23:09:17"
+},
+{
+"kids":[],
+"uid":"3205478382",
+"parent":"",
+"text":"",
+"mid":"AgLElzFeB",
+"date":"2013-11-01 23:09:09"
+},
+{
+"kids":[],
+"uid":"3173767551",
+"parent":"",
+"text":"",
+"mid":"AgLE52YfR",
+"date":"2013-11-01 23:08:28"
+},
+{
+"kids":[],
+"uid":"wuyuanxuanjun",
+"parent":"",
+"text":"#张杰It'sLove广州演唱会#",
+"mid":"AgLDVCYsl",
+"date":"2013-11-01 23:08:06"
+},
+{
+"kids":[],
+"uid":"3033275392",
+"parent":"AgLrWsA0c",
+"text":"[可怜]",
+"mid":"AgLDNEakh",
+"date":"2013-11-01 23:07:46"
+},
+{
+"kids":[
+"AjlD33Cfi",
+"AgPqqFjiM",
+"AgPfhwXoX"
+],
+"uid":"3198852420",
+"parent":"",
+"text":"",
+"mid":"AgLDN4XIe",
+"date":"2013-11-01 23:07:47"
+},
+{
+"kids":[],
+"uid":"1991271404",
+"parent":"",
+"text":"",
+"mid":"AgLDrufEZ",
+"date":"2013-11-01 23:06:55"
+},
+{
+"kids":[],
+"uid":"1923206604",
+"parent":"AgLw9kXYs",
+"text":"",
+"mid":"AgLDl0kYJ",
+"date":"2013-11-01 23:06:40"
+},
+{
+"kids":[],
+"uid":"12051220",
+"parent":"",
+"text":"哇哦[吃惊]",
+"mid":"AgLCNiCn7",
+"date":"2013-11-01 23:05:20"
+},
+{
+"kids":[],
+"uid":"528234068",
+"parent":"",
+"text":"",
+"mid":"AgLCJ7ji7",
+"date":"2013-11-01 23:05:10"
+},
+{
+"kids":[],
+"uid":"1872877963",
+"parent":"AgLAisyzd",
+"text":"",
+"mid":"AgLCFjldg",
+"date":"2013-11-01 23:05:00"
+},
+{
+"kids":[],
+"uid":"2964902561",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLCBujld",
+"date":"2013-11-01 23:04:50"
+},
+{
+"kids":[
+"ApwRSuF56",
+"Ah25K6Jer",
+"AgLUWwUDN"
+],
+"uid":"1687055612",
+"parent":"AgLBMBsh9",
+"text":"",
+"mid":"AgLCvgr91",
+"date":"2013-11-01 23:04:35"
+},
+{
+"kids":[],
+"uid":"3190576141",
+"parent":"AgLwIxtFh",
+"text":"",
+"mid":"AgLCh5jIb",
+"date":"2013-11-01 23:04:03"
+},
+{
+"kids":[],
+"uid":"2258303810",
+"parent":"",
+"text":"",
+"mid":"AgLCdtVlw",
+"date":"2013-11-01 23:03:55"
+},
+{
+"kids":[],
+"uid":"jmsunshine",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLC8ePOU",
+"date":"2013-11-01 23:03:40"
+},
+{
+"kids":[],
+"uid":"1946250135",
+"parent":"",
+"text":"",
+"mid":"AgLC22wHx",
+"date":"2013-11-01 23:03:26"
+},
+{
+"kids":[],
+"uid":"2522114681",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLBXwqNr",
+"date":"2013-11-01 23:03:18"
+},
+{
+"kids":[],
+"uid":"lhx980716",
+"parent":"AgLzehB4x",
+"text":"",
+"mid":"AgLBT7KSW",
+"date":"2013-11-01 23:03:05"
+},
+{
+"kids":[
+"ApwRSuF56",
+"Ah25K6Jer",
+"AgLUWwUDN",
+"AgLCvgr91"
+],
+"uid":"331491220",
+"parent":"AgLzBioof",
+"text":"哥哥 你明年能多来广州么!",
+"mid":"AgLBMBsh9",
+"date":"2013-11-01 23:02:51"
+},
+{
+"kids":[
+"AgM0Evuv7",
+"AgLZfEF3i",
+"AgLXAxgB9"
+],
+"uid":"weiaijnw",
+"parent":"AgLAWkXNK",
+"text":"",
+"mid":"AgLBB6aT6",
+"date":"2013-11-01 23:02:23"
+},
+{
+"kids":[],
+"uid":"3780074342",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgLBAux7p",
+"date":"2013-11-01 23:02:22"
+},
+{
+"kids":[],
+"uid":"2440976935",
+"parent":"",
+"text":"",
+"mid":"AgLBz25v1",
+"date":"2013-11-01 23:02:18"
+},
+{
+"kids":[],
+"uid":"1856718740",
+"parent":"AgLAWkXNK",
+"text":"",
+"mid":"AgLBybnWA",
+"date":"2013-11-01 23:02:16"
+},
+{
+"kids":[
+"AgLQxcqxl"
+],
+"uid":"930615123",
+"parent":"AgLrcDhNE",
+"text":"[围观]",
+"mid":"AgLBu0Fu5",
+"date":"2013-11-01 23:02:03"
+},
+{
+"kids":[],
+"uid":"3209100391",
+"parent":"",
+"text":"",
+"mid":"AgLBjmbU9",
+"date":"2013-11-01 23:01:39"
+},
+{
+"kids":[
+"AgMctAIFl"
+],
+"uid":"633164562",
+"parent":"",
+"text":"",
+"mid":"AgLB2fFtR",
+"date":"2013-11-01 23:00:58"
+},
+{
+"kids":[
+"AgM0Evuv7",
+"AgLZfEF3i",
+"AgLXAxgB9",
+"AgLBB6aT6",
+"AgLBybnWA"
+],
+"uid":"1862252595",
+"parent":"AgLzBioof",
+"text":"",
+"mid":"AgLAWkXNK",
+"date":"2013-11-01 23:00:46"
+},
+{
+"kids":[
+"AgYbd7VGj",
+"AgUpS8AYZ",
+"AgU8BfIJr",
+"AgTwg1d4b",
+"AgQl2zHk2",
+"AgQf7fpVH"
+],
+"uid":"2773443195",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgLAFu5GC",
+"date":"2013-11-01 23:00:05"
+},
+{
+"kids":[],
+"uid":"575399771",
+"parent":"",
+"text":"",
+"mid":"AgLAo5DZF",
+"date":"2013-11-01 22:59:23"
+},
+{
+"kids":[],
+"uid":"1752128521",
+"parent":"",
+"text":"",
+"mid":"AgLAnqTAY",
+"date":"2013-11-01 22:59:22"
+},
+{
+"kids":[],
+"uid":"1884092612",
+"parent":"AgLr0gnhD",
+"text":"",
+"mid":"AgLAj4cxm",
+"date":"2013-11-01 22:59:10"
+},
+{
+"kids":[
+"AgTGKodkL",
+"AgPIMl9UE",
+"AgLCFjldg"
+],
+"uid":"2431006920",
+"parent":"AgLqCBzKB",
+"text":"[偷笑]",
+"mid":"AgLAisyzd",
+"date":"2013-11-01 22:59:11"
+},
+{
+"kids":[],
+"uid":"2346258303",
+"parent":"",
+"text":"",
+"mid":"AgLAis4gF",
+"date":"2013-11-01 22:59:08"
+},
+{
+"kids":[],
+"uid":"2627667960",
+"parent":"",
+"text":"",
+"mid":"AgLAcgg3g",
+"date":"2013-11-01 22:58:56"
+},
+{
+"kids":[],
+"uid":"2159956777",
+"parent":"",
+"text":"[爱你][爱你][爱你][爱你]",
+"mid":"AgLA6DauT",
+"date":"2013-11-01 22:58:42"
+},
+{
+"kids":[],
+"uid":"1733122585",
+"parent":"",
+"text":"",
+"mid":"AgLA6BHeA",
+"date":"2013-11-01 22:58:41"
+},
+{
+"kids":[],
+"uid":"1757876603",
+"parent":"",
+"text":"",
+"mid":"AgLA3nJ0s",
+"date":"2013-11-01 22:58:35"
+},
+{
+"kids":[],
+"uid":"2702394931",
+"parent":"",
+"text":"",
+"mid":"AgLzXtwfq",
+"date":"2013-11-01 22:58:19"
+},
+{
+"kids":[],
+"uid":"3824668137",
+"parent":"",
+"text":"",
+"mid":"AgLzTCVwc",
+"date":"2013-11-01 22:58:12"
+},
+{
+"kids":[
+"AgLIvxIq6"
+],
+"uid":"2219097964",
+"parent":"AgLzehB4x",
+"text":"",
+"mid":"AgLzQ6n2Z",
+"date":"2013-11-01 22:58:03"
+},
+{
+"kids":[],
+"uid":"207071597",
+"parent":"AgLzsb5pG",
+"text":"",
+"mid":"AgLzKsMVb",
+"date":"2013-11-01 22:57:50"
+},
+{
+"kids":[],
+"uid":"3246286164",
+"parent":"AgLpm1Sg8",
+"text":"",
+"mid":"AgLzIFukz",
+"date":"2013-11-01 22:57:46"
+},
+{
+"kids":[],
+"uid":"fuxiangcrown",
+"parent":"",
+"text":"[爱你][爱你]",
+"mid":"AgLzIoGZo",
+"date":"2013-11-01 22:57:45"
+},
+{
+"kids":[],
+"uid":"2197014713",
+"parent":"AgLwxyMgE",
+"text":"",
+"mid":"AgLzBysZT",
+"date":"2013-11-01 22:57:29"
+},
+{
+"kids":[
+"ApwRSuF56",
+"Ah25K6Jer",
+"AgTQixRRs",
+"AgTiMFNPo",
+"AgSNmaqRy",
+"AgSHDgKTw",
+"AgRQFu59C",
+"AgRAJEOfK",
+"AgPAQ30S0",
+"AgPqRBSME",
+"AgP5vv4nO",
+"AgNP37ZkE",
+"AgM0Evuv7",
+"AgLZfEF3i",
+"AgLXAxgB9",
+"AgLUWwUDN",
+"AgLCvgr91",
+"AgLBMBsh9",
+"AgLBB6aT6",
+"AgLBybnWA",
+"AgLAWkXNK"
+],
+"uid":"574871199",
+"parent":"AgLzxcxc8",
+"text":"",
+"mid":"AgLzBioof",
+"date":"2013-11-01 22:57:27"
+},
+{
+"kids":[
+"ApwRSuF56",
+"Ah25K6Jer",
+"AgTQixRRs",
+"AgTiMFNPo",
+"AgSNmaqRy",
+"AgSHDgKTw",
+"AgRQFu59C",
+"AgRAJEOfK",
+"AgPAQ30S0",
+"AgPqRBSME",
+"AgP5vv4nO",
+"AgNP37ZkE",
+"AgM0Evuv7",
+"AgLZfEF3i",
+"AgLXAxgB9",
+"AgLUWwUDN",
+"AgLCvgr91",
+"AgLBMBsh9",
+"AgLBB6aT6",
+"AgLBybnWA",
+"AgLAWkXNK",
+"AgLzBioof"
+],
+"uid":"bestsy",
+"parent":"AgLzehB4x",
+"text":"",
+"mid":"AgLzxcxc8",
+"date":"2013-11-01 22:57:16"
+},
+{
+"kids":[
+"AgPNqqmV5",
+"AgPmw8R5J",
+"AgPfqnOEG",
+"AgPdjwVmh",
+"AgLzKsMVb"
+],
+"uid":"819950125",
+"parent":"AgLw9kXYs",
+"text":"",
+"mid":"AgLzsb5pG",
+"date":"2013-11-01 22:57:05"
+},
+{
+"kids":[],
+"uid":"1826464610",
+"parent":"",
+"text":"",
+"mid":"AgLzrxQI5",
+"date":"2013-11-01 22:57:05"
+},
+{
+"kids":[
+"ApwRSuF56",
+"Ah25K6Jer",
+"AgUYwn6Xf",
+"AgUYdsaJH",
+"AgTQixRRs",
+"AgTiMFNPo",
+"AgSNmaqRy",
+"AgSHDgKTw",
+"AgRQFu59C",
+"AgRAJEOfK",
+"AgPDO8Uir",
+"AgPAQ30S0",
+"AgPqRBSME",
+"AgP5vv4nO",
+"AgNP37ZkE",
+"AgM0Evuv7",
+"AgLZfEF3i",
+"AgLXAxgB9",
+"AgLUWwUDN",
+"AgLIvxIq6",
+"AgLCvgr91",
+"AgLBT7KSW",
+"AgLBMBsh9",
+"AgLBB6aT6",
+"AgLBybnWA",
+"AgLAWkXNK",
+"AgLzQ6n2Z",
+"AgLzBioof",
+"AgLzxcxc8"
+],
+"uid":"1679626740",
+"parent":"",
+"text":"@穗_星尕玲 那都有你，真是的[纠结]",
+"mid":"AgLzehB4x",
+"date":"2013-11-01 22:56:33"
+},
+{
+"kids":[],
+"uid":"2731579311",
+"parent":"",
+"text":"长沙也好想呢啊",
+"mid":"AgLyLggXu",
+"date":"2013-11-01 22:55:23"
+},
+{
+"kids":[],
+"uid":"1738488964",
+"parent":"",
+"text":"",
+"mid":"AgLyKn1Z4",
+"date":"2013-11-01 22:55:20"
+},
+{
+"kids":[],
+"uid":"2292454751",
+"parent":"",
+"text":"嚯！",
+"mid":"AgLyy1WeA",
+"date":"2013-11-01 22:54:52"
+},
+{
+"kids":[],
+"uid":"1915575262",
+"parent":"AgLqCBzKB",
+"text":"",
+"mid":"AgLywx2Lm",
+"date":"2013-11-01 22:54:49"
+},
+{
+"kids":[],
+"uid":"deathsmile",
+"parent":"",
+"text":"",
+"mid":"AgLysoQGz",
+"date":"2013-11-01 22:54:39"
+},
+{
+"kids":[],
+"uid":"3225591433",
+"parent":"AgLlz4UUP",
+"text":"#爱，不解释# 哈哈[呵呵][可爱]",
+"mid":"AgLyqClZ4",
+"date":"2013-11-01 22:54:33"
+},
+{
+"kids":[],
+"uid":"3054712581",
+"parent":"",
+"text":"",
+"mid":"AgLyn5iaY",
+"date":"2013-11-01 22:54:26"
+},
+{
+"kids":[],
+"uid":"1962007161",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgLyjv2EP",
+"date":"2013-11-01 22:54:17"
+},
+{
+"kids":[
+"AgQWgDF3b",
+"AgLXP2n9t",
+"AgLK31hFJ",
+"AgLGFvP9f"
+],
+"uid":"11250604",
+"parent":"AgLrWsA0c",
+"text":"粤语的[花心]收一个",
+"mid":"AgLy0AfzE",
+"date":"2013-11-01 22:53:32"
+},
+{
+"kids":[],
+"uid":"2953342623",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgLxU6oOa",
+"date":"2013-11-01 22:53:17"
+},
+{
+"kids":[],
+"uid":"1769285084",
+"parent":"AgLxnChGx",
+"text":"",
+"mid":"AgLxEruls",
+"date":"2013-11-01 22:52:38"
+},
+{
+"kids":[],
+"uid":"1850551392",
+"parent":"",
+"text":"",
+"mid":"AgLxvB4MM",
+"date":"2013-11-01 22:52:20"
+},
+{
+"kids":[],
+"uid":"1799448482",
+"parent":"",
+"text":"",
+"mid":"AgLxuFjCp",
+"date":"2013-11-01 22:52:16"
+},
+{
+"kids":[
+"AgZEAyUb7",
+"AgYbd7VGj",
+"AgVr9m1Lo",
+"AgUpS8AYZ",
+"AgUdovXsD",
+"AgU8BfIJr",
+"AgTwg1d4b",
+"AgR7UcNdh",
+"AgQPSF9oR",
+"AgQl2zHk2",
+"AgQf7fpVH",
+"AgQdG1R1k",
+"AgPwuA3ma",
+"AgOHCdwAV",
+"AgNLdgsqm",
+"AgMd7uqiQ",
+"AgM1Cudj1",
+"AgLYLdUmU",
+"AgLO1spRR",
+"AgLLZ0aqn",
+"AgLECbbwf",
+"AgLBAux7p",
+"AgLAFu5GC",
+"AgLyjv2EP",
+"AgLxU6oOa",
+"AgLxEruls"
+],
+"uid":"338766618",
+"parent":"AgLrWsA0c",
+"text":"",
+"mid":"AgLxnChGx",
+"date":"2013-11-01 22:51:57"
+},
+{
+"kids":[],
+"uid":"2175347000",
+"parent":"",
+"text":"#爱，不解释#",
+"mid":"AgLxjssEf",
+"date":"2013-11-01 22:51:48"
+},
+{
+"kids":[],
+"uid":"1767614291",
+"parent":"AgLw8a7It",
+"text":"",
+"mid":"AgLx72H5y",
+"date":"2013-11-01 22:51:20"
+},
+{
+"kids":[],
+"uid":"3478831445",
+"parent":"",
+"text":"@张杰",
+"mid":"AgLx23wp8",
+"date":"2013-11-01 22:51:06"
+},
+{
+"kids":[
+"AgMiLFiE7"
+],
+"uid":"1774417557",
+"parent":"AgLrqdQ1F",
+"text":"",
+"mid":"AgLwMFFPX",
+"date":"2013-11-01 22:50:30"
+},
+{
+"kids":[
+"AgLCh5jIb"
+],
+"uid":"521497899",
+"parent":"AgLpm1Sg8",
+"text":"哇哇哇广东新闻台[得意地笑]",
+"mid":"AgLwIxtFh",
+"date":"2013-11-01 22:50:22"
+},
+{
+"kids":[],
+"uid":"2142351921",
+"parent":"AgLw8a7It",
+"text":"",
+"mid":"AgLwHm5yM",
+"date":"2013-11-01 22:50:19"
+},
+{
+"kids":[],
+"uid":"1920758022",
+"parent":"",
+"text":"",
+"mid":"AgLwE54qV",
+"date":"2013-11-01 22:50:11"
+},
+{
+"kids":[
+"AgLOqzCz3",
+"AgLzBysZT"
+],
+"uid":"3211320617",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLwxyMgE",
+"date":"2013-11-01 22:49:57"
+},
+{
+"kids":[],
+"uid":"3213479453",
+"parent":"",
+"text":"",
+"mid":"AgLwhlBOn",
+"date":"2013-11-01 22:49:15"
+},
+{
+"kids":[],
+"uid":"3491224027",
+"parent":"",
+"text":"",
+"mid":"AgLwgqsIx",
+"date":"2013-11-01 22:49:15"
+},
+{
+"kids":[
+"AgPNqqmV5",
+"AgPmw8R5J",
+"AgPfqnOEG",
+"AgPdjwVmh",
+"AgMtGn3Tv",
+"AgLDl0kYJ",
+"AgLzKsMVb",
+"AgLzsb5pG"
+],
+"uid":"2030505511",
+"parent":"AgLv86IAW",
+"text":"",
+"mid":"AgLw9kXYs",
+"date":"2013-11-01 22:48:59"
+},
+{
+"kids":[],
+"uid":"1650591345",
+"parent":"",
+"text":"",
+"mid":"AgLw8rIXx",
+"date":"2013-11-01 22:48:57"
+},
+{
+"kids":[
+"AgLx72H5y",
+"AgLwHm5yM"
+],
+"uid":"1959398915",
+"parent":"",
+"text":"",
+"mid":"AgLw8a7It",
+"date":"2013-11-01 22:48:55"
+},
+{
+"kids":[],
+"uid":"3630865610",
+"parent":"AgLrCmbNa",
+"text":"",
+"mid":"AgLw1pFv0",
+"date":"2013-11-01 22:48:37"
+},
+{
+"kids":[],
+"uid":"3168345470",
+"parent":"",
+"text":"",
+"mid":"AgLvXe3V0",
+"date":"2013-11-01 22:48:29"
+},
+{
+"kids":[],
+"uid":"3221048807",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLvKyPYc",
+"date":"2013-11-01 22:47:59"
+},
+{
+"kids":[
+"AgPWgzx6m"
+],
+"uid":"1995596545",
+"parent":"",
+"text":"",
+"mid":"AgLvHgAyc",
+"date":"2013-11-01 22:47:51"
+},
+{
+"kids":[],
+"uid":"linaiwei17",
+"parent":"AgLpe2s7Z",
+"text":"",
+"mid":"AgLvEkTcd",
+"date":"2013-11-01 22:47:44"
+},
+{
+"kids":[],
+"uid":"3756355705",
+"parent":"",
+"text":"",
+"mid":"AgLvD9ZZy",
+"date":"2013-11-01 22:47:40"
+},
+{
+"kids":[],
+"uid":"2295416970",
+"parent":"",
+"text":"[爱你]",
+"mid":"AgLvh1g4v",
+"date":"2013-11-01 22:46:49"
+},
+{
+"kids":[],
+"uid":"3040609735",
+"parent":"",
+"text":"",
+"mid":"AgLvdsP00",
+"date":"2013-11-01 22:46:39"
+},
+{
+"kids":[
+"AgPNqqmV5",
+"AgPmw8R5J",
+"AgPfqnOEG",
+"AgPdjwVmh",
+"AgMtGn3Tv",
+"AgLDl0kYJ",
+"AgLzKsMVb",
+"AgLzsb5pG",
+"AgLw9kXYs"
+],
+"uid":"2291860623",
+"parent":"AgLnWdIk9",
+"text":"",
+"mid":"AgLv86IAW",
+"date":"2013-11-01 22:46:27"
+},
+{
+"kids":[],
+"uid":"by8023jasonzhang",
+"parent":"",
+"text":"",
+"mid":"AgLuCbLSo",
+"date":"2013-11-01 22:45:09"
+},
+{
+"kids":[],
+"uid":"1838755372",
+"parent":"AgLr8wMhw",
+"text":"",
+"mid":"AgLuz0JyP",
+"date":"2013-11-01 22:45:00"
+},
+{
+"kids":[],
+"uid":"1974155253",
+"parent":"AgLr0gnhD",
+"text":"",
+"mid":"AgLu0FndR",
+"date":"2013-11-01 22:43:40"
+},
+{
+"kids":[
+"AgPcbbREc"
+],
+"uid":"2325255143",
+"parent":"",
+"text":"",
+"mid":"AgLu0nM1U",
+"date":"2013-11-01 22:43:40"
+},
+{
+"kids":[],
+"uid":"1827298553",
+"parent":"",
+"text":"亲切的粤语[爱你]",
+"mid":"AgLtYk3Ae",
+"date":"2013-11-01 22:43:36"
+},
+{
+"kids":[],
+"uid":"3205841743",
+"parent":"",
+"text":"",
+"mid":"AgLtLB91C",
+"date":"2013-11-01 22:43:04"
+},
+{
+"kids":[],
+"uid":"2090458047",
+"parent":"AgLlz4UUP",
+"text":"",
+"mid":"AgLtKa3P6",
+"date":"2013-11-01 22:43:00"
+},
+{
+"kids":[],
+"uid":"lanxingjie",
+"parent":"",
+"text":"",
+"mid":"AgLtH9LSn",
+"date":"2013-11-01 22:42:54"
+},
+{
+"kids":[],
+"uid":"hechunhong",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLtH9LRJ",
+"date":"2013-11-01 22:42:53"
+},
+{
+"kids":[],
+"uid":"2076323525",
+"parent":"",
+"text":"粤语呢，",
+"mid":"AgLtqmrjL",
+"date":"2013-11-01 22:42:14"
+},
+{
+"kids":[],
+"uid":"2794766757",
+"parent":"",
+"text":"",
+"mid":"AgLtjxVct",
+"date":"2013-11-01 22:42:00"
+},
+{
+"kids":[],
+"uid":"1548627157",
+"parent":"",
+"text":"",
+"mid":"AgLtjfaEo",
+"date":"2013-11-01 22:41:56"
+},
+{
+"kids":[],
+"uid":"2423727130",
+"parent":"",
+"text":"",
+"mid":"AgLt0CZ1i",
+"date":"2013-11-01 22:41:12"
+},
+{
+"kids":[],
+"uid":"1717356280",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLsQz9xZ",
+"date":"2013-11-01 22:40:49"
+},
+{
+"kids":[
+"AgMlyfPnP"
+],
+"uid":"3179205774",
+"parent":"AgLpm1Sg8",
+"text":"好傲娇啊",
+"mid":"AgLsQhyhZ",
+"date":"2013-11-01 22:40:49"
+},
+{
+"kids":[
+"AgLO99Bf1"
+],
+"uid":"12207256",
+"parent":"AgLpZiAtd",
+"text":"",
+"mid":"AgLsHavFZ",
+"date":"2013-11-01 22:40:26"
+},
+{
+"kids":[],
+"uid":"2915030657",
+"parent":"",
+"text":"",
+"mid":"AgLsGedfP",
+"date":"2013-11-01 22:40:25"
+},
+{
+"kids":[],
+"uid":"3239661295",
+"parent":"AgLlTazCk",
+"text":"",
+"mid":"AgLsF3Tak",
+"date":"2013-11-01 22:40:22"
+},
+{
+"kids":[],
+"uid":"hyffeifei",
+"parent":"AgLlQuQxe",
+"text":"粤语＄＆♀＊€/#@~[晕]",
+"mid":"AgLsvAgHj",
+"date":"2013-11-01 22:40:00"
+},
+{
+"kids":[],
+"uid":"3208820425",
+"parent":"",
+"text":"",
+"mid":"AgLsu7Pf9",
+"date":"2013-11-01 22:39:54"
+},
+{
+"kids":[],
+"uid":"3242939455",
+"parent":"",
+"text":"",
+"mid":"AgLscFt3L",
+"date":"2013-11-01 22:39:15"
+},
+{
+"kids":[],
+"uid":"1725170413",
+"parent":"AgLrtsLBS",
+"text":"",
+"mid":"AgLs7msl4",
+"date":"2013-11-01 22:39:02"
+},
+{
+"kids":[],
+"uid":"2727193397",
+"parent":"",
+"text":"",
+"mid":"AgLs74R7f",
+"date":"2013-11-01 22:39:01"
+},
+{
+"kids":[],
+"uid":"2654020880",
+"parent":"",
+"text":"",
+"mid":"AgLs1rNLJ",
+"date":"2013-11-01 22:38:48"
+},
+{
+"kids":[],
+"uid":"517404568",
+"parent":"",
+"text":"",
+"mid":"AgLrX1vj2",
+"date":"2013-11-01 22:38:37"
+},
+{
+"kids":[
+"AgZEAyUb7",
+"AgYbd7VGj",
+"AgVr9m1Lo",
+"AgUpS8AYZ",
+"AgUdovXsD",
+"AgU8BfIJr",
+"AgTwg1d4b",
+"AgSYslZzI",
+"AgR7UcNdh",
+"AgQWgDF3b",
+"AgQPSF9oR",
+"AgQl2zHk2",
+"AgQf7fpVH",
+"AgQdG1R1k",
+"AgPwuA3ma",
+"AgPvLodVz",
+"AgOHCdwAV",
+"AgNLdgsqm",
+"AgMd7uqiQ",
+"AgM1Cudj1",
+"AgLYLdUmU",
+"AgLXP2n9t",
+"AgLO1spRR",
+"AgLLZ0aqn",
+"AgLK31hFJ",
+"AgLGFvP9f",
+"AgLECbbwf",
+"AgLDNEakh",
+"AgLBAux7p",
+"AgLAFu5GC",
+"AgLyjv2EP",
+"AgLy0AfzE",
+"AgLxU6oOa",
+"AgLxEruls",
+"AgLxnChGx"
+],
+"uid":"333472021",
+"parent":"",
+"text":"粤语新闻呢。。[亲亲][嘻嘻]",
+"mid":"AgLrWsA0c",
+"date":"2013-11-01 22:38:35"
+},
+{
+"kids":[],
+"uid":"1758102761",
+"parent":"",
+"text":"",
+"mid":"AgLrVzkuN",
+"date":"2013-11-01 22:38:31"
+},
+{
+"kids":[
+"AgUCmijY2"
+],
+"uid":"1496998797",
+"parent":"",
+"text":"",
+"mid":"AgLrTbsOJ",
+"date":"2013-11-01 22:38:28"
+},
+{
+"kids":[],
+"uid":"doudouirene",
+"parent":"",
+"text":"",
+"mid":"AgLrQvcRv",
+"date":"2013-11-01 22:38:22"
+},
+{
+"kids":[],
+"uid":"2964793377",
+"parent":"",
+"text":"",
+"mid":"AgLrOcb4k",
+"date":"2013-11-01 22:38:17"
+},
+{
+"kids":[],
+"uid":"2543727564",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLrMpGfr",
+"date":"2013-11-01 22:38:13"
+},
+{
+"kids":[],
+"uid":"3315932962",
+"parent":"",
+"text":"",
+"mid":"AgLrMnzm1",
+"date":"2013-11-01 22:38:12"
+},
+{
+"kids":[],
+"uid":"2729163315",
+"parent":"",
+"text":"[抱抱]",
+"mid":"AgLrIeRKw",
+"date":"2013-11-01 22:38:02"
+},
+{
+"kids":[],
+"uid":"1775790635",
+"parent":"",
+"text":"",
+"mid":"AgLrGsnMO",
+"date":"2013-11-01 22:37:58"
+},
+{
+"kids":[],
+"uid":"2174257605",
+"parent":"",
+"text":"",
+"mid":"AgLrEqhUC",
+"date":"2013-11-01 22:37:52"
+},
+{
+"kids":[
+"AgLw1pFv0"
+],
+"uid":"2917714505",
+"parent":"AgLlz4UUP",
+"text":"",
+"mid":"AgLrCmbNa",
+"date":"2013-11-01 22:37:48"
+},
+{
+"kids":[
+"AgPpCr8Yx"
+],
+"uid":"1776926013",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLrB9mZO",
+"date":"2013-11-01 22:37:45"
+},
+{
+"kids":[],
+"uid":"540286456",
+"parent":"",
+"text":"",
+"mid":"AgLrAygls",
+"date":"2013-11-01 22:37:44"
+},
+{
+"kids":[],
+"uid":"1738867155",
+"parent":"",
+"text":"",
+"mid":"AgLrx1csz",
+"date":"2013-11-01 22:37:36"
+},
+{
+"kids":[
+"AgLs7msl4"
+],
+"uid":"3575149873",
+"parent":"AgLpm1Sg8",
+"text":"",
+"mid":"AgLrtsLBS",
+"date":"2013-11-01 22:37:25"
+},
+{
+"kids":[
+"AgMiLFiE7",
+"AgLwMFFPX"
+],
+"uid":"1799646757",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLrqdQ1F",
+"date":"2013-11-01 22:37:18"
+},
+{
+"kids":[
+"AgQGXfZmB"
+],
+"uid":"2010685981",
+"parent":"",
+"text":"",
+"mid":"AgLrpFe7D",
+"date":"2013-11-01 22:37:18"
+},
+{
+"kids":[],
+"uid":"3566622274",
+"parent":"",
+"text":"#十年，我在这##爱，不解释#",
+"mid":"AgLrltuoV",
+"date":"2013-11-01 22:37:06"
+},
+{
+"kids":[],
+"uid":"2872854045",
+"parent":"AgLqFykuz",
+"text":"",
+"mid":"AgLrlcqv9",
+"date":"2013-11-01 22:37:06"
+},
+{
+"kids":[],
+"uid":"1679785995",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLrjppb5",
+"date":"2013-11-01 22:37:04"
+},
+{
+"kids":[
+"AgPCHAOTQ"
+],
+"uid":"2644307441",
+"parent":"",
+"text":"",
+"mid":"AgLrhCV8w",
+"date":"2013-11-01 22:36:59"
+},
+{
+"kids":[],
+"uid":"1724443977",
+"parent":"",
+"text":"",
+"mid":"AgLrenZAk",
+"date":"2013-11-01 22:36:50"
+},
+{
+"kids":[
+"AgLQxcqxl",
+"AgLBu0Fu5"
+],
+"uid":"1960358957",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLrcDhNE",
+"date":"2013-11-01 22:36:45"
+},
+{
+"kids":[],
+"uid":"1851365294",
+"parent":"AgLr22S3N",
+"text":"收",
+"mid":"AgLrbu7Ue",
+"date":"2013-11-01 22:36:44"
+},
+{
+"kids":[
+"AgLuz0JyP"
+],
+"uid":"122056926",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLr8wMhw",
+"date":"2013-11-01 22:36:35"
+},
+{
+"kids":[
+"AgLrbu7Ue"
+],
+"uid":"1787293813",
+"parent":"",
+"text":"什么内容？[求关注]",
+"mid":"AgLr22S3N",
+"date":"2013-11-01 22:36:19"
+},
+{
+"kids":[],
+"uid":"1801807811",
+"parent":"",
+"text":"",
+"mid":"AgLr1nQb0",
+"date":"2013-11-01 22:36:19"
+},
+{
+"kids":[],
+"uid":"1791477931",
+"parent":"",
+"text":"",
+"mid":"AgLr0gnmo",
+"date":"2013-11-01 22:36:17"
+},
+{
+"kids":[
+"AgLNvxh5n",
+"AgLEPalzc",
+"AgLAj4cxm",
+"AgLu0FndR"
+],
+"uid":"206066376",
+"parent":"",
+"text":"",
+"mid":"AgLr0gnhD",
+"date":"2013-11-01 22:36:14"
+},
+{
+"kids":[],
+"uid":"2037001910",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLqZkivO",
+"date":"2013-11-01 22:36:14"
+},
+{
+"kids":[],
+"uid":"3178955454",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLqQv4WP",
+"date":"2013-11-01 22:35:52"
+},
+{
+"kids":[],
+"uid":"2953495622",
+"parent":"",
+"text":"",
+"mid":"AgLqQdtkx",
+"date":"2013-11-01 22:35:51"
+},
+{
+"kids":[],
+"uid":"2144807343",
+"parent":"",
+"text":"",
+"mid":"AgLqNx8iy",
+"date":"2013-11-01 22:35:47"
+},
+{
+"kids":[],
+"uid":"2330461864",
+"parent":"",
+"text":"用粤语讲新闻真的亲切好多[鼓掌]这个台应该只有我们这边才有吧",
+"mid":"AgLqK0zM4",
+"date":"2013-11-01 22:35:36"
+},
+{
+"kids":[],
+"uid":"1793045275",
+"parent":"AgLpe2s7Z",
+"text":"",
+"mid":"AgLqH3e63",
+"date":"2013-11-01 22:35:31"
+},
+{
+"kids":[
+"AgLrlcqv9"
+],
+"uid":"3034613404",
+"parent":"",
+"text":"哎呦~粤语新闻呢~[围观]",
+"mid":"AgLqFykuz",
+"date":"2013-11-01 22:35:28"
+},
+{
+"kids":[],
+"uid":"1732584022",
+"parent":"",
+"text":"",
+"mid":"AgLqFfKLi",
+"date":"2013-11-01 22:35:25"
+},
+{
+"kids":[],
+"uid":"1792917494",
+"parent":"",
+"text":"",
+"mid":"AgLqFe6xO",
+"date":"2013-11-01 22:35:27"
+},
+{
+"kids":[
+"AgTW465Tt",
+"AgTGKodkL",
+"AgPIMl9UE",
+"AgLCFjldg",
+"AgLAisyzd",
+"AgLywx2Lm"
+],
+"uid":"072zhangjie19821220",
+"parent":"",
+"text":"宝贝，记者不会是用粤语采访你的吧？[偷笑]",
+"mid":"AgLqCBzKB",
+"date":"2013-11-01 22:35:21"
+},
+{
+"kids":[],
+"uid":"AzusaL",
+"parent":"",
+"text":"",
+"mid":"AgLqCiqui",
+"date":"2013-11-01 22:35:20"
+},
+{
+"kids":[],
+"uid":"zhuziqi2013",
+"parent":"",
+"text":"",
+"mid":"AgLqC2mXZ",
+"date":"2013-11-01 22:35:19"
+},
+{
+"kids":[],
+"uid":"1890919241",
+"parent":"",
+"text":"",
+"mid":"AgLqyrRcf",
+"date":"2013-11-01 22:35:11"
+},
+{
+"kids":[],
+"uid":"2627049043",
+"parent":"",
+"text":"",
+"mid":"AgLqw7Fpr",
+"date":"2013-11-01 22:35:05"
+},
+{
+"kids":[],
+"uid":"3154215402",
+"parent":"",
+"text":"",
+"mid":"AgLqvuwSp",
+"date":"2013-11-01 22:35:03"
+},
+{
+"kids":[],
+"uid":"1713055034",
+"parent":"",
+"text":"",
+"mid":"AgLqvcVJZ",
+"date":"2013-11-01 22:35:03"
+},
+{
+"kids":[],
+"uid":"3497737722",
+"parent":"",
+"text":"",
+"mid":"AgLqtrk9t",
+"date":"2013-11-01 22:34:57"
+},
+{
+"kids":[],
+"uid":"2519981597",
+"parent":"",
+"text":"#爱，不解释#",
+"mid":"AgLqrCjfD",
+"date":"2013-11-01 22:34:54"
+},
+{
+"kids":[],
+"uid":"kektao",
+"parent":"AgLpZiAtd",
+"text":"",
+"mid":"AgLqr6deU",
+"date":"2013-11-01 22:34:51"
+},
+{
+"kids":[],
+"uid":"2448239244",
+"parent":"",
+"text":"",
+"mid":"AgLqpjIrV",
+"date":"2013-11-01 22:34:50"
+},
+{
+"kids":[],
+"uid":"1729063530",
+"parent":"AgLnWdIk9",
+"text":"",
+"mid":"AgLqhzuga",
+"date":"2013-11-01 22:34:31"
+},
+{
+"kids":[],
+"uid":"2657069564",
+"parent":"",
+"text":"",
+"mid":"AgLqh3jnv",
+"date":"2013-11-01 22:34:29"
+},
+{
+"kids":[],
+"uid":"2548254054",
+"parent":"AgLmGxbYz",
+"text":"",
+"mid":"AgLqg9sOx",
+"date":"2013-11-01 22:34:24"
+},
+{
+"kids":[],
+"uid":"2356164955",
+"parent":"",
+"text":"[xkl转圈]",
+"mid":"AgLqemdc0",
+"date":"2013-11-01 22:34:22"
+},
+{
+"kids":[],
+"uid":"1725681621",
+"parent":"",
+"text":"",
+"mid":"AgLqcy4FX",
+"date":"2013-11-01 22:34:19"
+},
+{
+"kids":[],
+"uid":"2872956365",
+"parent":"AgLpZiAtd",
+"text":"",
+"mid":"AgLq6DpSU",
+"date":"2013-11-01 22:34:05"
+},
+{
+"kids":[],
+"uid":"1856718740",
+"parent":"AgLpZiAtd",
+"text":"",
+"mid":"AgLq4k2ZJ",
+"date":"2013-11-01 22:33:58"
+},
+{
+"kids":[],
+"uid":"3124606640",
+"parent":"",
+"text":"",
+"mid":"AgLq2xxTf",
+"date":"2013-11-01 22:33:55"
+},
+{
+"kids":[
+"AgLO99Bf1",
+"AgLsHavFZ",
+"AgLqr6deU",
+"AgLq6DpSU",
+"AgLq4k2ZJ"
+],
+"uid":"ngchingyee0430",
+"parent":"",
+"text":"[心]",
+"mid":"AgLpZiAtd",
+"date":"2013-11-01 22:33:46"
+},
+{
+"kids":[],
+"uid":"2068548885",
+"parent":"",
+"text":"",
+"mid":"AgLpW1nAd",
+"date":"2013-11-01 22:33:38"
+},
+{
+"kids":[],
+"uid":"2994220754",
+"parent":"",
+"text":"",
+"mid":"AgLpUAr9M",
+"date":"2013-11-01 22:33:36"
+},
+{
+"kids":[],
+"uid":"1778284815",
+"parent":"",
+"text":"",
+"mid":"AgLpUgyqu",
+"date":"2013-11-01 22:33:33"
+},
+{
+"kids":[],
+"uid":"3229835813",
+"parent":"",
+"text":"",
+"mid":"AgLpOlTD8",
+"date":"2013-11-01 22:33:22"
+},
+{
+"kids":[],
+"uid":"1768557730",
+"parent":"AgLo1gTkY",
+"text":"",
+"mid":"AgLpO6w33",
+"date":"2013-11-01 22:33:18"
+},
+{
+"kids":[
+"AgLJspaoP"
+],
+"uid":"2330461864",
+"parent":"",
+"text":"",
+"mid":"AgLpyoNa2",
+"date":"2013-11-01 22:32:41"
+},
+{
+"kids":[],
+"uid":"3847709060",
+"parent":"",
+"text":"帅！[爱你][爱你][爱你]@傲慢的星星一族",
+"mid":"AgLpxdz1y",
+"date":"2013-11-01 22:32:40"
+},
+{
+"kids":[
+"AgQ8zwLRZ",
+"AgPIlaQx2",
+"AgOKUF4qf",
+"AgMlyfPnP",
+"AgLCh5jIb",
+"AgLzIFukz",
+"AgLwIxtFh",
+"AgLsQhyhZ",
+"AgLs7msl4",
+"AgLrtsLBS"
+],
+"uid":"110926345",
+"parent":"",
+"text":"粤语新闻[鼓掌]听到用粤语讲张杰的名字，有种莫名的熟悉感，因为我平时就是用粤语叫张杰的名字[亲亲]",
+"mid":"AgLpm1Sg8",
+"date":"2013-11-01 22:32:11"
+},
+{
+"kids":[],
+"uid":"2290475483",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLpl8CPr",
+"date":"2013-11-01 22:32:12"
+},
+{
+"kids":[],
+"uid":"3477851223",
+"parent":"",
+"text":"",
+"mid":"AgLpl80Qp",
+"date":"2013-11-01 22:32:11"
+},
+{
+"kids":[
+"AgQdinXVT"
+],
+"uid":"jiaojiexingkong",
+"parent":"",
+"text":"",
+"mid":"AgLpkwYR0",
+"date":"2013-11-01 22:32:10"
+},
+{
+"kids":[],
+"uid":"3368547550",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLpjm7Jr",
+"date":"2013-11-01 22:32:07"
+},
+{
+"kids":[
+"AgLvEkTcd",
+"AgLqH3e63"
+],
+"uid":"uc214811612",
+"parent":"",
+"text":"",
+"mid":"AgLpe2s7Z",
+"date":"2013-11-01 22:31:54"
+},
+{
+"kids":[],
+"uid":"2853951551",
+"parent":"",
+"text":"",
+"mid":"AgLp2tqYR",
+"date":"2013-11-01 22:31:27"
+},
+{
+"kids":[],
+"uid":"1847018702",
+"parent":"",
+"text":"",
+"mid":"AgLoYEEsS",
+"date":"2013-11-01 22:31:18"
+},
+{
+"kids":[],
+"uid":"2318600107",
+"parent":"",
+"text":"",
+"mid":"AgLoYmqFw",
+"date":"2013-11-01 22:31:15"
+},
+{
+"kids":[],
+"uid":"1381054143",
+"parent":"",
+"text":"真好，说好的要在今年去看你的演唱会的。。。可是为啥会那么远呢！[泪]我还是坐以待毙吧。。。。[泪]",
+"mid":"AgLoT1F9g",
+"date":"2013-11-01 22:31:04"
+},
+{
+"kids":[],
+"uid":"2011336031",
+"parent":"",
+"text":"[ppb鼓掌]普通话习惯了，该练练粤语不",
+"mid":"AgLoJjM7g",
+"date":"2013-11-01 22:30:39"
+},
+{
+"kids":[],
+"uid":"2061737972",
+"parent":"",
+"text":"",
+"mid":"AgLoG4OEd",
+"date":"2013-11-01 22:30:31"
+},
+{
+"kids":[],
+"uid":"3861478974",
+"parent":"",
+"text":"",
+"mid":"AgLoEycmj",
+"date":"2013-11-01 22:30:28"
+},
+{
+"kids":[],
+"uid":"208272767",
+"parent":"",
+"text":"#张杰1130广州演唱会# 粤语新闻啊[酷]",
+"mid":"AgLoDp48p",
+"date":"2013-11-01 22:30:26"
+},
+{
+"kids":[
+"AgMWHjdAf"
+],
+"uid":"1735747513",
+"parent":"",
+"text":"",
+"mid":"AgLoykWuL",
+"date":"2013-11-01 22:30:15"
+},
+{
+"kids":[],
+"uid":"3158316435",
+"parent":"",
+"text":"真是烦哟今晚 那谁还不开始售票[怒] 才想起我一个人去广州迷路了杂办[泪]想到一个人真不想去了[泪流满面]",
+"mid":"AgLojAQGb",
+"date":"2013-11-01 22:29:40"
+},
+{
+"kids":[],
+"uid":"2128609085",
+"parent":"AgLn8gyzb",
+"text":"",
+"mid":"AgLoiF3De",
+"date":"2013-11-01 22:29:37"
+},
+{
+"kids":[],
+"uid":"2968239513",
+"parent":"AgLlTazCk",
+"text":"",
+"mid":"AgLod4rmh",
+"date":"2013-11-01 22:29:23"
+},
+{
+"kids":[],
+"uid":"2692971054",
+"parent":"",
+"text":"是《新闻最前线》吗？真心",
+"mid":"AgLo6y8W7",
+"date":"2013-11-01 22:29:09"
+},
+{
+"kids":[],
+"uid":"1765291985",
+"parent":"",
+"text":"",
+"mid":"AgLo2pYed",
+"date":"2013-11-01 22:28:56"
+},
+{
+"kids":[
+"AgLpO6w33"
+],
+"uid":"wengyiran",
+"parent":"AgLlQuQxe",
+"text":"广州也是粤语，算[酷]",
+"mid":"AgLo1gTkY",
+"date":"2013-11-01 22:28:56"
+},
+{
+"kids":[
+"AgPNqqmV5",
+"AgPmw8R5J",
+"AgPfqnOEG",
+"AgPdjwVmh",
+"AgMtGn3Tv",
+"AgLDl0kYJ",
+"AgLzKsMVb",
+"AgLzsb5pG",
+"AgLw9kXYs",
+"AgLv86IAW",
+"AgLqhzuga"
+],
+"uid":"2694145291",
+"parent":"",
+"text":"",
+"mid":"AgLnWdIk9",
+"date":"2013-11-01 22:28:44"
+},
+{
+"kids":[],
+"uid":"2136853941",
+"parent":"",
+"text":"",
+"mid":"AgLnS5xE9",
+"date":"2013-11-01 22:28:32"
+},
+{
+"kids":[],
+"uid":"2396831395",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLnQlmRz",
+"date":"2013-11-01 22:28:28"
+},
+{
+"kids":[],
+"uid":"3178257257",
+"parent":"",
+"text":"",
+"mid":"AgLnweTYT",
+"date":"2013-11-01 22:27:39"
+},
+{
+"kids":[],
+"uid":"2465383950",
+"parent":"",
+"text":"",
+"mid":"AgLndjVGu",
+"date":"2013-11-01 22:26:57"
+},
+{
+"kids":[],
+"uid":"1934282467",
+"parent":"",
+"text":"",
+"mid":"AgLnd0Z2B",
+"date":"2013-11-01 22:26:56"
+},
+{
+"kids":[
+"AgPG7sBLR",
+"AgLoiF3De"
+],
+"uid":"207081220",
+"parent":"",
+"text":"我好像很久没看他的娱乐新闻视频了[挖鼻屎]晚安，睡觉去。生不生随你。[懒得理你]",
+"mid":"AgLn8gyzb",
+"date":"2013-11-01 22:26:42"
+},
+{
+"kids":[],
+"uid":"xuetongaijie",
+"parent":"",
+"text":"",
+"mid":"AgLn82CaS",
+"date":"2013-11-01 22:26:42"
+},
+{
+"kids":[],
+"uid":"3223474797",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLn5APtF",
+"date":"2013-11-01 22:26:40"
+},
+{
+"kids":[
+"AgP2DkxSc",
+"AgLOV2M55",
+"AgLHngSC1"
+],
+"uid":"2632782055",
+"parent":"",
+"text":"[威武]",
+"mid":"AgLn2E7eE",
+"date":"2013-11-01 22:26:32"
+},
+{
+"kids":[
+"AgNMbwpRm",
+"AgMooo5O5",
+"AgMaUqgUL",
+"AgLXOF2jH",
+"AgLOxCALj"
+],
+"uid":"520122098",
+"parent":"",
+"text":"粤语新闻[可爱]",
+"mid":"AgLn1tgVd",
+"date":"2013-11-01 22:26:29"
+},
+{
+"kids":[],
+"uid":"xiaijiena",
+"parent":"",
+"text":"",
+"mid":"AgLmRtlOL",
+"date":"2013-11-01 22:26:05"
+},
+{
+"kids":[],
+"uid":"2783979045",
+"parent":"",
+"text":"",
+"mid":"AgLmQymcT",
+"date":"2013-11-01 22:26:04"
+},
+{
+"kids":[],
+"uid":"3524722181",
+"parent":"",
+"text":"",
+"mid":"AgLmOudsb",
+"date":"2013-11-01 22:25:57"
+},
+{
+"kids":[],
+"uid":"1434529717",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLmJbcwD",
+"date":"2013-11-01 22:25:44"
+},
+{
+"kids":[
+"AgLqg9sOx"
+],
+"uid":"319998521",
+"parent":"",
+"text":"",
+"mid":"AgLmGxbYz",
+"date":"2013-11-01 22:25:39"
+},
+{
+"kids":[],
+"uid":"1770347887",
+"parent":"",
+"text":"",
+"mid":"AgLmC5Hro",
+"date":"2013-11-01 22:25:28"
+},
+{
+"kids":[],
+"uid":"209262012",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLmA1C6H",
+"date":"2013-11-01 22:25:23"
+},
+{
+"kids":[],
+"uid":"1763932002",
+"parent":"",
+"text":"",
+"mid":"AgLmtdIoe",
+"date":"2013-11-01 22:25:07"
+},
+{
+"kids":[],
+"uid":"3198346043",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLms2S5n",
+"date":"2013-11-01 22:25:02"
+},
+{
+"kids":[],
+"uid":"lovejason19940910",
+"parent":"",
+"text":"",
+"mid":"AgLmm8dnU",
+"date":"2013-11-01 22:24:51"
+},
+{
+"kids":[],
+"uid":"3374801494",
+"parent":"",
+"text":"",
+"mid":"AgLmldf9y",
+"date":"2013-11-01 22:24:48"
+},
+{
+"kids":[],
+"uid":"337076060",
+"parent":"",
+"text":"",
+"mid":"AgLmgbPtR",
+"date":"2013-11-01 22:24:36"
+},
+{
+"kids":[],
+"uid":"3873231708",
+"parent":"AgLlWqaS6",
+"text":"",
+"mid":"AgLme9toM",
+"date":"2013-11-01 22:24:29"
+},
+{
+"kids":[],
+"uid":"2289017811",
+"parent":"AgLlTazCk",
+"text":"",
+"mid":"AgLmc6ciS",
+"date":"2013-11-01 22:24:27"
+},
+{
+"kids":[
+"AkXAcD51o"
+],
+"uid":"1843527432",
+"parent":"AgLlQuQxe",
+"text":"",
+"mid":"AgLmaBiwr",
+"date":"2013-11-01 22:24:23"
+},
+{
+"kids":[],
+"uid":"3269461245",
+"parent":"",
+"text":"[威武]",
+"mid":"AgLm9pEVA",
+"date":"2013-11-01 22:24:20"
+},
+{
+"kids":[
+"AgLme9toM"
+],
+"uid":"3191884203",
+"parent":"AgLlz4UUP",
+"text":"",
+"mid":"AgLlWqaS6",
+"date":"2013-11-01 22:23:49"
+},
+{
+"kids":[],
+"uid":"2604437217",
+"parent":"",
+"text":"",
+"mid":"AgLlVeEX6",
+"date":"2013-11-01 22:23:44"
+},
+{
+"kids":[],
+"uid":"2012827167",
+"parent":"AgLlz4UUP",
+"text":"",
+"mid":"AgLlUlpYu",
+"date":"2013-11-01 22:23:45"
+},
+{
+"kids":[
+"AgLsF3Tak",
+"AgLod4rmh",
+"AgLmc6ciS"
+],
+"uid":"vsxintian",
+"parent":"",
+"text":"",
+"mid":"AgLlTazCk",
+"date":"2013-11-01 22:23:41"
+},
+{
+"kids":[
+"AkXAcD51o",
+"Ah3dXBTu7",
+"Ah2l8ebx4",
+"AgU9SpaSD",
+"AgU8zdz80",
+"AgRCA21ze",
+"AgPpCr8Yx",
+"AgOK8fbLb",
+"AgMHaBiJC",
+"AgMiLFiE7",
+"AgLX8sJC0",
+"AgLWNalZ9",
+"AgLVi5hKF",
+"AgLQxcqxl",
+"AgLOqzCz3",
+"AgLNlsiFw",
+"AgLMw7Jnc",
+"AgLLyEliN",
+"AgLJQAkhd",
+"AgLG7fZVv",
+"AgLFt5Utz",
+"AgLEG2em6",
+"AgLCBujld",
+"AgLC8ePOU",
+"AgLBXwqNr",
+"AgLBu0Fu5",
+"AgLzBysZT",
+"AgLwMFFPX",
+"AgLwxyMgE",
+"AgLvKyPYc",
+"AgLuz0JyP",
+"AgLtH9LRJ",
+"AgLsQz9xZ",
+"AgLsvAgHj",
+"AgLrMpGfr",
+"AgLrB9mZO",
+"AgLrqdQ1F",
+"AgLrjppb5",
+"AgLrcDhNE",
+"AgLr8wMhw",
+"AgLqZkivO",
+"AgLqQv4WP",
+"AgLpO6w33",
+"AgLpl8CPr",
+"AgLpjm7Jr",
+"AgLo1gTkY",
+"AgLnQlmRz",
+"AgLn5APtF",
+"AgLmJbcwD",
+"AgLmA1C6H",
+"AgLms2S5n",
+"AgLmaBiwr"
+],
+"uid":"chaofanjnj",
+"parent":"",
+"text":"粤语新闻啊。。。[吃惊]",
+"mid":"AgLlQuQxe",
+"date":"2013-11-01 22:23:35"
+},
+{
+"kids":[],
+"uid":"3291810370",
+"parent":"",
+"text":"",
+"mid":"AgLlP2oUM",
+"date":"2013-11-01 22:23:31"
+},
+{
+"kids":[],
+"uid":"1642265362",
+"parent":"",
+"text":"[心]",
+"mid":"AgLlIwESO",
+"date":"2013-11-01 22:23:15"
+},
+{
+"kids":[],
+"uid":"3318653823",
+"parent":"",
+"text":"",
+"mid":"AgLlBoRv2",
+"date":"2013-11-01 22:22:57"
+},
+{
+"kids":[],
+"uid":"3182917330",
+"parent":"",
+"text":"",
+"mid":"AgLlAfL9u",
+"date":"2013-11-01 22:22:56"
+},
+{
+"kids":[
+"Aj1Pb7Hbw",
+"AgUQQiZeb",
+"AgRWt84ka",
+"AgLyqClZ4",
+"AgLw1pFv0",
+"AgLtKa3P6",
+"AgLrCmbNa",
+"AgLme9toM",
+"AgLlWqaS6",
+"AgLlUlpYu"
+],
+"uid":"2319474682",
+"parent":"",
+"text":"[good]",
+"mid":"AgLlz4UUP",
+"date":"2013-11-01 22:22:54"
+},
+{
+"kids":[],
+"uid":"3030595673",
+"parent":"",
+"text":"[心]",
+"mid":"AgLlw82iT",
+"date":"2013-11-01 22:22:46"
+},
+{
+"kids":[],
+"uid":"1779009855",
+"parent":"",
+"text":"",
+"mid":"AgLluniDa",
+"date":"2013-11-01 22:22:40"
+},
+{
+"kids":[],
+"uid":"2616937817",
+"parent":"",
+"text":"",
+"mid":"AgLlpjGPD",
+"date":"2013-11-01 22:22:30"
+},
+{
+"kids":[],
+"uid":"1096519302",
+"parent":"",
+"text":"",
+"mid":"AgLlnvstY",
+"date":"2013-11-01 22:22:24"
+},
+{
+"kids":[],
+"uid":"1783412165",
+"parent":"",
+"text":"[爱你]",
+"mid":"AgLllvf6o",
+"date":"2013-11-01 22:22:19"
+},
+{
+"kids":[],
+"uid":"3290998811",
+"parent":"",
+"text":"",
+"mid":"AgLllbw9u",
+"date":"2013-11-01 22:22:20"
+},
+{
+"kids":[],
+"uid":"3238828693",
+"parent":"",
+"text":"轉發微博",
+"mid":"AgLlfysJ4",
+"date":"2013-11-01 22:22:08"
+},
+{
+"kids":[],
+"uid":"123980926",
+"parent":"",
+"text":"",
+"mid":"AgLlclA7E",
+"date":"2013-11-01 22:21:57"
+},
+{
+"kids":[],
+"uid":"3031408723",
+"parent":"",
+"text":"",
+"mid":"AgLlb8GL6",
+"date":"2013-11-01 22:21:56"
+},
+{
+"kids":[
+"AhDcy3FlH"
+],
+"uid":"2602902685",
+"parent":"",
+"text":"#爱，不解释#",
+"mid":"AgLl8ujgx",
+"date":"2013-11-01 22:21:48"
+},
+{
+"kids":[],
+"uid":"2992617092",
+"parent":"",
+"text":"",
+"mid":"AgLl8dnt1",
+"date":"2013-11-01 22:21:50"
+}
+]
